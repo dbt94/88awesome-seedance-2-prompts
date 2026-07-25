@@ -68,9 +68,9 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **5178** |
+| 📝 Total Prompts | **5209** |
 | ⭐ Featured Prompts | **6** |
-| 🔄 Last Updated | **2026-07-24** |
+| 🔄 Last Updated | **2026-07-25** |
 
 ---
 
@@ -365,6 +365,595 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 
 > 📝 Sorted by publish date (newest first)
 
+### Stadium Crowd Surge Live News Report
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed broadcast-style prompt for a live sports news report covering a chaotic stadium crowd surge incident at night.
+
+#### 📝 Prompt
+
+```
+BROADCAST TYPE: Live sports news report covering a crowd surge incident outside a packed stadium before a major match.
+
+ON-AIR REPORTER: Male journalist, late 20s. Team-branded jacket, wireless mic, slightly breathless from moving through crowd.
+
+LIVE BROADCAST TIME: 8:05 PM. Stadium floodlights blazing. Night sky, entrance gates visible with crowd pressure building.
+
+REPORT LOCATION: Stadium main entrance. Barricades bending under crowd weight. Security personnel pushing back fans. Ambulance on standby nearby.
+
+BROADCAST CAMERA: Shoulder-mounted camera weaving through the edge of the crowd. Frequent jostling causing minor frame shake. Quick pans between reporter and security line. Flood-light flares occasionally hitting lens.
+
+LIVE SEGMENTS:
+Opening: Reporter explains the overcrowding situation building at the gates.
+Update: Camera shows security reinforcing barricades as crowd pushes forward.
+Eyewitness Moment: A fan near the front briefly shouts about being unable to move.
+Situation Change: A barricade shifts, prompting sudden security response and whistle blows.
+Closing: Reporter signs off amid ongoing crowd control efforts, urging calm.
+
+LIVE AUDIO: Roaring crowd chants, whistles, security megaphone commands, reporter's urgent voice, no music.
+
+BROADCAST REALISM: Chaotic but authentic, crowd behaving unpredictably, security ignoring camera, reporter occasionally jostled mid-sentence, unscripted feel throughout.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080494365890535424/img/H0UWKakZ1MJqIALv.jpg" width="600" alt="Stadium Crowd Surge Live News Report">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7767)**
+
+**Author:** [𝐌](https://x.com/Strength04_X) | **Source:** [Link](https://x.com/Strength04_X/status/2080494784104616383) | **Published:** Jul 24, 2026
+
+---
+### Cinematic Anime Girl Manhole Rhythm Animation
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A highly detailed Japanese anime-style prompt for Seedance 2.0 featuring a young girl navigating a city where the floor opens up, stepping only on manhole covers to create a rhythmic soundscape.
+
+#### 📝 Prompt
+
+```
+[Protagonist] A 2nd-grade elementary school girl with a black bob cut.
+
+[Video Style]
+15 seconds. Japanese full-color anime. High-density 2D animation with a budget scale of 500 million yen. Meticulous background art, smooth in-betweening, and movie-quality cinematography. To ensure visual variety, the composition, camera angles, screen size, and character distance change attractively. No subtitles, no watermarks, no BGM. Environmental sounds included.
+
+[Video Composition] In a city where the black floor opens up like a mouth, the protagonist moves forward by stepping only on manhole covers. Each stepped-on spot glows for a moment, and the footsteps create a rhythm. Gaps are crossed with big jumps, and finally, she lands with both feet at her destination as the black floor closes.
+
+[The Unique Highlight (Must be included in Shots 5–7)] Each stepped-on manhole rings with a different pitch, and the sequence of landings forms a song.
+
+Shot 1 (Rule Hook): A shuttered shopping district. The protagonist's footsteps are heard only on manhole covers, not the ground. She concentrates on her feet with a serious expression.
+Shot 2 (Black Floor): The ground other than the manhole covers sinks into blackness, opening up where steps are missed. The protagonist looks down with a tense face.
+Shot 3 (Rhythm): She moves forward, stepping accurately on manhole covers. The spots glow momentarily, and the footsteps become a rhythm. Enjoyment gradually seeps into her expression.
+Shot 4 (Parallel Run): The camera runs alongside at ground level. Only the protagonist's shadow is running on the ground. Light footwork.
+Shot 5 (Gap): A section where manhole covers are interrupted. The protagonist takes a running start and jumps high. A serious face as she jumps with all her might, holding her breath.
+Shot 6 (Landing): She lands perfectly in the middle of the next manhole cover. The black floor ripples in frustration. The protagonist smirks defiantly.
+Shot 7 (Goal): Landing with both feet at the destination, the black floor closes back to normal. She says satisfyingly, "I decided the rules myself."
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075903971617918976/img/IVnK2VuSbFLyS-ag.jpg" width="600" alt="Cinematic Anime Girl Manhole Rhythm Animation">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7788)**
+
+**Author:** [妖精アーヤさん](https://x.com/aiehon_aya) | **Source:** [Link](https://x.com/aiehon_aya/status/2080412643056386471) | **Published:** Jul 23, 2026
+
+---
+### Water Slide to Haunted House Surprise
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A creative storyboard prompt for Seedance 2.0 where a fun water slide ride unexpectedly ends in a scary haunted house, focusing on the character's reaction.
+
+#### 📝 Prompt
+
+```
+Title: "The Worst Destination"
+Use the person in the reference image as the protagonist. The protagonist is an adult woman identical to the reference image. Faithfully maintain features like facial structure, hairstyle, hair color, body type, and expressions. Outfit is a simple and elegant bikini. Photoreal, movie quality, ultra-high definition, realistic water representation, cinematic lighting, natural character animation, 24fps, 15 seconds, 16:9.
+
+0–3 seconds
+Large water park. The protagonist is smiling at the start of a water slide. Waving to staff with high expectations, she begins sliding vigorously. The camera follows her from the front or diagonal front, focusing on her expression. Water splashes, hair blowing in the wind, dynamic camera work. Bright and fun summer atmosphere.
+
+3–9 seconds
+Switch to POV (first-person) perspective. Only the protagonist's extended legs are visible at the bottom of the screen. Sliding at high speed through a cylindrical water slide. No outside view, a completely enclosed tube. The water flows powerfully, banking heavily left and right. Blue and white lights flash by, creating a sense of speed. Water droplets on the camera, realistic sense of rushing. Finally, strong light shines from the exit.
+
+9–12 seconds
+The protagonist slides out into the interior of a full-scale haunted house. Corridors of an old Japanese house, broken furniture, swaying lights. She stands up but notices the anomaly while looking around. Then, ghostly or monster-like characters slowly appear from all sides, surrounding her. Her shoulders tremble as she backs away, her body freezing in fear. The camera shows the whole situation from a slightly pulled-back view.
+
+12–15 seconds
+The protagonist is in a panic. Shaking all over, she scuttles around looking for an exit. Ghosts slowly approach from behind, creating an eerie atmosphere without direct contact. With an expression as if she's about to scream, she desperately searches for an exit and runs out of frame. End.
+
+Visual Style
+• Photoreal movie quality
+• High-definition rendering of water, wet hair, and skin
+• Haunted house maintains a theme park attraction atmosphere with immersive direction
+• A tempo balancing thrill and comedy
+• Dynamic camera work
+• Ghosts are supernatural and eerie but avoid overly grotesque expressions
+• Depict the protagonist's fear and panicked reactions with rich facial expressions and natural motion
+• No dialogue, subtitles, logos, or watermarks
+• Maintain consistency in face, hands, and body type
+• Depict the surprise that the 'fun water slide's goal was a haunted house' with cinematic realism and comical reactions.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080300040996986880/img/m4Ob-F0C9_xnwB3O.jpg" width="600" alt="Water Slide to Haunted House Surprise">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7791)**
+
+**Author:** [なお｜AI動画・AI音楽](https://x.com/Naonekozamurai) | **Source:** [Link](https://x.com/Naonekozamurai/status/2080405090394071089) | **Published:** Jul 23, 2026
+
+---
+### Cinematic Desert Angel Orbit
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A 15-second cinematic shot featuring a woman in a white dress floating over desert dunes with a full 360-degree camera orbit.
+
+#### 📝 Prompt
+
+```
+A blonde in a white dress floats still over open desert dunes while the camera does a full 360-degree orbit around her. 15 seconds total
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080378955899559936/img/sRC8CXKuj4XhWbMO.jpg" width="600" alt="Cinematic Desert Angel Orbit">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7766)**
+
+**Author:** [Andy🤖](https://x.com/andy_neon_) | **Source:** [Link](https://x.com/andy_neon_/status/2080379021095735531) | **Published:** Jul 23, 2026
+
+---
+### Rally Car Avalanche Escape Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic unbroken action shot of a rally car escaping an avalanche on a narrow cliff road, including optional song lyrics for audio synchronization.
+
+#### 📝 Prompt
+
+```
+"PASSIONATE FEMALE ROCK VOICEOVER SINGING SONG LYRICS \" FLUX THREE VS SEEDANCE TWO WHO IS GONNA WIN\" Hyper realistic blockbuster cinematic 15 second action sequence in one true unbroken continuous shot, with no cuts, no morphing, and no scene transitions. A rally car races along a narrow alpine cliff road in bright cold daylight, escaping a falling avalanche and trying to reach a tunnel before the route is buried. The camera begins high above in a wide aerial view revealing snow peaks, sheer drops, and the winding road, then physically dives toward the car into a close tracking chase. It glides beside the doors, drops low near the spinning tires as snow sprays, rises overhead to reveal the avalanche rushing behind, then arcs outward into a high circling drone like view before descending again into a front facing backward tracking move. The shot remains seamless throughout as the car drifts around icy switchbacks, clips loose snow, and bursts toward the tunnel just ahead of the collapsing slope.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080358073772945408/img/QdQ4DkwTFlI-e-Tc.jpg" width="600" alt="Rally Car Avalanche Escape Scene">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7765)**
+
+**Author:** [Brent Lynch](https://x.com/BrentLynch) | **Source:** [Link](https://x.com/BrentLynch/status/2080359232160120942) | **Published:** Jul 23, 2026
+
+---
+### Chaotic Morning Animated Short
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A narrative prompt for a humorous animated cartoon short about a man's chaotic morning routine that turns out to be a nightmare.
+
+#### 📝 Prompt
+
+```
+Create a humorous animated short showing a chaotic morning where a man oversleeps, wakes up in panic, rushes through his routine, grabs a quick breakfast, gets ready in a hurry, and runs through a rainy city trying to catch the bus. After arriving at work, he faces a stressful moment with his boss, only to suddenly fall backward and reveal it was all a nightmare. Use expressive characters, fast-paced action, exaggerated emotions, and a playful cartoon style.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080354087519014912/img/foxiW1DDBfw2tgIt.jpg" width="600" alt="Chaotic Morning Animated Short">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7768)**
+
+**Author:** [NoorAI](https://x.com/noorwithwifi) | **Source:** [Link](https://x.com/noorwithwifi/status/2080354151750668360) | **Published:** Jul 23, 2026
+
+---
+### Drunken Boxing Sequence with Multi-Image Reference
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed action prompt for generating a martial arts sequence in a dungeon, referencing specific character and monster designs for consistency.
+
+#### 📝 Prompt
+
+```
+In a spooky ancient ruin dungeon, Kenji Nishimura (Image 1, with flushed face from alcohol) performs a highly dynamic, authentic Zuiquan (Drunken Boxing) sequence. He confronts over 10 colorful bandage-wrapped mummy monsters (Image 2). The scene starts with a close-up of Kenji
+```
+
+<img src="https://cms-assets.youmind.com/media/1784876167051_y571i9_HN7ZppLbEAAmhxF.jpg" width="600" alt="Drunken Boxing Sequence with Multi-Image Reference">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7790)**
+
+**Author:** [テト@おっさんの異世界転生 Uncle in ISEKAI](https://x.com/ojisan__isekai) | **Source:** [Link](https://x.com/ojisan__isekai/status/2080345837637660929) | **Published:** Jul 23, 2026
+
+---
+### Yoga Mat Luxury Commercial
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A sophisticated prompt for a high-end yoga mat advertisement featuring a natural, elite lifestyle atmosphere in a resort setting.
+
+#### 📝 Prompt
+
+```
+15-second professional product commercial for Seedance 2, a high-end yoga mat brand. Female lead (see Image 1): A Western woman with a healthy, toned physique and naturally defined curves; long, wavy blonde hair; an authentic, sophisticated look—not a “social media influencer” face. She wears a light blue, form-fitting long-sleeve yoga top and pink high-waisted yoga pants, presenting a clean, crisp overall look with a natural, confident aura. Product Reference Image 2: A caramel-brown yoga mat with neat edges when rolled up; when unfolded, the surface features a fine, authentic texture. The material is supple and flexible, with a premium feel. The overall style should resemble an international light-luxury sports brand advertisement, featuring cinematic-quality lighting and shadows, restrained composition, negative space, and sharp details—resulting in a sophisticated, clean, elegant, and authentic visual. The scene is set in the outdoor yoga courtyard of a high-end resort hotel or private club. Soft, natural morning light fills the air, which is crisp and clear. The scene features a meticulously manicured, high-end lawn and a white or light beige natural stone floor. Minimalist modern architecture and the edge of the pool are blurred in the distance, accented by a few exquisite green plants. The environment must be authentic, tidy, luxurious, and quiet—free of passersby, cluttered facilities, a cheap park-like feel, or the atmosphere of an ordinary gym. The space should exude a high-end resort vibe and an elite lifestyle ambiance. 0–3 seconds: Establish the setting and introduce the action. A low-angle shot glides close to the edge of the lawn and stone flooring; morning light falls on the surface, and the air is crisp and clear. The camera naturally pans to the already unfolded caramel-brown yoga mat. The female lead stands on the mat and begins an elegant, stretching opening pose, raising her arms as her body stretches out. The camera gently rises from the mat’s surface and her feet to her waistline and arms, showcasing both the upscale setting and clearly highlighting the relationship between the product and the subject. She softly and naturally delivers an English line: “Let’s begin.” 3–7 seconds: The yoga sequence begins. The camera follows her in a low-angle, semi-circular tracking shot as she transitions naturally from a standing pose to Downward Dog or a lunge sequence. Her palms press firmly against the mat, and her soles and toes grip the mat realistically; the details of her knees touching the mat are clearly visible. The camera must not stray from the yoga mat; the mat must remain in the core visual area at all times to emphasize a sense of support, stability, comfort, and authentic use. The texture of the material, the lines along the edges, and the subtle changes in the mat’s surface under pressure should be rendered realistically and with fine detail. Soft light gently washes over the skin, clothing, and mat surface, creating a look that is both luxurious and natural. 7–10 seconds: Conclusion of the sequence and emotional build-up. She finishes a set of poses and slowly sits or kneels on the yoga mat, her breathing slowing as her fingers gently trace the edge of the mat, as if interacting with a familiar training partner. The camera starts with a close-up of her hand on the mat, then gently follows the movement of her fingers to her profile and the line of her shoulders and neck, capturing a relaxed, focused, and authentic expression. She naturally murmurs her second line of English: “Perfect balance.” Her tone is like a quiet affirmation of her physical state at the end of a practice—avoid a sales-pitch tone. 10–12 seconds: She begins to roll up the mat, and the product takes center stage. She leans forward and rolls the mat up from one end with fluid motion—clean, skilled, and crisp. The camera glides close to the rolling path, following the curve of the caramel-brown yoga mat as it transitions from flat to rolled, emphasizing the neat edges, moderate thickness, supple material, and high-end surface texture. The rolling process is smooth and seamless, showcasing the product’s aesthetic appeal. This sequence should be filmed as an elegant ritual, rather than a mundane tidying-up action. At 12–15 seconds, the final “hero shot” is highlighted, making the conclusion even more impactful and luxurious. She picks up the rolled-up yoga mat and walks toward the foreground of the frame, while the camera pulls back slightly to follow her movement. She gently places the rolled-up caramel-brown yoga mat on the edge of a light beige natural travertine or high-end white stone pedestal closest to the camera. The product is positioned steadily at a two-thirds side angle, with the layers of the roll, the contours of the cut edges, the material texture, and the highlights in the morning light all clearly visible, presenting a luxurious, understated, and minimalist hero shot of the product. The focus transitions naturally from the subject to the product in the foreground, which is sharp and clear, while the background is slightly blurred. After setting down the yoga mat, she stands up and walks away, her silhouette moving quietly toward the depths of the courtyard bathed in morning light. She does not look back; her movements are composed, and the spatial negative space is opened up. The camera does not follow her but remains steadily focused on the product in the foreground, allowing the caramel-brown yoga mat to harmonize with the high-end stonework, the morning light, and the elegant courtyard to create a sophisticated and premium brand conclusion. Finally, a very brief English voiceover is added: “Made to move.” Overall Requirements: Authentic human performance, authentic yoga poses, and authentic storage logic; the interaction between the product and the subject must feel natural. The visuals must be detailed, beautiful, clean, and luxurious, emphasizing the aura of an international high-end sports brand. Avoid exaggerated expressions, cheap-looking staged shots, excessive saturation, a plastic-like texture, multiple people or cluttered backgrounds, a low-quality park atmosphere, fixed camera angles and abrupt cuts, and a generic e-commerce feel.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080342851158986752/img/YlZ_iAoFc0LRsGeh.jpg" width="600" alt="Yoga Mat Luxury Commercial">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7782)**
+
+**Author:** [Loriel.AI](https://x.com/ou_zhen599) | **Source:** [Link](https://x.com/ou_zhen599/status/2080343369637839009) | **Published:** Jul 23, 2026
+
+---
+### Backyard Bonfire Memory Montage
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Generates a casual smartphone-style home video of a family gathering around a backyard bonfire at night with rapid jump cuts.
+
+#### 📝 Prompt
+
+```
+Super casual real smartphone home video footage, evening bonfire gathering in a backyard, natural mobile phone camera with slight authentic handheld shake, normal frame rate with smooth natural motion, rapidfire montage with quick jump cuts every 1-2 seconds like scrolling through phone memories, unpolished authentic phone recording of mixed ages sitting around the fire, roasting snacks and chatting, pure raw home video feel, no cinematic polish.
+Use the provided reference photo as the strict ONLY visual reference for the main woman. Maintain her exact appearance with zero deviation. Generate a mixed group of family and friends around her near the bonfire, glowing flames visible.
+0-2.5s: Shaky rapid cuts main woman laughing near the fire, warm glow lighting her face, quick flashes of sparks rising.
+2.5-5s: Abrupt jump cuts close-up of her smiling while roasting a marshmallow, then friends passing snacks around the fire.
+5-7.5s: Fast shaky she chats animatedly, firelight flickering, friends and family seated on chairs nearby.
+7.5-10s: Quick cut close-up warm smile toward camera, then jump to her laughing with a grandparent by the fire.
+10-12.5s: Abrupt edit group gathered close, sharing stories and snacks, casual toast with drinks.
+12.5-15s: Final rapid transition main woman relaxed by the fire with the group, soft smile, calm night memory ending with gentle phone sway.
+Natural smartphone video quality, slight real handheld shake, smooth normal frame rate motion, authentic casual physics, stable main character consistency, no pro stabilization or effects.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080338658557857792/img/LJXgdK3mAuRjdtop.jpg" width="600" alt="Backyard Bonfire Memory Montage">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7769)**
+
+**Author:** [𝐌](https://x.com/Strength04_X) | **Source:** [Link](https://x.com/Strength04_X/status/2080339093918257288) | **Published:** Jul 23, 2026
+
+---
+### Legendary Knight Fortress Battle
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An epic fantasy prompt for a legendary knight battling a dragon and a horned demon on a crumbling fortress, featuring dynamic camera moves and IMAX quality.
+
+#### 📝 Prompt
+
+```
+A legendary female knight with long platinum hair, striking green eyes, athletic physique, intricately engraved black steel armor with a flowing crimson cape and a massive enchanted greatsword stands alone atop the crumbling walls of an ancient fortress overlooking a vast battlefield where tens of thousands of soldiers, cavalry and towering siege engines are locked in brutal combat, a colossal dragon suddenly bursts through the clouds breathing an ocean of fire across the battlefield as a gigantic horned demon emerges from a collapsing mountain, without hesitation she leaps from the castle wall, falling hundreds of meters before landing with earth-shattering force that sends armored warriors flying in every direction, immediately charging straight toward the demon while dodging collapsing towers and dragon fire, climbing across the creature's massive body as it tears apart the landscape before driving her glowing sword directly through its skull, triggering an enormous magical explosion that tears open the storm clouds and floods the battlefield with golden light, cinematic IMAX aerial photography, seamless FPV dive, dynamic crane shots, dramatic orbit camera, slow-motion impacts, ultra-photorealistic medieval fantasy, volumetric sunlight, practical debris, cinematic smoke, epic orchestral atmosphere, blockbuster realism, Unreal Engine 5 quality.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2080306949757751296/pu/img/RVFDuY2scCnsCZSp.jpg" width="600" alt="Legendary Knight Fortress Battle">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7760)**
+
+**Author:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **Source:** [Link](https://x.com/CharaspowerAI/status/2080306973220725206) | **Published:** Jul 23, 2026
+
+---
+### Jungle Lab Mantis Thriller
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An action-oriented cinematic prompt for a 15-second creature thriller sequence featuring a Korean scientist escaping a giant mantis in a ruined laboratory.
+
+#### 📝 Prompt
+
+```
+A beautiful stylish Korean woman field scientist, identical appearance throughout: long dark hair tied loosely, safety glasses pushed into her hair, khaki field shirt with rolled sleeves over a fitted tank top, cargo trousers, a utility belt with scientific vials and a flashlight, and a lab coat tied around her waist. Maintain the same face, outfit, proportions, and hairstyle in every shot.\n\nLOCATION: An overgrown ruined jungle laboratory with cracked glass specimen tanks strangled by vines, flickering fluorescent tubes, overturned equipment, a shattered observation window revealing jungle mist, and sparking severed cables.\n\nCREATURE: A colossal praying mantis, roughly 4 meters tall, with glossy green-and-brown segmented chitin, massive spiked raptorial forearms, a triangular head with large black compound eyes, and twitching antennae moving in sharp insectile jerks.\n\nAction (15 seconds, three clear beats, no clutter):\n\n(0–5s) The scientist backs between the lab benches with her flashlight as the colossal mantis slowly unfolds from the shadows beside the shattered observation window, its spiked forearms raised and its head tilting toward her.\n\n(5–10s) The mantis slams one forearm downward as she dives beneath a steel bench while the spike tears through the metal. She grabs a chemical beaker and hurls it into the mantis's eyes as it rears back screeching in pain.\n\n(10–15s) She sprints toward the exit, rips a sparking severed cable from the wall, and jams it against the mantis's leg. Electricity erupts across its body as it convulses violently while she escapes through the doorway as shattered tanks collapse around it.\n\nCAMERA (Technical):\n\nBeat 1 — Slow controlled push-in on the scientist illuminated by her flashlight, followed by a smooth crane reveal of the unfolding mantis.\n\nBeat 2 — Controlled low-angle shot as she dives beneath the bench while the mantis shatters it, followed by a smooth 90-degree arc movement and rack focus onto the chemical splash striking its eyes.\n\nBeat 3 — Smooth cinematic tracking shot toward the exit, illuminated by the sparking cable before a slow push-in to a medium close-up of her face.\n\n35mm anamorphic lens, gentle handheld weight, realistic motion blur, smooth fluid 24fps cinematic motion, consistent natural frame rate, no stutter, no dropped frames, no chaotic camera shake, no strobing.\n\nLIGHTING:\n\nFlickering cold fluorescent key light mixed with green jungle spill, deep cinematic shadows, hot sparking-cable highlights, electric arc accents, and atmospheric haze.\n\nCOLOR GRADE:\n\nSickly green and teal palette, Kodak Vision3 500T film emulation, subtle 35mm grain, halation, and anamorphic lens flares. Inspired by tense 1980s jungle laboratory creature thrillers.\n\nAUDIO:\n\nFlickering fluorescent buzz, dripping water, insectile chittering clicks of the mantis, chitin scraping as it unfolds, steel tearing apart, shattering glass, the mantis's piercing screech, electric crackles and zaps from the ca
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080303687638081536/img/zlXVTWEx93z6zQ0P.jpg" width="600" alt="Jungle Lab Mantis Thriller">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7773)**
+
+**Author:** [Saul Goodman](https://x.com/Goodmanprotocol) | **Source:** [Link](https://x.com/Goodmanprotocol/status/2080303772669280287) | **Published:** Jul 23, 2026
+
+---
+### Studio Ghibli Style Croissant Bakery
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic anime-style video prompt for Seedance 2.0 that visualizes the detailed process of baking croissants in a warm Ghibli-inspired bakery.
+
+#### 📝 Prompt
+
+```
+Anime visual reference sheet, Studio Ghibli art style, clean cream white background. Bold clean outlines, cel shading, pure 2D anime illustration. FOOD: Raw butter block, cold and pale yellow. Laminated dough with visible layered strata. Rolled out dough sheet, pale gold. Folded dough triangle, uncurled. Shaped croissant crescents on a tray, unbaked and pale. Egg wash brushed golden over dough. Finished croissant, deep golden brown, flaky shattered layers, steam rising, a torn piece showing honeycomb interior. TOOLS: Wooden rolling pin, bench scraper, pastry brush, proofing tray, oven interior glowing warm gold. COLOR PALETTE: Butter yellow #F4D58D, dough pale gold #EFDDB5, baked crust gold-brown #C68E3F, deep golden brown #8B5A2B, egg wash sheen #E8B84B, steam white #FAF8F3, shadow brown #4A2F1B. Bold anime outlines, cel shading, Ghibli bakery illustration style, multiple reference panels clearly labeled. Anime bakery short film, Ghibli pastry aesthetic, warm golden morning light, flour dust drifting in sunbeams, cozy bakery kitchen, 16:9. A series of rapid close-up macro shots: hands placing a cold butter block onto rolled dough, dough being folded over the butter and sealed at the edges, rolling pin pressing and elongating the dough in long even strokes, dough being folded into thirds in one smooth motion, rolling pin flattening the dough again into a long sheet, dough being rolled up tightly into a spiral, dough cut into triangles with a sharp knife, fingers rolling a triangle from base to tip into a crescent shape, shaped croissants being placed on a tray in a neat row, pastry brush sweeping golden egg wash across the surface, tray sliding into a warm glowing oven, close-up of croissants slowly puffing and browning under heat, layers visibly separating and flaking as they bake, croissants pulled from the oven golden and steaming, extreme close-up of a croissant being torn in half revealing airy honeycomb layers, steam curling up from the warm interior. Each shot lasts under one second, cinematic food film pacing, hyper-detailed anime illustration, warm amber and buttery gold tones throughout.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080302157484675072/img/_suJvO9hnvyFjXxU.jpg" width="600" alt="Studio Ghibli Style Croissant Bakery">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7776)**
+
+**Author:** [Ciri](https://x.com/Ciri_ai) | **Source:** [Link](https://x.com/Ciri_ai/status/2080302214640468225) | **Published:** Jul 23, 2026
+
+---
+### Ancient Chinese Pink Ru Skirt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Captures a hyper-realistic cinematic look of an elegant East Asian woman in traditional ancient attire, styled as if shot on an iPhone 16.
+
+#### 📝 Prompt
+
+```
+iPhone 16 mobile snapshot, hyper-realistic photo, 10 seconds, East Asian female, jet-black waist-length hair with a gold hairpin, exquisite features, deep eyes, mature and elegant, ancient pink Ru skirt, overall high-end cinematic live-action styling.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080081625233379328/img/q0vukrMAgw-UPlk3.jpg" width="600" alt="Ancient Chinese Pink Ru Skirt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7787)**
+
+**Author:** [PixelAIGC](https://x.com/PixelAigc) | **Source:** [Link](https://x.com/PixelAigc/status/2080295631315456158) | **Published:** Jul 23, 2026
+
+---
+### Rooftop Hangout Smartphone Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt designed to mimic authentic, unpolished smartphone home video footage of friends chatting and eating on a rooftop at sunset, focusing on natural handheld motion and jump cuts.
+
+#### 📝 Prompt
+
+```
+Super casual real smartphone home video footage, rooftop evening hangout with string lights and city view, natural mobile phone camera with slight authentic handheld shake, normal frame rate with smooth natural motion, rapidfire montage with quick jump cuts every 1-2 seconds, unpolished authentic phone recording of friends chatting, eating snacks and enjoying the sunset, pure raw home video feel, no cinematic polish.
+Use the provided reference photo as the strict ONLY visual reference for the main woman. Maintain her exact appearance with zero deviation. Generate a mixed group of friends around her on the rooftop, sunset/city lights visible.
+0-2.5s: Shaky rapid cuts main woman laughing near the rooftop railing, sunset glow behind her.
+2.5-5s: Abrupt jump cuts close-up of her smiling with a drink, then friends passing snacks around.
+5-7.5s: Fast shaky she chats animatedly, friends laughing, string lights starting to glow.
+7.5-10s: Quick cut close-up warm smile toward camera, then jump to group laughing together near the edge view.
+10-12.5s: Abrupt edit group gathered around a small table, casual toast with cups, city lights twinkling.
+12.5-15s: Final rapid transition main woman relaxed among friends, soft smile, calm rooftop memory ending with slight phone sway.
+Natural smartphone video quality, slight handheld shake, smooth motion, authentic interactions, stable main character consistency, no pro effects.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080284664212967424/img/LQkLsdWr4-8lJ79n.jpg" width="600" alt="Rooftop Hangout Smartphone Video">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7762)**
+
+**Author:** [𝐌](https://x.com/Strength04_X) | **Source:** [Link](https://x.com/Strength04_X/status/2080285004903391646) | **Published:** Jul 23, 2026
+
+---
+### Magical Girl Transformation Sequence
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A cinematic multi-shot prompt for a magical girl transformation, moving from a realistic living room to a fantasy moonlit flower sea with high-contrast lighting and 8K detail.
+
+#### 📝 Prompt
+
+```
+[Style] Live-Action Magical Transformation, dark fantasy dreamcore aesthetic, 8K ultra-clear, soft focus atmosphere, high contrast moonlight tones, no plastic feel.
+
+[Duration] 15 seconds.
+
+[Setting] First second is a real home living room (white walls, wooden cabinet + TV). After 1 second, cut to fantasy night sky: deep blue-purple starry sky, huge full moon as the only light source, ending with a night purple-blue flower sea with a white glowing magic circle in the center.
+
+[Character] Transforming female lead (long black straight hair, pink casual t-shirt; after transformation, two forms: red-pink magic combat suit and pink formal dress).
+
+[00:00-00:01] Shot 1: Everyday Start (Hook - Reality Shot)
+Medium fixed shot: A young woman in a pink casual t-shirt standing in front of the living room TV, holding a gray-silver long staff, spinning it quickly, left hand moving in coordination, eyes following the staff's rotation. Mobile phone realistic texture, natural indoor lighting.
+
+[00:01-00:03] Shot 2: White Light Transformation (Transformation Flash)
+Hard cut: The same woman instantly changes into a red-pink puff-sleeve magic combat suit, pink beret, white gloves, small white wings on her back, holding a pink gem wand high in her right hand, left hand extending diagonally down, body tilted, eyes slightly closed. Then arms retract, hands crossing to hold the wand at her chest, eyes slowly opening with a clear, firm gaze at the camera. A huge full moon hangs at the top right, cold blue moonlight lighting her hair edges.
+
+[00:03-00:05] Shot 3: Wand Release (Power Release)
+Medium close-up slow push: She holds the wand with both hands, thrusting it from her chest to the upper left front, shoulders turning, sharp gaze fixed on the glowing point at the wand tip. Effect: Wand tip white light brightens rapidly, full moon erupts with strong light, white glow engulfing the screen at the 5th second. Accompanying charging hum + air-breaking sound effects.
+
+[00:05-00:08] Shot 4: Dress Bloom (Dress Bloom + Reveal)
+Close-up: Pink layered puff skirt and white chiffon billowing outward, transparent fabrics with a sense of levitation. Switch: Transformation complete—pink twin-tail long curly hair, backless light pink gauze dress, back to camera with arms outstretched, then rotating clockwise on her feet to look back, eyes slightly lowered then raised to the camera, elegant and cool temperament. Full moon fills the frame, cherry blossoms begin to drift in.
+
+[00:08-00:11] Shot 5: Top-down Spin
+High-angle top-down shot: She stands in the center of the glowing magic circle, arms outstretched, spinning clockwise at high speed. The huge pink skirt opens fully like a circular flower due to centrifugal force, petals circling the center. Rotation gradually slows, skirt settling on the ground. Accompanying fabric wind sound.
+
+[00:11-00:15] Shot 6: Dual-Form Frame (Final Pull-back)
+Uniform pullback to grand wide shot: Magic circle in the middle of the flower sea, the combat suit form standing sideways in the foreground, wand pointing down; the pink dress form standing half a step behind, arms gracefully open in a protective stance. Both remain frozen, only hair and skirt moving slightly in the night breeze, cherry blossoms falling, full moon directly above. Ending on the wide composition with night wind and rustling petal sounds.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080271606690004992/img/GRr7ZJO2rGDRYTSt.jpg" width="600" alt="Magical Girl Transformation Sequence">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7783)**
+
+**Author:** [John](https://x.com/johnAGI168) | **Source:** [Link](https://x.com/johnAGI168/status/2080271785069564100) | **Published:** Jul 23, 2026
+
+---
+### 3D Miniature Pastry Village Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic 3D animation prompt for creating a whimsical miniature pastry village with realistic textures and magical lighting.
+
+#### 📝 Prompt
+
+```
+Create a cinematic, high-detail 3D animation of a whimsical miniature pastry village at twilight, with cookie cottages, icing streets, and bustling market stalls filled with berries and baked treats surrounding a giant Very Berry Yogurt tub. Start with a wide shot, smoothly zoom into a pile of fresh strawberries, blueberries, and raspberries at the base, cut to an extreme macro close-up of the glossy pink yogurt swirl with berry pieces and water droplets, then return to a wide view showcasing the cozy, warmly lit village and vibrant berries in the foreground. Soft, warm lighting, shallow depth of field, ultra-realistic textures, and a magical, mouth-watering atmosphere.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080266905232056320/img/mBIaJwMXIw7s9yqj.jpg" width="600" alt="3D Miniature Pastry Village Animation">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7777)**
+
+**Author:** [NoorAI](https://x.com/noorwithwifi) | **Source:** [Link](https://x.com/noorwithwifi/status/2080266972739301648) | **Published:** Jul 23, 2026
+
+---
+### Cinematic Throne Room Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A multi-stage prompt for Seedance 2.0 that describes a dark, massive throne room and a slow camera approach toward a king sitting in solitude.
+
+#### 📝 Prompt
+
+```
+[0-3s] Throne room. Massive. Empty except for Aldric sitting 
+on his black throne. He has been sitting there since before 
+dawn. No servants dare enter. Candles burn low. Camera slow 
+approach down the long empty hall toward him.
+
+[3-7s] Camera reaches him.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080249520315838464/img/qzRJ951eyVuwXWXG.jpg" width="600" alt="Cinematic Throne Room Sequence">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7775)**
+
+**Author:** [𝐌](https://x.com/Strength04_X) | **Source:** [Link](https://x.com/Strength04_X/status/2080251170111791158) | **Published:** Jul 23, 2026
+
+---
+### 1990 Shanghai Textile Factory Documentary
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed historical documentary prompt for Seedance 2.0 recreating a shift change at a 1990s Shanghai textile factory with authentic period details.
+
+#### 📝 Prompt
+
+```
+Create a 15-second authentic archival documentary-style sequence set during a shift change at a state-owned textile factory in Shanghai, China, in 1990. Use reference images as a precise visual foundation, preserving the same characters, facial features, identities, clothing, body proportions, spatial layout, red-brick factory buildings, iron gates, lighting, colors, bicycles, handcarts, industrial equipment, and the simple atmosphere of factory life; bring the photographs to life naturally. The focus of the scene is on the predominantly female textile loom operators and spinning operators who have just finished their shift, with a few male maintenance workers and porters moving among them. They are not posing for the camera: some remove their cloth caps or hairnets to tidy their hair, which has been disheveled by sweat and cotton lint; others wipe the backs of their hands, cuffs, and the sides of their necks with wet towels; still others place enamel lunchboxes, thermoses, or canvas bags into their bicycle baskets; two or three female workers stand by the factory gate, chatting quietly as they wait for their colleagues to leave together on their bicycles; others flip through the shift handover logbook. Their movements are subtle, weary, restrained, and authentic—reflecting the stiff shoulders and necks, as well as the slight fatigue in their fingers, resulting from prolonged standing and repetitive labor. In the background, a male worker slowly pushes a flat-bottomed handcart loaded with rolls of fabric through the factory gate; A maintenance worker puts away his wrench and closes the metal door to the equipment room; through the high windows, one can see the spinning machinery and pulleys still turning slowly. Near the factory gate, bicycles are constantly being pushed or ridden past, and the wheels of the fabric cart roll over the concrete floor; deep blue work uniforms, fabric curtains, and electrical wires hang out to dry, swaying gently in the evening breeze. Every detail—the clothing, objects, architecture, transportation, and labor—strictly reflects the environment of a Chinese state-owned textile factory in the 1990s: dark blue or gray work uniforms, arm sleeves, aprons, cloth caps or hairnets, enamel lunchboxes, thermoses, canvas bags, old-fashioned bicycles, metal handcarts, and a factory grounds devoid of modern signage. Using natural documentary footage shot at intervals of 1.5–2.5 seconds, the film observes—within the same factory grounds, at the same time of day, under the same lighting, and across consecutive moments—small groups of female workers, their weary faces, fingers covered in cotton lint, damp towels, enamel lunchboxes, thermoses, bicycle baskets, shift handover logs, handcarts loaded with rolls of fabric, and the wider tide of bicycles streaming out of the factory gates at the end of the shift. The shots are handheld, as if the cinematographer were walking slowly through the factory gates: continuous, organic movement; imperfect framing; slight focus breathing; occasional motion blur and subtle changes in exposure; a direct, respectful observation of the subjects. Avoid the look of a gimbal, dramatic camera movements, slow motion, or commercial-style lighting. The imagery must resemble authentic 1990s 35mm color film: visible grain, slightly faded warm tones, restrained saturation, soft contrast, subtle flicker, natural skin textures, imperfect exposure, and occasional dust or scratches; it must never appear digitally sharpened, glossy, modern, or AI-generated. Use only natural on-site sound: female workers speaking in hushed tones in Mandarin and Shanghainese, the lingering echo of the end-of-shift bell, the low rumble of spinning machinery, the rumbling of fabric carts, the opening and closing of iron gates, bicycle bells, the gentle clinking of enamel lunchboxes, thermos stoppers, footsteps, and the evening breeze. No music, no narration, no subtitles, and no artificial sound effects.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080248528031686656/img/RqJ_Cvkh3L1GdAD-.jpg" width="600" alt="1990 Shanghai Textile Factory Documentary">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7779)**
+
+**Author:** [Loriel.AI](https://x.com/ou_zhen599) | **Source:** [Link](https://x.com/ou_zhen599/status/2080248779081744454) | **Published:** Jul 23, 2026
+
+---
+### Jungle Canopy Speeder Chase
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A fast-paced aerial pursuit video prompt set above a storm-lashed jungle, following a speeder dodging obstacles at high speed through dense vegetation and waterfalls.
+
+#### 📝 Prompt
+
+```
+From above a boundless ocean of storm-lashed jungle canopy, the camera plunges through churning fog toward a tiny streak of light knifing between colossal tree trunks. Lock-on: a speeder skimming a raised root-highway at insane speed, rain hammering its hull in silver sheets. The camera slingshots ahead through a curtain of falling water, whips back, then drops tight to the rear thrusters — steam bursting off hot metal, shredded leaves and spray whipping past, warning lights strobing red through the mist. Wind shears a massive branch loose; it crashes down in an explosion of bark and orchids as the rider snaps a last-inch swerve beneath it, then threads through a cathedral of hanging vines, buttress roots, and a hollowed fallen trunk in one fluid line — startled macaws detonating outward in a blur of scarlet and blue. The camera darts through the same gaps, glued to the motion, wet leaves slapping the lens. One final bend around a moss-shrouded giant and sudden calm: the camera blasts outward past the treeline into a reveal of a vast river gorge, the storm breaking open above it, shafts of sunlight piercing the fog, and a thousand-foot waterfall feeding the river below — mist rising off the jungle floor and igniting into a rainbow.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080243585677725696/img/-UlJ3GIL293v3EbL.jpg" width="600" alt="Jungle Canopy Speeder Chase">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7763)**
+
+**Author:** [Umesh](https://x.com/umesh_ai) | **Source:** [Link](https://x.com/umesh_ai/status/2080244209156837505) | **Published:** Jul 23, 2026
+
+---
+### Solo Birthday Party Cinematic Storyboard
+
+![한국어](https://img.shields.io/badge/lang-한국어-orange)
+
+> A complex, multi-shot cinematic prompt for a birthday-themed video featuring a dramatic transition from a calm birthday wish to a fire-breathing highlight.
+
+#### 📝 Prompt
+
+```
+Using the uploaded character reference image as the sole identity/costume criteria for the female, generate a 10-second 9:16 vertical short-form video with a real birthday twist.
+
+[Style]
+Real smartphone vertical shooting texture, outdoor park at night. Fixed master composition + 1 face close-up insert. Exactly 2 hard cuts (entering close-up, returning to original composition), no other camera movement. No push/pan/tilt/follow/digital zoom. Soft birthday atmosphere in the first half, rapid transition to an exaggerated strong twist in the second half. Shots 1-5 are all natural real-time speed, only the black and white section of Shot 6 is slow motion.
+
+[Scene]
+A bench in the center of an outdoor park at night, with grass, trees, and streetlights in the background. The bench is empty and the background is simple at the opening. The fixed master camera maintains the same position and composition throughout.
+
+[Female]
+Strictly refer to the uploaded image to maintain the same face, hair, body proportions, clothing, and accessories throughout; do not re-design the character. Face close-ups and wide shots must show the same face and makeup. Natural and gentle state in the first half. Key to the twist: the normal breath intended to blow out the birthday candle turns into a giant flamethrower. Immediately after slamming down, enter the explosion state without pause and maintain an exaggerated highlight pose.
+
+[Key Props]
+A green champagne bottle always in the right hand, a birthday cake with a lit candle always in the left hand. Viewed from the camera, the hand holding the bottle is on the left. The champagne bottle is open. Only real champagne liquid, white foam, and fine droplets come from the bottle. Fire must not come from the bottle; no fireworks, sparks, cold sparks, silver fire pillars, or magic particles. The cake is always horizontal, the candle remains lit, and the cake does not tilt, fall, melt, or char.
+
+[Shot 1: 0-3s Empty Bench Setting and Entrance/Sitting]
+Night park bench with fixed camera. Show the empty bench for a moment. Then the female enters from the right, holding a green champagne bottle in her right hand and a cake with a lit candle in her left. She walks to the center and sits naturally. Body in center, cake stable near chest. Camera is fixed throughout.
+
+[Shot 2: 3-4.5s Shaking Champagne]
+The female shakes the champagne bottle up and down about 3 times: raising to shoulder -> quickly lowering to waist -> raising -> shaking down. Movements led by arms with clear rhythm, looking like increasing pressure. Body and cake stay stable.
+
+[Shot 3: 4.5-5.8s Hard Cut Face Close-up: Smirk]
+Hard cut to face close-up. Face fills the vertical screen, warm streetlight outlines the contour, background is out-of-focus park. Stops shaking the bottle, stares at camera, expression turns from gentle to a smirk with one corner of the mouth up. Eyes slightly narrowed with a cunning light. Inhales deeply at the end as if to blow the candle. Hands unchanged below screen.
+
+[Shot 4: 5.8-6.5s Return to Original Composition: Slamming + Candle Blow Simultaneous Explosion]
+Hard cut back to the exact same fixed composition as Shot 1. Female is sitting in the center. Left hand raises the lit cake to face level, slightly lower than the mouth (towards right). Simultaneously, right hand raises the champagne bottle high and swings it down fast, slamming it towards the bottom right of her body (left side from camera view). Grip remains firm. At that exact moment, two effects start simultaneously without pause: Real champagne liquid, massive white foam, and droplets erupt vertically from the bottle on the left; Female blows hard at the candle—the breath becomes a massive orange flame jet, grazing the candle and extending far to the right.
+
+[Shot 5: 6.5-8s Color Highlight Continuous Spray]
+Female maintains sitting pose, continuously spraying orange flame from mouth towards the candle, flame extending horizontally to the right. Left hand keeps cake horizontal at face level, candle stays lit in the flame, cake doesn't melt or char. Bottle on the left continues vertical eruption of liquid/foam/droplets. Flame to the right, fountain to the left—opposite directions, no overlap. No fire from bottle. Champagne has real liquid physics. Flame illuminates the scene realistically.
+
+[Shot 6: 8-10s Black and White Slow Motion Birthday Poster Ending]
+At the most exaggerated highlight moment, the entire screen instantly hard-switches to saturation 0 complete black and white synced with the music beat, entering slow motion. Female continues flame spray in the same pose, foam and droplets scatter slowly. Synchronized with the B&W transition, white handwritten text appears at the top: Happy Birthday. No pose realignment, no angle change, no fades. Slow motion persists until the last frame stops at the peak pose for a poster ending.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080233351156494336/img/HCqjEDzPlDC-aaVS.jpg" width="600" alt="Solo Birthday Party Cinematic Storyboard">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7786)**
+
+**Author:** [1p(1mpal)](https://x.com/impalementd) | **Source:** [Link](https://x.com/impalementd/status/2080235194397954348) | **Published:** Jul 23, 2026
+
+---
+### Medieval Battlefield FPV Drone Flight
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-speed, immersive first-person perspective video prompt depicting a chaotic medieval battle at dawn with aggressive FPV racing maneuvers through knights and siege engines.
+
+#### 📝 Prompt
+
+```
+Immersive first-person flying camera perspective, no visible drone or flying device. The camera launches at breathtaking speed across a colossal medieval battlefield at dawn, flying only inches above muddy ground as thousands of armored knights charge from every direction. It violently snap-rolls between galloping warhorses, knife-edges through forests of raised spears, dives beneath charging cavalry, and skims past massive wooden siege towers rolling toward towering castle walls. Flaming arrows rain from the sky while enormous trebuchets hurl burning boulders overhead, narrowly missing the camera before smashing into ancient fortifications. The camera constantly changes direction with brutal FPV precision,rapid S-turns through packed infantry formations, split-S reversals around crumbling watchtowers, corkscrews around giant siege engines, barrel rolls beneath collapsing drawbridges, wall-hugging passes along castle ramparts, and near-vertical climbs over cathedral spires before diving straight back into the chaos. Battle standards whip violently in the wind, swords flash in the firelight, shields collide, catapults unleash volleys of stone, and burning debris fills the air with sparks and smoke. The camera threads through impossibly narrow gaps between castle battlements, flies through the shattered gatehouse as it collapses, races down torch-lit stone corridors, then bursts back outside over an enormous battlefield stretching to the horizon. At the climax, the camera climbs above the entire kingdom to reveal an immense medieval war unfolding beneath towering mountains and colossal castles, before performing one final near-vertical dive through the center of the battlefield, missing banners, towers, cavalry, and siege weapons by mere centimeters. Continuous POV shot, no cuts, relentless acceleration, extreme high-speed FPV racing, aggressive banking, rapid altitude changes, barrel rolls, corkscrews, split-S maneuvers, power loops around towers, knife-edge turns, realistic inertia, cinematic motion blur, volumetric smoke, dynamic firelight, hyper-detailed medieval environments, epic blockbuster VFX, IMAX quality.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2080231506182561792/pu/img/qBLdjyMlKht3RNBG.jpg" width="600" alt="Medieval Battlefield FPV Drone Flight">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7761)**
+
+**Author:** [LudovicCreator](https://x.com/LudovicCreator) | **Source:** [Link](https://x.com/LudovicCreator/status/2080231545537712287) | **Published:** Jul 23, 2026
+
+---
+### Cinematic Korean Woman Coastal Adventure
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A poetic and immersive multi-shot storyboard prompt capturing a young woman's spontaneous morning adventure at a seaside railway station.
+
+#### 📝 Prompt
+
+```
+A quiet coastal train crossing at sunrise. A stylish young Korean woman @image spends the first hour of her day documenting an unexpected solo adventure after getting off at the wrong station. The atmosphere feels peaceful, adventurous, and emotionally uplifting. Every moment is driven by genuine curiosity instead of performance. The camera language is organic and immersive, constantly discovering new details through fluid movement, natural pauses, spontaneous reactions, environmental interactions, and beautiful landscape composition. Rich cinematic realism, authentic body language, premium natural lighting, subtle wind movement, realistic audio atmosphere, seamless continuity.
+
+Character
+
+ Korean woman in her early twenties. Long naturally flowing dark hair, soft elegant facial features, radiant healthy skin, expressive eyes, relaxed smile, realistic proportions. Wearing a cream knit sweater, loose blue denim jeans, white sneakers, lightweight beige shoulder bag, minimal jewelry.
+
+Storyboard
+
+Unexpected Morning Adventure
+
+Location:
+A peaceful seaside railway station surrounded by cliffs, wild flowers, quiet cafés, old railway signs, narrow walking paths, fishing boats, and endless ocean views under warm sunrise light.
+
+(Cut 1 · ~2 sec)
+She steps off a nearly empty train, looks around with surprised eyes, laughs softly after realizing this is not her intended stop.
+
+(Cut 2 · ~2 sec)
+Walking along a narrow stone path, she notices dozens of colorful windmills spinning beside the sea and reaches out to touch one while smiling.
+
+(Cut 3 · ~2 sec)
+She discovers a tiny family-owned bakery, watches fresh bread coming out of the oven through the window, then happily chooses a warm pastry.
+
+(Cut 4 · ~1.5 sec)
+Extreme close-up of steam rising from the fresh pastry as she gently tears it apart. Tiny crumbs fall naturally while morning sunlight glows across the frame.
+
+(Cut 5 · ~2 sec)
+She sits on a weathered wooden pier feeding curious seagulls before one suddenly lands beside her, making her burst into genuine laughter.
+
+(Cut 6 · ~2 sec)
+Following the sound of music, she finds an elderly street violinist performing alone. She quietly listens, closes her eyes for a moment, then applauds with admiration.
+
+(Cut 7 · ~2 sec)
+She reaches a cliff viewpoint overlooking the endless coastline. A strong ocean breeze lifts her hair and clothes as she slowly turns toward the breathtaking horizon.
+
+(Cut 8 · ~3 sec)
+A vintage train arrives in the distance. She smiles warmly, gives one final wave toward the camera, boards the train, and disappears through the carriage window as the train slowly travels along the coastline beneath the golden morning sky.
+
+Ultra-realistic cinematic filmmaking, emotionally engaging visual storytelling, natural environmental interactions, elegant camera movement, premium travel-film aesthetic, authentic facial expressions, realistic physics, immersive atmosphere, 8K photorealism, visually captivat
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080216688465973248/img/meXmvd5Vsu14LBYn.jpg" width="600" alt="Cinematic Korean Woman Coastal Adventure">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7778)**
+
+**Author:** [Anissa](https://x.com/SimplyAnnisa) | **Source:** [Link](https://x.com/SimplyAnnisa/status/2080216864119230907) | **Published:** Jul 23, 2026
+
+---
 ### Sci-Fi Samurai Combat Sequence
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -384,11 +973,52 @@ Character References: Image1 — warrior’s facial features. Image2 — referen
 **Author:** [料到Ai](https://x.com/liaodaoai) | **Source:** [Link](https://x.com/liaodaoai/status/2080176246995181958) | **Published:** Jul 23, 2026
 
 ---
-### Handheld Morning Yoga Vlog
+### Futuristic Samurai Cinematic Action
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt designed for a handheld camcorder aesthetic, capturing a cozy morning yoga routine with a focus on ASMR sounds and natural lighting.
+> A complex cinematic action sequence prompt involving a futuristic samurai battle, detailed with specific character references, technical film specifications, and a second-by-second timeline of high-intensity combat choreography.
+
+#### 📝 Prompt
+
+```
+Character Reference
+@Image1 for warrior’s facial features; @Image2 as reference for futuristic samurai mech armor with white, black and gold color scheme.
+Style & Technical Specifications
+IMAX 70mm film texture, Panavision 35mm lens, aperture f/4, subtle handheld camera shake. Live-action sci-fi aesthetic, 4K resolution, shallow depth of field with bokeh, cool cyan-blue color grading. The red energy sword serves as the only warm light source. Dense industrial mist. Hard cut editing. Sound effects only, no musical score. Facial features remain consistent, no distortion or warping.
+Timeline (15 Seconds)
+0–1s
+CU (Close-Up). Helmetless face of the warrior from @Image1, stern expression, lit by cool blue side light. Camera dolly in. Modular futuristic samurai full helmet from @Image2 with sharp angular lines, no faceplate and pointed fin-shaped armor assembles around the face, every component locks precisely. Accompanied by mechanical hum.
+1–3s
+Hand close-up. Right palm faces upward, fingers spread open. Red energy particles spiral inward and converge to form a sword hilt, circuit patterns gradually emerge. Energy hum intensifies.
+3–4s
+Side CU. Hand grips the hilt — a red blade surges upward, particles solidify into a translucent blade. Fully armed warrior wearing white-black-gold futuristic samurai armor from @Image2 with flowing gold sashes turns to face forward. Accompanied by explosive energy resonance.
+4–5s
+Rear MS (Medium Shot). Sword-wielding warrior stands at the edge of an industrial platform. Six black crustacean creatures emerge through mist, paired red eyes faintly glowing. Camera pull out to reveal the warrior is surrounded. Creature screeches heard.
+5–6s
+Low-angle shot. Warrior takes combat stance. Six pairs of red eyes loom faintly within mist. Crane frames and steel cables visible overhead. Combat boot stomps heavily on the ground. Energy sword hum rises in pitch.
+6–7s
+First creature charges forward. Warrior engages — horizontal slash pierces its torso, the creature flies 3 meters and crashes into a railing, bending the metal. Brief red electric arc trails linger. Camera tracks sideways capturing the full action sequence. Sounds of carapace tearing and metal impact.
+7–8s
+Second creature attacks from the left — reverse slash severs its forelimb, red sparks spray. Third creature strikes from the right — warrior spins and delivers a kick, slamming it into the fourth creature; both tumble out of frame. Camera orbits rapidly. Sounds of limb fracture, kick impact and creatures colliding.
+8–9s
+CU of the helmet faceplate from @Image2, splattered with dark fluid. Heavy filtered breathing sounds echo. Red sword light flickers and reflects across metallic surfaces.
+9–10s
+Fifth creature ambushes from behind. Warrior reverses grip on the sword and thrusts backward, piercing its torso; red light bleeds out through the creature’s back. Warrior spins and hurls the impaled creature into the sixth one, both vanish into mist.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080174661959389184/img/4OgTnULLXBbcHq-Z.jpg" width="600" alt="Futuristic Samurai Cinematic Action">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7774)**
+
+**Author:** [料到Ai](https://x.com/liaodaoai) | **Source:** [Link](https://x.com/liaodaoai/status/2080175484604956867) | **Published:** Jul 23, 2026
+
+---
+### Cozy Morning Yoga Vlog
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A storyboard prompt for creating a cozy morning yoga vlog in the style of handheld mini DV camcorder footage.
 
 #### 📝 Prompt
 
@@ -412,30 +1042,151 @@ AUDIO NOTES: Natural ambience mat unrolling, water bottle, soft breathing should
 REALISM NOTES: Authentic body language, natural blinking, genuine calm expressions, occasional pauses to breathe, imperfect framing, focus breathing, soft morning light shifts. Should resemble a genuine personal wellness vlog on a consumer camcorder, not a commercial production.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080173313121492992/img/ZktvnKP77WZaCnjH.jpg" width="600" alt="Handheld Morning Yoga Vlog">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080173313121492992/img/ZktvnKP77WZaCnjH.jpg" width="600" alt="Cozy Morning Yoga Vlog">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7701)**
 
 **Author:** [𝐌](https://x.com/Strength04_X) | **Source:** [Link](https://x.com/Strength04_X/status/2080173561990533237) | **Published:** Jul 23, 2026
 
 ---
-### Mixed Reality Home Vlog Animation
+### Hybrid Live-Action and 2D Animation Vlog
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A complex creative prompt for Seedance 2.0 Mini that blends realistic home vlog footage with a 2D hand-drawn animation reflecting in a mirror, featuring identity reversals and outfit swaps.
+> A highly detailed 12-second video prompt for a mixed-media vlog featuring a character interacting with a 2D hand-drawn animated version of themselves in a mirror, including outfit swaps and synchronized dancing.
 
 #### 📝 Prompt
 
 ```
-[Style] Live-Action x 2D Hand-drawn Animation mixed creative short video, 9:16 vertical screen, photorealistic home vlog texture + mirror reflection as flat cel-shaded hand-drawn animation (Clean Linework), playful reversals, 8K Ultra HD.\n[Duration] 12 seconds.\n[Scene] Bright modern home living room: light wood floor, creamy white walls, a black thick-framed full-length mirror standing against the wall, a straw hat hanging next to the mirror, low cabinet and corner of a piano in the background, soft indoor natural light.\n[Character] Protagonist @Image1 (strictly maintaining features, hairstyle, and pink dress/high heels from the reference); mirror reflection is a 2D hand-drawn version of the same protagonist: same face shape, hairstyle, and outfit, flat color blocks + clean linework, movements synchronized with real-life mirror image but with slight cartoon exaggeration (limbs elasticity, 10% amplified amplitude).\n[Rules] Real person always in the real space outside the mirror, reflection is always hand-drawn animation; space swaps twice during identity reversals but style rules remain unchanged; outfit changes complete instantly on the beat, synchronized inside and outside the mirror.\n\n[00:00-00:01] Shot 1: Hook Close-up\nClose-up: Protagonist @Image1 gives a sly smile to the camera, turns to point at the dressing mirror behind her; quick whip pan to the mirror's front view.\n\n[00:01-00:04] Shot 2: Mirror Duet\nMedium shot, fixed position, simultaneously showing the real person's side-back and the mirror: Protagonist in the reference pink dress dances in front of the mirror - pointing at the mirror, side kick, turning, touching hair, synchronized with the beat.\nMirror reflection is her 2D hand-drawn version, same pink dress, mirrored movement, but each movement end has a little bouncy cartoon recoil, white socks in the hand-drawn flat shoes.\nSFX: Light pop dance music starts, drums hitting every movement beat.\n\n[00:04-00:05.5] Shot 3: Role Swap - Stepping out of the mirror\nOn the heavy beat: The hand-drawn girl steps out of the mirror frame into the foreground of the real room, maintaining linework style, creating a stylistic contrast with the real floor; simultaneously, the real protagonist appears inside the mirror, leaning against the frame and peering out with a look of surprise.\nSFX: Heavy 'thud' beat + playful 'pop' exit sound.\n\n[00:05.5-00:08] Shot 4: Outfit Swap 2 - Grey Street Style\nAnother heavy beat, the two instantly swap back to original positions and change outfits: Protagonist changes into a short grey hoodie + grey mini skirt + sneakers (face and hair unchanged), high ponytail.\nReal person and hand-drawn reflection continue dancing: hip swaying, crossover steps, knee lifting, cartoon movement is more exaggerated, skirt swinging with elastic curves.\nSFX: Beat continues, 'swish' sound at the outfit swap.\n\n[00:08-00:11] Shot 5: Outfit Swap 3 - Cream Dress\nThird heavy beat outfit swap: Light yellow puff-sleeve dress + brown ankle boots, twin ponytails.\nInteracting across the mirror: Real person with hands on hips swaying, hand-drawn version jumping on one foot with an exaggerated smile; both freeze in the same pose on the final beat.\nSFX: Beat reaches the peak.\n\n[00:11-00:12] Shot 6: 2D Ending\nThe hand-drawn girl steps out of the mirror frame again, walking large steps toward the camera to occupy half the foreground, making a playful 'shh' gesture and winking at the camera; in the background mirror, the real protagonist smiles and waves.\nScreen freezes to end, no fade out.\nSFX: Music stops abruptly + a hand-drawn style 'ding' sound.
+[Style] Creative short video mixing live-action and 2D hand-drawn animation, 9:16 vertical screen, photorealistic home vlog texture + flat cel-shaded hand-drawn animation in the mirror reflection, playful reversal, 8K ultra-clear.
+[Duration] 12 seconds
+[Scene] A bright modern living room: light wood floor, off-white walls, a black thick-framed full-length mirror standing against the wall, a straw hat hanging next to the mirror, with low cabinets and a corner of a piano in the background, soft indoor natural light.
+[Characters] Protagonist @Image1 (strictly maintain the facial features, hairstyle, pink dress, and high heels styling from the reference image); the reflection in the mirror is a 2D hand-drawn animated version of the same protagonist: same face, hair, and outfit, flat color blocks + clean line art, movements synchronized with the real person but with slight cartoon exaggeration (body elasticity and amplitude increased by 10%).
+[Rules] The real person is always in the physical space outside the mirror, and the reflection is always hand-drawn animation; when the identity reverses twice, the space swaps but the style rules remain the same; outfit changes are completed at the beat, synchronized inside and outside the mirror.
+
+[00:00-00:01] Shot 1: Opening Hook (Hook Close-up)
+Close-up: Protagonist @Image1 gives a sly smile to the camera, turns to point at the dressing mirror behind her; a quick whip pan to the front of the mirror.
+
+[00:01-00:04] Shot 2: Mirror Duet
+Medium shot, fixed camera, capturing both the real person's side-back and the mirror surface: the protagonist in the pink dress from the reference image dances in front of the mirror—pointing, side-kicking, turning, and touching her hair to the beat.
+The reflection in the mirror is her 2D hand-drawn version, in the same pink dress, movements synchronized, but each movement ends with a bit of elastic cartoon follow-through; her white socks in the reflection are paired with hand-drawn flat shoes.
+Audio: Light pop dance music starts, with drum beats and movement synchronization.
+
+[00:04-00:05.5] Shot 3: Reversal 1 - Stepping Out (Role Swap)
+On the heavy beat: the hand-drawn girl steps out of the mirror frame with one foot into the real room foreground, maintaining the line-art style in contrast with the real floor; at the same moment, the real protagonist appears inside the mirror, peeking out while holding the frame with a look of surprise.
+Audio: Heavy 'thump' + playful 'pop' sound of stepping out.
+
+[00:05.5-00:08] Shot 4: Outfit Swap 2 - Gray Street Style
+Another heavy beat, the two instantly swap back to original positions and change outfits: protagonist changes into a short gray hoodie + gray mini skirt + sneakers (face and hair unchanged), high ponytail.
+The real and hand-drawn versions continue dancing: hip twists, cross-steps, knee lifts, with cartoon version movements being more exaggerated, the skirt swinging in elastic arcs.
+Audio: Rhythm continues, with a 'swish' sound at the outfit change.
+
+[00:08-00:11] Shot 5: Outfit Swap 3 - Cream Dress
+Third beat outfit change: Pale yellow puff-sleeve fluffy dress + brown short boots, twin tails.
+The two interact across the mirror: real version hands on hips twisting, hand-drawn version jumping on one leg with an exaggerated smile; they both freeze in the same pose on the final beat.
+Audio: Rhythm builds to a peak.
+
+[00:11-00:12] Shot 6: 2D Ending
+The hand-drawn girl steps out of the mirror frame again, walking towards the camera to occupy half the foreground, making a playful 'shh' gesture and winking; the real protagonist waves with a smile in the background mirror.
+The screen freezes abruptly, no fade out.
+Audio: Music stops suddenly + a hand-drawn style 'ding' sound.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080167951722749952/img/2_84W2URDqGMcUAT.jpg" width="600" alt="Mixed Reality Home Vlog Animation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080167951722749952/img/2_84W2URDqGMcUAT.jpg" width="600" alt="Hybrid Live-Action and 2D Animation Vlog">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7740)**
 
 **Author:** [John](https://x.com/johnAGI168) | **Source:** [Link](https://x.com/johnAGI168/status/2080168687072379128) | **Published:** Jul 23, 2026
+
+---
+### Tokyo Street Style Travel Film
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An ultra-realistic travel documentary style prompt following a character through the neon-lit streets of Tokyo with specific outfit descriptions and timeline-based scene breakdowns.
+
+#### 📝 Prompt
+
+```
+Style: Ultra-realistic cinematic travel film, Tokyo streetstyle aesthetic, Hollywood-quality cinematography, 4K HDR, natural lighting, realistic facial expressions, smooth camera movements, vibrant neon atmosphere, immersive city ambience, fashion editorial feel, premium travel documentary style. Character: Caden (same appearance throughout) — young man with short dark hair, sharp youthful features, confident but relaxed personality. STRICT FACE & IDENTITY LOCK — maintain the exact same facial features in every scene. Outfit: Caden wears a fashion-forward Tokyo streetwear outfit: Oversized black leather jacket with a relaxed silhouette and subtle vintage texture. Crisp white button-down shirt underneath, slightly untucked for a casual luxury look. Loose-fit baggy blue denim jeans with a modern streetwear cut. Clean white sneakers. Minimal accessories: simple silver chain, black watch, effortless hairstyle. Overall vibe: Tokyo Harajuku meets luxury streetwear — cool, cinematic, understated confidence. 0:00–0:03 — Arrival in Tokyo Camera: Aerial drone shot sweeping across Tokyo’s neon skyline at night. The camera dives between skyscrapers before transitioning into a busy Shibuya street. Action: Caden steps out of a train station into the glowing streets of Tokyo. His oversized black leather jacket moves naturally as he walks through the crowd. Neon signs reflect on the wet pavement, people pass around him, and city lights create a cinematic glow. Camera: Low-angle tracking shot following his sneakers and baggy jeans as he walks, then slowly tilting upward to reveal his outfit and confident expression. Audio: Train announcements, footsteps, city chatter, distant street music. Voice-over: "I came here looking for a new experience..." 0:03–0:07 — Tokyo Street Moments Camera: Fast-paced cinematic montage with smooth transitions. Action: Caden walking through Shibuya Crossing surrounded by massive screens and neon lights. Close-up shots of his leather jacket, sneakers stepping through Tokyo streets, coffee in hand. Sitting inside a tiny ramen shop, city lights visible through the window. Walking through a narrow lantern-lit alley with a calm, mysterious atmosphere. Camera Style: Fashion film shots mixed with travel documentary shots — slow motion, shallow depth of field, cinematic close-ups. Voice-over: "But Tokyo had a story waiting for me." 0:07–0:11 — Rooftop Tokyo Moment Camera: Smooth handheld tracking shot moving behind Caden as he walks onto a rooftop. Action: The oversized leather jacket catches the wind as he looks over the endless Tokyo skyline. His white shirt contrasts against the dark jacket while the city glows beneath him. Fireworks appear in the distance. Camera: Slow push-in close-up capturing his expression. Audio: Music rises
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080162810068189184/img/SjyB-LcoDq-7-dv2.jpg" width="600" alt="Tokyo Street Style Travel Film">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7764)**
+
+**Author:** [Caden Flux](https://x.com/Caden_Flux) | **Source:** [Link](https://x.com/Caden_Flux/status/2080163461753933959) | **Published:** Jul 23, 2026
+
+---
+### Futuristic Crystalline AI Creature Interaction
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic prompt for a high-detail scene where a woman interacts with an awakening crystalline AI creature in a futuristic luxury setting.
+
+#### 📝 Prompt
+
+```
+A curious young woman notices a palm-sized crystalline AI creature resting on a minimalist wooden desk inside a sunlit luxury apartment. As she reaches out, the creature awakens with elegant glowing energy patterns and fluid mechanical movements. It gently climbs onto her hand, emitting soft holographic particles that illuminate the room. She smiles in amazement and walks toward a panoramic glass window overlooking a breathtaking futuristic megacity at golden hour. The AI companion floats beside her, evolving into a radiant geometric lifeform surrounded by shimmering light trails. Ultra-realistic cinematic filmmaking, emotionally expressive performance, macro close-ups, dynamic handheld camera, subtle rack focus, volumetric sunlight, reflective glass, premium CGI integration, photorealistic textures, realistic physics, atmospheric depth, film-quality color grading, smooth cinematic transitions, immersive storytelling, 4K HDR, vertical 9:16, no logos, no text, completely original design.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080157936224202752/img/ueXvqzqJDtfOpZIS.jpg" width="600" alt="Futuristic Crystalline AI Creature Interaction">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7780)**
+
+**Author:** [Lily Collins](https://x.com/Lily_collins3) | **Source:** [Link](https://x.com/Lily_collins3/status/2080157968813699446) | **Published:** Jul 23, 2026
+
+---
+### Ethereal Xianxia Immortal resting by Ancient Tree
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A cinematic video prompt of a修长 male Xianxia character resting on an ancient peach blossom tree, featuring divine aesthetics, PBR materials, and flowing robes.
+
+#### 📝 Prompt
+
+```
+PBR physical materials, global illumination, volumetric fog, cinematic depth of field, high frame rate, motion-capture-grade smooth flow, natural motion blur, rich particle effects, strong collision of sky blue and gold cold/warm tones, divine aesthetic, wide-angle large space composition, clean screen. Character is a Xianxia male sitting on a branch of an ancient peach blossom tree, legs to one side. Elbow on the branch, hand supporting face, eyes closed resting, wind blowing. Opens eyes, robe hanging down the branch. Misty smoke, falling petals, surrounding butterflies. Robes fluttering in the wind, long sleeves and skirt dancing. Long-distance panoramic low-angle shot moving forward slowly. Rembrandt lighting for the face, strong cold backlight + smoke. Quality requirements: clear features, normal human structure, consistent clothing/hair, smooth action, stable screen. Master-level camerawork, cinematic.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080156217427857409/img/Dg_PEWwqC7ThnWYR.jpg" width="600" alt="Ethereal Xianxia Immortal resting by Ancient Tree">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7785)**
+
+**Author:** [FOREST ALBUM 🏳️‍🌈](https://x.com/Forestwoodwood) | **Source:** [Link](https://x.com/Forestwoodwood/status/2080156329147285657) | **Published:** Jul 23, 2026
+
+---
+### Premium Beverage Beach Commercial
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Creates a professional premium beverage commercial featuring a summer beach lifestyle theme and dynamic tracking shots.
+
+#### 📝 Prompt
+
+```
+Create a premium beverage commercial featuring Luna, a photorealistic 24-year-old woman with long honey-brown wavy hair, radiant skin, expressive hazel eyes, and a bright natural smile. She wears a fitted white crop top, high-waisted light blue denim shorts, white sneakers, layered gold necklaces, and stylish sunglasses resting on her head. Bright tropical summer atmosphere, premium commercial quality, vibrant citrus color palette, ultra-realistic lifestyle storytelling, cinematic camera work.
+
+The video opens with Luna already on screen, relaxing on the hood of a vintage yellow convertible parked beside a beach road. She catches an ice-cold Fanta tossed from off-camera, smiles, and says, "Summer starts now!" She flips the can playfully before popping it open. Crisp fizz escapes as sunlight glistens across the chilled aluminum.
+
+Macro close-ups showcase sparkling condensation, vibrant orange bubbles, and refreshing citrus slices splashing through the air as Luna enjoys her first sip.
+
+The scene shifts to a lively beach volleyball court where she joins friends for a fun match. Between plays, everyone grabs ice-cold Fanta cans from a cooler, laughing and celebrating every point.
+
+As golden hour arrives, Luna and her friends gather around a retro food truck serving burgers and fries. They share food, toast their Fanta cans together, and dance to live street musicians nearby while colorful lights begin glowing overhead.
+
+The final sequence takes place on the beach at sunset. Friends light sparklers, laugh around a bonfire, and run toward the shoreline. Luna raises her chilled Fanta toward the camera and smiles,
+
+Luna: "Taste the sunshine!"
+
+The camera pulls back to reveal the glowing beach, crashing waves, warm sunset sky, and joyful summer celebration. Premium beverage advertising, cinematic lifestyle photography, realistic water and lighting effects, smooth gimbal movements, shallow depth of field, vibrant orange tones, ultra-realistic commercial quality, 4K HDR, 16:9 widescreen, no text overlays or subtitles.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080153905166716928/img/IUXtNd3xSwtQsiq7.jpg" width="600" alt="Premium Beverage Beach Commercial">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7770)**
+
+**Author:** [Smiling Khan](https://x.com/AIwithkhan) | **Source:** [Link](https://x.com/AIwithkhan/status/2080153935160262794) | **Published:** Jul 23, 2026
 
 ---
 ### Pixar Raccoon Storyboard
@@ -613,65 +1364,169 @@ Vibrant midsummer natural light, light film look, Instagram vlog vibe. Realistic
 **Author:** [1p(1mpal)](https://x.com/impalementd) | **Source:** [Link](https://x.com/impalementd/status/2080141180176847328) | **Published:** Jul 23, 2026
 
 ---
-### Cinematic Birthday Fire Breathing Video
+### Cinematic Birthday Candle Fire-Breathing Trick
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> An extremely detailed and complex storyboard prompt for a viral birthday video that involves a dramatic fire-breathing effect at the climax of blowing out candles.
+> A sophisticated multi-shot video prompt for Seedance 2.0 creating a realistic yet surreal scene where a character lights a birthday candle like a cigarette, ending in a dramatic fire-breathing effect.
 
 #### 📝 Prompt
 
 ```
 [Character and Clothing Reference]
-Use the currently uploaded character reference image as the sole identity and clothing reference. The close-up on the left locks in facial features, makeup, and expression; the full frontal and back views lock in clothing structure and body proportions. Consistency must be maintained throughout.
+Use the uploaded character reference image for identity and clothing. The left close-up locks the face, makeup, and hair; the middle full body and right back view lock clothing structure, jewelry, and proportions. Maintain consistency throughout; no face-swapping or clothing changes.
 
 [Style]
-Realistic cinematic birthday party short video. Starts with a restrained life-logging feel; upgrades to a fire-breathing contrast effect during the 'blowing out candles' action; ends with a high-contrast black-and-white poster freeze.
+Realistic cinematic birthday party video. Starts naturally with subtle deadpan humor; escalates during the 'candle blowing' to a fire-breathing effect; ends as a high-contrast black and white poster. Quiet, cool demeanor; no cartoonish expressions.
 
-[Duration/Frame]
-15 seconds, 9:16 vertical.
+[Duration/Aspect Ratio]
+15 seconds, 9:16 vertical screen.
 
 [Scene]
-Indoor restaurant or bar. Protagonist sits behind a table with an elegant birthday cake. Background features dark wine cabinets and warm yellow lights.
+Indoor restaurant or bar. Female subject sits behind a table with a round birthday cake. Dark wine rack background with warm circular lights. Soft warm lighting on the character and cake.
 
 [Core Props]
-Silver crown, round birthday cake, thin white curved candle, lighter.
+Silver birthday crown, round cake, long thin curved white birthday candle, lighter. Use the same candle throughout.
 
-[Shots Summary]
-Shot 1: Placing the crown.
-Shot 2: Holding the candle in the mouth like a cigarette.
-Shot 3: Lighting the candle like lighting a cigarette.
-Shot 4: Removing the lit candle from the mouth.
-Shot 5: Inserting the candle into the cake.
-Shot 6: Leaning in to blow out the candle.
-Shot 7: Sudden fire-breathing effect instead of air when blowing.
-Shot 8: Black and white poster freeze frame of the fire-breathing climax.
+[Camera & Composition]
+Fixed camera directly in front of the subject, ~1.4m away. Steady medium shot. Captures head, torso, hands, and cake. No camera movement (panning, zooming, etc.). Depth change only comes from the subject leaning forward.
+
+[Shot 1: Putting on Crown]
+Subject is seated. A hand enters from top-left and places a silver crown on her head. Subject observes the hand then looks forward with a natural expression.
+
+[Shot 2: Holding Candle Like a Cigarette]
+A hand from the right brings a long curved candle to her mouth. She holds one end between her lips horizontally. She uses her index and middle fingers to hold it like a cigarette. Order: hand enters -> brings candle -> she bites end -> she holds with fingers -> hand exits. No actual tobacco or smoke.
+
+[Shot 3: Lighting the Candle]
+A hand from the left enters with a lighter. Lights the outer end of the candle held in her mouth. She remains calm and observes the flame. The lighter only lights the candle, not the cake or the subject.
+
+[Shot 4: Removing the Lit Candle]
+Lighter exits. She removes the lit candle from her mouth using her fingers, looking at the flame briefly before looking at the cake. It must be the same curved candle.
+
+[Shot 5: Inserting Candle into Cake]
+She lowers the lit candle and inserts it into the top of the cake. The flame remains lit. No clipping or cake deformation.
+
+[Shot 6: Leaning in to Blow]
+She sits back, then leans forward toward the cake with a subtle smile, preparing to blow out the candle. Camera remains fixed.
+
+[Shot 7: Fire-Breathing Surprise]
+From the leaning position, she blows at the candle. Instead of air, a realistic continuous orange-yellow flame jets from her mouth over the cake. The flame is triggered by the blow. It illuminates her face and the environment. She maintains a calm expression throughout the fire-breathing.
+
+[Shot 8: Black and White Poster Freeze]
+At the peak of the fire-breathing, the frame freezes and transforms into a high-contrast black and white birthday poster.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080138511609655296/img/_Bm5NFgkJxS3Fzxf.jpg" width="600" alt="Cinematic Birthday Fire Breathing Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080138511609655296/img/_Bm5NFgkJxS3Fzxf.jpg" width="600" alt="Cinematic Birthday Candle Fire-Breathing Trick">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7746)**
 
 **Author:** [小宇Chengzi](https://x.com/Chengzilhy) | **Source:** [Link](https://x.com/Chengzilhy/status/2080140918704029967) | **Published:** Jul 23, 2026
 
 ---
-### 80s Anime Retro Cityscape
+### 1980s Retro Anime City Sunset
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A retro-themed video prompt for an 80s anime style city skyline at sunset with a city pop aesthetic.
+> A cinematic video prompt for creating a 1980s retro-futuristic anime scene featuring a city skyline at sunset with a pastel purple gradient.
 
 #### 📝 Prompt
 
 ```
+Panel 01
+(00:00 - 00:01)
 1980s retro anime style. Wide establishing shot. Static camera. A vibrant retro-futuristic city skyline at sunset. The sky is a gradient of pastel purple
 ```
 
-<img src="https://cms-assets.youmind.com/media/1784790590583_w1jeeg_HN4lF9MaAAAHzXn.jpg" width="600" alt="80s Anime Retro Cityscape">
+<img src="https://cms-assets.youmind.com/media/1784876153223_lundec_HN4lF9MaAAAHzXn.jpg" width="600" alt="1980s Retro Anime City Sunset">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7739)**
 
 **Author:** [apob](https://x.com/apob_ai) | **Source:** [Link](https://x.com/apob_ai/status/2080140918603268171) | **Published:** Jul 23, 2026
+
+---
+### Cinematic Korean Drama Short Film
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed narrative prompt for generating a realistic Korean-style cinematic short film about childhood friends reuniting after 15 years during the season's first snow.
+
+#### 📝 Prompt
+
+```
+Create an ultra-realistic 2-minute cinematic short film featuring the same young East Asian woman and man consistently throughout. Maintain identical facial features, hairstyles, body proportions, and outfits in every scene. Premium Korean drama aesthetic, cozy winter atmosphere, soft cinematic lighting, realistic performances, shallow depth of field, and elegant camera movements. The story begins 15 years earlier. Two childhood friends play joyfully in the snow, building a snowman, throwing snowballs, and laughing together. Before going home, they sit on a wooden park bench where the boy promises, "When the first snow falls, let's meet here again." They seal the promise with a pinky swear. The film transitions to the present. The young woman returns to her quiet hometown wearing a warm winter coat, scarf, and boots. She walks through familiar streets, passing her old school, bakery, playground, and frozen river as brief childhood memories flash back. She finally reaches the same park bench and quietly waits, wondering if he ever remembered. As evening approaches, she stands to leave. At that moment, the season's first snow begins to fall. She looks up as snowflakes drift around her. Across the park, the young man slowly appears through the snowfall wearing a dark wool coat and scarf. They recognize each other instantly, smiling through tears. He softly says, "I told you I'd come when the first snow fell." They embrace warmly before walking together through the snow-covered streets, sharing hot chocolate, laughing, and revisiting the places where they grew up. The final scene shows them building a small snowman beside the same park bench before walking hand in hand into the softly falling snow. Natural ambient sound only—gentle wind, footsteps in snow, distant train, children playing, quiet conversations, and falling snow. No music, subtitles, logos, watermarks, or on-screen text. Ultra-realistic Korean drama cinematography, 4K HDR, 16:9.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080133875934904320/img/SMs90OdSMgnEMbin.jpg" width="600" alt="Cinematic Korean Drama Short Film">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7771)**
+
+**Author:** [Synthia](https://x.com/AIwithSynthia) | **Source:** [Link](https://x.com/AIwithSynthia/status/2080133951084192122) | **Published:** Jul 23, 2026
+
+---
+### Korean Woman Market Walk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt for a 15-second sequence of a Korean woman walking through a neighborhood produce market in the morning.
+
+#### 📝 Prompt
+
+```
+Main Subject: Young Korean woman, early 20s, natural everyday appearance, faded charcoal-grey sleeveless crop top, loose high-waisted light-wash jeans, black canvas sneakers, black cord necklace, black wavy hair in a messy side ponytail with wispy bangs. Realistic skin texture, minimal makeup, warm and approachable personality. \n\nMaintain identical identity, clothing, hairstyle, and appearance throughout.\n\nNeighborhood Market Morning\nLocation: Small local produce market tucked between residential streets.\n\n00:00–00:03 She walks through the market carrying a reusable shopping bag.\n\n00:03–00:06 Examining fresh fruit while chatting briefly with the vendor.\n\n00:06–00:09 She pays in cash and laughs at something off-camera.\n\n00:09–00:12 Walking home with groceries swinging gently.\n\n00:12–00:15 She looks back, smiles naturally, and disappears into her alley.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080129798924648448/img/rTzUxg0CFqD4N5S6.jpg" width="600" alt="Korean Woman Market Walk">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7772)**
+
+**Author:** [Zephyra Leigh](https://x.com/ZephyraLeigh) | **Source:** [Link](https://x.com/ZephyraLeigh/status/2080130212881473741) | **Published:** Jul 23, 2026
+
+---
+### Realistic Female BMX Park Trick Sequence
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A comprehensive prompt for generating a realistic 15-second BMX trick video featuring a female rider performing a peg grind and a backflip in a night arena.
+
+#### 📝 Prompt
+
+```
+15 seconds, 1:1 square, live-action footage of a women's BMX park competition. The setting is a large-scale international BMX tournament venue at night. A BMX park arena with spectators close to the course, densely packed with banks, bowls, quarter pipes, rails, boxes, steps, and gaps. The concrete features scuffs, tire marks, moderate wear, abstract geometric graffiti without text, paint splashes, and colored paint marks. No independent symbols, circular emblems, claw marks, legible text, or brand-like icons associated with corporate logos on the course, walls, or landing areas. The spectator stands are packed, and the night lights are white, intense, and glamorous. Maintaining bright, neutral white light even at night, vivid natural colors, a clear blue night sky, distinct highlights, and strong subject separation. Do not let the concrete sink into grey; keep the white tops and skin bright. Avoid spreading navy across the whole screen, low saturation, grey haze, dull low contrast, dark film tones, or excessive blue cast. The protagonist is a young female BMX rider. Long legs, high waist, slender and toned model-like athletic build. Healthy, light, with a photogenic, well-proportioned face and a strong leading presence. No muscular or bulky builds; maintain the same person, build, hairstyle, and outfit across all shots. Hair is in a natural ponytail. The helmet is matte dark navy with a single thin orange line down the center of the crown. No text, logos, brand names, numbers, symbols, emblems, or stickers on any side; only plain surfaces, natural vents, and the center line. The upper body is a completely plain raglan-style top with a white torso and navy short sleeves. It should not look like a sponsor uniform, competition jersey, or branded sportswear. No text, logos, shapes, numbers, symbols, embroidery, patches, or prints on the chest, back, sleeves, or collar. The lower body is slender dark navy or dark charcoal pants, white shoes, no gloves. The BMX is a dark-colored small-frame model.
+
+[TRICK ORDER LOCK]
+Trick A: Down Handrail Peg Grind
+A short slide on a down-rail using pegs. Wheels, frame, cranks, and chainring do not touch the rail.
+Trick B: Clean Single Backflip
+A single 360-degree backflip from one quarter pipe, returning to the transition of the same quarter pipe from which she took off.
+
+Required Order:
+Short venue intro → Trick A → Short straight run → Trick B → Clear landing → Smile → One-handed fist pump. No extra tricks, replays, or position resets.
+0–1.2s:
+A stable wide-angle shot from a slightly high position presenting the entire venue. Show the full stands, strong lighting, complex course, rails, and abstract graffiti simultaneously. Do not start with a fade-in from black.
+
+Clear cut at 1.2s.
+1.2–3.8s:
+Switch to the woman already traveling at high speed; perform Trick A only once with a medium-distance side-tracking shot. After success, return to level ground with both wheels and continue straight without stopping.
+3.8–5.4s:
+Naturally enter a single quarter pipe on the same line. No extra small jumps, wall riding, or switches to different locations. Maintain a medium-wide shot where the takeoff point, lip, and intended landing surface can be seen in the same space.
+5.4–8.0s:
+Perform Trick B only once. Show from takeoff to the start of the descent in one continuous shot without camera cuts. Take off at normal speed, initiating the backflip after both wheels leave the lip. Insert a single short slow-motion segment for approximately 0.4s at the peak when completely upside down, then immediately return to normal speed. Do not repeat the rotation, complete the flip, and move to landing posture. No double flips, repeated poses, reenactments of mid-air movements, long pauses, long hang time, or a second slow-motion segment. Keep the same quarter pipe and landing area within the frame.
+8.0–9.2s:
+Descend at normal speed, aligning the BMX frame and both wheels parallel to the landing slope before touchdown. Land naturally with both wheels on the mid-transition of the same quarter pipe. Show the moment of landing clearly. Do not fall onto the deck, coping, vertical wall, or another ramp; do not crash front-wheel first. No camera cuts from takeoff to touchdown.
+9.2–10.8s:
+Keep both feet on pedals, lift hips off the saddle, and absorb the landing impact with knees and elbows. Continue running stable in the downward direction in a standing position. No extra jumps, bunny hops, wall riding, additional tricks, stopping, sitting down, or camera cuts. Do not sit on the saddle throughout the entire video.
+10.8–15s:
+Maintain stable travel in a standing position and show a natural smile. Hold the handlebars with one hand and give a short, powerful fist pump to the audience with the other. Close with a medium-wide shot conveying the energy of the rider, BMX, spectators, and venue. The framing is primarily medium-wide. Use a wide-angle intro, low following shots, and side tracking, transitioning smoothly from a continuous mid-air follow to a low landing angle during the Backflip. Create a raw, broadcast-like feel typical of international BMX highlights, with very brief close-ups of the face or hands. Sounds should clearly feature the crowd cheering, tire noise, chain noise, metal rail sounds, wind noise, and landing impact. BGM is allowed.
+
+[NEGATIVE]
+Toy/game/ad-like, dull colors, dark screen, CG-like people, multiple protagonists, legible logos or text, cuts hiding the landing, unnatural landings, sitting after landing, falling, accidents, multiple rotations, reversed order.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080129549296365568/img/VkxZqHSB9ltez3SE.jpg" width="600" alt="Realistic Female BMX Park Trick Sequence">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7789)**
+
+**Author:** [AIライフハック](https://x.com/ai_lifehack55) | **Source:** [Link](https://x.com/ai_lifehack55/status/2080129871544832001) | **Published:** Jul 23, 2026
 
 ---
 ### 3D Animated Commercial from Storyboard
@@ -693,38 +1548,68 @@ Use the uploaded 9-grid storyboard as the sole storyboard reference for a high-q
 **Author:** [𝐌](https://x.com/Strength04_X) | **Source:** [Link](https://x.com/Strength04_X/status/2080129693236293790) | **Published:** Jul 23, 2026
 
 ---
-### Handheld iPhone Style Cycling Video
+### Cinematic Suspense Convenience Store Video Prompt
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A comprehensive multi-scene prompt for a realistic iPhone-style video showing an East Asian woman cycling, featuring natural camera movements, dialogue, and lighting transitions.
+> A complex multi-scene video prompt for Seedance 2.0 designed to create a 15-second high-density cinematic suspense short, detailing character interactions, lighting, and specific camera movements.
 
 #### 📝 Prompt
 
 ```
-Presented in the style of raw, handheld iPhone footage, all camera settings are automatic with no post-color grading or effects. The visuals include natural handheld jitter and the operator's sense of breathing. Autofocus occasionally searches, delays, or briefly loses focus, and automatic white balance naturally shifts with sunlight. The image is generally flat, retaining optical imperfections such as authentic lens flare, edge chromatic aberration, slight overexposure, and motion blur. Only natural environmental sound effects (wind, bicycle chain, breathing) are used, with slight microphone distortion possible. Uses a casual bystander/friend handheld follow-shot perspective, with reactive rather than professional smooth camera movements. The subject is an East Asian woman wearing a tight grey-black sleeveless short sports top with black edging and a soft reflective fabric; the bottom is matching tight cycling shorts. The scene is golden hour at a waterfront park cycling path near a modern luxury residential area. At 0s, she sits on the bike, leaning forward and smiling confidently at the camera. At 2s, the camera cuts to a low-angle close-up of her waist/lower body as she pedals uphill. At 4s, she passes a curve with natural panning and slight tilt. At 6s, she stops at a fruit stall, drinking coconut water. The perspective shifts to a first-person male POV as if her boyfriend is filming. At 8s, she hands the coconut to the camera, saying, 'You have a sip too.' At 10s, the camera moves back as if the male flinches, and he says, 'No, I'm afraid you're poisoning me.' At 12s, she playfully asks, 'What poison? In broad daylight?' At 14s, he replies, 'The poison of "I'm so lonely without you."' She laughs, covering her mouth with her hand. The video ends on this candid life moment. The footage shows a raw, handheld video texture with documentary-level natural imperfections.
+Generate a 15-second vertical cinematic suspense short film.\n\n[Characters]\nA young convenience store clerk, wearing a dark uniform, with a vigilant expression.\nA stranger wearing a hat, standing outside the cashier counter, deliberately hiding their expression.\n\n[Scene]\nA convenience store on a stormy night.\nCool white lights flicker slightly, rain slides down the glass windows, and neon reflections are on the ground.\nThe overall tone is cold blue-gray, quiet, oppressive, and filled with suspense.\n\n[Scene 1: 0-5s | Suspense Emerges]\nThe shot begins with a extreme close-up of a coin rolling in the clerk's palm.\nThe coin reflects the cool white light, and the camera has a slight breathing jitter.\nA quick whip pan to the clerk's face, instantly focusing on his eyes.\nThe clerk whispers: "What exactly do you want to take?"\nThe camera performs a slight push-pull zoom, creating an oppressive spatial change in the shelf background.\nThe clerk turns and passes the freezer, a packaging bag brushes past the lens to complete a natural transition.\n\n[Scene 2: 5-10s | Conflict Escalates]\nA high-angle shot of the clerk reaching down to grab the door bolt under the counter.\nA low-angle shot close to the ground follows the stranger as they step forward, shoes stepping through water tracks.\nThe camera moves half a circle around the two, showing the distance between them shortening rapidly.\nQuickly switch between three shots:\nClose-up of the door bolt;\nThe stranger's hand hidden in their sleeve;\nThe flashing red indicator light of the security camera at the top of the store.\n\n[Scene 3: 10-15s | Revelation]\nA tracking shot backing away follows the stranger as they continue to approach.\nThe lights in the store suddenly go out and then turn back on.\nA quick whip pan back to the clerk's face as he looks up at the security camera.\nThe camera slowly pulls away, and the clerk says: "Don't worry, the monitor has been on the whole time."\nFinally, it stops at a wide shot of the convenience store, retaining the sounds of electricity, rain, and the faint beep of the monitor.\n\n[Visual Requirements]\nCharacter identities and clothing remain consistent.\nMovements follow realistic physics.\nCamera movements are continuous and smooth, avoiding meaningless shaking.\nMovie-level lighting, realistic rainy night ambient sound, and slight film grain.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080085355747782656/img/-pLuSDPXVmO64BYS.jpg" width="600" alt="Handheld iPhone Style Cycling Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080101910720475136/img/CfHrbGLwnKmeRm28.jpg" width="600" alt="Cinematic Suspense Convenience Store Video Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7781)**
+
+**Author:** [Derek Wen｜德里克文](https://x.com/derek_wall90176) | **Source:** [Link](https://x.com/derek_wall90176/status/2080102395078697076) | **Published:** Jul 23, 2026
+
+---
+### Handheld iPhone Style Realistic Cycling Video
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A detailed multi-scene video prompt for Seedance 2.0 that replicates a raw, handheld iPhone video of a woman cycling at sunset, featuring realistic camera jitters, focus shifts, and natural dialogue.
+
+#### 📝 Prompt
+
+```
+Presented in the style of raw, unprocessed iPhone handheld footage, all camera settings are automatic with no post-color grading or special effects. The image carries realistic slight handheld jitter and the operator's breathing sense; autofocus occasionally searches, delays, or briefly loses focus; automatic white balance naturally switches with sunlight changes. The overall image is flat, retaining realistic optical flaws like lens flare, chromatic aberration, slight overexposure, and motion blur. Only in-camera natural ambient sounds (wind, bicycle chain, breathing) are used, and the microphone may have slight distortion. It uses a random passerby/friend's handheld tracking perspective with reactive rather than professional smooth camera movements. The subject is an East Asian woman wearing a gray-black tight sleeveless cropped sports top with black piping and fabric with a slight soft reflection; the bottom is matching tight cycling shorts. The scene is golden hour at a park waterfront cycling path near a modern luxury residential area with neat greenery, water reflections, quiet walkways, and distant villas. At 0s, she sits on her bike, hands gripping the handlebars, leaning forward, smiling confidently at the camera. The shot is a close-up front view, slightly low-angle, with slight handheld jitter. Autofocus briefly searches and locks on her face and black hair; the background path and tree shadows are softly blurred. A breeze blows her hair, and the setting sun forms a natural rim light at the hairline. At 2s, the camera cuts to a low-angle close-up of the lower back waist area. She pedals powerfully, coordinating her body to go uphill, with long hair flowing back in the wind. Handheld jitter intensifies slightly, and autofocus lags between leg movement and the wheel before correcting; slight motion blur is visible. Sunlight from the side-rear creates warm highlights on her hair, shoulders, and clothes. At 4s, she quickly rounds a corner; the lens naturally follows and pans, with the frame tilting slightly. Water, railings, and plants slide across the background. Autofocus briefly loses focus then re-locks on her silhouette; wind noise is evident, and tires make a small friction sound on the path. She looks back at the camera with a relaxed smile. At 6s, she stops at a roadside fruit stand, sipping juice from a coconut with a straw, balancing the bike with one leg. The lens switches to a first-person male perspective, as if he is standing in front of her filming naturally with a phone. The frame shakes slightly as it approaches; focus lands first on the coconut and straw, then switches to her face. She has slight sweat, with real moist highlights on her nose and forehead, her black hair blown to the side, looking sweetly at the camera. At 8s, she lowers the coconut and hands it toward the camera with a smile. As the coconut nears the lens, the foreground briefly enlarges and goes out of focus. She says naturally: 'You take a sip too. I bought it specifically for you.' At 10s, the camera retreats slightly as the man instinctively dodges, making the frame unstable for a moment. He answers off-camera: 'No, I'm afraid you're poisoning me.' She pauses, eyes smiling, eyebrows raised, still holding the bike, coconut suspended in the air. At 12s, she tilts her head at the camera with a playful and amused tone: 'What poison? In broad daylight.' Autofocus re-locks on her eyes as the sunset glows behind her hair. At 14s, he pauses, then says softly off-camera: 'The poison of "I'm so lonely without you".' She instantly bursts into laughter, eyes crinkling, one hand holding the coconut and the other covering her mouth. The lens jitters because he is also laughing, and the frame naturally dips and corrects. The ending stops on a real-life moment of her covering her mouth and laughing at the camera. The image presents a realistic unprocessed handheld video texture with documentary-level natural imperfection. All camera behaviors comply with the physical characteristics of automatic iPhone/mobile shooting.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080085355747782656/img/-pLuSDPXVmO64BYS.jpg" width="600" alt="Handheld iPhone Style Realistic Cycling Video">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7738)**
 
 **Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2080085385661604340) | **Published:** Jul 23, 2026
 
 ---
-### Cinematic Star Cruiser Orbital Shipyard
+### Orbital Shipyard Factory Chaos
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt for Seedance 2.0 featuring an orbital shipyard disaster where a robotic factory malfunctions during the forging of a star cruiser.
+> A sci-fi action scene of a pilot navigating a star cruiser under construction when the factory AI malfunctions, causing massive mechanical arms to move unpredictably.
 
 #### 📝 Prompt
 
 ```
-Ultra-realistic, molten metal effects, realistic physics, cinematic lighting, no visible face. Inside a gigantic orbital shipyard. A star cruiser is being forged. Thousands of robotic construction arms move with perfect precision. Then the central AI crashes. Every construction arm suddenly moves at once. Massive cranes swing unpredictably. Molten metal pours through open channels. Gigantic hull sections rotate without warning. The pilot races through the living factory as machines the size of skyscrapers narrowly miss the aircraft. A newly forged battleship hull swings across the exit. The interceptor slips beneath it with centimeters to spare.
+Ultra-realistic, molten metal effects, realistic physics, cinematic lighting, no visible face.
+Inside a gigantic orbital shipyard.
+A star cruiser is being forged.
+Thousands of robotic construction arms move with perfect precision.
+Then the central AI crashes.
+Every construction arm suddenly moves at once.
+Massive cranes swing unpredictably.
+Molten metal pours through open channels.
+Gigantic hull sections rotate without warning.
+The pilot races through the living factory as machines the size of skyscrapers narrowly miss the aircraft.
+A newly forged battleship hull swings across the exit.
+The interceptor slips beneath it with centimeters to spare.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080076926069178368/img/1vwY9YVK7EnNauZW.jpg" width="600" alt="Cinematic Star Cruiser Orbital Shipyard">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080076926069178368/img/1vwY9YVK7EnNauZW.jpg" width="600" alt="Orbital Shipyard Factory Chaos">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7722)**
 
@@ -784,11 +1669,11 @@ Shot 7 (Stillness): The character fixes her hair and coolly says, 'My shoes didn
 **Author:** [妖精アーヤさん](https://x.com/aiehon_aya) | **Source:** [Link](https://x.com/aiehon_aya/status/2080050257761894907) | **Published:** Jul 22, 2026
 
 ---
-### Adidas Sneaker Urban Commercial
+### Cinematic Urban Adidas Sneaker Commercial
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A professional cinematic commercial prompt for Adidas sneakers, focusing on streetwear aesthetics, product textures, and high-end fashion styling.
+> A premium fashion-commercial prompt for a high-end sneaker advertisement set in a gritty urban environment with dynamic camera work.
 
 #### 📝 Prompt
 
@@ -796,7 +1681,7 @@ Shot 7 (Stillness): The character fixes her hair and coolly says, 'My shoes didn
 Create a premium 15-second cinematic Adidas sneaker commercial set in a gritty urban environment with colorful graffiti walls, modern concrete architecture, and a bold streetwear aesthetic. Open with a wide establishing shot as a stylish model confidently enters the frame wearing modern streetwear and Adidas sneakers. Transition to an extreme low-angle close-up of the sneaker making a powerful step on the pavement, highlighting the sole texture, laces, stitching, and realistic impact in crisp detail. Follow with a smooth full-body tracking shot of the model walking confidently through the city, capturing natural movement and premium fashion-commercial styling. Cut to an editorial close-up of the model's confident eyes and face, with hair flowing naturally in the wind under dramatic cinematic lighting. Shift into an extreme macro product shot that showcases the sneaker's premium materials, stitching, texture, laces, and sole design with sharp focus and elegant camera movement. Continue with a dynamic side-tracking shot as the model moves through the urban streets with energy and confidence. Finish with a dramatic low-angle hero shot where the sneakers dominate the foreground before transitioning to a clean product hero shot of the Adidas sneakers placed on the pavement. The camera performs a slow cinematic push-in while leaving negative space for the final campaign message. Display the on-screen text: "BE BOLD. BE REAL." Use vibrant cinematic color grading, realistic textures, natural skin tones, premium commercial lighting, smooth camera movement, shallow depth of field, dynamic composition, high-end fashion advertising, ultra-realistic 4K quality, and consistent character appearance. Avoid distorted anatomy, extra limbs, duplicated shoes, warped logos, flickering, excessive motion blur, visual artifacts, and unreadable text.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080018335161634816/img/z7fY6XZIosLg8y0E.jpg" width="600" alt="Adidas Sneaker Urban Commercial">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080018335161634816/img/z7fY6XZIosLg8y0E.jpg" width="600" alt="Cinematic Urban Adidas Sneaker Commercial">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7713)**
 
@@ -836,19 +1721,19 @@ Photorealistic premium food commercial, visually luxurious, seamless magical ass
 **Author:** [AIrina (Virtual Media Net)](https://x.com/airina_xyz) | **Source:** [Link](https://x.com/airina_xyz/status/2079999693380051042) | **Published:** Jul 22, 2026
 
 ---
-### Girl Struggling with Large Pumpkin Market Scene
+### Market Pumpkin Lift Comedy Scene
 
-![English](https://img.shields.io/badge/lang-English-blue)
+![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A highly detailed narrative prompt for Seedance 2.0 capturing a humorous moment of a girl attempting to lift a heavy pumpkin at an outdoor market while being filmed by a friend.
+> A prompt for creating a nostalgic, embarrassing DV-style moment where a girl attempts and fails to lift a heavy pumpkin at an outdoor market.
 
 #### 📝 Prompt
 
 ```
-At an open-air market on a sunny day, a girl walked slowly past the fruit stalls until she reached a basket of large pumpkins; she had originally just wanted to pick one up to see how heavy it was. She lifted a whole, large pumpkin off the edge of the basket with both hands. Just as she turned to get a better look, the weight immediately pulled her arms down; her expression froze. She bent her knees to pull the pumpkin closer to her body, took half a step back, and carefully set it back in its place. She shook her aching wrists and looked over at the fruit next to her, pretending nothing had happened, only to discover that her friend had filmed the entire scene. With a suppressed chuckle, she glared at the camera.
+At an open-air market on a sunny day, a girl walked slowly past the fruit stalls until she reached a basket of large pumpkins; she had originally just wanted to pick one up to see how heavy it was. She lifted a whole, large pumpkin off the edge of the basket with both hands. Just as she turned to get a better look, the weight immediately pulled her arms down; her expression froze. She bent her knees to pull the pumpkin closer to her body, took half a step back, and carefully set it back in its place. She shook her aching wrists and looked over at the fruit next to her, pretending nothing had happened, only to discover that her friend had filmed the entire scene. With a suppressed chuckle, she glared at the camera. In the open-air market on a clear day, the girl walked slowly along the fruit stalls to a basket of large pumpkins, originally just wanting to hold one to see the weight. She picked up a whole large pumpkin with both hands from the edge of the basket, but as she turned, the weight immediately pulled her arms down; her expression froze, she bent her knees to pull it close, stepped back half a step and carefully put it back. She shook her sore wrists, pretending nothing happened while looking at nearby fruit, only to find her friend filmed the whole thing, leaving her to glare at the camera while suppressed laughter ensued.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079994052460867584/img/sLmHTq8RuXp2_scK.jpg" width="600" alt="Girl Struggling with Large Pumpkin Market Scene">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079994052460867584/img/sLmHTq8RuXp2_scK.jpg" width="600" alt="Market Pumpkin Lift Comedy Scene">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7744)**
 
@@ -1762,11 +2647,11 @@ A cinematic 15-second adventure sequence. A 22-year-old bike courier named Alex,
 **Author:** [Luca Ai](https://x.com/lucas_yuoo) | **Source:** [Link](https://x.com/lucas_yuoo/status/2079829843815076058) | **Published:** Jul 22, 2026
 
 ---
-### Erling Haaland Claymation Gardening
+### Claymation Erling Haaland Animation
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A humorous 3D claymation animation prompt of football star Erling Haaland planting leeks, featuring expressive character movements and whimsical lighting.
+> A whimsical 3D claymation-style prompt for Seedance 2.0 featuring Erling Haaland harvesting leeks and taking a selfie.
 
 #### 📝 Prompt
 
@@ -1774,7 +2659,7 @@ A cinematic 15-second adventure sequence. A 22-year-old bike courier named Alex,
 Create a 3D claymation-style animation of a cute caricature of Erling Haaland wearing Norway's red number 9 football kit, white shorts, red socks, and red boots, with his signature blonde ponytail, walking across a simple muted green background while carrying a giant leek on his shoulder and a bucket of harvested leeks. He stops at a dirt mound, digs a deep hole with a hand trowel, plants the giant leek firmly into the soil, pats it down, then takes out his smartphone, flashes a peace sign with a playful wink, and captures a celebratory selfie. Smooth, expressive character animation with whimsical, humorous, cinematic lighting.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079818487246262272/img/nTEnTheL1tec1KYk.jpg" width="600" alt="Erling Haaland Claymation Gardening">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079818487246262272/img/nTEnTheL1tec1KYk.jpg" width="600" alt="Claymation Erling Haaland Animation">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7702)**
 
@@ -2679,982 +3564,6 @@ General Camera Movement Requirements: Camera speed must show a clear fast-slow r
 **Author:** [Lc玩AI](https://x.com/acupofai) | **Source:** [Link](https://x.com/acupofai/status/2079553899413807402) | **Published:** Jul 21, 2026
 
 ---
-### Indonesian Highway Bike Action
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A high-octane action prompt for an ultra-realistic Indonesian highway motorcycle chase with physics-defying stunts and character consistency.
-
-#### 📝 Prompt
-
-```
-Ultra-realistic live-action, 8K HDR, smartphone handlebar POV, amateur bike dashcam, natural shake, rolling shutter, motion blur, no stabilization, bright tropical 11 AM, modern Indonesian toll road. Use uploaded reference image exactly: identical face, body, skin, hair, clothing, sandals, accessories, logos, perfect consistency. 0–2s: ride at extreme speed behind green container truck. 2–4s: overtake; oncoming cement mixer appears fast in opposite lane. 4–7s: POV looks down; exact right sandal kicks truck without slowing; truck launches backward, spins through air, crashes in huge dust cloud; bike stays balanced; no blood/gore. 7–9s: leg returns; cyclist passes container truck; clear highway; wreck distant behind dust. 9–10s: camera transitions to front-facing tracking hero shot; cyclist smiles, hair blows naturally. Photorealistic lighting, accurate shadows, immersive physics.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079552871226601473/img/_pfj3hVI1lK73hbh.jpg" width="600" alt="Indonesian Highway Bike Action">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7671)**
-
-**Author:** [WasifAI](https://x.com/doctorwasif) | **Source:** [Link](https://x.com/doctorwasif/status/2079552927174398256) | **Published:** Jul 21, 2026
-
----
-### Cinematic Fantasy Transformation Battle
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An epic cinematic prompt featuring a female character transforming with reptilian scales and an old man becoming a demonic oni, set in a mystical waterfall cave.
-
-#### 📝 Prompt
-
-```
-Cinematic fantasy epic, heavy volumetric haze + strong anamorphic halation, mystical waterfall cave atmosphere, ultra-pro film look, 35mm anamorphic lens, rich god-rays cutting through mist, high-end VFX, photoreal textures.
-
-Use the provided image as the only visual reference. Lock exact faces, body types, hair, red textured catsuit and black robes of both characters. Environment remains the same mossy rock cave with cascading waterfalls and glowing lanterns.
-
-0-2s: [Medium Close-up, slow push-in] Woman stands tall, suddenly extends both arms wide. A living film of glistening crimson scales rapidly crawls up her body from the feet, fully covering the red catsuit in overlapping reptilian armor. She aggressively flicks out a long forked serpentine tongue, eyes glowing with predatory intensity. Heavy haze + lens flare.
-
-2-4s: [Dynamic Tracking, slight orbit] Scales finish sealing over her entire form with wet reflective sheen. She hisses, tongue still extended. Energy crackles across the new scaled skin.
-
-4-6s: [Wide Shot cutting to Medium] Old man rises from the rock in one fluid motion and executes a sharp, powerful kata. Instant black smoke + violent whirlwind of dark energy erupts around him, completely engulfing his body. The vortex collapses and he emerges as a towering, muscular oni: deep crimson skin, massive curved horns, glowing yellow eyes, tattered black robes now fused with demonic armor, long white hair flowing wildly. Ground cracks under his feet.
-
-6-7.5s: [Explosive Action Cut, low-angle tracking] Scaled woman lunges forward with blinding speed, claws extended. Oni meets her mid-air with a massive open-palm strike. Shockwave of red-and-black energy explodes outward, shattering nearby rocks and sending waterfall spray flying in slow-motion.
-
-7.5-9s: [Handheld chaotic tracking] Brutal close-quarters exchange. She lashes with forked tongue and spinning scaled kicks that leave trails of red energy. Oni counters with sweeping horn strikes and black smoke tentacles that try to bind her. Sparks, debris and water explode with every impact.
-
-9-10.5s: [Dramatic wide + rapid push-in] Oni leaps high, gathers a colossal black energy sphere above his head. Woman coils, then launches upward through the waterfall, body fully scaled and glowing. They collide in mid-air in a massive VFX climax — red scale shards and black smoke vortex collide, creating a blinding spherical shockwave that illuminates the entire cave.
-
-10.5-12s: [Slow-motion closing action, orbiting camera] Final impact freezes for a beat in heavy haze and intense halation, both figures silhouetted against the exploding energy, water droplets suspended like glass, then the blast expands outward.
-
-Photorealistic 8K, ultra-detailed wet scales and skin textures, perfect motion blur, coherent physics, heavy cinematic haze and anamorphic halation, high dynamic range, movie-level VFX, stable characters, no artifacts.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079550414169440256/img/hfAyQ1IdRCqUvVlm.jpg" width="600" alt="Cinematic Fantasy Transformation Battle">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7677)**
-
-**Author:** [TechHalla](https://x.com/techhalla) | **Source:** [Link](https://x.com/techhalla/status/2079550511028564065) | **Published:** Jul 21, 2026
-
----
-### Seedance 2.0 Cola Commercial Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A comprehensive multi-scene video prompt for Seedance 2.0 that creates a high-energy commercial with consistent character features and creative transitions.
-
-#### 📝 Prompt
-
-```
-Referencing the face, hairstyle, and body proportions of image_1 — this exact young Asian woman with shoulder-length black hair with bangs, delicate features, and slender figure must remain 100% identical across all outfit changes. Face never changes. 9:16 vertical, 15 seconds, high-saturation commercial style: photo-realistic character on flat graphic animation backgrounds, red-black-white color palette.
-
-[0–1.7s] Pure white studio background. Full-body 35mm shot. Character wears simple grey-black outfit, faces camera, holds a transparent plastic cola bottle filled with deep-brown carbonated liquid, red label, red cap. She leans in and twists the cap open with effort.
-
-[1.7–2.2s] Cap pops off with a burst — dense bubbles rush upward, cold mist sprays out. Her face shows delighted surprise. A red flash wipes the frame.
-
-[2.2–3.5s] Background instantly transforms: deep crimson flat-design. A giant matte-black cola bottle silhouette dominates center frame. Character shrinks and stands inside the silhouette, tilts head back to drink. Bold red and black geometric shapes slide rapidly behind her.
-
-[3.5–4s] A giant condensation-covered cola bottle sweeps horizontally across the full frame at high speed with motion blur — TRANSITION 1.
-
-[4–6s] Bottle clears. OUTFIT 1 — sporty sweet: red-black cropped top, black shorts, red cap, black sneakers. Same face. She raises one leg, holds cola bottle, energetic jump pose. Floating props: red headphones, black camera, ice cubes, red bottle caps.
-
-[6–8s] Cola bubbles explode across frame — TRANSITION 2. OUTFIT 2 — street casual: black oversized tee with red graphic, black wide shorts, red jacket tied at waist, red-black sneakers. Same face. She spins, lands, turns back to camera and raises cola bottle with cool confidence.
-
-[8–10s] Giant red bottle cap spins into frame — TRANSITION 3. OUTFIT 3 — hot athletic: red off-shoulder crop top, black high-waist shorts, red-black wristbands, black ankle boots. Same face. She leaps sideways mid-air, one hand drinking from cola. Floating: skewers, straws, ice cubes, cola bubbles.
-
-[10–12s] Dark brown cola liquid splashes across body — TRANSITION 4. OUTFIT 4 — cool summer: black cropped top with red trim, red-black shorts, light summer shoes. Same face. Hair gently blown by air current. She floats sideways, holds cola bottle. Floating: red-black swim ring, sunglasses, walkman, small tote bag.
-
-[12–13s] A giant ice-frosted cola bottle rises fast from bottom of frame. Character shrinks, floats beside the bottle. Red-black accessories explode outward in a shockwave. Background: deep red and black diagonal geometric blocks.
-
-[13–15s] Cut to product close-up: cola bottle front view, transparent body filled with deep-brown carbonated liquid, dense fine bubbles rising continuously, real condensation droplets coating the glass, red label with clean white 'COLA' text only. Black ice cubes and red bottle cap float a
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079547416752062464/img/h6plfBkyWe7Akb5P.jpg" width="600" alt="Seedance 2.0 Cola Commercial Video">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7753)**
-
-**Author:** [John](https://x.com/johnAGI168) | **Source:** [Link](https://x.com/johnAGI168/status/2079547623917195490) | **Published:** Jul 21, 2026
-
----
-### The Black Blight City Sealing
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A atmospheric video prompt describing a dark curse spreading through a city and its eventual cleansing.
-
-#### 📝 Prompt
-
-```
-The black blight spreading through the city, swallowing buildings and snuffing out the lights. Auren stepping in to cleanse the whole city and seal the curse at the source.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079543679006691329/img/AzKxYfSYbKAGJg5Y.jpg" width="600" alt="The Black Blight City Sealing">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7669)**
-
-**Author:** [Latte](https://x.com/0xbisc) | **Source:** [Link](https://x.com/0xbisc/status/2079546315567198249) | **Published:** Jul 21, 2026
-
----
-### Fashionable Pet Rat Haircut
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A realistic close-up video prompt of a pet rat wearing a hairdresser cape while getting a haircut, featuring professional cinematic lighting and 4K resolution.
-
-#### 📝 Prompt
-
-```
-A highly realistic, close-up video of a cute pet rat sitting perfectly still while wearing a tiny black hairdresser cape. Human hands are carefully using professional silver scissors to give the rat a haircut. Cinematic lighting, shallow depth of field, 4k resolution.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079545344036413440/img/ojLMuVKZFjA51QpZ.jpg" width="600" alt="Fashionable Pet Rat Haircut">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7660)**
-
-**Author:** [Future Vibes AI - Educator](https://x.com/FutureVibesAi) | **Source:** [Link](https://x.com/FutureVibesAi/status/2079545365427351581) | **Published:** Jul 21, 2026
-
----
-### Handheld 16mm Camcorder Idol Vlog
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed, structured prompt for generating a realistic Korean idol dance practice video with a nostalgic 2000s handheld camcorder aesthetic and a specific multi-scene storyboard.
-
-#### 📝 Prompt
-
-```
-CAMERA: DV 16mm tape camcorder handheld footage feel. Point of view of CHASE holding the camera directly in her hand. Natural hand shake, imperfect framing, delayed autofocus, occasional awkward zooms, slightly tilted angles, and authentic late-2000s home-video energy. Every shot is filmed by CHASE herself in selfie-cam or first-person style. The camcorder never appears on screen.
-
-LOOK: Soft DV tape quality with subtle digital noise, slightly blurry edges, muted contrast, warm indoor lighting, gentle highlight bloom, realistic skin tones, and natural exposure flicker.
-
-STYLE: Playful, candid, and wholesome behind-the-scenes dance practice vlog. Genuine laughter, unfiltered reactions, and cute blooper moments. Nothing feels staged—just an idol having fun while practicing.
-
-Character: CHASE — a Korean idol in her 20s with long straight black hair tied into a loose ponytail, glowing skin, expressive eyes, and a slim build. Wearing a modest oversized long-sleeve athletic sweatshirt, loose gray sweatpants, white sneakers, no jewelry, slightly flushed after dancing.
-
-Setting: A spacious dance practice studio with mirror walls, wooden floor, speakers in the corner, a water bottle and towel near the wall, bright rehearsal lighting, and an energetic but relaxed atmosphere.
-
-Storyboard: (~2s, arm's-length selfie) CHASE smiles at the camera and says, "Today's practice... wasn't exactly perfect." (~2s, camera propped against the mirror) She confidently starts a dance combination but accidentally loses her footing during a spin, stumbles slightly, and quickly catches her balance without falling. (~2s, handheld close-up) She bursts into genuine laughter, covering her face with one hand while saying, "Did that really just happen?" (~2s, mirror shot) She takes a deep breath, resets her position, and performs the same choreography again with confidence, this time completing every move perfectly. (~2s, handheld selfie) She grins proudly, gives herself a big thumbs-up, and says, "Progress!" (~2s, playful close-up) She points toward the camera with a bright smile, laughs once more, and jokingly recreates the tiny mistake in slow motion for fun. (~2s, arm's-length selfie ending) Still smiling and slightly out of breath, she flashes a peace sign, thanks everyone for watching, waves warmly at the camera, and ends the recording with cheerful, authentic idol vlog energy.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079530623245643776/img/OcHf33wlNyLzetIs.jpg" width="600" alt="Handheld 16mm Camcorder Idol Vlog">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7651)**
-
-**Author:** [𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_) | **Source:** [Link](https://x.com/saniaspeaks_/status/2079530667805983177) | **Published:** Jul 21, 2026
-
----
-### Nostalgic 3D Candle Commercial
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for a 3D animated video where a woman watches a magical smoke childhood version of herself emerge from a lit candle.
-
-#### 📝 Prompt
-
-```
-A 15-second 16:9 widescreen 3D animated video. One continuous shot, no cuts. Reference character: a young animated woman with short wavy chin-length brown hair, large expressive brown eyes, light freckles across her nose and cheeks, wearing a light teal short-sleeved floral dress with white scalloped trim at the neckline and cuffs. She sits on a teal fabric sofa, leaning forward slightly with her chin resting in her right hand, looking contemplatively at the lit scented candle on the dark wooden coffee table in front of her.
-
-Scene: a cozy warm-toned living room at dusk. Coffee table holds a clear glass vase with white tulips, a white speckled ceramic mug, a lit glass-jar candle labeled "SOFT MEMORIES" and "SCENTED CANDLE", and a stack of two hardcover books. Teal sofa with beige knit and floral pillows. A floor lamp glows warmly on the left. A window with white curtain reveals a cool blue dusk sky on the right.
-
-Segment 1 (0s–4s): The woman sits still, gently watching the candle flame. The candle flickers. Warm light dances across her face. Camera: static medium shot.
-
-Segment 2 (4s–10s): Glowing semi-transparent magical smoke rises slowly from the candle flame. The smoke coalesces and takes the shape of a small translucent girl — a childhood version of the woman, with the same brown hair, wearing a simple white dress. The ghost-like little girl runs and plays lightly around the living room, laughing silently. The woman watches with a soft nostalgic smile, hands resting in her lap without touching. Camera: slowly widens to include both the woman and the ghostly child.
-
-Segment 3 (10s–13s): The little girl stops, turns toward the woman, waves goodbye with a bright smile. Her form dissolves into glittering magical light particles that drift back down toward the candle and flow back into the flame. The room becomes quiet again.
-
-Segment 4 (13s–15s): Camera slowly pushes in directly toward the candle on the coffee table. Final freeze-frame: the glass jar candle fills the frame, flame flickering gently, "SOFT MEMORIES" label clearly visible.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079527537445883904/img/VDKlDSv3fitsFuWu.jpg" width="600" alt="Nostalgic 3D Candle Commercial">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7680)**
-
-**Author:** [Ima Studio](https://x.com/ImaStudio_ai) | **Source:** [Link](https://x.com/ImaStudio_ai/status/2079527859400667249) | **Published:** Jul 21, 2026
-
----
-### Smartphone Camping Montage
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt designed to create a raw, unpolished smartphone-style montage of a camping trip with friends, featuring quick jump cuts and natural handheld motion.
-
-#### 📝 Prompt
-
-```
-Super casual real smartphone home video footage of a sunny mountain camping day outing with friends. Natural mobile phone camera recording with slight authentic handheld shake, normal frame rate with smooth natural motion, rapid-fire montage with constant quick jump cuts every 1–2 seconds like scrolling through phone memories. Unpolished authentic phone recording of a mixed group laughing, setting up camp, exploring nature, snacking, and taking pictures together. Pure raw home video feel with no cinematic polish or heavy effects.
-
-Use the provided reference photo as the STRICT ONLY visual reference for the main woman. Maintain her exact appearance with zero deviation: [her described features]. Generate a mixed group of friends of all ages around her in a mountain camping environment.
-
-0–2.5s:
-Shaky handheld rapid cuts of the main woman laughing with friends near the campsite in the mountains. Light wind gently moves her hair. Quick flashes of hiking boots on dirt and grass, pine trees, and sunlight filtering through the trees.
-
-2.5–5s:
-Abrupt jump cuts showing a close-up of her smiling with sunglasses pushed up onto her head, followed by the group setting up a tent, unpacking gear, and taking casual selfies together.
-
-5–7.5s:
-Fast handheld footage of her sitting on a camping chair or picnic blanket, chatting animatedly with friends. Snacks, a thermos, and cold drinks are scattered around. Natural sunlight creates subtle lens reflections and realistic exposure changes.
-
-7.5–10s:
-Quick cut to a close-up of her giving a big warm smile toward the camera and waving playfully. The footage immediately jumps to the group gathering firewood, arranging camping items, or laughing together near the campfire area.
-
-10–12.5s:
-Abrupt edit showing everyone gathered around the campsite, casually passing snacks and drinks around. Friends cheerfully toast with cans or mugs while talking over one another, with mountains and trees visible in the background.
-
-12.5–15s:
-Final rapid transition showing the main woman relaxed and sitting among her friends, softly smiling while looking toward the mountain view or forest landscape. The video ends naturally with a gentle phone sway as if someone simply stopped recording.
-
-VISUAL STYLE:
-
-- Natural smartphone video quality.
-- Slight realistic handheld shake.
-- Smooth normal frame-rate motion.
-- Authentic casual interactions and physics.
-- Realistic sunlight and exposure adaptation.
-- Stable main character consistency.
-- Unpolished home phone recording aesthetics.
-- No professional stabilization.
-- No cinematic color grading.
-- No beauty filters.
-- No artificial effects.
-- No AI artifacts or glitches.
-
-IMPORTANT GENERATION REQUIREMENTS:
-
-- Consistent identity throughout the video.
-- Realistic human anatomy and hand interactions.
-- Natural walking and body movement.
-- Authentic mountain camping ambience and environmental audio.
-- Physically correct lighting and shadows.
-- Rapid memory-style jump cuts every 1–2 seco
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079527670086328321/img/_Pr8ocwsRn5dczzM.jpg" width="600" alt="Smartphone Camping Montage">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7655)**
-
-**Author:** [Tugser Okur](https://x.com/TugserOkur) | **Source:** [Link](https://x.com/TugserOkur/status/2079527773442298025) | **Published:** Jul 21, 2026
-
----
-### Fantasy Boy and Giant Eagle
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic fantasy adventure prompt about a young boy and a massive mythical eagle in the Scottish Highlands.
-
-#### 📝 Prompt
-
-```
-Title: The Boy and the Giant Eagle
-
-Create a 50-second cinematic fantasy adventure in 
-16:9 landscape format with seamless scene continuity.
-
-Visual Style:
-Hollywood fantasy film, ultra-realistic, 4K HDR, 
-handheld + overhead drone hybrid cinematography, 
-subtle motion blur during movement only, volumetric 
-lighting, realistic physics, cinematic depth of field, 
-moody violet and golden color grading, cold 
-desaturated wilderness tones, warm amber lighting 
-during emotional moments.
-
-Character Consistency:
-
-The same young medieval boy appears in every scene.
-Age: 12
-Messy blond hair
-Simple brown medieval tunic
-Leather boots
-Small travel pouch
-Maintain identical facial features, clothing, hairstyle and proportions throughout every shot.
-
-Creature Consistency:
-A colossal mythical giant eagle inspired by Aquila and Griffin legends.
-Golden-brown feathers with white feathered neck.
-Massive wingspan over 20 meters.
-Sharp amber eyes.
-Majestic yet gentle personality.
-Keep identical appearance in every scene.
-
-Scene 1 (0–7s) – The Call
-A lonely boy stands on a misty cliff overlooking a vast 
-Scottish Highlands valley. Wind blows through his 
-blond hair and loose tunic. He slowly raises two 
-fingers to his mouth and releases a powerful whistle. 
-The echo rolls across the mountains as birds become 
-silent. Camera slowly circles around him while distant 
-clouds move dramatically.
-
-Scene 2 (7–15s) – The Arrival
-Far beyond ancient stone ruins, a giant eagle suddenly 
-emerges from the clouds. It glides gracefully toward 
-the boy, casting a huge shadow across the valley. It 
-lands softly on moss-covered ground, folding its 
-enormous wings. Floating mist and glowing dust 
-particles fill the air. The eagle lowers its head 
-respectfully. The boy gently strokes its soft feathered 
-neck. Warm emotional lighting.
-
-Scene 3 (15–24s) – Trust
-The eagle kneels close to the ground. Without 
-assistance, the boy climbs onto its back using both 
-hands and knees, gripping the thick shoulder feathers. 
-He settles safely between the eagle's wings. Close-up 
-shots show his excitement and the eagle's calm 
-breathing.
-
-Scene 4 (24–35s) – First Flight
-The eagle spreads its enormous wings and launches 
-into the sky with explosive wingbeats. Grass and dust 
-swirl beneath them. The camera follows from below 
-before rotating overhead. They soar above cliffs, 
-waterfalls, forests and mountain peaks. Huge clouds 
-drift around them.
-
-Scene 5 (35–44s) – Above the World
-The eagle glides through brilliant white clouds. 
-Through a break in the clouds, a medieval village 
-appears below with stone cottages, thatched roofs, 
-smoke rising from chimneys, a wooden chapel, green 
-fields and winding dirt roads. The boy smiles with 
-wonder while hugging the eagle's neck tightly. 
-Cinematic drone shot
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079525194989989889/img/NUPQD_3eH5EJE825.jpg" width="600" alt="Fantasy Boy and Giant Eagle">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7674)**
-
-**Author:** [Your AI Girl](https://x.com/youraigirl24) | **Source:** [Link](https://x.com/youraigirl24/status/2079525743898616206) | **Published:** Jul 21, 2026
-
----
-### Cinematic Luxury Influencer Reel
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt for a luxury lifestyle influencer reel featuring a European-style street walk with a reality-bending time-freeze effect.
-
-#### 📝 Prompt
-
-```
-Style: Ultra-realistic cinematic influencer reel, luxury lifestyle aesthetic, 4K HDR, golden hour lighting, shallow depth of field, smooth gimbal movements, subtle lens flares, vibrant city atmosphere, fashion-commercial quality, confident feminine energy
-
-0:00–0:03
-
-Camera: Low-angle tracking shot following stylish heels walking down a charming European-style street. Coffee cup in one hand, phone in the other. Pedestrians naturally move aside as she walks.
-Action: She casually glances at the camera with a confident smirk.
-Audio: Trendy upbeat pop beat begins with city ambience.
-
----
-
-0:03–0:06
-
-Camera:Orbit shot circling her in slow motion.
-Action: A gust of wind lifts her hair perfectly. She removes her sunglasses, makes eye contact with the camera, then effortlessly slides them back on. Time seems to slow while everyone around her blurs into motion.
-Effect: Dramatic speed ramp and cinematic lens flare.
-
----
-
-0:06–0:09
-
-Camera: Wide cinematic shot as she confidently steps onto a busy crosswalk.
-Action: The traffic lights turn green, but for a brief moment the entire city freezes. Cars stop, birds hang in midair, pedestrians become motionless. Only she keeps walking with complete confidence.
-Effect: Epic cinematic sound hit.
-
----
-
-0:09–0:12
-
-Camera: FPV drone smoothly rises from street level to reveal the entire skyline.
-Action: As she puts on her sunglasses, the frozen city instantly comes back to life. Cars move, people continue walking, and sunlight reflects dramatically off the skyscrapers.
-Effect: Whip transition synchronized to the music beat.
-
----
-0:12–0:15
-
-Camera: Slow-motion close-up as she takes a sip of coffee while walking toward the camera.
-Action: She gives a playful wink, then walks past the lens. The camera turns to reveal everyone behind her subtly watching in admiration.
-
-Music:Beat drops on the final frame with a clean cinematic logo-style ending.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079520882297606144/img/jcZF-s-i_PLX7-rd.jpg" width="600" alt="Cinematic Luxury Influencer Reel">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7652)**
-
-**Author:** [Sophia](https://x.com/sophiaparkerr_) | **Source:** [Link](https://x.com/sophiaparkerr_/status/2079520974517805421) | **Published:** Jul 21, 2026
-
----
-### K-pop Idol Backstage Dressing Room Vlog
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A selfie-style first-person vlog prompt featuring a K-pop idol named Seoyun showing her dressing room and stage outfit.
-
-#### 📝 Prompt
-
-```
-CAMERA: Modern smartphone-style handheld selfie POV, first-person vlog. SEOYUN always holds the camera. Natural hand shake, imperfect framing, quick reframes, occasional face cropping. The camera device is never visible.
-
-LOOK: Clean modern digital video, sharp and vibrant, natural skin tones, bright even exposure. Full-frame image filling the entire screen edge to edge, standard flat rectangular frame. No black borders, no rounded corners, no letterboxing, no vignette, no lens distortion, no fisheye, no frame overlay, no retro or tape effect.
-
-STYLE: Bright, playful K-pop idol vlog. Genuine smiles, eye contact, candid energy, quick handheld shots with backstage excitement.
-
-CHARACTER: SEOYUN, Korean female idol in her early 20s. Long straight jet-black hair with soft face-framing strands, dewy fair skin, large dark brown eyes, natural coral-pink lips, gentle sweet smile. Slim figure. Wearing a futuristic white K-pop stage outfit: an asymmetric white halter-neck crop top with one iridescent holographic sequin panel and a thin silver sparkly shoulder strap, a white pleated mini skirt with holographic sequin pleats and decorative silver zippers, a wide white belt with a large rhinestone buckle, long white gloves, white thigh-high boots, a delicate rhinestone choker necklace, and sparkly drop earrings. Stage glam makeup.
-
-SETTING: Backstage hallway of a music show studio with dressing room doors. One dressing room door has a clean printed name plate reading exactly "SEOYUN" in bold uppercase Latin letters. Snack table with an open bowl of small individual snacks, overhead PA speaker, and blurred staff passing by.
-
-SEQUENCE:
-1. Selfie: peeks into the hallway. "Everyone, we're backstage right now!"
-2. Whip pan down the corridor. "This hallway is really long!"
-3. Stops at her dressing room, points at the name plate that clearly reads "SEOYUN". "This is me!"
-4. Close-up of the name plate, the text "SEOYUN" sharp and clearly legible in bold uppercase letters as she taps it. Ambient audio only.
-5. Quick outfit check with a spin near a mirror. "How do I look today?"
-6. At the snack table, picks up one small snack piece from the bowl with her fingers and pops it into her mouth. "Can't resist this."
-7. Mid-bite, PA announcement interrupts. She laughs: "Wait a second—"
-8. Selfie ending: hears the countdown, waves, makes a hand heart, then runs toward the stage. "Time for the stage—see you after!"
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079517967759589376/img/rinmZA6JdJDMTI9u.jpg" width="600" alt="K-pop Idol Backstage Dressing Room Vlog">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7682)**
-
-**Author:** [TSUBAKI](https://x.com/AI__TSUBAKI) | **Source:** [Link](https://x.com/AI__TSUBAKI/status/2079518998845432011) | **Published:** Jul 21, 2026
-
----
-### Skateboard Kickflip Action
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A concise prompt for testing motion and physics in Seedance 2.0, depicting a skateboarder performing a kickflip with a fast camera pan.
-
-#### 📝 Prompt
-
-```
-A skateboarder does a kickflip down a set of stairs, fast camera pan, crowd in the background.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079514851991535616/img/abjXDA2RBvZqNQeY.jpg" width="600" alt="Skateboard Kickflip Action">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7686)**
-
-**Author:** [ofox.ai](https://x.com/ooffooxx) | **Source:** [Link](https://x.com/ooffooxx/status/2079515412165742937) | **Published:** Jul 21, 2026
-
----
-### Empty City Memory Echoes
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A melancholic urban prompt depicting a man walking through a silent city as transparent memories of the past appear around him.
-
-#### 📝 Prompt
-
-```
-A completely empty city at sunrise, clean streets, quiet apartments, abandoned cafés, traffic lights changing for no one. A single man walks through the city carrying a small radio. The morning light is beautiful but lonely.
-At the 2-second mark, the radio begins playing an old song. As he walks, transparent memories appear around him: people crossing streets, friends laughing in cafés, children running through fountains, all fading in and out like echoes.
-The camera follows him in a slow steady shot through wide boulevards and silent intersections. The city feels alive only through memory.
-Final moment: he places the radio on a bench, walks away, and the memories continue dancing around it.
-Melancholic urban poetry, soft sunrise, emotional silence, cinematic 4K.
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2079506747476062208/pu/img/eo_knIwq5npACjc1.jpg" width="600" alt="Empty City Memory Echoes">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7673)**
-
-**Author:** [LudovicCreator](https://x.com/LudovicCreator) | **Source:** [Link](https://x.com/LudovicCreator/status/2079506790450966718) | **Published:** Jul 21, 2026
-
----
-### Ghibli Style Forest Outdoor Cooking
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A prompt for a serene, Ghibli-inspired outdoor cooking animation set in a forest by a river, focusing on food preparation and natural lighting.
-
-#### 📝 Prompt
-
-```
-A serene outdoor cooking scene in a Ghibli-esque anime style, set in a lush forest by a river using fresh natural ingredients. A silver fish is caught by hand from a clear stream, leafy vegetables are picked and washed, the fish is prepared on a wooden cutting board, and vegetables are cooked. Spices are added to a wok heated over a campfire, and the fish, greens, and mushrooms are simmered in an earthen pot into a fragrant, steaming stew. The dish is served on a rustic wooden table under warm dappled sunlight, accompanied by a fresh coconut drink. Cinematic anime visuals, vivid colors, soft natural light, detailed textures, calm atmosphere, 4K quality.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079503769486962688/img/uDj4k2okQKqC0JHJ.jpg" width="600" alt="Ghibli Style Forest Outdoor Cooking">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7693)**
-
-**Author:** [写真復活本舗](https://x.com/Photo__2__Video) | **Source:** [Link](https://x.com/Photo__2__Video/status/2079506298757173419) | **Published:** Jul 21, 2026
-
----
-### Epic Off-Road Motorcycle Racing Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A high-energy video generation prompt for professional dirt bike racing through mountain terrain, featuring FPV drone shots and intense action choreography.
-
-#### 📝 Prompt
-
-```
-Epic off-road motorcycle racing through rugged mountain terrain with multiple professional dirt bike riders competing at extreme speed. High-energy action, intense wheel-to-wheel battles, massive jumps, aggressive cornering, drifting through mud, rocks, sand, and forest trails. Dirt and water spray realistically from spinning tires as riders skillfully navigate steep hills, sharp turns, river crossings, rocky cliffs, dense forests, and open valleys.
-
-Ultra-realistic cinematic action with dynamic weather, golden-hour sunlight breaking through dust clouds, dramatic volumetric lighting, realistic physics, authentic suspension movement, detailed rider animations, natural body lean, lifelike motorcycle handling, highly detailed terrain, and realistic debris simulation.
-
-Camera Style: Smooth FPV drone chase shots, helmet POV, low-angle tracking, side-by-side racing shots, sweeping aerial views, slow-motion hero moments, fast whip pans, cinematic push-ins, dynamic orbit shots, realistic camera shake from rough terrain, premium action sports cinematography. Horizontal 16:9.
-
-00:00–00:03
-Wide aerial shot reveals multiple dirt bikes launching off the starting line, racing into a rugged mountain trail while dust explodes behind them.
-
-00:03–00:06
-FPV chase camera follows two riders battling side by side through tight forest trails, narrowly avoiding rocks and trees while drifting through muddy corners.
-
-00:06–00:09
-One rider launches off a massive jump over a rocky canyon as the camera rotates around the bike mid-air, capturing realistic suspension movement before a perfect landing.
-
-00:09–00:12
-The race intensifies through a river crossing and steep uphill climb. Water splashes dramatically while riders overtake each other with incredible precision.
-
-00:12–00:15
-Final sprint across an open dirt valley. Riders drift through the last corner at full throttle before crossing the finish line in a photo finish as dust fills the air and the camera pulls upward for a breathtaking cinematic ending.
-
-Audio: Powerful four-stroke dirt bike engines, aggressive throttle bursts, gear shifts, tire roost, mud and gravel impacts, wind rush, crowd cheers at the finish, cinematic hybrid orchestral music blended with electronic beats for maximum adrenaline.
-
-Goal: Create an intense, ultra-realistic, high-speed off-road motorcycle racing film with breathtaking action, realistic physics, cinematic storytelling, and an unforgettable championship finish.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079500420884713472/img/xyyMbJkKNz5V6KxQ.jpg" width="600" alt="Epic Off-Road Motorcycle Racing Video">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7658)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2079500742155813066) | **Published:** Jul 21, 2026
-
----
-### Traditional Chinese Door God Surveillance View
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A video prompt for Seedance 2.0 simulating a security camera view of a traditional Chinese Door God figure in front of an ancient mansion at night.
-
-#### 📝 Prompt
-
-```
-[Subject] Traditional Chinese Door God figure, holding weapons, with intricate armor patterns and a solemn, majestic gaze.
-[Scene] In front of the gates of an ancient mansion at night, red lanterns flickering slightly, Door God patterns painted on the door panels, one pattern per door, with paper slightly damaged and yellowed.
-[Camera Movement] Fixed surveillance perspective, with slight noise texture, simulating real security camera footage.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079424266043555840/img/S_yyzcvMA1-Gyz21.jpg" width="600" alt="Traditional Chinese Door God Surveillance View">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7691)**
-
-**Author:** [PixelAIGC](https://x.com/PixelAigc) | **Source:** [Link](https://x.com/PixelAigc/status/2079491939506999402) | **Published:** Jul 21, 2026
-
----
-### First-Person Beach Family Travel Vlog
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for generating a realistic 15-second first-person travel vlog of a beach day with family, including selfie transitions and golden hour lighting.
-
-#### 📝 Prompt
-
-```
-Ultra-realistic 4K first-person travel vlog. A young woman is filming herself with her smartphone while spending a day at the beach with her family during golden hour. The video begins with a smiling selfie as she says hello to the camera, then she flips the camera to show the ocean and her family walking behind her. She records her younger siblings building a sandcastle, kneels down to help them while holding the phone in one hand, captures close-up shots of shells and wet sand, then switches back to selfie mode while laughing. She records her parents smiling in the background, then films everyone running into the shallow waves. The final shot is a joyful selfie with the whole family behind her splashing water. Natural handheld phone movements, realistic front and rear camera transitions, slight camera shake, authentic vlog framing, cinematic golden-hour lighting, photorealistic skin textures, genuine emotions, documentary style, no AI look.\n\nVoice-over (15 seconds)\n\n> \"Nothing beats a beach day with the people you love. Just sunshine, salty air, endless laughter, and memories I'll never forget.\"
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079488301656940544/img/4XNMDbMv_r7cgajJ.jpg" width="600" alt="First-Person Beach Family Travel Vlog">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7678)**
-
-**Author:** [Yashal Ai](https://x.com/_YashalAli) | **Source:** [Link](https://x.com/_YashalAli/status/2079488425783140606) | **Published:** Jul 21, 2026
-
----
-### Tactical Getaway Chase
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A high-tension cinematic prompt for a tactical getaway scene from a rooftop parking lot at dusk.
-
-#### 📝 Prompt
-
-```
-Cinematic wide shot, high-angle rooftop parking lot at dusk, concrete surfaces marked with tyre skid marks, distant city skyline glowing in the background, soft orange and blue twilight lighting. Heavy metal access doors burst open violently, swinging wide. A man in dark tactical gear sprints out at full speed, leaning forward with urgency, coat flapping behind him. He races straight toward a sleek black getaway sedan positioned 20 meters away; its engine is roaring, tires are already spinning and screeching on the tarmac, kicking up faint dust and smoke as the driver holds position ready to depart. Camera tracks smoothly alongside his movement, quick cuts between close-ups of his rushing feet, the screeching tires, and the car’s idling headlights. Tense, fast-paced atmosphere, realistic motion blur, 4K resolution, 24fps, film grain, dramatic thriller tone, no text or watermarks.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079477910759444480/img/9qhXFa5ki3gshqk0.jpg" width="600" alt="Tactical Getaway Chase">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7675)**
-
-**Author:** [Abkr Sadiq](https://x.com/abs_uiux) | **Source:** [Link](https://x.com/abs_uiux/status/2079477940383883567) | **Published:** Jul 21, 2026
-
----
-### Chalkboard Stick Figure Karate Battle
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed 2D animation prompt for a chalkboard scene where stick figures transition from sharing a flower to an intense martial arts fight.
-
-#### 📝 Prompt
-
-```
-15-second 2D animated video. Camera is completely steady and static the entire time. On the large green chalkboard in a elementary classroom, two simple white chalk stick figures are drawn facing each other (male on the left, female on the right with a ponytail). Sequence: 0–5 seconds: The male stick figure (left) reaches behind his back and pulls out a white chalk-drawn flower. He gently offers the flower to the female stick figure. Small white chalk hearts appear around them. The female stick figure becomes shy and kilig, covering her face slightly with one hand while little hearts float up. All hearts and effects stay strictly inside the green chalkboard. 5–7 seconds: Sudden pause. Both stick figures freeze for a moment. 7–15 seconds: They suddenly drop into intense karate fighting stances. The two stick figures start a very intense chalk-drawn karate fight — fast punches, high kicks, spins, and dramatic poses. White chalk motion lines, impact stars, and dust effects appear with every hit. All motion lines, stars, dust, and graphic effects remain completely inside the green chalkboard and never go outside the board edges. Everything stays as white chalk drawings on the green board. The classroom background, desks, chairs, and posters remain completely still and unchanged. No camera movement. Clean 2D animation style, simple chalk line art, white chalk only, highly detailed motion, 15 seconds. Negative prompt: 3D, realistic people, moving camera, colored chalk, effects going outside the board, changing background, blurry, low quality
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079463125305405440/img/KBmMYLEOpxj0RMlL.jpg" width="600" alt="Chalkboard Stick Figure Karate Battle">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7679)**
-
-**Author:** [MrDejie](https://x.com/mrdejie) | **Source:** [Link](https://x.com/mrdejie/status/2079463899305476233) | **Published:** Jul 21, 2026
-
----
-### Fashion UGC Advertisement Ad
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A user-generated content style fashion advertisement prompt for showcasing an elegant dress with natural movements and realistic smartphone camera aesthetics.
-
-#### 📝 Prompt
-
-```
-Create a 15-second vertical (9:16) UGC-style fashion advertisement that feels authentic, premium, and social-media ready.
-
-The model is wearing the EXACT dress shown in the attached reference image. Do not redesign, modify, recolor, simplify, or reinterpret the dress in any way. Maintain identical embroidery, fabric, silhouette, neckline, sleeves, dupatta, borders, patterns, proportions, textures, embellishments, and overall craftsmanship throughout the entire video.
-
-A confident young woman stands in a bright, modern home with soft natural morning light. She gently showcases the dress while smiling warmly as if recommending it to a friend. Her hair is long, healthy, shiny, and naturally bouncy.
-
-She speaks directly to the camera:
-"I've finally found a dress that feels as beautiful as it looks. The craftsmanship is stunning, the fabric feels luxurious, and every detail looks incredibly premium. It's elegant, comfortable, and honestly makes me feel confident every time I wear it. If you're looking for a timeless outfit, you have to try this!"
-
-Storyboard:
-
-Scene 1:
-Close-up of the dress in her hand as she introduces it by gently showcasing the embroidery, fabric texture, and premium craftsmanship.
-
-Scene 2:
-She gently spreads the dupatta and lightly runs her hand across the embroidery, showing the intricate detailing and luxurious fabric movement.
-
-Scene 3:
-Beauty shots of her wearing the dress while walking naturally, adjusting the dupatta, lightly twirling, and showcasing realistic fabric flow, elegant movement, and premium embroidery from different angles.
-
-Scene 4:
-After styling herself, she confidently flips her silky, glossy hair while smiling at the camera, allowing the dress to flow naturally as she turns.
-
-Scene 5:
-Final hero shot holding the dupatta beside her while showcasing the complete outfit against a clean, premium interior background. She smiles and says,
-"Highly recommend!"
-
-The video should have realistic smartphone camera quality, natural handheld movement, genuine facial expressions, smooth transitions, accurate lip sync, premium visibility of the dress throughout, and a polished yet authentic UGC aesthetic. The dress remains perfectly identical to the attached reference image, with every embroidery detail, color, fabric texture, silhouette, and design element consistently visible in every shot.
-```
-
-<img src="https://cms-assets.youmind.com/media/1784704009647_x6vcu6_HNu2ACGboAAz9sI.jpg" width="600" alt="Fashion UGC Advertisement Ad">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7654)**
-
-**Author:** [ᴍᴜʀᴘʜʏ](https://x.com/Diplomeme) | **Source:** [Link](https://x.com/Diplomeme/status/2079455816772649210) | **Published:** Jul 21, 2026
-
----
-### Delivery Courier Character Turnaround
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A character design reference for a delivery courier in a green and charcoal uniform, intended as a visual reference for Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Ultra-realistic full-body character turnaround sheet of a delivery courier wearing a modern green-and-dark-charcoal waterproof uniform. The layout includes front view, back view, left side, right side, 3/4 front, 3/4 back, a clean head-and-shoulders portrait, and a first-person POV looking down at both arms. The courier wears a green baseball cap, green crew-neck shirt, green hooded rain jacket with dark charcoal side panels, reflective silver strip near the hem, black slim-fit pants, and black athletic sneakers. White vertical branding printed on the jacket front panel and horizontal branding across the back. Neutral facial expression, athletic build, realistic skin texture.
-Studio product photography, seamless light gray background, soft diffused lighting, perfectly centered framing, consistent scale, orthographic reference style, highly detailed fabric texture, waterproof material, realistic stitching, clean folds, accurate proportions, fashion catalog quality, photorealistic, 8K, ultra-sharp, no shadows distracting from the subject, professional apparel design presentation.
-```
-
-<img src="https://cms-assets.youmind.com/media/1784704027343_hm3h33_HNuhOFtaUAA6IYg.jpg" width="600" alt="Delivery Courier Character Turnaround">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7666)**
-
-**Author:** [Kashberg](https://x.com/Kashberg_0) | **Source:** [Link](https://x.com/Kashberg_0/status/2079432928019505314) | **Published:** Jul 21, 2026
-
----
-### Multiverse Dimensional Portal Fall
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A complex multi-portal journey prompt where a character falls through different dimensions, transforming from a realistic human into animated, voxel, and sci-fi versions.
-
-#### 📝 Prompt
-
-```
-STYLE
-Ultra-realistic cinematic adventure, live-action quality, blockbuster filmmaking, photorealistic, seamless visual transitions, grounded physics, natural daylight, HDR, immersive storytelling.
-
-CHARACTER
-A handsome young adult male with short dark hair, athletic build, wearing a black jacket over a gray T-shirt, dark jeans, and sneakers. Natural facial expressions and believable reactions.
-
-CAMERA
-Shot on an ARRI Alexa 65 with anamorphic lenses. Smooth cinematic tracking, aerial camera movements, realistic motion blur, shallow depth of field, seamless transitions.
-
-LIGHTING
-Bright natural daylight with physically accurate sunlight, realistic shadows and atmospheric haze.
-
-TIMELINE
-
-0.0–4.0s | Scene 1
-Real life like realistic style, natural lighting, The man standing on the rooftop of a tall building overlooking a busy modern city. A massive glowing dimensional portal suddenly opens high in the sky beyond the rooftop in front of him. The camera smoothly circles behind him into an over-the-shoulder view. Curious, he begins running toward the mysterious phenomenon. As he reaches it, gravity suddenly shifts, lifting him off the rooftop and pulling him into the portal. He immediately enters a continuous high-speed freefall through an endless sky. His expression changes from curiosity to complete shock. 4.0–8.0s | Scene 2, Still falling with realistic body movement and accurate wind interaction, a glowing portal appears below him. He passes smoothly through it without interruption. Instantly, the entire environment transforms into a vibrant animated city. Buildings, streets, vehicles, people, and even the character become high-quality animation while preserving his hairstyle, facial features, and clothing design. He looks at his animated hands and outfit in amazement while continuing to fall naturally. Another glowing portal appears below.
-8.0–12.0s | Scene 3
-He falls through the next portal in one seamless motion. The world instantly transforms into a detailed voxel-style universe with block-built cities, roads, trees, clouds, vehicles, and people. His appearance changes into the same voxel style while keeping the same exact outfit and proportions. He continues falling with believable physics, examining his transformed body before spotting another portal beneath him.
-12.0–16.0s | Scene 4
-Passing through the next portal, everything transforms into a realistic futuristic sci-fi metropolis with advanced architecture, hovering vehicles, holographic displays, and cutting-edge technology. His clothing naturally changes into a sleek high-tech suit matching the environment, still his face and hands visible as the same character . Still falling continuously, he looks at his futuristic gloves and suit with disbelief while another glowing portal forms below.
-16.0–20.0s | Scene 5
-He enters the final portal in one perfectly smooth transition. The environment
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079428072974204928/img/KNIgiLTv2qL-mL03.jpg" width="600" alt="Multiverse Dimensional Portal Fall">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7665)**
-
-**Author:** [Nabab Uddin](https://x.com/NababUddin2) | **Source:** [Link](https://x.com/NababUddin2/status/2079428121133240602) | **Published:** Jul 21, 2026
-
----
-### Premium Lifestyle Beverage Commercial
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt for a luxury apple juice commercial, featuring a consistent female character across multiple downtown city and rooftop scenes.
-
-#### 📝 Prompt
-
-```
-Create a premium lifestyle beverage commercial featuring the same young East Asian woman throughout the entire sequence. Maintain identical facial features, long soft ash-brown wavy hair, glowing skin, body proportions, and outfit in every shot. She wears a fitted black ribbed crop top, light blue ripped high-waisted jeans, white sneakers, silver hoop earrings, layered silver necklaces, sunglasses resting on her head, and a small white shoulder bag. Modern downtown city filled with murals, cafés, boutique stores, rooftop terraces, premium juice bars, vibrant summer atmosphere, bright natural sunlight, luxury commercial cinematography, crisp green and white color palette inspired by fresh apples.
-
-The video opens with her smiling confidently into the camera while standing outside a stylish juice bar. She notices an ice-cold sparkling apple drink displayed on ice, picks it up with excitement, rotates the bottle beside her face as condensation glistens in the sunlight, then smiles and says, "Fresh starts here!"
-
-A cinematic macro hero shot showcases the chilled apple drink surrounded by crisp green apples, ice cubes, sparkling water droplets, and fresh mint leaves. She twists the cap open with a satisfying crisp pop. Slow-motion close-ups capture tiny sparkling bubbles rushing upward as she takes a refreshing sip. Her smile immediately brightens.
-
-She walks confidently through colorful downtown streets decorated with murals, flower planters, cafés, and boutique storefronts. Smooth handheld tracking shots follow her while the breeze naturally moves her hair. She casually browses fashion boutiques, tries on sunglasses, admires shop windows, and continues enjoying her apple drink.
-
-She meets her friends at a stylish rooftop café overlooking the city skyline. They greet each other with hugs, laugh together, order light meals, and place chilled apple drinks on the table while enjoying the warm afternoon sunshine.
-
-As golden hour approaches, the group walks across the rooftop terrace. Music from a nearby street performance inspires spontaneous dancing and playful moments. Handheld and gimbal shots capture genuine laughter, hair movement, and energetic choreography while everyone keeps their apple drinks in hand.
-
-The celebration continues as they gather at the rooftop edge during sunset. Warm golden light illuminates the skyline while everyone raises their chilled apple drinks together, laughing and enjoying the view. Cinematic close-ups capture sparkling condensation and realistic liquid movement inside the bottles.
-
-Final cinematic hero shot: the young woman steps toward the camera holding the ice-cold apple drink directly in front of the lens. The city skyline glows behind her as she smiles warmly and says,
-
-"Stay fresh. Stay vibrant."
-
-The camera slowly pulls back to reveal the breathtaking rooftop skyline, glowing sunset, friends celebrating together, and the vibrant dow
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079424239158108161/img/qNyekKsnTCeLE6pq.jpg" width="600" alt="Premium Lifestyle Beverage Commercial">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7659)**
-
-**Author:** [Smiling Khan](https://x.com/AIwithkhan) | **Source:** [Link](https://x.com/AIwithkhan/status/2079424272636969282) | **Published:** Jul 21, 2026
-
----
-### Realistic Japanese Lifestyle Beauty Studio Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A comprehensive prompt for generating a high-quality, ultra-realistic lifestyle video featuring a character's beauty transformation in a Japanese setting.
-
-#### 📝 Prompt
-
-```
-Create an ultra-realistic cinematic lifestyle video featuring the same young East Asian woman throughout the entire sequence. Maintain identical facial features, long soft ash-brown wavy hair, glowing skin, body proportions, and outfit in every shot. She wears a fitted white ribbed crop top, high-waisted blue denim jeans, white sneakers, and carries a cream canvas shoulder bag. Bright summer morning, modern Japanese neighborhood, premium beauty studio with elegant lighting, luxury makeup stations, large mirrors, realistic reflections, soft neutral interiors, and a relaxed lifestyle aesthetic.
-
-The video opens with her standing in front of her bedroom mirror, gently brushing her hair and applying lip balm before smiling at herself. She grabs her cream shoulder bag, phone, sunglasses, and keys before leaving the apartment.
-
-She walks through peaceful Japanese streets lined with cafés, flower planters, boutique stores, and vending machines. Smooth handheld tracking shots follow her while the warm morning sunlight filters through the trees and a gentle breeze moves her hair naturally.
-
-She arrives at a luxurious Japanese makeup studio where the receptionist warmly welcomes her. She meets the makeup artist, browses a makeup inspiration lookbook together, and they happily discuss a fresh, glowing natural look.
-
-She sits comfortably in the makeup chair while the artist gently prepares her skin using toner, moisturizer, and primer. Close-up cinematic shots capture soft makeup brushes, beauty sponges, glowing skin, delicate powder particles, and premium cosmetic products arranged neatly on the vanity.
-
-The makeup artist carefully applies foundation, blush, soft eyeshadow, eyeliner, mascara, highlighter, and a glossy lip tint using smooth professional techniques. She smiles naturally as the transformation progresses while the large vanity mirror reflects the elegant studio.
-
-The stylist lightly curls and smooths the front sections of her hair before adding the final finishing touches. She admires her glowing makeup from different angles, takes a mirror selfie, thanks the makeup artist with a warm smile, and leaves the studio feeling confident.
-
-Outside, she walks through the sunny Japanese streets with her fresh makeup glowing beautifully in the natural light. She pauses at a boutique window, catches her reflection, smiles proudly, then looks toward the camera and gives a playful wink before continuing her walk as the camera slowly pulls back to reveal the vibrant Japanese neighborhood.
-
-Natural ambient audio only: footsteps, city ambience, café chatter, soft conversations, makeup brushes, cosmetic bottles opening, powder brush sounds, hair tools, camera shutter, door chimes, birds chirping, gentle breeze, distant traffic. No background music, no subtitles, no logos, no watermarks, and no on-screen text. Premium commercial-quality cin
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079421996451180544/img/PpuSQDv38vu_GEtU.jpg" width="600" alt="Realistic Japanese Lifestyle Beauty Studio Video">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7668)**
-
-**Author:** [Synthia](https://x.com/AIwithSynthia) | **Source:** [Link](https://x.com/AIwithSynthia/status/2079422026327187759) | **Published:** Jul 21, 2026
-
----
-### Han River Bicycle Influencer Vlog
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A fast-paced influencer vlog prompt for Seedance 2.0 featuring a male character riding a bicycle at Han River and eating ramen, with specific shot timing and camera instructions.
-
-#### 📝 Prompt
-
-```
-Character Consistency: The subject is the young male influencer from the reference image. The face shape, facial features, and skin tone must match the reference image exactly in every time period and from every angle. Do not alter or distort the face.
-
-Outfit: Wear stylish and luxurious black casual, streetwear, or suit outfits in every scene. Do not wear the outfit from the character reference sheet. Completely change the outfit and hairstyle for each segment.
-
-Format: 9:16 vertical.
-
-Camera / Style: Fast editing rhythm with cuts every 0.5 to 1 second. iPhone handheld vertical shooting texture. Mix digital zoom in, zoom out, and tilt up, with natural camera shake. Include autofocus hunting, indoor and outdoor lighting exposure changes, and image quality degradation during zoom adjustments. Preserve real skin texture including pores, beard shadow, flyaway hairs, and natural skin oil. Do not use beauty filters, excessive skin retouching, CGI textures, or cinematic color grading. Do not merge cuts or omit scenes. Do not insert on screen text.
-
-Sound: Trendy hip hop or R&B background music mixed with natural environmental sounds such as street noise, footsteps, and everyday ambient sounds.
-
----
-
-Han River Bicycle Ride & Instant Ramen Mukbang
-
-0 to 2 seconds: [Yeouinaru Station Exit] Handheld low angle selfie shot walking quickly up the stairs while holding a bicycle helmet in your hand.
-
-2 to 4 seconds: [Bicycle Rental Station] Tight shot of tanned hands checking the bicycle chain, followed by a transition to a sporty face adjusting sunglasses while getting onto the bicycle seat.
-
-4 to 6 seconds: [Bicycle Path] Tight shot of feet rotating the pedals, followed by dynamic high speed front and side cross cuts riding with the Han River bridge in the background.
-
-6 to 8 seconds: [Han River Convenience Store] Hands placing an instant ramen cup into the ramen cooking machine, followed by a tilt up through the steam from the boiling ramen to a face swallowing in anticipation.
-
-8 to 10 seconds: [On a Picnic Mat] Close up lifting a large portion of ramen with chopsticks, followed by a satisfied reaction after eating the hot ramen and drinking a carbonated beverage.
-
-10 to 12 seconds: [Riverside Walking Path] Natural handheld tracking shot walking slowly on the gravel path while pushing the bicycle beside you and looking toward the sunset.
-
-12 to 15 seconds: [In Front of Mapo Bridge] Standing while leaning on the bicycle handlebars with the red sunset behind you, making a peace sign toward the camera. End with a front facing full body shot frozen on the final frame.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079417366442840064/img/9Iy1nyfIVffhC1Kh.jpg" width="600" alt="Han River Bicycle Influencer Vlog">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7684)**
-
-**Author:** [Shore Lyn](https://x.com/Shorelyn_) | **Source:** [Link](https://x.com/Shorelyn_/status/2079417477893931457) | **Published:** Jul 21, 2026
-
----
-### Miniature 3D Animation Snowfield Comedy
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for creating a stylized 3D animation video featuring a weather-station keeper and malfunctioning machines in a snowy environment.
-
-#### 📝 Prompt
-
-```
-A 15-second locked-camera snowfield comedy follows a lone weather-station keeper as three miniature machines malfunction one after another.
-
-Soft-sculpted forms, matte toy-scale machinery, powder-white snow, deep navy skies, coral-pink pines, and clean storybook lighting. Cute, cold, and increasingly chaotic—until she pulls the final power plug, wipes the lens, and ends the recording herself.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079407459660140544/img/5x2JiCsDuly9iSP_.jpg" width="600" alt="Miniature 3D Animation Snowfield Comedy">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7667)**
-
-**Author:** [料到Ai](https://x.com/liaodaoai) | **Source:** [Link](https://x.com/liaodaoai/status/2079407774690128008) | **Published:** Jul 21, 2026
-
----
-### Industrial Elevator Combat Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A gritty action movie prompt for Seedance 2.0 depicting a close-quarters combat sequence in a dimly lit industrial elevator.
-
-#### 📝 Prompt
-
-```
-A young Asian woman with a bob haircut and a dark tactical vest stands alone inside a dimly lit industrial elevator. A red emergency light blinks overhead. A man grabs her from behind and she fights back with swift defensive moves, breaking free. Claustrophobic framing, dark metallic walls, intense close-quarters combat choreography. Gritty action film aesthetic.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079389204564561920/img/62Vq-mYCDP0iLPWj.jpg" width="600" alt="Industrial Elevator Combat Scene">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7685)**
-
-**Author:** [Clark Rhuzel](https://x.com/clarkrhuz) | **Source:** [Link](https://x.com/clarkrhuz/status/2079389337725313242) | **Published:** Jul 21, 2026
-
----
-### Serene Ghibli-esque Riverside Picnic Prompt
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A peaceful animation-style video prompt depicting a forest picnic by a river, featuring food preparation details and soft natural lighting.
-
-#### 📝 Prompt
-
-```
-A serene animation-style riverside forest picnic scene, with fresh ingredients gathered directly from nature. Hands scoop silver fish from a clear stream, pick and wash green vegetable leaves, and slice fish and vegetables on a cutting board. Spices are sprinkled into an iron pot over a campfire, adding fish, greens, and mushrooms to simmer into a rich hot soup in a clay pot. Serving rice on a wooden table with a glass of fresh coconut juice, with warm dappled sunlight falling through the trees overhead. Cinematic animation style, vibrant colors, soft natural light, ultra-detailed, peaceful atmosphere, 4K.
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2079374801312063488/pu/img/2xAD4v6FFj4RlzIj.jpg" width="600" alt="Serene Ghibli-esque Riverside Picnic Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7617)**
-
-**Author:** [路飞 🏴‍☠️ AI 研究员🧐](https://x.com/0xluffy_eth) | **Source:** [Link](https://x.com/0xluffy_eth/status/2079374857159270882) | **Published:** Jul 21, 2026
-
----
-### Noodle Shop Comedy Skit iPhone POV
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A humorous 15-second skit prompt for a noodle shop scene, simulating a realistic handheld iPhone camera with environmental sounds and specific character dialogue and timing.
-
-#### 📝 Prompt
-
-```
-iPhone handheld shooting, authentic scene at the front counter of a budget noodle shop, third-person eye-level angle. Fully automatic camera: auto-exposure/autofocus/auto-white balance. Slight handheld shake + breathing sensation, occasional brief autofocus hunting, white balance adjusting naturally to warm yellow indoor lighting. Flat image, slight edge chromatic aberration, minor motion blur. No post-processing, color grading, filters, or effects. Natural ambient sound: noisy background, clinking bowls, distant chatter, faint radio music. Price list and dumpling posters on the background wall, 'hole-in-the-wall' texture. 0:00 Video starts. A male customer stands at the counter in profile, wearing a T-shirt and small earrings. Opposite is the landlady, wearing the outfit from image_20260720112517_1238_183, holding a large blue and white porcelain bowl of noodles. Camera is behind and to the side of the male customer at shoulder height. Handheld shake, breathing rise and fall. 0:02 Customer: 'Boss, why are there three prices for the small noodles?' Landlady looks up, raising an eyebrow. Camera still. 0:04 Customer points to the bowl: 'How much for that bowl in your hand?' Landlady: 'This? 8 yuan.' Casual tone. 0:06 Customer: 'And the 10 yuan one?' Landlady lowers the bowl, grabs a tiny pinch of scallions from the seasoning station, and sprinkles them in. She looks up expressionless. 0:08 Customer pauses: 'What about the 15 yuan one?' Landlady looks at him meaningfully, takes a pair of chopsticks, and picks up a large mouthful of noodles. 0:10 Landlady eats the noodles herself, chews, swallows calmly, then hands the bowl forward. Background music beat gets heavier. 0:12 Customer is stunned for a half-second, then his eyes light up. He lunges for the bowl, shouting: 'I want this one! I want this one!' Landlady smirks knowingly. 0:14 Customer holds the bowl like a treasure. Camera shake increases sharply as if the person filming is laughing uncontrollably. 0:15 Video ends on the exchange, still shaking. Natural environmental sounds throughout. No subtitles or watermarks.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079358354426580992/img/cuohmlb5Q7jRwRqD.jpg" width="600" alt="Noodle Shop Comedy Skit iPhone POV">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7690)**
-
-**Author:** [John](https://x.com/john87445528) | **Source:** [Link](https://x.com/john87445528/status/2079359038375026893) | **Published:** Jul 21, 2026
-
----
-### Anime Style Angry Girl Hair Ignition
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A multi-shot Seedance 2.0 animation prompt depicting a young girl's hair igniting with anger in a high-quality 2D anime style, including cinematic camera work and a resolution of conflict.
-
-#### 📝 Prompt
-
-```
-[Protagonist] 2nd grade elementary school girl with black bob hair
-
-[Video Style]
-15 seconds. Japanese full-color anime. High-density 2D animation with a 500 million yen budget scale. Meticulous background art, smooth in-betweens, and movie-quality filming. The composition, camera angles, screen size, and character distance change attractively to prevent repetition. No subtitles, no watermarks, no BGM. Includes ambient sounds.
-
-[Visual Composition] The protagonist's hair ignites with anger as they fail to find something they are looking for. The intensity of the flames changes color in sync with their emotions. Eventually, they find the culprit, a Zashiki-warashi, but their anger vanishes due to the creature's lack of malice, and the hair is extinguished into steam. Ends with an accomplice relationship.
-
-[Highlight Scene (Must be included in Shot 5-7)] As a sign of reconciliation, the Zashiki-warashi places a small blessing at the bedside, and the singed hair is restored overnight.
-
-Shot 1 (Ignition Hook): A long hotel corridor. The hair of the protagonist, who cannot find their belongings, suddenly ignites with a bluish-white flame. A stern expression with raised eyebrows.
-Shot 2 (Rising Intensity): Every time a lead fails, the flames change color to red and orange and grow larger. A face with gritted teeth and increasing frustration.
-Shot 3 (Search): Searching the room while the hair is still burning. Houseplants in the areas they pass through wither. Rough, heavy footsteps.
-Shot 4 (Discovery): Finding the Zashiki-warashi holding the missing item in a gap between furniture. Eyes wide with a mixture of surprise and anger.
-Shot 5 (Confrontation): The flames reach their peak, but the Zashiki-warashi bows politely without malice. A face that looks deflated and taken aback.
-Shot 6 (Extinguishing): The anger loses its place to go, and the flames shrink into steam. Just the bangs are a bit frizzy. An awkward, sheepish smile.
-Shot 7 (Reconciliation): Getting the missing item back and making a pinky promise with the Zashiki-warashi. Smiling gently and saying "We're partners from today," as the steam clears.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075896963539808256/img/B9dUOjOXqRSkYKP5.jpg" width="600" alt="Anime Style Angry Girl Hair Ignition">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7623)**
-
-**Author:** [妖精アーヤさん](https://x.com/aiehon_aya) | **Source:** [Link](https://x.com/aiehon_aya/status/2079325482063949847) | **Published:** Jul 20, 2026
-
----
-### Aesthetic Japanese Woman Video Portrait
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A high-consistency video generation prompt for Seedance 2.0 that locks the character's facial features and clothing to the input image for a 15-second sequence.
-
-#### 📝 Prompt
-
-```
-Image to video, 15 seconds, horizontal 16:9. The main character is completely fixed to the person in the input image. Keep the face, skin, body type, black knee-length dress with a small floral pattern, and thong sandals identical until the end. A 25-year-old Japanese woman, black short bob, pale skin, and a fragile, cool-looking face.
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2079309250023538688/pu/img/ICONVTH6zEsOyL4K.jpg" width="600" alt="Aesthetic Japanese Woman Video Portrait">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=7625)**
-
-**Author:** [ぴょんきち](https://x.com/yarakashiyama_) | **Source:** [Link](https://x.com/yarakashiyama_/status/2079309320408215975) | **Published:** Jul 20, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -3716,6 +3625,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-24T02:56:48.856Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-25T02:59:40.799Z</sub>
 
 </div>
