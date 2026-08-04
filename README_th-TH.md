@@ -68,9 +68,9 @@
 
 | เมตริก | จำนวน |
 |--------|-------|
-| 📝 พรอมต์ทั้งหมด | **5654** |
+| 📝 พรอมต์ทั้งหมด | **5638** |
 | ⭐ พรอมต์แนะนำ | **6** |
-| 🔄 อัปเดตล่าสุด | **2026-08-03** |
+| 🔄 อัปเดตล่าสุด | **2026-08-04** |
 
 ---
 
@@ -462,42 +462,6 @@ blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, waterma
 **ผู้เขียน:** [Soran](https://x.com/Soranlan) | **แหล่งที่มา:** [Link](https://x.com/Soranlan/status/2084150357601443916) | **เผยแพร่เมื่อ:** Aug 3, 2026
 
 ---
-### Cinematic Multidimensional Free-Fall Sequence
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An incredibly detailed cinematic video prompt for a 30-second sequence featuring a man falling from a Tokyo skyscraper into various surreal, artistic rifts and dimensions.
-
-#### 📝 พรอมต์
-
-```
-A 30-second cinematic, ultra-wide photorealistic sequence. The camera dynamically orbits the subject, changing angles and trajectories every 2 seconds for continuous engagement. The focus strictly locks onto the character's full facial details, ensuring zero distortion to his face or body proportions throughout the chaotic motion.
-
-[0-3 Seconds: The Accidental Fall] The Asian man from the attached image (wearing round glasses, a black t-shirt, black athletic shorts, black socks, and black sneakers) walks casually atop a skyscraper overlooking Tokyo’s twilight Shibuya Crossing. He accidentally trips, gasps silently, and tumbles backward over the edge into free fall.
-
-[3-25 Seconds: The Orbital Dreamscape Plunge]As gravity accelerates his fall, he thrashes instinctively. The camera continuously orbits him every 2 seconds, tracking his undistorted expressions of terror as he crashes through rapid spatial rifts:
-Ukiyo-e Abyss: Plunging through glowing, liquid-ink Hokusai waves and geometric indigo voids.
-
-Torii Corridor: Orbiting through infinitely folding vermilion gates and darting golden-eyed phantom foxes.
-
-Sakura Nebula: Tumbling through weightless pink blossoms, Edo-period gold clouds, and shattered Mount Fuji ice.
-
-Noh Kaleidoscope: Spinning amid a ringed array of floating Noh and Kabuki masks that blink and trail ghostly afterimages.
-
-Koi Galaxy: Hurtling through infinite bamboo forests interlaced with liquid galaxies and luminous giant koi.
-
-Shinkansen Vortex: Reaching terminal velocity within a multidimensional spiral of glowing train tracks and flickering neon Japanese station signs.
-
-[25-30 Seconds: The Reality Crash]A 2-second frenzy of high-frequency flash cuts (sushi, Daruma, neon signs) assaults the background while the man remains perfectly frozen in focus. He shatters the final rift, violently crashing back into reality. His immense inertia halts instantly as he lands perfectly on his feet at the center of the Shibuya Crossing crowds. The camera snaps to a stable, frontal extreme close-up of his face—sweating, panting, and in shock (features fully preserved and undistorted). Surrounding pedestrians in earbuds walk by indifferently, ending abruptly on the stark contrast between his surreal panic and their mundane reality.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084144655537668096/img/rNEZTSOgaOwYO7G-.jpg" width="600" alt="Cinematic Multidimensional Free-Fall Sequence">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=8357)**
-
-**ผู้เขียน:** [Martin](https://x.com/martindacol) | **แหล่งที่มา:** [Link](https://x.com/martindacol/status/2084145439176036502) | **เผยแพร่เมื่อ:** Aug 3, 2026
-
----
 ### Apartment Balcony Gardening Vlog
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -705,31 +669,6 @@ TITLE BURJ KHALIFA VLOG  FORMAT 15 seconds | 16:9 | Live-action travel vlog Fict
 **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=8332)**
 
 **ผู้เขียน:** [ᴍᴜʀᴘʜʏ](https://x.com/Diplomeme) | **แหล่งที่มา:** [Link](https://x.com/Diplomeme/status/2084131147475501318) | **เผยแพร่เมื่อ:** Aug 3, 2026
-
----
-### Cinematic Tokyo Ramen Sequence
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed multi-scene prompt for a cinematic sequence in a Tokyo ramen shop featuring time manipulation and realistic fluid dynamics.
-
-#### 📝 พรอมต์
-
-```
-Style: Photorealistic cinematic realism. A cramped, atmospheric late-night Tokyo ramen shop — steam curling off broth pots, red paper lanterns, worn wooden counter, dangling bulb lighting, condensation on the windows, rain-slicked street glowing outside, subtle handheld camera movement, rich analog film grain.
-0–4s: Medium-wide shot. A young woman in an oversized denim jacket sits alone at the counter, composed with the faintest hint of amusement, slowly slurping noodles with chopsticks. Behind her, a young cook crosses the narrow kitchen carrying two steaming bowls of ramen in one hand and a full kettle of hot broth in the other. Near the entrance, an elderly regular begins to rise from his stool to leave.
-4–8s: Dynamic tracking shot. The elderly man stumbles backward and collides heavily with the cook. The bowls, noodles, broth, and kettle explode upward into the air. Broth stretches into long steaming ribbons with suspended droplets, noodles frozen mid-arc, steam curling in slow motion. The camera immediately performs a smooth orbital move around the collision as time freezes at the exact peak of the spill. Every face is locked in an expression of shock. Only the young woman at the counter continues moving naturally, calmly lifting another bite to her mouth.
-8–17s: Slow 360-degree orbit. The camera gracefully circles the frozen shop. Broth hangs in midair like molten glass ribbons and floating spheres, noodles suspended in delicate loops, steam frozen into soft drifting clouds. The bowls, kettle, and chopsticks drift weightlessly in suspended time. The woman takes another slow bite, her eyes half-closed with an almost bored expression. Then the frozen world begins to rewind elegantly. Every droplet, every noodle, and every person moves backward with perfect precision, returning toward their original positions.
-17–24s: Medium shot. The rewind ends flawlessly. The cook is once again carrying the bowls and kettle steadily. The woman looks up and casually raises two fingers, softly calling the cook by name. The cook turns his head at exactly the right moment, stepping around the elderly man as he rises. The collision never happens. A subtle, private smile flickers across the cook's face.
-24–30s: Extreme close-up. Hard cut to the woman's face. She takes one final slow slurp with a knowing smile, her eyes almost completely closed. Very shallow depth of field. The red lanterns behind her melt into soft, warm bokeh.
-Visual Quality: Photorealistic, cinematic image quality with highly accurate fluid and steam simulation, realistic gravity and collisions, motion blur only on moving objects, stable character consistency, seamless cinematic temporal continuity, natural facial performances, and premium filmic color grading.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084118752652873728/img/lFcCQRaPsPmyUlJm.jpg" width="600" alt="Cinematic Tokyo Ramen Sequence">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=8334)**
-
-**ผู้เขียน:** [Oogie](https://x.com/oggii_0) | **แหล่งที่มา:** [Link](https://x.com/oggii_0/status/2084118983507312869) | **เผยแพร่เมื่อ:** Aug 3, 2026
 
 ---
 ### Kyoto Bicycle Selfie Vlog
@@ -982,25 +921,6 @@ Rapidly return to [Main Character]'s face. With an overwhelmingly calm smile, lo
 **ผู้เขียน:** [妖精アーヤさん](https://x.com/aiehon_aya) | **แหล่งที่มา:** [Link](https://x.com/aiehon_aya/status/2084036527768629334) | **เผยแพร่เมื่อ:** Aug 2, 2026
 
 ---
-### Realistic Bladesmith Competition Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A complex reality TV style video prompt involving high-speed physics, ceramic shattering effects, and detailed documentary-style cinematography.
-
-#### 📝 พรอมต์
-
-```
-Reality TV bladesmith competition testing segment, multi-camera documentary production, bright industrial workshop lighting, sharp HD broadcast look, practical forge practicals, natural handheld shake on action cams, clean documentary texture, no cinematic film look. 0-4s: [Medium Two-Shot] Martial arts master of clear Asian ancestry in black tactical shirt stands facing the young female bladesmith in her early 20s (work apron, focused). He holds her forged machete, turns the blade once under the lights. Looks her in the eye: “Are you ready?” She answers firmly “Yes.” Quick cut to her determined face, then to three classic ceramic garden gnomes lined up on sturdy stands behind them. 4-7s: [Low-Angle Tracking + Rapid Cuts] Master steps in, raises the machete. Hard cut to side angle as he delivers a powerful overhead chop into the first gnome. Impact explodes in slow motion: ceramic shatters into sharp fragments, paint chips and dust fly outward. Time locks at peak penetration. Camera orbits the frozen blade buried in the broken gnome for one second. Quick insert ECU of the edge biting through the ceramic body. 7-11s: [Dynamic Side Tracking] Action resumes. Master yanks the machete free, immediately follows with a heavy diagonal slash across the second gnome. Slow-motion again: the figure tears apart sideways, large colored pieces and shards scatter. Freeze at maximum destruction. Two rapid cuts: one over-shoulder from behind the master, one low angle under the flying fragments. Orbit holds for half a second on the locked impact. 11-15s: [Handheld Close Action] Third strike — short, vicious downward chop into the third gnome. Slow-mo impact, the ceramic erupts into dozens of pieces, hat and beard flying. Full freeze. Camera pushes in and circles the frozen chaos for one beat. Quick insert of the master’s focused face mid-swing, then back to the locked blade. 15-19s: [Series of Fast Cuts] Time resumes. Master pulls the machete out, turns it under the light. Tight ECU tracks along the edge: a few small nicks and rolled spots visible. Cut to his fingers testing the edge. Cut to the ruined garden gnomes still shedding fragments. Cut to the young woman’s tense expression as she watches. 19-24s: [Medium Close-Up] Master lowers the blade, looks straight at her. Calm, professional delivery: “There are a couple of nicks on the edge… but your weapon, ma’am… it kills.” Hard cut to her face — a small, controlled smile of pride breaks through. 24-28s: [Final ECU Montage] Extreme close-up of the nicked but still lethal edge catching the light. Cut to the shattered remains of the garden gnomes. Final frame holds on the young bladesmith’s quiet satisfaction as the master nods once. Realistic TV broadcast quality, detailed ceramic shatter physics, sharp edge detail, natural motion blur only on moving elements, stable characters, coherent impact timing, no artifacts, high rewatch value.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084018282554654720/img/yPMt8cgeX6sQ1hyE.jpg" width="600" alt="Realistic Bladesmith Competition Scene">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=8351)**
-
-**ผู้เขียน:** [TechHalla](https://x.com/techhalla) | **แหล่งที่มา:** [Link](https://x.com/techhalla/status/2084018642300141851) | **เผยแพร่เมื่อ:** Aug 2, 2026
-
----
 ### Japanese Idol Lifestyle Vlog
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1212,41 +1132,6 @@ CHARACTER: Young female jump roper, light brown skin, sharp elegant facial featu
 **ผู้เขียน:** [TechieSA](https://x.com/TechieBySA) | **แหล่งที่มา:** [Link](https://x.com/TechieBySA/status/2083918174362181987) | **เผยแพร่เมื่อ:** Aug 2, 2026
 
 ---
-### City Rooftop Garden Jogging Vlog
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed cinematic storyline prompt for a rooftop garden scene at golden hour, featuring a runner and smooth transitions in lighting and camera work.
-
-#### 📝 พรอมต์
-
-```
-[Global Setting] Base Environment & Texture: A city rooftop garden at golden hour,
-warm orange light raking across wet pavement from earlier rain, soft haze in the
-skyline behind, string lights beginning to flicker on.
-
-[Opening beat, 0–8s]: Wide shot. A runner in a grey hoodie jogs into frame along
-the rooftop path, breath visible in the cool evening air, camera holds static.
-
-[Mid beat, 8–22s]: Camera begins a slow tracking pan alongside the runner at hip
-height, matching pace. Passing shots of string lights, a couple sharing a bench,
-steam rising from a nearby vent. Light shifts from orange to a deeper blue as the
-sun dips further.
-
-[Closing beat, 22–30s]: Runner slows to a stop at the rooftop edge, camera arcs
-around to a three-quarter front view, city skyline fully lit behind them, runner
-catches breath and looks out over the view. Hold on final frame.
-
-Audio: Footsteps on wet concrete, distant city ambience, wind, no music.
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2083915915658158080/pu/img/QwKcnQucmlNGCel0.jpg" width="600" alt="City Rooftop Garden Jogging Vlog">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=8329)**
-
-**ผู้เขียน:** [LudovicCreator](https://x.com/LudovicCreator) | **แหล่งที่มา:** [Link](https://x.com/LudovicCreator/status/2083915958524031087) | **เผยแพร่เมื่อ:** Aug 2, 2026
-
----
 ### Apartment Arrival Storyboard Animation
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1382,46 +1267,6 @@ Natural ambient audio only: ocean waves, gentle breeze, birds, footsteps on sand
 **ผู้เขียน:** [Synthia](https://x.com/AIwithSynthia) | **แหล่งที่มา:** [Link](https://x.com/AIwithSynthia/status/2083909727034003967) | **เผยแพร่เมื่อ:** Aug 2, 2026
 
 ---
-### Medieval Shame Walk Cinematic Sequence
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A gritty, high-end medieval television style prompt for a cinematic "shame walk" sequence, inspired by period dramas, featuring detailed crowd physics and atmospheric lighting.
-
-#### 📝 พรอมต์
-
-```
-[STYLE + CAMERA + ATMOSPHERE]
-Gritty high-end medieval television production look. Shot on ARRI Alexa XT with Cooke anamorphic lenses, mix of Steadicam tracking and handheld inside the crowd. Natural overcast daylight, desaturated dirty palette, visible film grain, realistic crowd physics and fabric movement. No modern polish.
-
-[CHARACTERS]
-Central figure: proud middle-aged noblewoman with roughly cropped short blonde hair, wearing a plain rough grey woolen penitential robe that fully covers her, barefoot, pale skin, rigid upright posture that slowly cracks under public condemnation. Stern middle-aged woman in plain brown religious robes walking just behind her, continuously ringing a large heavy iron handbell and chanting in a loud flat voice. Dense crowd of dirty medieval city dwellers of every age and class in period clothing packed on both sides and leaning from windows.
-
-[LOCATION]
-Narrow winding cobblestone streets of a medieval coastal city, high stone walls, arched doorways, wooden shutters, mud on the ground.
-
-[TIMELINE]
-0-6s: [Steadicam tracking medium-wide from the side] The woman in the plain robe walks steadily forward with forced dignity. The robed woman stays half a step behind ringing the bell and chanting “Shame. Shame. Shame.” Crowd begins to notice, first heads turn, early shouts of “Shame!” rise.
-
-6-12s: [Handheld inside the pack, pushing closer] Crowd presses tighter along the path. Faces show pure contempt. Children point and call out. The woman keeps her chin high but her eyes start to glaze. Bell never stops. Chant continues: “Shame. Shame. Shame.”
-
-12-18s: [Low tracking shot moving with her feet then tilting up to face] Bare feet slap wet cobblestones. A woman leans from a window and shouts “Shame!” The central woman’s jaw tightens, first tears form but she does not break stride. Crowd noise becomes a continuous wall of overlapping “Shame!” mixed with the bell.
-
-18-24s: [Medium close-up handheld, slight shake] Camera stays locked on her face as the controlled mask cracks. Tears finally fall. She stares straight ahead, breathing harder. Behind her the religious woman rings harder and keeps the flat chant. The plain robe shifts with every step under the weight of the stares.
-
-24-30s: [Pull-back Steadicam wide tracking] The full street is visible: wall of bodies on both sides, continuous shouting of “Shame! Shame! Shame!” mixed with the bell. The woman continues walking, posture still upright but now visibly broken, tears streaming, until the frame holds on her isolated figure moving through the condemnation.
-
-[STYLE & QUALITY BOOSTERS]
-Exact period production texture of a major series, coherent physics of every body and fabric movement, stable character continuity, natural motion blur, no modern digital cleanliness, no artificial enhancement.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083908104169693184/img/-2lYWjOs7HbD5pLN.jpg" width="600" alt="Medieval Shame Walk Cinematic Sequence">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=8343)**
-
-**ผู้เขียน:** [TechHalla](https://x.com/techhalla) | **แหล่งที่มา:** [Link](https://x.com/techhalla/status/2083908360118616268) | **เผยแพร่เมื่อ:** Aug 2, 2026
-
----
 ### Gag Anime React Scene
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -1496,25 +1341,6 @@ A young woman in a modern traditional Chinese outfit performs a powerful Wushu-i
 **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=8338)**
 
 **ผู้เขียน:** [simeon-sanai](https://x.com/Naiknelofar788) | **แหล่งที่มา:** [Link](https://x.com/Naiknelofar788/status/2083883688962752606) | **เผยแพร่เมื่อ:** Aug 2, 2026
-
----
-### Handmade Clay Mug Animated Short
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A touching 3D animation prompt for Seedance 2.5 about a clay mug longing for attention in a kitchen cupboard. It uses a stylized 3D look with warm emotional lighting.
-
-#### 📝 พรอมต์
-
-```
-[SCENE] A 30-second stylised 3D animated short. A handmade clay mug at the back of a kitchen cupboard waits to be chosen, while the perfect porcelain cups at the front are used every day. Warm, funny, quietly moving. 2.35:1. [REFERENCES] All
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083869071490035712/img/n9yZdjf35-XI5dBU.jpg" width="600" alt="Handmade Clay Mug Animated Short">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=8361)**
-
-**ผู้เขียน:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **แหล่งที่มา:** [Link](https://x.com/Dheepanratnam/status/2083869167791305173) | **เผยแพร่เมื่อ:** Aug 2, 2026
 
 ---
 ### Golden Hour Luxury TVC
@@ -1737,25 +1563,6 @@ blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, waterma
 **ผู้เขียน:** [Soran](https://x.com/Soranlan) | **แหล่งที่มา:** [Link](https://x.com/Soranlan/status/2083865850621169782) | **เผยแพร่เมื่อ:** Aug 2, 2026
 
 ---
-### Japanese Summer Festival Travel Vlog
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A realistic smartphone-style travel vlog prompt of a woman exploring a lantern-lit Japanese summer festival, featuring selfie-mode filming and genuine interactions.
-
-#### 📝 พรอมต์
-
-```
-A 30-second photorealistic smartphone travel vlog. A young Japanese woman wearing a pastel yukata explores a traditional Japanese summer festival at night. She films herself in selfie mode with natural handheld movement, realistic phone camera quality, and authentic ambient sounds. She walks through lantern-lit streets, buys fresh takoyaki and smiles after taking a bite, plays a traditional festival game and wins a small plush toy, then watches a spectacular fireworks display with the crowd, capturing her genuine excitement. She ends the vlog by waving at the camera and saying, "Thanks for coming with me. See you next time. Bye!" The video should feel natural, cinematic, and realistic with consistent appearance, smooth human motion, and authentic festival atmosphere.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083857416773410816/img/CLorPMjxlwLTirMa.jpg" width="600" alt="Japanese Summer Festival Travel Vlog">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=8339)**
-
-**ผู้เขียน:** [𝗦𝗮𝗻𝗶𝗮](https://x.com/saniaspeaks_) | **แหล่งที่มา:** [Link](https://x.com/saniaspeaks_/status/2083857544024600757) | **เผยแพร่เมื่อ:** Aug 2, 2026
-
----
 ### Dark Fantasy Dragon Rider Sequence
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1813,25 +1620,6 @@ a futuristic fashionista dancing, colorful wavy neon light streaks trail her han
 **ผู้เขียน:** [Mystique Licorne 🇨🇦](https://x.com/MystiqueLicorne) | **แหล่งที่มา:** [Link](https://x.com/MystiqueLicorne/status/2083844503824195918) | **เผยแพร่เมื่อ:** Aug 2, 2026
 
 ---
-### The Invisible Roommate Concept Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A creative text-to-video prompt for Seedance 2.5 depicting an invisible entity living alongside a human in a messy apartment.
-
-#### 📝 พรอมต์
-
-```
-A small messy apartment in the late afternoon. A young man comes home, drops his keys, and goes to the kitchen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083835336682016768/img/75ws7DSjw34PR2yd.jpg" width="600" alt="The Invisible Roommate Concept Video">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=8358)**
-
-**ผู้เขียน:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **แหล่งที่มา:** [Link](https://x.com/Dheepanratnam/status/2083838246459408833) | **เผยแพร่เมื่อ:** Aug 2, 2026
-
----
 ### Cinematic Anime Samurai Duel
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1879,44 +1667,6 @@ The camera slowly rises above the lake while the sky glows deeper orange. Natura
 **ผู้เขียน:** [𝐌](https://x.com/Strength04_X) | **แหล่งที่มา:** [Link](https://x.com/Strength04_X/status/2083836469001720029) | **เผยแพร่เมื่อ:** Aug 2, 2026
 
 ---
-### Sweet Ancient Style Dance Video
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A comprehensive prompt for creating a 7-second ancient-style dance video with precise character facial details, costume specifications, and choreographed movements.
-
-#### 📝 พรอมต์
-
-```
-7 seconds, 9:16 aspect ratio, one-shot, sweet ancient-style OOTD short video. Full 7-second audio playback synchronized with character dance. Strictly use the adult female from @CharacterReferenceImage as the sole character: use the right-side facial close-up for appearance, and the left-side front view/middle back view for clothing, hairstyle, and back structure. Perfectly maintain her small oval face, delicate features, red forehead floral mark, deep brownish-black high classical bun, pale gold floral hairpin, pearl tassels, and dangling bead chains on both sides. Completely preserve the pale champagne white and light peach pink ancient dance attire, embroidered tube top inner layer, light apricot transparent long-sleeved gauze robe, pale gold waist seal, metal chain ornaments, and multi-layered flowing skirt. Face swapping, outfit changes, hairstyle alterations, or addition/removal of accessories are strictly prohibited. Only refer to the @ReferenceVideo for movement trajectories, postures, rhythm, scene changes, and composition; do not inherit the face, hair, clothing, color, or material of the original video character. Pure white shadowless studio, high-angle slight top-down shot, ultra-wide-angle slight perspective, camera mostly fixed, character always in clear full-body or upper-body view. 0–1s: Character walks in gracefully from the right side lifting a bit of the skirt, long skirt and gauze sleeves swaying naturally. 1–2s: Character approaches the camera, upper body leaning forward slightly, looking into the lens with a sweet and restrained expression. 2–3s: Hands lightly resting on the waist forming a natural cinched silhouette, playful slight head tilt. 3–4s: Elegant half-turn to show the back of the costume, hairstyle, and waist seal structure, then looking back at the camera. 4–5s: Turns back to the front with a shallow smile, arms stretching naturally to the sides, gauze sleeves falling slowly. 5–6s: Hands placed lightly behind the back, looking down to adjust posture, then slightly tilting the head to look at the camera. 6–7s: Resting hands on waist again, character first turns to look at a 45-degree angle forward, gaze focusing on a distant point outside the frame, then turns back to the camera, freezing in a sweet, confident, and dignified ancient posture. Movements are natural, coherent, light, and restrained, avoiding large-scale dance moves. The hem of the skirt, gauze sleeves, bead tassels, and side hair strands produce natural inertia with the movements. Bright soft lighting, clear and high brightness, soft champagne tones, a high-end texture combining ancient costume film ads with Korean-style fashion short films. Fast-paced, no dialogue, accompanied by ethereal national-style pop music. Character identity, features, hairstyle, clothing patterns, and accessory positions remain stable throughout, face clear and stable, real skin texture, 4K quality, clear details. Do not use the blank face-covering from the left front view as the character face; the appearance must come from the right facial close-up. Do not inherit the original video's face, hair, or clothing. Do not add characters, change outfits, jump cut, or have large camera movements/shaking. Avoid rapid rotation, violent sleeve swinging, skirt covering face, limb deformation, extra fingers, or background changes.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083818795626635264/img/51hjgUWV9zwplOTC.jpg" width="600" alt="Sweet Ancient Style Dance Video">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=8378)**
-
-**ผู้เขียน:** [Lc玩AI](https://x.com/acupofai) | **แหล่งที่มา:** [Link](https://x.com/acupofai/status/2083820282461184354) | **เผยแพร่เมื่อ:** Aug 2, 2026
-
----
-### Tokyo Streetwear Night Fashion Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A high-energy streetwear fashion prompt utilizing fisheye lenses, Y2K aesthetics, and fast-paced Tokyo urban night transitions.
-
-#### 📝 พรอมต์
-
-```
-Cinematic 13-second raw handheld streetwear fashion video shot on 8mm vintage fisheye lens, ultra wide 16mm perspective, fast-paced energetic Tokyo urban night sequence, dynamic raw Y2K hip hop aesthetic, 16:9 aspect ratio. 0 to 2 seconds: Extreme close-up opening through a narrow vertical zipper slit in pitch blackness, revealing a young Asian man wearing a black streetwear bucket hat and embroidered jacket crouching down. The camera rapidly pans out through the slit into a super wide fisheye low-angle perspective looking up at two young men standing in a glowing Tokyo street corner at night surrounded by tall neon skyscrapers under dark skies. 2 to 4 seconds: Quick handheld whip-pan to the right down a neon lit sidewalk. A young black man with braided hair wearing a bright royal blue sweater with yellow lettering and a green paisley scarf steps casually through the frame while gesturing at the camera. Fast rotational motion blur transition sweeps across the screen. 4 to 6 seconds: Scene cuts smoothly inside a bright Japanese claw machine arcade filled with pastel pink interior walls and fluorescent overhead lights. The camera tracks backward as the young man in the blue sweater walks forward holding a small pink object to his ear while smiling and talking. An animated stylized liquid frame graphic swirls briefly around the edges of the frame. 6 to 8 seconds: Seamless cut to a retro mint green fast-food diner booth with warm overhead hanging lamp lighting. Low-angle wide view on the white tabletop as the man in the blue sweater reaches his hand directly toward the camera glass offering food. A quick dynamic psychedelic thermal infrared visual effect flashes over the screen for half a second showing vivid heat map colors of red, neon green, and deep blue before snapping back to real life. 8 to 10 seconds: The second man wearing the black jacket suddenly pops up from the diner table with an energetic reaction, holding a drink cup as the camera sweeps low. Fast cut to outdoors on a night street where both men walk along the pavement and high five each other in motion under glowing urban shop signs. 10 to 13 seconds: Camera drops to an extreme ground-level fisheye lens pointing straight up from the asphalt of a narrow alleyway. Both men loom over the lens under vertical glowing Japanese neon signboards. One subject stoops down and reaches his palm directly over the camera lens, causing a rapid spinning rotational motion blur that wipes the screen to black. Visual details: Authentic analog film grain, natural subtle lens distortion, realistic handheld camera shake, rich contrasty neon lighting, crisp reflections on pavement, high energy streetwear styling, realistic 90s hip hop music video camera direction. Audio includes an upbeat boom bap 90s hip hop beat with heavy bass, classic vinyl scratches, energetic vocal chops, synth accents, dynamic street ambiance, arcade sound effects, and clean rhythmic percussion layered throughout
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083618604663418880/img/KjvChCM7Qfu1TjJd.jpg" width="600" alt="Tokyo Streetwear Night Fashion Video">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=8308)**
-
-**ผู้เขียน:** [BMX](https://x.com/bmx_ai13) | **แหล่งที่มา:** [Link](https://x.com/bmx_ai13/status/2083814808319562052) | **เผยแพร่เมื่อ:** Aug 2, 2026
-
----
 ### Morning Routine Lifestyle Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1953,43 +1703,6 @@ Create a 15-second cute 3D chibi animated fast-food commercial, strictly followi
 **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=8366)**
 
 **ผู้เขียน:** [Ima Studio](https://x.com/ImaStudio_ai) | **แหล่งที่มา:** [Link](https://x.com/ImaStudio_ai/status/2083804993598198055) | **เผยแพร่เมื่อ:** Aug 2, 2026
-
----
-### Luxury Pizza Social Media Ad
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A high-quality 10-second premium pizza commercial prompt with macro food shots and character consistency.
-
-#### 📝 พรอมต์
-
-```
-Use the provided image as the identity reference for the woman. Preserve her facial features, hairstyle, makeup, blue gingham dress, and jewelry consistently throughout the video.
-Create an ultra-premium pizza commercial with warm golden lighting, realistic steam, floating flour particles, creamy bokeh, HDR, 8K textures, macro food cinematography, and flawless skin rendering.
-Scene 1 (0–2.5s)
-Open with an extreme macro shot of a premium wood-fired pizza fresh from the oven. Cheese bubbles, pepperoni glistens, basil sparkles with tiny water droplets, dramatic steam rises, and orange flames flicker in the background. Hyper-realistic food styling.
-Scene 2 (2.5–5s)
-Smooth cinematic dolly-in reveals the woman seated beside the pizza in a luxurious Italian restaurant. Warm amber lighting, blurred "PREMIUM PIZZA" neon sign behind her. She gives a confident smile while maintaining eye contact. Hair gently moves in a soft breeze.
-Scene 3 (5–7.5s)
-She lifts a pizza slice into a spectacular slow-motion cheese pull. Long stretchy mozzarella strands shimmer under cinematic lighting while oregano and parmesan fall in slow motion. Camera performs a smooth orbit around the pizza.
-Scene 4 (7.5–10s)
-She takes one elegant bite, smiles naturally, then the camera transitions into a dramatic hero shot of the rotating pizza surrounded by floating basil, tomatoes, olives, parmesan, chili flakes, and flour dust. Finish with a cinematic push-in on the pizza.
-Ending Text
-"ONE BITE. PURE PERFECTION."
-Premium gold typography with a subtle glow and elegant cinematic fade.
-Camera
-Cinema-grade gimbal movements, macro food cinematography, 85mm portrait lens, smooth dolly shots, slow orbit, rack focus between the pizza and the model, subtle handheld micro-movements, premium advertising composition.
-Lighting
-Golden-hour cinematic lighting, warm practical restaurant lights, volumetric rays, HDR reflections, realistic shadows, glowing cheese highlights, luxury commercial color grading.
-Quality Tags
-Ultra-realistic, 8K, HDR, IMAX quality, Netflix-style commercial, luxury food advertisement, premium restaurant branding, hyper-detailed textures, realistic physics, flawless facial consistency, physically accurate cheese stretch, realistic steam simulation, cinematic color grading, ray tracing, global illumination, masterpiece, stop-scrolling, viral-quality commercial.
-```
-
-<img src="https://cms-assets.youmind.com/media/1785656866486_j2of77_HOsoXkubYAEQrBR.jpg" width="600" alt="Luxury Pizza Social Media Ad">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=8313)**
-
-**ผู้เขียน:** [Jahan Zaib](https://x.com/jzaib4269) | **แหล่งที่มา:** [Link](https://x.com/jzaib4269/status/2083803694886506640) | **เผยแพร่เมื่อ:** Aug 2, 2026
 
 ---
 ### ลำดับเหตุการณ์ตลกของเอเลี่ยนกับเอสเปรสโซ
@@ -2155,31 +1868,6 @@ Ultra-realistic, 8K, HDR, IMAX quality, Netflix-style commercial, luxury food ad
 **ผู้เขียน:** [Sharon Riley](https://x.com/Just_sharon7) | **แหล่งที่มา:** [Link](https://x.com/Just_sharon7/status/2083793251132186998) | **เผยแพร่เมื่อ:** Aug 2, 2026
 
 ---
-### Matcha Splash Fashion Orbit
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่งแบบละเอียดสำหรับการสร้างวิดีโอโฆษณาแฟชั่นหรูหราแบบ 360 องศา พร้อมเอฟเฟกต์ของเหลวกระเซ็นที่หยุดนิ่ง
-
-#### 📝 พรอมต์
-
-```
-สร้างวิดีโอโฆษณาแฟชั่นหรูหราในรูปแบบภาพยนตร์โดยใช้ภาพนางแบบเป็นข้อมูลอ้างอิง
-กล้องจะเคลื่อนที่แบบ 360 องศาในแนวราบรอบตัวนางแบบที่นั่งอยู่บนเก้าอี้พับโลหะและมัทฉะที่กำลังกระเซ็นอยู่กลางอากาศ กล้องจะเคลื่อนที่อย่างช้าๆ ด้วยระบบกันสั่นระดับพรีเมียม สร้างมิติความลึก พารัลแลกซ์ และเอฟเฟกต์ bullet-time ที่ดูน่าตื่นตาตื่นใจ
-นางแบบจะต้องคงอยู่ในท่าทางเดิมอย่างสมบูรณ์แบบ ทั้งสีหน้า ทรงผม ชุด และตำแหน่งร่างกาย เพื่อให้ดูเหมือนนางแบบแฟชั่นชั้นนำที่ถูกบันทึกภาพไว้ในช่วงเวลาที่หยุดนิ่งอย่างสมบูรณ์แบบ
-เครื่องดื่มมัทฉะที่กระเซ็นออกมาจะต้องหยุดนิ่งอยู่กลางอากาศราวกับงานประติมากรรมจากของเหลว มัทฉะที่ไหลออกมาจะสร้างเส้นโค้งที่สวยงาม หยดน้ำที่ลอยตัว และการสะท้อนแสงที่สมจริงในขณะที่ดูเหมือนหยุดเวลาไว้
-เมื่อกล้องเคลื่อนที่รอบๆ จะเผยให้เห็นรายละเอียดที่ชัดเจน เช่น พื้นผิวของของเหลว การสะท้อนบนแก้ว รายละเอียดของผ้า พื้นผิวของยีนส์ ไฮไลท์บนผิวหนัง และเงาในสตูดิโอ
-พื้นหลังจะยังคงความเรียบง่ายและไม่มีการเปลี่ยนแปลง มีเพียงการเคลื่อนที่ของกล้องเท่านั้นที่สร้างเอฟเฟกต์แบบภาพยนตร์
-สไตล์: โฆษณาเครื่องดื่มหรูหรา, สุนทรียภาพแบบภาพยนตร์แฟชั่น Vogue, วิดีโอสินค้าสไตล์ Apple, สมจริงระดับสูง, 8K, การถ่ายภาพความเร็วสูง, ระยะชัดลึกตื้น, แสงที่สมจริง, การเคลื่อนไหวที่นุ่มนวล, คุณภาพโฆษณาระดับพรีเมียม
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083791219667460096/img/LMpAYcG75HwCbmyv.jpg" width="600" alt="Matcha Splash Fashion Orbit">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=8269)**
-
-**ผู้เขียน:** [K](https://x.com/ChillaiKalan__) | **แหล่งที่มา:** [Link](https://x.com/ChillaiKalan__/status/2083791312709718157) | **เผยแพร่เมื่อ:** Aug 2, 2026
-
----
 ### ตลกหน้าตายในห้องนอนกับมนุษย์ต่างดาว
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2230,25 +1918,6 @@ AAA มนุษย์ต่างดาวสีเทาของแท้ ค
 **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=8287)**
 
 **ผู้เขียน:** [Al-Shamus](https://x.com/im_shahid7) | **แหล่งที่มา:** [Link](https://x.com/im_shahid7/status/2083789680856994298) | **เผยแพร่เมื่อ:** Aug 2, 2026
-
----
-### ออกแบบท่าเต้นมิวสิกวิดีโอ K-Pop คุณภาพสูง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ชุดคำสั่ง (Prompt) สำหรับมิวสิกวิดีโอ K-pop สุดพลังที่มาพร้อมการเต้นที่พร้อมเพรียง ภาพลักษณ์ที่สวยงามเงางาม และการเปลี่ยนผ่านของแสงระดับมืออาชีพ
-
-#### 📝 พรอมต์
-
-```
-มิวสิกวิดีโอ K-pop ความยาว 30 วินาทีแบบสมจริงพิเศษ นำเสนอหญิงสาวชาวเอเชียตะวันออกสองคนที่มีความพร้อมเพรียงไร้ที่ติ แสงแบบภาพยนตร์ ผิวเงางาม ฟิสิกส์ของเส้นผมและเนื้อผ้าที่สมจริง การเคลื่อนไหวของร่างกายที่เป็นธรรมชาติ และคุณภาพระดับ 4K live-action ใช้โทนสีชมพูสดใส น้ำเงินไฟฟ้า และสีเงิน 0–2 วินาที: ภาพมุมกว้างในสตูดิโอวงกลมสีชมพูสว่างพร้อมพื้นสะท้อนแสง หญิงสาวผมสีชมพู (ซ้าย) และหญิงสาวผมสีดำ (ขวา) โพสท่าเปิดตัวที่เต็มไปด้วยพลังและเต้นอย่างพร้อมเพรียง 2–4 วินาที: ภาพระยะกลางของหญิงสาวผมสีดำบนเวทีที่มีสปอตไลต์สีน้ำเงิน ชี้ไปที่กล้องอย่างมั่นใจ 4–6 วินาที: หญิงสาวผมสีชมพูเต้นหน้าม่านระย้าสีน้ำเงินเงินแวววาว สะบัดผมอย่างมีชั้นเชิงและเคลื่อนไหวแขนอย่างพริ้วไหว 6–8 วินาที: กลับมาที่สตูดิโอสีชมพู ทั้งคู่เต้นท่าทางที่พร้อมเพรียงด้วยการสะบัดแขนที่คมชัด การโยกสะโพก และการจัดแถวที่แข็งแกร่ง 8–10 วินาที: ภาพระยะใกล้มากของใบหน้าทั้งสองบนพื้นหลังสีน้ำเงิน แต่งหน้าแบบเงางาม ยิ้มเล็กน้อย และสบตาโดยตรง 10–14 วินาที: ภาพเดี่ยวที่ฉากหลังม่านระย้า หญิงสาวผมสีชมพูขยับปากตามเนื้อเพลงและทำท่าทางอย่างมั่นใจ ตามด้วยหญิงสาวผมสีดำในสไตล์แจ็กเก็ตแบบสบายๆ 14–18 วินาที: สตูดิโอสีชมพู ท่าเต้นประสานงานด้วยแจ็กเก็ต สะบัดผม การเต้นที่ทรงพลังและพร้อมเพรียง จบด้วยท่าเท้าสะเอว 18–22 วินาที: ภาพระยะใกล้แบบ Glamour หญิงสาวผมสีดำภายใต้แสงโบเก้ระยิบระยับ จากนั้นเป็นหญิงสาวผมสีชมพูกับผมที่ปลิวไสวบนพื้นหลังสีชมพูอ่อน 22–24 วินาที: เวทีสปอตไลต์สีน้ำเงิน เอฟเฟกต์ภาพสะท้อนของนักเต้นผมสีดำพร้อมการหมุนตัวที่พร้อมเพรียงและผมที่พลิ้วไหว 24–26 วินาที: ทั้งคู่เดินอย่างมั่นใจเข้าหากล้องหน้าม่านระย้าแวววาว เห็นภาพสะท้อนบนพื้น 26–29 วินาที: ท่าเต้นสุดท้ายที่พร้อมเพรียงและท่าจบในสตูดิโอวงกลมสีชมพู ยืนเคียงข้างกันและมองมาที่กล้อง สไตล์: Hyper-realistic live action, ความสมจริงของการเคลื่อนไหวระดับ Seedance 2.5, ลิปซิงค์ที่สมบูรณ์แบบ, การถ่ายเทน้ำหนักที่เป็นธรรมชาติ, ผมที่พลิ้วไหว, การจำลองเนื้อผ้าที่สมจริง, การถ่ายทำมิวสิกวิดีโอ K-pop ที่ขัดเกลามาอย่างดี
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2083787521062825984/pu/img/qUl-2VhjPdVO_Gbh.jpg" width="600" alt="ออกแบบท่าเต้นมิวสิกวิดีโอ K-Pop คุณภาพสูง">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=8274)**
-
-**ผู้เขียน:** [AqibAi](https://x.com/Aqib__786Ai) | **แหล่งที่มา:** [Link](https://x.com/Aqib__786Ai/status/2083787627531034977) | **เผยแพร่เมื่อ:** Aug 2, 2026
 
 ---
 ### Epic Fantasy God City One-Shot
@@ -2621,44 +2290,6 @@ Then she rests one hand on her lapel, the other hand naturally hanging down, loo
 **ผู้เขียน:** [PixelAIGC](https://x.com/PixelAigc) | **แหล่งที่มา:** [Link](https://x.com/PixelAigc/status/2083685359297421539) | **เผยแพร่เมื่อ:** Aug 1, 2026
 
 ---
-### Doorway Peephole POV Sequence
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A creative fisheye-lens prompt for a doorway peephole perspective, featuring a subject delivering items like flowers and cake with high distortion and organic movement.
-
-#### 📝 พรอมต์
-
-```
-A realistic doorway peephole POV video shot through a ultra wide fisheye lens with a pronounced circular black vignette and curved distortion. The scene takes place in a warmly lit, carpeted apartment hallway with dark doors and warm sconce lights running along the walls. A cheerful young woman with short, bleached blonde pixie cut hair, wearing a casual layered outfit, approaches the camera close up, leaning in and playfully knocking on the lens as if knocking on a door. She holds a large fresh bouquet of white daisies and eucalyptus. She smiles brightly, applies lip balm while looking into the camera, spins around happily, and runs off down the corridor. Next, she returns wearing an oversized cream-colored trench coat carrying a small red gift bag, knocks again, poses, turns, and playfully darts away down the hallway before running back toward the door. Finally, she returns wearing a warm brown sweater, holding a frosted red velvet cake on a glass plate. She knocks on the camera lens, licks frosting off her finger, smiles, blows a kiss directly to the camera lens, and runs off giggling. Natural handheld instability, realistic indoor lighting, handheld camera movement, high definition organic video quality, upbeat indie pop background soundtrack. Aspect ratio 16:9, total duration 20 seconds.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083618038470107137/img/R9eNZ_ujNAtRyjd2.jpg" width="600" alt="Doorway Peephole POV Sequence">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=8312)**
-
-**ผู้เขียน:** [BMX](https://x.com/bmx_ai13) | **แหล่งที่มา:** [Link](https://x.com/bmx_ai13/status/2083678409272721652) | **เผยแพร่เมื่อ:** Aug 1, 2026
-
----
-### วิดีโอ Vlog ท่องเที่ยวแบบถือถ่ายสมจริง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (Prompt) สำหรับสร้างวิดีโอแบบครอบคลุม เพื่อสร้าง Vlog ท่องเที่ยวที่ให้ความรู้สึกสมจริง โดยมีตัวละครที่คงที่ในหลากหลายสถานที่ ตั้งแต่ถนนในเมืองไปจนถึงชายหาด พร้อมการเคลื่อนไหวของกล้องที่เป็นธรรมชาติ
-
-#### 📝 พรอมต์
-
-```
-วิดีโอ Vlog ท่องเที่ยวแบบถือถ่ายสมจริงที่ถ่ายโดยเพื่อนซึ่งติดตามตัวละครหลักไปตลอดทั้งวัน ใช้ผู้หญิงจากภาพอ้างอิงเป็นตัวละครหลัก รักษาอัตลักษณ์ของใบหน้า ทรงผม ลักษณะใบหน้า และสัดส่วนร่างกายของเธอให้คงที่ตลอดทั้งวิดีโอ กล้องให้ความรู้สึกเหมือนกล้อง Vlog ส่วนตัวจริงๆ ไม่ใช่การถ่ายทำเชิงพาณิชย์ มีการเคลื่อนไหวแบบถือถ่ายที่เป็นธรรมชาติ การจัดเฟรมแบบไม่เป็นทางการ การเคลื่อนไหวของกล้องแบบมนุษย์ที่มีความไม่สมบูรณ์แบบ และบรรยากาศในชีวิตประจำวันที่ดูสมจริง ไม่มีการแสดงตามบท ผู้หญิงแสดงท่าทางอย่างเป็นธรรมชาติ โต้ตอบกับสภาพแวดล้อมเหมือน Vlog ท่องเที่ยวจริงๆ 0-5 วินาที: ออกเดินทางตอนเช้า ผู้หญิงออกจากอพาร์ตเมนต์แสนสบายพร้อมกระเป๋าเป้ใบเล็ก เธอเช็กโทรศัพท์ ยิ้มให้กล้อง จัดทรงผม และเริ่มเดินออกไปข้างนอก กล้องติดตามเธอจากด้านหลัง มีอาการสั่นเล็กน้อยเหมือนเพื่อนเป็นคนถ่าย แสงแดดยามเช้า ถนนในย่านที่เงียบสงบ ผู้คนเริ่มทำกิจกรรมในวันใหม่ 5-12 วินาที: สำรวจเมือง กล้องติดตามเธอเดินผ่านถนนในท้องถิ่น เธอแวะร้านกาแฟเล็กๆ ซื้อเครื่องดื่ม พูดคุยกับกล้องสั้นๆ และหัวเราะอย่างเป็นธรรมชาติ เธอเดินผ่านตลาดริมทาง ดูร้านค้าเล็กๆ และถ่ายรูปเล่น กล้องยังคงอยู่ใกล้ๆ เพื่อเก็บภาพช่วงเวลาที่เป็นกันเอง 12-20 วินาที: ถึงชายหาด เธอใช้ระบบขนส่งสาธารณะหรือเดินไปยังชายฝั่ง สภาพแวดล้อมค่อยๆ เปลี่ยนจากถนนในเมืองเป็นเมืองริมทะเล ลมทะเลพัดผมของเธอ เธอแสดงท่าทางตื่นเต้นเมื่อเห็นมหาสมุทร กล้องติดตามเธอเดินไปตามชายหาด เธอหยิบเปลือกหอยขึ้นมา ดูคลื่น และโต้ตอบกับผู้คนรอบข้างอย่างเป็นธรรมชาติ 20-27 วินาที: บ่ายวันหยุดที่ชายหาด เธอพบกับเพื่อนๆ ที่ชายหาด ทุกคนพูดคุย หัวเราะ และเล่นน้ำกัน กล้องเคลื่อนไหวอย่างเป็นธรรมชาติระหว่างผู้คน เก็บภาพช่วงเวลาที่ดูจริงใจ เธอหันกลับมามองกล้องและยิ้ม 27-30 วินาที: ช่วงท้าย แสงสีทองยามพระอาทิตย์ตก เธอนั่งใกล้ทะเล ถือเครื่องดื่ม และดูพระอาทิตย์ตก กล้องค่อยๆ ถอยหลังออก เผยให้เห็นชายหาด คลื่น และยามเย็นที่เงียบสงบ ให้ความรู้สึกเหมือนความทรงจำจากการท่องเที่ยวส่วนตัวจริงๆ สไตล์ภาพ: ฟุตเทจ Vlog ท่องเที่ยวที่สมจริง ดูเหมือนถ่ายจากสมาร์ทโฟนหรือกล้อง Mirrorless แสงธรรมชาติ การเคลื่อนไหวแบบถือถ่ายที่เป็นกันเอง มีอาการสั่นของกล้องเล็กน้อย ปฏิกิริยาของมนุษย์ที่แท้จริง ความสมจริงแบบสารคดี ไม่มีลุคแบบภาพยนตร์เชิงพาณิชย์ ไม่มีการโพสท่าแบบดราม่า ไม่มีการเปลี่ยนฉากแบบประดิษฐ์ ไม่มีข้อความซ้อน ไม่มีโลโก้ ไม่มีการเปลี่ยนใบหน้า ไม่มีการเปลี่ยนอัตลักษณ์
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083659140178857984/img/DC7m7Mf1OYMG5nBa.jpg" width="600" alt="วิดีโอ Vlog ท่องเที่ยวแบบถือถ่ายสมจริง">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=8282)**
-
-**ผู้เขียน:** [BubbleBrain](https://x.com/BubbleBrain) | **แหล่งที่มา:** [Link](https://x.com/BubbleBrain/status/2083659648108990925) | **เผยแพร่เมื่อ:** Aug 1, 2026
-
----
 ### ฉากต่อสู้ในอารีน่าสไตล์อนิเมะแบบ Sakuga
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2833,39 +2464,6 @@ The shot opens ALREADY at full speed, skimming grass tips inches behind a sprint
 **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=8262)**
 
 **ผู้เขียน:** [NoorAI](https://x.com/noorwithwifi) | **แหล่งที่มา:** [Link](https://x.com/noorwithwifi/status/2083585853625131353) | **เผยแพร่เมื่อ:** Aug 1, 2026
-
----
-### Amusement Park Roller Coaster Comedy
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An incredibly detailed multi-shot narrative prompt for Seedance 2.5. It depicts a humorous scene on a roller coaster where a man's wig flies off and lands on another passenger, followed by a surreal time-reversal and correction by another character.
-
-#### 📝 พรอมต์
-
-```
-Photorealistic cinematic daytime amusement park roller coaster, bright hard sunlight, strong wind, realistic motion blur on tracks and background, subtle handheld camera energy, rich skin detail, heavy natural film grain.
-
-0-5s: [Medium Shot] A young woman in her early 20s sits in the front seat of a moving roller coaster car, calm and slightly bored, hair whipping in the wind. Beside her sits a middle-aged man wearing what looks like a normal full head of hair. Behind them, another car with a woman is visible. The coaster drops and banks hard.
-
-5-9s: [Dynamic Tracking] The force of the turn rips the man’s wig free. It peels off his bald head in a chaotic upward arc, spinning and flying backward through the air. The wig lands messily on the head of the woman in the car behind. Everyone’s faces freeze in pure shock and confusion at the peak of the chaos. Time locks completely. Only the young woman in the front keeps moving.
-
-9-15s: [Slow Orbital + Detail] Camera slowly orbits the frozen cars. The wig hangs mid-air in a twisted shape with individual hairs suspended. The bald man’s scalp is fully exposed, mouth open. The woman behind is frozen mid-scream with the wig draped over her face. The young woman looks sideways, rolls her eyes and mouths “joder, otra vez”. She reaches into her pocket, pulls out a stick of chewing gum, unwraps it and calmly puts it in her mouth, starting to chew while the entire frozen scene (except her) begins a precise reverse.
-
-15-20s: [Medium Close-up] The rewind is controlled and elegant: the wig lifts off the woman behind, flies backward through the air in reverse, and returns exactly to the moment it is only beginning to peel off the bald man’s head. Time freezes again at that precise instant — the front edge of the wig just lifting, a few strands already loose.
-
-20-26s: [Tight Medium] Still frozen for everyone else, the young woman takes the chewed gum out of her mouth, reaches over and firmly presses it onto the center of the bald man’s scalp, right under the lifting wig. With the same hand she smooths and presses the wig back down into perfect place, locking it with the gum. She sits back, looks straight ahead with a tiny private smile, completely unbothered.
-
-26-30s: [Medium Shot] Time suddenly resumes at full real-time speed. The coaster continues its drop. The man touches his head, feels the wig still firmly in place, looks confused for a second, then breaks into a relieved, happy smile. The young woman stares forward, already chewing a new piece of gum, expression of quiet satisfaction.
-
-Photorealistic, ultra-detailed wind and hair physics, perfect motion blur only on moving elements, stable characters, cinematic lighting, heavy natural film grain, no artifacts, movie-level temporal coherence, high rewatch value.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083583425236119552/img/U7uXWdX5-AkrFDTj.jpg" width="600" alt="Amusement Park Roller Coaster Comedy">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=8362)**
-
-**ผู้เขียน:** [TechHalla](https://x.com/techhalla) | **แหล่งที่มา:** [Link](https://x.com/techhalla/status/2083585132917579834) | **เผยแพร่เมื่อ:** Aug 1, 2026
 
 ---
 ### การต่อสู้ในป้อมปราการดาร์กแฟนตาซี
@@ -3606,6 +3204,484 @@ Seedance 2.0, 15 วินาที, หน้าจอแนวตั้ง 9:1
 **ผู้เขียน:** [AIrina (Virtual Media Net)](https://x.com/airina_xyz) | **แหล่งที่มา:** [Link](https://x.com/airina_xyz/status/2083501877098889487) | **เผยแพร่เมื่อ:** Aug 1, 2026
 
 ---
+### เซสชันการรักษาที่คลินิกไคโรแพรคติก
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่ง (Prompt) แบบครอบคลุมสำหรับวิดีโอภาพยนตร์หลายฉากที่แสดงเซสชันการรักษาทางไคโรแพรคติกแบบมืออาชีพ โดยเน้นที่กายวิภาคที่สมจริง การสัมผัส และปฏิกิริยาตอบสนองของผู้ป่วย
+
+#### 📝 พรอมต์
+
+```
+สร้างวิดีโอแนวภาพยนตร์สำหรับโซเชียลมีเดียความยาว 30 วินาที ในอัตราส่วน 16:9 ภายในคลินิกไคโรแพรคติกและกายภาพบำบัดที่ทันสมัยในช่วงสาย ภายในห้องมีผนังโทนสีอบอุ่นอ่อนๆ พื้นไม้สะอาดตา เตียงตรวจรักษาบุด้วยเบาะสีดำ เก้าอี้สำหรับผู้มาติดต่อสีเทา ต้นไม้สีเขียวเล็กน้อย งานศิลปะติดผนังที่ดูเรียบง่าย และหน้าต่างบานสูงที่มองเห็นต้นไม้เขียวขจี ใช้แสงธรรมชาติผสมผสานกับแสงไฟเพดานที่นุ่มนวล พื้นผิวผิวหนังที่สมจริง การเคลื่อนไหวของเนื้อผ้าที่เป็นธรรมชาติ กายวิภาคที่ถูกต้อง การสัมผัสที่สมจริงตามหลักฟิสิกส์ ใบหน้าที่มีความสม่ำเสมอ และการแสดงออกทางสีหน้าเล็กๆ น้อยๆ ที่เป็นธรรมชาติ ห้ามมีข้อความ โลโก้ ลายน้ำ หรือการเคลื่อนไหวที่ดูเหนือจริง ในช่วง 0 ถึง 4 วินาที เริ่มต้นด้วยภาพมุมกว้างเพื่อแนะนำสถานที่ โดยใช้การเคลื่อนกล้องแบบถือถ่าย (Handheld) ค่อยๆ เคลื่อนเข้าไปในคลินิก ผู้ประกอบวิชาชีพชายในชุดเสื้อเชิ้ตสีเทาเข้มกำลังนำทางลูกค้าชายในชุดเสื้อเชิ้ตสีขาวไปยังเตียงตรวจรักษา มีเจ้าหน้าที่คนอื่นๆ เคลื่อนไหวอย่างแผ่วเบาในฉากหลัง บรรยากาศดูเป็นมืออาชีพ ผ่อนคลาย และเป็นการสังเกตการณ์ ในช่วง 4 ถึง 8 วินาที ตัดมาที่ภาพมุมปานกลางขณะนั่ง ลูกค้านั่งอยู่ตรงกลางในขณะที่ผู้ประกอบวิชาชีพยืนอยู่ด้านหลัง ค่อยๆ ตรวจสอบระดับไหล่และการหมุนของคอ ใช้การเคลื่อนไหวของกล้องที่ดูเป็นธรรมชาติ ระยะชัดลึกที่ตื้น แสงจากหน้าต่างตกกระทบด้านหนึ่งของใบหน้า และการสบตาที่สมจริง แสดงความคาดหวังที่เงียบสงบโดยไม่มีการแสดงที่เกินจริง ในช่วง 8 ถึง 12 วินาที เปลี่ยนเป็นมุมข้างระยะใกล้ขณะที่ผู้ประกอบวิชาชีพจัดตำแหน่งศีรษะอย่างระมัดระวังเพื่อทำการจัดกระดูกคอแบบควบคุม รักษาการเคลื่อนไหวให้จำกัดและถูกต้องตามหลักกายวิภาค จับภาพการปล่อยตัวที่รวดเร็ว ปฏิกิริยาทางสีหน้าที่ละเอียดอ่อน การสูดลมหายใจที่เฉียบพลัน และรอยยิ้มในทันที ให้กล้องตอบสนองด้วยการเคลื่อนไหวแบบถือถ่ายที่ดูสมจริงเพียงเล็กน้อยแทนที่จะเป็นการสั่นไหวที่ดูเกินจริง ในช่วง 12 ถึง 17 วินาที ตัดมาที่ภาพมุมกว้างปานกลางจากด้านข้างของลูกค้าที่นอนตะแคงอยู่บนเตียง ผู้ประกอบวิชาชีพประคองไหล่และกระดูกเชิงกราน หยุดชั่วครู่ แล้วทำการจัดกระดูกสันหลังส่วนเอวหนึ่งครั้ง แสดงการถ่ายเทน้ำหนักที่สมจริง การยุบตัวของเบาะรองเตียง รอยยับของเสื้อ การหายใจ แรงกดจากมือ และเสียงหัวเราะด้วยความประหลาดใจสั้นๆ จากลูกค้า ในช่วง 17 ถึง 22 วินาที ตัดมาที่ลูกค้าที่นอนคว่ำหน้า ผู้ประกอบวิชาชีพคลำตรวจบริเวณหลังส่วนบน ประสานมือทั้งสองข้าง และใช้แรงกดควบคุมบริเวณกระดูกสันหลังส่วนอกหนึ่งครั้ง ใช้มุมกล้องที่ต่ำลงเล็กน้อย แสงสะท้อนที่นุ่มนวลบนเตียง กิจกรรมเบาๆ ในฉากหลัง และการปรับโฟกัสจากมือไปยังสีหน้าที่ดูโล่งใจของลูกค้า ในช่วง 22 ถึง 26 วินาที เปลี่ยนไปที่มุมมองจากหัวเตียง ลูกค้านอนหงายในขณะที่ผู้ประกอบวิชาชีพวางสายรัดดึงกระดูกสีดำไว้ใต้ฐานกะโหลกศีรษะ สร้างแรงตึงอย่างช้าๆ และปลอดภัย จากนั้นทำการดึงแบบควบคุมสั้นๆ หนึ่งครั้ง ลูกค้าตอบสนองด้วยดวงตาที่เบิกกว้าง จากนั้นหัวเราะและเอามือปิดหน้าชั่วครู่ ในช่วง 26 ถึง 30 วินาที จบด้วยภาพลูกค้าที่ลุกขึ้นนั่ง หมุนไหล่และหันคออย่างสบายในขณะที่ผู้ประกอบวิชาชีพยืนอยู่ข้างๆ จบด้วยรอยยิ้มที่จริงใจร่วมกันและการถอยกล้องออกช้าๆ เพื่อเผยให้เห็นคลินิกที่สว่างสดใส ให้ช่วงเวลาสุดท้ายดูสงบและน่าพึงพอใจ ไม่ใช่ในเชิงโฆษณา
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083350500108623872/img/yT9FhLBowsk_16jY.jpg" width="600" alt="เซสชันการรักษาที่คลินิกไคโรแพรคติก">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=8279)**
+
+**ผู้เขียน:** [BMX](https://x.com/bmx_ai13) | **แหล่งที่มา:** [Link](https://x.com/bmx_ai13/status/2083501494150574415) | **เผยแพร่เมื่อ:** Aug 1, 2026
+
+---
+### ลำดับเหตุการณ์การหลบหนีจากดาวเคราะห์ที่กำลังล่มสลายอย่างต่อเนื่อง
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ฉากแอ็กชันแบบช็อตเดียวสุดอลังการของนักสำรวจที่กำลังหลบหนีออกจากดาวเคราะห์ที่กำลังแตกสลาย ท่ามกลางลาวา สึนามิ และอุกกาบาตที่ตกลงมา
+
+#### 📝 พรอมต์
+
+```
+ฉากแอ็กชันแบบต่อเนื่องในมุมมองภาพยนตร์โดยไม่มีการตัดต่อ ไม่มีการเปลี่ยนฉาก เป็นการเคลื่อนที่ของกล้องแบบต่อเนื่องเพียงช็อตเดียวตั้งแต่ต้นจนจบ
+
+ภาพยนตร์เปิดฉากขึ้นจากวงโคจรเหนือดาวเคราะห์ที่คล้ายกับโลกอันน่าทึ่ง ทันใดนั้น รอยแยกขนาดใหญ่ของลาวาที่กำลังลุกโชนก็พุ่งผ่านทวีปทั้งทวีป ทำให้พื้นผิวแยกออกจากกัน กล้องพุ่งผ่านชั้นบรรยากาศด้วยความเร็วสูงมุ่งตรงไปยังต้นตอของหายนะในทันที
+
+กล้องปรับระดับตามหลังนักสำรวจเพียงลำพังผู้สวมชุดเอาชีวิตรอดขั้นสูงที่ดูโฉบเฉี่ยว ซึ่งกำลังวิ่งอย่างรวดเร็วข้ามที่ราบหิน พื้นดินสั่นสะเทือนอย่างรุนแรงในทุกย่างก้าว รอยแตกแยกที่ลึกปรากฏขึ้นใต้ฝ่าเท้าของพวกเขา พร้อมแสงเรืองรองจากลาวาที่หลอมละลาย
+
+เบื้องหลังนักสำรวจ เทือกเขาทั้งเทือกเขากำลังพังทลายลงเป็นคลื่นฝุ่นและหินอย่างช้าๆ ก้อนหินขนาดมหึมาตกลงสู่หุบเขาในขณะที่เถ้าถ่านจากภูเขาไฟปกคลุมท้องฟ้า
+
+นักสำรวจกระโดดข้ามรอยแยกที่กำลังขยายกว้างขึ้นเพียงเสี้ยววินาทีก่อนที่สะพานหินจะพังทลายลงสู่แม่น้ำลาวา กล้องติดตามการกระโดดนั้นอย่างราบรื่น โดยเคลื่อนผ่านเศษซากที่ลอยอยู่โดยไม่ลดความเร็วลง
+
+ภูเขาไฟระเบิดขึ้นที่ด้านหน้า
+
+เสาไฟและเถ้าถ่านขนาดมหึมาพุ่งทะยานขึ้นสู่ชั้นบรรยากาศ หินที่ลุกเป็นไฟตกลงมาทั่วทั้งพื้นที่ นักสำรวจ Slides ลอดผ่านซุ้มหินที่กำลังถล่มลงมาในขณะที่เศษลาวาที่หลอมละลายกระจัดกระจายอยู่รอบตัวพวกเขา
+
+กล้องยังคงติดตามอยู่ด้านหลังอย่างต่อเนื่อง
+
+โดยไม่มีการเตือนล่วงหน้า กำแพงน้ำสูงหลายร้อยเมตรก็ปรากฏขึ้นที่เส้นขอบฟ้า
+
+มหาสมุทรทั้งแห่งถูกผลักดันออกมา
+
+คลื่นสึนามิพุ่งเข้าใส่แผ่นดินที่กำลังล่มสลายด้วยความเร็วที่น่าสะพรึงกลัว
+
+นักสำรวจเร่งความเร็วไปยังชุดเสาหินสูงตระหง่านที่ผุดขึ้นมาจากพื้นหุบเขา
+
+ด้วยการใช้เครื่องยิงตะขอขนาดกะทัดรัด พวกเขาโหนตัวข้ามเสาหินที่กำลังพังทลายไปทีละต้น ในขณะที่คลื่นยักษ์ทำลายทุกสิ่งที่อยู่เบื้องหลัง
+
+กล้องเหวี่ยงไปมาอย่างเป็นธรรมชาติในทุกการเคลื่อนไหว โดยรักษาความต่อเนื่องของภาพไว้ได้อย่างลื่นไหล
+
+เศษอุกกาบาตเริ่มเข้าสู่ชั้นบรรยากาศ
+
+หลายลูกตกลงมาใกล้ๆ
+
+การกระแทกแต่ละครั้งสร้างคลื่นกระแทกที่ขยายตัวออกไป ซึ่งซัดฝุ่น ไฟ และเศษซากต่างๆ ขึ้นสู่ท้องฟ้า
+
+อุกกาบาตขนาดมหึมาลูกหนึ่งพุ่งชนลงที่ด้านหน้าโดยตรง
+
+นักสำรวจพุ่งตัวผ่านกลุ่มฝุ่นที่กำลังขยายตัวในขณะที่เศษลาวาที่หลอมละลายบินผ่านหน้ากล้องไป
+
+เหนือกลุ่มควัน แท่นปล่อยยานฉุกเฉินยกตัวขึ้นโดยอัตโนมัติจากใต้พื้นดิน
+
+ยานอวกาศหลบหนีที่โฉบเฉี่ยวเริ่มเดินเครื่อง
+
+นักสำรวจวิ่งสุดฝีเท้าข้ามสะพานที่กำลังพังทลายเป็นจุดสุดท้าย
+
+สะพานแตกสลายลงในทุกย่างก้าวที่เหยียบผ่าน
+
+ในช่วงเวลาสุดท้ายที่เป็นไปได้ พวกเขากระโดดเข้าไปในยานอวกาศที่เปิดรออยู่
+
+ประตูยานปิดสนิทในทันที
+
+เครื่องยนต์จุดระเบิด
+
+ยานอวกาศพุ่งทะยานขึ้นในแนวตั้งในขณะที่แท่นปล่อยยานถูกกลืนกินโดยลาวา
+
+กล้องติดตามไปพร้อมกับยานอวกาศที่กำลังเร่งความเร็วขณะที่มันพุ่งทะลุเถ้าถ่านภูเขาไฟ เมฆพายุ และพายุอุกกาบาต ก่อนที่จะหลุดเข้าสู่ความเงียบงัน
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083494534751866880/img/xgAV7oJrh4yVQVSg.jpg" width="600" alt="ลำดับเหตุการณ์การหลบหนีจากดาวเคราะห์ที่กำลังล่มสลายอย่างต่อเนื่อง">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=8283)**
+
+**ผู้เขียน:** [Yazdan](https://x.com/AIwithYazdan) | **แหล่งที่มา:** [Link](https://x.com/AIwithYazdan/status/2083494837639319932) | **เผยแพร่เมื่อ:** Aug 1, 2026
+
+---
+### ภาพยนตร์แฟนตาซีเรื่องมังกรปกป้องเด็ก
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ฉากแฟนตาซีสุดซึ้งและเปี่ยมไปด้วยอารมณ์แบบภาพยนตร์ เมื่อมังกรแดงโบราณปกป้องเด็กน้อยจากเหล่าอสูรกายในอาณาจักรที่ล่มสลาย
+
+#### 📝 พรอมต์
+
+```
+สร้างภาพยนตร์แฟนตาซีแนวสมจริงระดับอัลตรา (Ultra-realistic) ความยาว 15 วินาที โดยมีมังกรแดงโบราณต้นฉบับที่กำลังปกป้องมนุษย์คนสุดท้ายในอาณาจักรที่ถูกทำลาย เน้นการเล่าเรื่องที่กินใจ การเคลื่อนไหวของตัวละครที่สมจริง แสงสีที่ดูดรามาติก สภาพแวดล้อมที่มีรายละเอียดสูง ฟิสิกส์ที่สมจริง และการเปลี่ยนผ่านของฉากที่ลื่นไหล
+
+0:00–0:03 | เด็กคนสุดท้าย
+
+เด็กมนุษย์วัย 7 ขวบเดินเพียงลำพังผ่านซากปรักหักพังของอาณาจักรโบราณในยามค่ำคืน โดยถือโคมไฟเรืองแสงขนาดเล็กเอาไว้ ควันและเถ้าถ่านลอยฟุ้งไปตามถนนที่ถูกทำลาย ในขณะที่เปลวไฟจากระยะไกลส่องสว่างให้เห็นซากปรักหักพัง
+
+0:03–0:06 | ภัยคุกคาม
+
+เหล่าอสูรกายร่างยักษ์สีดำหลายตัวปรากฏตัวออกมาจากกลุ่มควันและล้อมรอบเด็กที่กำลังหวาดกลัว เด็กค่อยๆ ถอยหลังเมื่อพวกอสูรกายขยับเข้ามาใกล้
+
+0:06–0:10 | การปรากฏตัวของมังกร
+
+มังกรแดงโบราณขนาดมหึมาร่อนลงจอดระหว่างเด็กกับเหล่าอสูรกายอย่างกะทันหัน ปีกขนาดใหญ่ของมันกางออก ดวงตาสีทองเปล่งประกายอย่างรุนแรง พร้อมกับปล่อยเสียงคำรามอันทรงพลังที่ดังก้องไปทั่วอาณาจักรที่ล่มสลาย
+
+0:10–0:13 | การปกป้อง
+
+เหล่าอสูรกายถอยหนีด้วยความหวาดกลัว มังกรค่อยๆ ลดปีกขนาดใหญ่ข้างหนึ่งลงมาโอบล้อมเด็กไว้เพื่อปกป้องจากอันตราย เด็กเงยหน้าขึ้นมองด้วยน้ำตาคลอเบ้า เมื่อตระหนักได้ว่ามังกรกำลังปกป้องตนอยู่
+
+0:13–0:15 | บทสรุปที่กินใจ
+
+มังกรหันมามองเด็กก่อนจะหันไปทางขอบฟ้าที่กำลังลุกเป็นไฟในยามรุ่งสาง เด็กค่อยๆ วางมือเล็กๆ ลงบนใบหน้าของมังกร แสงอาทิตย์ยามเช้าอันอบอุ่นส่องผ่านกลุ่มควันเข้ามา ในขณะที่กล้องค่อยๆ ซูมเข้าไปอย่างช้าๆ
+
+สไตล์ภาพ: แฟนตาซีระดับมหากาพย์แบบฮอลลีวูด, มังกรสมจริง, เด็กที่ดูสมจริง, แสงแบบ Volumetric ในโรงภาพยนตร์, เกล็ดมังกรที่มีรายละเอียดสูง, ควันบรรยากาศ, การเคลื่อนไหวของกล้องที่ดรามาติก, ระยะชัดลึกตื้น, ฟิสิกส์ที่สมจริง, 4K, การเล่าเรื่องที่กินใจ, การเปลี่ยนผ่านที่ลื่นไหล
+
+กล้อง: มุมกว้างเพื่อเปิดฉาก → มุมต่ำเพื่อเผยโฉมสัตว์ประหลาด → การลงจอดของมังกรที่ดรามาติก → ภาพระยะใกล้ของมังกรและเด็ก → ฉากจบที่เปี่ยมไปด้วยอารมณ์
+
+เสียง: เสียงลมและไฟจากระยะไกล, เสียงคำรามของอสูรกาย, เสียงคำรามอันทรงพลังของมังกร, ดนตรีออร์เคสตราแบบภาพยนตร์ที่ค่อยๆ เร้าอารมณ์, ตอนจบที่นุ่มนวลและซึ้งกินใจ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083466775015084032/img/dh6rjyuICMT5-Cep.jpg" width="600" alt="ภาพยนตร์แฟนตาซีเรื่องมังกรปกป้องเด็ก">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=8277)**
+
+**ผู้เขียน:** [Zeeshi](https://x.com/AIwithZeeshi) | **แหล่งที่มา:** [Link](https://x.com/AIwithZeeshi/status/2083466854845108706) | **เผยแพร่เมื่อ:** Aug 1, 2026
+
+---
+### เรื่องราวสุดซึ้งของลูกสุนัขและแหวนในรูปแบบแอนิเมชัน 3D
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์แบบหลายฉากสไตล์ภาพยนตร์สำหรับ Seedance 2.0 เล่าเรื่องราวของคุณตาที่ได้รับกล่องแหวนจากลูกสุนัข ซึ่งปลุกความทรงจำอันน่าประทับใจเกี่ยวกับงานแต่งงานและการขอแต่งงานของเขา
+
+#### 📝 พรอมต์
+
+```
+ภาพยนตร์สั้นแอนิเมชัน 16:9 สไตล์ภาพยนตร์ที่ให้ความรู้สึกอบอุ่นและซึ้งกินใจ ด้วยงานภาพ 3D ที่มีตัวละครคงที่ สภาพแวดล้อมห้องนั่งเล่นที่ต่อเนื่อง และการเปลี่ยนผ่านระหว่างโลกความจริงกับความทรงจำที่ลื่นไหล
+0–4 วินาที — ปัจจุบัน
+คุณตานั่งอยู่คนเดียวบนโซฟาในห้องนั่งเล่นที่อบอุ่นยามพระอาทิตย์ตกดิน ดูเงียบเหงาและโดดเดี่ยว ลูกสุนัขโกลเด้นรีทรีฟเวอร์ตัวน้อยวิ่งเข้ามาในเฟรมโดยคาบกล่องแหวนกำมะหยี่เก่าๆ ไว้ในปาก ลูกสุนัขค่อยๆ วางกล่องลงบนตักของคุณตา คุณตาทำหน้าประหลาดใจและค่อยๆ เปิดกล่องออก กล้องซูมเข้าแบบช้าๆ เห็นสีหน้าอันละเอียดอ่อน ท่ามกลางแสงสีทองที่อบอุ่น
+4–8 วินาที — ความทรงจำที่มีความสุข
+แสงสีขาวนวลเปลี่ยนผ่านเข้าสู่ความทรงจำอันอบอุ่น คุณตากับภรรยาในวัยหนุ่มสาวนั่งอยู่บนโซฟาตัวเดิม ยิ้มแย้ม พูดคุย และโอบกอดกัน ลูกสุนัขกระดิกหางอย่างมีความสุขอยู่ข้างๆ บรรยากาศอบอุ่น การเคลื่อนไหวที่เป็นธรรมชาติ กล้องสั่นไหวเล็กน้อยสไตล์แฮนด์เฮลด์ แสงสีโทนย้อนยุคที่อบอุ่น
+8–12 วินาที — ความทรงจำในอดีต
+ฉากเปลี่ยนไปสู่ช่วงวัยหนุ่มสาวในยามพระอาทิตย์ตกดิน ชายหนุ่มคุกเข่าขอหญิงสาวในชุดเดรสลายดอกไม้แต่งงาน เธอเอามือปิดปากด้วยความประหลาดใจและดีใจ มีลูกสุนัขตัวหนึ่งนั่งอยู่ใกล้ๆ กล้องค่อยๆ เคลื่อนเข้าไปโฟกัสที่กล่องแหวนที่เปิดอยู่และแหวนที่ส่องประกาย แสงสไตล์ภาพยนตร์สุดโรแมนติก สีหน้าเปี่ยมด้วยอารมณ์ ระยะชัดลึกที่ตื้น
+12–15 วินาที — กลับสู่ความเป็นจริง
+ตัดภาพจากแหวนในความทรงจำมาสู่แหวนวงเดียวกันในมือของคุณตา กล้องค่อยๆ ถอยออก เขามองดูแหวน ความเศร้าค่อยๆ เปลี่ยนเป็นรอยยิ้มที่เปี่ยมด้วยความรักและสงบสุข มีน้ำตาคลอเบ้าเล็กน้อย ลูกสุนัขนอนพักอยู่ข้างๆ แสงยามเย็นที่อบอุ่นปกคลุมทั่วห้อง จบลงอย่างเงียบสงบและซึ้งกินใจ
+ข้อกำหนดด้านสไตล์และคุณภาพ:
+ภาพยนตร์แอนิเมชัน 3D คุณภาพสูงที่เปี่ยมด้วยอารมณ์ องค์ประกอบภาพแบบภาพยนตร์ แอนิเมชันใบหน้าที่แสดงอารมณ์ได้อย่างเป็นธรรมชาติ ตัวละครมีความต่อเนื่องทั้งในวัยหนุ่มสาวและวัยชรา รูปลักษณ์ของลูกสุนัขคงที่ การเคลื่อนไหวที่ลื่นไหล การเคลื่อนไหวของเสื้อผ้าและขนที่สมจริง ระยะชัดลึกที่นุ่มนวล การปรับโทนสีที่อบอุ่น การเปลี่ยนผ่านความทรงจำที่ไร้รอยต่อ ไม่มีข้อความ ไม่มีคำบรรยาย ไม่มีตัวละครเพิ่มเติม ไม่มีมือที่บิดเบี้ยว และไม่มีการเคลื่อนไหวกล้องที่กระชาก
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083124650683592704/img/mYW9fhbNdLK8tvF0.jpg" width="600" alt="เรื่องราวสุดซึ้งของลูกสุนัขและแหวนในรูปแบบแอนิเมชัน 3D">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=8203)**
+
+**ผู้เขียน:** [Ima Studio](https://x.com/ImaStudio_ai) | **แหล่งที่มา:** [Link](https://x.com/ImaStudio_ai/status/2083439837298958805) | **เผยแพร่เมื่อ:** Aug 1, 2026
+
+---
+### พรอมต์วิดีโอสำหรับสร้างตัวละครให้คงที่ในทุ่งทานตะวัน
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอแบบละเอียดสำหรับ Seedance 2.0 ที่เน้นการรักษาความคงที่ของตัวละครขณะเดินผ่านทุ่งทานตะวันในช่วงพระอาทิตย์ตกดิน
+
+#### 📝 พรอมต์
+
+```
+ใช้รูปเด็กผู้หญิงที่อัปโหลดเป็นข้อมูลอ้างอิงหลักของตัวละครโดยตรง รักษาลักษณะใบหน้า ทรงผมบ๊อบสั้นดัดลอนสีบลอนด์ ดวงตาสีฟ้า ผิวขาวที่มีกระเล็กน้อย และรอยยิ้มที่เป็นธรรมชาติให้คงที่ตลอดทุกช็อต รักษาการแสดงออกทางสีหน้าให้เหมือนกับในรูปอ้างอิงเป๊ะๆ สวมชุดเดรสฤดูร้อนสีขาวแขนกุดพริ้วไหวชุดเดิม
+
+เธอเดินผ่านทุ่งทานตะวันกว้างใหญ่ในช่วงเวลาโกลเด้นอาวร์ยามพระอาทิตย์ตกดิน ใช้นิ้วสัมผัสดอกทานตะวันเบาๆ ขณะที่ลมพัดอ่อนๆ ทำให้ผมและชุดของเธอขยับไหว เธอเผยรอยยิ้มที่เป็นธรรมชาติหลังจากสังเกตเห็นผีเสื้อเรืองแสงนับร้อยตัวบินขึ้นสู่ท้องฟ้าโดยรอบ กล้องเริ่มด้วยภาพโคลสอัพใบหน้าแบบภาพยนตร์ เปลี่ยนผ่านไปสู่การแพนกล้องตามหลังอย่างนุ่มนวล ติดตามเธอขณะที่เธอกางแขนออกและเพลิดเพลินกับช่วงเวลานั้น และจบด้วยภาพมุมกว้างจากมุมสูงที่น่าทึ่งขณะที่เธอหมุนตัวอย่างมีความสุขอยู่กลางทุ่งทานตะวัน สมจริงระดับอัลตร้า งานภาพสไตล์ภาพยนตร์ แสงช่วงโกลเด้นอาวร์ ระยะชัดลึกที่นุ่มนวล การเคลื่อนไหวที่เป็นธรรมชาติ พื้นผิวผิวหนังที่มีรายละเอียดสูง ความคงที่ของใบหน้าที่สมจริง อัตราส่วน 9:16 แนวตั้ง, 4K, ไม่มีข้อความ, ไม่มีลายน้ำ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083439557815808000/img/-Y_Q2qT5DFcBNaqa.jpg" width="600" alt="พรอมต์วิดีโอสำหรับสร้างตัวละครให้คงที่ในทุ่งทานตะวัน">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=8200)**
+
+**ผู้เขียน:** [Hannah Ai](https://x.com/nusratsid1) | **แหล่งที่มา:** [Link](https://x.com/nusratsid1/status/2083439602094993909) | **เผยแพร่เมื่อ:** Aug 1, 2026
+
+---
+### ฉากแอ็กชันไซไฟเปิดประตูมิติสุดอลังการ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> วิดีโอพรอมต์แบบละเอียดสำหรับฉากไซไฟที่มีพนักงานส่งของติดอยู่ระหว่างประตูมิติสองบานที่นำไปสู่สภาพแวดล้อมที่แตกต่างกันอย่างสุดขั้ว คือมหาสมุทรที่มีพายุโหมกระหน่ำและทะเลทรายที่เต็มไปด้วยสายฟ้า
+
+#### 📝 พรอมต์
+
+```
+ฉากแอ็กชันไซไฟสมจริงระดับภาพยนตร์ ความยาว 15 วินาที อัตราส่วนภาพ 16:9 ภายในห้องเก็บสินค้าล้ำยุค พนักงานส่งของคนหนึ่งเปิดใช้งานลำดับประตูมิติผิดพลาด มีตัวละครเพียงคนเดียวและอยู่ในห้องเดียวเท่านั้น ห้องมีลักษณะเรียบง่ายและชัดเจน ประกอบด้วยพื้นโลหะ ตู้คอนเทนเนอร์ แผงควบคุมส่วนกลาง กรอบประตูมิติขนาดใหญ่สองบานบนผนัง ไฟเตือน และประตูทางออกฉุกเฉินหนึ่งบาน แอ็กชันเริ่มต้นขึ้นทันที ประตูมิติแรกเปิดออกที่ด้านหนึ่งของห้องเผยให้เห็นพายุในมหาสมุทรที่รุนแรง ฝน ลม และละอองน้ำพุ่งเข้ามาในห้อง ประตูมิติที่สองเปิดออกที่ผนังฝั่งตรงข้ามเผยให้เห็นทะเลทรายภายใต้เมฆมืดครึ้มและสายฟ้าที่แลบแปลบปลาบ ลมร้อนและทรายพัดเข้ามาในห้องจากฝั่งนั้น พนักงานส่งของตระหนักว่าห้องนี้ถูกขังอยู่ระหว่างสองโลกที่กำลังทำงานอยู่ ตู้คอนเทนเนอร์เริ่มไถลไปตามพื้น ตู้หนึ่งถูกลากเข้าไปทางประตูมิติมหาสมุทร ส่วนอีกตู้ถูกลมทะเลทรายพัดกระแทก อุปกรณ์และเศษซากต่างๆ ปลิวว่อนไปทั่วห้อง พนักงานส่งของจำต้องเคลื่อนที่ไปมาระหว่างตู้คอนเทนเนอร์ที่กำลังเลื่อนไปมาเพื่อพยายามไปให้ถึงแผงควบคุม ความผิดพลาดทวีความรุนแรงขึ้น แรงดึงจากประตูมิติมหาสมุทรเริ่มแรงขึ้นและเริ่มลากสินค้าเข้าไปสู่คลื่นที่ซัดสาด ในขณะเดียวกัน ประตูมิติทะเลทรายก็มีสายฟ้าแลบและพัดลมเข้ามาในห้องมากขึ้น พนักงานส่งของไปถึงแผงควบคุมและกดปุ่มฉุกเฉิน แต่ประตูทางออกไม่เปิดออกทันเวลา พนักงานตัดสินใจอย่างรวดเร็วโดยใช้ประตูมิติทะเลทรายเป็นทางหนี เขาตัดสินใจวิ่ง กระโดดขึ้นไปบนตู้คอนเทนเนอร์ที่กำลังไถล ใช้มันเป็นฐาน แล้วพุ่งตัวผ่านประตูมิติทะเลทรายไปในจังหวะเดียวกับที่ตู้คอนเทนเนอร์ขนาดใหญ่กว่าถูกดูดเข้าไปในประตูมิติมหาสมุทรด้านหลัง จบฉากด้วยการที่พนักงานส่งของลงจอดที่ฝั่งทะเลทราย ในขณะที่ห้องเก็บสินค้าด้านหลังยังคงติดอยู่ระหว่างพายุฝน ลมทะเลทราย และตู้คอนเทนเนอร์ที่ไถลไปมา สไตล์: สมจริงระดับภาพยนตร์, เข้มข้น, แอ็กชันชัดเจนอ่านง่าย, มีพนักงานส่งของเพียงคนเดียว, มีห้องเก็บสินค้าเพียงห้องเดียว, มีฉากหลักเพียงฉากเดียว, มีประตูมิติเพียงสองบาน, ประตูมิติพายุในมหาสมุทร, ประตูมิติสายฟ้าในทะเลทราย, ตู้คอนเทนเนอร์ที่ไถลได้, ลมแรง, ละอองน้ำทะเล, ทราย, วัตถุประสงค์เรียบง่าย, ไม่มีตัวละครเสริม, ไม่มีสถานที่อื่นนอกเหนือจากโลกในประตูมิติที่มองเห็น, ไม่มีข้อความ, ไม่มีโลโก้, ไม่ใช่สไตล์การ์ตูน, ไม่มีการสโลว์โมชัน, ไม่มีใบหน้าคนดัง, ไม่มีนักแสดงที่จดจำได้, ไม่มีความคล้ายคลึงกับดาราภาพยนตร์, ไม่มีความคล้ายคลึงกับบุคคลสาธารณะ, ไม่มีการถ่ายเจาะใบหน้าชัดๆ รักษาขนาดสัดส่วน รักษาลักษณะและสไตล์ อัตราส่วนภาพ 16:9
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083435027153494016/img/tL8fyJRFiwVtZmp_.jpg" width="600" alt="ฉากแอ็กชันไซไฟเปิดประตูมิติสุดอลังการ">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=8201)**
+
+**ผู้เขียน:** [DeCat](https://x.com/DeCat2025) | **แหล่งที่มา:** [Link](https://x.com/DeCat2025/status/2083435058396844250) | **เผยแพร่เมื่อ:** Aug 1, 2026
+
+---
+### ลำดับเหตุการณ์หนังสยองขวัญแนวเชือดเฉือนยุค 80
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์ภาพยนตร์ความยาว 30 วินาทีที่ละเอียดมากสำหรับหนังสยองขวัญยุค 80 รวมถึงรายละเอียดรูปลักษณ์ตัวละครและลำดับเวลา
+
+#### 📝 พรอมต์
+
+```
+ภาพยนตร์ยุค 1980 ฟุตเทจไลฟ์แอ็กชันสมจริง ถ่ายทำด้วยฟิล์ม 35 มม. ที่มีเกรนหนา สีสันสดใสแต่ดูดิบและอิ่มตัว แสงนีออนแบบดั้งเดิมผสมผสานกับแสงแฟลชที่รุนแรงและหมอกควัน การตัดต่อที่รวดเร็วและโกลาหล เต็มไปด้วยการตัดฉากแบบฉับพลัน การสะท้อนของกระจก ภาพมุมมองบุคคลที่หนึ่ง (POV) แสงแฟลชวูบวาบ และการเคลื่อนไหวที่ไดนามิกเพื่อสร้างความสับสนและความตื่นตระหนกอย่างถึงที่สุด ใช้เอฟเฟกต์เลือดเทียมแบบดั้งเดิม หนวดปลาหมึกยาง และการแสดงผาดโผนจริง การแสดงที่สมจริงตามยุค 80: ทรงผมฟูฟ่อง ชุดสีสันฉูดฉาน เลกกิ้งวอร์มขา ท่าทางหวาดกลัวที่ดูเกินจริง และการแสดงออกทางร่างกายที่สิ้นหวัง สร้างบรรยากาศซินธ์เวฟผ่านแสงไฟที่กะพริบเป็นจังหวะและความเงียบงันที่เกิดขึ้นกะทันหัน
+[อ้างอิงภาพ] สร้างกลุ่มวัยรุ่นช่วงกลางยุค 80 จำนวน 5 คนที่มีรูปลักษณ์แตกต่างกันอย่างชัดเจนขึ้นมาใหม่ทั้งหมด ได้แก่ ชายผมบลอนด์ทรงมัลเล็ตในเสื้อนีออน, ชายร่างท้วมผมหยิกเข้มในเสื้อลายฮาวาย, หญิงสาวผมแดงลอนใหญ่ในชุดเดรสนีออน, หญิงสาวนักกีฬาผมหางม้าสีดำในเสื้อครอป, และหญิงสาวผมน้ำตาลสวมแว่นในเสื้อโปโลสีพาสเทล ทั้งหมดอยู่ในแฟชั่นงานปาร์ตี้บนเรือยอชต์สีสันสดใส และสัตว์ประหลาดปลาหมึกยักษ์ที่มีหนวดทำจากยางหนาและปากที่อ้ากว้าง ทั้งหมดอยู่บนเรือยอชต์หรูที่อาบไปด้วยแสงนีออนในสไตล์หนังสยองขวัญแนวเชือดเฉือนยุค 1980 แบบดั้งเดิม
+[ลำดับเวลาทีละวินาที] 0-3 วินาที: [ตัดต่อสร้างความสับสนอย่างรวดเร็ว] ตัดฉากอย่างรวดเร็วบนดาดฟ้าเรือยอชต์ที่มืดสลัวในยามค่ำคืน แสงนีออนกะพริบเป็นจังหวะ เพื่อนทั้ง 5 คนกำลังหัวเราะและเต้นรำพร้อมเครื่องดื่ม เพลงดังสนั่น แทรกภาพ: แชมเปญหก รอยยิ้มของหญิงสาวคนหนึ่งจางหายไปขณะหมอกลอยขึ้นจากน้ำ กระจกสะท้อนให้เห็นหนวดขนาดมหึมาแวบหนึ่งแล้วหายไป แสงแฟลชกะพริบ เสียงหัวเราะเงียบลงเมื่อเครื่องยนต์ดับและไม่เห็นฝั่ง
+3-6 วินาที: [ตัดต่อความตื่นตระหนกที่เพิ่มขึ้น] ตัดฉากเร็วๆ ขณะความตื่นตระหนกแผ่ขยาย ชายผมบลอนด์วิ่งไปที่ห้องควบคุม วิทยุพังยับ ภาพโคลสอัปไมโครโฟนที่แตกหัก หญิงสาวสองคนกอดกันใกล้ราวระเบียง ตาเบิกกว้าง ตะโกนเรียกชื่อกันจนก้อง มุมกล้องต่ำแบบ POV เคลื่อนผ่านหมอกหนา แก้วเครื่องดื่มล้ม พวกเขาแยกย้ายกันไป—คนหนึ่งไปที่ห้องพัก อีกคนไปที่ท้ายเรือ ภาพสะท้อนในน้ำเห็นหนวดเคลื่อนไหวโดยไม่มีใครสังเกตเห็น
+6-9 วินาที: [ลำดับการโจมตีครั้งแรก] ความรุนแรงที่เกิดขึ้นกะทันหัน ตัดฉากอย่างรวดเร็ว ปลาหมึกยักษ์โผล่ขึ้นมาจากน้ำที่มีหมอกปกคลุม ตัดฉากเร็วๆ: หนวดขนาดมหึมาที่ถูกแสงแฟลชส่อง ฟาดลงมา เลือดเทียมพุ่งกระจายเต็มเสื้อแจ็กเก็ตสีชมพู ร่างกายกระแทกลงบนดาดฟ้าเรือที่เปียกชื้น คนอื่นๆ กรีดร้องและแตกกระเจิง ลื่นล้ม หญิงสาวคนหนึ่งล้มลง ปลาหมึกรุกคืบด้วยการเคลื่อนไหวของหนวดที่หนักหน่วงในขณะที่แสงนีออนยังคงกะพริบ
+9-12 วินาที: [ความโกลาหลเต็มรูปแบบและการฆ่าแบบสมจริง] ตัดต่อที่บ้าคลั่ง ตัดฉากหลายครั้ง: ชายคนหนึ่งวิ่งไปที่แพชูชีพ หนวดปรากฏขึ้นข้างหลังเขา หญิงสาวซ่อนตัวหลังบาร์ หนวดฟาดทะลุเข้ามา เลือดเทียมเปรอะเปื้อนเคาน์เตอร์ อีกคนจนมุมที่ผนังห้องพัก ถูกยกขึ้นและฟาดลง ร่างกายไถลทิ้งรอยเลือดเป็นทาง เท้าครูดไปกับพื้น ร่างกายล้มลง หมอกหมุนวนรอบคราบเลือดที่ดูสมจริง แสงแฟลชที่รุนแรง ผู้รอดชีวิตเหวี่ยงตะขอเกี่ยวเรือ เสียงกระแทกหนักๆ ลงบนหนวด
+12-15 วินาที: [จุดสูงสุดและภัยคุกคามที่ยังคงอยู่] ตัดฉากเร็วๆ สองคนสุดท้ายที่สิ้นหวั
+```
+
+<img src="https://pbs.twimg.com/media/HOnYjBJawAAAuhi.jpg" width="600" alt="ลำดับเหตุการณ์หนังสยองขวัญแนวเชือดเฉือนยุค 80">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=8231)**
+
+**ผู้เขียน:** [MrDejie](https://x.com/mrdejie) | **แหล่งที่มา:** [Link](https://x.com/mrdejie/status/2083433982356836382) | **เผยแพร่เมื่อ:** Aug 1, 2026
+
+---
+### วิดีโอเปลี่ยนผ่านด้วยภาพวาดจากโทรศัพท์มือถือ
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> พรอมต์สำหรับสร้างวิดีโอที่เริ่มต้นด้วยภาพโคลสอัพของภาพวาดพอร์ตเทรตผู้หญิงสไตล์แปลกตาบนกระดาษสีขาว พร้อมเอฟเฟกต์การเคลื่อนไหวของกล้องแบบถือด้วยมือที่สมจริง
+
+#### 📝 พรอมต์
+
+```
+ถ่ายทำด้วยโทรศัพท์มือถือแบบถือด้วยมือ มีการสั่นไหวอย่างเห็นได้ชัด โดยไม่เห็นตัวโทรศัพท์ในเฟรม ในช่วง 0-1 วินาทีแรก เฟรมเริ่มต้นจะเป็นกระดาษสีขาวเต็มหน้าจอ มีภาพวาดกราฟฟิตี้แนวนอนเป็นภาพพอร์ตเทรตครึ่งตัวของผู้หญิง ภาพวาดมีความขี้เล่น ดูน่ารักและตลกขบขันเล็กน้อย มีการแสดงออกทางสีหน้าที่แปลกตา มีพื้นที่ว่างสีขาวที่ชัดเจน และลายเส้นที่หนักแน่นทรงพลัง
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083429604782743552/img/C17fsz08cCXjZUfs.jpg" width="600" alt="วิดีโอเปลี่ยนผ่านด้วยภาพวาดจากโทรศัพท์มือถือ">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=8300)**
+
+**ผู้เขียน:** [PixelAIGC](https://x.com/PixelAigc) | **แหล่งที่มา:** [Link](https://x.com/PixelAigc/status/2083429679177093432) | **เผยแพร่เมื่อ:** Aug 1, 2026
+
+---
+### วิดีโอไลฟ์แอ็กชัน Momotaro ในธีมสตีมพังค์
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> พรอมต์วิดีโอระดับภาพยนตร์สำหรับ Seedance 2.5 เพื่อสร้างวิดีโอไลฟ์แอ็กชันตำนาน Momotaro ในธีมสตีมพังค์ความยาว 30 วินาที โดยเน้นคอนทราสต์สูงและโทนสีฟ้า
+
+#### 📝 พรอมต์
+
+```
+สร้างวิดีโอ Momotaro ตั้งแต่กำเนิดจนถึงการปราบยักษ์เสร็จสิ้นภายใน 30 วินาที ในรูปแบบไลฟ์แอ็กชัน กำกับภาพ: ปรับแสงให้มืดลงและเพิ่มคอนทราสต์ให้ชัดเจน ลดความอิ่มตัวของสีและคุมโทนอุณหภูมิสีด้วยฟิลเตอร์สีฟ้า นำเสนอในโลกทัศน์แบบสตีมพังค์ ความสัมพันธ์ของตัวละครมีความเย็นชา บทสนทนาเป็นภาษาญี่ปุ่น
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083420527390265344/img/44CQxAgzXfHbvTUU.jpg" width="600" alt="วิดีโอไลฟ์แอ็กชัน Momotaro ในธีมสตีมพังค์">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=8218)**
+
+**ผู้เขียน:** [ChiakiAkagi 還暦のAIイリュージョニスト](https://x.com/ChiakiAkagi) | **แหล่งที่มา:** [Link](https://x.com/ChiakiAkagi/status/2083420580267896854) | **เผยแพร่เมื่อ:** Aug 1, 2026
+
+---
+### วิดีโอบล็อกท่องเที่ยวบาหลีแบบถือถ่ายดิบ ๆ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์ที่ออกแบบมาเพื่อสร้างความรู้สึกเหมือนใช้กล้องมือถือถ่ายทำจริง ไม่ใช่ AI สำหรับฉากท่องเที่ยวบาหลี พร้อมพื้นผิวแบบมนุษย์ที่สมจริงและแสงที่เป็นธรรมชาติ
+
+#### 📝 พรอมต์
+
+```
+คนจริง ๆ ในทริปท่องเที่ยวบาหลี ไม่ใช่สิ่งที่สร้างจาก AI ไม่ใช่โฆษณา ไม่ใช่การถ่ายแบบ พื้นผิวผิวหนังมนุษย์จริง ๆ เห็นรูขุมขนชัดเจน ดูเป็นธรรมชาติ ผิวอมชมพู มีความมันวาวเล็กน้อยจากความร้อน ไม่มีผิวเรียบเนียนแบบพลาสติกจาก AI ไม่มีฟิลเตอร์ที่ดูสมบูรณ์แบบไร้ที่ติ มีความเงาของเหงื่อเล็กน้อยในฉากกลางแจ้ง ยอมรับความไม่สมบูรณ์แบบตามธรรมชาติ ใช้กล้องมือถือถือถ่ายตลอดทั้งคลิป มีการสั่นไหวและโยกเยกตามธรรมชาติ การจัดเฟรมที่ไม่สมบูรณ์แบบ เช่น เอียงเล็กน้อย หรือไม่อยู่ตรงกลาง มีโมชันเบลอตามธรรมชาติเมื่อเคลื่อนกล้อง ขอบภาพถูกตัดออก การเปิดรับแสงที่ไม่สม่ำเสมอ เช่น สว่างเกินไปเล็กน้อยเมื่ออยู่กลางแจ้ง และโทนอุ่นเมื่ออยู่ในร่ม มีการปรับโฟกัสหรือภาพเบลอเล็กน้อยเป็นครั้งคราว มีความบิดเบี้ยวของเลนส์ iPhone 26 มม. ไม่มีการใช้กิมบอลกันสั่น ให้ความรู้สึกแบบถือถ่ายดิบ ๆ ไม่มีภาพจากโดรน ไม่มีมุมกล้องแบบมืออาชีพ ใช้เพียงแสงธรรมชาติ 100% ฉากตอนเช้าจะมีแสงสีทองนุ่มนวลส่องผ่านผ้าม่าน
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083420128251887616/img/_2LMAixg82cffDi5.jpg" width="600" alt="วิดีโอบล็อกท่องเที่ยวบาหลีแบบถือถ่ายดิบ ๆ">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=8288)**
+
+**ผู้เขียน:** [Avelyrah](https://x.com/AvelyrahnAI) | **แหล่งที่มา:** [Link](https://x.com/AvelyrahnAI/status/2083420467353079819) | **เผยแพร่เมื่อ:** Aug 1, 2026
+
+---
+### วิดีโอตลกจิ้งจอกวิญญาณจอมซน
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> พรอมต์วิดีโอแบบหลายช็อตที่ซับซ้อนสำหรับ Seedance 2.0 นำเสนอศิษย์พี่หญิงนักดาบและจิ้งจอกวิญญาณจอมซนที่ซ่อนตัวอยู่ในแขนเสื้อผ้าไหม
+
+#### 📝 พรอมต์
+
+```
+[สไตล์โดยรวม]
+
+คุณภาพระดับภาพยนตร์สมจริง ผสมผสานสุนทรียศาสตร์แบบเซียนเซียที่ดูสุขุม องค์ประกอบภาพทิวทัศน์จีนคลาสสิก ความตลกขบขันเชิงภาพที่เน้นความลุ้นระทึก โทนสีฟ้าหิมะเย็นและสีงาช้างอุ่น แสงย้อนยามเช้าที่นุ่มนวล เกรนฟิล์มละเอียด เอฟเฟกต์เวทมนตร์ที่ควบคุมได้และดูสุขุม และการแสดงปฏิกิริยาแบบนิ่งเฉย ออกแบบมาสำหรับ Seedance 2.0 โดยอ้างอิงความคงที่ของตัวละครจากภาพ การเล่าเรื่องแบบหลายช็อตที่ต่อเนื่อง การแสดงท่าทางที่สมจริง และเสียงพูดภาษาจีนกลางกับเสียงสภาพแวดล้อมที่สอดคล้องกัน
+
+[ตัวละคร]
+
+รหัสตัวละคร A | ศิษย์พี่หญิงเซียนกระบี่
+
+ศิษย์พี่หญิง @Image 1, หญิงชาวเอเชียตะวันออกอายุ 25–30 ปี ใบหน้ารูปไข่ ผิวขาวธรรมชาติ ดวงตารูปเมล็ดอัลมอนด์สีเข้ม ผมยาวสีดำมัดครึ่งศีรษะด้วยปิ่นหยกสีขาว รูปร่างสูงโปร่ง สวมชุดฮั่นฝูผ้าไหมปักลายสีขาว แขนกว้างซ้อนทับแบบโปร่งแสง คาดเอวสีเงินอ่อน จี้หยก และรองเท้าผ้าสีขาว
+
+รหัสตัวละคร B | ศิษย์น้องหญิง
+
+ศิษย์น้องหญิง @Image 2, หญิงชาวเอเชียตะวันออกอายุ 20–25 ปี ใบหน้ากลมดูคล่องแคล่ว ผมถักเปียสีดำ รูปร่างเล็ก สวมชุดฮั่นฝูผ้าลินินสีเขียว คาดเอวผ้าสีเข้ม ปิ่นไม้ และรองเท้าผ้าสีดำ
+
+สิ่งมีชีวิตอื่นๆ
+
+มีเพียงจิ้งจอกวิญญาณสีขาวตัวเล็กเพียงตัวเดียวที่ปรากฏตลอดทั้งเรื่อง
+
+[ช็อตที่ 1 | 0-5 วินาที | มุมกว้างจากมุมต่ำพร้อมการเคลื่อนกล้องติดตามช้าๆ]
+
+ลานสำนักที่เงียบสงบหลังหิมะตกใหม่ๆ กระเบื้องหินสีเทาบางส่วนถูกปกคลุมด้วยหิมะ กำแพงสีขาว ชายคากระเบื้องสีเข้ม ต้นสนโบราณ รั้วไม้ไผ่ โคมไฟสำริด ควันธูปที่ลอยละล่องอย่างช้าๆ และตะกร้าหวายสำหรับนอนใบเล็กที่ว่างเปล่าข้างบันไดหิน สร้างความสัมพันธ์เชิงพื้นที่ที่ชัดเจนและมั่นคง
+
+ศิษย์น้องหญิงในชุดฮั่นฝูสีเขียวถือตะกร้าหวายเปล่าและพูดด้วยความกังวลว่า: "ศิษย์พี่ จิ้งจอกผู้พิทักษ์ภูเขาหายไปค่ะ"
+
+ศิษย์พี่หญิงในชุดฮั่นฝูผ้าไหมสีขาวชูสองนิ้วขึ้นอย่างใจเย็นและตอบว่า: "ปิดประตูภูเขาไว้ เดี๋ยวข้าจะไปตามหาเอง"
+
+[ช็อตที่ 2 | 5-10 วินาที | ช็อตกลางติดตามด้านข้าง]
+
+ศิษย์พี่หญิงในชุดฮั่นฝูผ้าไหมสีขาวทำท่าร่ายมนตร์ที่แม่นยำและชัดเจน รอยเท้าจิ้งจอกสีทองสว่างปรากฏขึ้นบนหิมะ อ้อมผ่านลานเดิมและศิษย์น้องหญิงไป ก่อนจะทอดยาวตรงไปยังศิษย์พี่หญิง
+
+นางเดินตามรอยเท้าเรืองแสงนั้นด้วยสีหน้าจริงจัง ฉากหลังยังคงเป็นลานที่ปกคลุมด้วยหิมะ ต้นสนโบราณ โคมไฟสำริด ตะกร้าหวายเปล่า และบันไดหินเช่นเดิม
+
+[ช็อตที่ 3 | 10-15 วินาที | ช็อตใกล้เผยให้เห็นจนถึงช็อตใกล้มาก]
+
+รอยเท้าจิ้งจอกเรืองแสงทอดยาวขึ้นไปบนชายกระโปรงของชุดฮั่นฝูผ้าไหมสีขาวตัวเดิม และหายเข้าไปใต้แขนเสื้อกว้างของนาง
+
+ศิษย์น้องหญิงค่อยๆ ยกแขนเสื้อกว้างขึ้น เผยให้เห็นจิ้งจอกวิญญาณสีขาวตัวเล็กที่ขดตัวนอนอยู่ข้างใน หางฟูๆ ของมันพันรอบข้อมือของศิษย์พี่หญิง จิ้งจอกน้อยหาว เปิดตาข้างหนึ่ง แล้วหลับต่อ
+
+ศิษย์น้องหญิงพูดด้วยสีหน้าเรียบเฉยว่า: "ศิษย์พี่ มันไม่ได้หายไปไหน แค่เปลี่ยนที่นอนค่ะ"
+
+ช็อตใกล้มาก: คิ้วข้างหนึ่งของศิษย์พี่หญิงกระตุกเล็กน้อย นางค่อยๆ ลดแขนเสื้อลง ทำเป็นว่าทุกอย่างเป็นไปตามที่คาดไว้
+
+จบลงด้วยเสียงดนตรีกู่เจิงที่ตัดฉับ เสียงร้องเล็กๆ ของจิ้งจอก และเสียงกังวานเบาๆ ของโคมไฟสำริด
+
+[ข้อกำหนดทางเทคนิค]
+
+ความยาวรวม 15 วินาทีเป๊ะ อัตราส่วนภาพ 16:9 มี 3 ช็อตที่สะอาดและชัดเจน ใบหน้าและเสื้อผ้าคงที่ เสียงพากย์ภาษาจีนกลางที่เป็นธรรมชาติ ลิปซิงค์ที่แม่นยำ หิมะ ผ้าไหม เส้นผม ควันธูป รอยเท้าเรืองแสง และการเคลื่อนไหวของจิ้งจอกที่สมจริง ไม่สร้างคำบรรยาย มีมนุษย์เพียง 2 คนและจิ้งจอก 1 ตัวตลอดทั้งเรื่อง
+
+[พรอมต์เชิงลบ]
+
+เบลอ, คุณภาพแย่, คุณภาพต่ำ, ความละเอียดต่ำ, มีสัญญาณรบกวน, สิ่งแปลกปลอมจากไฟล์ JPEG, ลายน้ำ, ข้อความ, ข้อผิดพลาด; ผิดรูป, กลายพันธุ์, กายวิภาคผิดปกติ, วาดมือไม่ดี, องค์ประกอบภาพแย่, หลุดเฟรม, เสียโฉม; ตัวละครไม่คงที่, เสื้อผ้าเปลี่ยน, ใบหน้าเปลี่ยนรูป, ฉากหลังเปลี่ยน, รอยตัดที่ผิดพลาด, อุปกรณ์ประกอบฉากหายไป
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083408053139865600/img/1fP1G52M5ny0C1zL.jpg" width="600" alt="วิดีโอตลกจิ้งจอกวิญญาณจอมซน">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=8208)**
+
+**ผู้เขียน:** [Soran](https://x.com/Soranlan) | **แหล่งที่มา:** [Link](https://x.com/Soranlan/status/2083408525317804519) | **เผยแพร่เมื่อ:** Aug 1, 2026
+
+---
+### ฉากแอ็กชันหัวขโมยในหอนาฬิกา
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์ฉากแอ็กชันแบบภาพยนตร์ที่เน้นรายละเอียดของหัวขโมยที่กำลังหลบหนีในหอนาฬิกาเก่าแก่สุดอันตราย ซึ่งเต็มไปด้วยระฆังยักษ์แกว่งไปมาและฟันเฟืองที่เคลื่อนไหว
+
+#### 📝 พรอมต์
+
+```
+ภายในหอนาฬิกาเก่าแก่ขนาดใหญ่ยามค่ำคืน หัวขโมยคนหนึ่งติดอยู่บนหอคอยสูงขณะพยายามหาทางหลบหนีลงมาด้านล่าง ฉากมีความชัดเจนและเต็มไปด้วยอันตราย ทั้งระฆังยักษ์ที่แกว่งไปมา แท่นไม้แคบๆ บันไดลิงที่สูงชัน ฟันเฟืองที่กำลังหมุน โซ่เส้นหนา คานไม้ที่เต็มไปด้วยฝุ่น และช่องว่างที่มองเห็นความสูงของหอคอยด้านล่าง ลมและแสงจากพายุสาดส่องผ่านช่องเปิดของหอคอย เป้าหมายนั้นเรียบง่าย หัวขโมยต้องข้ามห้องระฆังและไปให้ถึงบันไดทางออกก่อนที่ระฆังที่แกว่งไปมาและบันไดที่พังทลายจะขังพวกเขาไว้ แอ็กชันเริ่มต้นขึ้นเมื่อหัวขโมยก้าวลงบนแท่นแคบๆ ในจังหวะเดียวกับที่ระฆังยักษ์แกว่งผ่านหอคอย ระฆังเฉียดตัวไปเพียงไม่กี่นิ้วแล้วแกว่งกลับไปอีกทาง หัวขโมยก้มตัวหลบ คว้าโซ่ที่ห้อยอยู่เพื่อทรงตัว แล้วเคลื่อนที่ไปยังบันไดถัดไป บันไดขั้นแรกหักลงใต้ฝ่าเท้า หัวขโมยร่วงลงมาแต่คว้าขอบราวบันไดไว้ได้ทัน แล้วเหวี่ยงตัวลงไปยังแท่นด้านล่างข้างฟันเฟืองนาฬิกาที่กำลังหมุน ฟันเฟืองเหล่านั้นเคลื่อนที่อย่างช้าๆ แต่ทรงพลัง บังคับให้หัวขโมยต้องปีนข้ามและกะจังหวะการก้าวแต่ละก้าวอย่างระมัดระวัง แผ่นไม้ที่หลวมแผ่นหนึ่งหักและร่วงหล่นลงสู่ความมืดเบื้องล่าง หัวขโมยไปถึงแท่นสุดท้ายใกล้กับระฆังที่ใหญ่ที่สุด ระฆังใบนั้นแกว่งกระแทกเข้ามากลางห้องอย่างกะทันหัน ปิดกั้นเส้นทางทั้งหมด หัวขโมยพยายามจะข้ามไป แต่ระฆังเกือบจะกระแทกพวกเขาตกจากแท่น หัวขโมยเสียหลัก คว้าขอบราวบันไดไว้ได้ ดึงตัวกลับขึ้นมา แล้วกระโดดข้ามระฆังที่กำลังแกว่งไปทางบันไดทางออก จบฉากด้วยการที่หัวขโมยลงจอดบนแท่นฝั่งตรงข้ามอย่างแรงและรีบวิ่งผ่านประตูบันไดไปในขณะที่ระฆังยักษ์แกว่งผ่านหลังพวกเขาไป สไตล์: สมจริงระดับสูง, แบบภาพยนตร์, ตื่นเต้นเร้าใจ, แอ็กชันที่ชัดเจนและดูง่าย, มีหัวขโมยเพียงคนเดียว, มีหอนาฬิกาเพียงแห่งเดียว, มีเป้าหมายที่ชัดเจนเพียงหนึ่งเดียว, ระฆังยักษ์แกว่งไปมา, บันไดพัง, ฟันเฟืองเคลื่อนไหว, แท่นแคบๆ, ความรู้สึกถึงอันตรายจากความสูง, ไม่มีฝูงชน, ไม่มีฉากต่อสู้, ไม่มีข้อความ, ไม่มีโลโก้, ไม่ใช่สไตล์การ์ตูน, ไม่มีการทำภาพสโลว์โมชัน, ไม่มีใบหน้าคนดัง, ไม่มีนักแสดงที่จดจำได้, ไม่มีความคล้ายคลึงกับดาราภาพยนตร์, ไม่มีความคล้ายคลึงกับบุคคลสาธารณะ, ไม่มีการถ่ายเจาะใบหน้าชัดๆ รักษาอัตราส่วน รักษาลักษณะและสไตล์ อัตราส่วนภาพ 16:9
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083394622479314945/img/S_Zw8zzVeCIA4G7_.jpg" width="600" alt="ฉากแอ็กชันหัวขโมยในหอนาฬิกา">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=8188)**
+
+**ผู้เขียน:** [DeCat](https://x.com/DeCat2025) | **แหล่งที่มา:** [Link](https://x.com/DeCat2025/status/2083394763659555079) | **เผยแพร่เมื่อ:** Aug 1, 2026
+
+---
+### ภาพยนตร์แฟนตาซีมหากาพย์แบบลองเทค
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับวิดีโอแบบต่อเนื่องที่มีรายละเอียดสูง ติดตามตัวละครที่ขี่ไม้กวาดวิเศษบินผ่านทัศนียภาพเมืองต่าง ๆ ทั่วโลกด้วยการสร้างโลกที่สอดคล้องกัน
+
+#### 📝 พรอมต์
+
+```
+16:9, 30 วินาที, ภาพยนตร์แฟนตาซีสมจริงระดับมหากาพย์แบบลองเทค, การสร้างโลกขึ้นใหม่ทั้งหมด, ถ่ายทำแบบช็อตเดียวต่อเนื่อง, การเคลื่อนที่ของกล้องต่อเนื่อง, ไม่มีการตัดต่อแบบฉับพลัน และไม่มีการอ้างอิงถึงภาพยนตร์ ตัวละคร นักแสดง หรือฉากภาพยนตร์ที่มีอยู่จริง สไตล์โดยรวม: สุนทรียศาสตร์ภาพยนตร์แฟนตาซีทุนสร้างสูงพร้อมงานภาพที่สมจริง สเกลโลกที่ยิ่งใหญ่ และตัวเอกหญิงที่สวยงามด้วยผิวพรรณที่เป็นธรรมชาติ การแสดงออกที่สมจริง และสัดส่วนร่างกายที่น่าเชื่อถือ โทนโดยรวมมีความฉลาด สง่างาม ลึกลับ และกล้าหาญ ไม่ดูเป็นเด็ก การ์ตูน หรือคอสเพลย์ที่ดูเกินจริง สถานที่ทั้ง 4 แห่งเชื่อมต่อกันผ่านเส้นทางการบินต่อเนื่อง: ชายฝั่งสีดำของไอซ์แลนด์, ลอนดอนยุควิกตอเรียในโลกคู่ขนาน, เมืองที่ได้รับแรงบันดาลใจจากปารีสในยามค่ำคืนท่ามกลางสายฝน และมหานครลอยฟ้าที่ได้รับแรงบันดาลใจจากนิวยอร์กแห่งอนาคต จานสีที่รวมเป็นหนึ่ง: สีดำเข้ม สีเงินเทา และสีทองอบอุ่นเป็นสีหลักตลอดทั้งเรื่อง ไอซ์แลนด์เพิ่มสีฟ้าเย็น, ลอนดอนเพิ่มสีเทาอมเขียวและสีเหลืองอำพัน, ปารีสเพิ่มสีน้ำเงินเข้มและสีทองเปียกชื้น, นิวยอร์กเพิ่มสีเขียวอมฟ้าเข้ม สีเงินขาว และสีทอง รักษาทัศนียภาพทางบรรยากาศที่สมจริง หมอกบาง สายฝน พื้นผิวที่เปียกชื้น การสะท้อนของกระจก และแสงแบบปริมาตรตลอดทั้งเรื่อง หลีกเลี่ยงรูปลักษณ์แบบวิดีโอเกม งานศิลปะคอนเซปต์อาร์ต และวัสดุที่ดูเป็นพลาสติก ตัวละครหลัก: มีตัวเอกหญิงเพียงคนเดียวตลอดทั้งวิดีโอ เธอมีอายุประมาณ 28 ปี รูปร่างเพรียวบาง สวยงามอย่างโดดเด่น ฉลาด สง่างาม และมีความมุ่งมั่นที่เงียบสงบ โครงหน้าอันประณีตของเธอเป็นต้นฉบับทั้งหมดและต้องไม่คัดลอกมาจากนักแสดงหรือตัวละครในภาพยนตร์ที่มีอยู่จริง เธอมีดวงตาที่สดใสตามธรรมชาติ คิ้วที่ได้รูปชัดเจน โครงหน้าอ่อนโยนแต่แข็งแกร่ง สีผิวธรรมชาติ พื้นผิวผิวหนังที่สมจริง และการแสดงออกที่จดจ่อและสำรวม เธอมีผมสีน้ำตาลเกาลัดอบอุ่นยาวถึงเอว ปลายผมหยักศกตามธรรมชาติ ผมบางส่วนถูกลมพัดปลิวไปด้านหลังไหล่ ทรงผมของเธอต้องคงเดิมตลอดทั้งเรื่อง เธอสวมเสื้อโค้ทตัวยาวสีเขียวป่าเข้ม เสื้อเบลาส์คอสูงสีงาช้าง ผ้าพันคอถักสีแดงเข้ม สนับข้อมือหนังสีน้ำตาล กางเกงขายาวสีเทาเข้ม และรองเท้าบูทหนังที่ผ่านการใช้งาน เครื่องแต่งกายของเธอมีสุนทรียศาสตร์แฟนตาซีแบบอังกฤษที่ดูหรูหรา แต่เธอไม่ได้สวมเครื่องแบบนักเรียนหรือหมวกทรงแหลม ห้ามใส่ตราสัญลักษณ์ สัญลักษณ์โรงเรียนเวทมนตร์ เครื่องแต่งกายตัวละครที่คุ้นตา หรือองค์ประกอบจากภาพยนตร์ที่มีอยู่จริง เธอขี่ไม้กวาดวิเศษแบบดั้งเดิมลำเดิมตลอดทั้งลำดับ: ด้ามไม้เก่าสีเข้มพร้อมเส้นใยโลหะสีเงินเทาที่ด้านท้ายและแสงสีทองอบอุ่นขนาดเล็กที่ด้านหน้า รูปร่าง ขนาด สี และวัสดุของไม้กวาดต้องไม่เปลี่ยนแปลง เป้าหมายของเธอ: เธอกำลังบินผ่านเมืองต่าง ๆ เพื่อนำแสงสีทองอบอุ่นขนาดเล็กไปสู่ขอบไกลของก้อนเมฆ เธอไม่ใช่ตัวละครสายต่อสู้ เธอไม่โจมตีใครหรือร่ายเวทมนตร์ระเบิด เธอเพียงแค่บินไปข้างหน้าผ่านเมือง ชายฝั่ง หมอก ฝน และอากาศระดับความสูงสูง พัฒนาการทางอารมณ์ของเธอเปลี่ยนจากความจดจ่อไปสู่ความประหลาดใจ และจบลงด้วยอิสระและความมุ่งมั่น 0-5 วินาที: ออกตัวจากหาดทรายสีดำของไอซ์แลนด์ ฉากเริ่มต้นในมุมต่ำมากเหนือหาดภูเขาไฟสีดำโดยใช้เลนส์มุมกว้าง 24 มม. มีคลื่นทะเลสีดำอยู่ทางซ้าย เสาหินบะซอลต์สูงตระหง่านทางขวา และภูเขาน้ำแข็งสีขาวอมฟ้าในระยะไกล เมฆสีฟ้าเย็นกดต่ำลงทั่วท้องฟ้า ในขณะที่เส้นแสงสีทองอบอุ่นของพระอาทิตย์ตกดินยังคงอยู่ใกล้ขอบฟ้า นักเดินทางหญิงผู้สวยงามปรากฏตัวอย่างรวดเร็วจากด้านหลังขวาของเฟรม ขี่ไม้กวาดอยู่เหนือผิวน้ำทะเล ผมสีน้ำตาลเกาลัดของเธอปลิวไปด้านหลังตามลมทะเล ผ้าพันคอสีแดงเข้มของเธอสร้างเส้นการเคลื่อนไหวที่ชัดเจนด้านหลัง ในขณะที่เสื้อโค้ทสีเขียวป่าเข้มของเธอเคลื่อนไหวอย่างเป็นธรรมชาติในกระแสลม แสงสีทองอบอุ่นที่ด้านหน้าของไม้กวาดส่องสว่างผ่านละอองน้ำทะเลและหยดน้ำ กล้องติดตามเธอจากด้านหลังด้วยการเคลื่อนไหวแบบ FPV ที่มั่นคง โดยให้เธออยู่ค่อนข้างไปทางขวาของจุดศูนย์กลาง ห้ามหมุนไปด้านหน้าหรือปล่อยให้เธอหลุดเฟรม ร่างกายของเธอโน้มไปข้างหน้าเล็กน้อย มือข้างหนึ่งจับด้ามไม้กวาดในขณะที่อีกข้างหนึ่งรักษาความสมดุล เธอบินเข้าหากำแพงน้ำแข็งสีฟ้าขนาดมหึมา ในวินาทีที่สี่ เธอเข้าสู่รอยแยกตามธรรมชาติใต้กำแพงน้ำแข็ง น้ำแข็งผ่านไปอย่างรวดเร็วทั้งสองข้างของกล้อง ผลึกสีฟ้าเย็นตัดกับแสงสีทองอบอุ่นชั่วครู่ สร้างการเปลี่ยนผ่านที่เป็นธรรมชาติครั้งแรก ไม่มีการระเบิด ควันเวทมนตร์ หรือการเปลี่ยนแปลงกะทันหัน 5-12 วินาที: ลอนดอนยุควิกตอเรียในสายหมอก เมื่อน้ำแข็งพ้นเลนส์ สภาพแวดล้อมจะกลายเป็นเมืองยุควิกตอเรียในโลกคู่ขนานยามค่ำคืนโดยธรรมชาติ ตัวเอกและไม้กวาดรักษาทิศทาง ความเร็ว เสื้อผ้า รูปลักษณ์ และท่าทางการบินเดิมไว้ทั้งหมด กล้องยังคงติดตามจากด้านหลัง ด้านล่างคือถนนหินสีเทาเข้มที่เปียกชื้น อาคารอิฐแดง สะพานเหล็กสีดำ หน้าต่างแคบๆ และโคมไฟถนนสีเหลืองอำพันแบบเก่าเรียงรายอยู่ทั้งสองข้าง ยานพาหนะสาธารณะสองชั้นสีแดงเข้มหลายคันที่ไม่มีข้อความหรือตราสินค้าเคลื่อนที่ช้าๆ ผ่านสายหมอก เมืองควรชวนให้นึกถึงลอนดอนยุควิกตอเรียโดยไม่ต้องจำลองสถานที่สำคัญที่มีอยู่จริง กล้องค่อยๆ เปลี่ยนจากการติดตามแบบ FPV ที่รวดเร็วไปสู่การติดตามจากด้านหลังแบบสามส่วนสี่ที่นุ่มนวล เคลื่อนที่ประมาณ 45 องศาไปทางซ้ายของเธอ ใบหน้าอันงดงามของเธอปรากฏให้เห็นชั่วครู่ ดวงตาของเธอยังคงจดจ่อ และผมกับผ้าพันคอของเธอยังคงความต่อเนื่องที่มั่นคง แสงสีทองอบอุ่นทิ้งร่องรอยไว้เพียงสั้นๆ ผ่านสายฝนและหมอก เธอผ่านใต้สะพานเหล็กสีดำที่ยกระดับ โครงสร้างเหล็กเคลื่อนผ่านด้านบนของเฟรมเป็นการบดบังทางกายภาพชั่วคราว กล้องไม่ตัดต่อ และเมื่อสิ่งกีดขวางผ่านไป เธอยังคงอยู่บนแกนการเคลื่อนไหวเดิม ในวินาทีที่สิบ เธอบินเข้าไปในสถานีรถไฟโค้งขนาดใหญ่ หลังคาทำจากคานเหล็กสีดำและกระจกเปียกชื้น มีน้ำฝนไหลผ่านพื้นผิว หลังคาปกคลุมเฟรมทั้งหมด สร้างการเปลี่ยนผ่านที่เป็นธรรมชาติครั้งที่สอง 12-19 วินาที: เมืองที่ได้รับแรงบันดาลใจจากปารีสท่ามกลางสายฝน เมื่อหลังคากระจกพ้นกล้อง สภาพแวดล้อมจะกลายเป็นเมืองที่ได้รับแรงบันดาลใจจากปารีสที่แสนโรแมนติกในยามค่ำคืนท่ามกลางสายฝน ห้ามจำลองสถานที่สำคัญที่มีอยู่จริง รักษาไว้เพียงบรรยากาศของสะพานหิน แม่น้ำ ถนนแคบๆ อาคารหินคลาสสิก ระเบียงเหล็กดัด และแสงไฟจากหน้าต่างที่อบอุ่น ตัวเอกบินต่ำเหนือแม่น้ำกว้าง ผิวน้ำสะท้อนแสงหน้าต่างสีทองและท้องฟ้ายามค่ำคืนสีน้ำเงินเข้ม อาคารหินสีเทาอ่อน หน้าต่างแคบสูง หลังคาเปียกชื้น และสายฝนที่โปรยปรายทอดยาวไปทั้งสองข้าง เสื้อโค้ทสีเขียวเข้มและผ้าพันคอสีแดงเข้มของเธอสร้างเงาที่ชัดเจนตัดกับเมืองสีน้ำเงิน ในขณะที่ผมสีเกาลัดของเธอปลิวไปด้านหลัง กล้องเคลื่อนเข้าสู่ตำแหน่งติดตามขนานทางด้านขวาของเธอ ไม้กวาดอยู่สูงเหนือแม่น้ำประมาณสามเมตร กล้องยังคงอยู่ต่ำกว่าระดับไหล่เล็กน้อย รักษาความสัมพันธ์เชิงพื้นที่ระหว่างหญิงสาว ไม้กวาด แม่น้ำ และสถาปัตยกรรม เธอผ่านใต้สะพานหินคลาสสิกหลายแห่งซึ่งส่วนโค้งสร้างการสะท้อนต่อเนื่องในน้ำ ในวินาทีที่สิบเจ็ด เธอเข้าสู่ทางเดินกระจกยาวที่ทำจากผนังกระจกเปียกชื้น การสะท้อนอาจแสดงเพียงหญิงสาวคนเดิม ไม้กวาดคันเดิม และแสงสีทองอบอุ่นดวงเดิม ห้ามสร้างตัวละครซ้ำ น้ำฝน แสงไฟเมือง และการสะท้อนเลื่อนไปตามพื้นผิวกระจก แสงสีทองอบอุ่นที่ทรงพลังปรากฏขึ้นที่ปลายทางเดิน เธอบินเข้าหามัน สร้างการเปลี่ยนผ่านที่เป็นธรรมชาติครั้งที่สาม 19-24 วินาที: มหานครที่ได้รับแรงบันดาลใจจากนิวยอร์กแห่งอนาคต ทางเดินกระจกเปิดออกสู่มหานครที่ได้รับแรงบันดาลใจจากนิวยอร์กแห่งอนาคต กล้องเปลี่ยนจากตำแหน่งด้านหลังสามส่วนสี่อย่างรวดเร็วแต่ราบรื่นไปสู่ช็อต FPV ที่หันไปข้างหน้าและเคลื่อนที่ถอยหลังอยู่หน้าเธอ ใบหน้าที่สวยงามและจดจ่อของเธอ ผมสีเกาลัด ผ้าพันคอสีแดงเข้ม และแสงไม้กวาดสีทองปรากฏให้เห็นชั่วครู่ ด้านล่างคือถนนที่เปียกชื้น ตึกระฟ้ากระจก สะพานยกระดับโลหะ และหุบเขาเมืองขนาดมหึมา
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083383062700904448/img/U2wYG2rivJpDckX4.jpg" width="600" alt="ภาพยนตร์แฟนตาซีมหากาพย์แบบลองเทค">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=8236)**
+
+**ผู้เขียน:** [Lincanvas](https://x.com/AIcanvas_Frames) | **แหล่งที่มา:** [Link](https://x.com/AIcanvas_Frames/status/2083383374840787223) | **เผยแพร่เมื่อ:** Aug 1, 2026
+
+---
+### โฆษณาเครื่องสำอาง Lavender Bliss
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับโฆษณาเครื่องสำอางระดับหรูที่ประกอบด้วยทุ่งลาเวนเดอร์ ภาพถ่ายดอกไม้แบบมาโคร และแสงยามพระอาทิตย์ขึ้นที่สร้างบรรยากาศ
+
+#### 📝 พรอมต์
+
+```
+โฆษณาเครื่องสำอางระดับหรูถ่ายทำด้วยความละเอียด 8k พร้อมแสงแบบภาพยนตร์ ภาพโคลสอัพมาโครของดอกลาเวนเดอร์สีม่วงสดใสที่ปกคลุมด้วยหยาดน้ำค้างเป็นประกายในช่วงพระอาทิตย์ขึ้นยามเช้า กล้องปรับโฟกัสเผยให้เห็นหญิงสาวสวยผมยาวสีน้ำตาลเป็นลอนสวมชุดผ้าไหมสีม่วงอ่อนพลิ้วไหว เธอถือกระปุกเครื่องสำอางแก้วที่มีฉลากระบุว่า "ROZINO LAVENDER BLISS" ภาพโคลสอัพมาโครขณะที่เธอทาครีมสีม่วงเนื้อเนียนลงบนข้อมือ จากนั้นเธอนำข้อมือมาแตะที่จมูก หลับตาลงพร้อมรอยยิ้มที่เปี่ยมด้วยความสงบเพื่อสูดดมกลิ่นหอมผ่อนคลาย ฉากเปลี่ยนไปเป็นภาพที่เธอเปิดตลับแป้งสีม่วงอ่อนและปาดเนื้อครีม ตามด้วยภาพมุมกว้างแบบภาพยนตร์ทางอากาศที่เธอท่ายืนอย่างสง่างามท่ามกลางแถวลาเวนเดอร์ที่บานสะพรั่งในทุ่งที่มีหมอกจางๆ ในช่วงพระอาทิตย์ตก แสงแดดอ่อนๆ อบอุ่น หมอกบรรยากาศ สุนทรียภาพแบบชวนฝัน สมจริงเป็นพิเศษ ถ่ายด้วยเลนส์ 35 มม. ระยะชัดลึกตื้น สโลว์โมชั่น 60fps
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083378402157846528/img/Sl9e14MXXY57mLHk.jpg" width="600" alt="โฆษณาเครื่องสำอาง Lavender Bliss">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=8190)**
+
+**ผู้เขียน:** [Zyrella](https://x.com/Zyrellix) | **แหล่งที่มา:** [Link](https://x.com/Zyrellix/status/2083378889225801886) | **เผยแพร่เมื่อ:** Aug 1, 2026
+
+---
+### Vlog ออฟฟิศ: เปลี่ยนลุคแฟชั่นสุดปัง
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่ง (Prompt) ความยาว 30 วินาทีสำหรับวิดีโอแฟชั่นวล็อกที่เน้นการเปลี่ยนชุดหลายชุดในฉากออฟฟิศแบบคงที่
+
+#### 📝 พรอมต์
+
+```
+สร้างวิดีโอแฟชั่นแนวตั้งสมจริงความยาว 30 วินาทีในอัตราส่วน 16:9 แนวนอน หญิงสาวทันสมัยผมยาวดัดลอนสีน้ำตาล ผิวสีน้ำผึ้ง สวมแว่นตากรอบกลมสีดำ ต่างหูขนาดเล็ก แต่งหน้าลุคธรรมชาติ และมีใบหน้าคงที่ตลอดทั้งวิดีโอ โดยยืนอยู่ในห้องน้ำหรือห้องแต่งตัวของออฟฟิศที่ทันสมัยตลอดทั้งคลิป ฉากหลังเป็นกระเบื้องหินสีเทาเข้ม เพดานสีอ่อน มีราวติดผนังสีดำทางด้านซ้าย และเส้นกั้นโลหะแคบๆ ทางด้านขวา รักษาเส้นสายทางสถาปัตยกรรมให้คงที่ในทุกรอยตัดต่อ
+
+กล้องวางบนขาตั้งในระดับสายตา ถ่ายภาพขนาด Medium Full Shot ตั้งแต่ช่วงต้นขาขึ้นไป โดยใช้เลนส์สมาร์ทโฟนเทียบเท่า 35 มม. ตัวแบบต้องอยู่ตรงกลางโดยมีพื้นที่ว่างทั้งสองด้านสำหรับองค์ประกอบภาพแนวนอน ห้ามมีการสั่นของกล้อง การซูม การจัดเฟรมใหม่ หรือการเปลี่ยนมุมมอง ใช้รายละเอียดที่คมชัดสมจริง พื้นผิวผิวหนังที่ดูเป็นธรรมชาติ เส้นผมที่ละเอียด รอยพับของผ้าที่สมจริง มือที่ถูกต้อง การหายใจที่แผ่วเบา และการปรับท่าทางเล็กน้อย แสงเป็นแสงไฟออฟฟิศโทนเย็นที่นุ่มนวลพร้อมแสงเติมบนใบหน้า มีการสะท้อนบนกระเบื้องสีเทาเล็กน้อย ค่าแสงคงที่ และทิศทางเงาที่สมจริง
+
+เริ่มต้นด้วยฝ่ามือของเธอที่อยู่ใกล้เลนส์มากจนบดบังเฟรมส่วนใหญ่ จากนั้นเธอค่อยๆ ดึงมือออกเพื่อเผยให้เห็นชุดแรก ซึ่งเป็นชุดเดรสทำงานลายดอกไม้สีฟ้าอ่อนแขนกุดพร้อมผ้าพันคอพาดไหล่ เธอจ้องมองกล้องด้วยท่าทีสงบ ลดแขนลง วางมือข้างหนึ่งบนสะโพก เหลือบมองขึ้นด้านบนด้วยสีหน้าเรียบเฉยเล็กน้อย แล้วกอดอก รักษาท่ากอดอกนี้ไว้ให้ตรงกันสำหรับการตัดต่อแบบ Jump Cut ครั้งแรก
+
+ตลอด 24 วินาทีถัดไป ให้เปลี่ยนชุดทำงานที่แตกต่างกัน 9 ชุดผ่านการตัดต่อที่เน้นท่าทางที่สอดคล้องกันตามจังหวะดนตรี โดยใช้เสื้อกิโมโนลายดอกไม้สีเหลืองเลมอน, เสื้อเชิ้ตสีงาช้างทรงหลวมกับกางเกงสีกรมท่า, เสื้อแขนกุดสีดำเข้ารูปกับกางเกงขายาวสีเข้มและเข็มขัดสีน้ำตาล, เสื้อสีชมพูอ่อนกับกางเกงสีดำ, เสื้อคอกลมสีเขียวเข้ม, ชุดเดรสทรงตรงลายเพสลีย์สีน้ำเงินสด, เสื้อเบลาส์แขนกุดลายจุดขาวดำ, เสื้อเบลเซอร์สีคาเมลทับเสื้อตัวในสีครีม และชุดเดรสแบบพันตัวสีเบอร์กันดีที่ดูสง่างามเป็นชุดสุดท้าย ระหว่างการเปลี่ยนชุด ให้เธอแสดงท่าทางที่เป็นธรรมชาติและมั่นใจ เช่น การยักไหล่เล็กน้อย, การชูนิ้วโป้งสองข้าง, การวางมือบนสะโพก, การกอดอก, การหันคาง, การจัดแขนเสื้อ, การสะบัดผมเบาๆ, การชี้ที่แก้ม และการยิ้มให้กล้องโดยตรง ท่าทางแต่ละอย่างควรเริ่มจากชุดหนึ่งและจบลงในอีกชุดหนึ่งเพื่อให้การตัดต่อดูสมจริงและตั้งใจ ไม่ใช่การเปลี่ยนรูปร่างแบบ Morphing
+
+คงแต่ละลุคไว้นานพอที่จะมองเห็นได้ชัดเจน ประมาณ 2 วินาทีต่อชุด โดยให้รอยตัดตรงกับจังหวะเพลงที่หนักแน่น รักษาตำแหน่งร่างกาย ทิศทางผม ตำแหน่งแว่นตา กายวิภาคของแขนขา รูปทรงฉากหลัง และแสงให้เหมือนเดิมทุกประการในทุกช่วงการเปลี่ยน หลีกเลี่ยงนิ้วมือที่บิดเบี้ยว ใบหน้าที่เปลี่ยนไป เสื้อผ้าที่ลอยตัว ผ้าที่ละลาย อุปกรณ์เสริมที่ซ้ำซ้อน การเคลื่อนไหวของกล้องที่กะทันหัน หรือการปรับแต่งความสวยงามที่ดูไม่เป็นธรรมชาติ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083348840250519552/img/BRKIQw2Awk4X65MV.jpg" width="600" alt="Vlog ออฟฟิศ: เปลี่ยนลุคแฟชั่นสุดปัง">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=8272)**
+
+**ผู้เขียน:** [BMX](https://x.com/bmx_ai13) | **แหล่งที่มา:** [Link](https://x.com/bmx_ai13/status/2083372393649832355) | **เผยแพร่เมื่อ:** Aug 1, 2026
+
+---
+### พรอมต์สำหรับทำ Cinematic Travel Vlog ที่ลิสบอน
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> พรอมต์แบบหลายฉากที่ครอบคลุมสำหรับการสร้าง Cinematic Travel Vlog ในลิสบอน โดยเน้นความต่อเนื่องของตัวละคร การเปลี่ยนฉากที่เฉพาะเจาะจง และการจัดแสง
+
+#### 📝 พรอมต์
+
+```
+[เงื่อนไขพื้นฐาน]
+@image1 คือแผ่นภาพตัวละคร (Character Sheet) ที่แสดงตัวละครหญิงคนเดียวกันในชุดท่องเที่ยว 3 สไตล์ ความยาว 15 วินาที อัตราส่วน 1:1 แบบจัตุรัส คุณภาพสูงเสมือนจริง เป็น Vlog ท่องเที่ยวหรือคลิป Reels ที่ดูสดใสและน่าดึงดูดเหมือนถ่ายด้วยสมาร์ทโฟน เชื่อมโยงเหตุการณ์ท่องเที่ยว 5 ช่วงตั้งแต่เช้าจรดค่ำด้วยการตัดฉากแบบ Hard cut ที่ชัดเจน ไม่ต้องแสดงขั้นตอนการเดินทาง แต่ละฉากให้เริ่มที่จุดหมายปลายทางทันที PERSON = ตัวละครหญิงคนเดียวกันที่ต้องมีความสม่ำเสมอในทุกภาพตัวละคร รักษาลักษณะใบหน้า ทรงผม/สีผม อายุ รูปร่าง และสัดส่วนให้คงที่ตลอดทั้งคลิป
+
+ใช้เฉพาะภาพตัวละครเต็มตัว 3 ภาพที่อยู่ด้านบนซ้ายเพื่ออ้างอิงชุด OUTFIT_A = ภาพบนสุดซ้าย, OUTFIT_B = ภาพที่ 2 จากบนซ้าย, OUTFIT_C = ภาพที่ 3 จากบนซ้าย ห้ามนำเสื้อผ้า รองเท้า หรือกระเป๋าจากชุด A, B และ C มาผสมกัน อุปกรณ์ประกอบฉากจะเปลี่ยนไปตามแต่ละฉาก โดยแก้วกาแฟตอนเช้าจะจำกัดอยู่แค่ในฉากแรกเท่านั้น
+
+[องค์ประกอบภาพ]
+0.0-2.5 วินาที | เช้าตรู่, จุดชมวิว Santa Luzia
+PERSON ในชุด OUTFIT_A ถ่ายเซลฟี่สั้นๆ ขณะถือแก้วกาแฟเซรามิกสีขาวเรียบๆ หลังจากมองไปที่หลังคาสีแดงและแม่น้ำ Tagus ยิ้มอย่างเป็นธรรมชาติท่ามกลางสายลมยามเช้าแล้วตัดฉากทันที ไม่ต้องแสดงแก้วของเพื่อนร่วมทาง
+2.5-5.5 วินาที | ช่วงเช้า, รถรางสีเหลือง
+PERSON ในชุด OUTFIT_A ถ่ายมุมกว้างของรถรางสีเหลือง หญิงสาวก้าวขึ้นรถอย่างคล่องแคล่วขณะเสียงกระดิ่งดังและพนักงานขับรถยิ้มให้ ตัดฉากทันทีเมื่อเธอหันกลับมามองกล้อง
+5.5-8.5 วินาที | ช่วงเที่ยง, คาเฟ่กลางแจ้ง
+PERSON ในชุด OUTFIT_B ถ่ายแบบถือกล้องเอง (Handheld) ระยะใกล้บนโต๊ะสีขาวที่มีกาแฟและขนม Pastel de nata หญิงสาวหยิบขนมขึ้นมาทานอย่างเรียบร้อยและยิ้มให้เพื่อนร่วมทาง รักษาฉากคาเฟ่ให้เห็นทั้งอาหาร มือ และชุดไปพร้อมกัน
+8.5-11.5 วินาที | ช่วง Golden Hour, จัตุรัสริมแม่น้ำ
+PERSON ในชุด OUTFIT_B (ไม่มีกระเป๋า) นักดนตรีเล่นดนตรีริมแม่น้ำ Tagus ถ่ายแบบ Handheld ขณะที่ PERSON ถูกหญิงท้องถิ่นชวนเต้น หมุนตัวเร็วๆ ให้เห็นชุดและผมที่พลิ้วไหว ท่ามกลางรอยยิ้มของผู้คนรอบข้าง
+11.5-15.0 วินาที | ช่วงกลางคืน, ระเบียงในตรอกย่าน Alfama
+PERSON ในชุด OUTFIT_C ท้องฟ้ายามค่ำคืนสีน้ำเงินเข้มตัดกับแสงไฟโทนอุ่นในตรอกหิน เห็นนักดนตรีและแขกที่กำลังปรบมือ หญิงสาวยิ้มให้กล้อง ยื่นมือออกไป แล้วถอยหลังกลับไปยังระเบียงขณะที่กล้องตามไปเล็กน้อย จบฉากด้วยภาพเธอในบรรยากาศระเบียงที่อบอุ่นโดยไม่มีการค้างของภาพ
+
+[การถ่ายทำ, สี, เสียง]
+ถ่ายเซลฟี่เฉพาะฉากแรกเท่านั้น ฉากอื่นให้เพื่อนร่วมทางเป็นคนถ่ายด้วยสมาร์ทโฟน ใช้มุมกว้างที่เป็นธรรมชาติ มีการสั่นไหวเล็กน้อยแบบ Handheld ติดตามตัวละครได้อย่างชัดเจนโดยไม่มีการบิดเบี้ยวหรือเปลี่ยนรูปร่าง สีสันสดใสคุณภาพสูง: สีขาวสะอาดตา สีฟ้าสดใส สีเหลืองเลมอน และสีปะการัง แยกเฉดสีชัดเจนพร้อมโทนสีผิวที่เป็นธรรมชาติและคอนทราสต์สูง ใช้เพลงประกอบแนวท่องเที่ยวที่สนุกสนานตลอดคลิป โดยลดระดับเสียงลงในช่วงกลางคืนเพื่อเน้นเสียงดนตรีท้องถิ่นและเสียงบรรยากาศ (เสียงกระดิ่ง, เสียงในคาเฟ่) ห้ามมีคำบรรยาย โลโก้ หรือความไม่สอดคล้องกันของตัวละครและชุด
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083371252237115392/img/eTNOY8vfvpgP0hZz.jpg" width="600" alt="พรอมต์สำหรับทำ Cinematic Travel Vlog ที่ลิสบอน">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=8220)**
+
+**ผู้เขียน:** [AIライフハック](https://x.com/ai_lifehack55) | **แหล่งที่มา:** [Link](https://x.com/ai_lifehack55/status/2083371382822588539) | **เผยแพร่เมื่อ:** Aug 1, 2026
+
+---
 ---
 
 ## 📚 มีพรอมต์เพิ่มเติม
@@ -3667,6 +3743,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 ส่งพรอมต์](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-08-03T07:47:55.098Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-08-04T02:50:31.395Z</sub>
 
 </div>
