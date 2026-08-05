@@ -68,9 +68,9 @@ Tại sao nên sử dụng thư viện của chúng tôi?
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **5638** |
+| 📝 Tổng số prompt | **5674** |
 | ⭐ Prompt nổi bật | **6** |
-| 🔄 Cập nhật lần cuối | **2026-08-04** |
+| 🔄 Cập nhật lần cuối | **2026-08-05** |
 
 ---
 
@@ -361,23 +361,1216 @@ Siêu thực tế, năng lượng lấy cảm hứng từ Fast and Furious, ánh
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
-### Cinematic Beach to Space Seamless Loop
+### Hand-Painted Fantasy Animated Feature
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A complex 30-second single-shot video prompt that transitions seamlessly from a beach at sunset to underwater, New York City, and outer space, creating a perfect loop back to the start.
+> A storyboard-style prompt for creating a Japanese-inspired hand-painted fantasy animation with consistent characters and emotional storytelling.
 
 #### 📝 Prompt
 
 ```
-A breathtaking, high-quality, ultra-photorealistic  cinematic 30-second single-shot video with smooth, continuous camera work and no cuts. The young Japanese woman from Image 1, with her signature long dark hair, wispy bangs, serene face, and warm smile, wearing an elegant white summer dress with a blue floral pattern, is the main character throughout.  [0-5s] Japan Beach Golden Hour: The young woman is walking gracefully along the sandy shore of Shonan Beach during a glorious golden hour sunset. Warm, soft rim light glows on her hair and shoulders. She looks back over her right shoulder directly toward the camera, smiling warmly. The camera slowly orbits 360 degrees around her clockwise.  [5-10s] Hawaii Beach Walk: As the 360-degree rotation completes, the scenery seamlessly transitions into a tropical Hawaiian beach with turquoise waters. Her facial identity, hairstyle, and smile remain perfectly consistent. She continues walking into the gentle waves of the ocean. The camera follows her, submerging smoothly under the clear water with natural motion blur.  [10-15s] Majestic Undersea: Beautiful sun rays pierce through the water surface. The young woman glides gracefully and peacefully through the crystal-clear deep ocean water. Her hair and dress flow naturally with the gentle currents. Colorful tropical fish swim around her. A small vibrant fish swims upwards, and the camera follows it, rising rapidly to the surface.  [15-20s] New York City: Breaking through the water surface, the scene seamlessly transforms into a bustling street in Manhattan, New York, during sunset. She continues walking elegantly along the sidewalk, her facial identity and serene expression perfectly consistent. A chic, modern light coat naturally appears over her dress. The camera tracks her smoothly as she walks toward a grand glass-walled skyscraper.  [20-25s] Building Interior to Rooftop: The camera seamlessly enters the building through the glass, moving past a modern office lobby. She walks through the corridor and steps onto a spacious high-rise rooftop helipad. The camera slowly orbits her and begins to ascend vertically, revealing the beautiful city skyline scaling down below under a purple sunset sky.  [25-30s] Space to Shonan (Perfect Loop): The camera passes through the soft clouds into the high atmosphere and outer space, showing a beautiful panoramic view of the Earth. The young woman floats weightlessly and peacefully in space. The camera rotates 180 degrees around her and dives gracefully back down through the clouds. A splash of water clears, returning to the original Shonan Beach. She stands in the exact same position, looking back and smiling warmly at the camera, forming a perfect, seamless loop.
+IMPORTANT CHARACTER CONSISTENCY LOCK:
+
+Use the provided character sheets as the ONLY reference.
+
+Maintain the exact same:
+
+faces
+hairstyles
+eye colors
+outfits
+accessories
+proportions
+animation style
+color palette
+
+Lyra, Kael, and all elves must look identical in every scene.
+
+Do NOT redesign characters between shots.
+
+The entire video must feel like one continuous animated feature film, not separate clips.
+
+STYLE
+
+Create a hand-painted fantasy animated movie inspired by the emotional storytelling of classic Japanese animation.
+
+Visual style:
+
+watercolor backgrounds
+expressive character animation
+soft cinematic lighting
+magical realism
+gentle camera movements
+emotional facial expressions
+smooth transitions between scenes
+**SCENE 1 — "The World Beyond The Trees" (0:00-0:20)
+
+Visual:
+
+Aerial shot over an endless enchanted forest.
+
+Ancient trees reach the sky.
+Glowing flowers bloom.
+Small magical spirits fly through the air.
+The camera slowly moves toward the elf kingdom.
+Lyra walks through the forest.
+
+She touches an ancient tree.
+
+The tree glows.
+
+Lyra (softly):
+ "The forest remembers everything... every soul that has ever walked beneath these trees."
+
+She looks toward distant mountains.
+
+Lyra:
+ "But there is one world we have never understood... the world of humans."
+**SCENE 2 — "The Boy Who Found Magic" (0:20-0:40)
+
+Visual:
+
+A quiet human village surrounded by mountains.
+Kael walks alone carrying his sketchbook.
+
+He draws landscapes.
+
+He discovers a mysterious glowing seed inside ancient ruins.
+
+He touches it.
+
+The magic awakens.
+
+Kael (whispering):
+ "What are you?"
+
+The seed projects a vision of the elf forest.
+
+Kael looks amazed.
+
+Kael:
+ "A world hidden from everyone..."
+**SCENE 3 — "The First Meeting" (0:40-1:00)
+
+Visual:
+
+Kael enters the elf kingdom.
+
+The elves surround him.
+Guardians hold their weapons.
+
+Lyra steps forward.
+
+Silence.
+
+They look at each other.
+
+A glowing leaf falls between them.
+
+Elf Guardian:
+ "A human cannot belong here."
+
+Lyra looks at Kael.
+
+Lyra:
+ "Then why did the forest bring him?"
+
+Kael shows the glowing seed.
+
+Kael:
+ "I didn't choose this place... it chose me."
+
+Lyra reaches toward the seed.
+
+The magic reacts.
+**SCENE 4 — "Two Worlds, One Heart" (1:00-1:25)
+
+Emotional Montage With Dialogue
+
+Lyra teaches Kael about the forest.
+Lyra:
+ "Every tree has a story. Every river has a memory."
+
+Kael smiles.
+
+Kael:
+ "Humans forget too easily... maybe that's why we need stories."
+Scenes:
+
+Walking through glowing forests
+
+Sharing food during an elf festival
+
+Drawing each other
+
+Watching stars beside a magical lake
+
+Flying above clouds
+
+Lyra looks at the human world through Kael's drawings.
+Lyra:
+ "Your world is beautiful."
+
+Kael smiles.
+
+Kael:
+ "Only because I finally have
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084163041219039232/img/9oCYBq8Hf9gWm2dc.jpg" width="600" alt="Cinematic Beach to Space Seamless Loop">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084522805031514112/img/u8PR4Uvk-_RDg8XV.jpg" width="600" alt="Hand-Painted Fantasy Animated Feature">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8432)**
+
+**Tác giả:** [Caden Flux](https://x.com/Caden_Flux) | **Nguồn:** [Link](https://x.com/Caden_Flux/status/2084523346771714331) | **Đã xuất bản:** Aug 4, 2026
+
+---
+### Pixar Style Sleeping Girl Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A heartwarming Pixar-inspired animation prompt depicting a peaceful morning scene with volumetric lighting and natural subtle movements.
+
+#### 📝 Prompt
+
+```
+The little girl sleeps peacefully in bed as warm golden sunrise slowly brightens the room. Soft morning breeze gently moves the curtains. Sunbeams stream through the window with visible floating dust particles. Her hair subtly sways with the breeze while she breathes naturally. The blanket rises and falls slightly with each breath. The orange kitten slowly blinks and flicks its tail. Indoor plants gently move in the breeze. The camera performs an extremely slow cinematic dolly-in toward the sleeping girl, maintaining a calm, dreamlike atmosphere. Natural motion only, no sudden movements. Warm cinematic color grading, Pixar-quality animation, ultra-realistic global illumination, volumetric lighting, shallow depth of field, smooth camera motion, 16:9, 4K, masterpiece.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084512761560928256/img/V8ICNrGpEZnqdZom.jpg" width="600" alt="Pixar Style Sleeping Girl Animation">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8420)**
+
+**Tác giả:** [Sidra](https://x.com/kakarPathan_) | **Nguồn:** [Link](https://x.com/kakarPathan_/status/2084512926740910560) | **Đã xuất bản:** Aug 4, 2026
+
+---
+### Office Morning Routine Vlog
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic 15-second prompt capturing a young professional's morning routine from waking up to arriving at a modern office.
+
+#### 📝 Prompt
+
+```
+A cinematic 15-second ultra-realistic office morning routine following a young professional woman from the moment her alarm rings to her arrival at work. She wakes to soft sunrise light, refreshes herself in a modern bathroom, carefully chooses a smart office outfit, adds the finishing touches in front of the mirror, grabs her essentials, and confidently heads to a contemporary office building. Smooth cinematic tracking shots, elegant close-ups, realistic facial expressions, natural body movement, premium wardrobe details, warm golden morning lighting, physically accurate reflections, subtle film grain, ARRI Alexa 35 aesthetic, HDR, seamless character consistency, premium lifestyle commercial quality, no text, no logos.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084504568180973568/img/zz4vocffNhH3pgEP.jpg" width="600" alt="Office Morning Routine Vlog">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8435)**
+
+**Tác giả:** [Ali](https://x.com/aiwithaly) | **Nguồn:** [Link](https://x.com/aiwithaly/status/2084505251336663287) | **Đã xuất bản:** Aug 4, 2026
+
+---
+### Gourmet Burger UGC Vlog Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A comprehensive UGC vlog prompt for a gourmet burger review, featuring handheld iPhone aesthetic, shot-by-shot dialogue, and character consistency.
+
+#### 📝 Prompt
+
+```
+Duration: 15 seconds
+Aspect Ratio: 16:9
+Style: Authentic UGC / iPhone selfie-vlog, handheld, natural light, TikTok/Reels aesthetic.
+
+Product Reference:
+Use the uploaded gourmet burger image as the only product reference. Preserve the bun shape, patty thickness, cheese melt, lettuce, tomato, sauces, and proportions exactly in every shot.
+
+Character Description
+Name: Hana
+A young Japanese woman (Image 1) in her early 20s with natural beauty, long dark hair in a loose ponytail, oversized cream sweatshirt, minimal makeup, bright smile, friendly lifestyle-vlogger personality.
+
+Shot Breakdown
+
+SHOT 1 (0–2s) — Selfie showing the burger box.
+Dialogue: "Burger night!"
+
+SHOT 2 (2–4s) — Opens the box.
+
+SHOT 3 (4–6s) — Quick zoom on the burger.
+
+SHOT 4 (6–8s) — Hands lifting the burger with cheese stretching naturally.
+
+SHOT 5 (8–10s) — Bite reaction.
+Dialogue: "Okay... that's incredible."
+
+SHOT 6 (10–12s) — Casual close-up b-roll while reaching for fries.
+
+SHOT 7 (12–14s) — Toasting the burger toward the camera.
+Dialogue: "You need this."
+
+SHOT 8 (14–15s) — Freeze frame with overlay: "burger cravings = solved 🍔"
+
+Look & Feel
+Warm apartment lighting, genuine phone footage, slight grain, natural autofocus breathing, handheld imperfections, fast jump cuts.
+
+Negative Prompt
+cinematic grading, commercial production, CGI burger, fake cheese, distorted hands, warped food, perfect stabilization, studio lighting, text glitches, logo distortion.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084505170571132928/img/qnssIGsj9aqLpfys.jpg" width="600" alt="Gourmet Burger UGC Vlog Video">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8452)**
+
+**Tác giả:** [Feyber | AI Creator](https://x.com/woleswoosh) | **Nguồn:** [Link](https://x.com/woleswoosh/status/2084505236602015796) | **Đã xuất bản:** Aug 4, 2026
+
+---
+### Japanese Countryside Slice of Life
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A poetic cinematic prompt for a 60-second journey through rural Japan, capturing quiet everyday moments in warm golden-hour light.
+
+#### 📝 Prompt
+
+```
+A cinematic 60-second slice-of-life journey following a young Japanese woman through the peaceful rhythm of countryside life. She steps out of her traditional home into the warm morning light, wanders beside lush rice fields, pauses on a quiet bridge to watch koi fish, and picks a bouquet of seasonal wildflowers. Her day continues with sketching beneath a cherry tree, waiting at a nostalgic railway crossing, greeting a friendly neighbor, resting on a hill overlooking the valley, walking barefoot along a sparkling riverside, and ending with a breathtaking sunset above the tranquil town. Smooth cinematic camera movements, authentic rural Japanese landscapes, natural ambient sounds, emotional storytelling, warm golden-hour lighting, photorealistic textures, subtle film grain, immersive travel diary aesthetic, 4K HDR, seamless character consistency, no text, no logos.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084494236591009793/img/TiNTespIC7C1KuU2.jpg" width="600" alt="Japanese Countryside Slice of Life">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8442)**
+
+**Tác giả:** [Nawal](https://x.com/nawalsehar) | **Nguồn:** [Link](https://x.com/nawalsehar/status/2084503336078938154) | **Đã xuất bản:** Aug 4, 2026
+
+---
+### Cinematic Desert Survival Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed, multi-scene prompt for a cinematic desert survival sequence involving vehicle dynamics, creature interaction, and aerial descent.
+
+#### 📝 Prompt
+
+```
+Create a 15 second cinematic desert survival sequence in 16:9 with grounded live action realism, natural body mechanics, accurate dust, convincing vehicle suspension, subtle film grain, restrained color grading, and seamless shot continuity. The setting is a sun bleached basin surrounded by dry brown mountains beneath a clear cyan sky. Sparse shrubs, cracked asphalt, faded yellow road lines, heat shimmer, and windblown grit make the landscape feel harsh and real. 0 to 3 seconds: Begin with a low centered wide shot from the middle of an empty highway using a 40 millimeter lens. A weathered blue camper van approaches from far distance, growing steadily larger without unnatural acceleration. Keep the camera nearly locked with faint wind vibration. Hard afternoon sunlight creates crisp shadows and warm windshield reflections. Cut inside the van for a brief front mounted shot. A tired middle aged woman drives while a bearded man watches the road, with two younger passengers and a scruffy cream dog visible among blankets, hanging utensils, maps, and handmade decorations. Use gentle road vibration, imperfect focus breathing, sunlight leaking through dusty glass, and believable nervous glances. 3 to 8 seconds: Cut to an extremely low roadside angle beside dormant alien creatures scattered across the asphalt. They resemble enormous desert arthropods built from cracked shell, leathery tissue, tangled rootlike fibers, dried mud, and embedded stones. The van passes behind them with realistic wheel motion and a pressure wave that stirs dust and loose fibers. Hold after the van exits. A small claw twitches in the foreground, then one massive creature slowly lifts its armored head. Its weight compresses its jointed legs, gravel shifts beneath it, dust falls from its body, and its wet mouth opens with restrained animal behavior. Make a subtle fearful camera push as the creature rises into a dominant low angle silhouette. 8 to 12 seconds: Hard cut to a distant elevated view across a grassy desert plain. A rugged male traveler descends beneath a huge black organic parachute shaped like four heavy flower petals. The canopy is stretched translucent membrane with irregular holes, scarred veins, and long elastic tendrils connected to his harness. Wind deforms it asymmetrically. His arms fight for balance, one foot is bare, the other wears a worn boot, and his clothing flaps with accurate drag. Use a long lens that compresses the mountains and makes the descent feel strangely graceful. 12 to 15 seconds: Shift into a fast lateral tracking shot near ground level as the traveler skims above shrubs, briefly disappearing behind a bush before reappearing. His legs bicycle in panic, his body swings naturally under tension, and his shadow races over uneven ground. He touches down awkwardly, stumbles two steps, then braces as the enormous black canopy collapses behind and around him
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084319995409158144/img/ibXihVKVD5bSQCNC.jpg" width="600" alt="Cinematic Desert Survival Sequence">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8421)**
+
+**Tác giả:** [BMX](https://x.com/bmx_ai13) | **Nguồn:** [Link](https://x.com/bmx_ai13/status/2084489756121891024) | **Đã xuất bản:** Aug 4, 2026
+
+---
+### Ultra-Luxury Skincare Commercial Script
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A photorealistic skincare commercial script featuring high-end visual metaphors like falling droplets and slow-motion water simulations.
+
+#### 📝 Prompt
+
+```
+Create a 15-second ultra-luxury skincare commercial in photorealistic cinematic style. Open with a crystal-clear water droplet falling in slow motion into pure blue water, creating elegant ripples. A premium glass skincare cream jar rises gracefully from the water, surrounded by floating white flowers and sparkling droplets. Transition to a beautiful young woman with naturally glowing skin gently applying the cream to her face with a soft smile. Show luminous, hydrated skin with realistic texture and golden natural sunlight. End with a single water droplet suspended against a clean pastel-blue background to symbolize purity. Minimal luxury aesthetic, soft reflections, macro beauty shots, slow-motion water simulation, volumetric lighting, shallow depth of field, 8K HDR, smooth camera movements, premium beauty advertisement, no watermark, no logos, no text.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084482970732384256/img/Zf28UpI6tFa95wCv.jpg" width="600" alt="Ultra-Luxury Skincare Commercial Script">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8439)**
+
+**Tác giả:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Nguồn:** [Link](https://x.com/ayzalnooor24521/status/2084483345350889723) | **Đã xuất bản:** Aug 4, 2026
+
+---
+### Luxury Yellow Lipstick Video Ad
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A luxury cinematic commercial prompt for a yellow lipstick product, featuring golden studio lighting and high-end beauty advertisement visuals.
+
+#### 📝 Prompt
+
+```
+A continuous, luxury cinematic commercial for a high-end luxury yellow lipstick set in an opulent golden-toned studio. The scene opens with an elegant woman with a chic low bun wearing a backless silk yellow slip dress standing in warm volumetric sunlight next to a mirrored gold table with a bouquet of glitter-dusted yellow tulips. The camera smoothly transitions between sweeping shot of her applying the yellow lipstick in front of an ornate gold mirror, and extreme macro close-ups showcasing the crystal-clear acrylic lipstick container decorated with intricate gold floral engravings. Floating sparkling gold dust particles, magical glitter, and glowing ribbons of fluid liquid gold swirl smoothly around the product. The scene ends with a heroic hero shot of the yellow lipstick standing on a reflective gold mirror table surrounded by sparkling tulips. Photorealistic, 8K resolution, high-end beauty advertisement aesthetic, soft cinematic lighting, warm golden color palette, 35mm lens look, hyper-detailed, seamless 60fps motion.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084479364792827905/img/7rXP_neDGIfk5RCh.jpg" width="600" alt="Luxury Yellow Lipstick Video Ad">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8426)**
+
+**Tác giả:** [Noor](https://x.com/noorlewisx) | **Nguồn:** [Link](https://x.com/noorlewisx/status/2084479425710641551) | **Đã xuất bản:** Aug 4, 2026
+
+---
+### Los Angeles Rooftop Smartphone Vlog
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A realistic smartphone video prompt for a rooftop hangout in LA, featuring rapid jump cuts and a handheld camera feel for a casual vlog aesthetic.
+
+#### 📝 Prompt
+
+```
+Super casual real smartphone home video footage, rooftop hangout in Los Angeles with palm trees and city skyline visible at sunset, natural mobile phone camera with slight authentic handheld shake, normal frame rate with smooth natural motion, rapidfire montage with constant quick jump cuts every 1-2 seconds like scrolling through phone memories, unpolished authentic phone recording of friends chatting, snacking and enjoying the view, pure raw home video feel, no cinematic polish or heavy effects.
+Use the provided reference photo as the strict ONLY visual reference for the main woman. Maintain her exact appearance with zero deviation. Generate a mixed group of friends around her on the rooftop, LA skyline and palm trees visible in the sunset light.
+0-2.5s: Shaky rapid cuts main woman laughing near the rooftop railing, sunset and palm trees behind her.
+2.5-5s: Abrupt jump cuts close-up of her smiling with a drink, then friends passing snacks around.
+5-7.5s: Fast shaky she chats animatedly, city skyline glowing in the background, friends laughing nearby.
+7.5-10s: Quick cut close-up warm smile toward camera, then jump to her laughing with friends near the view.
+10-12.5s: Abrupt edit group gathered around a small table, casual toast with cups, string lights starting to glow.
+12.5-15s: Final rapid transition main woman relaxed among friends, soft smile, calm LA sunset memory ending with gentle phone sway.
+Natural smartphone video quality, slight real handheld shake, smooth normal frame rate motion with no low fps or choppy artifacts, authentic casual interactions and physics, stable main character consistency, no pro stabilization or effects.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084471213997645824/img/VA9GBFvGPwyWkiMS.jpg" width="600" alt="Los Angeles Rooftop Smartphone Vlog">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8430)**
+
+**Tác giả:** [𝐌](https://x.com/Strength04_X) | **Nguồn:** [Link](https://x.com/Strength04_X/status/2084471433686929712) | **Đã xuất bản:** Aug 4, 2026
+
+---
+### Wuxia Sword Lighting Photography Scene
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A creative cinematic prompt for Seedance 2.0 that subverts a dangerous sword ritual into a high-fashion photography session using floating magic swords as lights.
+
+#### 📝 Prompt
+
+```
+[Overall Style] Cinematic realistic suspense-turned-fashion comedy, featuring controlled blue-hour lighting, precise visual misdirection, elegant xianxia movements, restrained deadpan performance, and a clear status reversal: the audience initially thinks a dangerous flying sword ritual is happening, only to reveal it's an overly serious portrait shoot. Designed for Seedance 2.0's multi-modal reference, character control, lighting control, camera movement, and synchronized audio-visual capabilities.
+
+[Characters] Role ID A: Sword immortal woman from Image 1. Role ID B: Bicycle woman from Image 2.
+
+[Shot 1 | 0-5s] Modern rooftop at twilight. The sword immortal draws her blade behind the other woman, creating a fake sense of execution.
+
+[Shot 2 | 5-10s] The swords split into seven floating blades that provide professional lighting (rim light, fill light, hair light) for the bicycle woman posing.
+
+[Shot 3 | 10-15s] Reveal the phone recording the shoot. The model asks for warmer lighting while the immortal complains about her vanity.
+
+[Technical Requirements] 15 seconds, 16:9, character and clothing consistency, realistic physics, synchronized sound effects and dialogue.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084450871304146944/img/sTCjV1M1ekBZn6Iu.jpg" width="600" alt="Wuxia Sword Lighting Photography Scene">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8455)**
+
+**Tác giả:** [Soran](https://x.com/Soranlan) | **Nguồn:** [Link](https://x.com/Soranlan/status/2084451902855467131) | **Đã xuất bản:** Aug 4, 2026
+
+---
+### Stylized Rabbit and Cat Race
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A dynamic 2D digital gouache style animation of a rabbit and cat racing with fast-paced cinematic motion.
+
+#### 📝 Prompt
+
+```
+A rabbit and a cat race to see who's faster. It starts off with the cat being faster but somehow the rabbit imagine a carrot at the crossing finish line in his head, then the rabbit turns into sport mode, eyes sharper, and legs are stronger, then switch from running originally into hopping with insane sonic speed and win the race. 12 different camera angles with use of variants camera motion path and foreground participation, fast-pace motion, dynamic, high-end video pacing, cinematic, following this 2D visual style: Hand-painted digital gouache with visible dry-brush grain and unclosed edges, zero outlines — form defined entirely by flat blocked color; chunky geometric shape design, backgrounds reduced to silhouetted notan planes with silhouetted foreground framing, action beats dropping the environment for a single saturated color field. 16:9 landscape ratio Midjourney style moodboard: --stylize 200 --profile pzhixbw
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084330373367152640/img/p5hc5-mSQfHcNOF2.jpg" width="600" alt="Stylized Rabbit and Cat Race">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8446)**
+
+**Tác giả:** [Aiden Vu](https://x.com/byaiden_vu) | **Nguồn:** [Link](https://x.com/byaiden_vu/status/2084444206748291397) | **Đã xuất bản:** Aug 4, 2026
+
+---
+### Futuristic O'Neill Cylinder Habitat Interceptor Pursuit
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An IMAX-style sci-fi action prompt for a 15-second high-speed interceptor chase through a massive rotating space colony.
+
+#### 📝 Prompt
+
+```
+Hyper-realistic cinematic action sequence, 15 seconds, 16:9.  A futuristic interceptor races inside a gigantic rotating O'Neill cylinder habitat over 30 kilometers long. The pursuit begins above sprawling cities built along the inner surface, then accelerates through forests curving overhead, crosses rivers flowing upside down across the rotating landscape, skims beneath massive suspension bridges connecting districts, dives through industrial sectors filled with colossal rotating machinery, and finally enters the zero-gravity central axis where loose cargo, maintenance drones, and giant construction arms drift silently. The camera constantly alternates between cockpit POV, nose-mounted shots, FPV chase cameras, sweeping drone flybys, and breathtaking IMAX-wide reveals emphasizing the impossible scale of the habitat. Final shot: the interceptor bursts through the cylinder's open docking portal into the stars as the entire rotating world fills the frame behind.  Style: IMAX realism, physically believable rotating habitat, crystal-clear action, elegant camera choreography, immense scale, relentless speed, no slow motion.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084423059037995008/img/Tw77iFYNUdefXjou.jpg" width="600" alt="Futuristic O'Neill Cylinder Habitat Interceptor Pursuit">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8438)**
+
+**Tác giả:** [Alexandra Aisling](https://x.com/AllaAisling) | **Nguồn:** [Link](https://x.com/AllaAisling/status/2084423101027086406) | **Đã xuất bản:** Aug 3, 2026
+
+---
+### Friendsgiving Smartphone Home Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt designed for casual smartphone-style home video footage of a Friendsgiving gathering in a New York apartment, featuring rapid jump cuts and realistic handheld motion.
+
+#### 📝 Prompt
+
+```
+Super casual real smartphone home video footage, cozy New York apartment "Friendsgiving" gathering with city view through the window, natural mobile phone camera with slight authentic handheld shake, normal frame rate with smooth natural motion, rapidfire montage with constant quick jump cuts every 1-2 seconds like scrolling through phone memories, unpolished authentic phone recording of friends cooking, eating and chatting together, pure raw home video feel, no cinematic polish or heavy effects.
+Use the provided reference photo as the strict ONLY visual reference for the main woman. Maintain her exact appearance with zero deviation. Generate a mixed group of friends around her in a cozy apartment, food spread and NYC window view visible.
+0-2.5s: Shaky rapid cuts main woman laughing in the kitchen, city lights through the window, quick flashes of friends cooking.
+2.5-5s: Abrupt jump cuts close-up of her smiling while tasting food, then friends setting the table together.
+5-7.5s: Fast shaky she chats animatedly, friends gathered around a small dining table, cozy apartment lighting.
+7.5-10s: Quick cut close-up warm smile toward camera, then jump to her laughing with a friend over wine glasses.
+10-12.5s: Abrupt edit group raising glasses in a toast, mixed reactions of laughter and joy.
+12.5-15s: Final rapid transition main woman relaxed at the table with friends, soft smile, calm Friendsgiving memory ending with slight natural phone sway.
+Natural smartphone video quality, slight real handheld shake, smooth normal frame rate motion with no low fps or choppy artifacts, authentic casual interactions and physics, stable main character consistency, no pro stabilization or effects.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084316926449528832/img/ZV10eo89dq8w_gyl.jpg" width="600" alt="Friendsgiving Smartphone Home Video">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8423)**
+
+**Tác giả:** [𝐌](https://x.com/Strength04_X) | **Nguồn:** [Link](https://x.com/Strength04_X/status/2084317064978997405) | **Đã xuất bản:** Aug 3, 2026
+
+---
+### Realistic Korean Man Park Vlog
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed video generation prompt designed to create a realistic UGC vlog featuring a young Korean man in a public park, including storyboard instructions and specific camera effects like handheld shaking.
+
+#### 📝 Prompt
+
+```
+CAMERA:
+DV 16mm tape camcorder handheld footage feel. Point of view of JAY holding the camera directly in hand. Maintain hand shake, misaligned framing, delayed focus pull, clumsy zoom in/out, occasional self-cam framing where the face gets cut off, and imperfect shots that lose the subject. Every shot is JAY holding the camcorder himself, filming in selfie-cam or first-person style. The camcorder itself never appears on screen.
+
+LOOK:
+DV 16mm tape camcorder footage look. Soft, slightly blurry digital tape quality, faint tape noise, highlights that bloom subtly in bright daylight, gentle auto-exposure shifts as the camera moves between sunlight and shade, muted color contrast, realistic skin tones.
+
+STYLE:
+Relaxed daytime vlog with a calm, genuine, low-energy-but-happy vibe. Slightly tired after a long walk or outdoor workout, but satisfied and enjoying the fresh air. Handheld throughout, natural pauses between lines, occasional quiet breathing, authentic unposed expressions, documentary realism.
+
+Character
+
+JAY — a handsome Korean man in his 20s. Thick black hair slightly tousled from being outdoors, sharp yet warm Korean facial features, healthy glowing skin with a light sheen of sweat, expressive eyes, athletic slim build. Wearing a modest long-sleeve athletic top or lightweight hoodie, loose-fit joggers or athletic pants, comfortable sneakers. Fully covered arms and torso. No jewelry.
+
+Setting
+
+A peaceful public park during the daytime under natural sunlight. Wide green lawns, mature trees casting soft shadows, paved walking paths, park benches, trimmed bushes, birds occasionally flying overhead, gentle breeze moving the leaves, distant people walking or jogging naturally in the background without drawing attention, bright blue sky with soft clouds. Everything feels calm, open, and naturally lit.
+
+Storyboard
+
+(~2s, camera propped against a park bench, medium shot)
+He walks into frame breathing slightly heavier from a walk or light workout, wipes his forehead with the back of his hand, gives a small relaxed smile.
+
+JAY:
+""Okay... just finished my walk, such a nice day.""
+
+(~2s, handheld, slow pan across the park)
+Camera slowly drifts across the green trees, walking paths, and open lawn before returning to him.
+
+JAY (off-screen, softly):
+""It's so peaceful here today.""
+
+(~2s, medium handheld, beside a park bench)
+He grabs his water bottle from the bench, takes a long drink, then exhales comfortably afterward.
+
+JAY:
+""Needed that so bad.""
+
+(~1.5s, macro insert, shallow DOF)
+Close-up on his hand wiping condensation from the water bottle, sunlight reflecting off tiny water droplets. No dialogue—only soft breathing and subtle ambient park sounds.
+
+(~2s, medium handheld, open grassy area)
+He props the camera against the bench, steps back into frame, casually stretches, then playfully does a few quick dance moves or light footwork before laughing
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084296945255026688/img/R3jZY70ABhCLUehh.jpg" width="600" alt="Realistic Korean Man Park Vlog">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8441)**
+
+**Tác giả:** [Nabab Uddin](https://x.com/NababUddin2) | **Nguồn:** [Link](https://x.com/NababUddin2/status/2084297131993817542) | **Đã xuất bản:** Aug 3, 2026
+
+---
+### Nostalgic Camcorder Jeju Island Beach Walk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed video prompt recreating the look of an early-2000s Sony MiniDV camcorder for a sentimental morning walk on a Jeju Island beach.
+
+#### 📝 Prompt
+
+```
+Main Subject: Young Korean woman, 23, natural everyday appearance, long black hair worn loose and slightly messy from the sea breeze, realistic skin texture with lightly sun-kissed cheeks, minimal makeup, cheerful and carefree personality. Wearing a loose white oversized linen shirt over a light blue tank top, beige linen shorts, white sandals, a woven straw hat, and a small canvas tote bag. Maintain consistent identity, clothing, hairstyle, and appearance throughout.
+
+Location: A quiet beach on Jeju Island during an early summer morning. Soft golden sunlight, gentle ocean waves, black volcanic rocks, clear turquoise water, seashells scattered along the sand, a few distant fishermen, and a peaceful, uncrowded shoreline.
+
+Visual Style: Ultra-realistic documentary realism. Genuine candid behavior, natural body language, authentic vacation atmosphere, warm morning light, rich environmental details.
+
+Camera Style: Early-2000s Sony MiniDV camcorder. Heavy handheld shake, imperfect framing, autofocus hunting between the waves and her face, faded colours, soft contrast, slight motion blur, exposure pumping toward the bright ocean, MiniDV compression artifacts, no stabilization.
+
+00:00–00:03
+She walks barefoot along the shoreline carrying her sandals in one hand. Small waves wash over her feet as the camera briefly focuses on the water before finding her face.
+
+00:03–00:06
+She crouches to pick up a unique seashell, smiling as she brushes the sand away with her thumb. The operator moves closer, causing slight autofocus breathing.
+
+00:06–00:09
+Standing on a black volcanic rock, she watches the horizon while the sea breeze moves her hair and oversized shirt naturally.
+
+00:09–00:12
+She skips a flat stone across the calm water, laughing softly after it bounces several times. The camera shakes as the operator reacts a little too late.
+
+00:12–00:15
+She turns toward the camcorder with a warm smile, places the seashell inside her tote bag, and continues walking down the empty beach. The recording drifts toward the waves and abruptly cuts to black.
+
+Audio: Natural ambience only–gentle waves, seabirds, light wind, distant fishermen talking, footsteps on wet sand, water splashing, and rustling fabric. No music. No narration.
+
+Goal: A forgotten MiniDV home video from summer 2004, capturing a peaceful morning walk on Jeju Island that feels warm, imperfect, nostalgic, and completely authentic.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084294460205346816/img/_5n96cN4BG3yHHNW.jpg" width="600" alt="Nostalgic Camcorder Jeju Island Beach Walk">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8448)**
+
+**Tác giả:** [Zephyra Leigh](https://x.com/ZephyraLeigh) | **Nguồn:** [Link](https://x.com/ZephyraLeigh/status/2084294717316211184) | **Đã xuất bản:** Aug 3, 2026
+
+---
+### Pixar Style Pigeon Chase Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A long-form episodic video prompt for a Pixar-inspired 3D animated short film about a man and his pigeon nemesis.
+
+#### 📝 Prompt
+
+```
+MY NEMESIS IS A PIGEON” Style: Pixar-Inspired 3D Animation • Comedy • Family-Friendly • Viral Short Film ⸻ 🚪 ACT 1 — THE DAILY FEAR Dave is getting ready to leave his apartment. But something feels wrong. Before stepping outside, he carefully checks every direction. Left. Right. The sky. Behind a nearby tree. Even under a parked car. He’s clearly done this many times before. The audience immediately wonders: “What is this guy afraid of?” Dave finally relaxes. Maybe today will be different. ⸻ 🐦 ACT 2 — THE ENEMY RETURNS The moment Dave steps outside, everything changes. A shadow slowly moves across his face. He looks up. Perched high above him sits an angry pigeon. Not an ordinary pigeon. This pigeon looks like a movie villain. It stares directly at Dave. Waiting. Watching. The audience instantly understands: These two have history. ⸻ 🏃 ACT 3 — THE CHASE Without warning, the pigeon launches. Dave immediately panics. The chase begins. He runs through the city. Dodging pedestrians. Jumping around benches. Desperately trying to escape. The pigeon follows every move perfectly. No matter what Dave does, the pigeon always seems one step ahead. The audience starts laughing because the pigeon behaves less like a bird and more like a supervillain. ⸻ 🚌 ACT 4 — FALSE HOPE Dave spots a bus and jumps onboard. Finally safe. He collapses into a seat. Relieved. Then he hears a familiar sound. Coo. The pigeon is already inside the bus. Dave completely loses it. He screams for help. Begs the driver to stop. The bus screeches to a halt. Dave jumps out and runs. The audience realizes there is absolutely no escaping this bird. ⸻ 🌳 ACT 5 — THE PARK Dave runs into a nearby park. Exhausted. Breathing heavily. He hides behind a giant statue. Silence. No flapping. No cooing. Nothing. For the first time all day, he believes he has finally escaped. The danger seems over. ⸻ 🍟 ACT 6 — THE REVEAL A single french fry suddenly falls from the sky. Landing directly at Dave’s feet. His face drops instantly. He already knows what it means. Slowly, he looks up. The pigeon stands triumphantly on top of the statue. Then another french fry falls. As it drops— The story flashes back in black and white. Months earlier. A tiny baby pigeon excitedly approaches its favorite french fry. Just before it reaches the snack— Dave casually grabs it and eats it. The baby pigeon watches in absolute heartbreak. The audience finally discovers the truth. This entire feud started because of one stolen french fry. ⸻ 💩 ACT 7 — REVENGE COMPLETE Back in the present. Dave stares at the pigeon in disbelief. After all this time… The pigeon is still angry. The pigeon slowly nods. Then delivers one final perfectly aimed attack. Direct hit. Dave stands frozen in defeat. The pigeon proudly celebrates from atop the statue. Cut to black.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084283137719517184/img/1HfbcEMG_AQUeykO.jpg" width="600" alt="Pixar Style Pigeon Chase Animation">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8436)**
+
+**Tác giả:** [Shara I Ai Video Creator](https://x.com/itsshara_ai) | **Nguồn:** [Link](https://x.com/itsshara_ai/status/2084283201607053543) | **Đã xuất bản:** Aug 3, 2026
+
+---
+### Topview Film Studio、実際に使ってみた... これはかなり使い勝手良いですね！✨
+
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+#### 📝 Prompt
+
+```
+アニメーションのアクションシーン、美しいドレスを着た美女と人型ロボットが、誰もいない舞踏会のホール内で激しく銃撃戦を繰り広げる大迫力のシーンとなる60秒のショートフィルムを生成してください。
+魅力的なキャラクター、表現力のある映像、人型ロボットはホーミング銃弾を発射すると、その銃弾は噴煙航跡を引きながら美女を追尾する。
+美女はホール内をパルクールのようなアクションで縦横無尽に三次元的な動きで回避行動を取りつつ、ときおり拳銃でロボットを射撃する。
+カメラアングルとカメラワークは美女と人型ロボットを魅力的に演出するよう、派手な3D旋回系の動作で撮影を続ける。
+---
+
+2回目以降はプロンプト中の状況設定や被写体の動きなどをテキストで修正していっただけですが、ほぼ意図通りの映像を出してくるのが素晴らしい...
+
+Text-to-Video なので参照画像無しにも関わらずここまでできるので、作品のラフな初期アイデア出し段階でもイメージを簡単に具体化できるところはメリット大きいです☺️
+
+...PR案件ですが、個人的にはガチで課金して使ってるサービスなので、実際オススメ👍
+Topview、もうすぐ Seedance 2.5 対応も入ってくるので、そっちも期待大！
+@TopviewAIJP
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084279846797287424/img/_cgH3ya3RShbwMz5.jpg" width="600" alt="Topview Film Studio、実際に使ってみた... これはかなり使い勝手良いですね！✨
+">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8457)**
+
+**Tác giả:** [いにしえ@AI Director / Creator / Engineer｜Will Oldgram](https://x.com/old_pgmrs_will) | **Nguồn:** [Link](https://x.com/old_pgmrs_will/status/2084280698098319636) | **Đã xuất bản:** Aug 3, 2026
+
+---
+### Tokyo Miniature VFX Production Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed 10-second prompt for a handheld smartphone video simulating behind-the-scenes practical effects on a miniature Tokyo set.
+
+#### 📝 Prompt
+
+```
+Ultra-realistic 10-second continuous handheld smartphone video, filmed entirely on an iPhone 17 Pro Max rear camera. Behind-the-scenes inside a massive Tokyo practical-effects soundstage. The unseen camera operator stands approximately five meters from an incredibly detailed 1:15 scale tabletop miniature of futuristic Neo-Shinjuku, featuring illuminated neon billboards, elevated monorails with moving miniature trains, tiny glowing vehicles on multi-level overpasses, rain-slicked miniature streets, micro LED windows, and intricate rooftop air-conditioning units. The miniature clearly sits on a massive production stage surrounded by exposed steel trusses, blue screens, industrial liquid nitrogen fog vents, pyrotechnic spark rigs, overhead lighting grids, and Japanese VFX crew members wearing black jumpsuits and headsets monitoring handheld control pads. The camera slowly pushes forward with subtle handheld movement, natural autofocus breathing, rolling shutter, and realistic smartphone exposure shifts. The miniature city appears calm as a miniature monorail glides across the elevated track. Suddenly, the practical effects director signals on the intercom. A 3-meter painted steel sci-fi cruiser suspended on a high-speed hydraulic ceiling rig plunges downward, clipping a miniature glass skyscraper. Spark generators explode into brilliant cascades of orange fire. The skyscraper facade shatters, spraying lightweight plaster dust and tiny glass shards into the air. Dense white fog surges through the street gaps while the monorail track collapses. The smartphone camera briefly struggles to focus through thick smoke and floating ash particles, auto-adjusting its exposure to the bright pyrotechnic flashes. Natural production audio only: loud hydraulic hiss, pyrotechnic pops, shattering plaster, studio intercom chatter, warehouse ventilation hum, crew reaction gasps.
+Negative Prompt: no CGI, no cinematic camera, no drone, no cuts, no slow motion, no text, no subtitles, no watermark, maintain realistic miniature scale.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084274621663113216/img/UymwCfTfPhQYKQ7s.jpg" width="600" alt="Tokyo Miniature VFX Production Scene">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8419)**
+
+**Tác giả:** [Pan](https://x.com/sebatheepan) | **Nguồn:** [Link](https://x.com/sebatheepan/status/2084275177886564845) | **Đã xuất bản:** Aug 3, 2026
+
+---
+### Wuxia Warrior Fire Phoenix Blade
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A 15-second cinematic wuxia action prompt involving a female warrior, a crescent blade, and a flaming phoenix transformation within an ancient fortress.
+
+#### 📝 Prompt
+
+```
+Produce a coherent 15-second dark wuxia action movie, 16:9, 24fps, ultra-realistic Seedance cinematic quality. Use Image 1 as the absolute character reference, maintaining facial features, outfit, and body proportions throughout. Set in a Chinese fortress courtyard with high-black armor soldiers. [0-3.5s] She ignites her crescent blade. [3.5-6s] She throws the rotating blade through enemy lines. [6-10s] The blade trail forms a giant Chinese fire phoenix that knocks down soldiers. [10-13s] The phoenix circles high and dives back. [13-15s] She catches the blade and finishes with a powerful strike, creating a half-circle fire wave. Technical specs: ARRI Alexa 65 look, realistic fire simulation, professional sound effects with no BGM.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084270073490157568/img/84lDhnVyjidSoS99.jpg" width="600" alt="Wuxia Warrior Fire Phoenix Blade">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8456)**
+
+**Tác giả:** [Issei](https://x.com/Flkrstudio) | **Nguồn:** [Link](https://x.com/Flkrstudio/status/2084270107975655705) | **Đã xuất bản:** Aug 3, 2026
+
+---
+### Luxury Tropical Villa Cinematic Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed cinematic prompt for a luxury tropical villa, featuring minimalist architecture, lush greenery, and smooth camera movements for an upscale atmosphere.
+
+#### 📝 Prompt
+
+```
+A cinematic luxury tropical villa with modern minimalist architecture, lush greenery, floor-to-ceiling glass doors, warm wooden accents, floating wooden staircase, textured white stone walls, and elegant interior décor featuring fresh green hydrangeas. Soft natural morning light streams through sheer white curtains as a woman in a relaxed all-white outfit walks gracefully through the open-concept living room, opens the curtain, gazes outside, then sits on a cream sectional sofa holding a warm drink. Calm, serene, upscale atmosphere with seamless indoor-outdoor living, slow cinematic camera movements, warm neutral tones, premium lifestyle aesthetic, ultra-realistic, 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084268617642975232/img/vCG-yXuPIQcxaF3p.jpg" width="600" alt="Luxury Tropical Villa Cinematic Video">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8451)**
+
+**Tác giả:** [⁠ luciaAI](https://x.com/luciaverseai) | **Nguồn:** [Link](https://x.com/luciaverseai/status/2084268791316562401) | **Đã xuất bản:** Aug 3, 2026
+
+---
+### Urban Battlefield Action Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An explosive, high-tension boss fight sequence between a techwear heroine and a heavy axe-wielding clown in an industrial ruin.
+
+#### 📝 Prompt
+
+```
+Create a 15-second ultra-realistic cinematic action scene in strict 16:9 landscape, native 4K, 24fps. Tone: explosive, dangerous, fast, high-tension, and visually thrilling. This is Scene 1 of a two-part boss-fight-style action sequence and must end on a cliffhanger that naturally leads into Scene 2. REFERENCE ROLES: image1 = Pyona, the main heroine. Use image1 as the strict reference for Pyona’s face, facial proportions, light pastel-blue bob hairstyle, hair color, white cloud hair clip, blue fish hair clip, body proportions, age impression, exact outfit, styling, and overall recognizable identity. Preserve her exact cropped urban-techwear action outfit throughout: light gray cropped hooded jacket, clearly visible white crop-top feel underneath, black asymmetrical utility mini-skirt / short-bottom styling, black utility pouch or crossbody detail, black socks, and black combat boots. Do not redesign her. image2 = the clown enemy. Use image2 as the strict reference for the clown’s identity, proportions, terrifying costume, giant heavy axe, and overall menacing appearance. Preserve the same clown and same weapon consistently throughout. CORE ACTION RULE: Pyona must never block the axe blade with her bare body. She survives and fights through prediction, timing, footwork, body-angle control, narrow dodges, aerial repositioning, spacing, and fast counters. The clown must feel physically overwhelming, heavy, and destructive. Pyona stays alive and gains control through speed and precision, not brute force. ENVIRONMENT: A ruined urban battlefield at night, like a collapsed industrial ruin or destroyed concrete structure. Broken walls, exposed rebar, cracked ground, rubble piles, dust clouds, shattered concrete, and damaged surfaces everywhere. The axe attacks must visibly damage the environment: scraping the ground, throwing sparks and debris, cracking walls, carving trenches, and blasting rubble outward. Maintain clear spatial consistency. STYLE: Live-action photorealism with strong action readability. High-end cinematic fight energy, like a boss fight in a dark action film. Realistic body weight, believable recoil, sharp contact, strong debris simulation, and dangerous near-miss tension. No comedy. No magical powers. No fantasy effects. CAMERA: Use dynamic but readable cinematic camera coverage: - low-angle handheld push-ins - side tracking shots - medium rotating follow shots - brief wide shots for scale and aftermath - one brief slow-motion emphasis only during the most dangerous near-miss. Cuts may be dynamic, but action must remain clear, coherent, and easy to follow. TIMELINE: 0.0–3.8s — Opening 3-hit pressure sequence Start immediately in motion with no pause. The clown launches an aggressive three-part attack sequence: 1. a huge horizontal axe sweep toward Pyona, 2. an immediate reverse backhand sweep, 3. a heavy downward slam. The first swing scrapes the ground and throws sparks, broken stone, and debris. Pyona performs a fast lateral slip-step dodge, narrowly avoiding the blade as it passes just beside her shoulder. Without pause, the clown reverses into the second sweep. Pyona ducks and twists her upper body under the returning blade, avoiding it by centimeters. The clown then commits into the third attack, a brutal overhead slam. Pyona instantly side-jumps or rolls diagonally away just before impact. The axe slams into the ground and carves a trench, blasting dust and rubble upward. The whole opening must feel relentless, like Pyona is under constant lethal pressure with no breathing room. 3.8–6.8s — Fast first counter / control disruption As the axe is briefly stuck or slowed from the heavy slam, Pyona instantly takes the opening. She leaps lightly off broken rubble or a damaged concrete edge and darts in with a short, sharp three-hit counter: - first, a quick strike to the clown’s weapon-control arm or axe-handle area, - second, another fast disrupting hit to the grip / forearm zone, - third, a clean straight punch to the clown’s chest. These hits are not about overpowering the clown, but about disrupting his balance and force generation. The clown stumbles backward and crashes against part of a ruined wall, creating visible cracks and shaking loose concrete dust. Pyona lands and immediately side-steps out again, never staying directly in front of the axe. 6.8–10.2s — Most dangerous near-miss The clown recovers faster than expected and instantly retaliates with a violent reverse horizontal axe sweep aimed directly at Pyona’s torso. This is the most dangerous beat of Scene 1. Use one brief slow-motion emphasis here. Pyona sharply twists her waist and slides half a step sideways at the very last moment. The axe blade misses her body by only a few centimeters, slicing past the side of her outfit and strongly disturbing the hem / edge of her cropped top and jacket without actually injuring her. Ground fragments and dust fly through frame. The near miss must feel terrifyingly close. The slow motion should be very brief, then snap back to full speed immediately. 10.2–12.8s — Clean momentum-based knockout counter Using the dodge momentum from the near miss, Pyona spins fluidly into a fast, powerful roundhouse kick. The kick lands cleanly and forcefully on the clown’s side face / jaw. The impact must feel sharp and real. The clown is blasted backward and crashes through part of a ruined wall or major concrete section. Broken concrete, rubble chunks, and a heavy dust burst explode across the frame. Pyona lands balanced and alert, not posing, already ready for the next move. 12.8–15.0s — Cliffhanger ending Wide aftermath shot. Dust and debris settle around the collapsed wall area. For a brief moment it seems Pyona has finally created space. Then movement appears inside the wreckage. The clown plants one hand into the rubble, grabs the giant axe, and forcefully rises again from the debris, still dangerous and not defeated. Pyona remains in the foreground or mid-ground in a guarded stance, breathing hard, watching him carefully and maintaining distance. End on the clown partially risen in the rubble with the axe in hand, clearly setting up Scene 2. AUDIO: No dialogue. Use only strong cinematic fight sound design: heavy axe swings, metal scrape on stone, ground carving, sparks, concrete cracking, rubble spray, debris fall, air displacement, fast footwork, body impact, wall collapse, dusty low-end impact booms, and tense dark action ambience. No spoken lines. IMPORTANT RULES: Pyona must never tank the axe blade. She must always evade first, then counter. The clown’s axe must feel extremely heavy and lethal. The clown’s attacks must come in chained pressure, not one isolated swing at a time. Pyona’s counters must be short, precise, and opening-based. Environmental damage must match the axe impacts. Keep both characters visually consistent with image1 and image2. Scene 1 must end with the clown rising again, not fully defeated. NEGATIVE: No direct body-blocking of the axe, no weak impact, no fake contact, no floating, no teleporting, no wire-fu, no random extra enemies, no comedy, no magical powers, no repeated identical attack loops, no unreadable blurry action, no identity drift, no hairstyle change, no outfit redesign, no loss of the visible crop-top feel in Pyona’s outfit, no soft or low-energy choreography.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084247559816753152/img/zguS3XdpO1rcEiwT.jpg" width="600" alt="Urban Battlefield Action Scene">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8447)**
+
+**Tác giả:** [Pyona](https://x.com/pyona_ai) | **Nguồn:** [Link](https://x.com/pyona_ai/status/2084247905184162063) | **Đã xuất bản:** Aug 3, 2026
+
+---
+### Miami Beach House Party Smartphone Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A realistic prompt for generating casual smartphone-style footage of a beach party with handheld camera shake and rapid jump cuts.
+
+#### 📝 Prompt
+
+```
+Super casual real smartphone home video footage, lively beach house party in Miami with palm trees and ocean visible, natural mobile phone camera with slight authentic handheld shake, normal frame rate with smooth natural motion, rapidfire montage with constant quick jump cuts every 1-2 seconds like scrolling through phone memories, unpolished authentic phone recording of friends dancing, drinking and enjoying the beach vibe, pure raw home video feel, no cinematic polish or heavy effects.
+Use the provided reference photo as the strict ONLY visual reference for the main woman. Maintain her exact appearance with zero deviation. Generate a mixed group of friends around her at the beach house deck, ocean and palm trees visible.
+0-2.5s: Shaky rapid cuts — main woman laughing on the deck, ocean waves behind her, quick flashes of friends dancing.
+2.5-5s: Abrupt jump cuts — close-up of her smiling with a cold drink, then friends splashing near the shoreline.
+5-7.5s: Fast shaky — she dances animatedly with friends, music energy visible, sunset colors in the sky.
+7.5-10s: Quick cut close-up — playful smile toward camera, then jump to her laughing with friends near the deck rail.
+10-12.5s: Abrupt edit — group toasting with drinks, mixed reactions of laughter, beach breeze visible.
+12.5-15s: Final rapid transition — main woman relaxed among friends, soft smile, calm Miami beach memory ending with gentle phone sway.
+Natural smartphone video quality, slight real handheld shake, smooth normal frame rate motion with no low fps or choppy artifacts, authentic casual interactions and physics, stable main character consistency, no pro stabilization or effects.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084242733380874240/img/BXjb0EaVnFzKQv7Y.jpg" width="600" alt="Miami Beach House Party Smartphone Video">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8418)**
+
+**Tác giả:** [𝐌](https://x.com/Strength04_X) | **Nguồn:** [Link](https://x.com/Strength04_X/status/2084242915724071095) | **Đã xuất bản:** Aug 3, 2026
+
+---
+### 3D Animated Soda Commercial
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A stylized 3D animation prompt for a magical soda commercial featuring a cute green monster.
+
+#### 📝 Prompt
+
+```
+Create a 15-second 16:9 premium stylized 3D animated soda commercial with a cute, cinematic family-animation look. Use the uploaded reference images to maintain the exact same round green monster, yellow “Bubble Pop” soda bottle, room layout, toys, proportions, colors, and facial features throughout the video.
+
+0–3s — Bored in the dark
+Inside a dim, dusty playroom, the cute round green monster sits sadly on a wooden floor among cardboard boxes, candy wrappers, and vintage toys. He slowly pokes a wrapper with a bored expression. Desaturated colors, low-key lighting, quiet melancholy, slow camera push-in.
+
+3–6s — A magical discovery
+Glowing golden bubbles float out from behind a toy box. The monster looks up in surprise as warm light reflects in his large eyes. Reveal a chilled yellow “Bubble Pop” soda bottle hidden in the shadows, covered with realistic condensation. The camera gently follows one glowing bubble toward his face. Soft volumetric light rays and a growing sense of wonder.
+
+6–10s — Pop open the fun
+The monster excitedly grabs the bottle and pops off the cap. In brief slow motion, sparkling golden soda and luminous bubbles burst upward from the bottle. The dark room instantly transforms into a bright, colorful party space filled with warm neon light. Background toys begin to wake up and move. Create a dramatic but smooth lighting transition from dark and muted to vivid and joyful.
+
+10–15s — Celebration and product hero
+The green monster runs, jumps, and dances happily while proudly holding the Bubble Pop bottle. Iridescent bubbles and colorful confetti fill the room. A toy robot, a teddy bear, and a rubber duck wearing sunglasses dance in the background. Use an energetic wide shot, then smoothly move into a polished final product shot: the smiling monster beside the chilled condensation-covered soda bottle, surrounded by glowing bubbles. Keep the product label clear and readable.
+
+Visual style: premium stylized 3D animation, cute expressive character, bright saturated colors, cinematic lighting, soft rounded shapes, realistic soda bubbles and condensation, smooth camera movement, playful commercial energy, polished beverage advertising finish.
+
+Audio: begin with quiet room ambience and slow playful music; add magical bubble sounds, a crisp bottle-cap “pssh-pop,” sparkling soda fizz, then switch into upbeat electronic party music with toy movement, happy character reactions, confetti sounds, and a bright final product chime.
+
+sounds, and a bright final product chime.
+
+Avoid character redesign, facial inconsistency, changing bottle shape, incorrect label text, extra limbs, distorted hands, dark final frames, excessive liquid covering the character, messy composition, unreadable packaging, flickering objects, abrupt camera cuts, or
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084224883618390016/img/0ItKpR7_Lqq24GvC.jpg" width="600" alt="3D Animated Soda Commercial">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8450)**
+
+**Tác giả:** [Ima Studio](https://x.com/ImaStudio_ai) | **Nguồn:** [Link](https://x.com/ImaStudio_ai/status/2084239859284111659) | **Đã xuất bản:** Aug 3, 2026
+
+---
+### Anime Football Striker Dragon Strike
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-intensity anime-style prompt for football action featuring lightning-fast movements and a dragon-powered finish, inspired by Blue Lock and Captain Tsubasa.
+
+#### 📝 Prompt
+
+```
+A lightning-fast French superstar striker with sharp golden eyes, dark windswept hair, blue France jersey covered in grass stains, explosive athletic build, rendered in ultra-premium Japanese sports anime rendering, manga-style visual language, MAPPA-inspired sakuga animation, Captain Tsubasa-level spectacle, Blue Lock intensity, sharp anime linework, high-contrast cel shading, hand-drawn speed lines, explosive impact frames, exaggerated perspective distortion, dynamic motion smears, dramatic shonen facial close-ups, glowing aura VFX, vibrant anime color grading, cinematic anime lighting
+
+- Receives the ball just inside the French half during the FIFA World Cup 2026 against Morocco, camera glued beside the ball as two Moroccan midfielders immediately press while the stadium erupts; 
+- Explodes through midfield with impossible acceleration, body-feints past the first Moroccan midfielder, nutmegs the second, cuts inside past the Moroccan fullback, slips between two Moroccan center-backs with millimeter-perfect touches, blue lightning and speed lines exploding behind every dribble, camera rotating around every movement with insane MAPPA choreography; 
+- Reaches the edge of the penalty area as a final Moroccan defender launches into a desperate sliding tackle while the Moroccan goalkeeper charges aggressively off his line; 
+- Plants his left foot firmly beside the ball, swings his right leg through a perfect football shooting motion and strikes the ball cleanly with the laces of his boot, a monstrous blue dragon-shaped energy blast erupting from the shot, the Moroccan goalkeeper dives at full extension but cannot even touch it as the ball tears into the top corner, ending with the stadium exploding and teammates sprinting toward the French striker in a heroic anime freeze-frame.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2084232821405540352/pu/img/HpkjEyVlz26T8Pg5.jpg" width="600" alt="Anime Football Striker Dragon Strike">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8437)**
+
+**Tác giả:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **Nguồn:** [Link](https://x.com/CharaspowerAI/status/2084232842448416979) | **Đã xuất bản:** Aug 3, 2026
+
+---
+### Titanic Sinking BTS Smartphone Footage
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A realistic behind-the-scenes prompt for recreating smartphone footage of a practical-effects shoot for the Titanic sinking.
+
+#### 📝 Prompt
+
+```
+Behind-the-scenes phone footage from inside a large practical-effects soundstage, shot vertically on a handheld modern smartphone.
+
+>> Scene context: a film crew is shooting the sinking of a miniature RMS Titanic. A gigantic practical ocean tank set, dressed as the North Atlantic, contains a 1:24 scale Titanic complete with illuminated portholes, four funnels, lifeboats, deck railings, rigging, cargo cranes, and miniature passengers. Above the tank, a scaffold gantry carries a row of huge dump tanks loaded with practical seawater; two techs stand on the gantry at the release levers.
+
+>> First frame: already loaded and ready — the ship and ocean tank fill mid-ground screen-right, dump tanks looming above the set; in the foreground screen-left, within 1 meter of the phone, three crew in black EFFECTS CREW t-shirts stand behind a low containment wall, one on a cinema camera on rails, another on a headset with a hand raised. A huge blue chroma-key wall with orange cross markers rises behind the horizon. A technocrane hangs above the set.
+
+>> Action and physics: a shout of “Action!” — the dump tank gates bang open in sequence and a massive surge of real water crashes across the ocean set with real weight and turbulence, the first wave breaking over the bow before racing along the decks, tearing away lifeboats, snapping miniature railings flat, then slamming into the ship: lower decks disappear beneath the waterline, the bow plunging under the surface, the stern rising higher under the hydraulic gimbal, funnels collapsing one after another as the rigging whips, the hull splitting apart at midships before the stern slides beneath the churn; the water bursts over the containment lip and a fine spray cloud rolls across the stage floor, whiting out the frame as the crew shield their faces and stumble back.
+
+>> Camera: operator standing then backing away, phone in one hand at chest height, fast handheld pan following the action from bow to stern, framing loose and reactive, hard jolt as the spray cloud hits, autofocus hunting through the whiteout, water droplets clinging to the lens in the final beat, 84° wide diagonal FOV, camera about 2 meters from the containment wall.
+
+>> Lighting: overhead LED soft panel grid as primary source, top-front on the camera side, bright daylight-balanced, exposure locked for the reflective water so foreground crew read darker; the spray cloud glows backlit under the panels.
+
+>> Audio: on-set ambient — a loud “Action!”, the metallic clang of dump tank gates, the dense roar of cascading water, snapping miniature steel, the groan of the hull breaking apart, crew shouting off-camera: “Hold your marks! Keep rolling! Camera two, stay on the stern!”
+
+>> Realistic amateur smartphone capture, natural handheld shake and rolling shutter, real practical effects, documentary behind-the-scenes footage, no cinematic composition, no film grain, no artificial mot
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084229546606526464/img/VsQaMU1TRwkwU3WE.jpg" width="600" alt="Titanic Sinking BTS Smartphone Footage">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8449)**
+
+**Tác giả:** [ᴍᴜʀᴘʜʏ](https://x.com/Diplomeme) | **Nguồn:** [Link](https://x.com/Diplomeme/status/2084229625681674427) | **Đã xuất bản:** Aug 3, 2026
+
+---
+### Xianxia Hotpot Queue Chase Video
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A comedic cinematic video prompt for Seedance 2.0 featuring a high-stakes chase for a hotpot restaurant queue number involving a flying sword and a bicycle.
+
+#### 📝 Prompt
+
+```
+[Generation Mode]
+
+Seedance 2.0 Fast
+
+[Video Specifications]
+
+Strictly generate a 15-second video, 16:9 aspect ratio, with three clean shots.
+
+[Overall Style]
+
+Cinematic realistic texture, merging silent film chase comedy rhythm, modern heist film spatial coordination, elegant Xianxia action language, and restrained deadpan performance. Employs a clear audience-misdirection structure: the opening makes viewers believe the two characters are pursuing a priceless mysterious object, only to reveal at the end they are just trying to keep their hotpot restaurant queue spot.
+
+[Characters]
+
+Character ID A | Sword Immortal Lady
+
+Sword Immortal Lady @Image 1, the same East Asian female aged 25-30, oval face, natural fair skin, sharp dark brown eyes, long straight black hair, tall and slender build. Wearing white cloth boots, flowing white embroidered silk Hanfu, semi-transparent layered wide sleeves, silver waist ornament, and a jade hairpin. Strictly maintain the same identity from the reference image.
+
+Character ID B | Bicycle Lady
+
+Bicycle Lady @Image 2, the same East Asian female aged 25-30, rounded and expressive face, brown short ponytail, yellow jacket, blue jeans, white sneakers, reference accessories, and the same bicycle. Strictly maintain the same identity from the reference image.
+
+[Core Props]
+
+The same paper queue number, the same silver long sword, and the same bicycle.
+
+[Shot 1 | 0-5s | Low-angle Wide Tracking Shot]
+
+A bustling riverside commercial plaza at blue hour. Warm red lanterns hang outside a crowded hotpot restaurant. Wet stone pavement forms clear reflections. Outdoor waiting stools, steam-covered glass windows, parked e-bikes, wind-blown trees, scattered tissues, and strong night winds constitute a stable environment.
+
+A small paper queue number slips from Character B's hand and is blown toward the plaza's depths.
+
+The two stare at it in panic, and Character A says in a low voice: "Chase."
+
+[Shot 2 | 5-10s | Medium Side Tracking Chase Shot]
+
+The same woman in white silk Hanfu stands on the same silver long sword, gliding stably at a height of half a meter from the ground; the same woman in a yellow jacket on a bicycle rides rapidly beside her.
+
+The same paper number rolls and flies through the red lantern plaza; Character A uses a wide sleeve to change local wind direction while Character B rings the bicycle bell to make pedestrians yield. They maintain precise coordination without collision.
+
+Heroic drum beats, sword hums, bicycle chain rhythms, and strong wind sounds together form an exaggerated action score.
+
+[Shot 3 | 10-15s | Close-up into Wide Reversal Shot]
+
+The same Sword Immortal Lady leaps from the silver sword and accurately pinches the paper number just one centimeter before it hits a puddle.
+
+The heroic music suddenly stops.
+
+The hotpot restaurant's loudspeaker announces: "Number A108, please enter immediately; expired numbers must re-queue."
+
+The two look at the number, then at the restaurant, and shout in unison: "Charge!"
+
+They immediately return at top speed, with the silver sword and bicycle advancing side-by-side.
+
+The frame freezes on their dead-serious faces as Character B shouts: "Immortal cultivation can wait, but hotpot cannot!"
+
+[Technical Requirements]
+
+Strict total duration of 15 seconds, three clean shots, 16:9 aspect ratio, stable character identities, continuous prop trajectories. Realistic physics for strong wind, paper, bicycles, hair, and silk fabrics. Original synchronized Mandarin dialogue, loudspeaker announcements, environmental sounds, and music. No on-screen subtitles.
+
+[Negative Prompts]
+
+blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, watermark, text, error; deformed, mutated, bad anatomy, poorly drawn hands, bad composition, out of frame, disfigured; inconsistent character, changing clothes, face morphing, background shift, glitching cuts, disappearing props
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084224398504960000/img/rPZ3h3Q6beP2MRSa.jpg" width="600" alt="Xianxia Hotpot Queue Chase Video">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8454)**
+
+**Tác giả:** [Soran](https://x.com/Soranlan) | **Nguồn:** [Link](https://x.com/Soranlan/status/2084227079453769972) | **Đã xuất bản:** Aug 3, 2026
+
+---
+### Tennis Sports Commercial Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-end sports commercial prompt featuring a female tennis player, dramatic time freezing for apparel macro shots, and a brand name reveal using tennis balls.
+
+#### 📝 Prompt
+
+```
+Create a high-end cinematic sports commercial set on a professional outdoor tennis court during golden hour.
+
+A confident professional female tennis player wearing a premium modern tennis outfit, visor, wristbands, and performance shoes prepares to serve. Begin with a smooth cinematic tracking shot following her from a medium angle as she tosses the ball and starts her service motion.
+
+The exact instant the racket strikes the tennis ball, transition seamlessly into a dramatic overhead top-down shot. The tennis ball fills the foreground, appearing extremely close to the camera, while the player remains directly beneath it, perfectly frozen at the peak of her serve.
+
+Time completely freezes.
+
+As the world remains suspended, the camera moves fluidly around the frozen scene, capturing premium commercial-style macro close-ups of the apparel, fabric texture, stitching, logo, visor, wristbands, racket strings, shoes, and other athletic details. Use luxurious product lighting, shallow depth of field, crisp textures, smooth cinematic camera movement, and polished sports-commercial cinematography.
+
+Time resumes naturally.
+
+She completes the serve, lowers her racket, and walks forward with quiet confidence. The camera instantly whip-pans across the court, following the tennis ball's trajectory.
+
+On the opposite side of the court, dozens of tennis balls rapidly fly into place, precisely arranging themselves to spell **"COMTEX"** in large uppercase letters.
+
+End with a clean overhead hero shot showcasing the completed brand name made entirely of tennis balls. Use premium commercial pacing, seamless transitions, realistic ball physics, dynamic camera work, cinematic sound design, HDR lighting, natural motion blur, ultra-realistic textures, and luxury sports-ad production quality throughout.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084217868242341889/img/y4r__CEkcXS2TrKM.jpg" width="600" alt="Tennis Sports Commercial Prompt">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8425)**
+
+**Tác giả:** [Saul Goodman](https://x.com/Goodmanprotocol) | **Nguồn:** [Link](https://x.com/Goodmanprotocol/status/2084217915893784975) | **Đã xuất bản:** Aug 3, 2026
+
+---
+### Mixed-Media POV Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A first-person POV video where realistic objects transform into 2D comic animations when touched by a magic pen in a Japanese city setting.
+
+#### 📝 Prompt
+
+```
+10-second cinematic mixed-media transformation video, horizontal 16:9, one continuous first-person POV shot with no cuts. The viewer sees through the eyes of a person standing beside a modern Japanese city bus stop, holding a slim black magic pen in one hand. The environment is fully photorealistic, while every object touched by the pen transforms into clean, colorful 2D comic-style animation. Smooth handheld movement, seamless transformations, playful energy, precise object tracking, realistic daylight, no subtitles, no text, no logo, no watermark. 0:00–0:03 — Bird Transformation. The continuous POV shot begins facing the sidewalk near the bus stop. A real pigeon suddenly flies toward the camera and briefly hovers directly in front of the person. The hand quickly raises the magic pen and gently taps the bird in mid-air. At the exact moment of contact, a small blue ink flash spreads across its body, instantly transforming it into a cute 2D comic-style white bird with bold blue outlines, expressive eyes, and exaggerated flapping wings. The cartoon bird circles playfully around the camera and flies toward the street. 0:03–0:06 — Bus Transformation. Without cutting, the camera naturally follows the cartoon bird toward the road as a real city bus approaches the bus stop. The person extends the magic pen and taps the front of the moving bus as it arrives. A bright orange illustrated ripple spreads from the point of contact. The entire bus smoothly transforms into a giant, adorable 2D comic-style orange tabby cat with green eyes. The cat continues moving forward at the same speed and along the same path as the bus, casually walking beside the curb. Its tail sways through the air while small hand-drawn motion marks appear around its paws. 0:06–0:10 — High-School Girl Transformation. The camera turns smoothly from the giant cartoon cat toward the bus-stop bench. A realistic Japanese-style high-school girl is sitting there in a neat school uniform, holding her bag on her lap. The person walks closer and gently taps her shoulder with the magic pen. A clean blue-and-white comic outline rapidly traces around her body, transforming her into a polished 2D anime and comic-style high-school girl while preserving the same pose, uniform, hairstyle, and facial identity. She looks toward the camera, smiles, stands up, and waves happily. The cartoon bird lands beside her while the giant orange cat looks back from the street. Ending frame: The continuous POV camera holds briefly on the comic-style girl waving, the cartoon bird beside her, and the giant orange cat walking past, all perfectly integrated into the realistic Japanese city environment. Visual style: High-quality photorealistic live-action environment mixed with crisp 2D cel animation, clean blue and white outlines, bold solid colors, accurate shadows, consistent scale and perspective, fluid first-person camera movement, seamless magical transfor
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084217143697309696/img/eJJ_7BagRyQXm5Y4.jpg" width="600" alt="Mixed-Media POV Transformation">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8444)**
+
+**Tác giả:** [Shore Lyn](https://x.com/Shorelyn_) | **Nguồn:** [Link](https://x.com/Shorelyn_/status/2084217689292345473) | **Đã xuất bản:** Aug 3, 2026
+
+---
+### Summer Beach BBQ and Anime Character Sticker
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A complex multi-part video prompt for Seedance that blends live-action beach BBQ footage with a 2D anime sticker character, including detailed instructions for character consistency and interaction.
+
+#### 📝 Prompt
+
+```
+[Seedance 2.5 / 15 seconds / 9:16]
+
+Use the reference image as the sole character reference. 15 seconds, 9:16 vertical, one cut, fixed camera. The camera is completely fixed from start to finish. Zooming, panning, tilting, rotating, handheld movement, cuts, transitions, reframing, slow motion, and freeze-frame effects are prohibited.
+
+[Composition/Positioning]
+Place a live-action BBQ grill and meat on the bone in the left 45% of the screen. Place a 2D character in the right 30% of the screen. Reserve about 20% of space in the center for tongs and moving the meat.
+
+The character stands on the sandy beach on the right, always displaying their whole body from head to black flip-flops. Do not place the character in front of the grill, on top of the grill legs, or on the table. Leave clear space between the character and the grill, maintaining their standing position from start to finish.
+
+Do not overlap the grill, meat, human hands, tongs, or gochujang bottle with the character's body. The character must not hide the meat or grill. Human hands or tongs must not unnaturally cross the character's face or body. Accurately maintain depth and foreground-background relationships between objects.
+
+[Visual Style]
+A comical video combining live-action BBQ footage at a beautiful midsummer seaside with a flat 2D animated sticker character.
+
+Draw a blue sea, white waves, bright blue sky, golden sand, a distant coastline, and palm leaves swaying in the wind. Bright daytime natural light. Palm leaves, grill smoke, and the hem of the character's white shirt sway naturally in the sea breeze.
+
+The background, sea, sand, grill, charcoal fire, smoke, flame, meat on the bone, fat, meat juice, gochujang, bottle, human hand, and metal tongs are all high-quality live-action expressions. Blown-out highlights, excessive bloom, haze, and exposure flickering are prohibited.
+
+Only the character remains a flat 2D animated sticker until the end. Live-action, semi-live-action, 3D, CG figure, game model, Pixar style, or clay animation styles are prohibited. Maintain clear line drawings, cell shading, flat shadows, and thin white borders.
+
+[Character Persistence]
+Use the male character from the reference image exactly as they are. Fix the soft ash-silver wavy hair, bangs shape, hair length and volume, grey-blue eyes, young well-formed face, and slim long-limbed body type.
+
+Fix the white sleeveless innerwear, sheer white short-sleeved open shirt, white drawcord, black paisley shorts, black flip-flops, silver necklace, earrings, bracelet, and ring.
+
+Do not change the face, hairstyle, body type, clothing, patterns, colors, shoes, or accessories. Do not add hats, sunglasses, aprons, gloves, or new props. Do not duplicate the character. Do not add another 2D character.
+
+The character is not coldly expressionless but moves very cutely and expressively. Clearly show large shining eyes, rosy cheeks, a happy smile, tilting the head, small shoulder-shaking movements, a sulking face with puffed cheeks, teary eyes, and frantic waving of hands. No standing stiffly.
+
+[BBQ and Meat on the Bone]
+Grill a large Tomahawk steak on the bone in the live-action BBQ grill on the left side of the screen. Long bones are clearly visible and physically connected to the meat. The meat is well-grilled, showing deep sear marks, savory char, glossy juices, melted fat, and light steam.
+
+Do not make the meat raw, charred black, boneless, or deformed. Do not duplicate meat or bones. Do not let bones disappear midway.
+
+A live-action adult woman's hand enters from the left edge of the screen. Maintain pink nail art, thin silver rings, and normal five fingers. Turn and lift the meat with metal BBQ tongs. Do not fuse the hand, fingers, ring, tongs, meat, or grill.
+
+[Gochujang]
+Use a transparent squeeze bottle with no label, text, or brand logo. The content is thick, glossy, deep reddish-brown gochujang. Do not make it bright red like ketchup or a watery liquid.
+
+The gochujang flows in a thick continuous stream from the bottle nozzle and falls directly onto the meat surface. Do not make the sauce appear suddenly from mid-air. Do not leak from the bottom or sides of the bottle.
+
+[00:00–00:03]
+Start with a fixed wide composition. On the left, a Tomahawk steak on the bone is sizzling loudly. A woman's live-action hand slowly turns the meat once with metal tongs. Fat falls onto the charcoal, and a small flame rises for a moment. Thin smoke drifts in the sea breeze.
+
+The 2D character on the right stares at the meat, their eyes sparkling large. They put their hands together under their chin, raise their shoulders, bend their knees slightly, and bounce twice. A small 2D drop of drool appears at the mouth for a moment and disappears.
+
+[00:03–00:05]
+The character finds the gochujang bottle. Their eyes sparkle, they tilt their head, and point at the bottle with one hand. They happily hold the bottle with both hands and hug it to their chest for a moment.
+
+Then, with a mischievous smile and one eye closed, they point the nozzle toward the meat on the left. The character themselves does not move from their standing position on the right.
+
+[00:05–00:07]
+The character squeezes the bottle hard, pouring a large amount of gochujang onto the meat on the bone. A thick reddish-brown sauce extends continuously from the nozzle to the meat, creating a large zigzag pattern on the meat surface.
+
+The sauce bubbles lightly with the heat and mixes with the meat juice to create a gloss. Maintain visibility of the bone and grill marks without completely hiding the whole meat.
+
+The character smiles proudly, sticks out their tongue slightly, and shakes their shoulders cutely while squeezing the bottle. The woman's hand stops in surprise while holding the tongs.
+
+[00:07–00:09]
+The woman's hand quickly takes the gochujang bottle with the tongs and returns it to the left. Immediately after, she lightly taps the top of the character's head once with the tip of the closed tongs.
+
+The tip of the tongs clearly and lightly touches the character's hair. At the moment of contact, a small yellow 2D star-shaped impact effect appears over the head. Do not hit hard. Do not make it painful. Make it a completely cute cartoon-style reprimand.
+
+The moment they are hit, the character's head tilts to the right, their silver hair bounces, and their shoulders and torso shake greatly to the left and right. Knees bend, and they spread their arms to balance. Feet do not leave the sand, and they do not move toward the grill.
+
+They puff their cheeks, close their eyes tight, and shed a single small tear. Clearly show the cute shaking movement of the whole body, not just the head, for about 1 second.
+
+[00:09–00:11]
+The woman's hand returns the tongs to the grill and lifts a bite-sized piece of grilled meat with gochujang on it. The lifted meat shows grill marks, juice, fibers, and thick gochujang.
+
+The tongs pass through the center space and carry the meat to the front of the character's mouth. The character sulks about being hit on the head, crosses their arms, turns their face away, and puffs their cheeks.
+
+Immediately they glance at the meat with just their eyes. Their eyes sparkle again, they uncross their arms, put both hands behind their back, and lean their upper body slightly forward. They open their mouth wide and approach the meat.
+
+[00:11–00:12]
+The character clearly [eats] the meat
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084210447444766720/img/9HMWrsNYj58w4THI.jpg" width="600" alt="Summer Beach BBQ and Anime Character Sticker">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8460)**
+
+**Tác giả:** [C’est La Vie | AI Director](https://x.com/sailorv321) | **Nguồn:** [Link](https://x.com/sailorv321/status/2084211551926624764) | **Đã xuất bản:** Aug 3, 2026
+
+---
+### Anime Sword Combat Combat Choreography
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A comprehensive multi-shot storyboard prompt for a cel-shaded anime action sequence featuring a swordswoman performing energy-based combat moves in a minimalist environment.
+
+#### 📝 Prompt
+
+```
+Red and White Swordswoman Red Energy Sword Combat Combo
+Scene Header: Day · Interior · White Geometric Space 
+ · monochrome minimalist · high-key diffuse light · red energy accent
+
+Shot 1 | 0-2s · Medium Shot · Stance
+Visual: The Red and White Swordswoman stands in the center of a white geometric space. Long white hair, Cheongsam-style outfit, red flower ornament. A red energy blade materializes in the right hand, in a floating ready state. The left hand is lowered naturally in a relaxed posture.
+Dialogue: None
+
+Shot 2 | 2-4s · Medium Shot · Spin Slash
+Visual: The Red and White Swordswoman twists her body clockwise on the axis of her waist. The red energy blade in the right hand draws a large arc from the right side forward for a slash. A red translucent motion blur trail leaves a trajectory of the sword. Her white long hair and Cheongsam flow due to the centrifugal force of the rotation.
+Dialogue: None
+
+Shot 3 | 4-6s · Low Angle Medium Shot · Low Sweep
+Visual: The Red and White Swordswoman sinks into a low posture with her knees on the ground. The red energy blade rotates horizontally around her body just above the ground, drawing a wide semicircular arc. Red light reflects on the floor of the white geometric space.
+Dialogue: None
+
+Shot 4 | 6-8s · Medium Shot · Upward Slash to Mid-air Jump
+Visual: As the Red and White Swordswoman rises from the low posture, the red energy blade draws a vertical arc from bottom to top. She jumps into the air, and her body rises. The energy blade follows and floats above her head.
+Dialogue: None
+
+Shot 5 | 8-10s · Medium Shot · Mid-air Inverted Slash
+Visual: The Red and White Swordswoman flips her body in the air. The red energy blade draws a trajectory smashing downward from above her head. Her body rotates elegantly in the air, and her long white hair flows. The pillars of the white geometric space flow in the background.
+Dialogue: None
+
+Shot 6 | 10-12s · Low Angle Medium Shot · Landing Impact
+Visual: The Red and White Swordswoman lands in a low posture with one hand on the ground. The red energy blade strikes the ground, creating a shockwave with orange sparks and red light particles scattering. The afterglow of the landing impact remains in the white geometric space.
+Dialogue: None
+
+Shot 7 | 12-14s · Medium Shot · Return to Stance
+Visual: The Red and White Swordswoman stands up, the red energy blade returns to her right hand, and the energy converges. She returns to an upright stance. The silence of the white geometric space returns.
+Dialogue: None
+
+SFX: Energy resonance sound + sword wind sound + landing impact sound + sparking fire sounds
+
+Visual style direction: monochrome minimalist environment with red energy accent, high-key diffuse lighting, cel-shaded 3D anime aesthetic, translucent red arc motion trails for energy blade trajectory, orange spark particles and red light particles on impact, elegant and precise combat choreography.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084204820622409728/img/V_m3l7r6h9JQbTaK.jpg" width="600" alt="Anime Sword Combat Combat Choreography">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8462)**
+
+**Tác giả:** [ShadeLurk](https://x.com/ShadeLurk) | **Nguồn:** [Link](https://x.com/ShadeLurk/status/2084205603292119503) | **Đã xuất bản:** Aug 3, 2026
+
+---
+### 1950s American Diner Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A photorealistic 1950s American diner scene featuring chrome stools, neon glow, and period-accurate aesthetics.
+
+#### 📝 Prompt
+
+```
+Photorealistic cinematic 1950s American diner, chrome stools, red vinyl, neon glow and checkerboard floor, shot with modern lived-in realism and soft natural window light. Subtle handheld texture, warm practicals, rich period
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084199635598618624/img/EBqscM_in3Ka0FAD.jpg" width="600" alt="1950s American Diner Scene">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8445)**
+
+**Tác giả:** [Ayushi Anand](https://x.com/iamayushianand) | **Nguồn:** [Link](https://x.com/iamayushianand/status/2084199689868771562) | **Đã xuất bản:** Aug 3, 2026
+
+---
+### Futuristic Window Cleaning Robot
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A prompt for generating a dynamic 10-second video of a futuristic window-cleaning robot performing intricate aerial maneuvers on a skyscraper.
+
+#### 📝 Prompt
+
+```
+A futuristic window-cleaning robot, Robot 01, uses its limbs skillfully to clean the windows of a high-rise building. Suspended by wires, it moves through the air, performing its work both dynamically and with precision.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084192716695752704/img/ADs1Yx3WRvOV-rYp.jpg" width="600" alt="Futuristic Window Cleaning Robot">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8459)**
+
+**Tác giả:** [おっさん(Ossan)](https://x.com/ossan_no8) | **Nguồn:** [Link](https://x.com/ossan_no8/status/2084193089325821952) | **Đã xuất bản:** Aug 3, 2026
+
+---
+### Serene Anime Woman on Mossy Riverbank
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic anime-style prompt featuring a tranquil high-angle shot of a woman lying by a stream with soft atmospheric lighting and gentle movement.
+
+#### 📝 Prompt
+
+```
+A serene high-angle scene of a young woman with long dark hair lying peacefully on a lush, moss-covered riverbank beside a flowing stream. She wears a dark camouflage knitted sweater. Her hand is initially raised toward leafy tree branches hanging overhead, slowly descending down to her side as she gazes softly upward with a tranquil expression. Sunlight filters through the leafy canopy, casting shimmering highlights across the rippling dark water. The artwork features a detailed, cinematic anime digital art style with soft atmospheric lighting, rich earthy green and brown tones, and smooth, gentle movement.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084175638261313536/img/5odpcPdddH7jbrAg.jpg" width="600" alt="Serene Anime Woman on Mossy Riverbank">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8417)**
+
+**Tác giả:** [Talia](https://x.com/TaliaAariz) | **Nguồn:** [Link](https://x.com/TaliaAariz/status/2084175738840703362) | **Đã xuất bản:** Aug 3, 2026
+
+---
+### Cinematic One-Shot Beach to Space Video Loop
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A complex 30-second seamless one-shot video prompt that transitions through multiple environments including a beach at sunset, an underwater scene, a New York City street, and outer space, eventually looping back to the start.
+
+#### 📝 Prompt
+
+```
+A breathtaking, high-quality, ultra-photorealistic cinematic 30-second single-shot video with smooth, continuous camera work and no cuts. The young Japanese woman from Image 1, with her signature long dark hair, wispy bangs, serene face, and warm smile, wearing an elegant white summer dress with a blue floral pattern, is the main character throughout. [0-5s] Japan Beach Golden Hour: The young woman is walking gracefully along the sandy shore of Shonan Beach during a glorious golden hour sunset. Warm, soft rim light glows on her hair and shoulders. She looks back over her right shoulder directly toward the camera, smiling warmly. The camera slowly orbits 360 degrees around her clockwise. [5-10s] Hawaii Beach Walk: As the 360-degree rotation completes, the scenery seamlessly transitions into a tropical Hawaiian beach with turquoise waters. Her facial identity, hairstyle, and smile remain perfectly consistent. She continues walking into the gentle waves of the ocean. The camera follows her, submerging smoothly under the clear water with natural motion blur. [10-15s] Majestic Undersea: Beautiful sun rays pierce through the water surface. The young woman glides gracefully and peacefully through the crystal-clear deep ocean water. Her hair and dress flow naturally with the gentle currents. Colorful tropical fish swim around her. A small vibrant fish swims upwards, and the camera follows it, rising rapidly to the surface. [15-20s] New York City: Breaking through the water surface, the scene seamlessly transforms into a bustling street in Manhattan, New York, during sunset. She continues walking elegantly along the sidewalk, her facial identity and serene expression perfectly consistent. A chic, modern light coat naturally appears over her dress. The camera tracks her smoothly as she walks toward a grand glass-walled skyscraper. [20-25s] Building Interior to Rooftop: The camera seamlessly enters the building through the glass, moving past a modern office lobby. She walks through the corridor and steps onto a spacious high-rise rooftop helipad. The camera slowly orbits her and begins to ascend vertically, revealing the beautiful city skyline scaling down below under a purple sunset sky. [25-30s] Space to Shonan (Perfect Loop): The camera passes through the soft clouds into the high atmosphere and outer space, showing a beautiful panoramic view of the Earth. The young woman floats weightlessly and peacefully in space. The camera rotates 180 degrees around her and dives gracefully back down through the clouds. A splash of water clears, returning to the original Shonan Beach. She stands in the exact same position, looking back and smiling warmly at the camera, forming a perfect, seamless loop.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084163041219039232/img/9oCYBq8Hf9gWm2dc.jpg" width="600" alt="Cinematic One-Shot Beach to Space Video Loop">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8386)**
 
 **Tác giả:** [PeL：I&P](https://x.com/Creator_Pelsan) | **Nguồn:** [Link](https://x.com/Creator_Pelsan/status/2084169029653328173) | **Đã xuất bản:** Aug 3, 2026
+
+---
+### Luxury Skincare Lip Balm Ad
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A comprehensive 9-scene prompt for a luxury skincare commercial, showing a transition from chapped lips to a healthy, glossy hydrated look.
+
+#### 📝 Prompt
+
+```
+15-Second Cinematic Lip Balm Story Ad – Detailed Image Prompt (9 Scenes)
+Style: Ultra-realistic, luxury skincare commercial, cinematic storytelling, soft natural window light, warm pastel color palette, shallow depth of field, premium beauty photography, 85mm lens, photorealistic skin texture, glossy lips, elegant feminine aesthetic, minimal background, 8K HDR, commercial quality.
+Scene 1 (0:00–0:02) – The Problem
+A beautiful young woman standing in front of a bedroom mirror during the morning. She gently touches her dry, chapped lips with a worried expression. Soft sunlight streams through sheer curtains, creating a cozy atmosphere. Neutral cream-colored room, natural makeup, slightly messy hair, realistic skin texture, cinematic close-up, emotional storytelling.
+Camera: Medium close-up, eye level.
+Scene 2 (0:02–0:04) – Close-Up of Dry Lips
+Extreme macro shot of her lips showing realistic dryness, tiny cracks, and rough texture. One fingertip lightly touches the lower lip. Beautiful skin detail, professional skincare advertisement style, shallow depth of field.
+Camera: Macro lens, ultra-detailed lips.
+Scene 3 (0:04–0:06) – The Solution
+She smiles softly while holding a stylish pastel pink lip balm beside her face. Bright natural lighting, clean minimal background, elegant beauty commercial composition. The lip balm is clearly visible with premium packaging.
+Camera: Portrait close-up.
+Scene 4 (0:06–0:08) – Applying the Lip Balm
+Close-up of her gently applying the lip balm across her lips. Smooth application, creamy texture, glossy finish beginning to appear. Soft lighting reflects naturally from the product.
+Camera: Tight beauty close-up.
+Scene 5 (0:08–0:10) – Instant Transformation
+Close-up of perfectly hydrated, smooth, naturally pink lips with a healthy glossy finish. The lips look soft, nourished, and moisturized without looking overly shiny. Beautiful realistic skin.
+Camera: Macro beauty shot.
+Scene 6 (0:10–0:11) – Confidence Returns
+The girl closes her eyes with a peaceful smile, enjoying the soft feeling on her lips. Hair gently moves from a light breeze. Warm golden lighting creates a luxurious skincare commercial mood.
+Camera: Close-up portrait.
+Scene 7 (0:11–0:13) – Premium Product Shot
+The lip balm stands upright on a marble countertop with delicate pink flowers in the background. Soft reflections, luxurious skincare advertisement style, minimal elegant composition, premium packaging, creamy pastel colors, beautiful bokeh lighting.
+Camera: Product photography, studio quality.
+Scene 8 (0:13–0:14) – Beauty Reveal
+She gently touches her smooth lips while smiling confidently outdoors or beside a bright window. Healthy glowing skin, hydrated lips, elegant feminine appearance, natural beauty look.
+Camera: Close-up portrait with shallow depth of field.
+Scene 9 (0:14–0:15) – Final Hero Shot
+She holds the lip balm near her face while smiling directly at the camera.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084160547176493056/img/jdFVqD8ysyJB810D.jpg" width="600" alt="Luxury Skincare Lip Balm Ad">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8443)**
+
+**Tác giả:** [Noor 🌸](https://x.com/Noor_ul_ain43) | **Nguồn:** [Link](https://x.com/Noor_ul_ain43/status/2084160590759489631) | **Đã xuất bản:** Aug 3, 2026
 
 ---
 ### Authentic Korean Samgyupsal Vlog
@@ -399,68 +1592,86 @@ A breathtaking, high-quality, ultra-photorealistic  cinematic 30-second single-s
 **Tác giả:** [Tensor](https://x.com/QAiStudio) | **Nguồn:** [Link](https://x.com/QAiStudio/status/2084151938221007100) | **Đã xuất bản:** Aug 3, 2026
 
 ---
-### Poetic Xianxia Visual Illusion Comedy
+### Poetic Xianxia Visual Illusion Comedy Video
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A detailed multi-shot video prompt for Seedance 2.0 featuring two female characters in a surreal mountain setting. It utilizes camera rotation to create a Buster Keaton-style visual illusion where a cliff face appears as level ground, ending with a fourth-wall-breaking comedic reveal.
+> A detailed cinematic multi-shot video prompt for Seedance 2.0 featuring a poetic Xianxia-style comedy with visual illusions inspired by Buster Keaton.
 
 #### 📝 Prompt
 
 ```
 [Generation Mode]
+
 Seedance 2.0 Fast
 
 [Video Specifications]
-Strictly generate a 15-second video, 16:9 widescreen, with three distinct shots.
+
+Strictly generate a 15-second video, 16:9 aspect ratio, with three clear shots.
 
 [Overall Style]
-Poetic Xianxia visual illusion comedy, realistic 4K cinematic texture, using classical Chinese white-space composition, restrained deadpan performance, soft morning light, low-saturation jade green and ivory white tones, fine film grain, and borrowing from Buster Keaton-style spatial illusions to reveal the truth through controlled camera rotation rather than relying on failed magic for laughs; the entire film is a purely ancient Chinese world with no modern elements.
+
+Poetic Xianxia visual illusion comedy, realistic cinematic high-definition texture. Uses classical Chinese negative space composition, restrained deadpan performance, soft morning light, low-saturation jade green and ivory white tones, and fine film grain. Borrows from Buster Keaton-style spatial illusions, revealing the truth through controlled camera rotation rather than relying on failed magic for laughs. The entire film is set in a pure ancient Chinese world with no modern elements.
 
 [Character Locking]
-Use @Image 1 and @Image 2 to strictly lock character identities, faces, hairstyles, body proportions, clothing, shoes, and accessories.
 
-Character ID A | Senior Sword Immortal Sister
-East Asian female, 25–30 years old, oval face, fair natural skin tone, dark almond eyes, long black hair partially tied up with a white jade hairpin, tall and slender, wearing a white embroidered silk hanfu with semi-transparent layered wide sleeves, a silver waist seal, jade pendant, and white cloth boots.
+Use @Image 1 and @Image 2 to strictly lock character identity, face, hairstyle, body proportions, clothing, shoes, and accessories.
 
-Character ID B | Junior Martial Sister
-East Asian female, 20–25 years old, round and lively face, black hair in braids, petite build, wearing a teal linen hanfu, dark belt, wooden hairpin, and black cloth shoes.
+Character ID A | Senior Sister Sword Immortal
 
-[Shot 1 | 0-5s | Wide or Long Shot]
-The frame is intentionally rotated 90 degrees clockwise, making a steep cliff wall appear horizontally as the ground.
-Character ID A: Senior Sister, seen from head to toe, appears to be walking calmly and upright along the vertical cliff with hands behind her back. Her hair and sleeves naturally hang toward the abyss in the frame.
-Character ID B: Junior Sister appears to be clinging to an ancient pine tree below.
+An East Asian female aged 25-30, oval face, natural fair skin tone, dark almond eyes, black long hair half-tied and fixed with a white jade hairpin, tall and slender build. Wearing white embroidered silk Hanfu with semi-transparent layered wide sleeves, silver waist seal, jade pendant, and white cloth boots.
 
-[Shot 2 | 5-10s | Medium or Cowboy Shot]
-The Junior Sister in teal hanfu looks up and asks: "Senior Sister, is this walking on walls to reach the sky?"
-The Senior Sister in white hanfu continues walking calmly and replies: "When the heart is upright, the world balances itself."
-The background maintains the same cliff, pine tree, floating mist, stone platform, and distant pavilion; the false vertical orientation must be maintained without altering character anatomy.
+Character ID B | Junior Sister
+
+An East Asian female aged 20-25, rounded and agile face, black hair in braids, petite build. Wearing bluish-green linen Hanfu, dark belt, wooden hairpin, and black cloth shoes.
+
+[Shot 1 | 0-5s | Wide Shot or Long Shot]
+
+The frame is intentionally rotated 90 degrees clockwise, making a steep mountain wall appear horizontally as the ground. 
+
+Character ID A: Senior Sister, appearing in full from head to toe, seems to be walking upright and calmly along the vertical cliff with hands behind her back, while her hair and sleeves naturally hang toward the vast abyss in the frame.
+
+Character ID B: Junior Sister seems to be hanging onto an ancient pine tree below.
+
+[Shot 2 | 5-10s | Medium Shot or Cowboy Shot]
+
+The same Junior Sister in green linen Hanfu looks up and asks: "Senior Sister, is this 'Treading the Wall to Heaven'?"
+
+The same Senior Sister in white silk Hanfu continues walking calmly and replies indifferently: "If the heart is upright, heaven and earth will naturally be level."
+
+The background remains the same mountain wall, pine tree, floating mist, stone platform, and distant roofed water pavilion; the incorrect vertical orientation must be maintained without altering character anatomy.
 
 [Shot 3 | 10-15s | Close-up or Extreme Close-up]
-The camera smoothly rotates 90 degrees counter-clockwise to restore the true horizontal line, clearly revealing that the Senior Sister is actually just walking normally on a flat stone platform next to a low wall, while the Junior Sister is casually leaning against the pine tree.
-The Junior Sister says expressionlessly: "Senior Sister, the world is balanced now, but the camera is crooked."
-Extreme Close-up: The Senior Sister's forced dignified smile freezes, one eyebrow twitches slightly, and she replies nonchalantly: "This is to test your eyesight."
-Ends with a dry guqin pluck and the sound of a pine cone hitting a stone slab.
+
+The camera smoothly rotates 90 degrees counter-clockwise to restore the true horizontal line, revealing that the Senior Sister is simply walking on a flat stone platform next to a low wall, while the Junior Sister is just casually leaning against the pine tree.
+
+Junior Sister says expressionlessly: "Senior Sister, the world is level, but the camera is crooked."
+
+Extreme Close-up: The Senior Sister's hard-maintained dignified smile instantly freezes, one eyebrow twitches slightly, and she then replies as if nothing happened: "This is to test your eyesight."
+
+Ends with a dry pluck of a guqin string and the sound of a pine cone falling onto the stone slab.
 
 [Technical Requirements]
-Strictly 15 seconds total, 16:9 widescreen, three clear shots, native Mandarin dialogue, stable character faces and clothing, continuous scene geometry, realistic mist, silk fabric, hair, pine trees, and gravity direction, no subtitles, only two visible characters throughout.
+
+Strict total duration of 15 seconds, 16:9 aspect ratio, three clear shots, original Mandarin dialogue, stable character faces and clothing, continuous scene geometry. Physics of mist, silk fabric, hair, pine trees, and gravity must be realistic and consistent. Do not generate on-screen subtitles. Only two visible characters should appear throughout.
 
 [Negative Prompts]
+
 blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, watermark, text, error; deformed, mutated, bad anatomy, poorly drawn hands, bad composition, out of frame, disfigured; inconsistent character, changing clothes, face morphing, background shift, glitching cuts, disappearing props
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084149110232244224/img/vrUY4b3LPG8_vP81.jpg" width="600" alt="Poetic Xianxia Visual Illusion Comedy">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084149110232244224/img/vrUY4b3LPG8_vP81.jpg" width="600" alt="Poetic Xianxia Visual Illusion Comedy Video">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8377)**
 
 **Tác giả:** [Soran](https://x.com/Soranlan) | **Nguồn:** [Link](https://x.com/Soranlan/status/2084150357601443916) | **Đã xuất bản:** Aug 3, 2026
 
 ---
-### Apartment Balcony Gardening Vlog
+### Handheld Home Video Gardening Montage
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed multi-shot cinematic prompt for a home-video style montage of a woman repotting a plant on a sunlit balcony.
+> A photorealistic handheld phone-style montage showing a woman repotting a houseplant with natural sound and lighting.
 
 #### 📝 Prompt
 
@@ -469,17 +1680,17 @@ Handheld home-video style montage, 7 continuous shots with varied angles (avoid 
 
 A woman Image1 repots a houseplant alone on a cozy apartment balcony. Image1 is used only for her face and hairstyle. She wears a faded denim short-sleeve shirt over a white tank top with a dirt-smudged canvas gardening apron. The narrow balcony has potted plants, terracotta pots, potting soil, gardening tools, string lights, and warm midday sunlight. She is the only person in the video. The plant goes from being root-bound in a cracked plastic pot to freshly repotted and watered. Dialogue is natural spoken Korean.
 
-Shot 1 (0–2s): She taps and squeezes the old plastic pot to loosen the plant. "Come on, come out~"
+Shot 1 (0–2s): She taps and squeezes the old plastic pot to loosen the plant. "자, 나와라~"
 
 Shot 2 (2–4s): Close overhead as she removes the plant, exposing tightly coiled roots and gently loosening them.
 
-Shot 3 (4–6s): She places it into a terracotta pot, fills it with fresh soil by hand, and says, "Much better."
+Shot 3 (4–6s): She places it into a terracotta pot, fills it with fresh soil by hand, and says, "훨씬 낫다."
 
 Shot 4 (6–8s): She brushes dirt from the leaves, straightens the plant, and says, "There we go."
 
 Shot 5 (8–10s): She wipes her dirty hands on her apron and smiles with a small approving nod.
 
-Shot 6 (10–13s): She waters the plant with a small metal watering can. Soil darkens as it absorbs the water. "Drink up."
+Shot 6 (10–13s): She waters the plant with a small metal watering can. Soil darkens as it absorbs the water. "쭉쭉 마셔."
 
 Shot 7 (13–15s): She steps back, leans on the balcony railing, admires the plant, wipes her brow, and exhales contentedly.
 
@@ -488,18 +1699,18 @@ Audio: No music—only natural sounds of tapping plastic, crumbling soil, rustli
 No subtitles, text, logos, or watermarks. Do not recreate or copy the reference image itself.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084143996742533120/img/TrP56omkCPCdR_Dj.jpg" width="600" alt="Apartment Balcony Gardening Vlog">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084143996742533120/img/TrP56omkCPCdR_Dj.jpg" width="600" alt="Handheld Home Video Gardening Montage">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8354)**
 
 **Tác giả:** [WasifAI](https://x.com/doctorwasif) | **Nguồn:** [Link](https://x.com/doctorwasif/status/2084144145912770846) | **Đã xuất bản:** Aug 3, 2026
 
 ---
-### Astronaut to VR Apartment Match Cut
+### Astronaut to Apartment Match Cut Transition
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A complex prompt for a 15-second video featuring a seamless match cut transition between a lone astronaut in space and a person in a modern apartment removing a VR headset.
+> A sophisticated 15-second video prompt featuring a continuous motion match cut from an astronaut in space to a person in a VR headset.
 
 #### 📝 Prompt
 
@@ -554,7 +1765,7 @@ Instead of reaching for the failing equipment, both hands rise toward the helmet
 
 No headset or gaming device is visible anywhere in space.
 
-Maintain identical face size, head angle, lens distance, head angle, and clockwise motion until the match cut.
+Maintain identical face size, hand position, lens distance, head angle, and clockwise motion until the match cut.
 
 SFX: (radio distortion stretching into silence, slowed warning alarms, breathing, woman’s voice echoing “Alex… ALEX…”, ambient hum fading)
 
@@ -575,82 +1786,58 @@ For the first time, the VR headset is visible.
 The subject grips both sides and smoothly lifts
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084138283311984640/img/oPpdlpbrMZhrNaLs.jpg" width="600" alt="Astronaut to VR Apartment Match Cut">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084138283311984640/img/oPpdlpbrMZhrNaLs.jpg" width="600" alt="Astronaut to Apartment Match Cut Transition">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8340)**
 
 **Tác giả:** [Duet | AI](https://x.com/Sheldon056) | **Nguồn:** [Link](https://x.com/Sheldon056/status/2084139217043751125) | **Đã xuất bản:** Aug 3, 2026
 
 ---
-### Post-Apocalyptic Survival Thriller
+### Survival Horror Cinematic Sequence
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-intensity horror thriller prompt featuring a chase through a misty forest at dusk with cinematic lighting and volumetric effects.
+> A terrifying cinematic prompt for a survival horror sequence set in a dark forest with infected creatures.
 
 #### 📝 Prompt
 
 ```
 A cinematic post-apocalyptic survival thriller set in a dark, misty forest at dusk. A frightened young man wearing a dirty faded red hoodie and dark jeans runs through dense woods, his face covered in mud, sweat, and scratches. Shadowy infected creatures relentlessly pursue him from the fog while distant fires illuminate the forest with an eerie orange glow. The camera alternates between intense handheld chase shots, dramatic close-ups of the survivor's terrified expression, low-angle tracking shots through the trees, and wide cinematic reveals of the monsters emerging from the mist. Heavy smoke, drifting embers, volumetric lighting, realistic breathing, fast-paced action, suspenseful atmosphere, realistic physics, Hollywood horror cinematography, photorealistic, ultra-detailed, 8K HDR, shallow depth of field, cinematic teal-and-orange color grading, immersive sound-inspired visuals, blockbuster-quality survival horror.
+Negative Prompt:
+Low quality, blurry, watermark, logo, text, cartoon style, CGI look, bad anatomy, deformed face, extra limbs, unrealistic monsters, flickering, shaky animation, poor lighting, oversaturated colors, duplicate characters, artifacts, noisy image, low resolution.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084136500221165568/img/8zJ8Bw23Pxr_BgJx.jpg" width="600" alt="Post-Apocalyptic Survival Thriller">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084136500221165568/img/8zJ8Bw23Pxr_BgJx.jpg" width="600" alt="Survival Horror Cinematic Sequence">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8353)**
 
 **Tác giả:** [Calira](https://x.com/CaliraVal) | **Nguồn:** [Link](https://x.com/CaliraVal/status/2084137933456732212) | **Đã xuất bản:** Aug 3, 2026
 
 ---
-### UGC Coffee Maker Advertisement
+### Premium Coffee Maker UGC Ad
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A professional 15-second user-generated content (UGC) style prompt for a product advertisement showcasing a dual coffee maker with realistic lighting and handheld camera movements.
+> A detailed 15-second UGC-style product advertisement prompt for the Hamilton Beach coffee maker, focusing on morning routines and convenience.
 
 #### 📝 Prompt
 
 ```
-Create a 15-second premium UGC-style product advertisement for the Hamilton Beach 2-Way Coffee Maker shown in the reference image. Use the reference image strictly for product identity, design, proportions, colors, buttons, carafe, red travel mug, and overall appearance. Do not redesign or alter the product.
-The video should feel like a real creator filmed it at home with a high-end smartphone, natural lighting, realistic handheld camera movement, authentic human interaction, and premium but believable visuals. No overly polished commercial look, no artificial CGI feeling.
-Scene 1 — 0:00–0:02
-Close-up of a hand pressing the Program button on the coffee maker. The digital display is clearly visible. Morning sunlight enters through a kitchen window. Subtle handheld camera movement.
-Voiceover: “Okay, this has seriously upgraded my mornings.”
-Scene 2 — 0:02–0:04
-Medium-wide shot of the coffee maker sitting naturally on a modern kitchen counter. The red travel mug is positioned on the single-serve side and the glass carafe is on the other side. A young woman casually prepares her morning coffee in the background.
-Voiceover: “I love that I can brew it exactly how I want.”
-Scene 3 — 0:04–0:06
-Macro close-up of fresh ground coffee being placed into the filter basket. Show realistic coffee grounds, texture and small natural movements.
-Voiceover: “Just add my favorite coffee…”
-Scene 4 — 0:06–0:08
-Extreme close-up of freshly brewed coffee flowing smoothly into the glass carafe. Capture realistic steam, liquid movement and rich coffee color. Warm morning lighting.
-Voiceover: “…and let it do its thing.”
-Scene 5 — 0:08–0:10
-The woman pours the freshly brewed coffee into a clear glass cup, then takes a natural first sip. Genuine relaxed expression, no exaggerated acting.
-Voiceover: “And the coffee comes out so good.”
-Scene 6 — 0:10–0:12
-Quick lifestyle shot showing the single-serve side and full carafe side together. Camera slowly moves around the machine, highlighting its stainless-steel finish and compact design.
-Voiceover: “Plus, I can make one cup or a full pot.”
-Scene 7 — 0:12–0:14
-Beautiful hero shot of the coffee maker on the kitchen counter with the red travel mug beside it, soft sunlight, subtle steam rising from the coffee. Camera slowly pushes in toward the product.
-Voiceover: “Honestly, it just makes mornings easier.”
-Scene 8 — 0:14–0:15
-Final close-up of the woman holding her coffee while the coffee maker remains visible in the background. Natural smile. End on a clean product-focused frame.
-On-screen text:
-“Better Coffee. Better Mornings.”
+Create a 15-second premium UGC-style product advertisement for the Hamilton Beach 2-Way Coffee Maker shown in the reference image. Use the reference image strictly for product identity, design, proportions, colors, buttons, carafe, red travel mug, and overall appearance. Do not redesign or alter the product. The video should feel like a real creator filmed it at home with a high-end smartphone, natural lighting, realistic handheld camera movement, authentic human interaction, and premium but believable visuals. No overly polished commercial look, no artificial CGI feeling. Scene 1 — 0:00–0:02 Close-up of a hand pressing the Program button on the coffee maker. The digital display is clearly visible. Morning sunlight enters through a kitchen window. Subtle handheld camera movement. Voiceover: “Okay, this has seriously upgraded my mornings.” Scene 2 — 0:02–0:04 Medium-wide shot of the coffee maker sitting naturally on a modern kitchen counter. The red travel mug is positioned on the single-serve side and the glass carafe is on the other side. A young woman casually prepares her morning coffee in the background. Voiceover: “I love that I can brew it exactly how I want.” Scene 3 — 0:04–0:06 Macro close-up of fresh ground coffee being placed into the filter basket. Show realistic coffee grounds, texture and small natural movements. Voiceover: “Just add my favorite coffee…” Scene 4 — 0:06–0:08 Extreme close-up of freshly brewed coffee flowing smoothly into the glass carafe. Capture realistic steam, liquid movement and rich coffee color. Warm morning lighting. Voiceover: “…and let it do its thing.” Scene 5 — 0:08–0:10 The woman pours the freshly brewed coffee into a clear glass cup, then takes a natural first sip. Genuine relaxed expression, no exaggerated acting. Voiceover: “And the coffee comes out so good.” Scene 6 — 0:10–0:12 Quick lifestyle shot showing the single-serve side and full carafe side together. Camera slowly moves around the machine, highlighting its stainless-steel finish and compact design. Voiceover: “Plus, I can make one cup or a full pot.” Scene 7 — 0:12–0:14 Beautiful hero shot of the coffee maker on the kitchen counter with the red travel mug beside it, soft sunlight, subtle steam rising from the coffee. Camera slowly pushes in toward the product. Voiceover: “Honestly, it just makes mornings easier.” Scene 8 — 0:14–0:15 Final close-up of the woman holding her coffee while the coffee maker remains visible in the background. Natural smile. End on a clean product-focused frame. On-screen text: “Better Coffee. Better Mornings.”
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084134550343446528/img/ebpT6LbTg32dgJO5.jpg" width="600" alt="UGC Coffee Maker Advertisement">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084134550343446528/img/ebpT6LbTg32dgJO5.jpg" width="600" alt="Premium Coffee Maker UGC Ad">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8342)**
 
 **Tác giả:** [Sarah](https://x.com/SyntheSarah) | **Nguồn:** [Link](https://x.com/SyntheSarah/status/2084134579309293615) | **Đã xuất bản:** Aug 3, 2026
 
 ---
-### Burj Khalifa Dubai Travel Vlog
+### Burj Khalifa Travel Vlog Script
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A comprehensive documentary-style prompt for a Dubai travel vlog at the Burj Khalifa, featuring group interactions and scenic sunset views.
+> A comprehensive cinematic script for creating a realistic 15-second travel vlog at the Burj Khalifa observation deck, focusing on natural movements and lighting.
 
 #### 📝 Prompt
 
@@ -658,18 +1845,43 @@ On-screen text:
 TITLE BURJ KHALIFA VLOG  FORMAT 15 seconds | 16:9 | Live-action travel vlog Fictional dramatization. Documentary-style visual realism.  SETTING The Burj Khalifa observation deck in Dubai. Floor-to-ceiling glass windows overlooking the entire Dubai skyline with visible Sheikh Zayed Road, Downtown Dubai, the Dubai Fountain and surrounding skyscrapers. Time: golden hour approaching sunset. Warm sunlight, clear atmosphere, gentle indoor ambience and distant city activity.  CHARACTERS A small group of friends visiting the Burj Khalifa observation deck.  Maintain consistent clothing, accessories, bags and character identities throughout the sequence. Natural tourist behaviour throughout the experience.  STORY  00–04s — ESTABLISHING Wide documentary shot reveals the Burj Khalifa observation deck as visitors admire the panoramic skyline. The camera slowly walks toward the glass while Dubai stretches endlessly into the distance. Golden sunlight reflects naturally across the city. People move casually without acknowledging the camera.  04–08s — EXPLORATION Cut to a handheld vlog perspective following the group as they walk along the observation deck. One person points toward famous landmarks while another captures photos with a smartphone. Natural conversations, laughter and genuine reactions. The camera operator follows with realistic footsteps, subtle framing corrections and natural motion blur.  08–12s — HIGHLIGHT The group reaches the panoramic viewing area. One friend records a selfie video with the skyline filling the background while others admire the sunset. The camera circles naturally to reveal the immense height and scale of the city below. Wind lightly moves clothing near the outdoor terrace. No exaggerated cinematic movements.  12–15s — ENDING The camera settles beside the viewing glass. The group quietly watches the sunset as Dubai's city lights begin illuminating below. One person smiles toward the skyline before walking away. End on a calm, memorable travel moment.  CAMERA Grounded travel-documentary cinematography.  Mix: wide environmental coverage medium handheld following shots brief close reaction shots  Natural handheld instability. Realistic operator movement. Plausible tourist camera positions. No impossible drone transitions. No excessive slow motion.  LIGHTING Lighting originates entirely from the natural environment.  Warm golden-hour sunlight entering through the observation windows. Natural exposure adapts between bright exterior views and interior spaces. Realistic highlight roll-off. Detailed shadows. No artificial rim lighting.  PHYSICS Real gravity and momentum.  Natural walking movement. Believable clothing motion. Hair responds subtly to breeze on the outdoor terrace. Realistic reflections on glass. Authentic interaction with railings, viewing telescopes and observation deck surfaces.  HUMAN PERFORMANCE Relaxed, believable tourist behaviour.  Natural smile
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084130806155685888/img/xY3h8f389-UPxH2W.jpg" width="600" alt="Burj Khalifa Dubai Travel Vlog">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084130806155685888/img/xY3h8f389-UPxH2W.jpg" width="600" alt="Burj Khalifa Travel Vlog Script">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8332)**
 
 **Tác giả:** [ᴍᴜʀᴘʜʏ](https://x.com/Diplomeme) | **Nguồn:** [Link](https://x.com/Diplomeme/status/2084131147475501318) | **Đã xuất bản:** Aug 3, 2026
 
 ---
-### Kyoto Bicycle Selfie Vlog
+### Surreal Lipstick Commercial Narrative
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A high-end cinematic commercial script designed for Seedance 2.5, featuring surreal color transformations and rhythmic fast-cutting synchronized to jazz blues.
+
+#### 📝 Prompt
+
+```
+Lipstick commercial, surreal 'color transformation' visual effects and fast-cutting techniques, with retro jazz blues music featuring clear strong drums and bass perfectly synced to the montage. 
+- Opening: high-angle shot of a stylish woman in a red dress stepping onto a city crosswalk. Pedestrians turn to watch. Macro close-up of her feet: as her red heels step on white crosswalk lines, they instantly turn pure red one by one. Traffic lights turn red.
+- Scene at a black vintage car: woman looks at her reflection in the window. Macro shot of black-gold lipstick gliding on her lips. As she applies it, the black car transforms into an elegant deep red finish following the trail. 
+- Tracking shot: woman passes a girl with a pink balloon. Touching it turns the balloon red with a brilliant glow. White flowers in the flowerbed bloom into red roses as she walks by.
+- Rapid fast-cuts: macro lip close-ups, she glances at a vintage motorcycle rider, looks back confidently in the sunlight. Zoom into her lips showing a perfect velvet matte texture.
+- Music stops with a clear 'click' of the lipstick cap. She holds the lipstick, smiles, and says: 'Be your own muse.'
+- Final jazz beat hits. Background turns into warm red and gold bokeh. The shot freezes on her pose with the lipstick in the style of an Estee Lauder brand campaign.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084116410683568128/img/prNeBldjZmei0_Dv.jpg" width="600" alt="Surreal Lipstick Commercial Narrative">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8453)**
+
+**Tác giả:** [赛博大福](https://x.com/Heidifu666) | **Nguồn:** [Link](https://x.com/Heidifu666/status/2084118149079900345) | **Đã xuất bản:** Aug 3, 2026
+
+---
+### Kyoto Smartphone Vlog Simulation
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A natural 15-second smartphone selfie vlog prompt capturing a woman exploring traditional streets in Kyoto by bicycle, including dialogue and environmental sound.
+> A photorealistic video prompt for a 15-second smartphone selfie vlog, featuring natural movement, authentic stabilization, and realistic urban exploring in Kyoto.
 
 #### 📝 Prompt
 
@@ -677,7 +1889,7 @@ TITLE BURJ KHALIFA VLOG  FORMAT 15 seconds | 16:9 | Live-action travel vlog Fict
 A 15-second photorealistic smartphone selfie vlog that looks exactly like a real mobile phone recording. A young woman (image = her face and hair) is exploring the quiet streets of Kyoto, Japan on a bicycle during a sunny afternoon. She films herself in selfie mode with natural handheld movement, subtle hand shake, realistic smartphone autofocus, authentic stabilization, and true-to-life colors. Smiling at the camera, she says, "Let's explore Kyoto today!" She happily rides through narrow traditional streets lined with wooden houses, then notices she's taken a wrong turn and laughs, saying, "I think I'm lost!" Continuing down a peaceful path, she unexpectedly discovers a beautiful hidden Japanese shrine surrounded by tall trees and red torii gates. She parks her bicycle, walks toward the shrine with a surprised smile, captures a few quick shots of the peaceful scenery, then turns the camera back to herself and says, "Getting lost was worth it!" She gives a warm wave, smiles brightly, and says, "See you next time. Bye!" before reaching toward the phone to end the recording. The video should feel exactly like a genuine smartphone vlog with natural human movement, consistent facial features, realistic bicycle riding, authentic Kyoto atmosphere, no beauty filters, no CGI, no AI-plastic appearance, no subtitles, no logos, no watermark, and no background music—only birds, bicycle sounds, soft wind, footsteps, and natural outdoor ambience.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084114970183397376/img/A9i8xuO44U6hbW03.jpg" width="600" alt="Kyoto Bicycle Selfie Vlog">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084114970183397376/img/A9i8xuO44U6hbW03.jpg" width="600" alt="Kyoto Smartphone Vlog Simulation">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8346)**
 
@@ -777,51 +1989,19 @@ Editing Style
 **Tác giả:** [Sophia](https://x.com/sophiaparkerr_) | **Nguồn:** [Link](https://x.com/sophiaparkerr_/status/2084113223633248321) | **Đã xuất bản:** Aug 3, 2026
 
 ---
-### GRWM Office Routine Cinematic Commercial
+### Cinematic GRWM Office Routine
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A 15-second multi-shot commercial prompt for an ultra-realistic office routine sequence, maintaining strict character consistency based on a reference image.
+> A fast-paced 15-second 'Get Ready With Me' office routine prompt featuring smooth transitions and cinematic city lifestyle shots.
 
 #### 📝 Prompt
 
 ```
-Use the uploaded reference image as the exact character reference. Preserve her facial identity, hairstyle, eye color, makeup, skin tone, body proportions, and facial consistency throughout every shot. Maintain the same character consistently. Create a 15-second ultra-realistic GRWM office routine with 15 fast-paced cinematic shots (≈1 second each), smooth match cuts, whip pans, object transitions, premium lifestyle cinematography, and realistic motion.
-
-1. Alarm rings as she opens her eyes.
-
-2. She sits up, stretches, and smiles.
-
-3. Quick skincare splash in the bathroom.
-
-4. Applies light makeup in front of the mirror.
-
-5. Brushes and styles her hair.
-
-6. Changes into a chic office outfit.
-
-7. Puts on heels, watch, and earrings.
-
-8. Grabs her handbag, laptop, and coffee tumbler.
-
-9. Locks the apartment door behind her.
-
-10. Walks confidently through the apartment lobby.
-
-11. Hails a cab on a busy city street.
-
-12. Rides through downtown with cinematic city reflections.
-
-13. Steps out in front of a modern glass office building.
-
-14 Scans her access card and enters the office.
-
-15 Sits at her desk, opens her laptop, smiles at the camera, and begins working.
-
-Ultra-realistic commercial quality, smooth handheld and gimbal camera movement, natural expressions, realistic body movement, premium office interiors, luxury apartment, cinematic color grading, shallow depth of field, realistic reflections, 4K HDR, 16 9, no text, subtitles, logos, or watermarks.
+Use the uploaded reference image as the exact character reference. Preserve her facial identity, hairstyle, eye color, makeup, skin tone, body proportions, and facial consistency throughout every shot. Maintain the same character consistently. Create a 15-second ultra-realistic GRWM office routine with 15 fast-paced cinematic shots (≈1 second each), smooth match cuts, whip pans, object transitions, premium lifestyle cinematography, and realistic motion. 1. Alarm rings as she opens her eyes. 2. She sits up, stretches, and smiles. 3. Quick skincare splash in the bathroom. 4. Applies light makeup in front of the mirror. 5. Brushes and styles her hair. 6. Changes into a chic office outfit. 7. Puts on heels, watch, and earrings. 8. Grabs her handbag, laptop, and coffee tumbler. 9. Locks the apartment door behind her. 10. Walks confidently through the apartment lobby. 11. Hails a cab on a busy city street. 12. Rides through downtown with cinematic city reflections. 13. Steps out in front of a modern glass office building. 14 Scans her access card and enters the office. 15 Sits at her desk, opens her laptop, smiles at the camera, and begins working. Ultra-realistic commercial quality, smooth handheld and gimbal camera movement, natural expressions, realistic body movement, premium office interiors, luxury apartment, cinematic color grading, shallow depth of field, realistic reflections, 4K HDR, 16 9, no text, subtitles, logos, or watermarks.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084107212998537216/img/PalYg-MXNA3blo8N.jpg" width="600" alt="GRWM Office Routine Cinematic Commercial">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084107212998537216/img/PalYg-MXNA3blo8N.jpg" width="600" alt="Cinematic GRWM Office Routine">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8335)**
 
@@ -866,49 +2046,49 @@ WORLD: Midnight shipping shipyard in the pouring rain, palette of deep shadow bl
 **Tác giả:** [PixieVerse](https://x.com/itsPixieVerse) | **Nguồn:** [Link](https://x.com/itsPixieVerse/status/2084055810351804480) | **Đã xuất bản:** Aug 2, 2026
 
 ---
-### Cinematic Mystery Anime Scene
+### Cinematic Anime Mystery Revelation
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A detailed structured prompt for a high-budget 2D anime scene featuring a mysterious school setting with a giant teddy bear and a dramatic character reveal.
+> A high-quality storyboard prompt for a cinematic 2D anime scene involving a mystery reveal with dramatic lighting and character cues.
 
 #### 📝 Prompt
 
 ```
-[Main Character] = Girl with black hair
-[Opponent/Target] = Girl with brown hair
-[Setting] = School gymnasium at night
-[Anomaly Gimmick] = Giant white teddy bear
+[Main Character] = Black-haired girl
+[Opponent/Target] = Brown-haired girl
+[Setting] = High school gymnasium at night
+[Anomaly Gimmick] = Huge white teddy bear
 
 [Video Style]
-15 seconds. Japanese full-color anime. High-density 2D animation with a 500 million yen budget. Cinematic backlighting, hard shadows, cold ambient light, rapid zoom-out, face close-ups. No subtitles, no watermark, with background music. Sounds include electronic noises, lens drive sounds, and finger snaps.
+15 seconds. Japanese full-color anime. High-density 2D animation with a 500 million yen budget scale. Cinematic backlighting, hard shadows, cold ambient light, rapid zoom-out, facial close-ups. No subtitles, no watermark, with BGM. Sounds include electronic noises, lens drive sounds, and finger snaps.
 
 [Visual Composition]
-[Main Character] does not move from the start. What moves is the [Anomaly Gimmick] in the background. When [Main Character] gives a small signal, all eyes in the world activate simultaneously, and [Opponent/Target] loses all escape routes.
+The [Main Character] does not move from the start. What moves is the [Anomaly Gimmick] in the background. When the [Main Character] gives a small signal, gazes from all over the world activate simultaneously, leaving the [Opponent/Target] with no escape.
 
-[Shot 1: Silent Dominance]
-[Main Character] sits or stands in the center of the [Setting]. Slowly approach from a low front angle. The [Anomaly Gimmick] in the background is dark and silent.
+[Shot 1: Quiet Dominance]
+The [Main Character] sits or stands in the center of the [Setting]. Slowly approach from a low front angle. The [Anomaly Gimmick] in the background is dark and silent.
 
 [Shot 2: Eyes]
-Close-up of [Main Character]'s eyes. Blinks only once. The mouth smiles slightly.
+Close-up on the [Main Character]'s eyes. Only one blink. The mouth smiles slightly.
 
 [Shot 3: Signal]
-[Main Character] slowly raises their right hand and snaps their fingers next to their face. The sound should only emphasize a sharp "snap."
+The [Main Character] slowly raises her right hand and snaps her fingers next to her face. Include only the 'snap' sound strongly.
 
 [Shot 4: First Activation]
-One of the [Anomaly Gimmicks] in the background glows red. The camera quickly zooms in on its lens, eye, or screen.
+One of the background [Anomaly Gimmicks] glows red. The camera rapidly zooms into its lens, eye, or screen.
 
 [Shot 5: Chain Activation]
-Using match cuts, other [Anomaly Gimmicks] light up one after another. Red lights chain into the depth of the screen.
+With a match cut, another [Anomaly Gimmick] and then another activate one after another. Red lights chain into the depth of the screen.
 
 [Shot 6: Full Activation]
-Ultra-wide shot. Countless [Anomaly Gimmicks] on walls, floor, ceiling, and even desks glow red simultaneously. [Main Character] becomes a black silhouette in the backlight.
+Ultra-wide pull back. Countless [Anomaly Gimmicks] on walls, floor, ceiling, and desks all glow red at once. The [Main Character] becomes a black silhouette against the backlight.
 
 [Shot 7: Declaration]
-Rapidly return to [Main Character]'s face. With an overwhelmingly calm smile, look into the camera and say, "I saw everything." The last frame stops with a red backlight.
+Rapid zoom back to the [Main Character]'s face. With an overwhelmingly calm smile, she looks at the camera and says, 'I saw everything.' Stop the last frame with red backlighting.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083242281440784384/img/jyOwpAr5T_zh9z99.jpg" width="600" alt="Cinematic Mystery Anime Scene">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083242281440784384/img/jyOwpAr5T_zh9z99.jpg" width="600" alt="Cinematic Anime Mystery Revelation">
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8384)**
 
@@ -1914,6 +3094,84 @@ Cú máy whip-pan IMAX siêu nhanh. Cô vung chảo với lực tối đa trực
 **Tác giả:** [Al-Shamus](https://x.com/im_shahid7) | **Nguồn:** [Link](https://x.com/im_shahid7/status/2083789680856994298) | **Đã xuất bản:** Aug 2, 2026
 
 ---
+### Seedance 2.5 Anime Battle PV
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A comprehensive 30-second multi-cut prompt for a high-quality cinematic anime battle, featuring consistent character designs and dynamic camera work throughout a 14-shot sequence.
+
+#### 📝 Prompt
+
+```
+30 seconds, 16:9, high-quality Japanese anime-style battle PV. A very flashy and cinematic image, like a trailer for the latest theatrical anime movie. No text on screen. No additional characters. Only 1 protagonist, 1 divine beast, and 1 enemy boss. Depicted as a continuous sequence of events on the same battlefield throughout the 30 seconds. No transition to other spaces. Maintain consistency of the protagonist, divine beast, enemy boss, background, spatial structure, destruction state, and damage expression until the end. 
+The camera moves very dynamically throughout. No static cameras. Include clear camera moves in each cut. Actively use orbiting, rapid approach, rapid retreat, rapid ascent, rapid descent, overhead views, low-angle looking up, side-by-side tracking, circling in front of the subject, high-speed dolly shots close to the ground, foreground parallax passing through rubble, crash zooms, Dutch angles, and sharp turns. At the moment of impact, insert a strong impact like a freeze frame for a moment, and immediately move explosively after that.
+
+Protagonist:
+Girl Onmyoji 'Akane'. Around 17 years old. Slender and supple build. Pale skin. Golden-amber eyes. Long black pigtails tied with red ribbons. Before summoning, she wears a dark blue school uniform-style outfit. After summoning, she changes into a priest-style combat outfit based on black, white, and deep red. Equipped with a short combat skirt, talisman designs on the cuffs, arm guards, and leg armor. Weapon is a spirit blade formed from red-gold spiritual power. Focused and tense in the first half, cornered in the middle, and showing determination and ferocity in the second half.
+
+Divine Beast:
+A large four-legged divine beast. Has a massive lion's mane, muscular limbs like a wolf, two dragon-like horns, and a long tail. Black fur with red-gold glowing lines. Eyes are gold-red. Massive and heavy-set, focusing on charging, claw attacks, roars, and body slams. A presence combining divinity and ferocity. Maintains the same appearance throughout the video.
+
+Enemy Boss:
+'Ghost King in Black Armor'. A massive 4-meter class humanoid boss. Heavy black iron armor. Deep red glowing lines like cracks on the armor surface. Two horns curved backward. Burning red eyes. Carries a massive double-edged black greatsword. Manipulates black flames and shockwaves. Movements are heavy but fast, with each hit being very heavy. Possesses the composure and cruelty of a ruler. Maintains the same appearance throughout the video.
+
+Background:
+A plaza of night ruins of a shrine. A large summoning magic circle in the center. A collapsed torii gate in the back right. A fallen stone pillar in the front left. Ruins of a broken altar in the back. Cracked stone floor. Scattered rubble. Sky covered with thunderclouds. Maintain this spatial structure during combat. Even if the camera moves greatly, ensure the central summoning circle, the collapsed torii, the fallen pillar, and the altar ruins are shown repeatedly to identify it as the same battlefield.
+Any destruction or damage that occurs will be continuously reflected in subsequent cuts. Maintain the broken stone floor, blown-away rubble, the beast's hit marks, cracks in the chest armor of the Ghost King, remains of black flames, and remains of red-gold spiritual power.
+
+00:00–00:02
+Short cuts between a close-up of fingertips, eyes, and palm. The camera circles slightly around the fingertips, crash-zooms into the golden spiritual light on the palm, and switches to a close-up of Akane's face. Akane quietly forms a seal. Expression is focused. Ends of hair and sleeves sway slightly.
+
+00:02–00:04
+The camera spirals upward rapidly around Akane, transitioning to a top-down view to show the entire battlefield. The central summoning circle expands rapidly. Golden light erupts from the cracked stone floor. Floating rubble rotates. Clearly show the torii gate in the back right, the fallen pillar in the front left, the altar ruins in the back, and the thunderclouds. Akane pushes her spiritual power into the ground.
+
+00:04–00:06
+The camera dives rapidly into the center of the summoning circle, half-orbiting while grazing the vortex of spiritual power. Strongly show the beast's eyes, fangs, mane, and front legs in sequence. The beast's head, front legs, and entire body manifest in order. Red-gold and ink-black spiritual power swirl violently.
+Akane's dialogue:
+'O raging god, manifest from the depths of the earth! Respond to my call, Divine Beast!'
+
+00:06–00:08
+The camera grazes the beast's chest and retreats, orbiting widely while keeping Akane and the beast in the same frame. Finally shows a full-body pose of the beast. The beast roars and stamps the ground. Akane's outfit completion of change to priest-style combat gear. Hair and clothes sway violently from the wind pressure.
+
+00:08–00:10
+The darkness in front splits. The camera moves at high speed close to the ground into the darkness, enters the feet of the Ghost King, looks up along the greatsword to show the horns and eyes, and finally looks up at the entire body. The Ghost King slowly walks out dragging the greatsword. The stone floor cracks, and black flames and red sparks scatter.
+Ghost King's dialogue:
+'Do you think you can stop me with that level of power?'
+
+00:10–00:12
+High-speed pan from Akane's profile to the beast. The camera tracks alongside the beast, circling in front halfway to show the charge approaching from the front. Akane holds the spirit blade and points forward. The beast crouches low and charges all at once toward the Ghost King.
+Akane's dialogue:
+'Go!'
+
+00:12–00:14
+The camera circles to the Ghost King's side, showing the greatsword swing from a super low angle. At the moment of impact, insert a strong impact like a freeze frame for a moment, then move violently. The Ghost King swings down a hit clad in black flames. The beast is hit head-on and blown away. The stone floor shatters, rubble scatters, and a strong shockwave of black flames spreads.
+Ghost King's dialogue:
+'Too slow.'
+
+00:14–00:16
+The camera is washed away significantly following the blown-away beast, showing the shattered floor and dancing rubble while turning back to Akane. Akane gasps at the impact and almost kneels for a moment. Clear hit marks remain on the beast's shoulder and flank. These marks will remain in subsequent cuts.
+
+00:16–00:18
+The camera rapidly approaches Akane's face, capturing the determination in her eyes, then drops to the seal on her chest. Akane grits her teeth and recovers, forming a seal again. The weakening summoning circle lights up again, and a red-gold spiritual line extends from Akane to the beast. Show the collapsed torii and altar ruins again.
+Akane's dialogue:
+'It's not over yet... Stand up, Divine Beast! Let's fight together!'
+
+00:18–00:21
+The camera pushes in a straight line from behind Akane to the beast, then orbits nearly 360 degrees around the beast. The beast roars and stands up while keeping the hit marks. The red-gold glow of the whole body intensifies, and the mane stands up as if burning. Akane also readies her spirit blade. Strongly show the resonance between Akane and the beast.
+Akane's dialogue:
+'Crush that arrogance to pieces!'
+
+00:21–00:23
+The camera orbits the side of the Ghost King at high speed while following the beast's lateral movement. The beast circles to the side of the Ghost King at high speed
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083781222761967616/img/lZef8jpuxt5V3niS.jpg" width="600" alt="Seedance 2.5 Anime Battle PV">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8458)**
+
+**Tác giả:** [雨雲(Amagumo)806 ｜ AI Animer](https://x.com/ai_animer) | **Nguồn:** [Link](https://x.com/ai_animer/status/2083787606651789703) | **Đã xuất bản:** Aug 2, 2026
+
+---
 ### One-Shot Thành Phố Thần Thoại Sử Thi
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -2322,1358 +3580,6 @@ Một cảnh quay điện ảnh liền mạch dài 15 giây về một nữ nh�
 **Tác giả:** [Filschics](https://x.com/MathisYanis) | **Nguồn:** [Link](https://x.com/MathisYanis/status/2083637120883728546) | **Đã xuất bản:** Aug 1, 2026
 
 ---
-### Phỏng vấn Nghiên cứu Phim tài liệu Khoa học
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) theo phong cách phim tài liệu chuyên nghiệp, ghi lại cảnh một nhà khoa học chuẩn bị cho buổi phỏng vấn trong phòng thí nghiệm, chú trọng vào hành vi con người chân thực và ngôn ngữ điện ảnh.
-
-#### 📝 Prompt
-
-```
-Tạo một video phỏng vấn theo phong cách phim tài liệu quan sát chân thực dài 15 giây bên trong một phòng thí nghiệm nghiên cứu khoa học hiện đại. Video cần mang lại cảm giác như những thước phim hậu trường chân thực được quay bởi một ê-kíp làm phim tài liệu chuyên nghiệp, nhấn mạnh vào tính hiện thực, sự tinh tế và hành vi tự nhiên của con người. Một nữ nhà khoa học tài năng với mái tóc sẫm màu búi thấp thoải mái, đeo kính gọng chữ nhật màu đen mảnh, mặc áo blazer tối màu khoác ngoài áo sơ mi trung tính đang chuẩn bị cho một buổi phỏng vấn quan trọng. Giữ nguyên đặc điểm khuôn mặt, kiểu tóc, trang phục, tỷ lệ cơ thể và phụ kiện của cô ấy trong suốt toàn bộ phân cảnh. Kết cấu da chân thực, các khuyết điểm tự nhiên và chi tiết khuôn mặt sống động. 0–3 giây: Cảnh phỏng vấn cố định ở ngang tầm mắt với ống kính 50mm. Cô ấy lặng lẽ bước vào khung hình, nhẹ nhàng kéo ghế, ngồi xuống, vuốt phẳng áo blazer, chỉnh lại dây micro cài áo và hít thở bình tĩnh. Mọi cử động đều chậm rãi, có chủ đích và nhịp điệu tự nhiên. 3–7 giây: Cô ấy điều chỉnh tư thế, hơi xoay vai ra sau, đẩy nhẹ gọng kính bằng một ngón tay, đan tay vào lòng, nhìn xuống một chút rồi giữ trạng thái tĩnh lặng hoàn toàn. Chỉ có những cái chớp mắt nhẹ, nhịp thở tinh tế và các biểu cảm vi mô chân thực. 7–11 giây: Chuyển sang góc quay qua vai (over-the-shoulder) để lộ môi trường quay phim. Một đèn softbox lớn, chân máy quay, xe đẩy màn hình, micro và thiết bị khoa học hiện rõ trong phòng thí nghiệm với ánh sáng dịu nhẹ. Cô ấy vẫn giữ vẻ điềm tĩnh và bất động trong khi máy quay lặng lẽ quan sát. 11–15 giây: Trở lại khung hình phỏng vấn ban đầu với cú máy đẩy chậm (slow push-in) gần như không thể nhận ra. Cô ấy hít một hơi có kiểm soát, từ từ ngước mắt nhìn vào ống kính, duy trì giao tiếp bằng mắt kiên định, nở một biểu cảm tự tin nhẹ nhất và khẽ nói: "Được rồi. Tôi đã sẵn sàng." Giữ ánh nhìn của cô ấy cho đến khung hình cuối cùng. Ánh sáng dịu, tự nhiên và được tạo ra từ các nguồn sáng thực tế với bầu không khí phòng thí nghiệm tông lạnh. Bảng màu trung tính, độ phơi sáng chân thực, độ sâu trường ảnh tự nhiên, các rung động nhẹ kiểu cầm tay và ngôn ngữ máy quay phim tài liệu đích thực. Âm thanh chỉ bao gồm tiếng ồn tự nhiên của căn phòng: tiếng quạt thông gió, tiếng thiết bị từ xa, tiếng vải cọ xát, tiếng kéo ghế, tiếng thao tác micro, tiếng thở nhẹ và lời thoại rõ ràng được thu âm cận cảnh. Không có nhạc nền.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083626902733119488/img/WCX8rQL5NNWnGmQ5.jpg" width="600" alt="Phỏng vấn Nghiên cứu Phim tài liệu Khoa học">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8280)**
-
-**Tác giả:** [Saul Goodman](https://x.com/Goodmanprotocol) | **Nguồn:** [Link](https://x.com/Goodmanprotocol/status/2083626947800961262) | **Đã xuất bản:** Aug 1, 2026
-
----
-### Cuộc phục kích của Inferno Hot-Rod
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một phân cảnh hành động điện ảnh siêu thực, đầy kịch tính với chiếc xe hot-rod bọc thép tương lai đang thoát khỏi cuộc phục kích giữa vùng đất hoang dung nham rực lửa.
-
-#### 📝 Prompt
-
-```
-Cuộc phục kích của Inferno Hot-Rod. Phân cảnh hành động điện ảnh siêu thực, 15 giây, tỷ lệ khung hình 16:9. Chủ thể chính là một chiếc hot-rod bọc thép tương lai. Xe được độ cực chất, gầm thấp và hầm hố, với thân vỏ bọc thép dày, giá gắn vũ khí ẩn, tháp súng đôi tích hợp, súng máy gắn bên hông, piston lộ thiên, khe tản nhiệt, ống xả, tấm kim loại tán đinh, buồng lái kín với kính chắn đạn, decal hình ngọn lửa cùng các họa tiết màu cam đậm, đỏ, đen nhám và trắng. Bối cảnh là vùng đất hoang rực lửa ảm đạm với mặt đất nứt nẻ dung nham, các cấu trúc công nghiệp đổ nát, bụi, khói và bầu trời màu cam đỏ đầy giông bão. Mục tiêu rất đơn giản: chiếc hot-rod phải phá tan cuộc phục kích chết người và thoát khỏi con đường đang sụp đổ. Hành động bắt đầu với cảnh chiếc hot-rod gầm rú lao đi với tốc độ cao trên vùng đất nứt nẻ dung nham, lốp xe bắn ra tia lửa và bụi. Hơi nóng bốc lên từ mặt đất. Khi xe lao qua tàn tích của một nhà máy lọc dầu cũ, một chốt chặn cơ khí ẩn bất ngờ trồi lên từ mặt đất phía trước, và các tháp súng tự động bung ra từ đống đổ nát ở cả hai bên. Chiếc hot-rod đánh lái mạnh vào một cú powerslide dữ dội khi những phát đạn đầu tiên xé toạc mặt đường. Các tháp súng đôi ẩn trên thân xe trồi lên và bắn trả. Súng máy bên hông khai hỏa từng đợt ngắn, bắn nát một tháp súng thành những tia lửa và mảnh kim loại.
-
-Chiếc xe lấy lại thăng bằng, lao vọt về phía trước, rồi con đường nứt nẻ dung nham bắt đầu tách ra ngay trước mặt. Phân cảnh trở nên cao trào. Một mảng đường lớn sụp đổ xuống khe nứt dung nham rực sáng. Chiếc hot-rod nhấn ga hết cỡ, nhảy qua đoạn đường đứt gãy, tiếp đất mạnh và đâm xuyên qua chốt chặn cơ khí trong khi lửa, mảnh vụn và kim loại vỡ tung tóe xung quanh. Một tấm ốp bên hông cày xước tạo ra tia lửa trên đống đổ nát, nhưng chiếc xe vẫn tiếp tục lao về phía trước. Cuối cùng, chiếc hot-rod thoát khỏi khu vực phục kích và lao qua làn khói cùng ánh than hồng, trong khi nhà máy lọc dầu đổ nát phía sau bùng nổ lần hai và con đường dung nham nứt nẻ tiếp tục sụp đổ.
-
-Phong cách: siêu thực, điện ảnh, cường độ cao, hầm hố, tối tăm và tâm trạng, mang cảm giác biên tập ô tô đẳng cấp, góc quay thấp ba phần tư đầy năng lượng, hành động rõ ràng dễ theo dõi, chỉ một phương tiện anh hùng duy nhất, không có thêm xe anh hùng khác, chiếc hot-rod phải luôn là ngôi sao, kỹ thuật quân sự dieselpunk bọc thép bóng bẩy, không khí vùng đất hoang rực lửa, khói, tàn tro, bóng đổ đậm, phản chiếu tinh tế trên các bề mặt bụi bặm hoặc bị nung nóng, không văn bản, không logo, không phong cách hoạt hình, không quay chậm, không có khuôn mặt tài xế nổi tiếng, không giống người nổi tiếng. Giữ đúng tỷ lệ. Giữ đúng phong cách và các đặc điểm. Tỷ lệ khung hình 16:9.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083620754352943104/img/Zsdzjjj8jah0XUK0.jpg" width="600" alt="Cuộc phục kích của Inferno Hot-Rod">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8290)**
-
-**Tác giả:** [DeCat](https://x.com/DeCat2025) | **Nguồn:** [Link](https://x.com/DeCat2025/status/2083620939518927027) | **Đã xuất bản:** Aug 1, 2026
-
----
-### Savanna FPV Drone Cheetah Hunt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An intense, high-speed FPV drone shot capturing a cheetah hunting an impala in the African savanna with realistic documentary-style camera effects.
-
-#### 📝 Prompt
-
-```
-One CONTINUOUS FPV drone shot, no cuts, one unbroken take, EXTREME real-time speed. The footage NEVER reverses or plays backward. NO slow motion except one half-second beat at the reveal, then an instant snap back to full speed. Photoreal point-blank FPV framing. GROUND LOCK: the animals stay on the ground at all times — NOTHING rises into the sky, ever. The camera flies LOW, at grass and knee height, its only altitude change one downward drop off the riverbank. NO ESCAPE, no fade to black — the take runs until time runs out, still inside the chaos.
-
-CINEMATIC CAPTURE: real FPV drone footage — ultra-wide 14mm lens, barrel distortion, 180-degree shutter, heavy motion blur on fast pans, fine 35mm grain, lens flares off the low sun, dust and water hitting the lens. Golden-hour light under a bruised storm sky, one shaft of low gold raking the plain, a living savannah, herds and birds throughout. Grade: dry ochre and bleached gold, documentary contrast — the texture of a BBC nature documentary from a racing drone, NOT a game engine, NOT animation.
-
-The shot opens ALREADY at full speed, skimming grass tips inches behind a sprinting cheetah at 110 km/h, claws throwing dirt at the lens. Ahead — seen ONLY from behind and flank, NEVER its face — an impala jinks hard right; the camera BANKS 90 degrees with it, tearing sideways through grass as guinea fowl burst around the lens. The impala zigzags; the camera snaps left, right, left with each cut, the cheetah's shoulder filling frame. Ahead a zebra herd grazes; the two tear into it and the herd EXPLODES — zebras rear, wheel and bolt in every direction, throwing a wall of dust. The camera stays LOW and threads THROUGH the stampede at knee height, swerving between hammering legs and striped bodies, dust raking the lens, then bursts out the far side back onto the cheetah's tail. Ahead a SHALLOW RIVER CHANNEL cuts the plain — muddy water, black mud. The impala plunges in; the camera drops VERTICALLY off the bank lip after it, out across the water, spray hitting the lens. THE ENTIRE CLIMAX HAPPENS HERE, IN THE WATER AND MUD — the channel never leaves frame. THE REVEAL: half-second slow motion — the cheetah at full stretch in its final lunge, low and flat over the shallows, claws out, seen from behind — then an INSTANT SNAP back to full speed. The paw hooks the flank at an angle; both crash sideways into the shallows, muddy water erupting, the camera driving THROUGH the splash, orbiting tight and low as they thrash, bodies soaked black. The jaws lock; the cheetah drags the kill through the mud, water streaming off its coat, the camera circling recklessly close. It plants its feet in the water over the body, flanks heaving with ragged open-mouthed panting, and lets rip a HIGH, PIERCING CHEETAH YOWL — a rasping chirp-scream breaking into a snarl and hiss, teeth bared, NO
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083611701795262464/img/jkkFNlDS4RSIIF0-.jpg" width="600" alt="Savanna FPV Drone Cheetah Hunt">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8376)**
-
-**Tác giả:** [Syed Abuthahir ∞](https://x.com/abulu8) | **Nguồn:** [Link](https://x.com/abulu8/status/2083613256460161332) | **Đã xuất bản:** Aug 1, 2026
-
----
-### UFO Crash Forest Escape
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một phân cảnh hành động khoa học viễn tưởng kịch tính về một phi công người ngoài hành tinh bị thương đang cố gắng thoát khỏi xác tàu UFO đang bốc cháy trong khu rừng tối dưới ánh đèn rọi của quân đội.
-
-#### 📝 Prompt
-
-```
-Phân cảnh hành động khoa học viễn tưởng điện ảnh siêu thực, 15 giây, tỷ lệ khung hình 16:9.
-
-Đêm trong một khu rừng rậm tối tăm. Một chiếc UFO bị hư hại đâm xuyên qua các tán cây và va chạm mạnh xuống mặt đất. Chỉ có một phi công người ngoài hành tinh. Phi công này bị thương nhưng vẫn còn tỉnh táo và phải thoát khỏi xác tàu trước khi con tàu phát nổ. Bối cảnh đơn giản và rõ ràng: cây cao, bùn đất, cành cây gãy, khói, lửa, đèn tàu nhấp nháy và ánh đèn rọi của quân đội quét qua lại giữa các thân cây từ sâu trong rừng.
-
-Hành động bắt đầu với cảnh UFO xé toạc các tán cây và đâm mạnh xuống nền rừng. Đất đá, tia lửa và gỗ vụn bắn tung tóe. Chiếc đĩa bay trượt đến khi dừng lại ở một góc, nửa chìm trong bùn, một bên thân tàu đang phát sáng và nhấp nháy đầy nguy hiểm. Một cửa sập bung ra và phi công người ngoài hành tinh bò ra khỏi xác tàu, yếu ớt và loạng choạng. Phía sau người ngoài hành tinh, chiếc UFO bị hư hại bắt đầu phát nổ theo từng đợt, không phải một vụ nổ lớn duy nhất mà là những đợt lửa, tia lửa và áp suất từ bên trong thân tàu liên tục bùng phát. Mỗi đợt nổ hất văng các mảnh vỡ ra ngoài và làm bừng sáng cả khu rừng. Người ngoài hành tinh cố gắng di chuyển vào trong các tán cây, nhưng ánh đèn rọi của quân đội bắt đầu quét qua khu rừng và lướt qua xác tàu. Người ngoài hành tinh nấp sau một khúc gỗ hoặc rễ cây đổ khi một đợt nổ khác tác động vào con tàu và một tấm bảng đang cháy bắn vào khu rừng gần đó.
-
-Các ánh đèn rọi ngày càng tiến gần hơn qua làn khói. Gần cuối, chiếc UFO phát ra một xung lực mạnh hơn và bắt đầu vỡ vụn. Người ngoài hành tinh thực hiện một nỗ lực tuyệt vọng, tập tễnh hoặc loạng choạng đi sâu hơn vào trong rừng và biến mất sau những tán cây dày hơn ngay khi con tàu bùng nổ lần cuối, làm cả khu rừng sáng rực màu trắng trong chốc lát. Kết thúc với cảnh người ngoài hành tinh ẩn mình trong bóng tối giữa các tán cây trong khi xác tàu vẫn đang cháy phía sau và ánh đèn rọi tiếp tục quét qua làn khói.
-
-Phong cách: siêu thực, điện ảnh, tối tăm, kịch tính, hành động rõ ràng dễ theo dõi, chỉ có một phi công người ngoài hành tinh, chỉ có một chiếc UFO bị rơi, chỉ có một khu rừng, một mục tiêu rõ ràng, tàu đang rơi, các vụ nổ theo nhịp, khói, lửa, cây cối đổ nát, ánh đèn rọi quân đội quét qua, không có thêm binh lính trên màn hình, không có trận chiến không gian, không có văn bản, không có logo, không có phong cách hoạt hình, không có chuyển động chậm, không có khuôn mặt người nổi tiếng, không có diễn viên dễ nhận biết, không có sự tương đồng với ngôi sao điện ảnh, không có hình ảnh người của công chúng. Giữ nguyên tỷ lệ. Giữ nguyên phong cách và các đặc điểm. Tỷ lệ khung hình 16:9.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083608310771507200/img/mKnAfhoz12eTvGKN.jpg" width="600" alt="UFO Crash Forest Escape">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8284)**
-
-**Tác giả:** [DeCat](https://x.com/DeCat2025) | **Nguồn:** [Link](https://x.com/DeCat2025/status/2083608668369482208) | **Đã xuất bản:** Aug 1, 2026
-
----
-### Cảnh quán ăn Mỹ trong thời gian ngưng đọng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt phức tạp gồm nhiều cảnh quay cho bối cảnh quán ăn thập niên 1950, kết hợp hiệu ứng thời gian ngưng đọng, vật lý chất lỏng và tua ngược thời gian.
-
-#### 📝 Prompt
-
-```
-Quán ăn Mỹ thập niên 1950 phong cách điện ảnh chân thực, ghế đẩu mạ crôm, ghế bọc nhựa đỏ, ánh sáng neon và sàn nhà kẻ ô bàn cờ, được quay với độ chân thực hiện đại và ánh sáng cửa sổ tự nhiên dịu nhẹ. Kết cấu cầm tay tinh tế, ánh sáng thực tế ấm áp, chi tiết thời kỳ phong phú, hạt phim dày.
-0-2s: [Trung cảnh rộng] Một cô gái trẻ nổi bật ngồi một mình tại quầy, bình tĩnh nhấp một ngụm sữa lắc. Phía sau cô, một nữ phục vụ tiến lại với khay trứng, thịt xông khói và bình cà phê. Một quý bà lớn tuổi bắt đầu đứng dậy từ chiếc bàn gần đó.
-2-5s: [Theo dõi động] Quý bà lớn tuổi va vào nữ phục vụ. Khay, đĩa, trứng và cà phê bắn tung lên theo những dải chất lỏng chuyển động chậm và các giọt nước lơ lửng. Máy quay xoay quanh điểm va chạm. Thời gian khóa lại ở đỉnh điểm. Mọi khuôn mặt đều đóng băng trong sự kinh ngạc. Chỉ có cô gái tại quầy vẫn tiếp tục di chuyển, không hề nao núng.
-5-11s: [Quay chậm 360°] Máy quay lướt qua quán ăn đang ngưng đọng. Cà phê treo lơ lửng như những dải thủy tinh, thức ăn bay bổng không trọng lượng, thực khách bị khóa chặt trong biểu cảm giật mình. Cô gái nhấp một ngụm chậm rãi, đôi mắt khép hờ, trong khi thế giới đóng băng tua ngược từng giọt nước và con người trở về trạng thái ban đầu.
-11-13s: [Trung cảnh] Cảnh tua ngược hoàn tất hoàn hảo. Nữ phục vụ đứng vững trở lại. Cô gái giơ hai ngón tay, khẽ gọi tên cô ấy. Nữ phục vụ quay lại đúng lúc quý bà lớn tuổi bắt đầu đứng dậy, tránh được va chạm. Một nụ cười nhỏ thoáng qua trên khuôn mặt cô gái.
-13-15s: [Cận cảnh đặc tả] Cắt nhanh sang khuôn mặt cô, một ngụm cuối chậm rãi, nụ cười nhẹ nhàng đầy ẩn ý, đôi mắt gần như nhắm lại. Độ sâu trường ảnh nông, hiệu ứng bokeh neon mờ ảo phía sau.
-Chân thực, vật lý chất lỏng chi tiết cực cao, hiệu ứng nhòe chuyển động hoàn hảo chỉ trên các yếu tố chuyển động, nhân vật ổn định, ánh sáng điện ảnh, hạt phim tự nhiên dày, không có lỗi hình ảnh, tính nhất quán về thời gian ở cấp độ phim điện ảnh.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083600012697903104/img/6q22RQ-V4Yi7XNQX.jpg" width="600" alt="Cảnh quán ăn Mỹ trong thời gian ngưng đọng">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8286)**
-
-**Tác giả:** [𝐌](https://x.com/Strength04_X) | **Nguồn:** [Link](https://x.com/Strength04_X/status/2083600094906187999) | **Đã xuất bản:** Aug 1, 2026
-
----
-### Hình ảnh trực quan kiến trúc Hanok Hàn Quốc
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt cho Seedance 2.0 để tạo hình ảnh trực quan 3D về một ngôi nhà Hanok truyền thống của Hàn Quốc với các lớp phủ kỹ thuật.
-
-#### 📝 Prompt
-
-```
-Tạo một video trực quan kiến trúc 3D đậm chất điện ảnh về một ngôi nhà Hanok truyền thống của Hàn Quốc trên nền bản vẽ kỹ thuật. Hiển thị mái ngói Giwa cong màu tối, các dầm gỗ lộ ra ngoài, nền đá cao, cửa trượt Hanji và ban công gỗ. Thêm các sơ đồ kiến trúc màu xanh lam, số đo, mặt bằng tầng và các lớp phủ mặt cắt ngang. Sử dụng chuyển động camera xoay mượt mà từ góc nhìn ngang sang góc nhìn chính diện, kết hợp hiệu ứng ánh sáng quét cầu vồng đầy màu sắc làm nổi bật phần mái và các khớp nối gỗ. Ánh sáng nội thất ấm áp tạo nên bầu không khí yên bình, thanh lịch trong khi vẫn làm nổi bật cấu trúc và các chi tiết thiết kế.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083585790211469312/img/a_yDK--1ZwQpknhr.jpg" width="600" alt="Hình ảnh trực quan kiến trúc Hanok Hàn Quốc">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8262)**
-
-**Tác giả:** [NoorAI](https://x.com/noorwithwifi) | **Nguồn:** [Link](https://x.com/noorwithwifi/status/2083585853625131353) | **Đã xuất bản:** Aug 1, 2026
-
----
-### Trận chiến thành trì giả tưởng đen tối
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) giả tưởng đen tối đầy sử thi về trận chiến quy mô lớn với người khổng lồ bằng đá và các sinh vật vực thẳm tại một thành trì cổ đại.
-
-#### 📝 Prompt
-
-```
-Trận chiến giả tưởng đen tối nguyên bản siêu thực tại tàn tích của một thành trì cổ đại vào ban đêm. Một người khổng lồ bằng đá sống trỗi dậy giữa những tòa tháp đổ nát trong khi đàn sinh vật vực thẳm có cánh lao qua làn khói dưới ánh trăng và hàng ngàn chiến binh đang giao tranh bên dưới. \n0–4s: cú máy toàn cảnh từ trên không hé lộ thành phố đổ nát, người khổng lồ trồi lên qua lớp bụi, quái vật có cánh bay lượn phía trên, lửa cháy giữa những bức tường vỡ. \n4–9s: quay quanh người khổng lồ khi nó vung cánh tay khổng lồ vào không trung, hất văng những kẻ tấn công, làm sập các mái vòm bằng đá, khiến mảnh vụn văng khắp chiến trường trong khi binh lính chạy bên dưới nó. \n9–15s: sự leo thang điện ảnh nhanh chóng khi các sinh vật có cánh lao xuống với tốc độ tối đa, người khổng lồ chộp lấy một con từ trên không và đập nó vào đống đổ nát, sóng xung kích của bụi và gạch đá lan rộng khắp khung cảnh. \n\nĐen tối, tàn bạo, hùng vĩ, chân thực như ảnh chụp, năng động, quy mô lớn, ánh trăng, khói, tia lửa, gạch đá rơi, bầu không khí giả tưởng tận thế.
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2083568435351457792/pu/img/YrKWIjxswp6bipid.jpg" width="600" alt="Trận chiến thành trì giả tưởng đen tối">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8267)**
-
-**Tác giả:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **Nguồn:** [Link](https://x.com/CharaspowerAI/status/2083568463197381087) | **Đã xuất bản:** Aug 1, 2026
-
----
-### Hài kịch bóng hình anh hùng cắt giấy
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Một kịch bản video sáng tạo kết hợp nhân vật cắt giấy 2D với hậu trường sân khấu opera chân thực, sử dụng bóng đổ để tạo nên sự đảo ngược quy mô đầy hài hước.
-
-#### 📝 Prompt
-
-```
-[Phong cách tổng thể]
-Hài kịch phong cách cổ trang đậm chất điện ảnh. Kết hợp hậu trường sân khấu opera truyền thống đời thực với nhân vật sticker 2D phong cách Chibi phẳng. Tập trung vào hiệu suất được hướng dẫn bởi tham chiếu Seedance 2.0, ánh sáng và bóng đổ có thể kiểm soát, cùng sự tương tác vật lý ổn định. Sử dụng thẩm mỹ võ thuật tiết chế, ánh sáng đèn lồng màu hổ phách ấm áp đối lập với bóng tối hậu trường lạnh lẽo, các lớp màn che và hình bóng đồ họa để xây dựng một câu chuyện hài hước về một nhân vật nhỏ bé đang tự đạo diễn hình tượng anh hùng của chính mình.
-
-[Thiết lập nhân vật]
-ID chủ thể: Nữ võ sĩ Chibi. Một nữ nhân vật Chibi Đông Á từ 19-23 tuổi. Đầu tròn chiếm 57% chiều cao cơ thể. Da màu đào nhạt phẳng, mắt chấm tròn màu nâu sẫm, miệng nhỏ tự tin. Tóc đen búi cao hình tròn với tua rua đỏ. Mặc bốt trắng, quần legging đen, áo choàng opera lụa đỏ viền vàng, đai ngọc và một thanh kiếm thẳng mini. Duy trì phong cách Cel-shading, đường viền mực đậm và độ sâu phẳng của sticker xuyên suốt.
-
-[Cảnh 1 | 0-5 giây | Cảnh toàn]
-Camera cố định với cú dolly-in chậm. Thiết lập hậu trường opera chân thực với các thanh gỗ, trang phục đỏ, móc đồng, hộp nhạc cụ, màn che mờ và một chiếc đèn lồng đặt trên sàn. Toàn thân cô đứng cạnh đèn lồng trong khi cái bóng khổng lồ của cô bao phủ toàn bộ tấm màn.
-
-[Cảnh 2 | 5-10 giây | Cảnh trung (Cowboy Shot)]
-Camera di chuyển ngang. Nhân vật Chibi mặc áo choàng thực hiện chuỗi động tác kiếm ba nhịp gọn gàng—bước, xoay, chém. Đồng thời, một bàn tay người thật đẩy đèn lồng về phía trước, khiến bóng của cô phóng đại thành hình bóng nữ anh hùng cao lớn. Chuyển động của tay áo và thanh kiếm được đồng bộ hóa hoàn hảo với cái bóng. Âm thanh vải vóc, tiếng bước chân và tiếng trống opera trầm hùng nhấn mạnh hành động.
-
-[Cảnh 3 | 10-15 giây | Cảnh cận]
-Vẫn là nhân vật đó và hậu trường dưới ánh đèn lồng. Bàn tay người vô tình kéo đèn lồng lại, khiến cái bóng khổng lồ thu nhỏ lại thành một điểm tí hon. Cô dừng lại, nheo đôi mắt chấm tròn và dùng thanh kiếm mini móc vào vòng đèn lồng, kéo nó lại để khôi phục hình bóng khổng lồ. Cô duy trì tư thế trang nghiêm nhưng liếc nhìn về phía camera đầy kiêu hãnh. Kết thúc bằng sự tương phản sắc nét giữa cơ thể phẳng tí hon và cái bóng khổng lồ.
-
-[Yêu cầu kỹ thuật]
-Khung hình dọc 9:16, chi tiết điện ảnh 8K. Sử dụng một tham chiếu nhân vật cố định, một tham chiếu cảnh thực và một tham chiếu âm thanh. Vật lý bóng đổ chân thực, không có lời thoại, không có nhân vật động vật.
-
-[Prompt phủ định]
-mờ, chất lượng kém, chất lượng thấp, độ phân giải thấp, nhiễu, lỗi nén jpeg, hình mờ, văn bản, lỗi; biến dạng, đột biến, giải phẫu xấu, bàn tay vẽ lỗi, bố cục xấu, ngoài khung hình, dị dạng; nhân vật không nhất quán, thay đổi quần áo, biến dạng khuôn mặt, thay đổi nền, cắt cảnh bị lỗi, đạo cụ biến mất
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083558836112064512/img/-ZLYT7FiYIeIDrUR.jpg" width="600" alt="Hài kịch bóng hình anh hùng cắt giấy">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8304)**
-
-**Tác giả:** [Soran](https://x.com/Soranlan) | **Nguồn:** [Link](https://x.com/Soranlan/status/2083560099503612083) | **Đã xuất bản:** Aug 1, 2026
-
----
-### Vlog selfie tại cửa hàng đồ cũ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video vlog selfie bằng điện thoại siêu thực tế, mô phỏng trải nghiệm quay cầm tay chân thực khi ghé thăm cửa hàng đồ cũ.
-
-#### 📝 Prompt
-
-```
-Một video vlog selfie bằng điện thoại thông minh trông chân thực như một bản ghi hình từ điện thoại di động ngoài đời thực. Một cô gái trẻ (hình ảnh = khuôn mặt và mái tóc của cô ấy) ghé thăm một cửa hàng đồ cũ ấm cúng vào một buổi chiều đầy nắng, tự mình quay lại mọi thứ bằng điện thoại cầm tay ở chế độ selfie. Video có độ rung lắc tự nhiên, lấy nét tự động chân thực, thay đổi độ phơi sáng nhẹ, tính năng chống rung trên điện thoại thông minh và màu sắc sống động như thật. Cô mỉm cười với camera và nói: "Thử thách cửa hàng đồ cũ hôm nay—mình chỉ mua món đồ dễ thương đầu tiên mà mình tìm thấy!" Cô đi bộ qua những giá treo quần áo cổ điển đầy màu sắc, các kệ phụ kiện, thú nhồi bông và đồ trang trí nhà cửa cho đến khi bắt gặp một chiếc mũ quá khổ ngẫu nhiên trông rất đáng yêu. Cô bật cười, lập tức thử nó trước gương, tạo những dáng vẻ hài hước và cười phá lên một cách tự nhiên vì trông mình thật ngốc nghếch. Cô quyết định mua nó, bước ra khỏi cửa hàng với chiếc túi mua sắm nhỏ trên tay, tự hào khoe món đồ bất ngờ tìm được với camera, mỉm cười rạng rỡ, vẫy tay và nói: "Hẹn gặp lại các bạn trong vlog tiếp theo nhé. Tạm biệt!" trước khi đưa tay về phía điện thoại để dừng quay. Video phải mang lại cảm giác hoàn toàn chân thực với chuyển động tự nhiên của con người, các đặc điểm khuôn mặt nhất quán, tương tác tay thực tế, ánh sáng cửa hàng đồ cũ chân thực, không sử dụng bộ lọc làm đẹp, không CGI, không có vẻ ngoài bóng bẩy kiểu AI, không phụ đề, không logo, không hình mờ và không nhạc nền—chỉ có âm thanh thực tế của cửa hàng, tiếng bước chân, những cuộc trò chuyện khẽ, tiếng vải cọ xát và âm thanh môi trường tự nhiên.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083554331719258112/img/VommHAIkL2f5T22m.jpg" width="600" alt="Vlog selfie tại cửa hàng đồ cũ">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8265)**
-
-**Tác giả:** [Aqsa](https://x.com/Aqsahere_) | **Nguồn:** [Link](https://x.com/Aqsahere_/status/2083554590021026204) | **Đã xuất bản:** Aug 1, 2026
-
----
-### Seedance 2.0: Hài kịch nhà bếp điện ảnh
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Một video prompt đa cảnh thông minh dành cho Seedance 2.0, kể về cuộc gặp gỡ hài hước giữa một 'Kiếm Tiên' và hũ tương ớt cứng đầu trong bối cảnh nhà bếp hiện đại, kết hợp thẩm mỹ võ hiệp với phong cách hài hước tỉnh bơ.
-
-#### 📝 Prompt
-
-```
-[Chế độ tạo video]
-
-Seedance 2.0 Fast
-
-[Thông số kỹ thuật video]
-
-Yêu cầu tạo video dài đúng 15 giây, tỷ lệ khung hình 16:9, gồm ba cảnh quay rõ ràng.
-
-[Phong cách tổng thể]
-
-Chất lượng điện ảnh chân thực, phong cách hài hước tỉnh bơ đời thường, sử dụng ngôn ngữ hình ảnh võ hiệp tinh tế, nhịp độ phản ứng kiểu phim câm chính xác, ánh sáng nhà bếp ấm áp, chất liệu thủy tinh và kim loại chân thực; sự hài hước tuân theo chuỗi nguyên nhân - kết quả rõ ràng: sức mạnh siêu nhiên áp đảo cuối cùng lại thua cuộc trước lẽ thường đơn giản.
-
-[Nhân vật]
-
-Nhân vật A | Kiếm Tiên
-
-Sử dụng @Image1 làm tham chiếu nghiêm ngặt về danh tính và trang phục cho Nhân vật A: cùng là người phụ nữ Đông Á 25-30 tuổi, giữ nguyên khuôn mặt, cấu trúc khuôn mặt trái xoan, đôi mắt nâu sẫm sắc sảo, làn da trắng tự nhiên, tóc đen dài thẳng, dáng người cao và mảnh khảnh, trâm cài tóc bằng ngọc, phụ kiện thắt lưng bạc, Hán phục lụa thêu trắng, tay áo rộng nhiều lớp xuyên thấu, váy dài thướt tha và giày vải trắng.
-
-Nhân vật B | Cô gái đi xe máy
-
-Sử dụng @Image2 làm tham chiếu nghiêm ngặt về danh tính và trang phục cho Nhân vật B: cùng là người phụ nữ Đông Á 25-30 tuổi, giữ nguyên khuôn mặt, tóc đuôi ngựa ngắn màu nâu, các đường nét trên khuôn mặt tròn trịa và biểu cảm, áo khoác vàng, quần jean xanh, giày thể thao trắng và bông tai bạc nhỏ.
-
-[Đạo cụ chính]
-
-Một hũ tương ớt thủy tinh được đóng chặt, cùng loại nắp kim loại, cùng một chiếc thìa kim loại và bảy thanh kiếm bay bạc thu nhỏ.
-
-[Cảnh 1 | 0-5s | Góc thấp, quay toàn cảnh, máy quay di chuyển chậm]
-
-Tỷ lệ 16:9, nhà bếp chung cư hiện đại vào ban đêm, đèn thả trần ấm áp, trời mưa tối bên ngoài cửa sổ, mặt bàn gỗ, bát gốm, thìa kim loại, thớt và rau củ có thể nhìn thấy rõ. Một hũ tương ớt thủy tinh được đóng chặt đặt ở trung tâm khung hình như một báu vật cổ xưa không được phép mở ra.
-
-Cô gái đi xe máy đẩy hũ tương ớt về phía Kiếm Tiên và nói: "Chị ơi, giúp em mở cái này với."
-
-Kiếm Tiên quan sát hũ tương ớt một cách nghiêm túc, hơi hếch cằm lên và bình tĩnh trả lời: "Chỉ là một phong ấn thôi mà."
-
-[Cảnh 2 | 5-10s | Cảnh trung cận]
-
-Kiếm Tiên trong bộ Hán phục lụa thêu trắng thực hiện động tác niệm chú bằng hai ngón tay một cách chính xác; bảy thanh kiếm bay bạc thu nhỏ xuất hiện cùng lúc, xoay quanh hũ thủy tinh và gõ vào nắp kim loại theo nhịp điệu.
-
-Mái tóc dài và tay áo rộng của cô bay lượn đầy kịch tính, bát gốm rung nhẹ, đèn trần đung đưa và tiếng trống hào hùng tăng dần, nhưng nắp hũ vẫn không hề nhúc nhích.
-
-Cô lặng lẽ tăng cường sức mạnh trong khi cố giữ vẻ mặt bình tĩnh; bối cảnh vẫn là nhà bếp và mặt bàn cũ.
-
-[Cảnh 3 | 10-15s | Cận cảnh đến cực cận]
-
-Cô gái đi xe máy thản nhiên cầm chiếc thìa kim loại lên, gõ nhẹ vào mép nắp một cái, một tiếng xì nhẹ của chân không vang lên từ bên trong hũ.
-
-Cô dễ dàng vặn nắp ra và nói: "Đây không phải phong ấn, đây là áp suất chân không."
-
-Bảy thanh kiếm bay cúi đầu xấu hổ.
-
-Cận cảnh: Một bên mí mắt của Kiếm Tiên khẽ giật; cô từ từ đưa tay ra sau lưng một lần nữa và bình tĩnh nói: "Kỹ thuật này... ta đã biết từ lâu rồi."
-
-Khung hình đóng băng ở khoảnh khắc cô gái đi xe máy nhìn cô đầy câm nín.
-
-[Yêu cầu kỹ thuật]
-
-Phải sử dụng Seedance 2.0 để tạo video dài đúng 15 giây.
-
-Ba cảnh quay rõ ràng, tỷ lệ 16:9, danh tính và trang phục nhân vật nhất quán, vật lý chân thực cho hũ tương ớt, nắp kim loại, thìa, tóc, vải lụa, độ rung và hiệu ứng ánh sáng. Tự động đồng bộ hóa lời thoại tiếng Quan Thoại và hiệu ứng âm thanh; không tạo phụ đề trên màn hình.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083551955683545088/img/ohEePjWq2ZtLTTga.jpg" width="600" alt="Seedance 2.0: Hài kịch nhà bếp điện ảnh">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8297)**
-
-**Tác giả:** [Soran](https://x.com/Soranlan) | **Nguồn:** [Link](https://x.com/Soranlan/status/2083552366335328749) | **Đã xuất bản:** Aug 1, 2026
-
----
-### Quy trình tạo video Búp bê Barbie với Đôi bàn tay khổng lồ
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Một câu lệnh tạo video cực kỳ chi tiết cho Seedance 2.0, mô phỏng phong cách video 'Get Ready With Me' (Cùng chuẩn bị với tôi) của búp bê Barbie khi được thao tác bởi những đôi bàn tay khổng lồ.
-
-#### 📝 Prompt
-
-```
-[Phong cách] Tạo hình Búp bê Barbie với Đôi bàn tay khổng lồ (GWRM), kết cấu video dọc trên điện thoại di động chân thực (9:16 Dọc, Ảnh thực tế), phong cách nữ tính màu hồng phổ biến trên Instagram, ánh sáng tự nhiên trong nhà. [Thời lượng] 15 giây. [Bối cảnh] Phòng khách thực tế: sàn gỗ sáng màu, tủ quần áo màu trắng, TV treo tường, ánh sáng tự nhiên từ cửa sổ chiếu vào từ một bên; nhân vật chính đứng trên sàn với tỷ lệ của một búp bê Barbie thực thụ, và đôi bàn tay vươn vào từ bên ngoài lớn hơn toàn bộ cơ thể cô ấy. [Nhân vật] Nhân vật chính @Image1 (một người thật được thu nhỏ theo tỷ lệ búp bê, duy trì kết cấu da và cơ thể thật, với sự cứng nhắc và do dự nhẹ của búp bê trong các chuyển động). [Cơ chế cốt lõi] Sự khác biệt về tỷ lệ: một đôi bàn tay khổng lồ (bàn tay người bình thường, nhưng khổng lồ so với nhân vật chính) liên tục đi vào khung hình để thay trang phục cho cô ấy—nhấc cô ấy lên, đặt xuống, cởi đồ, mặc đồ và ngồi xổm để thay giày; nhân vật chính hợp tác nhưng vẫn giữ tư thế đứng ngoan ngoãn như búp bê, cơ thể hơi đung đưa khi bị tác động. [Chú thích] Tiêu đề hoa viết tay màu hồng 'GWRM' ở trên cùng, văn bản nhỏ hơn 'Được tạo kiểu bởi Đôi bàn tay khổng lồ như Búp bê Barbie' ở dưới cùng, với các họa tiết nơ và ngôi sao màu hồng. [00:00-00:02] Mở đầu: Đặt nhân vật. Đôi bàn tay khổng lồ véo eo nhân vật chính để nhấc cô ấy từ ngoài khung hình vào, nhẹ nhàng đặt cô ấy xuống sàn gỗ; cô ấy mặc áo khoác pijama kẻ sọc hồng, áo hai dây trắng, quần short ren trắng và tất trắng, với mặt nạ ngủ màu hồng trên đầu; chân cô ấy đung đưa nhẹ khi chạm đất. [00:02-00:05] Bước 1: Cởi đồ. Những ngón tay khổng lồ nhấc mặt nạ mắt màu hồng lên; sau đó cả hai tay véo vào cổ tay áo khoác kẻ sọc hồng, kéo nó ra khỏi người cô ấy từ phía sau và ra khỏi khung hình; cô ấy chỉ còn lại áo hai dây và quần short ren, đang dụi mắt. [00:05-00:08] Bước 2: Cận cảnh chăm sóc da. Cận cảnh: những ngón tay khổng lồ thoa kem dưỡng da mặt màu trắng lên má cô ấy khi cô ấy nhắm mắt; sau đó một ngón tay giữ chiếc gương nhỏ màu hồng trước mặt cô ấy khi cô ấy nhìn vào và chỉnh tóc mái. [00:08-00:11] Bước 3: Mặc đồ. Quay lại cảnh toàn: bàn tay khổng lồ đặt chiếc áo trễ vai bèo nhún màu xanh lá cây qua đầu cô ấy; sau đó lấy một chiếc váy ngắn kẻ sọc hồng trắng và kéo lên eo cô ấy, vuốt phẳng các nếp nhăn. [00:11-00:13.5] Bước 4: Giày và tất. Cận cảnh mặt đất góc thấp: bàn tay khổng lồ kéo tất ren hồng lên chân cô ấy đến đầu gối; sau đó đặt đôi giày cao gót mũi nhọn màu đỏ tươi cạnh chân cô ấy, véo mắt cá chân cô ấy để xỏ từng chiếc vào giày, điều chỉnh gót giày bằng đầu ngón tay. [00:13.5-00:15] Kết thúc: Tư thế cuối cùng. Đôi bàn tay khổng lồ rời đi; nhân vật chính đứng một mình ở trung tâm, tạo dáng chống nạnh, xoay người và hất tóc, mỉm cười với máy quay; màn hình đóng băng ở trang phục hoàn chỉnh của cô ấy. [Hiệu ứng âm thanh] Nhạc nền phong cách Instagram nhẹ nhàng và ngọt ngào, kết cấu âm thanh thực tế của tiếng vải sột soạt, tiếng gót giày gõ và tiếng thoa kem; một tiếng 'ding' nhẹ cho mỗi lần thay trang phục, và một âm điệu kết thúc cao dần cho cảnh đóng băng cuối cùng.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083549201770659840/img/sXfISiWWG5_xlqL2.jpg" width="600" alt="Quy trình tạo video Búp bê Barbie với Đôi bàn tay khổng lồ">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8305)**
-
-**Tác giả:** [John](https://x.com/johnAGI168) | **Nguồn:** [Link](https://x.com/johnAGI168/status/2083549761328554048) | **Đã xuất bản:** Aug 1, 2026
-
----
-### Video hài hước Tiên hiệp về đảo ngược thời gian
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Một câu lệnh Seedance 2.0 đa cảnh chất lượng cao, tạo ra một phân cảnh hài hước theo phong cách Tiên hiệp, nơi một nữ kiếm khách sử dụng thuật đảo ngược thời gian để che giấu những lần thất bại liên tiếp khi thả chim đưa tin bằng giấy vào gió.
-
-#### 📝 Prompt
-
-```
-[Chế độ tạo]
-
-Seedance 2.0 Fast
-
-[Thông số kỹ thuật video]
-
-Yêu cầu tạo video dài đúng 15 giây, khung hình ngang 16:9, gồm ba cảnh quay rõ nét.
-
-[Phong cách tổng thể]
-
-Phim hài Tiên hiệp lặp lại đảo ngược đầy chất thơ với kết cấu điện ảnh độ phân giải cao chân thực. Sử dụng bố cục khoảng trắng cổ điển của Trung Hoa, diễn xuất hài hước kiểu tỉnh bơ (deadpan), ánh sáng buổi sáng dịu nhẹ, tông màu xanh mây mát mẻ và trắng ngà ấm áp, hạt phim mịn và lập trình chuyển động ngược chính xác. Thông qua ba nhịp điệu tăng dần, video mô tả một nữ kiếm tiên liên tục đảo ngược thời gian để che đậy một sai lầm nhỏ, được tối ưu hóa cho tính nhất quán của hình ảnh tham chiếu, quy hoạch đa ống kính mạch lạc, chuyển động thời gian phức tạp và đồng bộ hóa âm thanh - hình ảnh gốc của Seedance 2.0.
-
-[Nhân vật]
-
-ID nhân vật A | Sư tỷ Kiếm tiên
-
-Sư tỷ @Image 1, nữ giới Đông Á 25-30 tuổi, khuôn mặt trái xoan, da trắng, mắt hạnh, tóc đen dài buộc nửa đầu bằng trâm ngọc, dáng người cao gầy, mặc Hán phục lụa thêu trắng, tay áo rộng, đai lưng bạc, đeo ngọc bội và đi ủng trắng.
-
-ID nhân vật B | Sư muội
-
-Sư muội @Image 2, nữ giới Đông Á 20-25 tuổi, khuôn mặt linh hoạt, tóc đen tết bím, dáng người nhỏ nhắn, mặc Hán phục vải lanh màu xanh lá, trâm gỗ, tay cầm chuỗi hạt cầu nguyện bằng gỗ tối màu.
-
-[Đạo cụ chính]
-
-Một con chim đưa tin bằng giấy phát sáng xuất hiện xuyên suốt video.
-
-[Cảnh 1 | 0-5s | Toàn cảnh]
-
-Đài truyền tin trên núi phía trên biển mây với những cây thông cổ thụ và gió thổi mạnh từ trái sang phải. Sư tỷ tự tin thả con chim giấy vào gió; nó ngay lập tức bị thổi ngược lại và dính vào trán cô.
-
-[Cảnh 2 | 5-10s | Trung cảnh]
-
-Sư tỷ nhìn sư muội, lén lút xoay hai ngón tay để đảo ngược hoàn toàn hành động trước đó—con chim, khói, dải lụa và tóc đều chuyển động ngược cho đến khi con chim quay trở lại lòng bàn tay cô. Cô thả nó lần nữa; nó lượn vòng rồi lại dính vào trán cô. Sư muội vẫn im lặng, gảy một hạt cầu nguyện.
-
-[Cảnh 3 | 10-15s | Cận cảnh]
-
-Trước lần đảo ngược thời gian thứ hai, sư muội xoay con chim giấy hướng theo chiều gió và nói: 'Sư tỷ, tin nhắn nên đi theo chiều gió.' Sư tỷ thả nó lần nữa và nó bay đi. Cô thản nhiên đáp: 'Ta đang thử ngươi thôi.' Cận cảnh đặc tả: Sư muội gảy thêm hai hạt nữa và nói: 'Hừm, tỷ đã thử ba lần rồi đó.' Nụ cười gượng gạo của sư tỷ đông cứng lại.
-
-[Yêu cầu kỹ thuật]
-
-Phải sử dụng Seedance 2.0 Fast cho video dài đúng 15 giây. Khung hình ngang 16:9, ba cảnh quay, đối thoại tiếng Quan Thoại gốc, các lớp không gian rõ ràng cho gió và âm thanh đảo ngược, khuôn mặt/trang phục nhân vật ổn định, chuyển động chân thực cho lụa và hiệu ứng đảo ngược thời gian. Không phụ đề, chỉ có hai nhân vật và một con chim.
-
-[Câu lệnh phủ định]
-
-mờ, chất lượng kém, độ phân giải thấp, nhiễu, lỗi nén jpeg, hình mờ, văn bản, lỗi; biến dạng, đột biến, giải phẫu xấu, bàn tay vẽ lỗi, bố cục xấu, ngoài khung hình, biến dạng; nhân vật không nhất quán, thay đổi quần áo, biến đổi khuôn mặt, thay đổi nền, cắt cảnh bị lỗi, đạo cụ biến mất
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083548589289062400/img/DglyMYArMCuseR0Y.jpg" width="600" alt="Video hài hước Tiên hiệp về đảo ngược thời gian">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8299)**
-
-**Tác giả:** [Soran](https://x.com/Soranlan) | **Nguồn:** [Link](https://x.com/Soranlan/status/2083549436869791892) | **Đã xuất bản:** Aug 1, 2026
-
----
-### Chiến đấu phép thuật góc nhìn thứ nhất
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt góc nhìn thứ nhất đầy kịch tính về một pháp sư chiến đấu với lính canh và một tên trùm khổng lồ trong mỏ đá bùn lầy bằng các xung từ tính.
-
-#### 📝 Prompt
-
-```
-Góc nhìn thứ nhất (POV) nghiêm ngặt, nhân vật chính là nam, không bao giờ lộ mặt. Chỉ nhìn thấy bàn tay, ngón tay và cẳng tay của nhân vật khi cần thi triển phép thuật, né đòn và thực hiện đòn đánh từ tính cuối cùng. Bàn tay nam giới to, khớp ngón tay rõ rệt, móng tay ngắn, da tông màu nhạt hoặc lạnh, tay áo màu xám đậm hoặc đen, các đường phép thuật hình học mảnh phát sáng màu trắng lạnh với ánh xanh nhạt trên da và cổ tay. Bàn tay di chuyển với lực mạnh, độ chính xác và các cử chỉ ngắn được kiểm soát, không bao giờ mềm yếu hay mang tính trang trí. Một cảnh quay liên tục, không cắt, phong cách dark fantasy điện ảnh dọc, chuyển động camera dựa trên cơ thể chân thực, kỹ thuật quay phim hành động chuyên nghiệp với động lượng vật lý và nhịp độ chiến đấu rõ ràng. Trong một mỏ đá bỏ hoang rộng lớn dưới bầu trời xám xịt, các bức tường đá cao, hai vòm hầm mỏ tối ở phía sau, đường ray kim loại cũ cắt ngang lớp bùn đỏ nâu ẩm ướt, xe goòng lật úp, đá rải rác, xích, gỗ gãy, sắt vụn, giáp bị vứt bỏ và thi thể của những lính canh đã ngã xuống. Không gian mang cảm giác lạnh lẽo, ẩm ướt, nặng nề và bụi bặm, với bảng màu xám thép, nâu bẩn, than chì và trắng lạnh. Một đội lính canh mỏ mặc giáp tối màu lao tới trước tiên qua đường ray và mặt đất bùn lầy, mũ giáp đóng kín, mang theo giáo ngắn, khiên và búa. Phía sau họ, bước ra từ bóng tối của vòm hầm mỏ là tên trùm: một chiến binh hạng nặng khổng lồ một mắt, cao từ 4 đến 5 mét, da màu xám hồng thô ráp, một con mắt tròn lớn ở giữa mặt, giáp kim loại một phần và dây da vắt ngang ngực, một tấm giáp vai lớn ở một bên, chân dày, trọng lượng khổng lồ và một chiếc rìu chiến nặng nề được vung với động lượng tàn bạo. Nhân vật chính giơ một tay lên, cầm một quả cầu từ tính bán trong suốt, nhẵn mịn, kích thước bằng quả bóng tennis, màu trắng bạc với lõi xanh nhạt, bên trong là một xoáy kim loại dày đặc, các vòng sáng mỏng xoay quanh nó. Quả cầu đã tồn tại sẵn khi xuất hiện lần đầu và không tự nhiên xuất hiện từ hư không. Khi những tên lính nhỏ hơn lao vào, nhân vật chính bóp nát quả cầu. Một xung từ tính lạnh lẽo lóe lên qua cả hai cẳng tay và xuống mặt đất. Vũ khí bị giật khỏi tay những người lính đang lao tới, khiên bị vặn xoắn sang một bên, bu lông, xích, đinh đường ray, các mảnh giáp rời, và các mảnh kim loại rung chuyển rồi bắt đầu bay lên khỏi mặt đất mỏ đá. Một số kẻ thù nhỏ hơn bị tước vũ khí dữ dội và mất thăng bằng ngay lập tức. Tên trùm tăng tốc lao tới giữa khung cảnh hỗn loạn và vung chiếc rìu khổng lồ trong một đòn tấn công ngang đầy uy lực. Nhân vật chính thực hiện cú né người nhanh chuyên nghiệp vào khoảnh khắc cuối cùng; lưỡi rìu xé toạc không gian phía trước với khoảng cách nguy hiểm, hất bùn và bụi bay qua camera. Tên trùm lấy lại đà với quán tính lớn, dậm chân và tung ra đòn tấn công thứ hai từ trên xuống đầy tàn bạo. Nhân vật chính cúi người và né tránh bằng một chuyển động né đòn sắc bén kiểu Hollywood, chiếc rìu đập mạnh xuống đất và đường ray tạo ra một màn bụi bẩn, tia lửa và chấn động kim loại. Camera phản ứng như một cú né đầu và thân người thực thụ: chuyển động ngang nhanh, giật lùi, tiếng thở, sau đó ngay lập tức tập trung lại vào tên trùm. Lúc này, từ trường hoàn toàn chiếm ưu thế. Nhân vật chính dang rộng cả hai tay. Kim loại bay lên từ mọi hướng trong một trường lực được kiểm soát, không hỗn loạn: đường ray bị xé toạc, xích, bu lông, vòng sắt, mảnh giáp, mảnh xe goòng, kim loại từ khiên. Các mảnh vỡ bay lên, căn chỉnh và bắt đầu xoay quanh tên khổng lồ thành ba vòng quay rõ rệt: một vòng thấp quanh đầu gối, một vòng giữa quanh eo và bụng, và một vòng trên quanh ngực và vai. Tên trùm cố gắng rút chiếc rìu ra và lao tới lần nữa, nhưng vòng xoay thắt chặt quanh hắn. Khung hình tập trung chặt chẽ vào trung tâm, với độ trôi theo mạnh mẽ và góc quay thấp để nhấn mạnh khối lượng và sự nguy hiểm. Nhân vật chính sau đó kéo mạnh cả hai tay vào trong. Cả ba vòng từ tính đồng loạt thắt chặt. Xích căng cứng, đường ray uốn cong thành những vòng cung nghiền nát, các mảnh giáp va chạm và khóa chặt, các mảnh kim loại đập mạnh vào thân và tay tên trùm. Tên khổng lồ mất thăng bằng, loạng choạng và bị ép xuống, chiếc rìu trượt khỏi tay và rơi xuống bùn. Cái kén kim loại thắt chặt hơn với trọng lượng công nghiệp tàn bạo và áp lực từ tính, khóa chặt cơ thể hắn tại chỗ. Bụi bốc lên từng đợt, đá nhỏ văng tung tóe, xích căng ra, và con mắt duy nhất lóe lên vẻ hoảng loạn và giận dữ. Nhân vật chính đẩy cả hai tay về phía trước để kết liễu. Một xung từ tính tập trung hẹp hình thành giữa hai lòng bàn tay, không phải lửa, mà là một đòn tấn công điện từ dày đặc với lõi trắng sáng và các cạnh xanh nhạt. Cú đẩy nhẹ vào trung tâm ngực tên trùm. Xung lực va chạm. Mọi mảnh kim loại bao quanh tên khổng lồ đồng loạt ép chặt vào trong với một cú khóa nghiền nát cuối cùng. Tên trùm hoàn toàn quỳ xuống, thân mình bị nén dưới những đường ray bị xích và các mảnh giáp, trong khi một chấn động kim loại sâu sắc lan tỏa khắp mỏ đá và một làn sóng bụi lan ra trên mặt đất. Kết thúc với cảnh tên khổng lồ quỳ gối và bị mắc kẹt trong một cái kén sắt tàn bạo, xích căng chặt, đường ray cắm sâu vào thân mình, chiếc rìu rơi bị chôn nửa dưới bùn, bụi trôi dạt và một vài mảnh kim loại nhỏ vẫn đang lơ lửng và xoay tròn trước khi cuối cùng rơi xuống. Ánh sáng: ánh sáng mây xám lạnh, phản chiếu mờ nhạt trên đá, bùn và đường ray, ánh sáng trắng bạc lạnh từ quả cầu và các đường phép thuật của nhân vật chính, các điểm nhấn lạnh sắc nét trên kim loại bay trong không trung khi xoay, và một tia sáng trắng xanh cuối cùng từ xung từ tính. Dark fantasy điện ảnh, vẻ ngoài anamorphic, hạt phim tinh tế, độ sâu trường ảnh nông trên bàn tay và kim loại gần đó, quán tính vật lý mạnh, chuyển động kẻ thù hạng nặng chân thực, đường ray chống cự khi bị xé khỏi mặt đất, xích thắt chặt với độ căng đáng tin, sự dịch chuyển bùn, mảnh vỡ lăn, và chuyển động từ tính được kiểm soát tạo cảm giác như một trường lực, không phải thần giao cách cảm ngẫu nhiên. Thiết kế âm thanh: gió thấp trong mỏ đá, tiếng kim loại rên rỉ từ xa, tiếng giáp kêu lạch cạch từ những lính canh đang lao tới, âm thanh nén chặt khi quả cầu bị bóp nát, tiếng vo ve từ tính tần số thấp sâu lắng, tiếng kim loại rít lên khi thoát khỏi mặt đất, tiếng bước chân nặng nề của tên trùm, tiếng rìu xé gió với khối lượng thực, tiếng va chạm vào bùn và đường ray, tiếng xích căng, tiếng va chạm đường ray, một đòn kết liễu điện từ sắc bén, sau đó là sự cộng hưởng khóa sắt khổng lồ và tiếng ầm ầm nặng nề của bụi mờ dần. Không có góc nhìn thứ ba, không lộ mặt nhân vật chính, không có bàn tay xuất hiện liên tục trong khung hình, không có kim loại bay hỗn loạn ngẫu nhiên, không có kẻ thù quy mô yếu, không có tên trùm không trọng lượng, không có vẻ ngoài phép thuật lửa, không có tia laser giả tưởng rực rỡ, không có vật lý hoạt hình, không có chiến đấu nhẹ nhàng, không có mỏ đá chi tiết thấp, không có rìu nhỏ, không có hành vi kẻ thù ngớ ngẩn, không có chuyển động thây ma.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083544672857690112/img/-nZTUxmkYnKTYGM7.jpg" width="600" alt="Chiến đấu phép thuật góc nhìn thứ nhất">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8278)**
-
-**Tác giả:** [KreviX](https://x.com/LadyyEth) | **Nguồn:** [Link](https://x.com/LadyyEth/status/2083545817109889369) | **Đã xuất bản:** Aug 1, 2026
-
----
-### Cảnh nấu món Vongole Bianco theo phong cách Anime
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Một bản gợi ý (prompt) chi tiết dài 30 giây để tạo phân cảnh anime điện ảnh về một người phụ nữ nấu mì Ý vào ban đêm. Nội dung bao gồm các chỉ dẫn quay phim chuyên nghiệp, hướng dẫn ánh sáng cụ thể và các đoạn cắt cảnh có gắn dấu thời gian để đảm bảo mạch kể chuyện liền mạch.
-
-#### 📝 Prompt
-
-```
-Phim anime Nhật Bản đầy đủ màu sắc, video chất lượng cao mang tính điện ảnh.
-Không nhạc nền, không lời thoại, không phụ đề, không văn bản, có bao gồm âm thanh môi trường.
-Độ sâu trường ảnh nông và hiệu ứng bokeh như được quay bằng ống kính góc rộng 24mm F1.4 (tương đương full-frame).
-Bokeh tiền cảnh lớn và mềm mại, hậu cảnh hòa quyện một cách tự nhiên.
-
-# Các ràng buộc
-Không làm cho các góc quay, điểm nhìn hoặc tiêu cự trở nên đơn điệu; hãy thay đổi chúng trong mỗi đoạn cắt.
-Các con số trong ngoặc vuông cho mỗi đoạn cắt biểu thị thời gian bắt đầu và kết thúc của đoạn đó tính bằng giây.
-Vẽ tất cả các đoạn cắt theo sự phân bổ thời gian này và đảm bảo hoàn thành đến đoạn cắt cuối cùng.
-Định nghĩa về tư thế: Cô ấy đứng trong bếp và nấu ăn xuyên suốt tất cả các đoạn cắt.
-Không hiển thị cảnh cúi người, ngồi hoặc rời khỏi phòng.
-Định nghĩa về vị trí: Bồn rửa ở bên trái, bếp ở bên phải. Công việc di chuyển từ trái sang phải.
-Máy quay luôn ở phía trước quầy, duy trì mối quan hệ trái-phải này trong tất cả các đoạn cắt.
-Định nghĩa về ánh sáng: Nguồn sáng duy nhất là ánh sáng trong nhà màu hổ phách ấm áp.
-Giữ điều kiện ánh sáng ổn định trong suốt các đoạn cắt và không thay đổi thời điểm trong ngày.
-Định nghĩa về độ sâu: Phân tách rõ ràng tiền cảnh, trung cảnh và hậu cảnh trong mỗi đoạn cắt.
-Ở tiền cảnh, đặt hơi nước, vệt nước, mép quầy, v.v., với độ mờ lớn để tạo chiều sâu như thể đang nhìn xuyên qua từ phía trước.
-Định nghĩa về thị sai: Trong các đoạn cắt có chuyển động máy quay, hãy di chuyển tiền cảnh nhanh nhất, trung cảnh với tốc độ trung bình và hậu cảnh chậm nhất để tạo ra sự khác biệt về tốc độ rõ rệt giữa ba lớp.
-
-# Nhân vật
-## Người phụ nữ
-Nữ giới trưởng thành.
-Quần ngắn, chân trần, sơn móng tay màu đen.
-Mặc đồ mặc nhà vào đêm khuya, không để ý đến việc bị người khác nhìn thấy.
-
-# Bối cảnh
-Một căn bếp hiện đại vào đêm khuya. Khung cảnh ban đêm trải dài phía sau cửa sổ lớn.
-Chỉ có ánh đèn trong nhà màu hổ phách ấm áp chiếu sáng không gian, làm nổi bật nhẹ nhàng các đường nét trên da bằng ánh sáng và bóng tối.
-Hơi nước và nhiệt từ việc nấu nướng lung linh nhẹ trong không khí.
-Một đêm khuya yên tĩnh và riêng tư, không bị ai quan sát.
-Định nghĩa về đạo cụ: Có nhiều nghêu, ngâm trong nước dưới đáy một chiếc bát inox lớn xếp thành nhiều lớp.
-Dầu ô liu đựng trong chai thủy tinh trong suốt, cao và mảnh với vòi rót kim loại nhỏ. Rót bằng cách nghiêng chai.
-Rượu vang trắng đựng trong chai thủy tinh màu xanh đậm; nhãn chai không có chữ.
-Rau mùi tây băm nhỏ được chuẩn bị sẵn trên một chiếc đĩa nhỏ trên quầy.
-Chỉ có một chiếc đĩa mì Ý nông màu trắng.
-Bố cục độ sâu: Tiền cảnh có hơi nước và mép quầy, trung cảnh có cô ấy và dụng cụ nấu ăn, hậu cảnh có khung cảnh ban đêm ngoài cửa sổ.
-
-# Cảnh quay
-Vào đêm khuya, một người phụ nữ làm món vongole bianco một mình.
-Hiển thị các bước nấu ăn và cử chỉ của cô ấy xen kẽ, từ việc rửa nghêu đến trình bày ra đĩa.
-Hơi nước, độ bóng của vỏ nghêu, làn da trần và những cử động tự nhiên hòa quyện vào khung cảnh.
-
-cut1: [0.0-1.9]
-Cảnh rộng, nhìn từ phía sau theo đường chéo. Máy quay di chuyển chậm sang trái.
-Nhìn từ phía sau khi cô ấy đứng trước bồn rửa bên trái. Nước đang chảy thành dòng nhỏ.
-Đường viền của một chiếc nồi lớn với hơi nước đi qua tiền cảnh với độ mờ lớn và tốc độ cao, cô ấy di chuyển tương đối chậm ở trung cảnh, và khung cảnh ban đêm ở hậu cảnh hầu như không di chuyển. Tạo ra sự khác biệt về tốc độ thị sai rõ rệt. Đèn trong nhà làm nổi bật phần lưng của cô ấy một cách ấm áp.
-Âm thanh môi trường: Tiếng nước chảy, tiếng rì rầm của thành phố từ xa.
-
-cut2: [1.9-3.2]
-Cận cảnh, nhìn xuống một chút từ phía trước.
-Dưới vòi nước đang chảy, đôi bàn tay với móng tay được sơn đang khuấy một đống nghêu.
-Vô số vỏ nghêu đen cọ xát vào nhau giữa các ngón tay, và cát mịn trôi ra khỏi bề mặt.
-Một lượng lớn nghêu vẫn còn chất đống trong bồn rửa.
-Đầu ngón tay hơi đỏ vì nước lạnh.
-Âm thanh môi trường: Tiếng vỏ nghêu cọ xát liên tục, tiếng nước đập vào inox.
-
-cut3: [3.2-5.4]
-Cận cảnh, góc thấp phía trước.
-Góc quay thấp nhìn lên phần thân trên đang nghiêng của cô ấy từ bên dưới.
-Dòng nước ở tiền cảnh bị mờ nhòe, cắt ngang mép phải màn hình theo chiều dọc.
-Tóc xoăn màu xanh navy rủ xuống phía trước do trọng lực.
-Ánh mắt rơi vào dòng nước trên tay; biểu cảm của cô ấy bình thản và tập trung.
-Trong tư thế nghiêng người, vải cổ áo tách khỏi cơ thể, để lộ tự nhiên đường nét từ xương quai xanh đến ngực.
-Những giọt nước lạnh bắn tung tóe từ cổ xuống xương quai xanh, với một giọt từ từ trượt xuống hõm xương quai xanh.
-Ánh sáng phản chiếu từ mặt nước lung linh trên cằm và cổ cô ấy từ bên dưới.
-Âm thanh môi trường: Tiếng nước chảy.
-
-cut4: [5.4-6.4]
-Macro, nhìn từ phía trên theo đường chéo.
-Thớt gỗ. Những ngón tay sơn móng giữ tỏi khi dao cắt thành từng lát mỏng.
-Nước tỏi bóng loáng trên lưỡi dao.
-Mép gỗ của thớt đi vào tiền cảnh với độ mờ lớn.
-Âm thanh môi trường: Tiếng dao cắt nhịp nhàng đập vào thớt.
-
-cut5: [6.4-7.6]
-Cận cảnh, từ mức ngang ngay trên mặt nước.
-Một chiếc nồi lớn đang sôi sùng sục.
-Mì Ý rơi vào nước thành chùm; bọt trắng và hơi nước bốc lên mạnh mẽ.
-Hơi nước bốc lên ở tiền cảnh bị mờ nhòe và trôi đi.
-Âm thanh môi trường: Tiếng sôi dữ dội, tiếng mì rơi vào nước.
-
-cut6: [7.6-8.6]
-Macro, nhìn trực diện ngay bên cạnh mép chảo.
-Tỏi thái lát mỏng và ớt đỏ ngâm trong dầu ô liu vẫn còn lạnh.
-Dầu từ từ ấm lên, và những bong bóng nhỏ bắt đầu hình thành ở mép tỏi.
-Âm thanh môi trường: Tiếng dầu bắt đầu nóng lên khe khẽ.
-
-cut7: [8.6-9.8]
-Cận cảnh, từ phía trên bên phải.
-Chiếc bát được nghiêng đáng kể trên chảo nóng, và một lượng lớn nghêu trượt xuống cùng lúc.
-Vô số vỏ đen đập vào kim loại nóng và nảy lên, lấp đầy chảo.
-Dầu bắn tung tóe nhỏ.
-Hơi nước mỏng bị mờ và trôi ở tiền cảnh.
-Âm thanh môi trường: Tiếng vỏ nghêu đập vào kim loại liên tục, tiếng dầu bắn.
-
-cut8: [9.8-11.2]
-Cận cảnh, góc nhìn từ trên cao xuống.
-Chỉ có miệng chai thủy tinh xanh đi vào khung hình và nghiêng từ từ.
-Rượu vang trắng trong suốt tạo thành một vòng cung mỏng và rơi vào chảo nóng.
-Khoảnh khắc chất lỏng chạm vào bề mặt nóng, hơi nước trắng bốc lên mạnh mẽ và thoát ra phía trên khung hình.
-Chỉ có miệng chai và vệt chất lỏng trong màn hình; nghêu bị che khuất dưới hơi nước.
-Âm thanh môi trường: Tiếng chất lỏng sôi trên nhiệt, hơi nước phun trào.
-
-cut9: [11.2-12.3]
-Cận cảnh, ngang tầm mắt phía trước.
-Một nắp thủy tinh được đặt lên chảo.
-Bên trong nắp chuyển sang màu trắng đục, và đường viền của nghêu trở nên mờ nhạt và biến mất phía sau nó.
-Âm thanh môi trường: Tiếng thủy tinh chạm vào mép kim loại, tiếng sôi âm ỉ bên trong nắp.
-
-cut10: [12.3-15.0]
-Siêu cận cảnh, từ vị trí thấp hơn một chút theo đường chéo phía sau.
-Với độ sâu trường ảnh nông, tiêu điểm chỉ nằm ở gáy cô ấy; hơi nước tiền cảnh và căn bếp hậu cảnh hòa quyện hoàn toàn.
-Trong khi chờ sôi dưới nắp, cô ấy hơi hạ mặt xuống.
-Tóc chảy về phía trước và tách ra, để lộ gáy từ dưới lên.
-Những sợi tóc mảnh ẩm ướt vì hơi nước và dính vào da thành từng lọn mỏng.
-Bóng tối rơi vào hõm giữa cổ và vai, được viền bởi một đường sáng mỏng từ đèn trong nhà.
-Vai di chuyển lên xuống chậm rãi theo nhịp thở; da ở gáy giãn ra và co lại nhẹ.
-Đường viền khuôn mặt và dưới tai vừa vặn đi vào mép khung hình.
-Máy quay cố định.
-Âm thanh môi trường: Tiếng sôi âm ỉ bên trong nắp, tiếng thở khẽ.
-
-cut11: [15.0-16.3]
-Cận trung cảnh, từ vị trí thấp hơn một chút theo đường chéo phía trước.
-Nắp thủy tinh được nhấc lên, hơi nước trắng bị nén phun ra cùng một lúc.
-Hơi nước bao phủ dày đặc tiền cảnh, khiến nội dung trong chảo vô hình trong giây lát.
-Âm thanh môi trường: Tiếng nhấc nắp, tiếng hơi nước thoát ra.
-
-cut12: [16.3-18.6]
-Cận cảnh, mặt hướng lên, từ phía trước theo đường chéo trên cao.
-Hơi nước bốc lên từ từ bao trùm khuôn mặt cô ấy.
-Đôi mắt nhắm lại từ từ; khuôn mặt cô ấy hơi lùi lại.
-Tóc mái và tóc mảnh ở cổ ẩm ướt vì hơi nước, dính vào da.
-Những giọt nước nổi nhẹ trên má, tỏa sáng khi bắt ánh sáng.
-Hơi nước chảy dọc theo đường quai hàm; một giọt nước duy nhất từ từ trượt xuống cổ.
-Đôi môi hơi mở; một hơi thở mỏng thoát ra.
-Máy quay cố định.
-Âm thanh môi trường: Tiếng hơi nước, tiếng thở dài khẽ.
-
-cut13: [18.6-19.9]
-Cận cảnh, góc nhìn từ trên cao nông từ phía trên bên trái.
-Phía sau làn hơi nước đang tan dần, những con nghêu lấp đầy chảo mở vỏ cùng một lúc.
-Thịt trắng sữa xuất hiện từ bên trong vỏ, và nước sốt đục sủi bọt mịn giữa các con nghêu.
-Âm thanh môi trường: Tiếng nước sốt sôi, tiếng vỏ nghêu mở cứng cáp.
-
-cut14: [19.9-22.1]
-Siêu cận cảnh, từ bên cạnh.
-Một chiếc thìa gỗ nhỏ đã chạm vào môi.
-Nước sốt đục từ từ chảy vào miệng; đôi môi khép lại.
-Cổ họng di chuyển nhẹ khi cô ấy nuốt.
-Đôi mắt nheo lại; ánh mắt trôi dạt đâu đó.
-Chiếc thìa từ từ rời đi, để lại một lớp bóng mỏng của nước sốt trên môi dưới.
-Đầu lưỡi từ từ lướt qua môi dưới.
-Máy quay cố định.
-Âm thanh môi trường: Một khoảng lặng yên tĩnh nơi chỉ có tiếng sôi từ xa tiếp tục.
-
-cut15: [22.1-23.5]
-Cận cảnh, qua vai từ góc cao phía sau.
-Bố cục với vai và sau đầu cô ấy ở khung hình trên, nhìn xuống chảo.
-Vải vai và xương bả vai bị mờ nhòe ở tiền cảnh.
-Kẹp gắp nhấc những sợi mì phủ nước và nhẹ nhàng hạ chúng vào những con nghêu đang mở và nước sốt đục.
-Mì thấm nước sốt; chảo đã đầy.
-Âm thanh môi trường: Tiếng mì chạm vào nước sốt, tiếng nước sốt sôi.
-
-cut16: [23.5-25.4]
-Cận trung cảnh, từ góc hơi cao ngay phía sau.
-Cánh tay cầm cán chảo kéo lại, hất chảo.
-Sức mạnh truyền từ eo đến vai; xương bả vai và cơ lưng di chuyển phối hợp như những con sóng.
-Lớp vải mỏng, ẩm ướt vì hơi nước, theo chuyển động của lưng một cách tự nhiên, đung đưa trong khi dính vào da ở vai.
-Mép vải phủ trên vai dịch chuyển nhẹ theo từng chuyển động.
-Ở hậu cảnh, mì và nghêu tung lên trong chảo; nước sốt trở nên trắng hơn và đặc hơn mỗi khi chúng rơi xuống.
-Âm thanh môi trường: Tiếng kim loại của chảo khi bị lắc, tiếng nước sốt bắn tung tóe.
-
-cut17: [25.4-27.4]
-Cận cảnh, từ phía trước bên phải theo đường chéo.
-Trong cái nóng, một giọt mồ hôi mỏng từ từ chảy xuống cổ, đọng lại ở hõm xương quai xanh, sau đó băng qua nó để trượt về phía ngực.
-Mu bàn tay cô ấy từ từ lướt qua trán.
-Đôi mắt từ từ nheo lại; một hơi thở mỏng thoát ra từ môi.
-Máy quay cố định.
-Âm thanh môi trường: Tiếng thở dài khẽ, tiếng nước sốt bắn tung tóe từ xa.
-
-cut18: [27.4-28.5]
-Cận cảnh, ngang và hơi chéo ở độ cao của đĩa.
-Kẹp gắp cuộn mì lên một chiếc đĩa nông màu trắng; nghêu mở được đặt tỏa ra xung quanh chúng.
-Độ bóng của mì và độ bóng bên trong của vỏ nghêu hiện ra.
-Âm thanh môi trường: Tiếng trình bày món ăn.
-
-cut19: [28.5-29.3]
-Cận cảnh, ngay phía trên đĩa, góc nhìn từ trên cao nông từ phía trên theo đường chéo.
-Chỉ có đầu ngón tay đi vào từ khung hình trên, nhúm và rắc rau mùi tây băm nhỏ.
-Những lá nhỏ rơi từ giữa các ngón tay, nhảy múa chậm rãi xuống đĩa.
-Những mảnh xanh được rải trên nước sốt đục và vỏ nghêu.
-Đầu ngón tay từ từ biến mất khỏi khung hình.
-Âm thanh môi trường: Tiếng rau mùi tây rơi khẽ, tiếng hơi nước.
-
-cut20: [29.3-30.0]
-Cận cảnh, độ sâu trường ảnh nông, từ bên cạnh.
-Đĩa vongole đã hoàn thành. Một bàn tay với móng tay đen cầm chai thủy tinh trong suốt, cao và mảnh đi vào từ phía trên.
-Một vòi kim loại mỏng được cắm vào miệng chai.
-Chai nghiêng từ từ; dầu màu vàng ánh xanh trở thành một vệt mỏng, rưới theo vòng tròn khắp đĩa.
-Khi chai được nâng lên và vệt dầu đứt đoạn, bàn tay và chai từ từ biến mất khỏi khung hình, chỉ để lại chiếc đĩa trong ánh sáng ấm áp.
-Hơi nước tiếp tục bốc lên mỏng manh.
-Máy quay cố định. Một kết thúc tĩnh lặng kéo dài.
-Âm thanh môi trường: Tiếng dầu rơi khẽ dừng lại; vào sự tĩnh lặng của màn đêm.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083544579073298432/img/y8ITu6VUdRONZOGL.jpg" width="600" alt="Cảnh nấu món Vongole Bianco theo phong cách Anime">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8306)**
-
-**Tác giả:** [AIスタジオワンルーム（AIアニメ、動画、漫画）](https://x.com/studio_oneroom) | **Nguồn:** [Link](https://x.com/studio_oneroom/status/2083544722996686991) | **Đã xuất bản:** Aug 1, 2026
-
----
-### Chuyển cảnh điện ảnh trong một cú máy liên tục
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) điện ảnh phức tạp dành cho Seedance 2.0, mô tả cảnh quay liên tục nơi đạo diễn thay đổi môi trường và thời tiết theo thời gian thực.
-
-#### 📝 Prompt
-
-```
-Phim điện ảnh siêu thực trong một cú máy liên tục. Một đạo diễn chuyên nghiệp đứng cạnh một nữ diễn viên xinh đẹp, người có danh tính, trang phục, kiểu tóc và các đường nét khuôn mặt hoàn toàn nhất quán trong suốt video. Đạo diễn điều khiển thực tại bằng các lệnh thoại và mọi thay đổi đều diễn ra tức thì mà không cần cắt cảnh.
-
-“Golden Hour” (Giờ vàng) — ánh sáng ban ngày chuyển thành hoàng hôn điện ảnh ấm áp với những tia nắng dịu nhẹ và hiệu ứng lóe sáng tự nhiên.
-
-“Rain” (Mưa) — những hạt mưa chân thực bắt đầu rơi, các vũng nước hình thành, hình ảnh phản chiếu xuất hiện và trang phục phản ứng một cách tự nhiên.
-
-“Cyberpunk” — bối cảnh biến đổi thành một thành phố neon tương lai với các hình ảnh ba chiều (hologram), phương tiện bay, biển hiệu phát sáng và sương mù bao phủ.
-
-“Close-up” (Cận cảnh) — máy quay di chuyển mượt mà về phía nữ diễn viên, giữ tiêu điểm hoàn hảo vào đôi mắt cô ấy.
-
-“Slow Motion” (Chuyển động chậm) — những giọt mưa, mái tóc và vải vóc chuyển động duyên dáng trong hiệu ứng chuyển động chậm chân thực.
-
-“Night” (Đêm) — khung cảnh chuyển sang ánh sáng dưới trăng thanh lịch với làn sương mờ ảo và độ tương phản điện ảnh.
-
-Kết thúc bằng một cú cận cảnh đầy ấn tượng khi nữ diễn viên nhìn thẳng vào ống kính. Hoạt ảnh khuôn mặt siêu thực, tuân thủ chỉ dẫn chính xác, chuyển động máy quay mượt mà, mô phỏng thời tiết chân thực, kết xuất dựa trên vật lý (PBR), ánh sáng HDR, chất lượng thương mại Hollywood cao cấp, độ phân giải 8K siêu thực.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083539229133676544/img/aRqITOVmuN1cD2gi.jpg" width="600" alt="Chuyển cảnh điện ảnh trong một cú máy liên tục">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8261)**
-
-**Tác giả:** [Meem](https://x.com/mehvishs25) | **Nguồn:** [Link](https://x.com/mehvishs25/status/2083539354849611921) | **Đã xuất bản:** Aug 1, 2026
-
----
-### Cảnh phim hài khoa học viễn tưởng thập niên 1980
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh toàn diện để tạo ra cảnh phim hài khoa học viễn tưởng phong cách thập niên 1980 quay bằng phim 35mm, với sự xuất hiện của một người phụ nữ và một robot cơ khí đang đi bộ qua một cơ sở công nghiệp.
-
-#### 📝 Prompt
-
-```
-Sử dụng image1 được cung cấp làm khung hình đầu tiên chính xác của video.
-
-Duy trì sự liên tục về hình ảnh hoàn hảo với hình ảnh tham chiếu. Bảo toàn chính xác người phụ nữ trẻ, robot chiến binh, cơ sở công nghiệp, trang phục, tỷ lệ, đặc điểm khuôn mặt, cấu tạo robot, ánh sáng, bảng màu, góc máy và môi trường. Không thiết kế lại hoặc thay thế bất kỳ chi tiết nào.
-
-Phong cách:
-Phim hài khoa học viễn tưởng người đóng đích thực cuối thập niên 1980, được quay trên phim điện ảnh Kodak 35mm. Chỉ sử dụng bối cảnh thực tế. Bộ đồ robot cơ khí kích thước thật với các khớp thủy lực có thể nhìn thấy và trọng lượng cơ khí chân thực. Ánh sáng công nghiệp vonfram ấm áp, hơi nước trong không khí tinh tế, hiệu ứng quầng sáng nhẹ, hạt phim tự nhiên, độ rung khung hình nhẹ, màu sắc telecine cổ điển, khói thực tế, độ sâu trường ảnh điện ảnh.
-
-Bối cảnh:
-Người phụ nữ và robot thong thả đi bộ cạnh nhau qua cơ sở công nghiệp. Nhịp độ của họ thoải mái và tự nhiên. Robot di chuyển với trọng lượng thủy lực nặng nề, các hiệu chỉnh servo tinh tế, chuyển động piston và quán tính cơ khí đáng tin cậy. Người phụ nữ bước đi tự tin trong khi trò chuyện thoải mái, thỉnh thoảng nhìn lên robot, mỉm cười và sử dụng các cử chỉ tay biểu cảm. Sự tương tác của họ mang lại cảm giác thân thiện và hài hước thay vì cường điệu.
-
-Máy quay:
-Cú máy tracking điện ảnh liên tục.
-Cảnh quay trung hai người chuyển sang cú máy tracking ngang mượt mà.
-Chỉ sử dụng chuyển động dolly ổn định.
-Không rung lắc kiểu cầm tay.
-Không lia máy nhanh (whip pan).
-Không zoom đột ngột.
-Không cắt cảnh nhảy (jump cut).
-Luôn duy trì khung hình ngang tầm mắt.
-
-Nền:
-Các đường ống công nghiệp, lối đi trên cao, đèn thực tế ấm áp, hơi nước trôi nổi, những công nhân ở xa đang thực hiện các công việc thường nhật mà không tương tác với các nhân vật chính. Nền vẫn là yếu tố phụ và không bao giờ làm xao nhãng cuộc trò chuyện.
-
-Dòng thời gian
-
-0:00–0:04
-Cảnh quay trung hai người.
-Người phụ nữ và robot bắt đầu đi bộ cùng nhau.
-Người phụ nữ liếc nhìn robot với nụ cười tinh nghịch và nói bằng giọng California vui vẻ kiểu thập niên 1980:
-
-NGƯỜI PHỤ NỮ:
-"Tôi thực sự ghen tị với tất cả những đứa trẻ sành điệu FLUX 3 đấy."
-
-Khớp khẩu hình tự nhiên theo hội thoại.
-
-0:04–0:10
-Cú máy tracking ngang mượt mà khi họ tiếp tục đi ngang qua các đường ống và hơi nước trôi nổi.
-Người phụ nữ trở nên hoạt bát hơn, thực hiện các cử chỉ tay lớn hơn nhưng vẫn tự nhiên khi nói:
-
-NGƯỜI PHỤ NỮ:
-"Những video FLUX 3 ĐIÊN RỒ của họ đã xuất hiện khắp nơi suốt cuối tuần qua!"
-
-Duy trì tốc độ đi bộ thực tế và chuyển động cơ thể đồng bộ.
-
-0:10–0:13
-Cú máy đẩy vào tự nhiên (push-in) đến cận cảnh robot.
-Robot từ từ quay đầu về phía cô với chuyển động thủy lực đáng tin cậy và tiếng rít servo cơ khí nhẹ. Bảng mắt của nó nhấp nháy trong giây lát trước khi nói bằng giọng tổng hợp khô khan:
-
-ROBOT:
-"Tôi biết mà, đúng không?"
-
-Người phụ nữ mỉm cười nhẹ sau khi nghe câu trả lời.
-
-Âm thanh:
-Nhạc nền hài hước synth retro nhẹ nhàng.
-Tiếng bước chân thủy lực tinh tế.
-Tiếng động cơ servo.
-Không khí công nghiệp.
-Tiếng máy móc từ xa.
-Tiếng xì hơi nước nhẹ.
-Độ rõ nét của lời thoại hoàn hảo.
-Đồng bộ hóa khẩu hình tự nhiên chính xác.
-
-Diễn xuất:
-Nhịp điệu hài hước thoải mái.
-Biểu cảm khuôn mặt tự nhiên.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083538851608580096/img/O4Bbk7f9FLStfaoC.jpg" width="600" alt="Cảnh phim hài khoa học viễn tưởng thập niên 1980">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8293)**
-
-**Tác giả:** [Tbros6868](https://x.com/tbros6868) | **Nguồn:** [Link](https://x.com/tbros6868/status/2083539301766488456) | **Đã xuất bản:** Aug 1, 2026
-
----
-### Chuyển cảnh thang máy kinh dị đậm chất điện ảnh
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Một câu lệnh video Seedance 2.0 tinh tế, bắt đầu với cảnh thang máy thời trang cao cấp và chuyển sang phân đoạn kinh dị đầy kịch tính bằng cách sử dụng tính năng cố định nhân vật nhất quán.
-
-#### 📝 Prompt
-
-```
-[Phong cách tổng thể]
-
-Chất lượng điện ảnh chân thực, kết hợp thẩm mỹ thời trang công sở lúc nửa đêm, sử dụng hình ảnh tham chiếu đã tải lên làm điểm neo nhận diện nhân vật độc nhất: bình tĩnh và kiềm chế, tự tin và điềm tĩnh, hình học đối xứng, kết cấu ánh sáng huỳnh quang, phản chiếu kim loại, nhịp điệu chính xác và ý tưởng hình ảnh cốt lõi tạo độ viral cho video ngắn—'Cửa thang máy mở ra, hành lang bình thường ngay lập tức trở thành sàn diễn thời trang.'
-
-[Thiết lập nhân vật]
-
-Nhân vật số R01
-
-Cùng một nữ giới người Đông Á trưởng thành từ hình ảnh tham chiếu, khoảng 22–28 tuổi, khuôn mặt trái xoan thon gọn, gò má mềm mại, đôi mắt hạnh màu tối, lông mày thẳng tự nhiên, mũi nhỏ thanh tú, màu môi tự nhiên, tóc đen dài hơi ướt và rẽ ngôi giữa không đều; vóc dáng mảnh mai cân đối, tay chân dài; mặc giày sneaker cổ thấp màu trắng sạch sẽ từ đầu đến chân, tất trắng, quần short denim sáng màu với đường chỉ may rõ nét và cúc kim loại, áo thun cổ tròn màu trắng ôm sát với các nếp gấp vải tự nhiên, không đeo vòng cổ, không đeo khuyên tai và không có túi xách.
-
-[Cảnh 1 | 0-5 giây | Cảnh toàn]
-
-Máy quay cố định với chuyển động dolly track chậm hai bước.
-
-Cô đứng trong thang máy gương hẹp, với kính tối ở hai bên, cửa kim loại phay xước phía trước, tường gạch đá màu xám, màn hình hiển thị tầng LED đỏ nhỏ ở phía trên, đèn trần huỳnh quang, cùng bụi mờ, dấu vân tay mờ nhạt, sương mỏng và các lớp phản chiếu trong không khí.
-
-Cô đặt nhẹ một tay lên tóc; khi cửa thang máy mở ra để lộ hành lang sáng hơn, một luồng gió nhẹ thổi bay vài sợi tóc.
-
-[Cảnh 2 | 5-10 giây | Cảnh trung (Cowboy Shot)]
-
-Cảnh quay theo dõi ổn định di chuyển lùi.
-
-Cùng một người phụ nữ mặc áo thun trắng ôm sát và quần short denim sáng màu bước ra khỏi thang máy, hạ tay xuống, xoay nhẹ một bên vai, bước đi với những bước chéo theo nhịp điệu sàn diễn được kiểm soát, và quay lại nhìn vào máy quay trên một nhịp đập mạnh tần số thấp;
-
-Cùng một khuôn mặt, cùng mái tóc đen dài, cùng đôi giày sneaker trắng, cùng các nếp gấp quần áo và cùng biểu cảm bình tĩnh không thay đổi trong suốt cảnh quay. Bối cảnh vẫn là lối vào thang máy và hành lang đá, ánh sáng chính vẫn đến từ phía trên, và phía bên trái ống kính giữ lại những phản chiếu bên hông đầy lạnh lùng.
-
-[Cảnh 3 | 10-15 giây | Cận cảnh chuyển sang Cận cảnh đặc tả]
-
-Với cảm giác rung nhẹ của máy quay cầm tay, chuyển tiêu điểm từ góc nghiêng trong gương sang đôi mắt.
-
-Cùng người phụ nữ mặc áo thun trắng ôm sát dừng lại bên gương, nhẹ nhàng vén một lọn tóc ra sau tai; đèn huỳnh quang nhấp nháy một lần, sau đó cô nhìn thẳng vào máy quay với nụ cười nửa miệng đầy kiềm chế khi ánh phản chiếu LED đỏ trượt chậm qua mống mắt;
-
-Duy trì lỗ chân lông tự nhiên, lông mi, màu mắt, vật lý tóc chân thực, kết cấu denim, sự liên tục của phản chiếu gương và khí chất thời trang cao cấp, bình tĩnh.
-
-[Yêu cầu kỹ thuật]
-
-Seedance 2.0, 15 giây, màn hình dọc 9:16, 24fps, cố định nhận diện nhân vật từ hình ảnh tham chiếu, cấu trúc cơ thể ổn định, phản chiếu gương mạch lạc, chuyển động quần áo và tóc chân thực, ba lần cắt cảnh rõ ràng, điểm nhấn hình ảnh mạnh mẽ trong giây đầu tiên, chỉnh màu thương mại đẳng cấp, nhiễu hạt phim nhẹ, tiếng bước chân và âm thanh môi trường thang máy được đồng bộ chính xác, không lời thoại, không tạo dáng gợi cảm, không chuyển cảnh ngẫu nhiên.
-
-[Câu lệnh phủ định]
-
-mờ, chất lượng kém, độ phân giải thấp, nhiễu, lỗi nén jpeg, hình mờ, văn bản, lỗi; biến dạng, đột biến, giải phẫu xấu, bàn tay vẽ lỗi, bố cục xấu, ngoài khung hình, biến dạng; nhân vật không nhất quán, thay đổi quần áo, biến đổi khuôn mặt, thay đổi bối cảnh, cắt cảnh bị lỗi, đạo cụ biến mất
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083532787877855232/img/4WeQf_JKUk1EMt-P.jpg" width="600" alt="Chuyển cảnh thang máy kinh dị đậm chất điện ảnh">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8303)**
-
-**Tác giả:** [Soran](https://x.com/Soranlan) | **Nguồn:** [Link](https://x.com/Soranlan/status/2083532889883291921) | **Đã xuất bản:** Aug 1, 2026
-
----
-### Video Montage kỷ niệm tại văn phòng bằng điện thoại thông minh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video montage các khoảnh khắc đáng nhớ theo phong cách điện thoại thông minh về một bữa tiệc văn phòng thân mật, đảm bảo tính nhất quán của nhân vật từ hình ảnh tham chiếu.
-
-#### 📝 Prompt
-
-```
-Cảnh quay video gia đình bằng điện thoại thông minh cực kỳ tự nhiên, bữa tiệc văn phòng thân mật trong phòng nghỉ được trang trí, camera điện thoại di động tự nhiên với độ rung lắc cầm tay chân thực, tốc độ khung hình bình thường với chuyển động mượt mà, montage nhanh với các đoạn cắt cảnh mỗi 1-2 giây giống như đang lướt xem các kỷ niệm trên điện thoại, bản ghi âm thô không qua chỉnh sửa về các đồng nghiệp đang cắt bánh, vỗ tay và trò chuyện, cảm giác video gia đình chân thực, không có sự bóng bẩy kiểu điện ảnh.
-Sử dụng ảnh tham chiếu được cung cấp làm tài liệu tham khảo hình ảnh DUY NHẤT và nghiêm ngặt cho người phụ nữ chính. Duy trì chính xác ngoại hình của cô ấy mà không có bất kỳ sai lệch nào. Tạo ra một nhóm đồng nghiệp đa dạng ở mọi lứa tuổi xung quanh cô ấy trong phòng nghỉ văn phòng, có thể nhìn thấy bóng bay và một chiếc bánh nhỏ.
-0-2.5s: Các đoạn cắt nhanh rung lắc — người phụ nữ chính đang cười gần bàn tiệc được trang trí, bóng bay ở phía sau, các đoạn chớp nhoáng của đồng nghiệp đang vỗ tay.
-2.5-5s: Cắt cảnh đột ngột — cận cảnh cô ấy đang cười khi cắt bánh, sau đó là các đồng nghiệp chuyền tay nhau những miếng bánh.
-5-7.5s: Rung lắc nhanh — cô ấy trò chuyện sôi nổi với đồng nghiệp, trang phục văn phòng thường ngày, có thể thấy rõ tiếng cười.
-7.5-10s: Cận cảnh cắt nhanh — nụ cười ấm áp hướng về phía camera, sau đó chuyển sang cảnh cô ấy đang cười với một đồng nghiệp lớn tuổi ở gần đó.
-10-12.5s: Chỉnh sửa đột ngột — nhóm người tập trung quanh bàn, nâng ly chúc mừng bằng cốc giấy, các đồng nghiệp ở nhiều độ tuổi đang trò chuyện.
-12.5-15s: Chuyển cảnh nhanh cuối cùng — người phụ nữ chính thư giãn giữa các đồng nghiệp, nụ cười nhẹ nhàng, kỷ niệm văn phòng êm đềm kết thúc với độ rung lắc tự nhiên của điện thoại.
-Chất lượng video điện thoại thông minh tự nhiên, độ rung lắc cầm tay thực tế nhẹ, chuyển động tốc độ khung hình bình thường mượt mà, vật lý thông thường chân thực, tính nhất quán của nhân vật chính ổn định, không có hiệu ứng hay chống rung chuyên nghiệp.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083509136575373312/img/FCnKsy4sYJVczOsE.jpg" width="600" alt="Video Montage kỷ niệm tại văn phòng bằng điện thoại thông minh">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8294)**
-
-**Tác giả:** [𝐌](https://x.com/Strength04_X) | **Nguồn:** [Link](https://x.com/Strength04_X/status/2083509483402403935) | **Đã xuất bản:** Aug 1, 2026
-
----
-### Video quay cảnh trượt mô tô nước đậm chất điện ảnh
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Một câu lệnh tạo video quay đơn cảnh (single-take) đậm chất điện ảnh, mô tả một người phụ nữ có vóc dáng cân đối với mái tóc đen dài trên chiếc mô tô nước màu xanh lá, yêu cầu sử dụng hình ảnh tham chiếu cụ thể về nhân vật và phương tiện.
-
-#### 📝 Prompt
-
-```
-Tạo một video quay đơn cảnh liên tục đậm chất điện ảnh về cảnh trượt mô tô nước. Hãy tuân thủ nghiêm ngặt bảng nhân vật được cung cấp để mô tả người phụ nữ này [@Image1]: làn da trắng trẻo, đôi mắt đen sáng, mái tóc đen dài thẳng mượt, vóc dáng thon gọn cân đối, mặc bộ đồ bơi một mảnh cổ chữ V sâu màu trắng, cùng với một chiếc mô tô nước màu xanh lá [@Image2] (chỉ tham chiếu chiếc mô tô nước, không phải người trên đó). Phần đầu của mô tô nước có kính trong suốt.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083501931960610816/img/2tAM3tqexSQg8gLK.jpg" width="600" alt="Video quay cảnh trượt mô tô nước đậm chất điện ảnh">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8301)**
-
-**Tác giả:** [PixelAIGC](https://x.com/PixelAigc) | **Nguồn:** [Link](https://x.com/PixelAigc/status/2083502217227894833) | **Đã xuất bản:** Aug 1, 2026
-
----
-### Kyoto 1987 VHS Slice of Life
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt phong cách VHS đầy hoài niệm, ghi lại hình ảnh nam sinh trung học Nhật Bản tại Kyoto vào mùa xuân năm 1987, với những thước phim quay cầm tay chân thực.
-
-#### 📝 Prompt
-
-```
-Nam sinh tại Kyoto — Mùa xuân năm 1987
-Nhân vật
-Nam sinh trung học Nhật Bản, 17 tuổi. Dáng người mảnh khảnh. Tóc đen cắt ngắn gọn gàng. Mặc đồng phục gakuran màu xanh navy với khuy đồng, áo sơ mi trắng hơi bỏ ngoài quần, đi giày da đen, đeo cặp sách vải trên một bên vai. Tính cách tò mò, năng động nhưng kín đáo. Nhất quán về danh tính, trang phục và ngoại hình.
-Địa điểm
-Kyoto, Nhật Bản, mùa xuân năm 1987. Những con phố dân cư yên tĩnh với sự kết hợp giữa nhà machiya truyền thống và các tòa chung cư bê tông nhỏ. Hoa anh đào bắt đầu rụng. Những con kênh hẹp dọc theo vỉa hè. Cột điện chằng chịt dây cáp. Những ngôi đền nhỏ trong khu phố. Khu vực để xe đạp chật kín sau giờ học. Máy bán hàng tự động phát sáng dưới tán cây.
-Phong cách hình ảnh
-Siêu thực, chân thực, không kịch bản. Màu sắc mùa xuân pastel tinh tế. Ánh nắng chiều ấm áp xuyên qua những tán hoa anh đào. Kết cấu khu phố chân thực. Chỉ ghi lại cuộc sống thường ngày. 24fps.
-Phong cách máy quay
-Một người bạn cùng lứa quay bằng máy quay VHS đời đầu khi đang đi bộ về nhà sau giờ học. Chuyển động cầm tay tự nhiên. Khung hình thường không hoàn hảo. Thường xuyên bị lấy nét lại (autofocus breathing). Hơi cháy sáng dưới những tán hoa rực rỡ. Độ mềm mại đặc trưng của video tiêu dùng thời bấy giờ.
-00:00–00:02
-Dừng lại trước máy bán hàng tự động, phân vân giữa hai loại đồ uống đóng lon. Thay đổi ý định hai lần trước khi nhấn nút chọn.
-00:02–00:05
-Mở lon nước ngay lập tức, nhưng nó ấm hơn dự kiến. Cậu bé lộ vẻ hơi thất vọng nhưng vẫn nhấp một ngụm.
-00:05–00:07
-Đi bộ dọc theo con kênh. Cánh hoa anh đào rơi trên vai. Cậu không nhận ra cho đến khi một học sinh khác chỉ vào đó.
-00:07–00:10
-Dừng lại bên chiếc xe đạp của mình. Dùng ngón tay cái ấn thử lốp trước, quyết định rằng như vậy là ổn mà không cần bơm thêm hơi.
-00:10–00:13
-Đứng chờ lịch sự tại điểm giao cắt đường sắt. Chăm chú nhìn đoàn tàu đi qua thay vì nhìn vào máy quay.
-00:13–00:15
-Đạp xe chậm rãi dưới những cánh hoa rơi. Một tay rời khỏi ghi-đông để bắt lấy một cánh hoa trước khi nó bay mất trong gió.
-Âm thanh
-Tiếng xe đạp chạy qua, tiếng chuông tàu hỏa từ xa, tiếng chim hót, tiếng máy bán hàng tự động, tiếng học sinh trò chuyện khẽ, tiếng lốp xe trên mặt đường, tiếng gió xuân. Không có nhạc.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083501616737468416/img/iqorqJfQ5a96qlEG.jpg" width="600" alt="Kyoto 1987 VHS Slice of Life">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8289)**
-
-**Tác giả:** [AIrina (Virtual Media Net)](https://x.com/airina_xyz) | **Nguồn:** [Link](https://x.com/airina_xyz/status/2083501877098889487) | **Đã xuất bản:** Aug 1, 2026
-
----
-### Buổi trị liệu tại phòng khám nắn chỉnh cột sống
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) toàn diện để tạo video điện ảnh đa cảnh về một buổi trị liệu nắn chỉnh cột sống chuyên nghiệp, tập trung vào giải phẫu thực tế, điểm tiếp xúc và phản ứng của bệnh nhân.
-
-#### 📝 Prompt
-
-```
-Tạo một video điện ảnh 30 giây tỷ lệ 16:9 cho mạng xã hội, bối cảnh bên trong một phòng khám nắn chỉnh cột sống và phục hồi chức năng hiện đại vào cuối buổi sáng. Căn phòng có những bức tường tông màu ấm nhạt, sàn gỗ sạch sẽ, bàn trị liệu bọc đệm màu đen, ghế chờ màu xám, một vài chậu cây xanh, tranh treo tường tinh tế và những khung cửa sổ cao nhìn ra hàng cây xanh mát. Sử dụng ánh sáng ban ngày tự nhiên kết hợp với ánh sáng trần dịu nhẹ, kết cấu da chân thực, chuyển động vải tự nhiên, giải phẫu chính xác, điểm tiếp xúc vật lý đáng tin cậy, khuôn mặt nhất quán và các biểu cảm siêu nhỏ tự nhiên. Không văn bản, không logo, không hình mờ, không chuyển động siêu thực. Từ 0 đến 4 giây, mở đầu bằng cảnh quay toàn cảnh với chuyển động máy quay cầm tay chậm tiến vào phòng khám. Một nam bác sĩ điềm tĩnh mặc áo sơ mi màu xám than hướng dẫn một khách hàng nam trưởng thành mặc áo sơ mi trắng tiến về phía bàn trị liệu. Các nhân viên khác di chuyển nhẹ nhàng ở hậu cảnh phía xa. Không khí mang cảm giác chuyên nghiệp, thư thái và mang tính quan sát. Từ 4 đến 8 giây, cắt sang cảnh quay trung bình ở tư thế ngồi. Khách hàng ngồi ở chính giữa trong khi bác sĩ đứng phía sau, nhẹ nhàng kiểm tra độ cân bằng của vai và khả năng xoay cổ. Sử dụng độ trôi tự nhiên nhỏ của máy quay, độ sâu trường ảnh nông, ánh sáng cửa sổ chiếu một bên mặt và giao tiếp bằng mắt chân thực. Thể hiện sự chờ đợi yên tĩnh mà không cần diễn xuất cường điệu. Từ 8 đến 12 giây, chuyển sang góc quay cận cảnh bên cạnh khi bác sĩ cẩn thận đặt vị trí đầu để thực hiện thao tác nắn chỉnh cổ có kiểm soát. Giữ chuyển động tiết chế và đúng về mặt giải phẫu. Ghi lại khoảnh khắc nắn chỉnh nhanh, phản ứng khuôn mặt tinh tế, một hơi thở gấp và nụ cười ngay sau đó. Để máy quay phản ứng với một chuyển động cầm tay chân thực nhỏ thay vì rung lắc kịch tính. Từ 12 đến 17 giây, cắt sang góc nhìn trung bình từ bên cạnh khi khách hàng nằm nghiêng trên bàn. Bác sĩ giữ vai và xương chậu, dừng lại một chút, sau đó thực hiện một thao tác nắn chỉnh thắt lưng gọn gàng. Thể hiện sự chuyển dịch trọng lượng thực tế, độ lún của đệm bàn, nếp gấp áo, nhịp thở, áp lực bàn tay và một tiếng cười ngạc nhiên ngắn từ khách hàng. Từ 17 đến 22 giây, cắt sang cảnh khách hàng nằm sấp. Bác sĩ sờ nắn phần lưng trên, chồng hai tay lên nhau và thực hiện một thao tác nén ngực có kiểm soát. Sử dụng góc máy thấp hơn một chút, phản chiếu dịu nhẹ trên mặt bàn, hoạt động nền nhẹ nhàng và lấy nét chuyển từ bàn tay sang biểu cảm nhẹ nhõm của khách hàng. Từ 22 đến 26 giây, chuyển sang góc nhìn từ phía đầu bàn. Khách hàng nằm ngửa trong khi bác sĩ đặt một dây kéo màu đen dưới đáy hộp sọ. Tạo lực căng từ từ và an toàn, sau đó thực hiện một cú kéo ngắn có kiểm soát. Khách hàng phản ứng với đôi mắt mở to, sau đó cười và lấy tay che mặt trong giây lát. Từ 26 đến 30 giây, kết thúc bằng cảnh khách hàng ngồi thẳng dậy, xoay vai và quay cổ một cách thoải mái trong khi bác sĩ đứng bên cạnh. Kết thúc bằng một nụ cười chân thành và cú lùi máy quay chậm để lộ ra không gian phòng khám sáng sủa. Giữ khoảnh khắc cuối cùng thật bình yên và thỏa mãn, không mang tính quảng cáo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083350500108623872/img/yT9FhLBowsk_16jY.jpg" width="600" alt="Buổi trị liệu tại phòng khám nắn chỉnh cột sống">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8279)**
-
-**Tác giả:** [BMX](https://x.com/bmx_ai13) | **Nguồn:** [Link](https://x.com/bmx_ai13/status/2083501494150574415) | **Đã xuất bản:** Aug 1, 2026
-
----
-### Chuỗi cảnh thoát thân khỏi hành tinh đang sụp đổ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một chuỗi hành động sử thi, quay liên tục (single-shot) về một nhà thám hiểm đang chạy trốn khỏi hành tinh đang sụp đổ giữa dòng magma, sóng thần và những thiên thạch rơi.
-
-#### 📝 Prompt
-
-```
-Một chuỗi hành động điện ảnh không gián đoạn. Không cắt cảnh. Không chuyển cảnh. Một chuyển động máy quay liên tục từ đầu đến cuối.
-
-Bộ phim mở đầu từ quỹ đạo phía trên một hành tinh giống Trái Đất đầy ngoạn mục. Đột nhiên, một vết nứt lớn chứa đầy magma rực sáng chạy dọc khắp lục địa, xé toạc bề mặt hành tinh. Máy quay lập tức lao qua bầu khí quyển với tốc độ đáng kinh ngạc hướng về phía nguồn gốc của thảm họa.
-
-Máy quay ổn định lại ngay phía sau một nhà thám hiểm đơn độc đang mặc bộ đồ sinh tồn tiên tiến, chạy nước rút qua một cao nguyên đá. Mặt đất rung chuyển dữ dội theo từng bước chân. Những vết nứt sâu hoắm lan rộng dưới chân họ, rực sáng với dòng nham thạch nóng chảy.
-
-Phía sau nhà thám hiểm, cả một dãy núi sụp đổ trong những đợt bụi và đá cuộn trào chậm rãi. Những tảng đá khổng lồ rơi xuống thung lũng trong khi tro bụi núi lửa lấp đầy bầu trời.
-
-Nhà thám hiểm nhảy qua một vực thẳm đang ngày càng rộng ra chỉ vài giây trước khi cây cầu đá sụp đổ xuống dòng sông nham thạch. Máy quay theo sát cú nhảy một cách mượt mà, xuyên qua các mảnh vỡ đang bay mà không hề giảm tốc độ.
-
-Một vụ phun trào núi lửa bùng nổ phía trước.
-
-Một cột lửa và tro bụi cao chót vót bắn thẳng vào bầu khí quyển. Những tảng đá rực lửa trút xuống khắp cảnh quan. Nhà thám hiểm trượt (Slides) bên dưới một vòm đá đang đổ sập khi các mảnh vỡ nóng chảy văng tung tóe xung quanh họ.
-
-Máy quay tiếp tục bám theo ngay phía sau.
-
-Không báo trước, một bức tường nước cao hàng trăm mét xuất hiện ở đường chân trời.
-
-Toàn bộ đại dương đã bị dịch chuyển.
-
-Cơn sóng thần lao nhanh qua vùng đất đang sụp đổ với tốc độ kinh hoàng.
-
-Nhà thám hiểm tăng tốc về phía một loạt các cột đá cao chót vót nhô lên từ đáy thung lũng.
-
-Sử dụng một thiết bị phóng móc treo nhỏ gọn, họ đu mình qua từng cột đá đang sụp đổ trong khi con sóng khổng lồ phá hủy mọi thứ phía sau.
-
-Máy quay xoay chuyển tự nhiên theo từng chuyển động, duy trì một dòng chảy mượt mà.
-
-Các mảnh thiên thạch giờ đây bắt đầu tiến vào bầu khí quyển.
-
-Một vài mảnh va chạm gần đó.
-
-Mỗi cú va chạm tạo ra những làn sóng xung kích lan rộng, hất tung bụi, lửa và mảnh vỡ lên cao tận bầu trời.
-
-Một thiên thạch khổng lồ đâm sầm xuống ngay phía trước.
-
-Nhà thám hiểm lao qua đám mây bụi đang lan rộng khi các mảnh vỡ nóng chảy bay vụt qua máy quay.
-
-Phía sau làn khói, một bệ phóng khẩn cấp tự động trồi lên từ dưới lòng đất.
-
-Một con tàu vũ trụ thoát hiểm kiểu dáng đẹp mắt bắt đầu khởi động.
-
-Nhà thám hiểm chạy nước rút qua cây cầu cuối cùng đang sụp đổ.
-
-Cây cầu tan rã dưới từng bước chân.
-
-Vào khoảnh khắc cuối cùng, họ nhảy thẳng vào con tàu vũ trụ đang mở cửa.
-
-Cửa sập đóng lại ngay lập tức.
-
-Động cơ bùng cháy.
-
-Con tàu vũ trụ phóng thẳng đứng ngay khi bệ phóng bị nuốt chửng bởi nham thạch.
-
-Máy quay theo sát con tàu đang tăng tốc khi nó lao xuyên qua tro bụi núi lửa, những đám mây giông và các cơn bão thiên thạch trước khi thoát ra không gian tĩnh lặng.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083494534751866880/img/xgAV7oJrh4yVQVSg.jpg" width="600" alt="Chuỗi cảnh thoát thân khỏi hành tinh đang sụp đổ">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8283)**
-
-**Tác giả:** [Yazdan](https://x.com/AIwithYazdan) | **Nguồn:** [Link](https://x.com/AIwithYazdan/status/2083494837639319932) | **Đã xuất bản:** Aug 1, 2026
-
----
-### Phim giả tưởng về rồng bảo vệ trẻ nhỏ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một cảnh phim giả tưởng đầy cảm xúc và đậm chất điện ảnh, nơi một con rồng đỏ cổ đại che chở một đứa trẻ khỏi các sinh vật hắc ám trong một vương quốc đổ nát.
-
-#### 📝 Prompt
-
-```
-Tạo một bộ phim giả tưởng điện ảnh siêu thực dài 15 giây với hình ảnh một con rồng đỏ cổ đại nguyên bản đang bảo vệ đứa trẻ loài người cuối cùng trong một vương quốc đã bị phá hủy. Tập trung vào cách kể chuyện giàu cảm xúc, chuyển động nhân vật chân thực, ánh sáng kịch tính, môi trường chi tiết, vật lý thực tế và các chuyển cảnh điện ảnh mượt mà.
-
-0:00–0:03 | Đứa trẻ cuối cùng
-
-Một đứa trẻ 7 tuổi đi bộ một mình qua đống đổ nát của một vương quốc cổ đại vào ban đêm, tay cầm một chiếc đèn lồng nhỏ phát sáng. Khói và tro bụi bay lơ lửng trên những con phố bị tàn phá trong khi những ngọn lửa từ xa chiếu sáng khung cảnh hoang tàn.
-
-0:03–0:06 | Mối đe dọa
-
-Một vài sinh vật hắc ám khổng lồ xuất hiện từ làn khói và bao vây đứa trẻ đang sợ hãi. Đứa trẻ từ từ lùi lại khi các sinh vật tiến đến gần.
-
-0:06–0:10 | Rồng xuất hiện
-
-Một con rồng đỏ cổ đại khổng lồ bất ngờ đáp xuống giữa đứa trẻ và các sinh vật. Đôi cánh to lớn của nó dang rộng, đôi mắt vàng rực sáng, nó gầm lên một tiếng đầy uy lực vang vọng khắp vương quốc đổ nát.
-
-0:10–0:13 | Sự bảo vệ
-
-Các sinh vật sợ hãi rút lui. Con rồng nhẹ nhàng hạ một bên cánh khổng lồ bao quanh đứa trẻ, che chở chúng khỏi nguy hiểm. Đứa trẻ ngước nhìn với đôi mắt đẫm lệ, nhận ra con rồng đang bảo vệ mình.
-
-0:13–0:15 | Kết thúc đầy cảm xúc
-
-Con rồng nhìn đứa trẻ trước khi quay mặt về phía đường chân trời đang cháy rực khi bình minh bắt đầu ló dạng. Đứa trẻ nhẹ nhàng đặt bàn tay nhỏ bé lên mặt con rồng. Ánh sáng bình minh ấm áp xuyên qua làn khói khi máy quay từ từ tiến lại gần.
-
-Phong cách hình ảnh: Giả tưởng sử thi kiểu Hollywood, rồng chân thực, trẻ em chân thực, ánh sáng điện ảnh theo thể tích, vảy rồng chi tiết cao, khói không khí, chuyển động máy quay kịch tính, độ sâu trường ảnh nông, vật lý thực tế, 4K, kể chuyện giàu cảm xúc, chuyển cảnh mượt mà.
-
-Máy quay: Cảnh toàn thiết lập → góc thấp tiết lộ sinh vật → cảnh rồng đáp xuống kịch tính → cận cảnh rồng và đứa trẻ → cảnh quay cuối đầy cảm xúc.
-
-Âm thanh: Tiếng gió và lửa từ xa, tiếng gầm của sinh vật, tiếng rồng gầm uy lực, nhạc nền dàn nhạc điện ảnh cao trào, kết thúc nhẹ nhàng đầy cảm xúc.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083466775015084032/img/dh6rjyuICMT5-Cep.jpg" width="600" alt="Phim giả tưởng về rồng bảo vệ trẻ nhỏ">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8277)**
-
-**Tác giả:** [Zeeshi](https://x.com/AIwithZeeshi) | **Nguồn:** [Link](https://x.com/AIwithZeeshi/status/2083466854845108706) | **Đã xuất bản:** Aug 1, 2026
-
----
-### Câu chuyện cảm động về chú cún 3D và chiếc nhẫn
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt điện ảnh đa cảnh dành cho Seedance 2.0, kể về một cụ ông nhận được hộp nhẫn từ một chú cún, khơi gợi lại những ký ức hoài niệm về cuộc hôn nhân và màn cầu hôn của mình.
-
-#### 📝 Prompt
-
-```
-Một bộ phim hoạt hình ngắn 16:9 mang tính điện ảnh với phong cách hoạt hình 3D ấm áp, đầy cảm xúc, nhân vật nhất quán, bối cảnh phòng khách đồng nhất và các chuyển cảnh mượt mà giữa thực tại và ký ức.
-0–4 giây — Hiện tại
-Một cụ ông ngồi một mình trên ghế sofa trong phòng khách ấm áp lúc hoàng hôn, vẻ mặt tĩnh lặng và cô đơn. Một chú cún Golden Retriever nhỏ chạy vào khung hình, miệng ngậm một chiếc hộp đựng nhẫn bằng nhung cũ. Chú cún nhẹ nhàng đặt chiếc hộp lên đùi ông. Cụ ông ngạc nhiên và từ từ mở hộp. Cảnh quay điện ảnh đẩy dần vào, biểu cảm khuôn mặt tinh tế, ánh sáng vàng ấm áp.
-4–8 giây — Ký ức hạnh phúc
-Một luồng sáng trắng dịu nhẹ chuyển cảnh sang một ký ức ấm áp. Cụ ông và vợ khi còn trẻ ngồi cùng nhau trên chính chiếc ghế sofa đó, mỉm cười, trò chuyện và khoác tay nhau. Chú cún vẫy đuôi vui vẻ bên cạnh. Không khí ấm cúng, chuyển động tự nhiên nhẹ nhàng, hiệu ứng máy quay cầm tay mềm mại, ánh sáng hoài niệm ấm áp.
-8–12 giây — Ký ức xa xưa
-Cảnh quay chuyển sang thời trẻ của họ lúc hoàng hôn. Một chàng trai trẻ quỳ xuống cầu hôn cô gái mặc váy hoa. Cô gái che miệng vì ngạc nhiên và hạnh phúc. Một chú cún ngồi gần đó. Máy quay từ từ tiến về phía trước, tập trung vào chiếc hộp nhẫn đang mở và chiếc nhẫn lấp lánh. Ánh sáng điện ảnh lãng mạn, biểu cảm đầy cảm xúc, độ sâu trường ảnh nông.
-12–15 giây — Trở về thực tại
-Cắt cảnh khớp từ chiếc nhẫn trong ký ức sang chiếc nhẫn trên tay cụ ông. Máy quay từ từ lùi lại. Ông nhìn chiếc nhẫn, nỗi buồn dần chuyển thành nụ cười bình yên và yêu thương. Một giọt nước mắt nhỏ lăn trên khóe mắt. Chú cún nằm nghỉ bên cạnh. Ánh hoàng hôn ấm áp tràn ngập căn phòng, một cái kết tĩnh lặng và đầy cảm xúc.
-Yêu cầu về phong cách và chất lượng:
-phim hoạt hình 3D chất lượng cao đầy cảm xúc, bố cục điện ảnh, hoạt ảnh khuôn mặt biểu cảm nhưng tự nhiên, nhân vật nhất quán giữa phiên bản trẻ và già, ngoại hình chú cún đồng nhất, chuyển động mượt mà, chuyển động vải và lông chân thực, độ sâu trường ảnh mềm mại, chỉnh màu ấm áp, chuyển cảnh ký ức liền mạch, không văn bản, không phụ đề, không thêm nhân vật phụ, không biến dạng bàn tay, không chuyển động máy quay đột ngột.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083124650683592704/img/mYW9fhbNdLK8tvF0.jpg" width="600" alt="Câu chuyện cảm động về chú cún 3D và chiếc nhẫn">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8203)**
-
-**Tác giả:** [Ima Studio](https://x.com/ImaStudio_ai) | **Nguồn:** [Link](https://x.com/ImaStudio_ai/status/2083439837298958805) | **Đã xuất bản:** Aug 1, 2026
-
----
-### Prompt video về sự nhất quán của nhân vật trên cánh đồng hoa hướng dương
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt video chi tiết cho Seedance 2.0 tập trung vào việc duy trì sự nhất quán của nhân vật khi đi dạo qua cánh đồng hoa hướng dương lúc hoàng hôn.
-
-#### 📝 Prompt
-
-```
-Sử dụng cô gái đã tải lên làm tham chiếu nhân vật chính xác. Duy trì nhất quán các đặc điểm khuôn mặt, kiểu tóc bob gợn sóng màu vàng ngắn, đôi mắt xanh, làn da trắng với những đốm tàn nhang nhẹ và nụ cười tự nhiên trong suốt mọi cảnh quay. Giữ nguyên biểu cảm của cô ấy giống hệt như trong hình ảnh tham chiếu. Cho cô ấy mặc chiếc váy mùa hè không tay màu trắng thướt tha tương tự.
-
-Cô ấy đi dạo qua một cánh đồng hoa hướng dương rộng lớn trong ánh hoàng hôn giờ vàng, nhẹ nhàng lướt những ngón tay qua các bông hoa khi một làn gió ấm khẽ lay động mái tóc và chiếc váy của cô. Cô ấy mỉm cười tự nhiên sau khi nhận thấy hàng trăm con bướm phát sáng bay lên không trung xung quanh mình. Máy quay bắt đầu bằng một cảnh quay cận cảnh đậm chất điện ảnh vào khuôn mặt cô, chuyển tiếp sang cảnh quay theo sau mượt mà, dõi theo cô khi cô mở rộng vòng tay và tận hưởng khoảnh khắc, và kết thúc bằng một cảnh quay toàn cảnh từ trên không tuyệt đẹp khi cô xoay người đầy vui vẻ giữa cánh đồng hoa hướng dương. Siêu thực tế, đậm chất điện ảnh, ánh sáng giờ vàng, độ sâu trường ảnh mềm mại, chuyển động tự nhiên, kết cấu da chi tiết cao, sự nhất quán khuôn mặt chân thực, tỷ lệ dọc 9:16, 4K, không văn bản, không hình mờ.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083439557815808000/img/-Y_Q2qT5DFcBNaqa.jpg" width="600" alt="Prompt video về sự nhất quán của nhân vật trên cánh đồng hoa hướng dương">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8200)**
-
-**Tác giả:** [Hannah Ai](https://x.com/nusratsid1) | **Nguồn:** [Link](https://x.com/nusratsid1/status/2083439602094993909) | **Đã xuất bản:** Aug 1, 2026
-
----
-### Chuỗi hành động cổng không gian khoa học viễn tưởng đậm chất điện ảnh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt chi tiết cho phân cảnh khoa học viễn tưởng, nơi một người đưa tin bị mắc kẹt giữa hai cổng không gian dẫn đến hai môi trường đối lập — một đại dương bão tố và một sa mạc đầy sấm sét.
-
-#### 📝 Prompt
-
-```
-Chuỗi hành động khoa học viễn tưởng đậm chất điện ảnh, siêu thực, thời lượng 15 giây, tỷ lệ khung hình 16:9. Bên trong một phòng cổng vận chuyển tương lai, một người đưa tin vô tình kích hoạt sai trình tự cổng. Chỉ có một nhân vật. Chỉ có một căn phòng. Căn phòng đơn giản và rõ ràng: sàn kim loại, các thùng hàng, bảng điều khiển trung tâm, hai khung cổng lớn trên tường, đèn cảnh báo và một cửa thoát hiểm. Hành động bắt đầu ngay lập tức. Cổng thứ nhất mở ra ở một bên phòng, để lộ một cơn bão đại dương dữ dội. Mưa, gió và nước biển phun mạnh vào trong phòng. Cổng thứ hai mở ra ở bức tường đối diện, để lộ một sa mạc dưới những đám mây đen và những tia chớp rạch ngang trời. Gió nóng và cát thổi vào phòng từ phía đó. Người đưa tin nhận ra căn phòng đang bị mắc kẹt giữa hai thế giới đang hoạt động. Các thùng hàng bắt đầu trượt trên sàn. Một thùng hàng bị kéo về phía cổng đại dương, sau đó một thùng khác bị gió sa mạc đẩy sang một bên. Thiết bị rời và mảnh vụn bay tán loạn khắp phòng. Người đưa tin buộc phải di chuyển giữa các thùng hàng đang trượt trong khi cố gắng tiếp cận bảng điều khiển. Sự cố ngày càng tồi tệ. Lực hút từ cổng bão trở nên mạnh hơn và bắt đầu kéo hàng hóa về phía những con sóng dữ. Cùng lúc đó, cổng sa mạc lóe lên ánh chớp và thổi luồng gió mạnh hơn vào phòng. Người đưa tin tiếp cận bảng điều khiển, nhấn nút ghi đè khẩn cấp, nhưng cửa thoát hiểm không mở kịp. Người đưa tin đưa ra quyết định nhanh chóng và sử dụng cổng sa mạc làm lối thoát. Họ chạy, nhảy lên một thùng hàng đang trượt, dùng nó làm bệ đỡ và lao qua cổng sa mạc ngay khi một thùng hàng lớn hơn bị hút vào cổng bão phía sau. Kết thúc với cảnh người đưa tin tiếp đất ở phía sa mạc trong khi căn phòng cổng phía sau vẫn bị mắc kẹt giữa nước bão, gió sa mạc và các thùng hàng đang trượt. Phong cách: siêu thực, đậm chất điện ảnh, kịch tính, hành động rõ ràng dễ theo dõi, chỉ một người đưa tin, chỉ một phòng chứa hàng, một bối cảnh chính, chỉ hai cổng không gian, cổng bão đại dương, cổng sấm sét sa mạc, các thùng hàng trượt, gió mạnh, nước biển phun, cát, mục tiêu đơn giản, không thêm nhân vật, không thêm địa điểm ngoài những thế giới nhìn thấy qua cổng, không văn bản, không logo, không phong cách hoạt hình, không quay chậm, không khuôn mặt người nổi tiếng, không diễn viên dễ nhận diện, không giống ngôi sao điện ảnh, không giống người của công chúng, không quay cận cảnh rõ mặt. Giữ nguyên tỷ lệ. Giữ nguyên phong cách và đặc điểm. Tỷ lệ khung hình 16:9.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083435027153494016/img/tL8fyJRFiwVtZmp_.jpg" width="600" alt="Chuỗi hành động cổng không gian khoa học viễn tưởng đậm chất điện ảnh">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8201)**
-
-**Tác giả:** [DeCat](https://x.com/DeCat2025) | **Nguồn:** [Link](https://x.com/DeCat2025/status/2083435058396844250) | **Đã xuất bản:** Aug 1, 2026
-
----
-### Chuỗi cảnh kinh dị phim Slasher thập niên 1980
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) điện ảnh chi tiết dài 30 giây cho phim kinh dị thập niên 80, bao gồm ngoại hình nhân vật cụ thể và dòng thời gian chi tiết.
-
-#### 📝 Prompt
-
-```
-Phim thập niên 1980, cảnh quay live-action chân thực trên phim 35mm với độ nhiễu hạt dày, màu sắc bão hòa rực rỡ nhưng gai góc, ánh sáng neon thực tế kết hợp với đèn chớp cường độ mạnh và sương mù. Biên tập nhanh, hỗn loạn với các đoạn cắt đột ngột, phản chiếu qua kính, góc nhìn POV, đèn chớp và chuyển động linh hoạt để tạo ra sự mất phương hướng và hoảng loạn tột độ. Sử dụng hiệu ứng máu giả, xúc tu cao su và các pha hành động thực tế. Diễn xuất chuẩn thập niên 80: tóc xù, trang phục sặc sỡ, tất ống chân, biểu cảm sợ hãi cường điệu và hình thể đầy kịch tính. Không khí synth được thể hiện qua ánh đèn nhấp nháy và những khoảng lặng chết chóc bất ngờ.
-[THAM CHIẾU HÌNH ẢNH] Tạo từ đầu một nhóm gồm năm thanh niên giữa thập niên 80 với ngoại hình khác biệt rõ rệt—chàng trai tóc mullet vàng cao trong chiếc áo neon, chàng trai mập mạp tóc xoăn tối màu mặc áo họa tiết Hawaii, cô gái tóc đỏ xoăn lớn trong chiếc váy neon, cô gái thể thao tóc đuôi ngựa đen mặc áo crop top, cô gái đeo kính gầy gò mặc áo polo pastel—trong trang phục tiệc du thuyền đầy màu sắc và một con quái vật bạch tuộc khổng lồ với những xúc tu cao su dày và cái mỏ há hốc. Tất cả trên một chiếc du thuyền sang trọng ngập tràn ánh neon theo phong cách slasher thập niên 1980 thực tế.
-[DÒNG THỜI GIAN TỪNG GIÂY] 0-3s: [Montage mất phương hướng nhanh] Các đoạn cắt nhanh, chói tai trên boong du thuyền mờ ảo vào ban đêm. Đèn neon nhấp nháy, năm người bạn đang cười đùa và nhảy múa cùng đồ uống, nhạc nổi lớn. Chèn cảnh: rượu sâm panh đổ, nụ cười của một cô gái tắt dần khi sương mù bốc lên từ mặt nước, hình ảnh phản chiếu qua kính thoáng hiện một xúc tu khổng lồ rồi biến mất. Đèn chớp nháy. Tiếng cười tắt ngấm khi động cơ ngừng hoạt động và không thấy đất liền.
-3-6s: [Montage hoảng loạn gia tăng] Các đoạn cắt nhanh khi sự hoảng loạn lan rộng. Chàng trai tóc vàng chạy đến buồng lái, bộ đàm bị đập nát. Cận cảnh micro vỡ. Hai cô gái co cụm gần lan can, mắt mở to, gọi tên nhau vang vọng. Góc nhìn POV từ dưới thấp lướt qua làn sương dày. Ly rượu đổ. Họ tách ra—một người vào cabin, một người ra phía đuôi tàu. Hình ảnh phản chiếu dưới nước cho thấy các xúc tu đang di chuyển trong bóng tối.
-6-9s: [Chuỗi tấn công đầu tiên] Bạo lực bất ngờ, các đoạn cắt liên tiếp. Bạch tuộc khổng lồ trồi lên từ làn nước sương mù. Cắt nhanh: xúc tu khổng lồ được chiếu sáng bởi đèn chớp, đập mạnh xuống, máu giả bắn tung tóe lên chiếc áo khoác hồng. Cơ thể rơi mạnh xuống boong ướt át. Những người khác la hét và chạy tán loạn, trượt ngã. Một cô gái ngã xuống. Bạch tuộc tiến tới với những chuyển động xúc tu nặng nề trong khi đèn neon vẫn nhấp nháy.
-9-12s: [Hỗn loạn toàn tập & Các pha hạ sát thực tế] Montage điên cuồng. Nhiều đoạn cắt: chàng trai chạy đua để lấy bè cứu sinh, xúc tu xuất hiện phía sau. Cô gái trốn sau quầy bar, xúc tu đập xuyên qua, máu giả văng trên mặt quầy. Một người khác bị dồn vào tường cabin, bị nhấc bổng và đập mạnh, cơ thể trượt dài để lại vệt đỏ. Tiếng chân cọ xát, cơ thể rơi xuống, sương mù cuộn quanh các hiệu ứng máu me thực tế. Đèn chớp bạo lực. Người sống sót vung móc thuyền, tiếng đập trầm đục vào xúc tu.
-12-15s: [Cao trào & Mối đe dọa kéo dài] Các đoạn cắt nhanh. Hai người cuối cùng tuyệt vọ
-```
-
-<img src="https://pbs.twimg.com/media/HOnYjBJawAAAuhi.jpg" width="600" alt="Chuỗi cảnh kinh dị phim Slasher thập niên 1980">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8231)**
-
-**Tác giả:** [MrDejie](https://x.com/mrdejie) | **Nguồn:** [Link](https://x.com/mrdejie/status/2083433982356836382) | **Đã xuất bản:** Aug 1, 2026
-
----
-### Video chuyển cảnh vẽ tay bằng điện thoại
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Một câu lệnh tạo video bắt đầu bằng cận cảnh bức vẽ chân dung một cô gái kỳ quặc trên giấy trắng, với hiệu ứng chuyển động camera cầm tay chân thực.
-
-#### 📝 Prompt
-
-```
-Quay bằng điện thoại cầm tay, có độ rung lắc rõ rệt, điện thoại không xuất hiện trong khung hình. Trong 0-1 giây đầu tiên, khung hình bắt đầu là một tờ giấy trắng chiếm toàn bộ màn hình, với hình vẽ graffiti nằm ngang chân dung nửa người của một cô gái. Bức vẽ rất tinh nghịch, có phần dễ thương và ngốc nghếch, với các biểu cảm kỳ quặc, khoảng trắng rõ ràng cùng những nét vẽ mạnh mẽ, đầy năng lượng.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083429604782743552/img/C17fsz08cCXjZUfs.jpg" width="600" alt="Video chuyển cảnh vẽ tay bằng điện thoại">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8300)**
-
-**Tác giả:** [PixelAIGC](https://x.com/PixelAigc) | **Nguồn:** [Link](https://x.com/PixelAigc/status/2083429679177093432) | **Đã xuất bản:** Aug 1, 2026
-
----
-### Video người đóng Momotaro phong cách Steampunk
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Một câu lệnh tạo video điện ảnh cho Seedance 2.5, tạo ra phiên bản người đóng phong cách steampunk dài 30 giây về truyền thuyết Momotaro với độ tương phản cao và tông màu xanh dương.
-
-#### 📝 Prompt
-
-```
-Tạo video về Momotaro. Từ khi sinh ra đến khi hoàn thành việc tiêu diệt quỷ trong 30 giây. Phiên bản người đóng. Chỉ đạo: Làm tối ánh sáng và tăng cường độ tương phản. Giảm độ bão hòa và đồng nhất nhiệt độ màu bằng bộ lọc màu xanh dương. Thế giới quan Steampunk. Các mối quan hệ giữa người với người lạnh nhạt. Đối thoại bằng tiếng Nhật.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083420527390265344/img/44CQxAgzXfHbvTUU.jpg" width="600" alt="Video người đóng Momotaro phong cách Steampunk">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8218)**
-
-**Tác giả:** [ChiakiAkagi 還暦のAIイリュージョニスト](https://x.com/ChiakiAkagi) | **Nguồn:** [Link](https://x.com/ChiakiAkagi/status/2083420580267896854) | **Đã xuất bản:** Aug 1, 2026
-
----
-### Vlog du lịch Bali quay tay chân thực
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh được thiết kế để tạo ra cảm giác quay bằng điện thoại cầm tay thô, không qua chỉnh sửa AI cho cảnh quay kỳ nghỉ tại Bali với kết cấu da người chân thực và ánh sáng tự nhiên.
-
-#### 📝 Prompt
-
-```
-Một người thật trong kỳ nghỉ thực tế tại Bali, không phải do AI tạo ra. Không phải quảng cáo. Không phải ảnh chụp chuyên nghiệp. Kết cấu da người thật – nhìn rõ lỗ chân lông, tự nhiên, ửng hồng, hơi bóng do nhiệt, không có làn da mịn màng như nhựa của AI, không có bộ lọc hoàn hảo không tì vết, hơi bóng mồ hôi trong các cảnh ngoài trời, chấp nhận những khiếm khuyết tự nhiên. Quay bằng điện thoại cầm tay xuyên suốt – có độ rung và lắc tự nhiên, khung hình không hoàn hảo – hơi lệch tâm, nghiêng, có độ nhòe chuyển động tự nhiên khi di chuyển đường chân trời, cắt cạnh, độ phơi sáng không nhất quán – hơi quá sáng ở ngoài trời, ấm hơn ở trong nhà. Thỉnh thoảng có lấy nét hơi chậm hoặc lấy nét mềm, biến dạng ống kính iPhone 26mm, không có chống rung gimbal – cảm giác quay tay thô, không có cảnh quay bằng drone, không có góc quay chuyên nghiệp. Chỉ sử dụng 100% ánh sáng tự nhiên, các cảnh buổi sáng – ánh sáng vàng ấm áp dịu nhẹ xuyên qua rèm cửa
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083420128251887616/img/_2LMAixg82cffDi5.jpg" width="600" alt="Vlog du lịch Bali quay tay chân thực">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8288)**
-
-**Tác giả:** [Avelyrah](https://x.com/AvelyrahnAI) | **Nguồn:** [Link](https://x.com/AvelyrahnAI/status/2083420467353079819) | **Đã xuất bản:** Aug 1, 2026
-
----
-### Video hài hước về hồ ly tinh nghịch
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Một câu lệnh video đa cảnh phức tạp dành cho Seedance 2.0, với sự xuất hiện của sư tỷ kiếm khách và một chú hồ ly tinh nghịch đang trốn trong tay áo lụa.
-
-#### 📝 Prompt
-
-```
-[Phong cách tổng thể]
-
-Chất lượng điện ảnh chân thực, kết hợp thẩm mỹ tinh tế của tiên hiệp cổ điển, bố cục phong cảnh Trung Hoa truyền thống, hài kịch hình ảnh đầy kịch tính, tông màu xanh tuyết lạnh và trắng ngà ấm áp, ánh sáng ngược buổi sáng nhẹ nhàng, hạt phim mịn, hiệu ứng phép thuật tiết chế và có kiểm soát, cùng lối diễn xuất tỉnh bơ; được thiết kế cho Seedance 2.0 với tính nhất quán của nhân vật theo ảnh tham chiếu, kể chuyện đa cảnh liên tục, diễn xuất hành động chân thực, cùng lời thoại tiếng Quan Thoại và âm thanh môi trường đồng bộ.
-
-[Nhân vật]
-
-ID nhân vật A | Sư tỷ Kiếm Tiên
-
-Sư tỷ @Image 1, nữ giới Đông Á 25–30 tuổi, khuôn mặt trái xoan, da sáng tự nhiên, mắt hạnh đen láy, tóc đen dài buộc nửa đầu với trâm ngọc trắng, vóc dáng cao ráo mảnh mai, mặc Hán phục lụa trắng thêu hoa, tay áo rộng nhiều lớp bán trong suốt, đai lưng màu bạc nhạt, đeo ngọc bội và đi giày vải trắng.
-
-ID nhân vật B | Sư muội
-
-Sư muội @Image 2, nữ giới Đông Á 20–25 tuổi, khuôn mặt tròn trịa linh hoạt, tóc tết đen, vóc dáng nhỏ nhắn, mặc Hán phục vải lanh màu xanh lá, đai lưng vải tối màu, trâm gỗ và giày vải đen.
-
-Sinh vật khác
-
-Chỉ xuất hiện một chú hồ ly trắng nhỏ duy nhất trong suốt video.
-
-[Cảnh 1 | 0-5 giây | Toàn cảnh góc thấp với chuyển động máy chậm]
-
-Một sân viện yên tĩnh sau trận tuyết rơi, gạch đá xám phủ một phần tuyết, tường trắng, mái ngói đen, thông cổ thụ, hàng rào tre, đèn đồng, khói hương trôi chậm và một chiếc giỏ mây ngủ nhỏ trống không bên bậc đá, thiết lập mối quan hệ không gian rõ ràng và ổn định.
-
-Sư muội mặc Hán phục xanh lá cầm chiếc giỏ mây trống và lo lắng nói: "Sư tỷ, hồ ly canh núi bị mất tích rồi."
-
-Sư tỷ mặc Hán phục lụa trắng bình tĩnh giơ hai ngón tay và đáp: "Phong tỏa cổng núi, ta sẽ tìm thấy nó."
-
-[Cảnh 2 | 5-10 giây | Cảnh trung, máy quay theo sát từ bên cạnh]
-
-Sư tỷ mặc Hán phục lụa trắng thực hiện thủ ấn truy vết chính xác và rõ ràng; một chuỗi dấu chân hồ ly màu vàng nhạt xuất hiện trên tuyết, đi vòng qua sân viện và Sư muội, cuối cùng kéo dài thẳng về phía Sư tỷ.
-
-Cô đi theo những dấu chân phát sáng với vẻ mặt nghiêm nghị; bối cảnh vẫn là sân viện phủ tuyết, thông cổ thụ, đèn đồng, giỏ mây trống và bậc đá.
-
-[Cảnh 3 | 10-15 giây | Cận cảnh chuyển sang đặc tả]
-
-Những dấu chân hồ ly phát sáng kéo dài lên gấu áo của bộ Hán phục lụa trắng, biến mất dưới tay áo rộng của cô.
-
-Sư muội nhẹ nhàng nhấc tay áo rộng lên, để lộ một chú hồ ly trắng nhỏ đang cuộn tròn ngủ bên trong, chiếc đuôi xù quấn quanh cổ tay Sư tỷ. Chú hồ ly ngáp một cái, mở một mắt rồi lại ngủ tiếp.
-
-Sư muội vô cảm nói: "Sư tỷ, nó không mất tích, nó chỉ đổi chỗ ngủ thôi."
-
-Đặc tả: Một bên lông mày của Sư tỷ khẽ giật; cô chậm rãi hạ tay áo xuống, giả vờ như mọi thứ đều nằm trong dự tính.
-
-Kết thúc bằng tiếng đàn tranh hào hùng đột ngột ngắt quãng, tiếng kêu nhỏ của hồ ly và tiếng chuông đèn đồng vang lên nhẹ nhàng.
-
-[Yêu cầu kỹ thuật]
-
-Thời lượng nghiêm ngặt 15 giây, tỷ lệ khung hình 16:9, ba cảnh quay sạch sẽ và rõ ràng, đặc điểm khuôn mặt và trang phục ổn định, âm thanh tiếng Quan Thoại bản địa, khớp khẩu hình chính xác, tuyết chân thực, vải lụa, tóc, khói hương, dấu chân phát sáng và chuyển động của hồ ly, không tạo phụ đề, chỉ có hai người và một hồ ly xuất hiện trong suốt video.
-
-[Câu lệnh phủ định]
-
-mờ, chất lượng kém, độ phân giải thấp, nhiễu, lỗi nén jpeg, hình mờ, văn bản, lỗi; biến dạng, đột biến, giải phẫu sai, bàn tay vẽ xấu, bố cục tệ, lệch khung hình, dị dạng; nhân vật không nhất quán, thay đổi trang phục, biến đổi khuôn mặt, thay đổi bối cảnh, cắt cảnh bị lỗi, đạo cụ biến mất
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083408053139865600/img/1fP1G52M5ny0C1zL.jpg" width="600" alt="Video hài hước về hồ ly tinh nghịch">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8208)**
-
-**Tác giả:** [Soran](https://x.com/Soranlan) | **Nguồn:** [Link](https://x.com/Soranlan/status/2083408525317804519) | **Đã xuất bản:** Aug 1, 2026
-
----
-### Chuỗi hành động Kẻ trộm tại Tháp Đồng hồ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) tạo video hành động đậm chất điện ảnh, mô tả chi tiết một tên trộm đang tìm cách thoát khỏi tòa tháp đồng hồ cổ nguy hiểm với những chiếc chuông khổng lồ đung đưa và các bánh răng chuyển động.
-
-#### 📝 Prompt
-
-```
-Bên trong một tòa tháp đồng hồ cổ khổng lồ vào ban đêm, một tên trộm bị mắc kẹt trên cao và đang cố gắng tìm đường thoát xuống dưới. Bối cảnh hiện lên rõ nét và đầy nguy hiểm: những chiếc chuông lớn đung đưa, các bệ gỗ hẹp, thang đứng, bánh răng đang quay, xích nặng, những thanh xà phủ đầy bụi và các khoảng trống nhìn thấu xuống dưới tòa tháp. Gió và ánh sáng từ cơn bão lóe lên qua các khe hở của tháp. Mục tiêu rất đơn giản: tên trộm phải băng qua buồng chuông và đến được cầu thang thoát hiểm trước khi những chiếc chuông chuyển động và những chiếc thang đổ sập chặn đường. Hành động bắt đầu khi tên trộm bước lên một bệ hẹp ngay lúc một chiếc chuông khổng lồ đung đưa ngang qua tòa tháp. Chiếc chuông sượt qua chỉ trong gang tấc rồi đập ngược trở lại. Tên trộm cúi người, nắm lấy một sợi xích treo để giữ thăng bằng và di chuyển về phía chiếc thang tiếp theo. Chiếc thang đầu tiên gãy vụn dưới chân. Tên trộm rơi xuống, kịp nắm lấy thanh vịn và đu người lên một bệ thấp hơn bên cạnh các bánh răng đồng hồ đang quay. Các bánh răng chuyển động chậm rãi nhưng đầy sức mạnh, buộc tên trộm phải leo qua chúng và tính toán thời gian cho từng bước đi thật cẩn thận. Một tấm ván lỏng lẻo gãy rời và rơi xuống vực tối bên dưới. Tên trộm tiến đến bệ cuối cùng gần chiếc chuông lớn nhất. Chiếc chuông đó đột ngột vung mạnh ngang qua buồng, chắn ngang toàn bộ lối đi. Tên trộm cố gắng băng qua nhưng suýt chút nữa bị chiếc chuông hất văng khỏi bệ. Họ loạng choạng, nắm lấy thanh vịn ở mép, kéo người lên rồi nhảy vọt qua chiếc chuông đang đung đưa để hướng về phía cầu thang thoát hiểm. Kết thúc bằng cảnh tên trộm tiếp đất mạnh trên bệ phía xa và lao nhanh qua cửa cầu thang trong khi chiếc chuông khổng lồ vẫn đang đung đưa phía sau. Phong cách: siêu thực, đậm chất điện ảnh, kịch tính, hành động rõ ràng dễ theo dõi, chỉ có một tên trộm, chỉ có một tòa tháp đồng hồ, một mục tiêu rõ ràng, chuông khổng lồ đung đưa, thang gãy, bánh răng chuyển động, bệ hẹp, cảm giác độ cao nguy hiểm, không có đám đông, không có cảnh chiến đấu, không văn bản, không logo, không phong cách hoạt hình, không quay chậm, không có gương mặt người nổi tiếng, không có diễn viên dễ nhận diện, không giống ngôi sao điện ảnh, không giống nhân vật công chúng, không quay cận cảnh rõ mặt. Giữ nguyên tỷ lệ. Giữ nguyên phong cách và các đặc điểm. Tỷ lệ khung hình 16:9.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083394622479314945/img/S_Zw8zzVeCIA4G7_.jpg" width="600" alt="Chuỗi hành động Kẻ trộm tại Tháp Đồng hồ">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8188)**
-
-**Tác giả:** [DeCat](https://x.com/DeCat2025) | **Nguồn:** [Link](https://x.com/DeCat2025/status/2083394763659555079) | **Đã xuất bản:** Aug 1, 2026
-
----
-### Cảnh quay dài điện ảnh kỳ ảo hoành tráng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý (prompt) cho cảnh quay liên tục đầy chi tiết, theo chân một nhân vật trên chiếc chổi bay qua nhiều cảnh quan thành phố toàn cầu với thế giới quan nhất quán.
-
-#### 📝 Prompt
-
-```
-16:9, 30 giây, một cảnh quay dài điện ảnh kỳ ảo chân thực hoành tráng, thế giới quan nguyên bản, một cảnh quay liên tục, chuyển động máy quay không gián đoạn, không cắt cảnh, và không tham chiếu đến bất kỳ bộ phim, nhân vật, diễn viên hay cảnh phim dễ nhận biết nào hiện có. PHONG CÁCH TỔNG THỂ: Thẩm mỹ phim kỳ ảo kinh phí lớn với kỹ thuật quay phim chân thực, quy mô thế giới hoành tráng, và nhân vật chính xinh đẹp với làn da tự nhiên, biểu cảm chân thực và tỷ lệ cơ thể đáng tin cậy. Tông màu tổng thể thông minh, thanh lịch, bí ẩn và dũng cảm, không bao giờ mang tính trẻ con, hoạt hình hay cosplay cường điệu. Bốn địa điểm được kết nối thông qua một đường bay liên tục: bờ biển đen của Iceland, một London thời Victoria giả tưởng, một thành phố lấy cảm hứng từ Paris về đêm trong mưa, và một đô thị trên không lấy cảm hứng từ New York tương lai. BẢNG MÀU THỐNG NHẤT: Đen sâu, xám bạc và vàng ấm là những màu chủ đạo xuyên suốt bộ phim. Iceland thêm màu xanh lạnh; London thêm màu xám xanh và hổ phách; Paris thêm màu xanh đậm và vàng ướt; New York thêm màu xanh mòng két đậm, trắng bạc và vàng. Duy trì phối cảnh khí quyển chân thực, sương mù mỏng, mưa rơi, bề mặt ướt, phản chiếu trên kính và ánh sáng thể tích xuyên suốt. Tránh vẻ ngoài giống trò chơi điện tử, phong cách concept-art và các vật liệu trông như nhựa. NHÂN VẬT CHÍNH: Chỉ có một nữ chính duy nhất trong toàn bộ video. Cô khoảng 28 tuổi, mảnh mai, xinh đẹp xuất sắc, thông minh, thanh lịch và điềm tĩnh quyết đoán. Các đường nét khuôn mặt tinh tế của cô hoàn toàn nguyên bản và không được sao chép bất kỳ diễn viên hay nhân vật điện ảnh thực tế nào. Cô có đôi mắt sáng tự nhiên, lông mày được định hình rõ nét, cấu trúc khuôn mặt mềm mại nhưng mạnh mẽ, tông da tự nhiên, kết cấu da chân thực và biểu cảm tập trung, chừng mực. Cô có mái tóc màu nâu hạt dẻ ấm áp dài đến thắt lưng, gợn sóng tự nhiên ở phần đuôi. Một phần tóc bị gió thổi bay ra sau vai. Kiểu tóc của cô phải giữ nguyên trong suốt bộ phim. Cô mặc một chiếc áo khoác dài màu xanh lá cây đậm, áo blouse cổ cao màu ngà, khăn quàng cổ dệt kim màu đỏ sẫm, băng đeo tay bằng da màu nâu, quần dài màu xám đậm và đôi bốt da đã sờn. Trang phục của cô mang thẩm mỹ kỳ ảo kiểu Anh sang trọng, nhưng cô không mặc đồng phục học sinh hay đội mũ nhọn. Không bao gồm huy hiệu, biểu tượng trường học, ký hiệu trường phép thuật, trang phục nhân vật dễ nhận biết hoặc các yếu tố từ bất kỳ bộ phim nào hiện có. Cô cưỡi cùng một chiếc chổi bay nguyên bản trong suốt chuỗi cảnh: cán gỗ tối màu, cũ kỹ với các sợi kim loại màu xám bạc ở phía sau và một ánh sáng vàng ấm nhỏ ở phía trước. Hình dáng, kích thước, màu sắc và vật liệu của chổi không bao giờ được thay đổi. MỤC TIÊU CỦA CÔ: Cô đang bay qua các thành phố khác nhau để mang ánh sáng vàng ấm nhỏ bé đó về phía rìa xa của những đám mây. Cô không phải là nhân vật chiến đấu. Cô không tấn công bất kỳ ai hay sử dụng phép thuật bùng nổ. Cô chỉ đơn giản tiếp tục tiến về phía trước qua các thành phố, bờ biển, sương mù, mưa và không trung ở độ cao lớn. Sự tiến triển cảm xúc của cô chuyển từ tập trung sang ngạc nhiên, rồi cuối cùng là sự tự do và quyết tâm. 0-5 GIÂY: CẤT CÁNH TỪ BÃI BIỂN CÁT ĐEN CỦA ICELAND Cảnh quay bắt đầu ở góc cực thấp phía trên bãi biển núi lửa đen bằng ống kính góc rộng 24mm. Những con sóng đại dương màu đen ở bên trái, các cột đá bazan cao chót vót ở bên phải và những ngọn núi băng giá trắng xanh ở phía xa. Những đám mây xanh lạnh bao phủ bầu trời, trong khi một dải hoàng hôn vàng ấm hẹp vẫn còn gần đường chân trời. Nữ lữ khách xinh đẹp nhanh chóng xuất hiện từ phía sau bên phải khung hình, cưỡi chổi ngay phía trên mặt đại dương. Mái tóc nâu hạt dẻ của cô bay ngược ra sau trong gió biển. Chiếc khăn quàng cổ màu đỏ sẫm của cô tạo thành một đường chuyển động rõ nét phía sau, trong khi chiếc áo khoác màu xanh lá cây đậm di chuyển tự nhiên theo luồng không khí. Ánh sáng vàng ấm ở phía trước chổi chiếu sáng màn sương biển và những giọt nước. Máy quay theo sau cô từ phía sau với chuyển động FPV ổn định, giữ cô hơi lệch về bên phải trung tâm. Không được vòng ra phía trước hoặc để cô rời khỏi khung hình. Cơ thể cô hơi nghiêng về phía trước; một tay giữ cán chổi trong khi tay kia giữ thăng bằng. Cô bay về phía một bức tường băng xanh khổng lồ. Ở giây thứ tư, cô đi vào một khe nứt tự nhiên bên dưới bức tường băng. Băng trôi nhanh dọc theo cả hai bên máy quay. Các tinh thể xanh lạnh giao thoa ngắn ngủi với ánh sáng vàng ấm, tạo ra sự chuyển cảnh tự nhiên đầu tiên. Không có vụ nổ, khói phép thuật hay biến đổi đột ngột. 5-12 GIÂY: LONDON THỜI VICTORIA TRONG SƯƠNG MÙ Khi băng rời khỏi ống kính, môi trường tự nhiên trở thành một thành phố thời Victoria giả tưởng vào ban đêm. Nhân vật chính và chổi giữ nguyên hướng, tốc độ, trang phục, ngoại hình và tư thế bay. Máy quay tiếp tục theo sau từ phía sau. Bên dưới là những con phố lát đá màu xám đậm ướt át. Các tòa nhà gạch đỏ, cầu sắt đen, cửa sổ hẹp và đèn đường màu hổ phách cũ kỹ nằm dọc hai bên. Một vài phương tiện công cộng hai tầng màu đỏ sẫm không có chữ hay thương hiệu di chuyển chậm chạp qua làn sương mù. Thành phố gợi lên hình ảnh London thời Victoria mà không sao chép các địa danh thực tế. Máy quay dần chuyển từ kiểu theo đuổi FPV nhanh sang cảnh quay theo dõi từ phía sau ba phần tư mượt mà, di chuyển khoảng 45 độ sang bên trái cô. Hồ sơ khuôn mặt xinh đẹp của cô xuất hiện thoáng qua. Đôi mắt cô vẫn tập trung, mái tóc và khăn quàng cổ duy trì sự liên tục ổn định. Ánh sáng vàng ấm chỉ để lại một vệt ngắn xuyên qua mưa và sương mù. Cô bay bên dưới một cây cầu sắt đen cao. Cấu trúc thép của nó di chuyển qua phía trên khung hình như một vật cản vật lý ngắn ngủi. Máy quay không cắt cảnh, và khi vật cản biến mất, cô vẫn ở trên cùng trục chuyển động. Ở giây thứ mười, cô bay vào một nhà ga xe lửa hình vòm khổng lồ. Mái nhà được làm từ các dầm thép đen và kính ướt, với nước mưa chảy dọc trên bề mặt. Mái nhà bao phủ hoàn toàn khung hình, tạo ra sự chuyển cảnh tự nhiên thứ hai. 12-19 GIÂY: THÀNH PHỐ LẤY CẢM HỨNG TỪ PARIS TRONG MƯA Khi mái kính rời khỏi máy quay, môi trường trở thành một thành phố lãng mạn, nguyên bản lấy cảm hứng từ Paris vào ban đêm trong mưa. Không sao chép các địa danh thực tế. Chỉ giữ lại bầu không khí của những cây cầu đá, dòng sông, những con phố hẹp, các tòa nhà đá cổ điển, ban công sắt rèn và ánh sáng cửa sổ ấm áp. Nhân vật chính bay thấp phía trên một dòng sông rộng. Mặt nước phản chiếu những cửa sổ vàng và bầu trời đêm xanh thẳm. Các tòa nhà đá màu xám nhạt, cửa sổ hẹp cao, mái nhà ướt và những đường mưa mảnh kéo dài dọc hai bên. Chiếc áo khoác xanh đậm và khăn quàng cổ đỏ sẫm của cô tạo thành một hình bóng rõ nét trên nền thành phố xanh, trong khi mái tóc hạt dẻ bay ngược ra sau. Máy quay di chuyển vào vị trí theo dõi song song ở bên phải cô. Chiếc chổi giữ khoảng cách khoảng ba mét phía trên mặt sông. Máy quay vẫn ở vị trí thấp hơn tầm vai một chút, duy trì mối quan hệ không gian giữa người phụ nữ, chiếc chổi, dòng sông và kiến trúc. Cô bay bên dưới một loạt các cây cầu đá cổ điển có các vòm tạo thành những hình ảnh phản chiếu liên tục dưới nước. Ở giây thứ mười bảy, cô đi vào một hành lang gương dài làm từ những bức tường kính ướt. Các hình ảnh phản chiếu chỉ có thể cho thấy cùng một người phụ nữ, cùng một chiếc chổi và cùng một ánh sáng vàng ấm. Không tạo ra các nhân vật trùng lặp. Nước mưa, ánh đèn thành phố và các hình ảnh phản chiếu trượt dọc theo bề mặt kính. Một ánh sáng vàng ấm mạnh mẽ xuất hiện ở cuối hành lang. Cô bay về phía đó, tạo ra sự chuyển cảnh tự nhiên thứ ba. 19-24 GIÂY: THÀNH PHỐ LẤY CẢM HỨNG TỪ NEW YORK TƯƠNG LAI Hành lang gương mở ra một đô thị nguyên bản lấy cảm hứng từ New York tương lai. Máy quay nhanh chóng nhưng mượt mà chuyển từ vị trí phía sau ba phần tư sang cảnh quay FPV hướng về phía trước, di chuyển lùi lại phía trước cô. Khuôn mặt xinh đẹp, tập trung, mái tóc hạt dẻ, khăn quàng cổ đỏ sẫm và ánh sáng chổi vàng của cô xuất hiện thoáng qua. Bên dưới là những con phố ướt, các tòa nhà chọc trời bằng kính, cầu vượt kim loại và những hẻm núi đô thị khổng lồ.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083383062700904448/img/U2wYG2rivJpDckX4.jpg" width="600" alt="Cảnh quay dài điện ảnh kỳ ảo hoành tráng">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8236)**
-
-**Tác giả:** [Lincanvas](https://x.com/AIcanvas_Frames) | **Nguồn:** [Link](https://x.com/AIcanvas_Frames/status/2083383374840787223) | **Đã xuất bản:** Aug 1, 2026
-
----
-### Quảng cáo mỹ phẩm Lavender Bliss
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một yêu cầu (prompt) quảng cáo mỹ phẩm cao cấp với bối cảnh cánh đồng hoa oải hương, các cảnh quay cận cảnh hoa và ánh sáng bình minh đầy chất thơ.
-
-#### 📝 Prompt
-
-```
-Một quảng cáo mỹ phẩm cao cấp được quay ở độ phân giải 8k, ánh sáng đậm chất điện ảnh. Cảnh quay cận cảnh cực đại những bông hoa oải hương tím rực rỡ phủ đầy những giọt sương lấp lánh vào lúc bình minh giờ vàng, máy quay lấy nét chuyển đổi (rack focus) để lộ ra một cô gái trẻ xinh đẹp với mái tóc nâu dài gợn sóng, mặc chiếc váy lụa màu tím nhạt thướt tha. Cô đang cầm một hũ mỹ phẩm thủy tinh có nhãn "ROZINO LAVENDER BLISS". Cảnh cận cảnh cô thoa lớp kem màu tím mịn màng lên cổ tay, sau đó đưa cổ tay lên mũi, nhắm mắt lại với nụ cười bình yên để hít hà hương thơm dịu nhẹ. Cảnh quay chuyển tiếp sang cảnh cô mở hộp phấn màu tím và quệt kem, theo sau là một cú máy quay toàn cảnh từ trên cao cho thấy cô đang đứng duyên dáng giữa những hàng hoa oải hương nở rộ trong làn sương mờ vào lúc hoàng hôn. Ánh nắng vàng dịu nhẹ, làn sương huyền ảo, thẩm mỹ mơ màng, siêu thực, quay bằng ống kính 35mm, độ sâu trường ảnh nông, quay chậm 60fps.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083378402157846528/img/Sl9e14MXXY57mLHk.jpg" width="600" alt="Quảng cáo mỹ phẩm Lavender Bliss">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8190)**
-
-**Tác giả:** [Zyrella](https://x.com/Zyrellix) | **Nguồn:** [Link](https://x.com/Zyrellix/status/2083378889225801886) | **Đã xuất bản:** Aug 1, 2026
-
----
-### Vlog văn phòng: Biến hóa trang phục thời trang
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) phức tạp dài 30 giây dành cho vlog thời trang, mô tả các màn chuyển đổi trang phục liên tục trong bối cảnh văn phòng tĩnh.
-
-#### 📝 Prompt
-
-```
-Tạo một video biến hóa thời trang chân thực dài 30 giây với khung hình ngang 16:9. Một phụ nữ trẻ sành điệu với mái tóc nâu dài gợn sóng nhẹ, làn da trung bình ấm, đeo kính đen gọng tròn, khuyên tai nhỏ, trang điểm tự nhiên và các đặc điểm khuôn mặt nhất quán, đứng tại cùng một vị trí trong phòng vệ sinh hoặc khu vực thay đồ văn phòng hiện đại trong suốt video. Phông nền là các tấm đá ốp màu xám than lớn, trần nhà màu nhạt, một thanh treo tường màu đen mảnh ở bên trái và một đường vách ngăn kim loại hẹp ở bên phải. Giữ cho mọi đường nét kiến trúc cố định hoàn hảo qua tất cả các lần cắt cảnh.
-
-Máy quay được cố định trên chân máy ở tầm mắt, góc quay trung bình từ ngang đùi trở lên, sử dụng ống kính điện thoại thông minh tương đương 35 mm tự nhiên. Chủ thể luôn nằm ở trung tâm với khoảng trống vừa đủ ở cả hai bên cho bố cục khung hình ngang. Không có hiện tượng rung lắc, thu phóng, thay đổi khung hình hay thay đổi góc nhìn. Sử dụng chi tiết sắc nét chân thực, kết cấu da thật, từng sợi tóc mảnh, nếp gấp vải đáng tin, bàn tay chính xác, hơi thở nhẹ nhàng và các điều chỉnh tư thế nhỏ. Ánh sáng là đèn văn phòng phía trên dịu nhẹ với ánh sáng bổ trợ nhẹ trên khuôn mặt, phản chiếu nhẹ trên các tấm gạch xám, độ phơi sáng nhất quán và hướng đổ bóng thực tế.
-
-Bắt đầu với lòng bàn tay của cô ấy đặt rất gần ống kính, che khuất phần lớn khung hình trong giây lát. Cô ấy kéo tay ra và để lộ trang phục đầu tiên: một chiếc váy công sở hoa nhí màu xanh nhạt không tay với chiếc khăn quàng nhẹ trên một bên vai. Cô ấy nhìn bình tĩnh vào máy quay, hạ tay xuống, đặt một tay lên hông, liếc nhìn lên trên với biểu cảm hơi thờ ơ, sau đó khoanh tay lại. Giữ nguyên tư thế khoanh tay này cho lần cắt nhảy (jump cut) ẩn đầu tiên.
-
-Trong 24 giây tiếp theo, hãy trình diễn chín bộ trang phục công sở khác biệt thông qua các lần cắt khớp tư thế sạch sẽ theo nhịp nhạc. Sử dụng một chiếc áo kiểu kimono hoa màu vàng chanh, một chiếc áo sơ mi trắng ngà thoải mái với quần tây xanh navy, một chiếc áo không tay màu đen ôm sát với quần tây may đo tối màu và thắt lưng nâu, một chiếc áo màu hồng phấn nhẹ nhàng với quần tây đen, một chiếc áo cổ tròn màu xanh lá đậm, một chiếc váy suông họa tiết paisley màu xanh lam sống động, một chiếc áo peplum chấm bi đen trắng, một chiếc áo blazer màu lạc đà khoác ngoài áo màu kem và cuối cùng là một chiếc váy quấn màu đỏ tía thanh lịch. Giữa các lần thay đổi, hãy để cô ấy thực hiện các cử chỉ tự nhiên và tự tin như nhún vai nhẹ, giơ hai ngón cái, đặt tay lên hông, khoanh tay, xoay cằm, chỉnh cổ tay áo, vuốt tóc nhẹ, chỉ tay vào má và mỉm cười trực tiếp vào máy quay. Mỗi cử chỉ nên bắt đầu ở trang phục này và kết thúc ở trang phục tiếp theo để cảnh cắt trông thực tế và có chủ đích, tuyệt đối không để xảy ra hiện tượng biến dạng cơ thể.
-
-Giữ mỗi diện mạo đủ lâu để nhìn rõ, khoảng hai giây mỗi bộ trang phục, với các điểm cắt rơi vào các nhịp mạnh. Duy trì vị trí cơ thể, hướng tóc, vị trí kính, giải phẫu chi, hình học nền và ánh sáng giống hệt nhau tại mọi điểm chuyển tiếp. Tránh tình trạng ngón tay bị biến dạng, thay đổi khuôn mặt, quần áo trôi nổi, vải bị tan chảy, phụ kiện bị nhân đôi, chuyển động máy quay đột ngột hoặc làm mịn da quá mức giả tạo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083348840250519552/img/BRKIQw2Awk4X65MV.jpg" width="600" alt="Vlog văn phòng: Biến hóa trang phục thời trang">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8272)**
-
-**Tác giả:** [BMX](https://x.com/bmx_ai13) | **Nguồn:** [Link](https://x.com/bmx_ai13/status/2083372393649832355) | **Đã xuất bản:** Aug 1, 2026
-
----
-### Prompt làm Vlog du lịch phong cách điện ảnh tại Lisbon
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Một prompt toàn diện gồm nhiều cảnh quay để tạo vlog du lịch phong cách điện ảnh tại Lisbon, đảm bảo tính nhất quán của nhân vật, các hiệu ứng chuyển cảnh cụ thể và ánh sáng.
-
-#### 📝 Prompt
-
-```
-[Điều kiện cơ bản]
-@image1 là bảng nhân vật đơn giản thể hiện cùng một cô gái với 3 kiểu trang phục du lịch. Thời lượng 15 giây, tỷ lệ khung hình 1:1, chất lượng cao như phim thực tế. Một Vlog/video ngắn trên mạng xã hội tươi sáng và cuốn hút, được quay bằng điện thoại thông minh. Kết nối năm sự kiện du lịch từ sáng đến tối bằng các đoạn cắt cảnh dứt khoát. Không mô tả quá trình di chuyển; mỗi cảnh quay bắt đầu ngay tại điểm đến. PERSON = cùng một cô gái nhất quán trong tất cả các hình ảnh nhân vật. Duy trì các đặc điểm khuôn mặt, kiểu tóc/màu tóc, độ tuổi, vóc dáng và tỷ lệ cơ thể trong suốt video.
-
-Chỉ sử dụng 3 khung hình toàn thân ở phía trên bên trái để tham khảo trang phục. OUTFIT_A = khung trên cùng bên trái, OUTFIT_B = khung thứ 2 từ trên xuống bên trái, OUTFIT_C = khung thứ 3 từ trên xuống bên trái. Không trộn lẫn quần áo, giày dép hoặc túi xách giữa A, B và C. Đạo cụ thay đổi theo từng cảnh; cốc cà phê buổi sáng chỉ xuất hiện ở cảnh đầu tiên.
-
-[Bố cục cảnh quay]
-0.0-2.5s | Sáng sớm, Đài quan sát Santa Luzia
-PERSON mặc OUTFIT_A. Một đoạn selfie ngắn cầm cốc cà phê bằng sứ trắng đơn giản sau khi nhìn nhanh qua những mái nhà đỏ và sông Tagus. Nụ cười tự nhiên trong gió sáng kết thúc bằng một đoạn cắt cảnh dứt khoát. Không hiển thị cốc của người đồng hành.
-2.5-5.5s | Buổi sáng, Xe điện màu vàng
-PERSON mặc OUTFIT_A. Cảnh quay góc rộng của một chiếc xe điện màu vàng. Cô gái nhanh nhẹn bước lên xe khi chuông reo và người soát vé mỉm cười. Cắt cảnh dứt khoát khi cô quay lại nhìn vào máy quay.
-5.5-8.5s | Buổi trưa, Quán cà phê ngoài trời
-PERSON mặc OUTFIT_B. Cảnh quay cận cảnh cầm tay trên bàn trắng với cà phê và bánh pastel de nata. Cô gái cắn một miếng bánh gọn gàng và mỉm cười với người đồng hành. Duy trì cảnh quán cà phê này, thể hiện đồng thời đồ ăn, bàn tay và trang phục.
-8.5-11.5s | Giờ vàng, Quảng trường ven sông
-PERSON mặc OUTFIT_B (không túi xách). Các nhạc sĩ đang chơi nhạc bên sông Tagus. Cảnh quay cầm tay PERSON được một phụ nữ địa phương mời khiêu vũ. Một cú xoay nhanh cho thấy chiếc váy và mái tóc tung bay, xung quanh là những nụ cười.
-11.5-15.0s | Ban đêm, Sân hiên trong ngõ Alfama
-PERSON mặc OUTFIT_C. Đêm xanh coban sâu thẳm với ánh sáng ấm áp trên sân hiên trong ngõ đá. Có thể thấy các nhạc sĩ và khách đang vỗ tay. Cô gái mỉm cười với máy quay, đưa tay ra và bước lùi về phía sân hiên khi máy quay đi theo nhẹ nhàng. Kết thúc với cảnh cô ở trong không gian sân hiên ấm áp mà không bị đứng hình.
-
-[Quay phim, Màu sắc, Âm thanh]
-Chỉ selfie ở cảnh đầu tiên; các cảnh khác được quay bởi người đồng hành bằng điện thoại thông minh. Góc rộng tự nhiên, rung lắc nhẹ kiểu cầm tay, theo dõi rõ nét mà không bị biến dạng hay méo hình. Màu sắc tươi sáng chất lượng cao: trắng sạch, xanh lam sống động, vàng chanh và màu san hô. Phân tách màu sắc rõ ràng với tông da tự nhiên và độ tương phản cao. Nhạc nền du lịch sôi động xuyên suốt, giảm âm lượng vào ban đêm để làm nổi bật âm nhạc địa phương và âm thanh môi trường (tiếng chuông, tiếng ồn quán cà phê). Không có phụ đề, logo hoặc sự không nhất quán về nhân vật/trang phục.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083371252237115392/img/eTNOY8vfvpgP0hZz.jpg" width="600" alt="Prompt làm Vlog du lịch phong cách điện ảnh tại Lisbon">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=8220)**
-
-**Tác giả:** [AIライフハック](https://x.com/ai_lifehack55) | **Nguồn:** [Link](https://x.com/ai_lifehack55/status/2083371382822588539) | **Đã xuất bản:** Aug 1, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -3735,6 +3641,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-08-04T02:50:32.703Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-08-05T02:47:59.712Z</sub>
 
 </div>
