@@ -68,9 +68,9 @@
 
 | เมตริก | จำนวน |
 |--------|-------|
-| 📝 พรอมต์ทั้งหมด | **5854** |
+| 📝 พรอมต์ทั้งหมด | **5853** |
 | ⭐ พรอมต์แนะนำ | **6** |
-| 🔄 อัปเดตล่าสุด | **2026-08-11** |
+| 🔄 อัปเดตล่าสุด | **2026-08-12** |
 
 ---
 
@@ -463,41 +463,6 @@ Same woman throughout all scenes, identical face, hairstyle, skin tone and outfi
 **[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=8768)**
 
 **ผู้เขียน:** [Calira](https://x.com/CaliraVal) | **แหล่งที่มา:** [Link](https://x.com/CaliraVal/status/2086686230029402183) | **เผยแพร่เมื่อ:** Aug 10, 2026
-
----
-### Luxury Watch UGC Review
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A comprehensive prompt for creating a realistic UGC-style luxury watch review video using Seedance 2.5.
-
-#### 📝 พรอมต์
-
-```
-Use the uploaded reference image as the exact character reference. Preserve her facial identity, hairstyle, eye color, makeup, skin tone, body proportions, white sleeveless fitted top, light blue wide-leg jeans, pearl choker, rings, and bracelets consistently throughout the video. Use the uploaded luxury watch and its packaging as locked product references. Maintain perfect product consistency, including the watch face, hands, dial details, case shape, crown, bracelet, materials, colors, proportions, and reflections.
-
-Create an ultra-realistic UGC luxury watch review filmed inside a modern luxury bedroom with warm golden-hour sunlight, soft natural shadows, and a premium lifestyle aesthetic. The camera feels like a handheld smartphone with subtle natural movement while maintaining cinematic commercial quality.
-
-The video begins with the woman sitting on the bed beside the watch box. She smiles at the camera and says, "I honestly didn't expect to love this watch this much." She picks up the box, opens it naturally, and reveals the watch. She gently lifts it from the packaging and brings it closer to the camera, saying, "The packaging already feels so premium."
-
-She rotates the watch between her fingers, showing the dial, bracelet, crown, and polished details as warm sunlight creates realistic reflections across the metal. She says, "Look at those details... it feels incredibly well made."
-
-She puts the watch on her wrist and adjusts the bracelet naturally. Cut to a close-up of her wrist as she moves it through the sunlight, showcasing the watch from different angles.
-
-She walks toward a full-length mirror, checks the watch with a confident smile, adjusts her sleeve, and poses naturally while looking at her reflection.
-
-She returns to the bed, picks up the watch box, then holds her wrist beside her face for a final lifestyle shot. Looking directly into the camera, she smiles and says, "Definitely one of my favorite accessories."
-
-Finish with a cinematic macro push-in on the watch as it rests on the luxury packaging, with warm reflections across the dial and bracelet.
-
-Ultra-realistic UGC fashion content, authentic creator review, cinematic handheld smartphone movement, luxury bedroom, macro watch cinematography, realistic metal reflections, detailed dial textures, expressive facial animation, perfect lip sync, shallow depth of field, premium color grading, 4K HDR, 16:9, no subtitles, no watermarks, no on-screen text, no unnecessary logos.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086668080772681729/img/DeunE2tbNcSMWwMZ.jpg" width="600" alt="Luxury Watch UGC Review">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=8773)**
-
-**ผู้เขียน:** [Smiling Khan](https://x.com/AIwithkhan) | **แหล่งที่มา:** [Link](https://x.com/AIwithkhan/status/2086668137198678351) | **เผยแพร่เมื่อ:** Aug 10, 2026
 
 ---
 ### Cinematic Wuxia Flying Sword Scene
@@ -3600,6 +3565,25 @@ A cinematic product demo of a luxury smartwatch. Open with macro shots highlight
 **ผู้เขียน:** [Shan | Imagvio AI](https://x.com/ShanBuildsAI) | **แหล่งที่มา:** [Link](https://x.com/ShanBuildsAI/status/2085412494642958683) | **เผยแพร่เมื่อ:** Aug 6, 2026
 
 ---
+### Luxury Smartwatch Product Commercial
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Creates a cinematic product commercial for a luxury smartwatch with dynamic camera movements, dramatic lighting, and ultra-realistic reflections on a black surface.
+
+#### 📝 พรอมต์
+
+```
+A cinematic product commercial featuring a luxury smartwatch on a reflective black surface. Dynamic orbit camera movement, fast push-in shot, dramatic lighting, ultra-realistic reflections, premium advertising style, smooth cinematic motion, 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085401202150584320/img/0BY2_rC1bAtAtl3W.jpg" width="600" alt="Luxury Smartwatch Product Commercial">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=8635)**
+
+**ผู้เขียน:** [Shan | Imagvio AI](https://x.com/ShanBuildsAI) | **แหล่งที่มา:** [Link](https://x.com/ShanBuildsAI/status/2085401238716527068) | **เผยแพร่เมื่อ:** Aug 6, 2026
+
+---
 ---
 
 ## 📚 มีพรอมต์เพิ่มเติม
@@ -3661,6 +3645,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 ส่งพรอมต์](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-08-11T05:26:25.549Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-08-12T02:10:24.385Z</sub>
 
 </div>
