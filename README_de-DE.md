@@ -68,9 +68,9 @@ Warum unsere Galerie nutzen?
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **6088** |
+| 📝 Gesamtanzahl Prompts | **6100** |
 | ⭐ Ausgewählte Prompts | **6** |
-| 🔄 Zuletzt aktualisiert | **2026-08-22** |
+| 🔄 Zuletzt aktualisiert | **2026-08-23** |
 
 ---
 
@@ -361,6 +361,502 @@ Ultra-realistisch, inspiriert von der Energie von Fast and Furious, fotorealisti
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Das Sammeln urbaner Klänge: Surrealismus
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein komplexer, filmisch-surrealistischer Prompt, bei dem eine Figur physisch Stadtgeräusche sammelt, bis die Stadt verstummt.
+
+#### 📝 Prompt
+
+```
+KAMERA:
+Eine kontinuierliche, filmische Einstellung ohne Schnitte. Beginn mit einer langsamen Kamerafahrt auf Straßenhöhe. Die Figur wird aus einer Dreiviertel-Rückenansicht verfolgt. Allmähliche Annäherung an die Hände der Figur, während die unsichtbaren Klänge sichtbar werden. Abschluss mit einem dramatischen Herauszoomen (Pullback).
+
+SCHAUPLATZ:
+Eine realistische, moderne Stadtstraße im Morgengrauen. Weiches Morgenlicht, leichter Nebel, entfernter Verkehr, Fußgänger, Vögel, Fahrräder und subtile urbane Bewegungen. Fotorealistische Umgebung.
+
+0–3 SEKUNDEN:
+Die Figur geht durch die Straße.
+
+Alles klingt normal: entfernter Verkehr, Schritte, Vögel und Wind.
+
+Plötzlich bleibt die Figur stehen.
+
+Ein schwaches, durchscheinendes Kräuseln erscheint in der Luft neben einem vorbeifahrenden Auto, geformt wie ein kleines, schwebendes Band aus vibrierendem Glas.
+
+3–6 SEKUNDEN:
+Die Figur streckt die Hand aus und greift sanft nach dem schwebenden Kräuseln.
+
+In dem Moment, in dem sie es berührt, wird das umliegende Auto vollkommen lautlos.
+
+Die Figur betrachtet das leuchtende, vibrierende Band in ihrer Hand.
+
+6–10 SEKUNDEN:
+Mehr Klänge werden sichtbar.
+
+Vogelgezwitscher erscheint als winzige leuchtende Wellen.
+Schritte werden zu kleinen, durchscheinenden Impulsen.
+Verkehrslärm wird zu langen, vibrierenden Bändern.
+
+Die Figur sammelt sie ruhig mit beiden Händen ein.
+
+Mit jedem gesammelten Klang wird der entsprechende Teil der Stadt vollkommen lautlos.
+
+10–12 SEKUNDEN:
+Die Figur presst alle gesammelten Klänge zwischen ihren Handflächen zusammen.
+
+Tausende leuchtende Schallwellen kollabieren zu einer winzigen, strahlenden Kugel.
+
+Die gesamte Stadt wird plötzlich vollkommen lautlos.
+
+12–15 SEKUNDEN:
+Die Figur lässt die Kugel los.
+
+Sie steigt einige Meter in die Luft.
+
+Die Kugel dehnt sich plötzlich zu einer gigantischen, unsichtbar wirkenden Schockwelle aus, die vollständig aus leuchtenden Klangmustern besteht.
+
+Für einen Augenblick kehrt jeder Klang gleichzeitig zurück.
+
+Vögel fliegen auf, Autos bewegen sich, Menschen reagieren, Blätter beben heftig.
+
+Dann SCHNITT AUF SCHWARZ.
+
+VISUELLER STIL:
+Fotorealistischer filmischer Surrealismus, originelles visuelles Design, realistische urbane Umgebung, subtile atmosphärische Beleuchtung, physikalisch glaubwürdige Partikelbewegung, durchscheinende Klangstrukturen, zurückhaltende VFX, natürliche menschliche Darstellung, erstklassige filmische Komposition.
+
+SOUND-DESIGN:
+Beginn mit realistischer Stadtatmosphäre.
+Einführung einer schwachen kristallinen Vibration, sobald der erste Klang sichtbar wird.
+Allmähliches Entfernen der Umgebungsgeräusche, während die Figur sie einsammelt.
+Erzeugung absoluter Stille bei 12 Sekunden.
+Bei der finalen Freisetzung: Gleichzeitige Wiederherstellung aller angesammelten Klänge für einen überwältigenden filmischen Moment.
+
+NEGATIV:
+Keine urheberrechtlich geschützten Charaktere, keine erkennbaren Filmszenen, keine Logos, kein Text, keine Untertitel, kein Wasserzeichen, keine Referenzen auf berühmte Franchises, keine Nachahmung spezifischer Regisseure oder Künstler, keine Cartoon-Ästhetik, keine übernatürlichen Kreaturen, keine Explosionen, keine zufälligen Objekte, keine Szenenschnitte, keine Inkonsistenzen
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091021306997448704/img/43Nx8PXLI--iLeP-.jpg" width="600" alt="Das Sammeln urbaner Klänge: Surrealismus">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9588)**
+
+**Autor:** [Sheikh Sharik 2.0](https://x.com/NoOneIsHere2603) | **Quelle:** [Link](https://x.com/NoOneIsHere2603/status/2091021342602866951) | **Veröffentlicht:** Aug 22, 2026
+
+---
+### Action-geladene Verteidigung in der Küche
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein strukturierter Storyboard-Entwurf für eine 30-sekündige Actionsequenz, in der ein scheinbar gewöhnlicher Vater seine Tochter während eines Hauseinbruchs beschützt.
+
+#### 📝 Prompt
+
+```
+Erstelle eine Storyboard-Karte für jede Szene - [0:00–0:04] VISUELL: Warme Küche, Abend. TOM (40er, ruhig, unauffällig) deckt den Tisch. Seine Tochter LILY (8) malt an der Theke. Normales, gemütliches Leben. LILY: „Papa, können wir nach dem Abendessen einen Film schauen?“ TOM (lächelnd): „Nur, wenn du diesmal dein Gemüse aufisst.“ SFX: klappernde Teller, sanfte Küchenatmosphäre. [0:04–0:07] VISUELL: Der Strom fällt aus. Das Haus wird dunkel. Toms Lächeln verschwindet sofort – seine gesamte Körperhaltung ändert sich, ruhig und wachsam. LILY (flüsternd, verängstigt): „Papa?“ TOM (leise, kontrolliert): „Bleib hinter mir. Sofort.“ SFX: harte Stille, entferntes Klirren von Glas im Obergeschoss. [0:07–0:11] VISUELL: Die Haustür wird eingetreten – drei bewaffnete EINDRINGLINGE in taktischer Ausrüstung stürmen herein, ihre Taschenlampen schneiden durch die Dunkelheit. Tom schiebt Lily hinter die Theke. EINDRINGLING 1 (schreiend): „Runter auf den Boden! SOFORT!“ TOM (flach, todernst): „Falsches Haus.“ SFX: Tür schlägt auf, Stiefel auf Hartholz, Waffe wird durchgeladen. [0:11–0:16] VISUELL: ULTRASCHNELLE KAMPFSEQUENZ. Tom entwaffnet Eindringling 1 mit einer brutalen Bewegung, schleudert ihn gegen einen Schrank – Glas zersplittert (starker VFX-Effekt: Glassplitter kurzzeitig in der Luft eingefroren, dann geht es weiter). Dreht sich, um den Schlag von Eindringling 2 zu blocken. EINDRINGLING 2 (verblüfft): „Er ist nicht nur ein—“ TOM (unterbricht ihn, setzt zum Schlag an): „Papa. Ich bin nur ein Papa.“ SFX: Schrank zersplittert, Knochenknacken, Stöhnen, Glasregen. [0:16–0:20] VISUELL: Eindringling 3 schießt – Tom stößt eine Propangasflasche vom Herd in die Schusslinie. MASSIVE VFX-EXPLOSION reißt durch die Küche und schleudert Tom und Eindringling 3 in Zeitlupe durch die Wand in den nächsten Raum, überall Trümmer und Feuer. LILY (schreiend): „PAPA!“ SFX: ohrenbetäubender Explosionsknall, Holz splittert, Ohrenklingeln-Effekt, Feuerknistern. [0:20–0:24] VISUELL: Der Rauch verzieht sich. Tom erhebt sich aus den Trümmern, gezeichnet, blutend, schwer atmend – aber er steht. Eindringling 3 ist am Boden. Er schwankt zurück in Richtung Küche. TOM (heiser, dringend): „Lily!“ SFX: sich setzende Trümmer, leises Feuerknistern, das Klingeln in den Ohren weicht echten Geräuschen. [0:24–0:28] VISUELL: Lily rennt hinter der Theke hervor, unverletzt, und stürzt sich schluchzend vor Erleichterung in seine Arme. Er sinkt auf die Knie und hält sie fest. LILY (weinend, gedämpft): „Du hast gesagt, du bist nur ein Papa.“ TOM (mit brüchiger Stimme, hält sie fest): „Das bin ich. Genau deshalb.“ SFX: knisterndes Feuer im Hintergrund, Sirenen nähern sich leise, ihr Schluchzen wird ruhiger. [0:28–0:30] VISUELL: Totale – die zerstörte, rauchende Küche hinter ihnen, rote und blaue Notlichter beginnen durch die zerbrochenen Fenster zu flackern. Halten auf die Umarmung. SFX: Sirenen werden lauter, Wind weht durch die zerbrochene Wand, sanfter letzter Klavierton.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091004945046913025/img/kVAKo1KDoRliIFTb.jpg" width="600" alt="Action-geladene Verteidigung in der Küche">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9583)**
+
+**Autor:** [Shara I Ai Video Creator](https://x.com/itsshara_ai) | **Quelle:** [Link](https://x.com/itsshara_ai/status/2091004996615827895) | **Veröffentlicht:** Aug 22, 2026
+
+---
+### Heavy-Metal-Anime-Musikvideo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein umfassender Prompt für ein energiegeladenes Heavy-Metal-Anime-Musikvideo mit drei Bandmitgliedern auf einem Stadtdach, inklusive dynamischer Kameraführung und synchronisierten Liedtext-Segmenten.
+
+#### 📝 Prompt
+
+```
+Erstelle ein **30-sekündiges Heavy-Metal-Musikvideo im Anime-Stil** mit diesen drei Bandmitgliedern.
+**K1** ist der Bassist links im Bild, **D1** ist der Gitarrist rechts im Bild und **G1** ist der Schlagzeuger in der Mitte.
+Der Schauplatz ist eine **nächtliche Dachbühne** mit der **AB/CD**-Plattform, mehreren Verstärkern, Scheinwerfern und einer Skyline im Hintergrund.
+Der Song ist **schnell, unterhaltsam, intensiv und dynamisch**, bei **180 BPM**. Priorisiere die Energie und den Groove der Performance.
+Verwende einen **schnellen Schnitt im Musikvideo-Stil** mit einer natürlichen Mischung aus **Gesichts-Nahaufnahmen, Hand-Nahaufnahmen, Aufnahmen vom Bass- und Gitarrenspiel, Nahaufnahmen der Trommelschläge, Froschperspektiven, Vogelperspektiven, Frontalaufnahmen, diagonalen Aufnahmen und leichten Kamerabewegungen um die Musiker herum**.
+Gib jedem der drei Mitglieder klare Spotlight-Momente, insbesondere um ihre **Gesichtsausdrücke, Spielbewegungen und die Intensität ihrer Performance** zu zeigen.
+Stimme den Ablauf auf den Liedtext ab:
+**„Stuffed again, I can't deny / Third plate calling, don't ask why / Rice and ramen, sweet and fried / OVERFED! OVERFED! / No regrets, I ate it all / Rolling home, I hit the wall! / OVERFED tonight!”**
+Baue das Video natürlich vom **Intro über die Strophe bis zum Refrain** mit steigender Spannung auf.
+**Letzte Einstellung:** K1 und D1 stehen hinter dem Schlagzeug, G1 in der Mitte, endend mit einer **Nahaufnahme aller drei zusammen**.
+Erstelle es in **hoher Qualität** mit **konsistentem Aussehen der Charaktere, starker Live-Performance-Beleuchtung und energiegeladener Kameraführung**.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090978383278809088/img/-CNLtPPo-pfh4u_k.jpg" width="600" alt="Heavy-Metal-Anime-Musikvideo">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9598)**
+
+**Autor:** [Hei](https://x.com/heisuke123) | **Quelle:** [Link](https://x.com/heisuke123/status/2090979140770136297) | **Veröffentlicht:** Aug 22, 2026
+
+---
+### Komödie über empfindungsfähige Kaffeetassen
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein animierter Comedy-Kurzfilm-Prompt über eine Gruppe von Kaffeetassen, die um die Aufmerksamkeit eines Menschen buhlen, nur um für eine geliebte Tasse mit Macke ignoriert zu werden.
+
+#### 📝 Prompt
+
+```
+Filmischer animierter Comedy-Kurzfilm, 15 Sekunden. Ein Küchenschrank öffnet sich. Dutzende Kaffeetassen stehen schweigend in einer Reihe. Sie sehen alle aufgeregt aus. Der Mensch greift hinein. Jede Tasse versucht verzweifelt, bemerkt zu werden. Eine riesige Tasse streckt sich nach oben. Eine schicke Tasse schüttelt sich dramatisch. Eine bunte Tasse winkt mit ihrem Henkel. Doch der Mensch ignoriert sie alle und greift nach derselben alten Tasse mit der Macke. Im Schrank wird es still. Die Tasse mit der Macke blickt mit einem selbstgefälligen Lächeln zu den anderen zurück. Als sie hinausgetragen wird, sagt sie leise: „Jeden Morgen.“ Die anderen Tassen starren sie wütend an. Eine flüstert: „Ich hasse diese Tasse.“ Schnelle, ausdrucksstarke Animation, einfaches visuelles Storytelling, übertriebene Charakterreaktionen, filmisches Comedy-Timing. Der Witz muss sofort verständlich sein: Menschen haben immer eine Lieblingstasse und ignorieren alle anderen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090962591535202304/img/afh6cCk_G7ozMsQa.jpg" width="600" alt="Komödie über empfindungsfähige Kaffeetassen">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9590)**
+
+**Autor:** [Alexandra Aisling](https://x.com/AllaAisling) | **Quelle:** [Link](https://x.com/AllaAisling/status/2090963001037799648) | **Veröffentlicht:** Aug 22, 2026
+
+---
+### Bergsteiger im Schneesturm
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein dramatischer Luftaufnahme-Prompt eines Bergsteigers, der bei schwindendem Licht in einem heftigen Schneesturm kämpft.
+
+#### 📝 Prompt
+
+```
+Dramatische Luftaufnahme mit weitläufigen Bewegungen: ein Bergsteiger steckt in einem Schneesturm fest und versucht verzweifelt, auf einem verschneiten Berggipfel Schutz zu finden. Umgeben von wirbelndem Schnee und bedrohlichen Wolken, beleuchtet vom schwindenden Licht vor Einbruch der Dunkelheit, in einem markanten, intensiven, filmischen Stil.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090890283449831424/img/VNy5yL99b_Rp4ppB.jpg" width="600" alt="Bergsteiger im Schneesturm">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9593)**
+
+**Autor:** [DeCat](https://x.com/DeCat2025) | **Quelle:** [Link](https://x.com/DeCat2025/status/2090890434901950545) | **Veröffentlicht:** Aug 21, 2026
+
+---
+### Romantische Komödie im TikTok-Stil
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein Video-Prompt im Hochformat für eine 30-sekündige Szene einer romantischen Komödie. Es zeigt eine weibliche Hauptdarstellerin in einem Neon-Studio, die durch einen skriptbasierten Dialog und spezifische Kamerabewegungen mit einer Stimme aus dem Off interagiert.
+
+#### 📝 Prompt
+
+```
+[Stil] Romantische Komödie, Neon-Studio-Textur, realistisches Live-Action, 4K HD, exquisite Hauttextur
+[Dauer] 30 Sekunden
+[Seitenverhältnis] 9:16 Hochformat
+[Szene] Ein stilvolles Fotostudio, umgeben von pinkfarbenen Neonlichtern, Hintergrund unscharf, die weibliche Hauptdarstellerin steht in der Mitte des Bildes und blickt direkt in die Kamera
+[Charakter] Weibliche Hauptdarstellerin @Image 1, Gesichtszüge, Frisur und Körper bleiben durchgehend konsistent, trägt ein trägerloses pinkfarbenes Bühnenoutfit und eine Perlenkette; der männliche Hauptdarsteller ist nicht zu sehen, nur eine junge männliche Stimme aus dem Off ist zu hören
+[Requisite] Schwarz-weißes Notizbuch mit festem Einband
+[Ton] Komplett originelles englisches Audio, präzises Lip-Sync, natürlicher Dialogaustausch zwischen männlicher und weiblicher Stimme, nur leichtes Umgebungsgeräusch im Innenraum; keine Untertitel, kein Text, keine Hintergrundmusik
+[Kamera] Durchgehende Aufnahme aus derselben frontalen Position, keine Schnitte; im ersten Teil eine feste mittlere Nahaufnahme, in den letzten 5 Sekunden langsames Heranfahren an eine Gesichtsnahaufnahme (Slow Push-in)
+
+[00:00-00:04] Einstellung 1: Liebesgeständnis und plötzlicher Stopp (Mittlere Nahaufnahme)
+Die weibliche Hauptdarstellerin schaut direkt in die Kamera, die Mundwinkel sind natürlich nach oben gezogen, der Kopf leicht geneigt.
+[Anleitung für Dialog-Lip-Sync]
+Männliche Stimme aus dem Off sagt zärtlich: „Hey, I like you.“
+Das Lächeln der Hauptdarstellerin vertieft sich, die rechte Hand liegt leicht auf ihrer Brust: „I like you too.“
+Männliche Stimme aus dem Off fragt sofort: „Would you be my girlfriend?“
+Das Lächeln der Hauptdarstellerin erstarrt plötzlich, eine Hand wird erhoben, um ihn zu stoppen: „Wait.“
+Sie nimmt schnell das Notizbuch und öffnet es, ihr Körper lehnt sich leicht vor, ihr Blick wird ernst und prüfend.
+
+[00:04-00:09.5] Einstellung 2: Erste Runde des Verhörs (Statische mittlere Nahaufnahme)
+Die Hauptdarstellerin hält das Notizbuch mit einer Hand und zählt jeden Punkt mit der anderen ab; nach jeder Antwort blickt sie kurz auf das Notizbuch und dann sofort wieder auf, um die nächste Frage zu stellen. Die Bewegungen sind präzise, ohne Pausen.
+[Durchgehender Dialog]
+Sie: „Are you single?“
+Er: „Yes.“
+Sie: „Do you have a girlfriend?“
+Er: „No.“
+Die Augenbraue der Hauptdarstellerin hebt sich, der Kopf neigt sich leicht zur anderen Seite: „Do you have a secret girlfriend?“
+Er: „No.“
+
+[00:09.5-00:14.9] Einstellung 3: Eskalierende Fragen (Schneller Dialog)
+Die Hauptdarstellerin blättert im Notizbuch um, das Sprechtempo nimmt allmählich zu; jedes Mal, wenn der Mann mit „No“ antwortet, macht sie schnell ein Häkchen mit dem Stift im Notizbuch. Die Augen wechseln schnell zwischen Kamera und Notizbuch.
+[Durchgehender Dialog]
+Sie: „Do you have a girlfriend abroad?“
+Er: „No.“
+Sie: „Do you have an online girlfriend?“
+Er: „No.“
+Die Hauptdarstellerin blinzelt leicht: „Are you in a situationship?“
+Er: „No.“
+
+[00:14.9-00:20.3] Einstellung 4: Ernsthafte Überprüfung (Fixierte Kamera)
+Die Hauptdarstellerin lächelt nicht mehr, die Stirn ist leicht gerunzelt, sie starrt in die Kamera; beim Fragen tippt sie mit der Stiftspitze auf das Notizbuch und fährt erst mit der nächsten Frage fort, nachdem der Mann geantwortet hat.
+[Durchgehender Dialog]
+Sie: „You're still in love with your ex?“
+Er: „No.“
+Sie: „Are you in an open relationship?“
+Er: „No.“
+Die Hauptdarstellerin hält kurz inne und hebt eine Augenbraue: „Do you have a friend with benefits?“
+Er: „No.“
+
+[00:20.3-00:26.4] Einstellung 5: Letzter Check (Subtiler Push-in)
+Die Kamera beginnt ein leichtes Heranfahren. Die Hauptdarstellerin notiert schnell, während sie kontinuierlich nachfragt; ihr Ton bleibt ernst, aber die Stirnfalten entspannen sich mit jedem „No“ allmählich.
+[Durchgehender Dialog]
+Sie: „Are you married?“
+Er: „No.“
+Sie: „Have you been married?“
+Er: „No.“
+Sie: „Do you have kids?“
+Er: „No.“
+Die Hauptdarstellerin schließt das Notizbuch halb: „Do you have a crush?“
+Er: „No.“
+
+[00:26.4-00:30] Einstellung 6: Bestätigung und Akzeptanz (Nahaufnahme-Pointe)
+Die Kamera fährt auf eine Gesichtsnahaufnahme heran. Die Hauptdarstellerin legt das Notizbuch beiseite, kommt näher an die Kamera, hebt eine Augenbraue und formt mit Daumen und Zeigefinger ein kleines Fingerherz.
+[Durchgehender Dialog]
+Die Hauptdarstellerin bestätigt Wort für Wort: „Do you like girls for sure, right?“
+Er antwortet sofort: „Yes.“
+Die Hauptdarstellerin hält eine halbe Sekunde inne, ihr ernster Ausdruck löst sich plötzlich in ein zufriedenes Lächeln auf, der Zeigefinger zeigt auf die Kamera: „All right, I'll be your girlfriend.“
+Nach dem Sprechen behält sie die zeigende Geste zur Kamera bei, neigt den Kopf leicht und lächelt für das letzte Bild.
+
+[Performance-Steuerung] Die Emotionen folgen einer Reihenfolge: glücklich, plötzlich alarmiert, ernsthafte Überprüfung, allmählich entspannt, zufriedene Akzeptanz; die Wechsel müssen durch die Zeilen des Mannes ausgelöst werden. Verwenden Sie während der Befragungsphase das Hochziehen der Augenbrauen, Kopfneigungen, Blicke nach unten und Häkchen mit dem Stift; verwenden Sie nicht für jeden Satz denselben Ausdruck. Die Antworten des Mannes sind kurz und klar und müssen erfolgen, nachdem die Frau zu Ende gesprochen hat; männliche und weibliche Stimmen sollten sich nicht überschneiden.
+
+[Generierungsbeschränkungen] Nur die weibliche Hauptdarstellerin entsprechend @Image 1 erscheint; der männliche Hauptdarsteller darf weder Gesicht, Körper noch Hände zeigen; Gesichtsform, Frisur, Kleidung, Halskette, Notizbuch und Beleuchtung müssen konsistent bleiben; kein Szenenwechsel während der gesamten Aufnahme.
+
+[Vermeiden] Untertitel, chinesischer Text, englischer Text, Sticker, Wasserzeichen, Dialogübersetzung, Hintergrundmusik, falscher Sprecher, Frau sagt „Ja/Nein“ für den Mann, Mann unterbricht, Lip-Sync-Abweichungen, mechanisches Vorlesen, verpasste Fragen, wiederholte Zeilen, plötzliche Schnitte, zufällige Kamerabewegungen, übertriebenes Starren, steife Mimik, bedeutungslose Gesten, verschwindendes Notizbuch, Gesichtsveränderungen, Kleiderwechsel, Fingerdeformitäten, plastische Haut.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090817704106024960/img/DjjEvJGWFK1HVoZi.jpg" width="600" alt="Romantische Komödie im TikTok-Stil">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9597)**
+
+**Autor:** [John](https://x.com/johnAGI168) | **Quelle:** [Link](https://x.com/johnAGI168/status/2090818191089979669) | **Veröffentlicht:** Aug 21, 2026
+
+---
+### Waldwächter-Anime-Kampf
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein lebendiger Video-Prompt im Anime-Stil, der einen winzigen Waldwächter zeigt, der ein Dorf mit Sakuga-Animation vor mechanischen Jägern verteidigt.
+
+#### 📝 Prompt
+
+```
+Ein winziger Waldwächter mit einem überdimensionalen Holzschwert beschützt ein magisches Dorf vor einer anrückenden Armee mechanischer Jäger. Zunächst versteckt er sich hinter einem Pilz, während riesige Maschinen die Bäume zertrampeln, dann stürmt er vor, springt zwischen Wurzeln umher, durchtrennt Kabel und befreit gefangene Kreaturen, während der Wald selbst inmitten des Kampfes erwacht. Die Maschinen setzen einen kolossalen Bohrtitanen ein, der beginnt, den heiligen Baum im Zentrum des Dorfes zu zerreißen, was den Wächter dazu zwingt, an dessen rotierendem Körper hochzuklettern, während Ranken, Vögel und leuchtende Geister an seiner Seite angreifen. Er erreicht die Spitze, rammt das Holzschwert in den Kern der Maschine und kanalisiert die gesamte Kraft des Waldes hindurch. Ein farbenfrohes Abenteuer-Anime mit explosiver Sakuga-Animation, verspieltem Größenkontrast, flüssiger Kreaturenanimation, weitläufigen Kamerafahrten durch den Wald, ausdrucksstarkem Squash-and-Stretch, Cel-Shading-Charakteren vor detailreich gemalten Hintergründen, warmem grünem Sonnenlicht, türkisem Geisterleuchten, orangefarbenen Funken und fliegenden Blättern. Eine freudige, heldenhafte Atmosphäre, die damit endet, dass sich der Bohrtitan in einen gigantischen blühenden Baum verwandelt, während jede Maschine der Armee von Ranken überwuchert wird und der Wächter in einer Blüte über dem wiederhergestellten Dorf landet.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2090816193447829504/pu/img/7Hm67uU1m4swQ1uV.jpg" width="600" alt="Waldwächter-Anime-Kampf">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9591)**
+
+**Autor:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **Quelle:** [Link](https://x.com/CharaspowerAI/status/2090816224800149786) | **Veröffentlicht:** Aug 21, 2026
+
+---
+### Sitcom-Küche: Leere Milchpackung
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Multi-Kamera-Sitcom-Prompt über eine Familieninteraktion in einer Küche rund um eine leere Milchpackung, der mit dem komödiantischen Auftritt neuer Charaktere endet.
+
+#### 📝 Prompt
+
+```
+0,0s–1,2s Weite Einstellung (WS), statische Multi-Kamera. Vater (Mitte 40, durchschnittliche Statur, türkisfarbener Pullover, kurzes braunes Haar), Mutter (Mitte 40, lockiges braunes Haar, gemusterte Bluse), Tochter (20, lockiges Haar, bunter Pullover), Sohn (18, Jeansjacke, kurzes braunes Haar) sitzen weiterhin am Küchentisch. Die leere Milchpackung steht noch am Tischrand, leicht geneigt. Vater lehnt sich leicht zurück, die Hand ruht in der Nähe der Müslipackung. Dialog: Vater: „Okay… also ist jetzt auch noch der Kühlschrank leer?“ (LACHKONSERVE leicht) Übergang: Harter Schnitt. 1,2s–2,4s Halbnahaufnahme (MS), leichter Zoom hinein. Mutter dreht ihre Tasse im Uhrzeigersinn, Keramik kratzt leicht. Dialog: Mutter: „Es sei denn, die Milch hat laufen gelernt…“ Tochter unterdrückt ein Grinsen. Übergang: Fokusverlagerung. 2,4s–3,6s Über-die-Schulter-Perspektive (OTS) von Tochter → Küchentür (rechte Seite des Bildes). Hinterkopf und Schulter der Tochter sichtbar. Tür im Hintergrund, geschlossen. Ein leises Klopfen unterbricht die Szene. Kein Gesicht sichtbar (POV-Regel durchgesetzt). SFX: Klopf. Klopf. Übergang: Audio-gesteuerter Schnitt. 3,6s–4,8s Nahaufnahme (CU) Reaktion der Tochter. Gesicht sichtbar: Augenbrauen heben sich, Lippen öffnen sich leicht. Dialog: Tochter: „Erwarten wir Gäste?“ Emotionale Veränderung: Verwirrung → Neugier. Übergang: Harter Schnitt. 4,8s–6,2s Weite Einstellung (WS), Kameraschwenk nach rechts zur Tür (Hauptbewegung). Familie bleibt links im Bild sitzen, während die Tür in die Bildmitte rückt. Türklinke dreht sich dezent. SFX: Klinken-Klicken, Scharnier-Quietschen. Übergang: Bewegungsanschluss. 6,2s–7,5s Über-die-Schulter-Perspektive (OTS) von Vater → Tür öffnet sich. Hinterkopf des Vaters, Schultern angespannt. Tür schwingt nach innen. Zwei Silhouetten erscheinen im Türrahmen. Kein Gesicht sichtbar. Übergang: Lichtenthüllung. 7,5s–9,0s Halbnahaufnahme (MS), frontale Enthüllung. Neuer Charakter 1 (Blonder Mann, Anfang 30, groß, schlank, blonde 80er-Jahre-Frisur, beigefarbene Jacke, gestreiftes Polohemd, blaue Jeans). Neuer Charakter 2 (Frau, Anfang 30, lockiges blondes Haar, Jeansjacke, rosa Oberteil, Jeans, Umhängetasche). Sie stehen lässig im Türrahmen, entspannte Körperhaltung. Dialog (Blonder Mann): „Hey… äh – hat jemand Milch?“ (LACHKONSERVE laut) Übergang: Harter Schnitt. 9,0s–10,2s Nahaufnahme (CU) Reaktion des Vaters. Gesicht sichtbar: Augen weiten sich, Kiefer spannt sich an, Lippen pressen sich zusammen und öffnen sich dann leicht. Dialog: Vater: „Das ist doch nicht euer Ernst.“ Emotionale Veränderung: Ungläubigkeit → Frustration. Übergang: Smash-Cut. 10,2s–11,5s Über-die-Schulter-Perspektive (OTS) von Mutter → Türrahmen. Hinterkopf der Mutter, Tasse leicht angehoben. Neues Paar im Bild sichtbar, steht still. Blonder Mann zuckt leicht mit den Schultern, Hände entspannt. Dialog (Frau): „Wir sind dem Duft von Müsli gefolgt…“ (LACHKONSERVE) Übergang: Match-Cut. 11,5s–13,0s Halbnahaufnahme (2-Personen-Einstellung), Tochter + Sohn. Tochter lehnt sich leicht zum Sohn, Ellbogen drückt auf den Tisch. Sohn neigt den Kopf, Schultern hochgezogen. Dialog (Sohn): „Das wird langsam seltsam.“ Übergang: Harter Schnitt. 13,0s–15,0s Weite Einstellung (WS), komplette Küche + Türrahmen. Alle Charaktere sichtbar. Tür bleibt offen, neues Paar steht lässig da. Milchpackung steht weiterhin leer auf dem Tisch.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090800814319144960/img/TwKJpsNiKrS4u84K.jpg" width="600" alt="Sitcom-Küche: Leere Milchpackung">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9584)**
+
+**Autor:** [Gumvue Studio](https://x.com/GumVue) | **Quelle:** [Link](https://x.com/GumVue/status/2090800910855242088) | **Veröffentlicht:** Aug 21, 2026
+
+---
+### Dark-Fantasy-Drachenritt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein cineastischer Dark-Fantasy-Video-Prompt, in dem zwei Kinder auf einem schuppigen Drachen reiten, während dieser in einen sonnigen, bewölkten Himmel abhebt.
+
+#### 📝 Prompt
+
+```
+Ein realistisches Dark-Fantasy-Video, das mit einer Nahaufnahme von zwei kleinen, hellhaarigen Kindern beginnt, die auf dem Rücken eines großen, dunkel geschuppten Drachen mit leuchtend orangen Augen sitzen. Der Drache öffnet sein Maul zum Brüllen, während die Kinder lächeln und sich festklammern. Plötzlich schwenkt die Kamera sanft heraus, während der Drache in die Luft abhebt, seine massiven Flügel ausbreitet und hoch in einen bewölkten, sonnigen Himmel fliegt. Cineastische Beleuchtung, dramatische Kamerabewegungen, fotorealistische Texturen, dynamische Windeffekte, hochdetaillierter 3D-Fantasy-Stil.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090792527641157632/img/HlMq-Ya2XZumkdGl.jpg" width="600" alt="Dark-Fantasy-Drachenritt">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9586)**
+
+**Autor:** [Maya](https://x.com/MayaAiCreator) | **Quelle:** [Link](https://x.com/MayaAiCreator/status/2090792558943162650) | **Veröffentlicht:** Aug 21, 2026
+
+---
+### Xianxia-Kurzfilm mit trockenem Humor
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein komplexes Multi-Shot-Skript für eine 15-sekündige chinesische Xianxia-Komödie. Es zeichnet sich durch eine spezifische „Drei-Schritte“-Comedy-Struktur, Charakter-IDs für Konsistenz und detaillierte Kameraanweisungen aus.
+
+#### 📝 Prompt
+
+```
+Seedance | 15-sekündiger Kurzfilm mit trockenem Humor | „Der Vierte“
+
+I. Missionsziel
+Erstellung eines vollständigen und zusammenhängenden 15-sekündigen chinesischen Xianxia-Kurzfilms (Fantasy).
+
+Allgemeine Stilanforderungen:
+Filmische, realistische Textur
+Ästhetik des klassischen chinesischen Xianxia
+Dekonstruktion des epischen „Auftritts des Rächers“ hin zu einer ernsthaften Survival-Komödie
+Zurückhaltende, trockene Darstellung
+Reaktionsrhythmus wie im Stummfilm
+Klassischer „Drei-Schritte-Aufbau“
+Klare Statusumkehr
+Filmische Textur im Stil der Arri Alexa
+Stabile und klare Mikrodetails im Gesicht
+Feine Filmkörnung
+Natürliches volumetrisches Licht
+
+II. Kernlogik der Komödie
+Nur ein leicht verständlicher Hauptstrang:
+Ein Feind tritt aggressiv auf, um seine drei bereits besiegten Brüder zu rächen, und identifiziert sich stolz als der „vierte Herausforderer“.
+Bis der Meister beiläufig eine sehr gewöhnliche Frage stellt und der Feind plötzlich erkennt: Er ist der Letzte in seiner Sekte, der noch stehen kann und zur Herausforderung angetreten ist.
+
+Humorquellen:
+Verzögerte Reaktion (späte Erkenntnis)
+Überlebensinstinkt eines normalen Menschen
+Ernster Dialogrhythmus
+Der Charakter erkennt das Problem allmählich selbst
+Verbote:
+Charaktere werden plötzlich dumm
+Zufällige Unfälle in der Umgebung
+Übertriebene Slapstick-Einlagen
+
+III. Referenzanker
+Charakteranker
+@Image 1: Charakter-ID A | Schwert-Unsterbliche Senior-Schwester
+@Image 2: Charakter-ID B | Junior-Schwester
+
+Umwelt-DNA
+Alle neu hochgeladenen Hintergrund- und Standortreferenzbilder bestimmen ein einheitliches Set an Umwelt-DNA. Vor der formalen Komposition müssen kompatible Elemente stillschweigend integriert und rekonstruiert werden:
+Echtes Gelände, architektonische Sprache, räumliche Skalierung, Vegetation, Gewässer, Wetter, Bergnebel, Hauptlichtrichtung, Reflexionsverhältnisse, atmosphärische Tiefe, begehbare Pfade.
+Umweltprinzipien:
+Wasser, Nebel, Vegetation, Stoffe und ferne Umgebungsgeräusche müssen eine natürliche Bewegung beibehalten. Die Umgebung muss narrativ neutral bleiben: keine aktiven Gags, keine Handlungsauslöser, kein Vorantreiben von Wendungen, keine Unterbrechung des Charakterrhythmus.
+
+IV. Charakter-Einstellungen
+Charakter-ID A | Schwert-Unsterbliche Senior-Schwester | @Image 1
+Immer die gleiche 25–30-jährige ostasiatische Frau: Groß und schlank, ovales Gesicht, dunkle Mandelaugen, langes schwarzes Haar halb hochgesteckt, fixiert mit einer weißen Jade-Haarnadel, weißes besticktes Seiden-Hanfu, halbtransparente, geschichtete weite Ärmel, silberner Taillengürtel, Jadeanhänger, weiße Stoffstiefel, ein einzelnes silbernes Langschwert.
+Charakter-Temperament: Ruhig, zurückhaltend, niemals übertrieben, behandelt Herausforderer wie tägliche Sekten-Pflichten.
+
+Charakter-ID B | Junior-Schwester | @Image 2
+Immer die gleiche 20–25-jährige ostasiatische Frau: Kleine Statur, rundes und lebhaftes Gesicht, schwarzes Haar geflochten, cyan-grünes Leinen-Hanfu, dunkler Gürtel, hölzerne Haarnadel, schwarze Stoffschuhe, ein einzelnes Schwert aus dunklem Stahl.
+Charakter-Temperament: Schnelle Reflexe, präzises komödiantisches Urteilsvermögen, prägnante Erwiderungen, zurückhaltende, aber lesbare Mimik.
+
+Charakter C | Feindlicher Schwertkämpfer
+Ein wütender feindlicher Schwertkämpfer tritt mit großem Schwung auf und sieht sich als Held, der auf Rache aus ist. In der ersten Hälfte sehr bedrohlich, erkennt er in der zweiten Hälfte allmählich, dass er nicht kämpfen sollte, und wandelt sich schließlich vom „Rächer“ zum „einzigen überlebenden Herausforderer“.
+
+Charakter D | Meister
+Der gleiche betagte Meister, der ein paar Schritte hinter den beiden steht und als stiller Zeuge fungiert. Minimale Zeilen, aber ein Satz vollendet die Kernumkehr, gefolgt von einem letzten leichten verbalen Seitenhieb.
+
+V. 15-sekündige Drei-Shot-Struktur
+Shot 1 | 0–5s | Weit / Totale | Auftritt des Rächers
+Im offenen Bereich, der natürlich gemäß den Referenzbildern geplant wurde: dieselbe weiß gekleidete Senior-Schwester, dieselbe grün gekleidete Junior-Schwester, derselbe Meister. Die räumliche Beziehung ist stabil. Ein wütender feindlicher Schwertkämpfer schreitet ins Bild. Er zieht sein Schwert mit einem „Klang“ und verkündet heldenhaft: „Ich komme, um meine drei älteren Brüder zu rächen!“ Die weiß gekleidete Schwester ist überhaupt nicht nervös und fragt ruhig: „Welche drei?“ Der Feind antwortet sofort: „Der, der ins Wasser gefallen ist, der, der im Baum hängt, und der, der den Berg heruntergerollt ist – sie alle sind meine Brüder!“
+
+Shot 2 | 5–10s | Medium / Cowboy-Shot | Die Bedeutung von „Der Vierte“ ändert sich
+Beibehaltung aller Charaktere, Kostüme und des identischen geografischen Raums. Die Junior-Schwester erkennt ihn schließlich und sagt: „Oh, du bist der Vierte.“ Der Feind richtet sich sofort auf und antwortet stolz: „Korrekt!“ Er darf kein Problem hören, sondern wird sogar noch stolzer. Dann richtet sich der Fokus auf den Meister, der beiläufig fragt: „Wie viele Schüler hat dein Meister noch übrig?“ Der Feind antwortet instinktiv, ohne nachzudenken: „... Nur mich.“ Nach dem Sprechen muss ein Moment absoluter Stille folgen. Nicht zu schnell wegschneiden. Die Verwandlung im Gesicht des Feindes beibehalten: die heldenhafte Aura hängt noch in der Luft, das Gehirn reagiert einen Takt zu spät, dann die Erkenntnis, was dieser Satz bedeutete. Die Junior-Schwester schaut auf sein gezogenes Schwert, dann zurück zu ihm und fragt ganz natürlich: „Kämpfst du noch?“
+
+Shot 3 | 10–15s | Nahaufnahme / Großaufnahme | Überlebensinstinkt besiegt Rache
+Beibehaltung aller Charaktere und Beziehungen. Der Feind schaut zur Schwester, dann zur Junior-Schwester und schließlich auf das Schwert in seiner Hand. Er beginnt ernsthaft, die Konsequenzen zu berechnen. Dann steckt er das Schwert sehr langsam weg und sagt in einem plötzlich reifen Ton: „Warten wir, bis der Meister zwei weitere rekrutiert hat.“ Vollständige Halb-Takt-Pause. Die Schwester nickt ihm tatsächlich formell zu, als würde sie ein echtes martialisches Urteil gutheißen: „Fortschritt.“ Die Junior-Schwester fügt hinzu: „Er hat zumindest gelernt, zu rechnen.“ Fokus auf den Meister, der ernst nickt: „Wenigstens war dieser Ausflug nicht umsonst.“ Dann Großaufnahme. Der Feind versucht, den letzten Rest seiner Würde zu bewahren, und dreht sich zum Gehen um. Nach zwei Schritten hält er inne, ohne sich umzudrehen, und flüstert: „Meine drei Brüder... sie leben alle noch, oder?“ Die Schwester antwortet fast sofort: „Sie leben.“ Die Schultern des Feindes zeigen eine sichtbare, physische Entspannung. Dann geht er mit spürbar schnellerem Schritt davon. Die Junior-Schwester beobachtet seinen Rücken und seufzt: „Diese Sekte hat endlich einen Vorsichtigen hervorgebracht.“ Schließlich verbirgt der Meister im Hintergrund ein kleines Lächeln, während das Bild schwarz wird.
+
+VI. Leistungsanforderungen
+Senior-Schwester: Niemals übertrieben, ruhig, als würde sie tägliche Aufgaben erledigen, erkennt den Rückzug des Feindes formell an.
+Junior-Schwester: Schnelle Reaktionen, stabiles komödiantisches Timing, natürlich gesprochene Zeilen.
+Feind: Erste Hälfte voller Rächer-Dynamik; mittlerer Übergang zeigt den langsamen Zusammenbruch der Helden-Narrative; zweite Hälfte zeigt Überlebensinstinkt und den Versuch, das Gesicht zu wahren.
+Meister: Minimale Zeilen, beiläufiger Ton, aber präzise, extrem subtiles letztes Lächeln.
+
+VII. Kameraarbeit und Ton
+Insgesamt 15 Sekunden, 16:9 horizontal, drei kontinuierliche, klare Shots. Dialog in nativem Mandarin, präzises Lip-Sync, klare komödiantische Pausen. Arri Alexa-Look, stabile, scharfe Gesichtsdetails, natürliches volumetrisches Licht. Zurückhaltende Kamerabewegung, stabile Shots, die den Reaktionen Zeit zum Wirken geben.
+
+VIII. Kontinuität
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090771956962406400/img/Dxmqy1X86oKC2tG4.jpg" width="600" alt="Xianxia-Kurzfilm mit trockenem Humor">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9596)**
+
+**Autor:** [Soran](https://x.com/Soranlan) | **Quelle:** [Link](https://x.com/Soranlan/status/2090773504794808565) | **Veröffentlicht:** Aug 21, 2026
+
+---
+### 2000er Jahre MiniDV Balkon-Nacht
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein nostalgischer 15-sekündiger Video-Prompt, der MiniDV-Heimvideos aus den frühen 2000er Jahren einer jungen Frau auf einem ruhigen Wohnungsbalkon bei Nacht simuliert.
+
+#### 📝 Prompt
+
+```
+Authentisches MiniDV-Heimvideo-Material aus den frühen 2000er Jahren. Junge koreanische Frau, 24, langes dunkles Haar, dezentes Make-up, übergroßes gemütliches Sweatshirt und lockere Schlafanzughose, in eine weiche Decke gehüllt. Ruhiger Wohnungsbalkon bei Nacht, warmes Innenlicht fällt durch die offene Tür, kühles blaues Stadtlicht von außen. 4:3 MiniDV, handgeführte Unvollkommenheiten, Bildrauschen bei wenig Licht, Bandkörnung/Kompression, leichtes Suchen des Autofokus. Natürliches, ungezwungenes Verhalten, kein filmischer Hochglanz.
+
+SHOT 1 — 0:00–0:03
+Innenaufnahme in der Totalen mit Blick auf die Balkontür. Sie geht auf die offene Tür zu, fest in eine Decke eingewickelt, schläfrig und neugierig. Sie schiebt die Tür ein Stück weiter auf und tritt nach draußen.
+SHOT 2 — 0:03–0:06
+Schnitt auf eine seitliche Balkonperspektive. Sie macht ein paar kleine Schritte nach draußen und hält die Decke um ihre Schultern. Sie blickt in den ruhigen Nachthimmel und atmet tief durch.
+
+SHOT 3 — 0:06–0:09
+Ein plötzlicher kalter Windstoß weht über den Balkon. Ihr Haar bewegt sich stark im Wind, sie zieht sofort die Schultern hoch, wickelt die Decke fest um sich und macht einen lustigen, überraschten Gesichtsausdruck.
+SHOT 4 — 0:09–0:12
+Sie zieht sich schnell durch die Balkontür zurück und stolpert fast bei ihrem hastigen Tempo. Sie schließt die Tür halb, immer noch fest in die Decke eingewickelt, und schaut zurück nach draußen.
+
+SHOT 5 — 0:12–0:15
+Sie steckt langsam ihren Kopf wieder um die Tür und schaut in Richtung Kamera. Sie bemerkt, wie lächerlich ihr dramatischer Rückzug war, und beginnt leise zu lachen. Sie schüttelt den Kopf, lächelt und verschwindet wieder im Inneren.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090769016382238720/img/0rzsR442U_Pg7sHh.jpg" width="600" alt="2000er Jahre MiniDV Balkon-Nacht">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9581)**
+
+**Autor:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Quelle:** [Link](https://x.com/iamahmedfaraz66/status/2090769635474035199) | **Veröffentlicht:** Aug 21, 2026
+
+---
+### Cartoon-Gesichtstransformation einer asiatischen Frau
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein professioneller Video-Prompt für Seedance, der Live-Action-Aufnahmen aus einem Café mit KI-Gesichtsverformung und Cartoon-Übergängen kombiniert.
+
+#### 📝 Prompt
+
+```
+Allgemeiner Stil und Setting:
+Hybrider Stil aus Café-Live-Action und KI-Gesichtsverformung/Cartoonisierung. Vertikale Komposition, natürliche, weiche Innenbeleuchtung, verschwommene grüne Bäume vor dem Fenster, Vinylschallplatten/Poster an der Hintergrundwand (mit sichtbarem „RAY CHARLES“-Schriftzug).
+Charakter: Junge asiatische Frau mit kurzem Bob und schwarzem Haar, trägt ein weißes Hemd (mit kleinem gesticktem Pferde-Logo), khakifarbene Shorts, eine feine Halskette und Ohrstecker. Leichtes und natürliches Make-up.
+Requisiten: Kaltgetränk (mit Strohhalm), Mobiltelefon und kleine Karten auf einem Holztisch; eine weiße Handtasche mit LV-Muster auf der linken Seite.
+Emotionale Tonalität: Lebhaft, verspielt, niedlich, mit einer leicht übertriebenen, interaktiven „süße Fotos machen“-Atmosphäre. Szenenaufschlüsselung (geschätzt nach Zeit):
+0-1s: Frontale Sitzposition, zieht mit den Händen die Mundwinkel weit auseinander, um einen riesigen Mund zu formen, streckt die Zunge heraus, rollt mit den Augen und zieht ein übertrieben niedliches, lustiges Gesicht.
+1-2s: Öffnet die Hände zu beiden Seiten, kehrt zum normalen Gesicht zurück und lächelt süß in die Kamera.
+2-3s: Drückt die Hände auf den Kopf, verwandelt sich sofort in einen Cartoon-Stil mit großem Kopf/Q-Version (übergroßes rundes Gesicht, riesige Augen, aufgeblähte Wangen und Schmollmund) mit einem niedlichen und verträumten Ausdruck.
+3-4s: Rückkehr zum menschlichen Gesicht, aber überlagert mit riesigen Cartoon-Augen + einem überraschten Ausdruck mit weit offenem Mund, Hände hoch über dem Kopf erhoben (als würde sie die Haare richten oder eine überraschte Geste machen).
+4-5s: Dreht den Kopf zur Seite mit einem leichten Schmollmund/nachdenklichen Ausdruck, Arme schwingen natürlich.
+5-6s: Cartoon-Kopf, Augen geschlossen, Mundwinkel nach oben, entspanntes Lächeln, Hände auf dem Schoß.
+6-7s: Rückkehr zum menschlichen Kopf, Hände in einer „Klauen“-Geste erhoben, Mund offen mit herausgestreckter Zunge, Augen zusammengekniffen vor Lachen, super aufgeregt und verspielt.
+7-8,4s: Körper leicht gedreht, eine Hand in der Hüfte, die andere hält eine große rote Cartoon-Blume (oder eine ähnliche Requisite), endet mit einem süßen Lächeln zur Seite in die Kamera. Insgesamt schnelles Tempo, rasche Ausdruckswechsel, natürliche und flüssige Transformation zwischen Mensch und Cartoon, wobei eine „niedliche und verrückte“ Atmosphäre hervorgehoben wird.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090732265345269762/img/CQnl9MVZDGp46Wgh.jpg" width="600" alt="Cartoon-Gesichtstransformation einer asiatischen Frau">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9594)**
+
+**Autor:** [PixelAIGC](https://x.com/PixelAigc) | **Quelle:** [Link](https://x.com/PixelAigc/status/2090732500901597368) | **Veröffentlicht:** Aug 21, 2026
+
+---
+### Ätherische Frau und weißer Pfau
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein hochdetailliertes, filmisches Fantasy-Video, das eine elegante Frau in einem juwelenbesetzten Kleid neben einem riesigen weißen Pfau zeigt.
+
+#### 📝 Prompt
+
+```
+Ultra-detailliertes 8k-Fantasy-Filmvideo einer eleganten, ätherischen Frau in einem kunstvollen, mit Juwelen besetzten rosa-silbernen Kleid und passender Juwelen-Tiara, die neben einem majestätischen, riesigen weißen Pfau in einem magischen Garten mit rosa Kirschblüten an einem spiegelnden Teich steht; extreme Nahaufnahme ihres Gesichts mit Glitzer-Make-up und sich öffnenden, leuchtend türkisfarbenen Augen, Nahaufnahme eines glitzernden ovalen rosa Edelsteins, mittlere Einstellung der Frau neben dem Pfau, dynamische Kamerabewegung, die zeigt, wie der weiße Pfau sein prächtiges, mit rosa Edelsteinakzenten verziertes Schwanzgefieder auffächert, ruhige Atmosphäre, weiche, warme filmische Beleuchtung, schwebende leuchtende Staubpartikel, hyperrealistisches 3D-Rendering, hochdetaillierte Texturen, Meisterwerk, Ultra-HD, 16:9-Seitenverhältnis.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090696891801681920/img/y5NbQVe0MLE1fx4W.jpg" width="600" alt="Ätherische Frau und weißer Pfau">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9589)**
+
+**Autor:** [Zyrella](https://x.com/Zyrellix) | **Quelle:** [Link](https://x.com/Zyrellix/status/2090697013713138158) | **Veröffentlicht:** Aug 21, 2026
+
+---
 ### Intro für die Boss-Arena in der gotischen Kathedrale
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -4024,443 +4520,6 @@ Ein kinoreifes, realistisches Kurzvideo einer stilvollen jungen Frau mit langem,
 **Autor:** [liana](https://x.com/Lianaalane) | **Quelle:** [Link](https://x.com/Lianaalane/status/2088838550959841642) | **Veröffentlicht:** Aug 16, 2026
 
 ---
-### Creative Studio Fantasy-Übergang
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein hochdetaillierter narrativer Prompt, der einen Übergang von einem stimmungsvollen Creative Studio in einen bezaubernden Fantasy-Wald und eine futuristische Verfolgungsjagd mit dem Auto in den Bergen beschreibt.
-
-#### 📝 Prompt
-
-```
-Ein frustrierter junger männlicher Creator sitzt allein in einem dunklen Creative Studio und starrt auf einen völlig leeren Computerbildschirm. Er stützt die Hand auf seine Stirn und wirkt ideenlos und festgefahren. Der Raum ist stimmungsvoll und filmisch gestaltet, mit dem sanften Leuchten des Monitors und tiefen Schatten.
-
-Der leere Bildschirm beginnt sich plötzlich in eine lebendige filmische Welt zu verwandeln. Die Kamera bewegt sich sanft auf den Monitor zu und geht nahtlos in ihn über, wobei sie einen bezaubernden Fantasy-Wald enthüllt, der mit riesigen uralten Bäumen, leuchtend violett-rosa Laub, exotischen Pflanzen, sanftem Nebel und einem kristallklaren Bach, der warme Sonnenstrahlen reflektiert, gefüllt ist. Magische Partikel schweben sanft durch die Luft, während die Kamera langsam durch den Wald fährt.
-
-Die Szene geht dann dramatisch in einen eleganten, futuristischen schwarzen Supersportwagen über, der in der Abenddämmerung über eine kurvenreiche Bergstraße rast. Das Auto beschleunigt aggressiv in den Kurven, wobei die Reifen leichten Rauch und Funken erzeugen und die leuchtend roten Rücklichter sich auf dem nassen Asphalt spiegeln. Massive Berge umgeben die Straße, im Hintergrund ist ein heller Vollmond zu sehen.
-
-Ultra-filmischer Werbe-Look, fotorealistische Details, dynamische Kamerabewegung, flüssige Übergänge, volumetrische Beleuchtung, atmosphärischer Nebel, realistische Reflexionen, geringe Schärfentiefe, dramatischer Kontrast, erstklassige VFX, realistische Bewegungsunschärfe, 4K-Qualität.
-
-Abschluss mit einer kraftvollen Tracking-Aufnahme hinter dem Supersportwagen, während er auf der Bergstraße verschwindet.
-
-Dauer: 15 Sekunden.
-Seitenverhältnis: 16:9.
-Kein Text, keine Logos, kein Wasserzeichen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088835269818781696/img/99lypRacIOH6Ik7I.jpg" width="600" alt="Creative Studio Fantasy-Übergang">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9195)**
-
-**Autor:** [Calira](https://x.com/CaliraVal) | **Quelle:** [Link](https://x.com/CaliraVal/status/2088836623433945169) | **Veröffentlicht:** Aug 16, 2026
-
----
-### Abenteuer des einäugigen Mädchens und ihres Bärenbegleiters
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ein cineastisches High-Speed-Fantasy-Abenteuer mit einer einzigartigen einäugigen Protagonistin und ihrem empfindungsfähigen Bärenbegleiter auf der Flucht durch eine schwebende Megacity.
-
-#### 📝 Prompt
-
-```
-Feste Verwendung des [Reference Image] als einzige Protagonistin und Bärenreferenz für 30 Sekunden. Für Seedance 2.5, 16:9, 30 Sekunden, 60 fps. Generieren Sie das gesamte Video als ein einziges, kontinuierliches, ultra-schnelles AAA-Fantasy-Cinematic. Dieses Video verwendet nicht die Struktur des „kontinuierlichen Falls aus großer Höhe in den Untergrund“ des vorherigen Werks; Umgebung, Bewegungsrichtung, Kreaturen und visuelle Entwicklung sind komplett verändert. Der Kern ist eine „30-sekündige Sequenz, in der die Protagonistin und der Bär rennen, fliegen, das Fortbewegungsmittel wechseln und eine massive, fremdartige Stadt durchqueren“. Die Protagonistin und der Bär bewegen sich immer entlang einer einzigen Bewegungslinie; Standard-Schnittfolgen, Blackouts, Fades, plötzliche Ortswechsel, Portale oder Warp-Löcher sind untersagt. Die Kamera folgt nicht nur neben der Protagonistin; sie bewegt sich rasant durch frontale Abfangmanöver, Verfolgung von hinten, Überkopf-Aufnahmen, bodennahes Gleiten, unter den Flügeln riesiger Kreaturen hindurch, zwischen Protagonistin und Bär sowie innerhalb enger Architektur und verharrt fast nie länger als 30 Sekunden an derselben Position. [Wichtigstes: AAA-Transformation des Reference Image] Ersetzen Sie die Protagonistin im [Reference Image] nicht durch einen realistischen Menschen oder ein gewöhnliches hübsches Mädchen; bauen Sie sie als hochwertigen AAA-3D-Charakter mit den spezifischen Merkmalen des „einäugigen Monster-Charakters“ aus der Referenzvorlage neu auf. Behandeln Sie sie als erwachsene Frau, aber korrigieren Sie sie nicht zu einem menschlichen Gesicht. Behalten Sie das riesige einzelne Auge in der Mitte des Gesichts, den weißen Augapfel, die violett-blau-rote Iris, die schwarze Pupille und das charakteristische Lächeln mit den sehr großen Zähnen vollständig bei. Erhöhen Sie die Anzahl der Augen nicht auf zwei. Machen Sie ihr Gesicht nicht menschlich. Übernehmen Sie den roten bis weinroten runden Helm, den schwarzen Rand, die kleinen schwarzen kreisförmigen Verzierungen am Helm, den schwarzen Body/die Jacke, weiße Skelettmotive, rote schnurartige Verzierungen, das voluminöse schwarze Unterteil und die dunkelblauen bis schwarzen Schuhe aus dem Referenzbild. Löschen Sie nicht die aquarellartigen Unebenheiten von Rot, Blau, Violett, Grün und Schwarz; bewahren Sie sie als handgemalte Farben, verriebene Pigmente und feine Farbverläufe auf der AAA-Materialoberfläche. Machen Sie die Haut nicht zu einer übermäßig realistischen menschlichen Haut; verarbeiten Sie sie als hochwertigen, stilisierten AAA-Charakter mit einem Gefühl für echte Materialien. Verleihen Sie der Oberfläche feine Rauheit, Farbunebenheiten, Nähte, Metall, Gummi, Stoff, Leder und feine Kratzer. Lassen Sie die schwarzen Tusche-Umrisse des Referenzbildes nicht als reine 2D-Linien stehen, sondern übersetzen Sie sie im 3D-Stil in schwarze Ränder an der Kleidung, dicke Helmkanten und Schattenkontur-Designs. Es darf nicht wie billiges Game-CG aussehen. Verwenden Sie AAA-Cinematic-Materialien auf Unreal-Engine-Niveau, Qualität auf Spielfilmniveau, GI, Reflexionen, volumetrisches Licht und Linseneffekte. [Bär fixiert] Behalten Sie den rosa- bis violettfarbenen Bären, den die Protagonistin im [Reference Image] hält, als zweiten Charakter an der Seite der Protagonistin für die gesamten 30 Sekunden bei. Er ist nicht nur ein Stofftier, sondern ein kleiner lebendiger Bär, der mit der Protagonistin spricht, selbstständig rennt, fliegt und sich mit der gleichen Geschwindigkeit wie die Protagonistin bewegt. Behalten Sie die runden Ohren, schwarzen Augen, die schwarze Nase, die weiß- bis cremefarbene Schnauze, den Körper mit aquarellartigen Mischungen aus Rosa, Violett, Blau, Grün und Hellgelb, Nähte und die weichen runden Gliedmaßen aus dem Referenzbild bei. In der AAA-Version ist er eine Mischung aus einem luxuriösen Plüschtier und einer Fantasy-Kreatur. Drücken Sie kurze weiche Fasern, Nähfäden, leicht abgeriebenen Stoff, weiche kompressive Verformung sowie die Trägheit von Ohren und Gliedmaßen aus. Der Bär ist keine Kopie oder ein Haustier der Protagonistin, sondern ein leicht frecher Sidekick. Er hat eine andere Stimme als die Protagonistin. Behalten Sie den Größenunterschied zwischen Protagonistin und Bär bei; vergrößern Sie den Bären nicht. Er sollte eine Größe haben, die die Protagonistin bei Bedarf unter einen Arm klemmen kann. [Bühne] Der Startpunkt ist eine massive „schwebende Megacity“ in der Dämmerung. Kein typisches Büroviertel, sondern eine post-futuristische Wüstenstadt mit massiven rostroten Stahlrahmen, gläsernen Hochbahn-Korridoren, Magnetschwebebahnen, die durch die Luft rasen, kopfüber gebauten Gebäuden, riesigen Windmühlen und nur noch den Rahmen schwebender Werbetafeln, wobei Hochhaustürme die Wolken durchstoßen und eine riesige ringförmige Stadtstruktur in der Ferne rotiert. Die Farben sind Sonnenuntergangsorange, tiefes Ultramarin, Rötlich-Violett und kaltes Cyan. Übermäßiges Neon ist untersagt. Alles ist hochwertigste AAA-3D-Cinematic. Bewegen Sie sich in der zweiten Hälfte kontinuierlich von der Stadt zu einem Wolkenmeer, dann zu einer Luftwasserstraße, einem riesigen Glaswald und schließlich einem schwebenden Nachtmarkt; wechseln Sie nicht abrupt zwischen diesen Orten. Übergänge erfolgen durch physische Kontinuität von Architektur, Wetter, Kreaturen und Gelände. [Grundlegendes Kameradesign] Verwenden Sie 18-24mm Weitwinkel als Basis für Hochgeschwindigkeitsbewegungen, die sich für Dialoge und Ausdrücke natürlich auf 28-40mm schließen. 60 fps. Die Kamera verfolgt nicht kontinuierlich parallel wie eine Drohne. Ändern Sie Höhe, Distanz, Winkel und Geschwindigkeit alle 0,4 bis 1,2 Sekunden. Erstellen Sie eine Sequenz von 3D-Bewegungen wie: Zurückweichen vor der Protagonistin und dem Bären -> Vorbeiziehen an der Schulter der Protagonistin -> Abtauchen unter den Bären -> Vor die riesige Kreatur bewegen -> Umkreisen zur Vorderseite -> Zurückweichen auf Bodenhöhe -> Zuerst durch eine architektonische Öffnung fliegen. Sinnlose 360-Grad-Rollen sind untersagt. Nutzen Sie jedoch aktiv Banks von 15-70 Grad, um den Kurven riesiger Kreaturen, Schwerkraftänderungen oder architektonischen Kurven zu folgen. Fügen Sie natürliche gerichtete Bewegungsunschärfe nur in Hochgeschwindigkeitsabschnitten hinzu, während das einzelne Auge der Protagonistin, ihr Lächeln und die Ausdrücke des Bären lesbar bleiben. [0,00-3,20s | Plötzlicher Sprint auf dem Dach eines Luftzuges] Intensive Geschwindigkeit ab dem ersten Frame. Die Protagonistin und der Bär sprinten mit voller Geschwindigkeit auf dem Dach eines schwarzen Magnetschwebezuges, der mit Hunderten km/h durch die schwebende Stadt in der Dämmerung fährt. Die Protagonistin ist vorne, der Bär rennt verzweifelt 1-2m dahinter auf kurzen Beinen. Die roten Schnüre der Protagonistin, ihr schwarzes Outfit und die Helmverzierungen schwanken im Winddruck; die Ohren und Arme des Bären wehen heftig nach hinten. Die Startkamera befindet sich etwa 4m vor dem Zug, 20mm-Objektiv streift das Dach, während sie zurückweicht, um die beiden von vorne einzufangen. Bei 0,5s taucht die Kamera steil zu den Füßen der Protagonistin ab, wobei die Metallnähte des Zugdaches heftig unter der Linse vorbeifließen. Bei 0,9s steigt sie scharf von außerhalb des rechten Beins der Protagonistin auf und nähert sich dem riesigen einzelnen Auge und dem zahnigen Lächeln bei 24mm. Während des Rennens schaut die Protagonistin zurück und ruft fröhlich zum Bären hinter ihr: „Du bist langsam!“ Der Bär antwortet außer Atem: „Denk an meine Beinlänge!“ Perfektes Lip-Sync. Bei 1,5s erscheinen gebrochene Schienen und eine massive Lücke in der Luft vor ihnen. Ohne zu verlangsamen, sagt die Protagonistin: „Okay, lass uns springen!“ Der Bär sagt: „Davon habe ich nichts gehört!“ Bei 2,3s stößt sich die Protagonistin vom Zugdach ab, der Bär springt sofort hinterher. Die Kamera passiert die beiden mit hoher Geschwindigkeit, fliegt dann in die Luft voraus, um sich umzudrehen und die Protagonistin und den Bären frontal einzufangen, während sie von hinten nähern. [3,20-6,30s | Sprung auf eine riesige weiße Krähe] Dutzende schwarzer Vögel fliegen am Stadthimmel, aber eine riesige silberweiße Krähe mit einer Flügelspannweite von über 15m stürzt rasant von hinten herab. Beschwören Sie sie nicht plötzlich. Lassen Sie sie ab der 2-Sekunden-Marke als kleinen weißen Schatten in der Ferne existieren; bei 3,5s werden ihre Flügel, ihr Schnabel, silberne Federn und bläulich-schwarze Augen klar. Die Protagonistin und der Bär fliegen nicht frei, sondern fallen nach dem Sprung durch die Schwerkraft. Die riesige Krähe kreuzt diagonal unter ihnen. Die Protagonistin dreht ihren Körper in der Luft um 90 Grad und landet bei 4,2s dynamisch auf einem Knie auf dem Rücken der Krähe, wobei sie sich mit einer Hand an einer Feder festhält, um den Aufprall abzufedern. Der Bär verfehlt die Landung und fällt in Richtung der Flügelspitze der Krähe, wobei er ein kleines „Waaah!“ schreit, aber die Protagonistin streckt sofort eine Hand aus, um den Arm des Bären zu greifen und ihn wie ein Pendel hochzuziehen. Die Kamera gleitet unter den Flügel der Krähe und blickt von unten nach oben auf die Protagonistin, die den Bären hochzieht. Bei 5,0s rollt sich der Bär auf den Rücken und sagt: „Halt mich von Anfang an fest!“, und die Protagonistin lacht laut: „Das wäre doch kein Spaß!“ Die Krähe schlägt einmal kräftig mit den Flügeln und taucht zwischen den Stadtgebäuden ab. Die Kamera gelangt vor den Kopf und weicht zurück, wobei sie die silberne Krähe, die Protagonistin, den Bären und die mit hoher Geschwindigkeit hinter ihnen vorbeifließende Stadt in einem einzigen Frame einfängt. [6,30-9,30s | Ultra-High-Speed-Durchbruch durch das Innere eines Hochhauses durch die weiße Krähe] Die weiße Krähe fliegt nicht horizontal, sondern schlängelt sich zwischen Hochhäusern durch eine Kombination aus Ab- und Aufstiegen. Bei 6,5s passiert sie mit angelegten Flügeln zwei Träger eines riesigen Glasturms. Die Protagonistin kauert sich tief und zieht den Bären an ihre Brust. Die Kamera fliegt in die enge Lücke vor der Krähe, eine 18mm-Ultraweitwinkelaufnahme, bei der Glas und Metall auf etwa 10cm an jeder Seite heranrücken. Unmittelbar danach schießt die Krähe heftig auf die Linse zu, und die Kamera beschleunigt rückwärts, um auszuweichen. Bei 7,2s entfaltet die Krähe ihre Flügel wieder und macht eine scharfe Linkskurve. Die Kamera gleitet über die Oberseite des rechten Flügels und blickt über die Schulter der Protagonistin nach vorne. Vor ihnen liegt eine massive transparente „Luftwasserstraße“, die durch das Zentrum der Stadt fließt. Wasser wird wie ein riesiges Band in der Luft gehalten und schlängelt sich zwischen Gebäuden hindurch. Die weiße Krähe sinkt in Richtung der Wasserstraße. Die Protagonistin sagt: „Äh, da fliegen wir rein?“ Der Bär sagt mit blassem Gesicht: „Das ist definitiv das Gesicht von jemandem, der da reingeht!“ Die Krähe stürzt in den transparenten Wasserstrom. [9,30-12,40s | Eintauchen in die Luftwasserstraße -> Wechsel zu einem riesigen Himmelskarpfen] Wenn die Krähe ins Wasser eintaucht, lassen Sie den Bildschirm nicht aufblitzen; setzen Sie die Oberflächenbrechung, Blasen, den Wasserdruck und das an den Federn haftende Wasser physisch fort. Behalten Sie die AAA-Qualität bei. Die Federn der Krähe werden nass und schwer, wodurch die Geschwindigkeit stark abfällt. Die Protagonistin und der Bär werden durch die Trägheit nach vorne geworfen. Die Protagonistin streichelt einmal leicht den Hals der Krähe und sagt „Danke!“, während sie im Wasserstrom mitschwimmt. Der Bär schwimmt nicht, sondern treibt zur Seite der Protagonistin und dreht sich aufgrund des Auftriebs seines runden Körpers. „Ich kann nicht schwimmen!“ Die Protagonistin sagt: „Du schwimmst doch, also ist alles gut!“ Bei 10,4s nähert sich ein massiver, halbtransparenter Himmelskarpfen mit hoher Geschwindigkeit entlang der Strömung von flussabwärts. 12m lang, milchig weiß und blass-cyan, mit transparenten Flossen, dünnen goldenen Schuppen und einem sanften Licht im Inneren. Der Karpfen erscheint nicht magisch, sondern schwimmt von Anfang an in der Ferne der Wasserstraße. Die Protagonistin dreht ihren Körper im Wasser und greift nach dem Rücken des Karpfens. Bei 11,2s, als der Karpfen unter ihr durchschwimmt, greift sie die Basis der Rückenflosse und zieht sich hoch. Der Bär landet sanft auf dem Kopf des Karpfens. Die Kamera läuft rückwärts, streift das Maul des Karpfens und zeigt das riesige Auge, den Bären auf dem Kopf und die Protagonistin, die sich gleichzeitig nach hinten bewegt. Bei 12,0s springt der Karpfen aus der Luftwasserstraße. Wassertropfen bleiben nicht für Sekunden haften, sondern fallen der Schwerkraft folgend nach unten. [12,40-15,60s | Fliegender Himmelskarpfen + Sprung ins Wolkenmeer] Der riesige Karpfen, der aus der Wasserstraße springt, fliegt nicht frei wie ein Vogel, sondern gleitet für kurze Zeit unter Nutzung des Schwungs vom Ausgang der Wasserstraße und des Auftriebs seiner riesigen Flossen. Die Protagonistin und der Bär steuern auf ihrem Rücken auf das Wolkenmeer am Rande der Stadt zu. Die Kamera taucht direkt unter den Karpfen und zeigt die Protagonistin und den Bären oben durch den transparenten Bauch mit Lichtbrechung. Bei 13,0s passiert die Kamera den Schwanz des Karpfens und steigt nach oben hinten. Ein riesiger Glaswald beginnt vor ihnen aufzutauchen. Massive transparente Bäume, hunderte Meter hoch, Äste verzweigen sich wie Prismen, und Wind weht mit hoher Geschwindigkeit zwischen ihnen hindurch. Die Fluggeschwindigkeit des Karpfens nimmt allmählich ab. Die Protagonistin zeigt nach vorne: „Als nächstes, da drüben!“ Bär: „Als nächstes was!?“ Protagonistin: „Darüber habe ich noch nicht nachgedacht!“ Bär: „Ich wusste es!“ Bei 14,3s nähert sich der Karpfen dem oberen Teil des Glaswaldes, aber die Lücken zwischen den Ästen sind zu eng für den riesigen Karpfen. Die Protagonistin streichelt einmal den Rücken des Karpfens und springt mit dem Bären unter einem Arm auf einen der Äste. Der Karpfen fällt natürlich in eine andere Wasserstraße unter ihm und löst sich. Die Schuhe der Protagonistin berühren den transparenten Ast und beginnen mit einem Glasgeräusch zu rutschen. [15,60-18,60s | High-Speed-Rutschen durch den Glaswald + Bär beginnt mit Selbstflug] Die Protagonistin rutscht mit hoher Geschwindigkeit auf den massiven transparenten Ästen wie beim Skaten, während sie den Bären im linken Arm hält. Die Äste sind nicht gerade, sondern krümmen sich scharf nach unten, und die Protagonistin beschleunigt mit der Schwerkraft. Die Kamera bewegt sich mit hoher Geschwindigkeit kopfüber an der Unterseite des Astes, fängt die Fußsohlen der Protagonistin und den Bären durch das transparente Glas ein und kreist dann zur Seite des Astes. Bei 16,3s gabelt sich der Ast. Die Protagonistin lehnt sich nach rechts, um eine Hochgeschwindigkeitskurve zu machen. Der Bär sagt: „Warte mal, ich habe das Gefühl, ich kann auch fliegen!“ Protagonistin: „Jetzt!?“ Der Bär springt von selbst aus den Armen der Protagonistin. Anstatt dass zwei kleine Stoffflügel aus seinem Rücken aufpoppen, dehnen sich die Nähte an den Seiten seines Körpers aus, als würden sie sich auftrennen, und werden zu weichen Flügeln, die ursprünglich eingebaut waren. Die Flügel behalten die Farbtöne und Materialien des Referenzbildes bei. Der Bär beginnt unbeholfen neben der Protagonistin zu fliegen: „Ich bin geflogen!“ Unmittelbar danach trifft er fast einen transparenten Ast: „Whoa, gefährlich!“ Die Protagonistin lacht und kauert sich tief, um zum nächsten Ast zu springen. Die Kamera bricht in eine enge Lücke zwischen den Ästen vor der Protagonistin ein und folgt der springenden Protagonistin und dem fliegenden Bären von vorne, ohne die 180-Grad-Ausrichtung zu ändern. [18,60-21,80s | Sprung auf den Rücken eines riesigen gehörnten Kaninchens und Sprint auf dem Boden] Unterhalb des Glaswaldes sind bernsteinfarbene Graslandschaften und Herden massiver wandernder Bestien sichtbar. Die transparenten Äste des Waldes senken ihre Höhe und setzen sich schließlich in Bodennähe wie eine riesige geschwungene Rutsche fort. Die Protagonistin beschleunigt auf dem Ast, der Bär fliegt neben ihr. Unter und vor ihnen rennt ein riesiges gehörntes Kaninchen von etwa 8m Länge mit hoher Geschwindigkeit durch das Grasland. Langes weißes bis hellgraues Fell, silber-schwarzes Geweih, das sich wie bei einem Hirsch verzweigt, massive Hinterbeine und blaue Augen. Zeigen Sie es nicht plötzlich; führen Sie es ab der 17-Sekunden-Marke als ferne Herde ein. Bei 19,2s springt die Protagonistin vom Ende des transparenten Astes und richtet sich in der Luft auf den Rücken des gehörnten Kaninchens aus. Die Kamera blickt von zwischen den Ohren des gehörnten Kaninchens gerade nach hinten und fängt die sich nähernde Protagonistin von oben ein. Bei 19,7s landet die Protagonistin auf dem Rücken und federt den Aufprall mit beiden Knien ab. Der Bär fliegt ebenfalls von der Seite herein und landet, als würde er gegen die Schulter der Protagonistin stoßen. Das gehörnte Kaninchen verlangsamt nicht. Die Protagonistin greift mit einer Hand in das Fell und streichelt mit der anderen einmal die Seite seines Halses. Das gehörnte Kaninchen reagiert, indem es sein Ohr leicht in Richtung der Protagonistin neigt. Bei 20,4s, Protagonistin: „Schnell, schnell!“ Bär: „Du hast doch gerade gesagt, du wolltest schneller fahren!“ Protagonistin: „Das ist zu schnell!“ Das gehörnte Kaninchen stößt sich mit den Hinterbeinen von einem riesigen Felsen ab und springt darüber; die Kamera führt bodennah, um den Aufprall der riesigen Füße, die über die Linse hinwegziehen, zu vermitteln. [21,80-24,70s | Eintritt in den schwebenden Nachtmarkt, Protagonistin und Bär rennen zusammen] Hinter dem Grasland erscheint kontinuierlich eine massive schwebende Nachtmarktstadt, losgelöst vom Boden. Zuerst warme Lichter in der Ferne, dann werden Dächer, Stoffe, Hängebrücken und dreidimensionale Gassen erkennbar. Das gehörnte Kaninchen rennt eine riesige geneigte Brücke hinauf und betritt den Rand des Marktes. Der Markt ist eine fremdartige AAA-Stadt. Nasser Stein, Holz, Messing, Stoffmarkisen, schwebende Laternen, dampfende Stände und riesige mechanische Uhren. Generieren Sie keinen Text oder lesbare Schilder. Die Protagonistin springt bei 22,2s vom Rücken des gehörnten Kaninchens auf ein nahegelegenes Dach. Der Bär folgt mit Selbstflug. Das gehörnte Kaninchen rennt in eine Gasse. Die Protagonistin sprintet mit voller Geschwindigkeit auf den Dächern, der Bär fliegt in Schulterhöhe daneben. Die Kamera startet von der linken Seite der Protagonistin, beschleunigt bei 22,7s vor sie und bleibt um 180 Grad gedreht, während sie zurückweicht, um ihr Gesicht und den Bären einzufangen. Sie taucht dann steil unter eine enge Hängebrücke, blickt durch die Lücken in der Brücke zu den beiden hinauf und steigt sofort wieder zu den Dächern auf. Bei 23,5s tritt die Protagonistin auf ein riesiges Stoffdach eines Standes, und der Schwung des nachgebenden Stoffes lässt sie zum nächsten Dach springen. Der Bär fragt von der Seite: „Hey, wo ist eigentlich unser Ziel?“ Die Protagonistin schaut beim Rennen einen Moment zum Bären. „Ziel?“ Eine 0,2-sekündige Pause. „...Wir haben keins?“ Der Bär schaut die Protagonistin schweigend an. [24,70-27,50s | Den riesigen Uhrturm hinauflaufen und zusammen in den Himmel springen] Ein riesiger geneigter Uhrturm voraus. Riesige Zahnräder sind vom Marktdach aus an der Außenwand sichtbar. Die Protagonistin springt vom Dachrand auf die rotierenden Zahnräder des Uhrturms und rennt unter Verwendung der Zahnradzähne als Halt nach oben. Der Bär fliegt neben ihr. Die Kamera neigt sich fast 90 Grad gegen die Wand des Uhrturms und folgt der Protagonistin von unten, während sie die Weltkoordinaten-Schwerkraft beibehält. Bei 25,2s passiert die Kamera zuerst ein Loch in einem rotierenden Zahnrad, und die Protagonistin springt durch dasselbe Loch. Bei 25,6s bewegt sich die Kamera von hinter der Protagonistin über ihren Kopf nach vorne und nähert sich dem riesigen einzelnen Auge und dem Lächeln bei 28mm. Protagonistin: „Okay, letzter Sprung!“ Bär: „Wie oft heute schon!?“ Bei 26,0s springt die Protagonistin auf den Zeiger ganz oben am Uhrturm und rennt entlang des rotierenden riesigen Minutenzeigers. Der Bär fliegt neben ihr. Bei 26,6s, in dem Moment, in dem die Spitze des Minutenzeigers ihren höchsten Punkt erreicht, nutzt die Protagonistin den Rückstoß für einen riesigen Sprung. Der Bär schlägt ebenfalls kräftig mit den Flügeln, um gleichzeitig aufzusteigen. Die Kamera führt voraus in den Himmel über dem Turm und komponiert eine Aufnahme der beiden, die auf die Kamera zuspringen, mit der gesamten Stadt im Hintergrund. [27,50-30,00s | Komische Pose in der Luft zusammen] Die Protagonistin und der Bär steigen aufgrund des Schwungs vom Sprung vom Uhrturm für kurze Zeit auf und gehen dann natürlich in einen Fall über. Im Hintergrund sind der schwebende Nachtmarkt, der ferne Glaswald, die riesige Ringstadt und der Himmel, der sich von der Dämmerung zur Nacht wandelt, zu sehen. Die Protagonistin dreht ihren Körper in der Luft halb, um der Kamera zuzuwenden. Der Bär fliegt neben ihr und versucht, die Pose der Protagonistin nachzuahmen. Die Protagonistin nimmt eine kühne und komische Pose ein, die an das Referenzbild erinnert, mit weit gespreizter rechter Hand, linker Hand in der Hüfte und einem angewinkelten Bein. Der Bär hebt ebenfalls einen Arm, vergisst aber, seine Flügel zu betätigen, und beginnt leicht nach unten zu fallen. Die Protagonistin bemerkt es nicht und schaut mit einem überaus stolzen Gesicht in die Kamera: „Perfekt! ...Warte, wo ist der Bär?“ Unmittelbar danach ruft der Bär beim Fallen von unterhalb des Bildschirms: „Es ist nicht perfekt!“ Das riesige einzelne Auge der Protagonistin bewegt sich nach unten und bemerkt zum ersten Mal, dass der Bär fällt. Bei 29,2s lacht die Protagonistin: „Auf keinen Fall!“ und taucht nach unten, um mit einer Hand das Bein des Bären zu greifen. Sie kehren kopfüber vor die Kamera zurück, der Bär mit mürrischem Gesicht und die Protagonistin laut lachend, ihre Zähne zeigend. Bei 29,6s macht die Protagonistin mit einer Hand ein V-Zeichen, während sie den Bären mit der anderen baumeln lässt. Protagonistin: „...Hat es geklappt?“ Bär: „Wie!?“ Perfekt synchronisiert mit dem letzten „Wie!?“ lacht die Protagonistin noch lauter. Die Kamera nähert sich schnell den beiden und füllt den Bildschirm mit dem riesigen Auge, dem Lächeln der Protagonistin und dem wütenden Bären. Die Stadt dahinter fließt schnell nach oben, wobei beibehalten wird, dass die beiden immer noch fallen. Bei 30,00s endet das Video mit einem klaren letzten Frame des komischen Moments, in dem die Protagonistin den Bären mit einer Hand hält und beide sich immer noch in der Luft bewegen. Black Fades, Blackouts oder Standbilder sind untersagt. [Dialog/Stimmen] Die Protagonistin ist eine erwachsene Frau. Etwas tief, aber hell, schelmisch und nicht zu schrill, selbst wenn sie aufgeregt ist. Der Bär hat eine etwas höhere Stimme, die für kleine Charaktere charakteristisch ist, aber keine Kleinkindstimme. Verwechseln Sie die Stimmqualitäten nicht. Fügen Sie keine nicht spezifizierten Zeilen hinzu. Wiederholen Sie dieselbe Zeile nicht mehrmals. Perfekte Synchronisation mit den Mundbewegungen. Stoppen Sie die Protagonistin oder den Bären nicht für Dialoge während der Hochgeschwindigkeits-Action. Zeilen: „Du bist langsam!“, „Denk an meine Beinlänge!“, „Okay, lass uns springen!“, „Davon habe ich nichts gehört!“, „Halt mich von Anfang an fest!“, „Das wäre doch kein Spaß!“, „Äh, da fliegen wir rein?“, „Das ist definitiv das Gesicht von jemandem, der da reingeht!“, „Danke!“, „Ich kann nicht schwimmen!“, „Du schwimmst doch, also ist alles gut!“, „Als nächstes, da drüben!“, „Als nächstes was!?“, „Darüber habe ich noch nicht nachgedacht!“, „Ich wusste es!“, „Warte mal, ich habe das Gefühl, ich kann auch fliegen!“, „Jetzt!?“, „Ich bin geflogen!“, „Whoa, gefährlich!“, „Schnell, schnell!“, „Du hast doch gerade gesagt, du wolltest schneller fahren!“, „Das ist zu schnell!“, „Hey, wo ist eigentlich unser Ziel?“, „Ziel? ...Wir haben keins?“, „Okay, letzter Sprung!“, „Wie oft heute schon!?“, „Perfekt! ...Warte, wo ist der Bär?“, „Es ist nicht perfekt!“, „Auf keinen Fall!“, „...Hat es geklappt?“, „Wie!?“. [Musik/SFX] Die Musik ist ein schneller, schrulliger, cineastischer Elektro-x-Orchester-Breakbeat. Etwa 135-145 BPM. Das Low-End ist straff, mit leichten Drums, kurzen Bläsern, Streicher-Staccato, komischen Holzbläser-Akzenten, sauberem Sub, digitaler Percussion und kurzen Synths. Schwere EDM-Drops sind untersagt. Fügen Sie Metallvibrationen und starken Wind auf dem Zugdach, Luftdruck bei Sprüngen, riesige Flügelschläge und Windschneiden für die weiße Krähe, Wasserdruck, Blasen und tiefe Resonanz in der Luftwasserstraße, Wasserfilm und riesige Schwanzvibrationen für den Himmelskarpfen, hohe Resonanzgeräusche transparenter Äste im Glaswald, riesige Schritte, Fellreiben und Bodenvibrationen für das gehörnte Kaninchen sowie Umgebungsgeräusche von Stoff, Holz, Metall und fernen Menschenmengen auf dem schwebenden Markt hinzu, zusammen mit ineinandergreifenden Metallzahnrädern im Uhrturm. Stoppen Sie die Musik während der Dialoge nicht unnatürlich; senken Sie sie natürlich um 1-2 dB, um die Stimmen in den Vordergrund zu rücken. Entfernen Sie die Musik für nur 0,15s vor dem letzten „Wie!?“ und fügen Sie nach der Zeile einen kurzen komischen Percussion-Akzent hinzu. Lassen Sie das Lachen natürlich. [Absolute Prioritäten] Selbst bei der Transformation der Protagonistin vom [Reference Image] in AAA, behalten Sie das einzelne Auge, das riesige Lächeln, den Helm, das Outfit mit schwarzem Skelettmotiv, die roten Schnüre und die Farben bei. Verwandeln Sie sie nicht in eine gewöhnliche Frau mit zwei Augen. Behalten Sie auch das Design des Bären vom [Reference Image] als denselben individuellen Sidekick-Charakter durchgehend bei. Ersetzen Sie die Protagonistin oder den Bären während der 30 Sekunden nicht durch andere Charaktere. Das gesamte Video muss im hochwertigsten AAA-Cinematic-Stil vereinheitlicht sein, ohne die Texturen zwischendurch in Live-Action, 2D-Animation oder Aquarell zu ändern. Der Reiz liegt diesmal nicht in Texturwechseln, sondern in außergewöhnlicher Kamerabewegung und Ortswechseln.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088816924851613696/img/c7EzyY046oUhUuWe.jpg" width="600" alt="Abenteuer des einäugigen Mädchens und ihres Bärenbegleiters">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9301)**
-
-**Autor:** [C’est La Vie | AI Director](https://x.com/sailorv321) | **Quelle:** [Link](https://x.com/sailorv321/status/2088819020564930606) | **Veröffentlicht:** Aug 16, 2026
-
----
-### Anime-Mädchen: Kinoreifer One-Cut in einer Stadt der Zukunft
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ein hochgeschwindigkeitsbasiertes, kontinuierliches, kinoreifes One-Cut-Video, in dem ein Anime-Mädchen mithilfe von Character-Reference-Techniken durch eine fotorealistische, futuristische Stadt navigiert.
-
-#### 📝 Prompt
-
-```
-Verwenden Sie [Reference Image] als einzige Charakterreferenz für die Protagonistin. Für Seedance 2.5, 16:9, 30 Sekunden, 60 fps. Generieren Sie das gesamte Video als einen einzigen, kontinuierlichen, ultraschnellen, kinoreifen One-Cut. Herkömmliche Schnitte, Szenenübergänge durch Blackouts, Überblendungen oder plötzliche Ortswechsel sind untersagt. Jede Veränderung während der 30 Sekunden muss einen physikalischen Grund für den Übergang von der vorherigen zur nächsten Szene haben. Verbinden Sie den Blick der Protagonistin, Körperdrehungen, Laufen, Springen, Handbewegungen, Geisterbeschwörungen, Geisterflug, Kamerabewegungen, das Eintreten in den Mund des Geistes, freien Fall, Netzschüsse, Wandhaftung, Spannung, Schwingen und Drehungen in der Luft zu einer einzigen Bewegungsbahn. Das Tempo ist extrem schnell, mit visuellen Akzenten alle 0,3 bis 1,0 Sekunden, jedoch niemals als High-Speed-Schnitt aus mehreren unzusammenhängenden Aufnahmen. Der Schlüssel liegt darin, dass die gesamten 30 Sekunden trotz der extremen Geschwindigkeit physikalisch miteinander verbunden sind. Die Protagonistin, die Geister oder die Kamera müssen von Anfang bis Ende in Bewegung bleiben. [Wichtigstes Konzept] Das lebendige Anime-Mädchen aus [Reference Image] existiert direkt innerhalb einer fotorealistischen Live-Action-Stadt der nahen Zukunft in AAA-Qualität. Nur die Protagonistin ist nicht fotorealistisch. Behalten Sie die ursprüngliche 2D-Anime-/High-End-Digital-Illustrations-Textur von [Reference Image] für 30 Sekunden bei, während Sie die Stadt, Architektur, den Himmel, Glas, Metall, Straßen, Licht, Schatten, Reflexionen, Nebel, Dampf, Fernsichten, Luft, Netzlinien und die physikalischen Gegebenheiten der Umgebung als durchgehend fotorealistische Live-Action darstellen. Erzeugen Sie visuelle Schönheit durch die heterogene Koexistenz, bei der eine Figur wie eine Anime-Figur aussieht, aber echtes Live-Action-Stadtlicht empfängt, sich in einem echten Raum bewegt und mittels Netzen von echten Gebäuden fliegt. Halten Sie die Konturen der Protagonistin scharf, aber lassen Sie sie nicht wie einen auf den Hintergrund geklebten Aufkleber wirken. Reflektieren Sie gerichtetes Licht aus der Umgebung, Bodenreflexionen, Farbverläufe von Gebäuden und Schatten von Hindernissen auf das Anime-Shading. Etablieren Sie Kontaktschatten auf Live-Action-Böden, Farb- und Silhouettenreflexionen auf Glas sowie natürliche Verdeckungen durch Vordergrundobjekte. [Konsistenz der Protagonistin] Behalten Sie die erwachsene weibliche Figur aus [Reference Image] vollständig bei. Behalten Sie das leuchtend blaue Haar, den Pony, die Seitenhaare, das zurückgebundene Haar, die große rote Schleife, den rot-weißen Hut, die weißen Bommel, die herzförmige Sonnenbrille mit violett-zu-rosa Gläsern, kleine Ohrringe, weißes Fell, das schwarze Minikleid, rote Nägel und Ringe bei. Ändern Sie weder Gesicht, Augen, Frisur, Haarfarbe, Körperproportionen, Outfit noch Accessoires während des Videos. Behalten Sie die scharfe, hochwertige 2D-Cel-Shaded-Anime- und Digital-Illustrations-Textur mit klaren Linien, Blau-/Rot-/Weiß-Farben und weichem Cel-Shading bei. Machen Sie sie jedoch nicht zu einem flachen 2D-Bild; bewahren Sie die physikalische 360-Grad-Konsistenz als dieselbe Person, selbst im Profil, von hinten, aus niedrigen Winkeln, aus der Vogelperspektive oder bei Drehungen in der Luft. Wenden Sie bei Haar, Schleifen, weißem Fell und Kleidung eine natürliche Verzögerung entsprechend Geschwindigkeit, Winddruck und Beschleunigung an. [Konsistenz der Geister] Verwenden Sie den weißen Geist aus [Reference Image] als grundlegendes Design für die beschworenen Wesen. Behalten Sie den weichen, halbtransparenten weiß-bis-hellblauen Körper, die runde, niedliche Silhouette, die rot-bis-rosa Augen und den Mund sowie die hellrosa Wangen bei, damit sie eher charmante Begleiter als gruselige Geister sind. Die beschworenen Individuen sind vom gleichen Typ, aber keine exakten Kopien; verleihen Sie ihnen kleine Individualitäten in Größe, Ausdruck, Schweifkrümmung und Flugstil. Massenbeschwörung ist untersagt. Erhöhen Sie die Anzahl in der Anfangsphase um jeweils einen bis zu einem Maximum von 5. Sie fliegen dreidimensional um die Protagonistin in verschiedenen Höhen, Abständen und Geschwindigkeiten. Die Geister behalten die gleiche Anime-Welt-Textur wie die Protagonistin bei, aber die fotorealistische Stadt hinter ihnen sollte durch ihre halbtransparenten Teile natürlich sichtbar sein. [Setting | NEO FUTURE CITY] Eine riesige Stadt der nahen Zukunft, die in die blaue Stunde der Dämmerung eintaucht. Einfache Gebäudedächer sind untersagt. Der Startpunkt ist eine massive, schwebende öffentliche Aussichtsplattform inmitten eines Wolkenkratzer-Clusters. Hunderte Meter über dem Boden sind mehrere Wolkenkratzer durch gläserne Skybridges, magnetische Transitschienen, massive Strukturträger und Luftbrücken verbunden. Fotorealistische Textur in AAA-Sci-Fi-Filmqualität. Mit riesigen Glasfassaden, Titan, nassen schwarzen Steinböden, Beton, lichtdurchlässigen Paneelen, beweglichen Lamellen, dezent leuchtenden Verkehrsleitlinien und unbemannten Transitsystemen in der Ferne. Verwenden Sie kein übermäßiges Cyberpunk-Neon. Etablieren Sie es als plausible Architektur der nahen Zukunft. Darüber befinden sich riesige mehrstöckige Straßen und Magnetschienen; in der Ferne fliegen Luftfahrzeuge. Natürliches Abendlicht scheint durch dünne Wolken und wirft blaue und goldene Reflexionen auf die Glasgebäude. Wolkenkratzer sind in Abständen von 20-50 m für das spätere Netzschwingen platziert und zeigen deutlich Außenwände, Träger und Antennenstrukturen, an denen Netze haften können. [Kameradesign] Qualität eines AAA-Actionfilms und hochwertiger Sportwerbung. Digitale Vollformat-Kinokamera. 18-21 mm für Hochgeschwindigkeitsbewegungen, 24-28 mm für Nahaufnahmen der Figur, ultraweite Makro-Intensität beim Eintritt in den Mund des Geistes. 60 fps. Behalten Sie eine Verschlusszeit bei, die Hochgeschwindigkeitsbewegungen lesbar macht, und fügen Sie nur in notwendigen Richtungen natürliche Bewegungsunschärfe hinzu. Sinnlose 360-Grad-Drehungen, zufällige Rollbewegungen oder KI-artige plötzliche Zooms sind untersagt. Kamerarollen, Banks und Orbits müssen ein klares Bewegungszentrum haben, wie die Protagonistin, einen Geist oder die Netzspannung. Halten Sie die Geschwindigkeit nicht konstant; erzeugen Sie einen Kamerarhythmus, der plötzliche Beschleunigung, Ultra-Nahaufnahmen, Orbits, kurzzeitige Geschwindigkeitsunterschiede und erneute Beschleunigung wiederholt. [0,00-3,50 s | Mädchen rennt + erste Geisterbeschwörung] Intensive Bewegung ab dem ersten Frame. Die Protagonistin aus [Reference Image] rennt mit voller Geschwindigkeit auf die Kamera zu in der riesigen, schwebenden Plattform der nahen Zukunft. Die externe Kamera weicht aus einem niedrigen Winkel etwa 1,5 m vor ihr mit hoher Geschwindigkeit zurück. Sie lacht fröhlich; das weiße Fell, die rote Schleife und das blaue Haar wehen aufgrund der Geschwindigkeit heftig nach hinten. Der Schatten der Anime-Protagonistin fließt schnell über den nassen Live-Action-Boden, und die Farben des blauen Haares und der roten Schleife reflektieren kurzzeitig auf dem umliegenden Glas. Um 0,70 s rennt sie weiter, während sie ihre rechte Hand seitwärts schwingt. Ein 2D-Pinselstrich, wie ein einzelner Strich aus roter, blauer und weißer Farbe, wird in den Live-Action-Raum gezeichnet. In dem Moment, in dem er einen Bogen bildet, erscheint der erste Geist mit einem 'Pop!'-Geräusch. Es ist kein magischer Kreis, sondern ein auffälliger, aber kurzer Maleffekt. Der Geist fliegt neben ihrer Schulter; sie schaut zur Seite und lacht, während sie auf Japanisch mit perfektem Lip-Sync 'Can you keep up?' sagt. Der Geist hüpft fröhlich, aber sie hält niemals an. [3,50-7,50 s | Sukzessive Beschwörungen während des Rennens] Die Protagonistin rennt mit hoher Geschwindigkeit und schlängelt sich durch Strukturträger und transparente Paneele der Plattform. Die Kamera kreist schnell von vorne zur linken Seite, während sie ihren Körper im Laufen halb dreht. Das Durchschneiden der Luft mit der linken Hand beschwört den 2. Geist aus einem hellblauen Pinselstrich mit einem 'Pop!'. Ein Schnippen mit dem Handgelenk erzeugt einen kurzen roten Farbspritzer für den 3. Geist. Das Kreisen ihres Arms über dem Kopf durchschneidet den Raum mit einem weißen, bandartigen Strich und beschwört den 4. Geist aus dessen Spitze. Schließlich erzeugt das gleichzeitige Vorstoßen beider Hände einen etwas größeren 5. Geist, wo sich dicke blaue, rote und weiße Pinselstriche kreuzen. Generieren Sie diese nicht alle auf einmal; sie müssen visuell von 1 auf 5 ansteigen, und die zuvor beschworenen verschwinden nicht. Die fünf fliegen in unterschiedlichen Höhen und Radien (oben, seitlich, Taille, vorne-oben, hinten) und bilden eine dreidimensionale Spirale um sie herum. Einer passiert sehr nah am Objektiv und zeigt die Figur und die Stadt durch seinen halbtransparenten Körper gebrochen, aber dies ist kein Schnitt. [7,50-10,20 s | Riesen-Geist bewegt sich vorwärts] Sie beschleunigt weiter in Richtung des Randes der schwebenden Plattform. Vor ihr liegt ein massiver städtischer Abgrund von hunderten Metern, aber sie verlangsamt nicht. Die fünf Geister beschleunigen ebenfalls, und der größte fliegt vor ihr, fliegt rückwärts, während er sich schnell auf 3-4 Meter Durchmesser vergrößert. Behalten Sie die Niedlichkeit und das grundlegende Design bei. Der riesige Geist schaut sie an und ruft mit heller, niedlicher Stimme 'Here we go~!', wobei das Lip-Sync perfekt ist. Als der Satz endet, öffnet er den Mund weit. Das Innere ist kein schwarzes Loch, sondern ein exotischer Raum, in dem rote, blaue, weiße und rosa 2D-Farben mit immenser Geschwindigkeit wirbeln. Sie lacht überrascht 'Eh, in there?!', rennt aber weiter. Eine starke Sogwirkung geht vom Mund des Geistes aus und zieht ihr Haar, ihre Schleife und ihr Fell nach vorne, wobei auch die kleineren Geister darauf zutreiben. Die Kamera bewegt sich hinter sie und wird zusammen mit ihr physisch in den Mund des riesigen Geistes gesaugt. [10,20-12,20 s | Einzelner großer PAINT IMPACT] Sie springt vom Rand der Plattform, und der Schwung sowie der Sog ziehen sie in den Mund des riesigen Geistes. Während sie den Rand passiert, generieren Sie den auffälligsten Effekt der 30 Sekunden: einen massiven 2D-Pinselstrich aus Rot, Blau, Weiß und Rosa, zusammen mit flüssiger Tinte, Cel-Anime-Geschwindigkeitslinien und groben Pinselklecksen, die den gesamten fotorealistischen Bildschirm mit hoher Geschwindigkeit umkreisen und einen 'PAINT IMPACT' bilden, als hätte ein riesiger Pinsel den Film selbst neu bemalt. Keine Explosion oder Laser. Die Kamera durchquert die Farbebene physisch. Das Innere des Mundes ist kein langer Tunnel, sondern wird in unter 1 Sekunde durchquert, was den hohen Himmel über derselben Stadt der nahen Zukunft enthüllt. Die Farbe teilt sich nach links und rechts und stößt sie und die Kamera in den städtischen Himmel aus. Dies ist der einzige große Effektübergang; wiederholen Sie keine ähnlichen Übergänge. [12,20-14,50 s | Auswurf in den städtischen Himmel] Sie wird mit hoher Geschwindigkeit in den Himmel hunderte Meter über der fotorealistischen Stadt der nahen Zukunft geschleudert. Darunter befinden sich mehrstöckige Straßen, riesige Glasgebäude und Transitschienen. Sie fliegt nicht frei; nachdem die Aufwärts-Trägheit verloren ist, geht sie in einen klaren Fall über. Die Kamera taucht von ihrer Seite unter sie und schaut aus einem niedrigen Winkel mit der Stadt als Hintergrund nach oben. Die fünf Geister schließen sich ihr nacheinander wieder an. Nur die Geister können frei fliegen. Einer ordnet sich neben ihr ein; während des Fallens lacht sie und ruft 'Whoa, so high!'. Der Geist lacht ebenfalls. Sie wechselt schnell den Ausdruck und fixiert ein Wolkenkratzer-Gebäude rechts vor ihr. [14,50-18,00 s | 1. Netzschuss -> Befestigung -> Spannung -> Hochgeschwindigkeits-Swing] Ein riesiger Wolkenkratzer aus Glas und Metall befindet sich rechts vor ihr. Während des Fallens schwingt sie ihren rechten Arm von der Schulter nach vorne und schnippt scharf mit dem Handgelenk. Eine einzelne, dünne, starke weiß-bis-hellblaue Netzlinie wird deutlich aus ihrer Hand geschossen. Das Netz wird als durchscheinende, hochfeste Faser dargestellt, die im Live-Action-Raum existiert. Zeigen Sie den gesamten Prozess: Ausstrecken aus der Hand, Durchqueren der Luft und Erreichen der Gebäudewand. Es haftet mit einem 'Click!' und ein wenig Live-Action-Staub. Unmittelbar danach strafft sich die Linie. Die Spannung überträgt sich von ihrem rechten Arm auf Schulter, Brust, Taille und Beine. Ihre Abwärtsgeschwindigkeit wandelt sich in Vorwärtsgeschwindigkeit um, und sie tritt in eine massive Pendelbahn ein, die auf dem Befestigungspunkt zentriert ist. Die Kamera folgt und neigt sich steil nach rechts. Die fünf Geister jagen mit hoher Geschwindigkeit hinterher – einer vorne, zwei an den Seiten, der Rest dahinter. Geister benutzen keine Netze. [18,00-21,00 s | Ultraschneller Swing in Gebäudenähe + Dialog] Sie erreicht den tiefsten Punkt des Swings bei maximaler Geschwindigkeit und passiert die Live-Action-Gebäudewand in einem Abstand von 1-2 m. Reflexionen des Anime-Mädchens und der Geister rasen über das Glas. Sie neigt ihren Körper zur Seite und beugt ihre Beine, um Gebäudeausbuchtungen knapp auszuweichen. Die Kamera bewegt sich von hinten-unten in die schmale Lücke und verwendet ein 21-mm-Weitwinkelobjektiv, um Geschwindigkeit und Distanz zu betonen. Ein Geist holt auf: 'Wanna go faster?'. Sie schaut nach vorne und sagt fröhlich: 'Of course!'. Perfektes Lip-Sync. Unterbrechen Sie während des Dialogs weder den Swing, die Haar-/Schleifen-/Fellbewegung noch den Hintergrundfluss. Genau in dem Moment, als die Kamera von der Seite auf ihr Gesicht zoomt, öffnet sie ihre rechte Hand, um das erste Netz zu lösen. Die Spannung verschwindet, und die Trägheit schießt sie mit hoher Geschwindigkeit diagonal nach oben. [21,00-24,00 s | 2. Netz + weitere Geschwindigkeitserhöhung] Sie behält ihre Aufwärts-Trägheit bei, während sie ihren Körper schnell halb dreht. Die Kamera führt einen gezielten 120-Grad-Orbit um sie herum aus, um ihr Gesicht von vorne-oben einzufangen. Ein weiterer Wolkenkratzer erscheint vorne links; sie streckt ihren linken Arm aus und schießt eine 2. Netzlinie. Zeigen Sie die Spitze, wie sie durch die Luft fliegt und an der oberen Wand des linken Gebäudes haftet. 'Click!'. Die Linie spannt sich, zieht ihren linken Arm, und die Spannung verändert ihre Richtung scharf nach links. Sie beschreibt einen riesigen Bogen und passiert eine Lufttransitschiene der nahen Zukunft. Die Kamera rollt mit der Spannung nach links, wodurch sich der Horizont aus einem physikalischen Grund neigt. Die Geister kreuzen ihre Wege, während sie sie verfolgen. Ein größerer Geist zieht neben ihr gleich: 'Can you still go?'. Sie lacht niedlich im Wind und ruft: 'I'm going to pick up even more speed!'. Dies ist ein Schlüsselsatz für die zweite Hälfte. Sie hält das Netz in der linken Hand und setzt den Swing bei maximaler Geschwindigkeit fort, während sie spricht. [24,00-27,00 s | Netz lösen -> Großer Sprung über die Stadt] Sie tritt in den Aufwärtsteil des 2. Swings ein und steigt in Richtung eines Gebäudedachs auf. In dem Moment, in dem die Geschwindigkeit am stärksten in Höhe umgewandelt wird, löst sie das Netz und wird höher als das Dach in die Luft geschleudert. Die fünf Geister steigen gemeinsam auf. Während des Aufstiegs streckt sie ein Bein nach vorne, dreht ihren Körper um 180 Grad und breitet die Arme aus. Ihr blaues Haar, die rote Schleife und das Fell folgen mit einer großen Verzögerung aufgrund des starken Windes. Die Kamera steigt scharf von unten auf, überholt sie und bewegt sich nach vorne, wobei sie ihr zugewandt ist, während sie zurückweicht. Hinter ihr liegt die massive, fotorealistische Stadt der nahen Zukunft hunderte Meter tiefer. Ihr Aufstieg verlangsamt sich und geht natürlich in den freien Fall über. Die fünf Geister beginnen sich um sie zu versammeln und passen ihre Geschwindigkeit an. [27,00-30,00 s | Niedliche Pose in der Luft + Maleffekt] Verwenden Sie für das Finale keine Verschluss- oder Linseneffekte. Während sie durch den städtischen Himmel fällt, blickt sie in die Kamera. Die fünf Geister sind dreidimensional positioniert (Seiten, oben, Füße, hinten). Sie lächelt schelmisch, führt ihre rechte Hand für ein kleines V-Zeichen an ihr Gesicht, beugt leicht ihr linkes Bein und nimmt eine niedliche, selbstbewusste Pose in der Luft ein, die charakteristisch für [Reference Image] ist. Sie ist jedoch nicht statisch; der Fall, die Haar-, Schleifen- und Geisterbewegungen gehen weiter. Ein Geist in der Nähe ihrer Schulter ahmt ihre Pose nach. Ein anderer lächelt in die Kamera. Sie löst das V-Zeichen und zeichnet mit ihrem rechten Zeigefinger einen großen Strich in die Luft. Eine lebendige, blaue->rote->weiße->rosa 2D-Farblinie entsteht aus ihrer Fingerspitze, perfekt synchronisiert mit der Flugbahn ihres Arms, um einen riesigen Bogen zu bilden. Die Linie kreist um die Figur und die Geister und bildet eine abstrakte gemalte Silhouette, die an ein Herz und einen Stern aus einem Strich erinnert, ohne Buchstaben oder Logos zu verwenden. Die fünf Geister verschwinden nicht; sie konvergieren um sie herum, wobei jeder einen kleinen farbigen Schweif hinterlässt. Die Kamera zoomt hinein, während sie zwinkert. Die Live-Action-Stadt, das lebendige 2D-Anime-Mädchen, die weißen Geister und die riesigen Pinselstriche erreichen maximale Dichte. Bei 29,70 s streckt sie das V-Zeichen leicht in Richtung Kamera, und die Geister nehmen gleichzeitig niedliche Posen ein. Die Farblinie umkreist den Umfang, um den Rahmen zu dekorieren. Bei 29,90 s kreuzt ein riesiger rot/blau/weiß/rosa Strich sehr nah am Objektiv, ohne schwarz zu werden. Der letzte Frame bei 30,00 s ist der lebendige Moment des Anime-Mädchens und der fünf Geister, die Posen in der Mitte des handgezeichneten Effekts hoch über der fotorealistischen Stadt einnehmen. Überblendungen sind untersagt. [Sound/Musik] Hochtempo-heller Electro-Pop x futuristischer Breakbeat von Anfang an. Schwerer EDM ist untersagt. Verwenden Sie einen straffen Kick, sauberen Bass, knackige Percussion, kurze digitale Synths und verspielte Plucks, um Niedlichkeit und Hochgeschwindigkeits-Action auszubalancieren. Synchronisieren Sie kurze 'Pop'- und 'Swish'-Geräusche mit jeder Beschwörung; die Musikebenen nehmen zu, je mehr Geister erscheinen. Geisterstimmen sind niedlich und leicht mit einem luftigen Gefühl, vermeiden Sie jedoch übermäßiges Echo. Die Protagonistin hat eine helle, freiheitsliebende, leicht schelmische Stimme einer jungen Erwachsenen. Keine Kleinkindstimmen. Dialoge nur an den angegebenen Stellen: 'Can you keep up?', 'Here we go~!', 'Eh, in there?!', 'Whoa, so high!', 'Wanna go faster?', 'Of course!', 'Can you still go?', 'I'm going to pick up even more speed!'. Wiederholen Sie keine Zeilen und sprechen Sie nicht zu anderen Zeiten. Verwechseln Sie die Stimme der Protagonistin nicht mit denen der Geister. Perfektes Lip-Sync für alle. Der Sog in den Mund des Geistes bietet ein tiefes Sauggeräusch + einen Hochgeschwindigkeits-Farb-Swoosh. Ein starker musikalischer Akzent für den PAINT IMPACT bei 10 s. Winddruckgeräusch beim Auswurf in den Himmel. Netzschuss 'Thwip', Wandhaftung 'Click', kurze niedrige Frequenz bei Spannung und tonhöhenverschobenes Windgeräusch während der Swings. Synchronisieren Sie ein trockenes Pinselstrichgeräusch mit dem abschließenden Maleffekt. [Absolute Prioritäten] Behalten Sie die Protagonistin aus [Reference Image] als dieselbe Person durchgehend bei. Sie bleibt für 30 Sekunden eine Anime-Figur und darf nicht fotorealisiert, 2.5D oder 3D sein. Der Hintergrund ist eine strikt fotorealistische Live-Action-Stadt der AAA-Klasse. Behalten Sie absichtlich den heterogenen Texturunterschied zwischen der Protagonistin und dem Hintergrund bei. Stellen Sie jedoch sicher, dass Licht, Schatten, Reflexionen, Kontakt, Verdeckung, Wind und Geschwindigkeit physikalisch konsistent innerhalb desselben Raums sind. Keine Kamerarequisiten oder Selfies. Keine generierten Fotos. Beschwören Sie Geister nacheinander durch die Handbewegungen der Protagonistin, ansteigend auf 5, ohne andere zu löschen. Die Beschwörung ist ein kurzer 2D-Farbausdruck. Nur eine große Effektänderung: das Eintreten in den Mund des riesigen Geistes. Der Mund öffnet sich direkt, nachdem der Geist 'Here we go~!' gesagt hat, und die Kamera/Protagonistin werden hineingesaugt. Kontinuierlicher Auswurf aus dem Mund in den Stadthimmel. Sie fällt durch Schwerkraft, nicht durch freien Flug. Netzlinien müssen aus ihrem Handgelenk/ihrer Hand schießen; zeigen Sie die Spitze, wie sie fliegt, haftet, die Linie sich spannt und die Spannung den Fall in einen Swing umwandelt. Etablieren Sie 'Schießen->Haften->Spannung->Swing' mindestens zweimal. Geister fliegen nebenher und bleiben bis zum Ende. Natürlicher Dialog zwischen ihnen während der Hochgeschwindigkeitsbewegung. Beenden Sie mit einer niedlichen Pose der Protagonistin und der 5 Geister, synchronisiert mit einer riesigen 2D-Farblinie, die sie zeichnet. [Untersagt] Fotorealismus der Protagonistin, 2.5D, 3D-Anime, Spiel-CG, Plastik-3D, Gesichtsveränderungen, Haarfarben-/-stiländerungen, Outfitänderungen, Verlust von Accessoires (Schleife, Sonnenbrille, Fell), Charakterduplizierung, Werden zu einer anderen Person, Altersänderungen, zusätzliche menschliche Charaktere, gruselige/Zombie-/Geister-Geister, Blut, Gore, Verschmelzung von Protagonistin und Geist, zusätzliche Gliedmaßen, 6 Finger, verschmolzene Finger, Körperverdrehung, Gelenkversagen, zufällige Teleportation, Standard-Editschnitte, Blackouts zwischendurch.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088808323303002112/img/bEFEV8iKP_9VshAy.jpg" width="600" alt="Anime-Mädchen: Kinoreifer One-Cut in einer Stadt der Zukunft">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9223)**
-
-**Autor:** [C’est La Vie | AI Director](https://x.com/sailorv321) | **Quelle:** [Link](https://x.com/sailorv321/status/2088810229517717742) | **Veröffentlicht:** Aug 16, 2026
-
----
-### Wuxia-Verhandlungskomödie "Preistreiberei"
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Ein filmischer, trockener Wuxia-Comedy-Prompt über eine Verhandlung, bei der die Senior- und Junior-Schwester zusammenarbeiten, um den Preis für den Verkauf der Schwächen der Senior-Schwester an einen Feind in die Höhe zu treiben.
-
-#### 📝 Prompt
-
-```
-Seedance Prompt | Preistreiberei
-
-I. Kernpositionierung
-
-Filmische, realistische Textur, reine Ästhetik des antiken chinesischen Xianxia.
-Gesamtstil:
-Anspruchsvolle, trockene Ensemble-Komödie
-Klassische Kampfkunst-Charakter-Blockierung
-Allmählich eskalierender Verhandlungsrhythmus
-Dreierregel (Rule of Three)
-Präzise Reaktionsaufnahmen
-Arri Alexa Filmtextur
-Klare und stabile Gesichts-Mikrodetails
-Feine Filmkörnung
-Natürliches volumetrisches Licht
-Der komödiantische Kern dieses Segments ist eine klare Umkehrung von Identität und Haltung:
-
-Der Feind versucht, die Junior-Schwester mit Silber zu bestechen, um die Schwäche der Senior-Schwester zu erfahren.
-In den ersten Sekunden soll das Publikum kurz vermuten, ob die Junior-Schwester das Geld tatsächlich annehmen wird.
-Dann stellt sich heraus, dass diese beiden Frauen in perfektem stillschweigendem Einvernehmen zusammenarbeiten, um den Preis für den Feind in die Höhe zu treiben.
-
-Alle Nebencharaktere dienen nur als:
-Zeugen der Komödie
-Rhythmus-Verstärker (Abschluss-Schläge)
-
-Die wahren Hauptakteure sind immer:
-Bild 1: Senior-Schwester (Schwert-Unsterbliche)
-Bild 2: Junior-Schwester
-
-II. Referenz-Kontrollen
-
-1. Charakter-Identitätsanker
-@Bild 1 sperrt strikt Charakter-ID A: Schwert-Unsterbliche Senior-Schwester
-@Bild 2 sperrt strikt Charakter-ID B: Junior-Schwester
-
-2. Umgebungsreferenz
-Alle in dieser Runde hochgeladenen Hintergrund- und Standortreferenzbilder bestimmen gemeinsam die gleiche Umwelt-DNA.
-Vor der formalen Komposition sind folgende Elemente nahtlos zu integrieren:
-Reales Gelände, architektonische Sprache, räumlicher Maßstab, Texturen, Vegetation, Gewässer, Wetter, Bergnebel, Wolken, Hauptlichtrichtung, Reflexionsbeziehungen, atmosphärische Tiefe und realistische begehbare Pfade.
-Anschließend erfolgt die Neuplanung in einen einzigartigen, einheitlichen, physikalisch logischen und räumlich kontinuierlichen neuen Raum.
-
-3. Umweltprinzipien
-Die Umgebung muss von Anfang bis Ende lebendig bleiben, aber in der Erzählung absolut neutral sein.
-Elemente, die für eine natürliche kontinuierliche Bewegung zulässig sind:
-Wind, Gewässer, Bergnebel, Vegetation, Reflexionen, entfernte Schüler und räumliche Umgebungsgeräusche.
-Es müssen jedoch folgende Prinzipien eingehalten werden:
-Die Umgebung darf die Handlung nicht auslösen, keine Probleme lösen, keine komödiantischen Bits für Charaktere erzeugen oder Verhandlungen unterbrechen. Sie dient lediglich der Präsenz in der realen Welt.
-
-III. Charakter-Einstellungen
-Charakter-ID A | Schwert-Unsterbliche Senior-Schwester
-Identisch mit @Bild 1. 25–30-jährige ostasiatische Frau, ovales Gesicht, helle Haut, dunkle Mandelaugen, langes schwarzes Haar, halb hochgesteckt mit einer weißen Jade-Haarnadel, groß und schlank.
-Festes Aussehen: Weißes, besticktes Seiden-Hanfu, durchscheinende weite Ärmel, silberner Hüftgürtel, Jade-Anhänger, weiße Stoffstiefel, ein einzelnes silbernes Langschwert.
-Temperament: Ruhig, würdevoll, logisch stabil, trocken, errötet nicht in absurden Situationen.
-Leistungsanforderungen: Muss den Kopf sehr langsam drehen, um die Junior-Schwester anzusehen, wenn diese sagt: „Zu wenig.“ Muss „Achtzig“ wie einen vernünftigen Marktpreis sagen. Muss absolut ernst bleiben, wenn sie sagt: „Meine Schwäche kann nicht billig verkauft werden.“ Wenn sie das Silber zur Junior-Schwester schiebt, sollte die Haltung so sein, als würde sie offizielle Geschäfte abwickeln.
-
-Charakter-ID B | Junior-Schwester
-Identisch mit @Bild 2. 20–25-jährige ostasiatische Frau, rundes und lebhaftes Gesicht, schwarzes Haar in Zöpfen, zierliche Statur.
-Festes Aussehen: Cyan-grünes Leinen-Hanfu, dunkler Gürtel, hölzerne Haarnadel, schwarze Stoffschuhe, ein einzelnes dunkles Stahlschwert.
-Temperament: Klug, reaktionsschnell, emotional zurückhaltend, natürliche stillschweigende Übereinstimmung mit der Senior-Schwester. Die Komik entsteht durch „absurde Ernsthaftigkeit“.
-Leistungsanforderungen: Muss das Publikum kurz zweifeln lassen, wenn sie das Silber zum ersten Mal betrachtet. Sagen Sie „Zu wenig“ ruhig und ernst, nicht scherzhaft. Nicken Sie bei „Achtzig“, als würden Sie ein professionelles Angebot bestätigen. Das Wiegen des Silbers am Ende und der Satz „Ich fürchte, ich mache Verlust“ müssen so natürlich klingen wie eine Tatsachenfeststellung.
-
-Nebencharakter 1 | Feindlicher Schwertkämpfer
-Ein Mann. Verantwortlich für den Beginn der Bestechung. Anfangs selbstbewusst, glaubt, die Situation zu kontrollieren; beginnt in der Mitte verwirrt zu sein; am Ende völlig erstarrt.
-Leistungsanforderungen: „Dreißig Tael, verrate mir ihre Schwäche“ sollte direkt und pragmatisch sein. Bei „Fünfzig“ sollte er deutlich spüren, dass er den Einsatz erhöht. „Achtzig! Wovor hat sie eigentlich Angst?“ sollte den Druck des Ungeduldigwerdens tragen. Schließlich, beim Blick auf seine leeren Hände, sollte er aussehen, als wäre er völlig übergangen worden.
-
-Nebencharakter 2 | Älterer Meister
-Ein Mann. Nur für einen autoritären Schlusspunkt am Ende verantwortlich. Darf die Szene nicht stehlen. Der Ton sollte so sein, als würde er die Konten der Sekte verwalten.
-Leistungsanforderungen: „Eine Lektion“ sollte wie eine objektive Schlussfolgerung klingen. „Die Sekte nimmt dreißig Prozent des Silbers“ muss klingen, als würde eine normale Regel verkündet. Das Gehen darf nicht stoppen. Darf nicht in eine offensichtlich komödiantische Darstellung abgleiten.
-
-Entfernte Hintergrundcharaktere
-Kleingruppen von Schülern in der Ferne können vorhanden sein. Sie sorgen nur für die Weltpräsenz. Sie dürfen nicht in die Haupthandlung eingreifen, die Protagonisten offensichtlich beobachten oder übermäßig auf die Witze reagieren.
-
-IV. Kern-Requisiten
-Silberbarren: Die gleiche Charge Silber, einige Barren. Deutlich auf einer natürlich vorhandenen Steinoberfläche zwischen den dreien platziert. Kontinuierlich und stabil über drei Aufnahmen hinweg. Muss echtes metallisches Gewicht und Reflexion aufweisen.
-Langschwerter: Senior-Schwester hat ein einzelnes silbernes Schwert; Junior-Schwester hat ein einzelnes dunkles Stahlschwert. Als Identitäts-Requisiten durchgehend präsent. Fokus liegt auf Verhandlung und Rollenumkehr, nicht auf Kampf.
-
-V. Komödiantische Struktur
-1. Takt | Irreführung: Der Feind bietet dreißig. Die Junior-Schwester lehnt nicht sofort ab, sondern betrachtet das Silber ernst und sagt: „Zu wenig.“ Das Publikum vermutet einen Verrat.
-2. Takt | Progression: Der Feind erhöht auf fünfzig. Die Senior-Schwester greift plötzlich selbst ein, um den Preis in die Höhe zu treiben: „Achtzig.“ Die Situation wandelt sich von „Bestechung“ zu „gemeinsamer Preisverhandlung“.
-3. Takt | Der Haken: Der Feind schlägt schließlich ein und fragt nach der Schwäche. Die Junior-Schwester antwortet ernst: „Ich fürchte, ich mache Verlust.“ Die Transaktion war von Anfang an ein Trick.
-Autoritärer Schlusspunkt: Die letzten Zeilen des Meisters: „Eine Lektion.“ „Die Sekte nimmt dreißig Prozent.“ Stempelt die absurde Verhandlung als offizielles Sekten-Geschäft ab.
-
-VI. Storyboard-Skript
-0–5s | Totale oder Weitwinkel: Charakter-ID A (Senior-Schwester) und ID B (Junior-Schwester). Der feindliche Schwertkämpfer legt Silber auf die Steinoberfläche und sagt zur Junior-Schwester: „Dreißig Tael, verrate mir ihre Schwäche.“ Junior-Schwester beobachtet ernst und antwortet ruhig: „Zu wenig.“ Senior-Schwester dreht langsam den Kopf, um sie anzusehen.
-5–10s | Halbtotale oder Cowboy-Einstellung: Feind fügt Silber hinzu: „Fünfzig.“ Junior-Schwester will gerade sprechen, aber Senior-Schwester sagt ruhig: „Achtzig.“ Ein Moment der Stille. Feind: „Ich kaufe deine Schwäche, und du hilfst ihr, den Preis in die Höhe zu treiben?“ Senior-Schwester: „Meine Schwäche kann nicht billig verkauft werden.“ Junior-Schwester nickt ernst.
-10–15s | Nahaufnahme oder Großaufnahme: Feind schiebt alles Silber nach vorne: „Achtzig! Wovor hat sie Angst?“ Junior-Schwester nimmt einen Barren, wiegt ihn und zeigt auf die Senior-Schwester: „Ich fürchte, ich mache Verlust.“ Senior-Schwester schiebt alles Silber zur Junior-Schwester: „Also bleibt das Geld, die Person kann gehen.“ Feind erstarrt: „Was habe ich dann gekauft?“ Meister geht vorbei: „Eine Lektion. Die Sekte nimmt dreißig Prozent.“ Protagonisten drehen sich um: „Meister?“ Feind schaut auf leere Hände. Schnitt auf Schwarz.
-
-VII. Leistungsrhythmus-Anforderungen
-Senior-Schwester: Durchgehend absolut ernst. Je ernster, desto lustiger. Kein Lächeln, keine Erklärung. Senior-Schwester und Junior-Schwester bilden eine Verschwörung. Junior-Schwester übernimmt die Umkehrung. Die Reaktionen des Feindes eskalieren von Selbstvertrauen zu Verwirrung. Meister ist ruhig und tödlich.
-
-VIII. Kamera- und Raumanforderungen
-16:9 Landschaft. Drei kontinuierliche, klare Aufnahmen. Arri Alexa Look. Stabile Gesichtsdetails. Natürliches volumetrisches Licht. Feine Filmkörnung. Präzise Reaktionsaufnahmen. Stabile räumliche Beziehungen.
-
-IX. Soundanforderungen
-Synchroner Mandarin-Dialog. Präzise Lippensynchronität. Klare komödiantische Pausen. Realistische Umgebungsgeräusche. Keine Untertitel.
-
-X. Technische Spezifikationen
-Gesamtdauer: 15s. Format: 16:9. Drei klare Aufnahmen. Native Mandarin-Synchronisation. Hoher physikalischer Realismus für Stoff und Haar. Organisiert gemäß Seedance 2.0 15s Multi-Shot Audio-Video-Generierung und multimodalen Referenz-Kontinuitätsfähigkeiten.
-
-XI. Negativ
-unscharf, schlechte Qualität, niedrige Qualität, niedrige Auflösung, verrauscht, JPEG-Artefakte, Wasserzeichen, Text, Fehler; deformiert, mutiert, schlechte Anatomie, schlecht gezeichnete Hände, schlechte Komposition, außerhalb des Bildes, entstellt; inkonsistenter Charakter, wechselnde Kleidung, Gesichtsveränderung, Hintergrundverschiebung, Glitch-Schnitte, verschwindende Requisiten
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088808968189509632/img/PCyxTJTIuKaIXwof.jpg" width="600" alt="Wuxia-Verhandlungskomödie "Preistreiberei"">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9207)**
-
-**Autor:** [Soran](https://x.com/Soranlan) | **Quelle:** [Link](https://x.com/Soranlan/status/2088809944149533166) | **Veröffentlicht:** Aug 16, 2026
-
----
-### Wuxia-Deadpan-Komödie „Just a Sound“
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Ein detaillierter filmischer Prompt für eine Wuxia-Deadpan-Komödie, der sich auf Charakterkonsistenz und eine spezifische vieraktige Erzählstruktur basierend auf einem Missverständnis konzentriert.
-
-#### 📝 Prompt
-
-```
-Kernpositionierung: Filmisch realistische Textur, reine klassische chinesische Xianxia-Ästhetik. Gesamteindruck: Anspruchsvolle Deadpan-Komödie, elegantes und klares Wuxia-Blocking, Rhythmus von Stummfilm-Reaktionen, sozial unbeholfener Humor, zurückhaltende Absurdität. Visueller Ton: Arri Alexa Filmqualität, klare und stabile Mikro-Details im Gesicht, feine Filmkörnung, natürliches volumetrisches Licht.
-
-Komödienstruktur: Epische Erwartung → Zuversichtliches, aber völlig falsches Verständnis → Extrem banale Wahrheit → Der finale Schlag der Autorität.
-
-Erzähllogik:
-Phase 1: Epische Erwartung. Der Anführer der Feinde stellt eine feierliche, schnelle Herausforderung. Jeder geht von einem legendären Duell aus.
-Phase 2: Zuversichtliches Missverständnis. Die ältere Schwester nickt ernst, hat die Rede aber eigentlich nicht verstanden.
-Phase 3: Banale Wahrheit. Sie fragt die jüngere Schwester, was er gesagt hat, und enthüllt, dass sie nur aus Höflichkeit genickt hat.
-Phase 4: Schlag der Autorität. Der Meister schlussfolgert, dass sie zumindest sehr höflich ist.
-
-Charakter-ID A: Ältere Schwester (Hanfu aus weißer bestickter Seide, hoher Dutt, ruhig, ernst, übermäßig höflich).
-Charakter-ID B: Jüngere Schwester (Hanfu aus grünem Leinen, Zöpfe, klug, schnell, versucht das Lachen zu unterdrücken).
-
-Szenendetails: Abenddämmerung, antike Architektur, neblige Berge, Arri Alexa Film-Look, hoher Dynamikumfang.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088794699544870912/img/MaaOvJzaBTBZvnOC.jpg" width="600" alt="Wuxia-Deadpan-Komödie „Just a Sound“">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9205)**
-
-**Autor:** [Soran](https://x.com/Soranlan) | **Quelle:** [Link](https://x.com/Soranlan/status/2088795584400425102) | **Veröffentlicht:** Aug 16, 2026
-
----
-### Kampf des Tiermenschen-Drachenreiters
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein einfacher Action-Prompt zur Erstellung einer filmreifen Fantasy-Szene, in der ein Tiermensch auf einem Drachen gegen Feinde kämpft.
-
-#### 📝 Prompt
-
-```
-Eine filmreife, rasante Szene, in der der Tiermensch aus dem Referenzbild auf einem Drachen reitet und gegen anrückende Feinde kämpft.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088794705668841473/img/3_IVdJ3R3upUcNDr.jpg" width="600" alt="Kampf des Tiermenschen-Drachenreiters">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9196)**
-
-**Autor:** [meropan](https://x.com/renataro9) | **Quelle:** [Link](https://x.com/renataro9/status/2088794974364299406) | **Veröffentlicht:** Aug 16, 2026
-
----
-### Anime-Drama-Charakterinteraktions-Skript
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ein detaillierter Multi-Szenen-Prompt für Seedance 2.5, der Charakterdialoge und Kamerabewegungen für ein Anime-Drama in einem Adelshaus skizziert.
-
-#### 📝 Prompt
-
-```
-Japanischer Vollfarb-Anime-Stil. Japanischer TV-Anime-Stil. Cel-Shading-Animation. Anime-Stil-Bildschirmaufnahme mit Fokus auf flache Farbgebung.
-
-Herrenhaus des Adels. Der langhaarige blonde Charakter aus Bild 1 sitzt auf einem Stuhl. Auf dem Stuhl gegenüber sitzt der rothaarige Charakter aus Bild 2, der Stiefbruder des Charakters aus Bild 1.
-
-0-4 Sekunden: Eine diagonale High-Angle-Aufnahme des blonden, langhaarigen Charakters aus Bild 1. „Bruder, was führt dich heute hierher?“
-4-8 Sekunden: Eine diagonale Low-Angle-Aufnahme, die zum rothaarigen Charakter aus Bild 2 aufblickt. „Zieh dich aus dem Geschäft des Vaters zurück, Reiss.“ (4 Sekunden)
-8-13 Sekunden: Eine Seitenansicht des Oberkörpers des blonden, langhaarigen Charakters aus Bild 1. „Hat es dich so sehr missfallen, dass das Geschäft profitabel wurde?“ Augen ruhig geschlossen. Schwenk nach links.
-13-17 Sekunden: Eine Nahaufnahme der geballten Faust des rothaarigen Charakters aus Bild 2. „Du bist hinter der Familienführung her, nicht wahr?“ Vor Wut zitternd.
-17-20 Sekunden: Eine direkte Aufnahme des Oberkörpers des rothaarigen Charakters aus Bild 2. Zeigt auf den Bildschirm und schreit: „Obwohl du nur das Kind einer Konkubine bist!“
-20-21 Sekunden: Wasser wird über den Kopf des rothaarigen Charakters aus Bild 2 gegossen.
-21-25 Sekunden: Eine diagonale Low-Angle-Aufnahme, die zur schwarzhaarigen Zofe aus Bild 3 aufblickt. Sie hat einen herablassenden Blick. Die schwarzhaarige Zofe hält einen Wasserkrug und blickt nach unten. „...Verzeihung. Meine Hand ist abgerutscht.“ Kalter Blick.
-25-28 Sekunden: Eine Szene, in der der rothaarige Charakter aus Bild 2 „Du!“ schreit und seinen Arm hebt. Seitenansicht, die den rothaarigen Charakter aus Bild 2 ab der Schulter aufwärts zeigt.
-27-28 Sekunden: Eine Nahaufnahme der Schulter des rothaarigen Charakters aus Bild 2. Die Hand des blonden, langhaarigen Charakters aus Bild 1 greift fest die Schulter des rothaarigen Charakters aus Bild 2. Das Gesicht des blonden Charakters ist nicht zu sehen, nur die Hand, die die Schulter greift.
-28-30 Sekunden: Die Hälfte des Gesichts des rothaarigen Charakters aus Bild 2 ist im Vordergrund zur Kamera gerichtet zu sehen. Im Hintergrund erscheint das Gesicht des blonden, langhaarigen Charakters aus Bild 1. „...Bitte geh.“ Er spricht in einem einschüchternden Tonfall. Der rothaarige Charakter wird vor Angst angesichts der Intensität blass.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088784781773602816/img/ktMG7fv-Vr2bMuJy.jpg" width="600" alt="Anime-Drama-Charakterinteraktions-Skript">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9219)**
-
-**Autor:** [咲山(AIイラスト・AI動画垢)](https://x.com/z933TfmXkaISSVc) | **Quelle:** [Link](https://x.com/z933TfmXkaISSVc/status/2088790863011069992) | **Veröffentlicht:** Aug 16, 2026
-
----
-### Xianxia-Komödie – Ein Geräusch hören
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Ein komödiantischer filmischer Kurzfilm-Prompt, der sich auf eine raffinierte antike chinesische Xianxia-Ästhetik konzentriert und ein missverstandenes Schwertduell mit natürlichem Schauspiel und Elementen der Stummfilmkomödie zeigt.
-
-#### 📝 Prompt
-
-```
-Filmischer Realismus, authentische antike chinesische Xianxia-Ästhetik. 
-Gesamtstil: Anspruchsvolle Deadpan-Komödie, elegantes und klares Martial-Arts-Blocking, Stummfilm-Reaktionstempo, Humor durch soziale Unbeholfenheit und zurückhaltende Absurdität. 
-Visuelle Qualität: Arri Alexa Filmtextur, klare und stabile Mikrodetails im Gesicht, feine Filmkörnung, natürliches volumetrisches Licht.
-Die Kernstruktur dieses Comedy-Segments muss strikt folgen: Epische Erwartung → Zuversichtliches, aber völlig falsches Verständnis → Äußerst banale Wahrheit → Autoritätsperson setzt den Schlusspunkt.
-
-Die Logik des Humors nutzt den Mechanismus des „So tun, als ob man versteht, höfliche Reaktion, Zuhören, aber zufällige Antworten geben“, vollständig übersetzt in das Verhalten antiker Charaktere.
-
-II. Referenzkontrolle
-1. Charakter-Anker: @Image 1 fixiert strikt Charakter-ID A (Schwertmeisterin). @Image 2 fixiert strikt Charakter-ID B (Jüngere Schwester).
-2. Umgebung: Verwenden Sie die hochgeladenen Hintergrund-Referenzbilder, um eine einheitliche Umgebungs-DNA festzulegen, einschließlich Gelände, architektonischer Sprache, räumlichem Maßstab, Texturen, Vegetation, Wasser, Wetter und Lichtrichtung. Nicht mechanisch kopieren; eine frische, glaubwürdige und durchgängige Umgebung beibehalten.
-
-III. Charakter-Einstellungen
-Charakter A (Schwertmeisterin): 25–30 Jahre alt, ruhig, zurückhaltend, feierlich, übermäßig ernst. Ihr komödiantischer Punkt ist nicht Albernheit, sondern „aufrichtig eine völlig falsche Interpretation vorzunehmen“.
-Charakter B (Jüngere Schwester): 20–25 Jahre alt, klug, reaktionsschnell, zurückhaltend, aber sich der Absurdität bewusst. Ihr komödiantischer Punkt ist das „schnellere Erkennen der Lächerlichkeit als alle anderen“.
-Nebencharaktere: Anführer der feindlichen Sekte (feierlich und stolz), Älterer Meister (beständig und gewichtig) und Schüler.
-
-IV. Kern-Storyboard (0–15s)
-0–5s | Totale: Der feindliche Anführer spricht eine feierliche, schnell vorgetragene Todesherausforderung aus. Die weiß gekleidete Schwester hört ernst zu und nickt einmal. Alle denken, das Duell sei beschlossene Sache.
-5–10s | Halbnahaufnahme: Der Feind ist im Geiste siegreich. Die Schwester dreht sich ganz natürlich zur jüngeren Schwester um und fragt: „Was hat er gerade gesagt?“ Totenstille. Sie erklärt, sie habe nur genickt, weil er so lange gesprochen habe, dass sie eine Reaktion zeigen musste.
-10–15s | Nahaufnahme: Der Feind ist beleidigt und fragt, ob das Duell zählt. Die Schwester sagt: „Nein, ich habe nur signalisiert, dass ich noch zuhöre.“ Die jüngere Schwester unterdrückt ein Lachen. Der Ältere Meister fügt feierlich hinzu: „Zumindest ist sie sehr höflich.“ Präziser Schnitt auf Schwarz.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088785580557582338/img/YSwQxeEvoZpGFPCp.jpg" width="600" alt="Xianxia-Komödie – Ein Geräusch hören">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9213)**
-
-**Autor:** [Soran](https://x.com/Soranlan) | **Quelle:** [Link](https://x.com/Soranlan/status/2088789326549205338) | **Veröffentlicht:** Aug 16, 2026
-
----
-### Wuxia-Schwertformation: Logik-Komödie
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Ein cineastischer Wuxia-Comedy-Prompt, bei dem eine jüngere Schwester durch wortwörtliche Logik eine traditionelle Schwertformation umgeht und ihren Gegner verzweifelt zurücklässt.
-
-#### 📝 Prompt
-
-```
-Kernpositionierung: Cineastische, realistische Textur, reine klassische chinesische Xianxia-Ästhetik. Grundton: Gehobene Deadpan-Comedy, elegantes und klares Wuxia-Blocking, visuelle Irreführung und eskalierende logische Absurdität. Visuelle Qualität: Arri Alexa-Look, stabile Gesichtsdetails, natürliches volumetrisches Licht.
-
-Comedy-Struktur: Feierliche Herausforderung → Absurde Abkürzung → Semantischer Konter → Autoritäres Schlusswort.
-
-Narrative Logik:
-1. Ernsthafte Herausforderung: Ein feindlicher Formationsexperte fordert sie heraus, seine grundlegende Schwertformation zu durchbrechen, bevor sie gegen ihn kämpfen dürfen.
-2. Absurde Abkürzung: Die jüngere Schwester läuft einfach am Rand der Formation entlang, stellt sich direkt neben ihn und bittet darum, zu kämpfen, ohne die Formation zu durchbrechen.
-3. Konter: Als sie für das Schummeln als „böse Kultivierende“ bezeichnet wird, nimmt sie dies als Kompliment an.
-4. Autoritäres Schlusswort: Der Meister entscheidet, dass die Regel zwar besagte, man müsse die Formation durchbrechen, um zu kämpfen, aber nicht verbot, gar nicht erst zu kämpfen. Daraufhin steckt sie ihr Schwert weg und geht.
-
-Charakter-IDs und Blocking sind konsistent mit den Archetypen in weißer/grüner Hanfu-Kleidung.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088767010599485440/img/pXU8NZucFiwBB55L.jpg" width="600" alt="Wuxia-Schwertformation: Logik-Komödie">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9206)**
-
-**Autor:** [Soran](https://x.com/Soranlan) | **Quelle:** [Link](https://x.com/Soranlan/status/2088770941048250619) | **Veröffentlicht:** Aug 15, 2026
-
----
-### Tokyo Penthouse Action-Komödie Cinematic
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Ein fotorealistischer Action-Komödie-Kurzfilm in einem luxuriösen Penthouse in Tokio, mit dynamischen Charakterinteraktionen und rasanten Martial-Arts-Sequenzen.
-
-#### 📝 Prompt
-
-```
-Verwenden Sie genau 2 hochgeladene Bild-Assets. Bild 1 = Emma (erwachsene Frau) als einzige und wichtigste Referenz für die Charakteridentität. Behalten Sie ihr Gesicht, ihre Gesichtsproportionen, ihren Hautton, ihre Frisur, ihren Körpertyp, ihr Alter, ihr Temperament, ihre Kleidung und ihre Accessoires strikt bei. Bild 2 = Erwachsener Mann als einzige und wichtigste Referenz für die Charakteridentität. Behalten Sie sein Gesicht, seine Gesichtsproportionen, seinen Hautton, seine Frisur, seine Brille, seinen Körpertyp, sein Alter, sein Temperament, seine Kleidung und seine Accessoires strikt bei. Erstellen Sie einen 30-sekündigen, hyperrealistischen Action-Komödie-Kurzfilm im 16:9-Breitbildformat, 4K und 24fps. Schauplatz ist das Penthouse eines luxuriösen Hochhauses in Tokio bei Nacht, mit Blick auf den Tokyo Tower und die Stadt durch Glaswände. Offenes Wohnzimmer, Flure, moderne Möbel, gemischte Beleuchtung. Der Raum muss luxuriös wirken und gleichzeitig Platz für schnelle Action bieten. Kein Anime, kein Game-CG, keine billigen Effekte oder Zeitlupen. Die Action muss echt, schnell und filmisch sein. [Prämisse] Eine choreografierte, einvernehmliche Action-Komödie-Performance zwischen zwei Erwachsenen. Die Stimmung ist unbeschwert und verspielt, ohne Angst oder Zwang. Eine energiegeladene Sequenz, in der die weibliche Hauptrolle angreift und der männliche Hauptdarsteller ausweicht und ihren Rhythmus mit kurzen Wangenküssen unterbricht. [Beziehung] Emma greift durchgehend an; der männliche Hauptdarsteller weicht nur aus, positioniert sich ruhig neu und lobt ihre Fähigkeiten in einem neckischen Ton. Sein „Punktestand“ ergibt sich aus kurzen, verspielten Wangenküssen während der Rhythmuspausen. Es gibt 5 Kuss-Punkte: Der Mann initiiert die ersten 4, während der 5. eine geplante Umkehrung ist, bei der Emma ihn versehentlich auf die Wange küsst. Der 5. Punkt entsteht, weil er seine Wange absichtlich in ihren Weg bringt, wodurch sie das Gleichgewicht verliert und einen kurzen Kuss landet. Emma bemerkt dies sofort, errötet aber nicht. Er grinst triumphierend und sagt „Gomenne~“. [Emmas Reaktion] Emma darf NIEMALS ERRÖTEN. Keine Schüchternheit oder romantisches Herzklopfen. Ihre Emotionen: 1. Schock/Verwirrung -> Ärger; 2. Erkenntnis des Neckens -> Wütender; 3. Provoziert -> Wilder Blick; 4. Limit erreicht -> Nennt ihn „Kono hentai oyaji!“; 5. Erkennt die Falle -> Genervt/Spielball, aber niemals schüchtern. Ihr Ausdruck bleibt scharf und aggressiv. [Action-Prinzipien] Emma: Konstanter Druck, Haken, Ellbogen, Knie, hohe Tritte und Drehschläge. Mann: Keine Konterschläge oder schwerer Nahkampf. Nur Ausweichen, Zurückweichen und plötzliche Wangenküsse. Er bleibt gelassen und sagt „Un, ii yo“ und „Soshitsu aru ne~“, während er sich bewegt. [Struktur] Eskalierender Zyklus: Emma greift an -> Mann weicht aus/lobt -> Mann küsst -> Emma wird wütender -> Wiederholen. Umkehr-Finale: Emma greift an -> Mann lenkt ihre Route -> Emma küsst ihn versehentlich -> Mann zeigt „Plan erfolgreich“-Ausdruck -> „Gomenne~“ -> Flucht. [Persönlichkeit des Mannes] Gelassen, verspielt und ein nerviger Scherzkeks. Er bewundert ihre Fähigkeiten, während er ausweicht. Grinst nach erfolgreichen Küssen. Der 5. Kuss ist seine ultimative erfolgreiche Falle. [Dialog] Nur 6 spezifische japanische Phrasen erlaubt. Kein anderer Dialog, keine Erzählung oder Untertitel. Während des Angriffs: „Un, ii yo“ und „Soshitsu aru ne~“. Nach dem 1. Kuss: Emma: „Eh!“. Nach dem 2. Kuss: Mann: „Suki ari“. Nach dem 3. Kuss: Mann: „Mmm~“. Nach dem 4. Kuss: Emma: „Kono hentai oyaji!“. Nach dem 5. Kuss: Mann: „Gomenne~“ (neckisch/unaufrichtig). [Zeitplan] 0–4s: Emma greift im Wohnzimmer an, Mann weicht gelassen aus. 4–6s: 1. Kuss auf die rechte Wange, Push-in-Shot, Emma genervt. 6–10s: Schnelleres Tempo, Emma tritt, Mann weicht aus und lobt sie. 10–12s: 2. Kuss auf die linke Wange, Mann sagt „Suki ari“. 12–16s: Intensive Verfolgung in die Flure, Mann führt extreme Ausweichmanöver aus. 16–18s: 3. Kuss bei einer Drehung, Mann macht ein Zufriedenheitsgeräusch. 18–22s: Verfolgung bei maximaler Wut, Mann lenkt ihre Route. 22–24s: 4. Kuss, Emma nennt ihn Perversling. 24–27s: Finale Hochgeschwindigkeitsjagd, Mann stellt die Falle. 27–29s: Umkehrung – Emma küsst ihn während des Angriffs versehentlich auf die Wange, Mann grinst und sagt „Gomenne~“. 29–30s: Mann flieht, Emma jagt hinterher, Schnitt auf Schwarz. [Performance/Umgebung] Professionelle Martial-Arts-Bewegungen, kein Erröten. Realistische Geräusche von Atem, Wind und Kleidung. Hochwertiges Penthouse-Setting in Tokio. [Verbote] KEIN ERRÖTEN; keine romantische Stimmung; keine Zeitlupe; kein CG-Gefühl; keine Waffen; keine Untertitel; kein Mund-zu-Mund-Kontakt; keine aufrichtigen Entschuldigungen; kein statischer 5. Kuss. Die Action muss schnell, professionell und filmisch sein.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088762265302601728/img/nXBrqrbNKaXPXgpe.jpg" width="600" alt="Tokyo Penthouse Action-Komödie Cinematic">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9300)**
-
-**Autor:** [TSUBAKI](https://x.com/AI__TSUBAKI) | **Quelle:** [Link](https://x.com/AI__TSUBAKI/status/2088764827321933848) | **Veröffentlicht:** Aug 15, 2026
-
----
-### Surreale Hotelpool-Größenanomalie
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein absurder, surrealer Comedy-Szenen-Prompt, der eine Größenanomalie darstellt, bei der ein normaler Mann einen Pool betritt und auf das Gesicht einer riesigen, untergetauchten Frau tritt.
-
-#### 📝 Prompt
-
-```
-Fotorealistische, absurde, surreale Comedy-Szene in einem kleinen Indoor-Hotelpool. Low-Budget-Umgebung: gefliester Pool, Metallleitern, Neonbeleuchtung, Tiefenmarkierungen an der Wand, weiße Plastikstühle, ein Verkaufsautomat im Hintergrund und ein paar lässig gekleidete Menschen in Badekleidung, die zuschauen.
-
-Eine riesige, schöne junge Frau ist bis zum Hals und oberen Brustbereich im Pool untergetaucht, als wäre ihr Körper gigantisch und würde den Großteil des Pools ausfüllen. Sie hat nasses, nach hinten gegeltes dunkles Haar, ausdrucksstarke Augen, realistische nasse Haut und einen erst leicht amüsierten, dann überraschten Gesichtsausdruck. Ihr Gesicht und ihre Schultern sind im Vergleich zum Rest der Umgebung riesig.
-
-Ein normalgroßer erwachsener Mann in Badehose steigt vorsichtig die Poolleiter hinunter, als würde er gerade erst ins Wasser gehen. Er hält einen weißen Becher in einer Hand. Während er hinuntersteigt, wird deutlich, dass er aufgrund der bizarren Größenanomalie direkt auf das Gesicht der riesigen Frau tritt. Er tritt unbeholfen auf ihre Nase und Wange, während er versucht, das Gleichgewicht zu halten.
-
-Die Frau schaut verwirrt und schielt in seine Richtung. Der Mann rutscht aus, greift nach ihrer Nase, um das Gleichgewicht zu halten, und rutscht dann in Richtung ihres offenen Mundes. Am Ende der Aufnahme stolpert er auf lächerlich surreale Weise versehentlich in ihren Mund. Sie sieht schockiert aus. Die Leute im Hintergrund reagieren mit Überraschung und Gelächter.
-
-Kamerastil:
-Aufgenommen wie ein viraler Smartphone-Clip. Leichte Handkamera-Bewegungen, aber größtenteils stabil vom Beckenrand aus. Realistischer Handy-Video-Look, leichte Kompression, Hall im Innenraum, natürliche Spiegelungen im Wasser, glaubwürdige Beleuchtung, nicht filmisch. Die Szene sollte sich wie ein bizarres echtes Video anfühlen, das jemand zufällig aufgenommen hat.
-
-Tonfall:
-Absurd, lustig, surreal und visuell schockierend – kein Blut, keine Gewalt, kein Horror. Der Humor entsteht durch die unmögliche Größenverhältnisse und den todernsten Realismus.
-
-Action-Timing:
-0–3s: Zeige den Indoor-Pool und die riesige Frau, die den Großteil davon einnimmt. Der Mann beginnt, die Leiter hinunterzusteigen.
-3–7s: Er steigt weiter hinunter und setzt versehentlich einen Fuß auf ihr Gesicht/ihre Nase.
-7–11s: Er verliert das Gleichgewicht, greift nach ihrer Nase und rutscht in Richtung ihres Mundes.
-11–15s: Ihr Mund öffnet sich vor Überraschung, er stolpert hinein und die Umstehenden reagieren.
-
-Wichtige Details:
-Halte das Größenverhältnis sehr deutlich: riesige Frau, winziger Mann, normalgroße Menschen im Hintergrund. Halte die Umgebung realistisch und bodenständig. Bewahre glaubwürdige Wasserinteraktionen und Spiegelungen. Kein Blut, kein Body-Horror, keine zusätzlichen Gliedmaßen, keine gebrochene Anatomie, keine fehlerhaften Übergänge.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088748810814025729/img/bqKA6X0gCt3UXqVh.jpg" width="600" alt="Surreale Hotelpool-Größenanomalie">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9340)**
-
-**Autor:** [Alpha Mom](https://x.com/YourAlphaMom) | **Quelle:** [Link](https://x.com/YourAlphaMom/status/2088749172543410403) | **Veröffentlicht:** Aug 15, 2026
-
----
-### Wuxia-Emotionales Drama „Vertrauen und Würde“
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Ein cineastischer Wuxia-Drama-Prompt, der sich auf Vertrauen und Identität konzentriert, in dem eine ältere Schwester trotz äußerer Vorurteile bezüglich ihrer Herkunft zu ihrer jüngeren Schwester steht.
-
-#### 📝 Prompt
-
-```
-Seedance Prompt | Identität, Vertrauen und Würde I. Kernpositionierung Cineastische, realistische Qualität, reine antike chinesische Xianxia-Ästhetik. Der Gesamtton ist ein zurückhaltendes und reifes emotionales Drama, das folgende Elemente nutzt: Hochwertiges Wuxia-Charakter-Blocking, Arri Alexa-Filmtextur, klare und stabile Gesichts-Mikrodetails, feine Filmkörnung, natürliches volumetrisches Licht. Die zentrale Umkehrung dreht sich um: Identität, Vertrauen und Würde. Die Außenwelt versucht, eine Person mit einem Blutlinien-Etikett zu definieren. Was die Schwert-Unsterbliche als ältere Schwester wirklich tut, ist, sich zu weigern, dieses Etikett darüber entscheiden zu lassen, wer die jüngere Schwester ist. II. Referenzkontrolle 1. Charakter-Identitätsanker: @Image 1 fixiert strikt Charakter-ID A: Schwert-Unsterbliche (ältere Schwester); @Image 2 fixiert strikt Charakter-ID B: Jüngere Schwester. 2. Umgebungsreferenz: Alle neu hochgeladenen Hintergrund- und Standortreferenzbilder bestimmen eine einzige Umwelt-DNA. Vor der formalen Komposition werden kompatible Elemente stillschweigend abgeleitet: reales Gelände, architektonische Sprache, räumlicher Maßstab, materielle Epoche, Vegetation, Gewässer, Wetter, Wolken, Bergnebel, primäre Lichtrichtung, Reflexionsbeziehungen, Gesamtfarbe, atmosphärische Tiefe und realistische Bewegungsabläufe. Planung in einen einzigartigen, vollständigen und einheitlichen neuen Raum. Anforderungen: Kopieren Sie nicht mechanisch einzelne Referenzbilder; die Weltidentität muss gewahrt bleiben; drei Aufnahmen teilen sich konsistente geografische Beziehungen; klare räumliche Logik; die visuelle Welt muss lebendig, glaubwürdig und kontinuierlich sein. III. Umweltprinzipien Der Hintergrund muss lebendig bleiben, aber in der Erzählung völlig neutral wirken. Elemente wie fließendes Wasser, sich bewegender Nebel, schwankende Pflanzen, ziehende Wolken und Reflexionen sollten natürlich wirken. Entfernte Umgebungsgeräusche sollten vorhanden sein. Harte Anforderungen: Der Hintergrund darf keine Handlung erzeugen, keine Wendungen vorantreiben oder Charakterkonflikte lösen; er bietet nur ein Gefühl realer räumlicher Existenz. IV. Charaktereinstellungen Charakter-ID A | Schwert-Unsterbliche (ältere Schwester): Wie @Image 1. 25–30-jährige ostasiatische Frau, ovales Gesicht, helle Haut, dunkle Mandelaugen, langes schwarzes Haar, teilweise mit einer weißen Jade-Haarnadel hochgesteckt, groß und schlank. Feste Kleidung: Weißes besticktes Seiden-Hanfu, silbernes Taillensiegel, Jadeanhänger, weiße Stoffstiefel, ein einzelnes silbernes Langschwert. Temperament: Ruhig, zurückhaltend, präzise, knappe Sprache, subtiler emotionaler Ausdruck. Respektiert das Wahlrecht der anderen, selbst wenn sie sie beschützt. Charakter-ID B | Jüngere Schwester: Wie @Image 2. 20–25-jährige ostasiatische Frau, rundes und lebhaftes Gesicht, schwarzes Haar in Zöpfen, zierliche Statur. Feste Kleidung: Blaugrünes Leinen-Hanfu, dunkler Gürtel, hölzerne Haarnadel, schwarze Stoffschuhe, ein einzelnes dunkles Stahlschwert. Temperament: Klug, sensibel, würdevoll. Zieht sich instinktiv zurück, wenn ihre Identität enthüllt wird. Braucht Respekt und Vertrauen, keine Entscheidungen, die für sie getroffen werden. Nebencharaktere: 1. Feindlicher Schwertkämpfer (besiegt, kniend, sorgt für externen Druck/Etikettierung); 2. Älterer Meister (sekundärer Zeuge, schweigsam, signalisiert Zustimmung durch Beiseitetreten); 3. Zwei Schüler (Hintergrundzeugen, unscharf, keine Szenen-Stehler). V. Kern-Erzähllogik Beat 1: Der Feind enthüllt das fremde Mal am Handgelenk der jüngeren Schwester. Die Welt versucht, sie über ihre Blutlinie zu definieren. Die jüngere Schwester weicht instinktiv einen halben Schritt zurück. Beat 2: Die ältere Schwester zieht ihr Schwert, was wie ein Verhör oder Urteil wirkt, aber stattdessen stellt sie sich an die Seite der jüngeren Schwester. Beat 3: Sie sagt: „Ich beschütze sie, nicht ihre Blutlinie.“ Sie gibt die Wahl an die jüngere Schwester zurück. Die jüngere Schwester entscheidet sich, an ihre Seite zurückzukehren, und bestätigt Identität und Vertrauen durch Taten. VI. Storyboard-Skript 0–5s | Totale oder Halbtotale: Wählen Sie einen angemessenen Konfrontationsbereich basierend auf den Referenzbildern. Der Feind zeigt auf das Mal: „Sie trägt ein fremdes Pulsieren, und du erkennst sie immer noch an?“ Die jüngere Schwester weicht zurück. Die ältere Schwester zieht langsam das Schwert. Aufnahme-Anforderungen: Etablierung einer stabilen Konfrontation, das Mal sichtbar machen, das Gewicht des Schwertziehens zeigen. 5–10s | Halbnah oder Cowboy-Einstellung: Die ältere Schwester geht an der jüngeren Schwester vorbei, rammt die silberne Schwertspitze zwischen den Feind und die jüngere Schwester und stellt sich neben sie. Sie sagt ruhig: „Ich wusste es bereits.“ Feind: „Du wusstest es und beschützt sie trotzdem?“ Sie antwortet: „Ich beschütze sie, nicht ihre Blutlinie.“ Aufnahme-Anforderungen: Das Rammen des Schwertes muss eine klare Haltungserklärung sein; die Bewegung sollte ruhig und stetig sein, nicht melodramatisch. 10–15s | Nahaufnahme oder Großaufnahme: Die jüngere Schwester fragt: „Du fragst nicht, warum ich es vor dir versteckt habe?“ Die ältere Schwester sieht ihr in die Augen und sagt: „Ich werde fragen.“ (Pause) „Aber erst, wenn du es mir sagen willst.“ Sie deutet auf den Weg: „Ob du zurückkehrst oder nicht, das entscheidest du.“ Die jüngere Schwester entscheidet sich, an ihre Seite zurückzutreten: „Dann lass uns zurückgehen.“ Die ältere Schwester zeigt ein kleines, erleichtertes Lächeln und steckt das Schwert weg. Der Meister tritt beiseite, um den Weg freizugeben. Aufnahme-Anforderungen: Der Dialog muss stabil sein; Fokus auf die Entscheidung und das subtile Lächeln. VII. Anforderungen an die Charakterdarstellung Ältere Schwester: Zurückhaltend, Emotionen durch Augen und kleine Bewegungen, knappe Sprache, Schwertziehen als Haltung, nicht als Drohung. Jüngere Schwester: Verletzt durch die Enthüllung, instinktiver Rückzug, nicht hysterisch, bewusste Entscheidung zur Rückkehr. Feind: Repräsentiert äußere Vorurteile, aggressiv trotz Niederlage. Meister: Schweigsam, schwere Präsenz, Zustimmung durch Bewegung. VIII. Anforderungen an Action und Blocking Klare, einfache, lesbare Aktionen: auf das Mal zeigen, zurückweichen, Schwert ziehen, vorbeigehen, Schwert pflanzen, Wahlmöglichkeit andeuten, zurücktreten, Schwert wegstecken. Prinzip: Räumliche Logik, kein übertriebenes Melodrama, Aktionen dienen der Beziehung und den Themen Identität, Vertrauen und Würde. IX. Anforderungen an die Kameraführung 16:9 Breitbild, drei kontinuierliche klare Aufnahmen, Arri Alexa-Look, stabile Kamera. Weit für Konfrontation, mittel für Haltung, nah für Beziehung. Natürliche Mikrodetails, Filmkörnung, volumetrisches Licht, stabile geografische Beziehungen mit natürlicher Parallaxe. X. Anforderungen an den Ton Synchronisierter Mandarin-Dialog, präzises Lip-Sync, natürliche Umgebungsgeräusche (Wind, Wasser). Minimalistische Hintergrundmusik. Wichtige Dialoganker enthalten. XI. Technische Spezifikationen Dauer: 15s. Seitenverhältnis: 16:9. Konsistenz von Charakter und Hintergrund durchgehend. Nutzung der Seedance 2.0-Funktionen für Bild-/Audio-/Videoreferenz und Performance-Kontrolle. XII. Negativ Standard-Negative: unscharf, niedrige Qualität, deformiert, inkonsistenter Charakter, wechselnde Kleidung, Gesichtsveränderung, Hintergrundverschiebung usw.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088748465606037505/img/o9I7Ne3evwpJPKFI.jpg" width="600" alt="Wuxia-Emotionales Drama „Vertrauen und Würde“">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9208)**
-
-**Autor:** [Soran](https://x.com/Soranlan) | **Quelle:** [Link](https://x.com/Soranlan/status/2088748532777763250) | **Veröffentlicht:** Aug 15, 2026
-
----
-### Filmreife Anime-Motocross-Strecke
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Video-Prompt im Anime-Stil, der eine schlammige Motocross-Strecke unter dunklem, bewölktem Himmel mit realistischer Geländephysik zeigt.
-
-#### 📝 Prompt
-
-```
-Filmreifer Anime-Kurzfilm-Clip, 15 Sekunden. Schlammige Motocross-Strecke, dunkler, bewölkter Himmel, überall nasser, aufgewühlter Boden, tiefe Spurrillen auf der Strecke, kein Publikum, nur raues, offenes Gelände.
-
-CHARAKTER: Verwenden Sie das hochgeladene Charakterblatt als strikte visuelle Referenz.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088672220532879360/img/lIcQ_o_1HHmZmkhj.jpg" width="600" alt="Filmreife Anime-Motocross-Strecke">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9193)**
-
-**Autor:** [TechieSA](https://x.com/TechieBySA) | **Quelle:** [Link](https://x.com/TechieBySA/status/2088672323142332453) | **Veröffentlicht:** Aug 15, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -4522,6 +4581,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-08-22T01:30:15.922Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-08-23T01:38:35.955Z</sub>
 
 </div>

@@ -68,9 +68,9 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **6088** |
+| 📝 Total Prompts | **6100** |
 | ⭐ Featured Prompts | **6** |
-| 🔄 Last Updated | **2026-08-22** |
+| 🔄 Last Updated | **2026-08-23** |
 
 ---
 
@@ -365,6 +365,502 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 
 > 📝 Sorted by publish date (newest first)
 
+### Collecting City Sounds Surrealism
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A complex cinematic surrealist prompt where a character physically collects urban sounds until the city falls silent.
+
+#### 📝 Prompt
+
+```
+CAMERA:
+One continuous cinematic shot with no cuts. Begin with a slow tracking shot at street level. Follow the character from a three-quarter rear angle. Gradually move closer to the character's hands as the invisible sounds become visible. Finish with a dramatic pullback.
+
+SETTING:
+A realistic modern city street at dawn. Soft morning light, light fog, distant traffic, pedestrians, birds, bicycles and subtle urban movement. Photorealistic environment.
+
+0–3 SECONDS:
+The character walks through the street.
+
+Everything sounds normal: distant traffic, footsteps, birds and wind.
+
+Suddenly, the character stops.
+
+A faint translucent ripple appears in the air beside a passing car, shaped like a small floating ribbon of vibrating glass.
+
+3–6 SECONDS:
+The character reaches out and gently grabs the floating ripple.
+
+The instant they touch it, the surrounding car becomes completely silent.
+
+The character looks at the glowing vibrating ribbon in their hand.
+
+6–10 SECONDS:
+More sound becomes visible.
+
+Birdsong appears as tiny glowing waves.
+Footsteps become small translucent pulses.
+Traffic noise become long vibrating ribbons.
+
+The character calmly gathers them with both hands.
+
+As each sound is collected, that part of the city becomes completely silent.
+
+10–12 SECONDS:
+The character compresses all the collected sounds between their palms.
+
+Thousands of glowing sound waves collapse into one tiny luminous sphere.
+
+The entire city suddenly becomes completely silent.
+
+12–15 SECONDS:
+The character releases the sphere.
+
+It rises a few meters into the air.
+
+The sphere suddenly expands into a gigantic invisible-looking shockwave made entirely of luminous sound patterns.
+
+For one instant, every sound returns simultaneously.
+
+Birds fly upward, cars move, people react, leaves shake violently.
+
+Then CUT TO BLACK.
+
+VISUAL STYLE:
+Photorealistic cinematic surrealism, original visual design, realistic urban environment, subtle atmospheric lighting, physically believable particle motion, translucent sound structures, restrained VFX, natural human performance, premium cinematic composition.
+
+SOUND DESIGN:
+Begin with realistic city ambience.
+Introduce a faint crystalline vibration when the first sound becomes visible.
+Gradually remove environmental sounds as the character collects them.
+Create complete silence at 12 seconds.
+At the final release, restore all accumulated sounds simultaneously for one overwhelming cinematic moment.
+
+NEGATIVE:
+No copyrighted characters, no recognizable movie scenes, no logos, no text, no subtitles, no watermark, no famous franchise references, no imitation of any specific director or artist, no cartoon aesthetic, no supernatural creatures, no explosions, no random objects, no scene cuts, no inconsist
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091021306997448704/img/43Nx8PXLI--iLeP-.jpg" width="600" alt="Collecting City Sounds Surrealism">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=9588)**
+
+**Author:** [Sheikh Sharik 2.0](https://x.com/NoOneIsHere2603) | **Source:** [Link](https://x.com/NoOneIsHere2603/status/2091021342602866951) | **Published:** Aug 22, 2026
+
+---
+### Kitchen Home Defense Action
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A structured storyboard prompt for a 30-second action sequence where a seemingly ordinary father protects his daughter during a home invasion.
+
+#### 📝 Prompt
+
+```
+Create storyboard card for each acan - [0:00–0:04] VISUAL: Warm kitchen, evening. TOM (40s, quiet, unassuming) sets the table. His daughter LILY (8) draws at the counter. Normal, cozy life. LILY: "Dad, can we watch a movie after dinner?" TOM (smiling): "Only if you finish your veggies this time." SFX: plates clinking, soft kitchen ambience. [0:04–0:07] VISUAL: Power cuts out. The house goes dark. Tom's smile fades instantly — his whole posture changes, calm and alert. LILY (whispering, scared): "Dad?" TOM (low, controlled): "Stay behind me. Now." SFX: hard silence, distant glass breaking upstairs. [0:07–0:11] VISUAL: Front door kicked in — three armed INTRUDERS in tactical gear storm in with flashlights cutting through the dark. Tom pushes Lily behind the counter. INTRUDER 1 (shouting): "On the ground! NOW!" TOM (flat, dead calm): "Wrong house." SFX: door slamming open, boots on hardwood, gun cocking. [0:11–0:16] VISUAL: ULTRA-FAST FIGHT SEQUENCE. Tom disarms Intruder 1 in one brutal motion, slams him into a cabinet — glass shatters (heavy VFX: glass fragments frozen mid-shatter for a beat, then continues). Spins to block Intruder 2's strike. INTRUDER 2 (stunned): "He's not just some—" TOM (cutting him off, throwing a strike): "Dad. I'm just a dad." SFX: cabinet shatter, bone-crack impact, grunts, glass rain. [0:16–0:20] VISUAL: Intruder 3 fires — Tom shoves a propane canister off the stove into the line of fire. MASSIVE VFX EXPLOSION rips through the kitchen, throwing Tom and Intruder 3 through the wall into the next room in slow motion, debris and fire everywhere. LILY (screaming): "DAD!" SFX: deafening explosion boom, wood splintering, ringing ears effect, fire crackle. [0:20–0:24] VISUAL: Smoke clears. Tom rises from the rubble, bruised, bleeding, breathing hard — but standing. Intruder 3 down. He staggers back toward the kitchen. TOM (hoarse, urgent): "Lily!" SFX: settling debris, low fire crackle, ringing fading into real sound. [0:24–0:28] VISUAL: Lily runs out from behind the counter, unharmed, and crashes into him, sobbing with relief. He drops to his knees, holding her tight. LILY (crying, muffled): "You said you were just a dad." TOM (voice breaking, holding her): "I am. That's exactly why." SFX: crackling fire in background, sirens approaching faintly, her sobbing quieting. [0:28–0:30] VISUAL: Wide shot — the wrecked, smoking kitchen behind them, red and blue emergency lights beginning to flicker through the broken windows. Hold on the embrace. SFX: sirens growing closer, wind through the broken wall, soft final piano note.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091004945046913025/img/kVAKo1KDoRliIFTb.jpg" width="600" alt="Kitchen Home Defense Action">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=9583)**
+
+**Author:** [Shara I Ai Video Creator](https://x.com/itsshara_ai) | **Source:** [Link](https://x.com/itsshara_ai/status/2091004996615827895) | **Published:** Aug 22, 2026
+
+---
+### Heavy Metal Anime Music Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A comprehensive prompt for a high-energy heavy metal anime music video featuring three band members on a city rooftop with dynamic camera work and synced lyric segments.
+
+#### 📝 Prompt
+
+```
+Create a **30-second anime-style heavy metal music video** featuring these three band members.
+**K1** is the bassist on screen left, **D1** is the guitarist on screen right, and **G1** is the drummer in the center.
+The setting is a **nighttime rooftop stage** with the **AB/CD** platform, multiple amplifiers, spotlights, and a city skyline in the background.
+The song is **fast, fun, intense, and dynamic**, at **BPM 180**. Prioritize the energy and groove of the performance.
+Use **rapid music-video style editing** with a natural mix of **face close-ups, hand close-ups, shots of bass and guitar picking, drum-hit close-ups, low-angle shots, high-angle shots, front shots, diagonal shots, and light camera movement around the performers**.
+Give each of the three members clear spotlight moments, especially showing their **facial expressions, playing motions, and performance intensity**.
+Match the flow of the lyrics:
+**“Stuffed again, I can't deny / Third plate calling, don't ask why / Rice and ramen, sweet and fried / OVERFED! OVERFED! / No regrets, I ate it all / Rolling home, I hit the wall! / OVERFED tonight!”**
+Build naturally from **intro to verse to chorus** with rising excitement.
+**Final shot:** K1 and D1 stand behind the drums, with G1 in the center, ending on a **close-up of all three together**.
+Render it in **high quality**, with **consistent character appearance, strong live-performance lighting, and energetic camera work**.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090978383278809088/img/-CNLtPPo-pfh4u_k.jpg" width="600" alt="Heavy Metal Anime Music Video">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=9598)**
+
+**Author:** [Hei](https://x.com/heisuke123) | **Source:** [Link](https://x.com/heisuke123/status/2090979140770136297) | **Published:** Aug 22, 2026
+
+---
+### Sentient Coffee Mugs Comedy
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An animated comedy short prompt about a group of coffee mugs vying for a human's attention, only to be ignored for a favorite chipped mug.
+
+#### 📝 Prompt
+
+```
+Cinematic animated comedy short, 15 seconds. A kitchen cabinet opens. Dozens of coffee mugs stand silently in a row. They all look excited. The human reaches inside. Every mug desperately tries to get noticed. A giant mug stretches upward. A fancy mug shakes itself dramatically. A colorful mug waves its handle. But the human ignores all of them and grabs the same old chipped mug. The cabinet goes silent.    The chipped mug looks back at the others with a smug smile.  As it leaves, it quietly says: "Every morning."  The other mugs glare at it. One whispers: "I hate that mug." Fast expressive animation, simple visual storytelling, exaggerated character reactions, cinematic comedy timing. The joke must be instantly understandable: humans always have one favorite mug and ignore all the others.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090962591535202304/img/afh6cCk_G7ozMsQa.jpg" width="600" alt="Sentient Coffee Mugs Comedy">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=9590)**
+
+**Author:** [Alexandra Aisling](https://x.com/AllaAisling) | **Source:** [Link](https://x.com/AllaAisling/status/2090963001037799648) | **Published:** Aug 22, 2026
+
+---
+### Mountain Climber Snowstorm
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A dramatic aerial video prompt of a mountain climber struggling in an intense snowstorm during fading light.
+
+#### 📝 Prompt
+
+```
+Dramatic aerial shot with sweeping movements, a mountain climber stuck in a snowstorm, struggling to find shelter on a snowy mountain top, surrounded by swirling snow and ominous clouds, illuminated by the fading light before night falls, in a stark, intense, cinematic style.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090890283449831424/img/VNy5yL99b_Rp4ppB.jpg" width="600" alt="Mountain Climber Snowstorm">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=9593)**
+
+**Author:** [DeCat](https://x.com/DeCat2025) | **Source:** [Link](https://x.com/DeCat2025/status/2090890434901950545) | **Published:** Aug 21, 2026
+
+---
+### Romantic Comedy Tiktok Style Video
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A vertical-format video prompt for a 30-second romantic comedy scene. It features a female character in a neon studio setting interacting with an off-camera voice through a scripted dialogue and specific camera movements.
+
+#### 📝 Prompt
+
+```
+[Style] Romantic Comedy, neon studio texture, live-action realistic, 4K HD, exquisite skin texture
+[Duration] 30 seconds
+[Ratio] 9:16 vertical screen
+[Scene] A stylish photo studio surrounded by pink neon lights, background blurred, female lead standing in the center of the frame facing front
+[Character] Female lead @Image 1, facial features, hairstyle, and body consistent throughout, wearing a pink strapless stage suit and a pearl necklace; male lead does not appear, only a young male off-camera voice is kept
+[Prop] Black and white hard-shell notebook
+[Sound] Entirely original English audio, precise lip-sync, natural dialogue exchange between male and female voices, only slight indoor ambient sound; no subtitles, no text, no background music
+[Camera] Continuous filming from the same frontal position throughout, no cuts; fixed medium-close-up in the first part, slowly pushing into a face close-up in the last 5 seconds (Slow Push-in)
+
+[00:00-00:04] Shot 1: Confession and Sudden Stop (Medium Close-up)
+Female lead looks directly at the camera, corners of the mouth naturally turned up, head slightly tilted.
+[Dialogue Lip-sync Guidance]
+Off-camera male voice says tenderly: “Hey, I like you.”
+Female lead's smile deepens, right hand lightly against her chest: “I like you too.”
+Off-camera male voice immediately asks: “Would you be my girlfriend?”
+Female lead's smile suddenly stops, one hand raised to stop him: “Wait.”
+She quickly picks up the notebook and opens it, body leaning slightly forward, gaze turning into serious scrutiny.
+
+[00:04-00:09.5] Shot 2: First Round of Interrogation (Static Medium Close-up)
+Female lead holds the notebook with one hand and counts each point with the other; after each answer, she glances down at the notebook and then quickly looks up to follow up. Actions are crisp, leaving no empty beats.
+[Continuous Dialogue]
+Female: “Are you single?”
+Male: “Yes.”
+Female: “Do you have a girlfriend?”
+Male: “No.”
+Female lead's eyebrow raises, head tilting slightly to the other side: “Do you have a secret girlfriend?”
+Male: “No.”
+
+[00:09.5-00:14.9] Shot 3: Escalating Questions (Quick-fire Dialogue)
+Female lead flips a page of the notebook, speech speed gradually increasing; each time the male answers “No,” she quickly ticks the notebook with a pen. Eyes switch quickly between the camera and the notebook.
+[Continuous Dialogue]
+Female: “Do you have a girlfriend abroad?”
+Male: “No.”
+Female: “Do you have an online girlfriend?”
+Male: “No.”
+Female lead slightly squints: “Are you in a situationship?”
+Male: “No.”
+
+[00:14.9-00:20.3] Shot 4: Serious Verification (Locked Camera)
+Female lead stops smiling, brow slightly furrowed, staring at the camera; she taps the notebook with the tip of her pen when asking, only continuing to the next question after the male answers.
+[Continuous Dialogue]
+Female: “You're still in love with your ex?”
+Male: “No.”
+Female: “Are you in an open relationship?”
+Male: “No.”
+Female lead pauses slightly, raising an eyebrow to follow up: “Do you have a friend with benefits?”
+Male: “No.”
+
+[00:20.3-00:26.4] Shot 5: Final Check (Subtle Push-in)
+Camera begins a slight push-in. Female lead records quickly while following up continuously; her tone remains serious, but the furrow in her brow gradually relaxes with each “No.”
+[Continuous Dialogue]
+Female: “Are you married?”
+Male: “No.”
+Female: “Have you been married?”
+Male: “No.”
+Female: “Do you have kids?”
+Male: “No.”
+Female lead closes the notebook halfway: “Do you have a crush?”
+Male: “No.”
+
+[00:26.4-00:30] Shot 6: Confirmation and Acceptance (Close-up Punchline)
+Camera pushes into a face close-up. Female lead puts down the notebook, moves closer to the camera, eyebrow raised, making a small finger heart with her thumb and index finger.
+[Continuous Dialogue]
+Female lead confirms word by word: “Do you like girls for sure, right?”
+Male immediately answers: “Yes.”
+Female lead pauses for half a second, her serious expression suddenly releasing into a satisfied smile, index finger pointing at the camera: “All right, I'll be your girlfriend.”
+After speaking, she maintains the pointing gesture towards the camera, tilts her head slightly, and smiles for the final frame.
+
+[Performance Control] Emotions are in order: happy, suddenly alert, serious verification, gradually relaxed, satisfied acceptance; changes must be triggered by the male's lines. Use eyebrow raises, head tilts, downward checks, and pen ticks during the questioning phase; don't use the same expression for every sentence. Male answers are short and clear, and must follow after the female finishes speaking; male and female voices should not overlap.
+
+[Generation Constraints] Only the female lead corresponding to @Image 1 appears; male lead cannot show his face, body, or hands; maintain same face shape, hairstyle, clothing, necklace, notebook, and lighting; no scene switching throughout.
+
+[Avoid] Subtitles, Chinese text, English text, stickers, watermarks, dialogue translation, background music, wrong speaker, female saying “Yes/No” for the male, male interrupting, lip-sync drifting, mechanical reading, missed questions, repeated lines, sudden cuts, random camera movement, exaggerated staring, stiff expressions, meaningless gestures, notebook disappearing, facial changes, clothing changes, finger deformities, plastic skin.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090817704106024960/img/DjjEvJGWFK1HVoZi.jpg" width="600" alt="Romantic Comedy Tiktok Style Video">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=9597)**
+
+**Author:** [John](https://x.com/johnAGI168) | **Source:** [Link](https://x.com/johnAGI168/status/2090818191089979669) | **Published:** Aug 21, 2026
+
+---
+### Forest Guardian Anime Battle
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A vibrant anime-style video prompt featuring a tiny forest guardian defending a village from mechanical hunters with sakuga-style animation.
+
+#### 📝 Prompt
+
+```
+A tiny forest guardian carrying an oversized wooden sword protects a magical village from an approaching army of mechanical hunters, initially hiding behind a mushroom as giant machines crush the trees, then charging forward, bouncing between roots, slicing cables and freeing captured creatures while the forest itself awakens around the battle; the machines deploy a colossal drilling titan that begins tearing into the sacred tree at the center of the village, forcing the guardian to climb its rotating body while vines, birds and glowing spirits attack alongside him; he reaches the top, plants the wooden sword into the machine’s core and channels the entire forest through it, colorful adventure anime with explosive sakuga, playful scale contrast, fluid creature animation, sweeping forest camera movement, expressive squash and stretch, cel-shaded characters against richly painted environments, warm green sunlight, turquoise spirit glow, orange sparks and flying leaves, joyful heroic atmosphere, ending with the drill titan transforming into a gigantic flowering tree as every machine in the army becomes covered in vines and the guardian lands inside a blossom above the restored village.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2090816193447829504/pu/img/7Hm67uU1m4swQ1uV.jpg" width="600" alt="Forest Guardian Anime Battle">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=9591)**
+
+**Author:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **Source:** [Link](https://x.com/CharaspowerAI/status/2090816224800149786) | **Published:** Aug 21, 2026
+
+---
+### Sitcom Kitchen Empty Milk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed multi-camera sitcom prompt featuring a family interaction in a kitchen around an empty milk carton, ending with a comedic arrival of new characters.
+
+#### 📝 Prompt
+
+```
+.0s–1.2s Wide Shot (WS), static multi-cam. Father (mid-40s, average build, teal sweater, short brown hair), Mother (mid-40s, curly brown hair, patterned blouse), Daughter (20, curly hair, colorful sweater), Son (18, denim jacket, short brown hair) remain seated around the kitchen table. The empty milk carton still sits on the table edge, slightly tilted. Father leans back slightly, hand resting near cereal box. Dialogue: Father: “Okay… so now the fridge is empty too?” (LAUGH TRACK light) Transition: Hard cut. 1.2s–2.4s Medium Shot (MS), slight push-in. Mother rotates mug clockwise, ceramic scraping lightly. Dialogue: Mother: “Unless the milk learned to walk…” Daughter suppresses a grin. Transition: Rack focus shift. 2.4s–3.6s Over-the-Shoulder (OTS) from Daughter → kitchen door (right side of frame). Back of Daughter’s curly hair and shoulder visible. Door in background, closed. A faint knock sound interrupts. No face visible (POV rule enforced). SFX: Knock. Knock. Transition: Audio-driven cut. 3.6s–4.8s Close-Up (CU) Daughter reaction. Face visible: eyebrows lift, lips part slightly. Dialogue: Daughter: “We’re expecting guests?” Emotional shift: confusion → curiosity. Transition: Hard cut. 4.8s–6.2s Wide Shot (WS), camera pan right toward door (key movement). Family remains seated left frame while door enters center frame. Door handle subtly turns. SFX: Handle click, hinge creak. Transition: Match on motion. 6.2s–7.5s Over-the-Shoulder (OTS) from Father → door opening. Back of Father’s head, shoulders tense. Door swings inward. Two figures appear in doorway silhouette. No face visible. Transition: Light reveal. 7.5s–9.0s Medium Shot (MS), frontal reveal. New Character 1 (Blond Man, early 30s, tall, lean build, blond feathered 80s hair, beige jacket, striped polo, blue jeans) New Character 2 (Woman, early 30s, curly blonde hair, denim jacket, pink top, jeans, shoulder bag) They stand casually in doorway, relaxed posture. Dialogue (Blond Man): “Hey… uh—anyone got milk?” (LAUGH TRACK burst) Transition: Hard cut. 9.0s–10.2s Close-Up (CU) Father reaction. Face visible: eyes widen, jaw tightens, lips press then open slightly. Dialogue: Father: “You’ve got to be kidding me.” Emotional shift: disbelief → frustration. Transition: Smash cut. 10.2s–11.5s Over-the-Shoulder (OTS) from Mother → doorway. Back of Mother’s curly hair, mug partially lifted. New couple visible in frame, standing still. Blond man shrugs slightly, hands relaxed. Dialogue (Woman): “We followed the smell of cereal…” (LAUGH TRACK) Transition: Match cut. 11.5s–13.0s Medium Two-Shot (2-shot), Daughter + Son. Daughter leans slightly toward Son, elbow pressing table. Son tilts head, shoulders raised. Dialogue (Son): “This is getting weird.” Transition: Hard cut. 13.0s–15.0s Wide Shot (WS), full kitchen + doorway. All characters visible. Door remains open, new couple standing casually. Milk carton still empty on table.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090800814319144960/img/TwKJpsNiKrS4u84K.jpg" width="600" alt="Sitcom Kitchen Empty Milk">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=9584)**
+
+**Author:** [Gumvue Studio](https://x.com/GumVue) | **Source:** [Link](https://x.com/GumVue/status/2090800910855242088) | **Published:** Aug 21, 2026
+
+---
+### Dark Fantasy Dragon Ride
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic dark fantasy video prompt featuring two children riding a scaly dragon as it takes flight into a sunny, cloudy sky.
+
+#### 📝 Prompt
+
+```
+A realistic dark fantasy video opening with a close-up shot of two small, fair-haired children sitting on the back of a large, dark scaly dragon with glowing orange eyes. The dragon opens its mouth to roar as the children smile and hold on tightly. Suddenly, the camera smoothly pans out as the dragon launches into the air, spreading its massive wings and flying high up into a cloudy, sunny sky. Cinematic lighting, dramatic camera movements, photorealistic textures, dynamic wind effects, high-detail 3D fantasy style.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090792527641157632/img/HlMq-Ya2XZumkdGl.jpg" width="600" alt="Dark Fantasy Dragon Ride">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=9586)**
+
+**Author:** [Maya](https://x.com/MayaAiCreator) | **Source:** [Link](https://x.com/MayaAiCreator/status/2090792558943162650) | **Published:** Aug 21, 2026
+
+---
+### Xianxia Cold Comedy Short Film
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A complex multi-shot script for a 15-second Chinese Xianxia comedy. It features a specific 'three-beat' comedic structure, character IDs for consistency, and detailed cinematography instructions.
+
+#### 📝 Prompt
+
+```
+Seedance | 15-second Deadpan Comedy Short | "The Fourth One"
+
+I. Mission Objective
+Generate a complete and continuous 15-second Chinese Xianxia (fantasy) movie short.
+
+Overall Style Requirements:
+Cinematic realistic texture
+Pure ancient Chinese Xianxia aesthetics
+Deconstruct the epic "avenger's entrance" pressure into a serious survival-type comedy
+Restrained deadpan performance
+Silent film-style reaction rhythm
+Classic "three-beat progression"
+Clear status reversal
+Arri Alexa cinematic texture
+Stable and clear facial micro-details
+Fine film grain
+Natural volumetric light
+
+II. Core Comedy Logic
+Keep only one easy-to-understand main line:
+An enemy enters aggressively to avenge three brothers who have already lost, proudly identifying himself as the "fourth challenger."
+Until the Master casually asks a very ordinary question, he suddenly realizes: he is the last one in his sect who can still stand and come to challenge.
+
+Humor Sources:
+Delayed reaction (belated realization)
+A normal person's survival instinct
+Serious dialogue rhythm
+The character gradually realizing the problem himself
+Prohibitions:
+Character suddenly becoming stupid
+Random environmental accidents
+Exaggerated slapstick performance
+
+III. Reference Anchors
+Character Anchors
+@Image 1: Character ID A | Sword Immortal Senior Sister
+@Image 2: Character ID B | Junior Sister
+
+Environmental DNA
+All newly uploaded background and location reference images determine a single set of environmental DNA. Before formal composition, silently integrate and reconstruct compatible:
+Real terrain, architectural language, spatial scale, vegetation, water bodies, weather, mountain mist, main light direction, reflection relationships, atmospheric depth, real walkable paths.
+Environment Principles:
+Water, mist, vegetation, fabrics, and distant ambient sounds must continue natural movement. The environment must remain Neutral in narrative: no active gags, no plot triggering, no reversal pushing, no interruption of character rhythm.
+
+IV. Character Settings
+Character ID A | Sword Immortal Senior Sister | @Image 1
+Always the same 25-30 year old East Asian female: Tall and slender, oval face, dark almond eyes, long black hair half-up, fixed with a white jade hairpin, white embroidered silk Hanfu, semi-transparent layered wide sleeves, silver waist seal, jade pendant, white cloth boots, a single silver long sword.
+Character Temperament: Calm, restrained, never exaggerated, handles challengers like daily sect chores.
+
+Character ID B | Junior Sister | @Image 2
+Always the same 20-25 year old East Asian female: Small build, round and lively face, black hair braided, cyan-green linen Hanfu, dark belt, wooden hairpin, black cloth shoes, a single dark steel sword.
+Character Temperament: Quick reflexes, accurate comedic judgment, concise retorts, restrained but readable expressions.
+
+Character C | Enemy Swordsman
+An angry enemy swordsman enters with great momentum, viewing himself as a hero coming for revenge. Very oppressive in the first half, gradually realizing he shouldn't be fighting in the second half, eventually turning from an "avenger" to the "only surviving challenger."
+
+Character D | Master
+Same elderly Master, standing a few steps behind the two, serving as a quiet witness. Minimal lines, but one sentence completes the core reversal, followed by a final light verbal jab.
+
+V. 15-second Three-Shot Structure
+Shot 1 | 0–5s | Wide / Long Shot | Avenger's Entrance
+In the open area naturally planned according to the reference images: same white-robed Senior Sister, same green-robed Junior Sister, same Master. Spatial relationship is stable. An angry enemy swordsman strides into the frame. He draws his sword with a "clang" and announces heroically: "I come to avenge my three senior brothers!" The white-robed Sister is not nervous at all, calmly asking: "Which three?" The enemy immediately replies: "The one who fell in the water, the one hanging in the tree, and the one who rolled down the mountain, they are all my brothers!"
+
+Shot 2 | 5–10s | Medium / Cowboy Shot | The meaning of "The Fourth" changes
+Maintain all characters, costumes, and the identical geographic space. The Junior Sister finally recognizes him and says: "Oh, you're the fourth one." The enemy instantly straightens up and proudly replies: "Correct!" He must not hear any problem, even becoming more proud. Then the focus shifts to the Master who asks casually: "How many disciples does your master have left?" The enemy answers instinctively without thinking: "... Just me." After speaking, there must be a beat of absolute silence. Don't cut away quickly. Keep the transformation on the enemy's face: heroic aura still hanging there, brain one beat late to react, then realizing what that sentence meant. The Junior Sister looks at his drawn sword, then back at him, asking naturally: "Are you still fighting?"
+
+Shot 3 | 10–15s | Close-up / Extreme Close-up | Survival instinct defeats revenge
+Maintain all characters and relations. The enemy looks at the Sister, then the Junior Sister, and finally down at the sword in his hand. He begins to seriously calculate the consequences. Then he very slowly sheathes the sword, saying in a suddenly mature tone: "Wait for Master to recruit two more." Complete half-beat pause. The Sister actually nods to him formally, as if approving a true martial judgment: "Progressing." The Junior Sister adds: "Mostly he learned how to calculate." Focus on Master who nods seriously: "At least this trip wasn't in vain." Then extreme close-up. The enemy tries to maintain his last bit of dignity and turns to leave. After two steps, he stops without looking back, whispering: "My three brothers... they are all still alive, right?" The Sister answers almost instantly: "Alive." The enemy's shoulders show a visible, physical relaxation. Then he leaves with a noticeably faster pace. The Junior Sister watches his back and sighs: "This sect finally produced a cautious one." Finally, in the background, the Master hides a tiny smile as it cuts to black.
+
+VI. Performance Requirements
+Senior Sister: Never exaggerated, calm as if handling daily chores, formally acknowledging the enemy's retreat.
+Junior Sister: Quick reactions, stable comedic timing, naturally delivered lines.
+Enemy: First half full of avenger's momentum; middle transition shows the slow collapse of the heroic narrative; second half shows survival instinct and trying to keep face.
+Master: Minimal lines, casual tone but accurate, extremely subtle final smile.
+
+VII. Cinematography and Tone
+15 seconds total, 16:9 horizontal, three continuous clear shots. Native Mandarin dialogue, precise lip-sync, clear comedic pauses. Arri Alexa look, stable sharp facial details, natural volumetric lighting. Restrained camera movement, stable shots, giving time for reactions to land.
+
+VIII. Continuity
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090771956962406400/img/Dxmqy1X86oKC2tG4.jpg" width="600" alt="Xianxia Cold Comedy Short Film">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=9596)**
+
+**Author:** [Soran](https://x.com/Soranlan) | **Source:** [Link](https://x.com/Soranlan/status/2090773504794808565) | **Published:** Aug 21, 2026
+
+---
+### 2000s MiniDV Balcony Night
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A nostalgic 15-second video prompt designed to simulate early-2000s MiniDV home footage of a young woman on a quiet apartment balcony at night.
+
+#### 📝 Prompt
+
+```
+Authentic early-2000s MiniDV home-video footage. Young Korean woman, 24, long dark hair, minimal makeup, oversized cozy sweatshirt and loose pajama pants, wrapped in a soft blanket. Quiet apartment balcony at night, warm indoor light spilling through the open door, cool blue city light outside. 4:3 MiniDV, handheld imperfections, low-light noise, tape grain/compression, slight autofocus hunting. Natural candid behavior, no cinematic polish.
+
+SHOT 1 — 0:00–0:03
+Interior wide shot facing the balcony door. She walks toward the open door wrapped tightly in a blanket, sleepy and curious. She slides the door open a little further and steps outside.
+SHOT 2 — 0:03–0:06
+Cut to a balcony-side angle. She takes a few small steps outside, holding the blanket around her shoulders. She looks up at the quiet night sky and takes a deep breath.
+
+SHOT 3 — 0:06–0:09
+A sudden cold gust blows across the balcony. Her hair moves strongly in the wind and she immediately scrunches her shoulders, pulls the blanket tightly around herself, and makes a funny surprised expression.
+SHOT 4 — 0:09–0:12
+She quickly retreats back through the balcony door, almost stumbling from how fast she moves. She closes the door halfway, still wrapped tightly in the blanket, and looks back outside.
+
+SHOT 5 — 0:12–0:15
+She slowly peeks her head back around the door and looks toward the camera. She realizes how ridiculous her dramatic retreat was and starts quietly laughing. She shakes her head, smiles, and disappears back inside.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090769016382238720/img/0rzsR442U_Pg7sHh.jpg" width="600" alt="2000s MiniDV Balcony Night">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=9581)**
+
+**Author:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Source:** [Link](https://x.com/iamahmedfaraz66/status/2090769635474035199) | **Published:** Aug 21, 2026
+
+---
+### Asian Woman Cartoon Face Transformation
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A professional video prompt for Seedance that combines live-action cafe footage with AI face deformation and cartoon transitions.
+
+#### 📝 Prompt
+
+```
+Overall Style and Setting:
+Cafe live-action + AI face deformation/cartoonization hybrid style. Vertical composition, natural soft indoor lighting, blurred green trees outside the window, vinyl records/posters on the background wall (with 'RAY CHARLES' visible).
+Character: Young Asian woman with a short bob and black hair, wearing a white shirt (with a small horse embroidery logo), khaki shorts, a fine necklace, and stud earrings. Light and natural makeup.
+Props: Iced drink (with straw), mobile phone, and small cards on a wooden table; a white LV pattern handbag on the left.
+Emotional Tone: Lively, playful, cute, with a slightly exaggerated 'taking cute photos' interactive feel. Scene Breakdown (Estimated by time):
+0-1s: Frontal sitting position, pulling the corners of the mouth wide with hands to form a huge mouth, tongue sticking out, eyes rolling up, making an exaggeratedly cute funny face.
+1-2s: Opening hands to both sides, returning to a normal face, smiling sweetly at the camera.
+3-3s: Pressing hands on the head, instantly transforming into a big-headed cartoon/Q-version style (oversized round face, giant eyes, puffed cheeks, and pouting mouth) with a cute and dazed expression.
+3-4s: Returning to a human face but overlaid with giant cartoon eyes + a wide-mouthed surprised expression, hands raised high above the head (as if fixing hair or making a surprised gesture).
+4-5s: Turning the head to one side with a slight pout/thinking expression, arms swinging naturally.
+5-6s: Cartoon head, eyes closed, corners of the mouth up, relaxing smile, hands on lap.
+6-7s: Returning to a human head, hands raised in a 'claw' gesture, mouth open with tongue out, eyes squinted laughing, super excited and playful.
+7-8.4s: Body slightly turned, one hand on hip, the other holding a large red cartoon flower (or similar prop), ending with a sweet smile sideways to the camera. Fast overall pace, quick expression switches, natural and smooth transformation between human and cartoon, highlighting a 'cute and wacky' atmosphere.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090732265345269762/img/CQnl9MVZDGp46Wgh.jpg" width="600" alt="Asian Woman Cartoon Face Transformation">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=9594)**
+
+**Author:** [PixelAIGC](https://x.com/PixelAigc) | **Source:** [Link](https://x.com/PixelAigc/status/2090732500901597368) | **Published:** Aug 21, 2026
+
+---
+### Ethereal Woman and White Peacock
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-detail cinematic fantasy video featuring an elegant woman in a jewel-encrusted gown standing beside a giant white peacock.
+
+#### 📝 Prompt
+
+```
+Ultra-detailed 8k fantasy cinematic video of an elegant ethereal woman wearing an ornate jewel-encrusted pink and silver gown with a matching jewel tiara standing beside a majestic giant white peacock in a magical pink cherry blossom garden near a reflective pond, extreme close-up of her face with glitter makeup and bright turquoise eyes opening, close-up of a glittering pink oval gem, medium shot of the woman standing beside the peacock, dynamic camera movement showing the white peacock fanning out its grand tail feathers decorated with pink gemstone accents, serene atmosphere, soft warm cinematic lighting, floating glowing dust particles, hyper-realistic 3D render, highly detailed textures, masterpiece, ultra-hd, 16:9 aspect ratio.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090696891801681920/img/y5NbQVe0MLE1fx4W.jpg" width="600" alt="Ethereal Woman and White Peacock">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=9589)**
+
+**Author:** [Zyrella](https://x.com/Zyrellix) | **Source:** [Link](https://x.com/Zyrellix/status/2090697013713138158) | **Published:** Aug 21, 2026
+
+---
 ### Gothic Cathedral Boss Arena Intro
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -386,11 +882,11 @@ WORLD: Ruined Gothic cathedral boss arena @[Image1] , palette of slate blue ston
 **Author:** [PixieVerse](https://x.com/itsPixieVerse) | **Source:** [Link](https://x.com/itsPixieVerse/status/2090674467429400739) | **Published:** Aug 21, 2026
 
 ---
-### Luxury Sports Sedan Commercial
+### Metallic Blue Sports Sedan Commercial
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A professional automotive commercial prompt for a metallic blue sports sedan at golden hour, featuring macro shots, gimbal movements, and cinematic lighting.
+> A cinematic automotive commercial prompt featuring a modified sports sedan in an urban setting during golden hour, with macro wheel shots and tracking movements.
 
 #### 📝 Prompt
 
@@ -398,18 +894,18 @@ WORLD: Ruined Gothic cathedral boss arena @[Image1] , palette of slate blue ston
 A cinematic automotive commercial featuring a modified metallic blue sports sedan parked in an empty urban street during golden hour. The video opens with an ultra-low angle macro shot of the polished deep-dish chrome wheel as sunlight reflects off the rim. The camera slowly dollies forward while subtle dust particles float through the warm light. The shot transitions into a smooth side tracking shot revealing the aggressive wide-body kit, lowered suspension, glossy paint, and tinted windows. The driver's door opens slowly with realistic mechanical motion. A stylish man dressed entirely in black wearing black gloves steps out confidently in slow motion. The camera follows his feet touching the pavement before tilting upward to reveal his silhouette beside the car. The camera circles around the vehicle with buttery smooth gimbal movement while cinematic lens flares and natural reflections play across the body panels. Close-up shots capture the headlights, front grille, wheel details, side mirror, and glossy finish with shallow depth of field. The final scene ends with a dramatic wide shot of the entire car as the camera slowly pulls back while warm sunset light creates long shadows. Ultra-realistic, HDR, 8K, cinematic color grading, premium luxury car commercial, realistic physics, smooth camera movement, volumetric lighting, anamorphic lens, high detail, photorealistic, film quality.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090662876881281024/img/LiTNkso1A2Z0ZTzF.jpg" width="600" alt="Luxury Sports Sedan Commercial">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090662876881281024/img/LiTNkso1A2Z0ZTzF.jpg" width="600" alt="Metallic Blue Sports Sedan Commercial">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=9520)**
 
 **Author:** [Future Logic](https://x.com/the_futureAI) | **Source:** [Link](https://x.com/the_futureAI/status/2090662896867160495) | **Published:** Aug 21, 2026
 
 ---
-### Breathing Skyscraper Night City
+### Breathing Skyscraper Night Surrealism
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A surreal cinematic prompt where a modern skyscraper appears to breathe at night, featuring specific camera movements and particle effects.
+> A surreal cinematic prompt showing a modern glass skyscraper appearing to inhale and exhale mist and particles in a night cityscape.
 
 #### 📝 Prompt
 
@@ -458,25 +954,23 @@ STYLE:
 Photorealistic cinematic surrealism, massive architectural scale, realistic atmospheric physics, volumetric light, wet reflective streets, subtle film grain, high-end science-fiction cinema, dramatic but believable lighting.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090653301465579520/img/sIhBHeFlD2pAxWni.jpg" width="600" alt="Breathing Skyscraper Night City">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090653301465579520/img/sIhBHeFlD2pAxWni.jpg" width="600" alt="Breathing Skyscraper Night Surrealism">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=9533)**
 
 **Author:** [Sheikh Sharik 2.0](https://x.com/NoOneIsHere2603) | **Source:** [Link](https://x.com/NoOneIsHere2603/status/2090653406159614390) | **Published:** Aug 21, 2026
 
 ---
-### MiniDV Korean Woman Dancing Vlog
+### Hidden Cam Bedroom Dance
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A nostalgic prompt for a 2000s-style MiniDV home video of a young Korean woman dancing in her room and discovering a recording camera.
+> A 15-second MiniDV style video prompt of a young woman dancing alone in her bedroom, eventually noticing the camera and laughing in embarrassment.
 
 #### 📝 Prompt
 
 ```
-15-sec Seedance prompt — 5 separate shots
-
-Style: Authentic early-2000s MiniDV home-video footage. Young Korean woman, 24, naturally attractive, long dark hair, minimal makeup, casual oversized T-shirt and loose pajama pants. Cozy bedroom at night, warm bedside lamp, slightly messy lived-in room. 4:3 MiniDV footage, handheld imperfections, tape grain, low-light noise, slight autofocus hunting and exposure shifts. Natural, candid behavior. Keep the same woman, outfit, room, and lighting across every shot.
+Authentic early-2000s MiniDV home-video footage. Young Korean woman, 24, naturally attractive, long dark hair, minimal makeup, casual oversized T-shirt and loose pajama pants. Cozy bedroom at night, warm bedside lamp, slightly messy lived-in room. 4:3 MiniDV footage, handheld imperfections, tape grain, low-light noise, slight autofocus hunting and exposure shifts. Natural, candid behavior. Keep the same woman, outfit, room, and lighting across every shot.
 
 SHOT 1 — 0:00–0:03
 Wide static-ish shot from the corner of the bedroom, as if someone secretly left the MiniDV camera recording. She enters casually, looks around, then starts dancing alone to music only she can hear.
@@ -490,21 +984,20 @@ Closer shot. She stands completely frozen, staring directly into the lens with w
 
 SHOT 5 — 0:12–0:15
 She tries to maintain a serious expression but immediately breaks into laughter. She covers her face, shakes her head, then walks toward the camera to stop the recording. Her hand reaches toward and partially covers the lens.
-End: Camera cuts out naturally as her hand covers the lens. Keep everything spontaneous and imperfect—no cinematic camera movements, no exaggerated acting, no polished commercial look.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090644873351405568/img/pQ3hKROadISLeCxg.jpg" width="600" alt="MiniDV Korean Woman Dancing Vlog">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090644873351405568/img/pQ3hKROadISLeCxg.jpg" width="600" alt="Hidden Cam Bedroom Dance">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=9519)**
 
 **Author:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Source:** [Link](https://x.com/iamahmedfaraz66/status/2090647580942418235) | **Published:** Aug 21, 2026
 
 ---
-### Dynamic Street Dance with Neon Graphics
+### Neon Motion Graphic Dance Animation
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A complex prompt for animating a character performing explosive street dance moves synchronized with neon light-line graphic effects.
+> An energetic dance video prompt that combines athletic street dance movements with synchronized neon graphic overlays and cinematic lighting.
 
 #### 📝 Prompt
 
@@ -528,52 +1021,44 @@ Layer large glowing neon-style graphic elements into the scene, synchronized pre
 6–10 seconds: During the full-body turn, a circular ring
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090394328606834688/img/h91U--k0C4F4sAgc.jpg" width="600" alt="Dynamic Street Dance with Neon Graphics">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090394328606834688/img/h91U--k0C4F4sAgc.jpg" width="600" alt="Neon Motion Graphic Dance Animation">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=9542)**
 
 **Author:** [田中勇道 | AI画像・動画生成](https://x.com/yudotanaka) | **Source:** [Link](https://x.com/yudotanaka/status/2090637515396989208) | **Published:** Aug 21, 2026
 
 ---
-### Parallel Worlds Elevator Cinematic Video
+### Isekai Elevator Secretary Cinematic Comedy
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A detailed multi-cut cinematic prompt for Seedance 2.0 that transitions between a dinosaur world, a medieval battle, and a tropical beach as elevator doors open and close.
+> A highly structured cinematic video prompt for Seedance 2.0 featuring a secretary encountering dinosaurs and medieval knights through shifting elevator doors, complete with shot flow, sound design, and character reference instructions.
 
 #### 📝 Prompt
 
 ```
-[REFERENCE]
-image1 is a three-view character sheet defining the secretary protagonist. The FRONT/SIDE/BACK views are not different people but integrated reference information showing the same person from different directions. Face, hair, age, skin color, body type, height, head-to-body ratio, uniform design, uniform color, scarf, and shoes are inherited from the character sheet and maintained as the same person throughout the video. The layout, background, text, numbers, and frames of the character sheet are not inherited into the video.
+【REFERENCE】
+image1 is a three-view character sheet defining the main secretary. FRONT/SIDE/BACK are not different people, but integrated reference information showing the same person from different directions. Features such as face, hair, age, skin tone, body type, and uniform are inherited from the sheet and maintained throughout the video. The layout and text of the sheet are not carried over.
 
-[CONDITION]
-15 seconds, 1:1 square. High-quality live-action cinematic comedy. Set in a clean, modern corporate elevator hall. Maintain the same elevator and surrounding space throughout. Only the side beyond the open elevator doors changes to a different world. Each time the door closes, the previous world disappears, and when it opens next, it switches completely to a different world. The order is fixed: Dinosaur World -> Medieval Knight Battlefield -> Tropical Beach, without mixing multiple worlds.
-Based on live-action footage, boldly add manga-like effects such as focus lines, speed lines, impact lines, impact flashes, and sweat to actions of surprise or panic. In the final tropical beach scene, switch from a tense production to a sparkling, bright comical expression.
+【CONDITION】
+15 seconds, 1:1 square. High-quality live-action cinematic comedy. Setting: clean corporate elevator lobby. The transition to the alternate world only happens behind open doors. Fixed order: Dinosaur World → Medieval Battlefield → Tropical Beach. Add comic effects like speed lines, impact flashes, and sweat for surprise.
 
-[SHOT FLOW]
-CUT 1 | 0.0–1.8s
-Corporate elevator hall. Medium wide. The secretary waits quietly in front of the closed elevator. Reacts to the arrival sound and looks at the door. A daily, calm start.
-CUT 2 | 1.8–4.3s
-Camera in the corporate elevator hall, slightly left of the elevator's frontal axis. Medium wide shot with the opening occupying about 2/3 of the screen left-to-center and the secretary about 1/3 on the right corporate side. The secretary stands outside the threshold on the corporate floor and does not stand in the center of the elevator opening. As the doors slide open, a jungle world inhabited by giant dinosaurs spreads out on the other side. A large carnivorous dinosaur roars toward her. The secretary leans back sharply in surprise while looking at the opening. Focus lines, shock flash, sweat, shock effects. Clearly show the secretary on the corporate side and the dinosaur world beyond the doors in the same frame.
-CUT 3 | 4.3–5.6s
-Close-up action near the operation panel. The secretary frantically mashes the close button. Strong speed lines on her arms and upper body, impact effects on button operations. The doors close forcefully, completely cutting off the dinosaur world.
+【SHOT FLOW】
+CUT 1 | 0.0–1.8s: Secretary waits in front of the elevator. Daily, calm start.
+CUT 2 | 1.8–4.3s: Doors open to a jungle with roaring dinosaurs. Secretary recoils in shock with comic effects.
+CUT 3 | 4.3–5.6s: Secretary frantically mashes the close button with speed lines. Doors shut, cutting off the dinosaurs.
+CUT 4 | 5.6–8.6s: Secretary opens doors again to knights fighting. Extreme shock reaction with sword sparks and impact effects.
+CUT 5 | 8.6–9.9s: Secretary mashes the close button again. Doors shut, cutting off the battlefield.
+CUT 6 | 9.9–15.0s: Secretary opens doors to a beautiful tropical beach. Expression turns joyful with sparkling heart effects. Secretary enters the beach. Final high overhead shot of the full beach landscape.
 
-CUT 4 | 5.6–8.6s
-Camera at the same diagonal position on the corporate side. Medium wide shot separating the opening on the left-to-center and the secretary on the right. The secretary cautiously opens the doors again while standing outside the threshold. The doors open to reveal a world where medieval armored knights fight fiercely with swords and shields against a stone fortress background. Knights clash swords violently beyond the doors. The secretary freezes for a moment seeing the sight from the corporate side, then becomes even more surprised. Sword sparks, diagonal speed lines, focus lines, impact effects. Keep the secretary separated from the medieval world, not moving into the center of the opening.
-CUT 5 | 8.6–9.9s
-Close-up action. The secretary again desperately mashes the close button. Hand afterimages, strong speed lines, impact burst. The doors close forcefully, completely cutting off the medieval battlefield.
-CUT 6 | 9.9–15.0s
-Camera starts from the same diagonal position on the corporate side. Medium wide shot with opening left-to-center and secretary on the right. The secretary cautiously opens the doors once more. Beyond the door lies a beautiful tropical beach with white sand, turquoise water, palm trees, and blue sky. Her expression turns from caution to eyes sparkling with a happy smile. Shock expressions disappear, replaced by bright manga effects like sparkles, light, and small hearts. She approaches the opening from the corporate side, crosses the threshold, and walks straight into the beach. After she is fully inside the beach side, a hard cut to a new shot. Ends with a high aerial shot of the tropical beach. Amidst the panorama of white sand, blue sea, and palms, the secretary walks happily toward the sea. The video ends with a bright, open aerial frame capturing the vast beach and the small figure of the secretary.
+【SOUND】
+Comical uptempo BGM. Ambiance includes elevator chimes, dinosaur roars, sword clashes, and waves. Fast SE for button mashing. No dialogue.
 
-[SOUND]
-Comical, upbeat BGM included. Smoothly connects the full 15 seconds without interfering with scene changes and reactions. Quiet corporate ambient noise, elevator arrival chime, and door opening/closing sounds. Jungle sounds and dinosaur roars in the dinosaur world. Clashing swords, shield impacts, and knight shouts in the medieval world. Gentle waves and sea breeze in the tropical beach scene. Fast-paced operation sounds and comical impact SE for button mashing. Sounds of the other worlds cut off immediately when the door closes. No dialogue or narration.
-
-[NEGATIVE]
-Secretary becoming a different person, changes to face/hair/body/uniform inconsistent with reference sheet. Mixing or reordering dinosaur world, medieval battlefield, and tropical beach. Omission of the two door-closing actions. Switching worlds before the door closes. Dinosaurs or knights entering the corporate side. Placing the secretary in the center of the opening or inside the other world during dinosaur/medieval scenes. Reversing camera to look from the other world toward the company. Unnatural deformation of the elevator or doors. Distorted limbs on the person. Excessive occlusion of main characters or environments by manga effects.
+【NEGATIVE】
+Secretary becoming a different person; changes to face/uniform. Mixing world order. Skipping door closing. Dinosaurs/knights entering the corporate side. Unnatural deformations.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090618720431566848/img/imOhHpf7FIk9Fib7.jpg" width="600" alt="Parallel Worlds Elevator Cinematic Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090618720431566848/img/imOhHpf7FIk9Fib7.jpg" width="600" alt="Isekai Elevator Secretary Cinematic Comedy">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=9543)**
 
@@ -3875,443 +4360,6 @@ A cinematic, realistic short video of a stylish young woman with long wavy brown
 **Author:** [liana](https://x.com/Lianaalane) | **Source:** [Link](https://x.com/Lianaalane/status/2088838550959841642) | **Published:** Aug 16, 2026
 
 ---
-### Creative Studio Fantasy Transition
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed narrative prompt involving a transition from a moody creative studio into an enchanting fantasy forest and a futuristic mountain car chase.
-
-#### 📝 Prompt
-
-```
-A frustrated young male creator sits alone in a dark creative studio, staring at a completely blank computer monitor. He rests his hand on his forehead, looking stuck and out of ideas. The room is moody and cinematic, with soft monitor glow and deep shadows.
-
-The blank screen suddenly begins transforming into a vivid cinematic world. The camera smoothly pushes toward the monitor and transitions seamlessly inside it, revealing an enchanting fantasy forest filled with enormous ancient trees, glowing purple-pink foliage, exotic plants, soft mist, and a crystal-clear stream reflecting warm rays of sunlight. Magical particles float gently through the air as the camera slowly travels forward through the forest.
-
-The scene then dramatically transitions into a sleek futuristic black supercar speeding through a winding mountain road at dusk. The car accelerates aggressively around the curves, tires producing subtle smoke and sparks, glowing red taillights reflecting across the wet asphalt. Massive mountains surround the road with a bright full moon in the background.
-
-Ultra-cinematic commercial look, photorealistic details, dynamic camera movement, smooth transitions, volumetric lighting, atmospheric fog, realistic reflections, shallow depth of field, dramatic contrast, premium VFX, realistic motion blur, 4K quality.
-
-End with a powerful tracking shot behind the supercar as it disappears into the mountain road.
-
-Duration: 15 seconds.
-Aspect ratio: 16:9.
-No text, no logos, no watermark.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088835269818781696/img/99lypRacIOH6Ik7I.jpg" width="600" alt="Creative Studio Fantasy Transition">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=9195)**
-
-**Author:** [Calira](https://x.com/CaliraVal) | **Source:** [Link](https://x.com/CaliraVal/status/2088836623433945169) | **Published:** Aug 16, 2026
-
----
-### One-Eyed Girl and Bear Companion Adventure
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A high-speed fantasy cinematic adventure featuring a unique one-eyed female character and her sentient bear companion escaping through a floating mega-city.
-
-#### 📝 Prompt
-
-```
-Fixed use of [Reference Image] as the sole protagonist and bear reference for 30 seconds. For Seedance 2.5, 16:9, 30 seconds, 60fps. Generate the entire video as a single continuous ultra-high-speed AAA fantasy cinematic. This video will not use the 'continuous fall from high altitude to underground' structure of the previous work; the setting, direction of movement, creatures, and visual development are entirely changed. The core is 'a 30-second sequence where the protagonist and bear run, fly, switch rides, and traverse a massive otherworldly city'. The protagonist and bear always move along a single line of motion; standard edit cuts, blackouts, fades, sudden location changes, portals, or warp holes are prohibited. The camera doesn't just follow beside the protagonist; it rapidly moves through frontal intercepts, rear tracking, over-the-head shots, ground-level skims, under the wings of giant creatures, between the protagonist and bear, and inside narrow architecture, almost never staying in the same position for 30 seconds. [Most Important: AAA transformation of Reference Image] Do not replace the protagonist in the [Reference Image] with a realistic human or an ordinary beautiful girl; rebuild her as a highest-quality AAA 3D character with the specific 'one-eyed monstrous character' traits of the reference image. Treat her as an adult female, but do not correct her to a human face. Completely maintain the giant single eye in the center of the face, white eyeball, purple-blue-red iris, black pupil, and the characteristic smile showing very large teeth. Do not increase the number of eyes to two. Do not make her face human. Extract the red to deep wine-colored round helmet, black rim, small black circular decorations on the helmet, black bodysuit/jacket, white skeletal motifs, red cord-like decorations, voluminous black lower outfit, and dark navy to black shoes from the reference image. Do not erase the watercolor-like unevenness of red, blue, purple, green, and black; keep them as hand-painted dyes, rubbed pigments, and fine color bleeds on the AAA material surface. Do not make the skin overly realistic human skin; process it as a high-quality stylized AAA character with a sense of real material. Give the surface fine roughness, paint unevenness, sewing, metal, rubber, cloth, leather, and fine scratches. Do not leave the black ink outlines of the reference image as pure 2D lines, but translate them 3D-style into black borders on the outfit, thick helmet edges, and shadow contour designs. Do not make it look like cheap game CG. Use Unreal Engine-grade AAA cinematic materials, feature-length animated film-level quality, GI, reflections, volumetric light, and lens expressions. [Bear Fixed] Maintain the pink-to-purple bear held by the protagonist in the [Reference Image] as a second character alongside the protagonist for the entire 30 seconds. It is not just a stuffed toy, but a small living bear that talks to the protagonist, runs on its own, flies on its own, and moves at the same speed as the protagonist. Maintain the round ears, black eyes, black nose, white-to-cream muzzle, body with watercolor-like mixes of pink, purple, blue, green, and pale yellow, seams, and soft round limbs from the reference image. In the AAA version, it's a mix of a luxury plush toy and a fantasy creature. Express short soft fibers, sewing threads, slightly rubbed fabric, soft compressive deformation, and the inertia of ears and limbs. The bear is not a copy or a pet of the protagonist, but a slightly cheeky sidekick. It has a different voice from the protagonist. Maintain the size difference between the protagonist and the bear; do not enlarge the bear. It should be a size that the protagonist can hold under one arm when needed. [Stage] The starting point is a massive 'floating megacity' at dusk. Not a typical office district, but a post-futuristic wasteland city with massive rust-red steel frames, glass elevated corridors, magnetic levitation trains running through the air, buildings built upside down, giant windmills, and only the frames of floating billboards remaining, with high-rise towers piercing the clouds and a giant ring-shaped urban structure rotating in the distance. Colors are sunset orange, deep ultramarine, reddish-purple, and cold cyan. Excessive neon is prohibited. Everything is highest-quality AAA 3D cinematic. In the second half, move continuously from the city to a sea of clouds, then an aerial waterway, then a giant glass forest, and finally a floating night market; do not switch abruptly between any of these. Transitions occur through physical continuity of architecture, weather, creatures, and terrain. [Basic Camera Design] Use 18-24mm wide-angle as the base for high-speed movement, naturally closing in to 28-40mm for dialogue and expressions. 60fps. The camera does not continuously track parallel like a drone. Change height, distance, angle, and speed every 0.4 to 1.2 seconds. Create a sequence of 3D movements like: backing away in front of the protagonist and bear -> passing grazing the protagonist's shoulder -> diving under the bear -> moving ahead of the giant creature -> circling to the front -> backing away at ground level -> passing through an architectural hole first. Meaningless 360-degree rolls are prohibited. However, actively use banks of 15-70 degrees to match the turns of giant creatures, gravity direction changes, or the curves of architecture. Add natural directional motion blur only to high-speed movement sections, while keeping the protagonist's single eye, smile, and the bear's expressions readable. [0.00-3.20s | Suddenly sprinting on the roof of an aerial train] Intense speed from the first frame. The protagonist and bear are sprinting at full speed on the roof of a black magnetic levitation train traveling at hundreds of km/h through the floating city at dusk. The protagonist is in front, the bear desperately runs 1-2m behind on short legs. The protagonist's red cords, black outfit, and helmet decorations sway in the wind pressure; the bear's ears and arms stream back violently. The starting camera is about 4m ahead of the train, 20mm lens skimming the roof while backing away to capture the two from the front. At 0.5s, the camera dives steeply to the protagonist's feet, with the metal seams of the train roof flowing violently under the lens. At 0.9s, it rises sharply from outside the protagonist's right leg, approaching the giant single eye and toothy smile at 24mm. While running, the protagonist looks back and shouts happily to the bear behind, 'You're slow!' The bear replies, 'Think about my leg length!' while out of breath. Perfect lip sync. At 1.5s, broken rails and a massive aerial gap appear ahead. Without slowing down, the protagonist says, 'Okay, let's jump!' The bear says, 'I didn't hear about this!' At 2.3s, the protagonist kicks off the train roof, and the bear jumps immediately after. The camera passes between the two at high speed, then continues into the air ahead to turn around and catch the protagonist and bear head-on as they approach from behind. [3.20-6.30s | Jumping onto a giant white crow] Dozens of black birds fly in the city sky, but a giant silver-white crow with a wingspan of over 15m descends rapidly from behind them. Do not summon it suddenly. Have it exist as a small white shadow in the distance from the 2-second mark; by 3.5s, its wings, beak, silver feathers, and bluish-black eyes become clear. The protagonist and bear do not fly freely but fall by gravity after the jump. The giant crow crosses diagonally below them. The protagonist twists her body 90 degrees in mid-air and makes a dynamic landing on the crow's back on one knee at 4.2s, grabbing a feather with one hand to absorb the impact. The bear misses the landing and falls toward the crow's wingtip, shouting a small 'Waaah!', but the protagonist immediately reaches out one hand to grab the bear's arm and pulls it up like a pendulum. The camera glides under the crow's wing, looking up from below at the protagonist pulling the bear up. At 5.0s, the bear rolls onto the back saying, 'Hold me from the start!', and the protagonist laughs loudly, 'That wouldn't be any fun!' The crow beats its wings once strongly and dives between the city buildings. The camera gets ahead of the head and backs away, putting the silver crow, protagonist, bear, and the city flowing at high speed behind them into a single frame. [6.30-9.30s | Ultra-high-speed breakthrough through high-rise city interior by white crow] The white crow doesn't cruise horizontally but meanders between high-rise buildings using a combination of descents and ascents. At 6.5s, it passes through two beams of a giant glass tower with its wings folded. The protagonist crouches low, pulling the bear to her chest. The camera flies into the narrow gap ahead of the crow, an 18mm ultra-wide shot with glass and metal closing in to about 10cm on each side. Immediately after, the crow bursts violently toward the lens, and the camera accelerates backward to avoid it. At 7.2s, the crow redeploys its wings and makes a sharp left turn. The camera slides over the top of the right wing and looks forward over the protagonist's shoulder. Ahead is a massive transparent 'aerial waterway' flowing through the center of the city. Water is held in the air like a giant ribbon, meandering between buildings. The white crow descends toward the waterway. The protagonist says, 'Eh, we're going in there?' The bear, with a pale expression, says, 'It's definitely the face of someone going in!' The crow plunges into the transparent water flow. [9.30-12.40s | Plunging into the aerial waterway -> Switching to a giant celestial carp] As the crow enters the water, do not flash the screen; physically continue the surface refraction, bubbles, water pressure, and water adhering to the feathers. Maintain AAA quality. The crow's feathers get wet and heavy, causing speed to drop sharply. The protagonist and bear are thrown forward by inertia. The protagonist lightly strokes the crow's neck once, saying 'Thanks!' while swimming forward in the water current. The bear doesn't swim but drifts toward the protagonist's side, spinning around due to its round body's buoyancy. 'I can't swim!' The protagonist says, 'You're floating, so it's fine!' At 10.4s, a massive semi-transparent celestial carp approaches at high speed along the current from downstream. 12m long, milky white and pale cyan, with transparent fins, thin golden scales, and a soft light inside. The carp doesn't appear magically but has been swimming in the distance of the waterway from the start. The protagonist flips her body in the water and reaches for the carp's back. At 11.2s, as the carp passes under her, she grabs the base of the dorsal fin and pulls herself in. The bear lands softly on top of the carp's head. The camera runs backward from grazing the carp's mouth, showing the giant eye, the bear on top of the head, and the protagonist moving to the back all at once. At 12.0s, the carp jumps out of the aerial waterway. Water droplets do not remain for seconds but fall down according to gravity. [12.40-15.60s | Flying celestial carp + Sea of clouds jump] The giant carp jumping out of the waterway does not fly freely like a bird but glides for a short time using the momentum from the waterway exit and the lift of its giant fins. The protagonist and bear head toward the sea of clouds at the edge of the city while riding its back. The camera dives directly under the carp, showing the protagonist and bear above through the transparent belly with refraction. At 13.0s, the camera passes behind the carp's tail and rises to the upper rear. A giant glass forest begins to appear ahead. Massive transparent trees hundreds of meters tall, branches branching like prisms, and wind blowing at high speed between them. The carp's flight speed gradually decreases. The protagonist points ahead, 'Next, over there!' Bear: 'Next what!?' Protagonist: 'I haven't thought about it!' Bear: 'I knew it!' At 14.3s, the carp approaches the upper part of the glass forest, but the gaps between branches are too narrow for the giant carp to enter. The protagonist strokes the carp's back once and, holding the bear under one arm, jumps to one of the branches. The carp naturally falls into another waterway below and disengages. The protagonist's shoes contact the transparent branch and begin to slide with a glass sound. [15.60-18.60s | High-speed sliding through glass forest + Bear starts self-flight] The protagonist slides at high speed on the massive transparent branches like skating, holding the bear in her left arm. The branches are not straight but curve downward sharply, and the protagonist accelerates with gravity. The camera moves at high speed upside down on the underside of the branch, capturing the soles of the protagonist's feet and the bear through the transparent glass, then circles to the side of the branch. At 16.3s, the branch forks. The protagonist leans right to make a high-speed turn. The bear says, 'Wait a sec, I feel like I can fly too!' The protagonist: 'Now!?' The bear jumps out of the protagonist's arms on its own. Instead of two small cloth wings popping open from its back, the seams on the sides of its body stretch out as if unraveling, becoming soft wings that were originally built-in. The wings maintain the color tones and materials of the reference image. The bear starts flying awkwardly next to the protagonist, 'I flew!' Immediately after, it almost hits a transparent branch, 'Whoa, dangerous!' The protagonist laughs and crouches low to jump to the next branch. The camera bursts into a narrow hole between branches ahead of the protagonist and follows the jumping protagonist and flying bear from the front without changing the 180-degree orientation. [18.60-21.80s | Jumping onto a giant horned rabbit's back and sprinting on the ground] Below the glass forest, amber-colored grasslands and herds of massive migrating beasts are visible. The transparent branches of the forest lower their altitude, finally continuing near the ground like a giant curved slide. The protagonist accelerates on the branch, with the bear flying beside her. Below and ahead, a giant horned rabbit about 8m long is running through the grassland at high speed. Long white-to-light-gray fur, silver-black antlers branching like a deer's, massive hind legs, and blue eyes. Do not show it suddenly; introduce it as a distant herd from the 17-second mark. At 19.2s, the protagonist jumps from the end of the transparent branch and aligns herself in the air with the horned rabbit's back. The camera looks straight back from between the horned rabbit's ears, capturing the approaching protagonist from above. At 19.7s, the protagonist lands on the back, absorbing the impact with both knees. The bear also flies in from the side and lands as if bumping into the protagonist's shoulder. The horned rabbit does not slow down. The protagonist grabs the fur with one hand and strokes the side of its neck once with the other. The horned rabbit reacts by tilting its ear slightly toward the protagonist. At 20.4s, Protagonist: 'Fast, fast!' Bear: 'You were just saying you wanted to go faster!' Protagonist: 'This is too fast!' The horned rabbit kicks off a giant rock with its hind legs and jumps over it; the camera leads grazing the ground to give the impact of the giant feet passing over the lens. [21.80-24.70s | Entering the floating night market, protagonist and bear running together] Past the grassland, a massive floating night market city appears continuously, detached from the ground. First, warm-colored lights in the distance, then roofs, cloth, suspension bridges, and three-dimensional alleys become discernible. The horned rabbit runs up a giant inclined bridge and enters the market's periphery. The market is an AAA-class otherworldly city. Wet stone, wood, brass, cloth awnings, floating lanterns, steaming stalls, and giant mechanical clocks. Do not generate text or readable signs. The protagonist jumps from the horned rabbit's back to a nearby roof at 22.2s. The bear follows with self-flight. The horned rabbit runs off into an alley. The protagonist sprints at full speed on the roofs, with the bear flying alongside at shoulder height. The camera starts from the protagonist's left side, accelerates ahead of her at 22.7s, and stays turned 180 degrees while backing away to capture her face and the bear. It then dives steeply under a narrow suspension bridge, looks up at the two through the gaps in the bridge, and immediately rises back to the rooftops. At 23.5s, the protagonist steps onto a giant cloth roof of a stall, and the bounce of the sinking cloth sends her leaping to the next roof. The bear asks from the side, 'Hey, where's our destination anyway?' The protagonist looks at the bear for a moment while running. 'Destination?' A 0.2-second pause. '...We don't have one?' The bear looks at the protagonist silently. [24.70-27.50s | Running up a giant clock tower and jumping into the sky together] A giant tilted clock tower ahead. Giant gears are exposed on the outer wall from the market roof. The protagonist jumps from the roof edge to the rotating gears of the clock tower and runs upward using the gear teeth as footholds. The bear flies beside her. The camera tilts nearly 90 degrees against the clock tower wall, following the protagonist from below while maintaining the world coordinate gravity. At 25.2s, the camera passes through a hole in a rotating gear first, and the protagonist jumps through the same hole. At 25.6s, the camera moves from behind the protagonist over her head to the front, approaching the giant single eye and smile at 28mm. Protagonist: 'Okay, last jump!' Bear: 'How many times today!?' At 26.0s, the protagonist jumps onto the hand at the very top of the clock tower and runs along the rotating giant minute hand. The bear flies beside her. At 26.6s, the moment the tip of the minute hand reaches its highest point, the protagonist uses the recoil to make a giant jump. The bear also beats its wings strongly to rise at the same time. The camera leads ahead into the sky above the tower, composing a shot of the two jumping toward the camera with the entire city in the background. [27.50-30.00s | Comical mid-air pose together] The protagonist and bear rise for a short time due to the inertia from jumping off the clock tower, then naturally transition to a fall. In the background are the night floating market, distant glass forest, giant ring city, and the sky changing from dusk to night. The protagonist half-rotates her body in the air to face the camera. The bear flies next to her, trying to mimic the protagonist's pose. The protagonist strikes a bold and comical pose reminiscent of the reference image, with her right hand spread wide, her left hand on her hip, and one leg bent. The bear also raises one arm but forgets to operate its wings and starts falling slightly downward. The protagonist doesn't notice and looks at the camera with a supremely proud face, saying 'Perfect! ...Wait, where's the bear?' Immediately after, the bear shouts from below the screen while falling, 'It's not perfect!' The protagonist's giant single eye moves downward, noticing for the first time that the bear is falling. At 29.2s, the protagonist laughs saying 'No way!' and dives down to grab the bear's leg with one hand. They return to the front of the camera hanging upside down, the bear with a grumpy face and the protagonist laughing loudly showing her teeth. At 29.6s, the protagonist gives a V-sign with one hand while dangling the bear with the other. Protagonist: '...Did it work out?' Bear: 'How!?' Perfectly synchronized with the final 'How!?', the protagonist laughs even harder. The camera rapidly approaches the two, filling the screen with the giant eye, the protagonist's smile, and the angry bear. The city behind flows rapidly upward, maintaining that the two are still falling. At 30.00s, the video ends on a clear final frame of the comical moment where the protagonist is holding the bear with one hand and both are still moving in the air. Black fades, blackouts, or static images are prohibited. [Dialogue/Voices] The protagonist is an adult female. A bit low but bright, mischievous, and not too high-pitched even when excited. The bear has a slightly higher-pitched voice characteristic of small characters but not a toddler voice. Do not confuse the voice qualities. Do not add lines not specified. Do not repeat the same line multiple times. Perfect synchronization with mouth movements. Do not stop the protagonist or bear for dialogue during high-speed action. Lines: 'You're slow!', 'Think about my leg length!', 'Okay, let's jump!', 'I didn't hear about this!', 'Hold me from the start!', 'That wouldn't be any fun!', 'Eh, we're going in there?', 'It's definitely the face of someone going in!', 'Thanks!', 'I can't swim!', 'You're floating, so it's fine!', 'Next, over there!', 'Next what!?', 'I haven't thought about it!', 'I knew it!', 'Wait a sec, I feel like I can fly too!', 'Now!?', 'I flew!', 'Whoa, dangerous!', 'Fast, fast!', 'You were just saying you wanted to go faster!', 'This is too fast!', 'Hey, where's our destination anyway?', 'Destination? ...We don't have one?', 'Okay, last jump!', 'How many times today!?', 'Perfect! ...Wait, where's the bear?', 'It's not perfect!', 'No way!', '...Did it work out?', 'How!?'. [Music/SFX] Music is high-speed quirky cinematic electro x orchestral breakbeat. Around 135-145 BPM. Low end is tight, with light drums, short brass, string staccato, comical woodwind accents, clean sub, digital percussion, and short synths. Heavy EDM drops are prohibited. Include metal vibrations and strong wind on the train roof, air pressure during jumps, giant wing flaps and wind cutting for the white crow, water pressure, bubbles, and low resonance in the aerial waterway, water film and giant tail vibrations for the celestial carp, high resonance sounds of transparent branches in the glass forest, giant footsteps, fur rubbing, and ground vibrations for the horned rabbit, and environmental sounds of cloth, wood, metal, and distant crowds in the floating market, along with metal gear meshing in the clock tower. Do not unnaturally stop the music during dialogue; lower it naturally by 1-2dB to bring voices forward. Remove the music for just 0.15s before the final 'How!?' and add a short comical percussion accent after the line. Leave the laughter naturally. [Absolute Priorities] Even when transforming the protagonist from the [Reference Image] into AAA, maintain the single eye, giant smile, helmet, black skeletal motif outfit, red cords, and colors. Do not change her into an ordinary woman with two eyes. Also maintain the bear's design from the [Reference Image] as the same individual sidekick character throughout. Do not replace the protagonist or bear with different characters during the 30 seconds. The entire video must be unified in highest-quality AAA cinematic style, without changing textures to live-action, 2D animation, or watercolor halfway through. The appeal this time is not texture changes, but extraordinary camera movement and location changes.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088816924851613696/img/c7EzyY046oUhUuWe.jpg" width="600" alt="One-Eyed Girl and Bear Companion Adventure">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=9301)**
-
-**Author:** [C’est La Vie | AI Director](https://x.com/sailorv321) | **Source:** [Link](https://x.com/sailorv321/status/2088819020564930606) | **Published:** Aug 16, 2026
-
----
-### Anime Girl Cinematic One-Cut in Future City
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A high-speed, continuous cinematic one-cut video featuring an anime girl character navigating a photorealistic futuristic city using character reference techniques.
-
-#### 📝 Prompt
-
-```
-Use [Reference Image] as the sole protagonist character reference. For Seedance 2.5, 16:9, 30 seconds, 60fps. Generate the entire video as a single continuous ultra-high-speed cinematic one-cut. Conventional editing cuts, scene transitions via blackouts, fades, or sudden location changes are prohibited. Every change during the 30 seconds must have a physical reason for moving from the previous scene to the next. Connect the character's gaze, body rotation, running, jumping, hand movements, ghost summoning, ghost flight, camera orbits, entry into the ghost's mouth, free falling, web shooting, wall attachment, tension, swinging, and mid-air rotations into a single motion trajectory. The tempo is extremely fast, with visual accents occurring every 0.3 to 1.0 seconds, but never as a high-speed edit of multiple unrelated shots. The key is that the entire 30 seconds are physically connected despite being ultra-fast. The protagonist, ghosts, or camera must always be in motion from start to finish. [Most Important Concept] The vivid anime girl from [Reference Image] exists directly within a AAA-grade photorealistic live-action near-future city. Only the protagonist is not photorealistic. Maintain the original 2D anime/high-end digital illustration texture of [Reference Image] for 30 seconds, while depicting only the city, architecture, sky, glass, metal, roads, light, shadows, reflections, fog, steam, distant views, air, web lines, and environmental physics as thorough photorealistic live-action. Create visual beauty through the heterogeneous coexistence where a character looks like an anime figure but receives real live-action city light, runs in real space, and flies from real buildings via webs. Keep the protagonist's outline sharp, but do not make her look like a sticker pasted on the background. Reflect directional light from the environment, floor reflections, color bleeding from buildings, and shadows from obstacles onto the anime shading. Establish contact shadows on live-action floors, color and silhouette reflections on glass, and natural occlusion by foreground objects. [Protagonist Consistency] Completely maintain the adult female character from [Reference Image]. Keep the bright blue hair, bangs, side hair, tied-back hair, large red ribbon, red and white hat, white pom-poms, heart-shaped sunglasses with purple-to-pink lenses, small earrings, white fur, black mini dress, red nails, and rings. Do not change the face, eyes, hairstyle, hair color, body proportions, outfit, or accessories midway. Maintain the sharp, high-quality 2D cel-shaded anime + digital illustration texture with clear linework, blue/red/white colors, and smooth cel shading. However, do not make her a flat 2D image; maintain 360-degree physical consistency as the same person even in profile, from behind, low angles, bird's-eye views, or mid-air rotations. Apply natural lag to hair, ribbons, white fur, and clothing according to speed, wind pressure, and acceleration. [Ghost Consistency] Use the white ghost from [Reference Image] as the basic design for summoned entities. Maintain the soft, semi-transparent white-to-light-blue body, round cute silhouette, red-to-pink eyes and mouth, and light pink cheeks, making them charming companions rather than scary spirits. Summoned individuals are of the same type but not exact copies; give them small individualities in size, expression, tail curve, and flight style. Mass spawning is prohibited. Increase by one at a time in the early stage up to a maximum of 5. They fly three-dimensionally around the protagonist at different heights, distances, and speeds. The ghosts maintain the same anime-world texture as the protagonist, but the photorealistic city behind them should be naturally visible through their semi-transparent parts. [Setting | NEO FUTURE CITY] A giant near-future city entering the blue hour at dusk. Simple building rooftops are prohibited. The starting point is a massive floating aerial public plaza in the mid-section of a skyscraper cluster. Located hundreds of meters above ground, several skyscrapers are connected by glass skybridges, magnetic transit rails, massive structural beams, and aerial walkways. AAA-grade sci-fi movie photorealistic texture. Features giant glass facades, titanium, wet black stone floors, concrete, translucent panels, movable louvers, subtle glowing traffic guidance lines, and unmanned transit systems moving in the distance. Do not use excessive cyberpunk neon. Establish it as plausible near-future architecture. Above are giant multi-level roads and magnetic rails; in the distance, aerial transit craft. Natural evening light shines through thin clouds, casting blue and gold reflections on glass buildings. Skyscrapers are placed at 20-50m intervals for later web-swinging, clearly showing outer walls, beams, and antenna structures where webs can attach. [Camera Design] AAA-grade action movie + high-end sports commercial quality. Full-frame digital cinema camera. 18-21mm for high-speed movement, 24-28mm for character close-ups, ultra-wide macro intensity when entering the ghost's mouth. 60fps. Maintain a shutter speed that makes high-speed motion readable, adding natural motion blur only in necessary directions. Prohibit meaningless 360-degree rotations, random rolls, or AI-style sudden zooms. Camera rolls, banks, and orbits must have a clear center of motion like the protagonist, a ghost, or web tension. Do not keep speed constant; create a camera rhythm that repeats sudden acceleration, ultra-close-ups, orbits, momentary speed differences, and re-acceleration. [0.00-3.50s | Girl Running + First Ghost Summon] Intense motion from the first frame. The protagonist from [Reference Image] is running at full speed toward the camera in the giant near-future aerial plaza. The external camera retreats at high speed from a low angle about 1.5m in front of her. She laughs happily; the white fur, red ribbon, and blue hair sway violently backward due to speed. The anime protagonist's shadow flows fast over the wet live-action floor, and the colors of the blue hair and red ribbon reflect momentarily on the surrounding glass. Around 0.70s, she continues running while swinging her right hand sideways. A 2D paint stroke, like a single stroke of red, blue, and white paint, is drawn in live-action space. The moment it forms an arc, the first ghost pops out with a 'pop!' sound. It's not a magic circle, but a flashy yet brief painting effect. The ghost flies alongside her shoulder; she looks sideways and laughs, saying 'Can you keep up?' in Japanese with perfect lip-sync. The ghost bounces happily, but she never stops. [3.50-7.50s | Successive Summons While Running] The protagonist runs at high speed, weaving through structural beams and transparent panels of the plaza. The camera orbits rapidly from the front to the left side as she half-rotates her body while running. Cutting the air diagonally with her left hand summons the 2nd ghost from a pale blue brushstroke with a 'pop!'. A flick of the wrist produces a short red paint splash for the 3rd. Circling her arm overhead cuts the space with a white ribbon-like stroke, summoning the 4th from its tip. Finally, pushing both hands forward once creates a slightly larger 5th ghost where thick blue, red, and white brushstrokes cross. Do not generate them all at once; they must visually increase 1->2->3->4->5, and previously summoned ones do not disappear. The five fly at different heights and radii (above, side, waist, front-above, behind), forming a three-dimensional spiral around her. One passes very close to the lens, showing the character and city refracted through its semi-transparent body, but this is not an edit cut. [7.50-10.20s | Giant Ghost Moves Forward] She accelerates further toward the edge of the aerial plaza. Ahead is a massive urban drop of hundreds of meters, but she doesn't slow down. The five ghosts also speed up, and the largest one flies ahead of her, flying backward while rapidly enlarging to 3-4 meters in diameter. Maintain the cuteness and basic design. The giant ghost looks at her and shouts 'Here we go~!' in a bright, cute voice, lip-syncing perfectly. As the line ends, it opens its mouth wide. The inside is not a black hole, but an exotic space where red, blue, white, and pink 2D paints swirl at immense speed. She laughs, saying 'Eh, in there?!' in surprise but keeps running. A powerful suction comes from the ghost's mouth, pulling her hair, ribbon, and fur forward, with the smaller ghosts also drifting toward it. The camera moves behind her, getting physically sucked into the giant ghost's mouth along with her. [10.20-12.20s | Single Large PAINT IMPACT] She jumps off the edge of the plaza, and the momentum and suction pull her into the giant ghost's mouth. As she passes the edge, generate the flashiest effect in the 30 seconds: a massive 2D paint stroke of red, blue, white, and pink, along with liquid ink, cel-anime speed lines, and rough brush splatters that circle the entire photorealistic screen at high speed, forming a 'PAINT IMPACT' as if a giant brush repainted the film itself. Not an explosion or laser. The camera passes through the paint layer physically. The mouth interior is not a long tunnel but is passed in under 1 second, revealing the high sky over the same near-future city. The paint splits left and right, ejecting her and the camera into the urban sky. This is the only major effect transition; do not repeat similar transitions. [12.20-14.50s | Ejection into Urban Sky] She is thrown at high speed into the sky hundreds of meters above the photorealistic near-future city. Below are multi-level roads, giant glass buildings, and transit rails. She does not fly freely; after the upward inertia is lost, she enters a clear gravitational fall. The camera dives from her side to get beneath her, looking up from a low angle with the city as a background. The five ghosts rejoin her one by one. Only the ghosts can fly freely. One aligns next to her; while falling, she laughs and shouts 'Whoa, so high!'. The ghost laughs too. She quickly switches expressions, fixing her gaze on a skyscraper ahead to the right. [14.50-18.00s | 1st Web Shot -> Attachment -> Tension -> High-speed Swing] A giant glass and metal skyscraper is ahead to the right. While falling, she swings her right arm forward from the shoulder and snaps her wrist sharply. A single, thin, strong white-to-light-blue web line is clearly shot from her hand. The web is depicted as a translucent high-strength fiber existing in live-action space. Show the entire process: extending from her hand, crossing the air, and reaching the building wall. It attaches with a 'click!' and a tiny bit of live-action dust. Immediately after, the line pulls taut. Tension transfers from her right arm to her shoulder, chest, waist, and legs. Her downward velocity converts to forward velocity, entering a massive pendulum orbit centered on the attachment point. The camera follows, banking steeply to the right. The five ghosts chase at high speed—one in front, two on the sides, the rest behind. Ghosts do not use webs. [18.00-21.00s | Ultra-high-speed Swing Near Building + Dialogue] She reaches the lowest point of the swing at maximum speed, passing within 1-2m of the live-action building wall. Reflections of the anime girl and ghosts race across the glass. She tilts her body sideways, bending her legs to narrowly avoid building protrusions. The camera moves into the narrow gap from behind-below, using a 21mm wide-angle to emphasize speed and distance. A ghost catches up: 'Wanna go faster?'. Looking ahead, she happily says 'Of course!'. Perfect lip-sync. Do not stop the swing, hair/ribbon/fur movement, or background flow during the dialogue. Just as the camera zooms into her face from the side, she opens her right hand to release the first web. Tension vanishes, and inertia shoots her diagonally upward at high speed. [21.00-24.00s | 2nd Web + Further Speed Increase] She maintains her upward momentum while quickly half-rotating her body. The camera performs a purposeful 120-degree orbit around her to capture her face from the front-above. Another skyscraper appears front-left; she extends her left arm and shoots a 2nd web line. Show the tip flying through the air and attaching to the upper wall of the left building. 'Click!'. The line tenses, pulling her left arm, and the tension shifts her direction sharply to the left. She describes a giant arc, passing under a near-future aerial transit rail. The camera rolls left with the tension, causing the horizon to tilt for a physical reason. The ghosts cross paths around her while chasing. A larger ghost pulls up alongside: 'Can you still go?'. She laughs cutely in the wind, shouting 'I'm going to pick up even more speed!'. This is a key line for the latter half. She holds the left-hand web and continues the swing at max speed while speaking. [24.00-27.00s | Web Release -> Big Jump over City] She enters the upward part of the 2nd swing, rising toward a building rooftop. At the moment when speed converts most to height, she releases the web, getting ejected into the air higher than the roof. The five ghosts rise together. While ascending, she extends one leg forward, twists her body 180 degrees, and spreads her arms. Her blue hair, red ribbon, and fur follow with a large lag due to strong wind. The camera rises sharply from beneath her, overtakes her, and moves to the front, facing her while retreating. Behind her is the massive photorealistic near-future city hundreds of meters below. Her ascent slows, transitioning naturally into free fall. The five ghosts begin to gather around her, adjusting their speed. [27.00-30.00s | Cute Mid-air Pose + Painting Effect] For the finale, do not use shutter or lens effects. Falling through the urban sky, she faces the camera. The five ghosts are positioned three-dimensionally (sides, top, feet, behind). She smiles mischievously, brings her right hand to her face for a small V-sign, slightly bends her left leg, and assumes a cute, confident mid-air pose characteristic of [Reference Image]. However, she is not static; falling, hair, ribbon, and ghost movements continue. One ghost near her shoulder mimics her pose. Another smiles at the camera. She releases the V-sign and draws a large stroke in the air with her right index finger. A vivid blue->red->white->pink 2D paint line emerges from her fingertip, perfectly synchronized with her arm's trajectory to form a giant arc. The line circles around the character and ghosts, forming an abstract painted silhouette reminiscent of a one-stroke heart and star, without using letters or logos. The five ghosts don't disappear; they converge around her, each leaving a small colored tail. The camera zooms in as she winks. The live-action city, vivid 2D anime girl, white ghosts, and giant brushstrokes reach maximum density. At 29.70s, she thrusts the V-sign slightly toward the camera, and the ghosts strike cute poses simultaneously. The paint line circles the perimeter to decorate the frame. At 29.90s, a giant red/blue/white/pink stroke crosses very close to the lens without blacking out. The final frame at 30.00s is the vivid moment of the anime girl and five ghosts striking poses in the center of the hand-drawn effect high above the photorealistic city. Fades are prohibited. [Sound/Music] High-tempo bright electro-pop x futuristic breakbeat from the start. Heavy EDM is prohibited. Use a tight kick, clean bass, crisp percussion, short digital synths, and playful plucks to balance cuteness and high-speed action. Sync short 'pop' and 'swish' sounds to each summoning; music layers increase as more ghosts appear. Ghost voices are cute and light with an airy feel, but avoid excessive echo. The protagonist has a bright, free-spirited, slightly mischievous young adult female voice. No toddler voices. Dialogue is only at specified points: 'Can you keep up?', 'Here we go~!', 'Eh, in there?!', 'Whoa, so high!', 'Wanna go faster?', 'Of course!', 'Can you still go?', 'I'm going to pick up even more speed!'. Do not repeat lines or speak at other times. Do not confuse the protagonist's voice with the ghosts'. Perfect lip-sync for all. The suction into the ghost's mouth features a low suction sound + high-speed paint swoosh. A strong musical accent for the PAINT IMPACT at 10s. Release wind pressure sound when ejected into the sky. Web shooting 'thwip', wall attachment 'click', short low frequency on tension, and pitch-shifting wind noise during swings. Sync a dry brush swipe sound to the final painting effect. [Absolute Priorities] Maintain the protagonist from [Reference Image] as the same person throughout. She remains an anime character for 30 seconds and must not be photorealized, 2.5D, or 3D. The background is a strictly AAA-grade photorealistic live-action city. Intentionally keep the heterogeneous texture difference between the protagonist and the background. However, ensure light, shadows, reflections, contact, occlusion, wind, and speed are physically consistent within the same space. No camera props or selfies. No generated photos. Summon ghosts one by one via the protagonist's hand movements, increasing to 5 without deleting others. Summoning is a brief 2D paint expression. Only one major effect change: entering the giant ghost's mouth. The mouth opens right after the ghost says 'Here we go~!', and the camera/protagonist are sucked in. Continuous ejection from the mouth to the city sky. She falls via gravity, not free flight. Web lines must shoot from her wrist/hand; show the tip flying, attaching, the line tensing, and the tension converting the fall into a swing. Establish 'shoot->attach->tension->swing' at least twice. Ghosts fly alongside and remain until the end. Natural dialogue between them during high-speed movement. Finish with a cute pose of the protagonist and 5 ghosts synchronized with a giant 2D paint line she draws. [Prohibited] Photorealism of the protagonist, 2.5D, 3D anime, game CG, plastic 3D, face changes, hair color/style changes, outfit changes, loss of accessories (ribbon, sunglasses, fur), character duplication, becoming another person, age changes, additional human characters, scary/zombie/spirit ghosts, blood, gore, fusion of protagonist and ghost, extra limbs, 6 fingers, fused fingers, body twisting, joint failure, random teleportation, standard edit cuts, midway blackouts,
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088808323303002112/img/bEFEV8iKP_9VshAy.jpg" width="600" alt="Anime Girl Cinematic One-Cut in Future City">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=9223)**
-
-**Author:** [C’est La Vie | AI Director](https://x.com/sailorv321) | **Source:** [Link](https://x.com/sailorv321/status/2088810229517717742) | **Published:** Aug 16, 2026
-
----
-### Wuxia Negotiation Comedy "Price Hiking"
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A cinematic deadpan Wuxia comedy prompt involving a negotiation where the senior and junior sisters team up to 'hike the price' for selling the senior's weaknesses to an enemy.
-
-#### 📝 Prompt
-
-```
-Seedance Prompt | Price Hiking
-
-I. Core Positioning
-
-Cinematic realistic texture, pure ancient style Chinese Xianxia aesthetics.
-Overall style:
-Sophisticated deadpan ensemble comedy
-Classical martial arts character blocking
-Gradually escalating negotiation rhythm
-Rule of three
-Precise reaction shots
-Arri Alexa cinematic texture
-Clear and stable facial micro-details
-Fine film grain
-Natural volumetric light
-The comedic core of this segment is a clear reversal of identity and stance:
-
-The enemy attempts to bribe the Junior Sister with silver to reveal the Senior Sister's weakness.
-In the first few seconds, make the audience briefly suspect if the Junior Sister is actually going to take the money.
-Then it is revealed that these two women are actually working in perfect tacit understanding to "hike the price" for the enemy.
-
-All supporting characters serve only as:
-Witnesses to the comedy
-Rhythm boosters (finishing blows)
-
-The true main subjects always belong to:
-Image 1: Senior Sister (Sword Immortal)
-Image 2: Junior Sister
-
-II. Reference Controls
-
-1. Character Identity Anchors
-@Image 1 strictly locks Character ID A: Sword Immortal Senior Sister
-@Image 2 strictly locks Character ID B: Junior Sister
-
-2. Environment Reference
-All background and location reference images uploaded in this round jointly determine the same environmental DNA.
-Before formal composition, silently integrate compatible:
-Real terrain, architectural language, spatial scale, textures, vegetation, water bodies, weather, mountain mist, clouds, main light direction, reflection relationships, atmospheric depth, and realistic walkable paths.
-Then re-plan into a unique, unified, physically logical, and spatially continuous new space.
-
-3. Environmental Principles
-The environment must remain vivid from start to finish but be absolutely neutral in the narrative.
-Elements allowed for natural continuous movement include:
-Wind, water bodies, mountain mist, vegetation, reflections, distant disciples, and spatial ambient sound.
-But must adhere to the following principles:
-The environment cannot trigger the plot, solve problems, create comedic bits for characters, or interrupt negotiations. It only provides a sense of real-world presence.
-
-III. Character Settings
-Character ID A | Sword Immortal Senior Sister
-Same as @Image 1. 25–30 year old East Asian female, oval face, fair skin, dark almond eyes, long black hair half-up fixed with a white jade hairpin, tall and slender.
-Fixed Look: White embroidered silk Hanfu, translucent wide sleeves, silver waist belt, jade pendant, white cloth boots, a single silver long sword.
-Temperament: Calm, dignified, logically stable, deadpan, unblushing in absurd situations.
-Key Performance Requirements: Must turn head very slowly to look at the Junior Sister when she says "Too little." Must say "Eighty" like a reasonable market price. Must be completely serious when saying "My weakness cannot be sold cheaply." When pushing silver to the Junior Sister, the attitude should be like handling official business.
-
-Character ID B | Junior Sister
-Same as @Image 2. 20–25 year old East Asian female, round and lively face, black hair in braids, petite build.
-Fixed Look: Cyan-green linen Hanfu, dark belt, wooden hairpin, black cloth shoes, a single dark steel sword.
-Temperament: Smart, quick-reacting, emotionally restrained, natural tacit understanding with the Senior Sister. The comedy comes from being "absurdly serious."
-Key Performance Requirements: Must make the audience briefly doubt her when she first observes the silver. Say "Too little" calmly and seriously, not jokingly. Nod at "Eighty" as if approving a professional quote. Weighing the silver at the end and saying "Afraid I'll lose out" must be as natural as stating a fact.
-
-Supporting Character 1 | Enemy Swordsman
-One male. Responsible for initiating the bribe. Initially confident, thinking he controls the situation; starts to be confused in the middle; completely frozen at the end.
-Key Performance Requirements: "Thirty taels, tell me her weakness" should be direct and pragmatic. At "Fifty," he should clearly feel he is adding to the stake. "Eighty! What exactly is she afraid of?" should carry the pressure of losing patience. Finally, looking at his empty hands, he should look as if he has been totally bypassed.
-
-Supporting Character 2 | Elder Master
-One male. Responsible only for an authoritative finishing blow at the end. Must not steal the scene. Tone should be like handling sect accounts.
-Key Performance Requirements: "A lesson" should sound like an objective conclusion. "Sect takes thirty percent of the silver" must sound like announcing a normal rule. Walking cannot stop. Cannot turn into an obviously comedic performance.
-
-Distant Background Characters
-Small-scale disciples in the distance may be present. They only provide world presence. Cannot join the main plot, obviously watch the protagonists, or react excessively to the jokes.
-
-IV. Core Props
-Silver Ingots: The same batch of silver, a few ingots. Clearly placed on a naturally existing stone surface between the three. Continuous and stable across three shots. Must have real metallic weight and reflection.
-Long Swords: Senior Sister has a single silver sword; Junior Sister has a single dark steel sword. Present as identity props throughout. Focus is on negotiation and relationship reversal, not fighting.
-
-V. Comedy Structure
-1st Beat | Mislead: Enemy offers thirty. Junior Sister doesn't refuse immediately but looks seriously at the silver and says "Too little." Audience suspects a betrayal.
-2nd Beat | Progression: Enemy increases to fifty. Senior Sister suddenly steps in herself to hike the price: "Eighty." The situation turns from "bribery" to "joint bargaining."
-3rd Beat | The Hook: The enemy finally deals and asks for the weakness. Junior Sister answers seriously: "Afraid I'll lose out." The transaction was a hustle from the start.
-Authoritative Finishing Blow: Master's final lines: "A lesson." "Sect takes thirty percent." Stamps the absurd negotiation as official sect business.
-
-VI. Storyboard Script
-0–5s | Full Shot or Wide Shot: Character ID A (Senior Sister) and ID B (Junior Sister). Enemy swordsman puts silver on the stone surface, saying to Junior Sister: "Thirty taels, tell me her weakness." Junior Sister observes seriously and answers calmly: "Too little." Senior Sister turns head slowly to look at her.
-5–10s | Medium Shot or Cowboy Shot: Enemy adds silver: "Fifty." Junior Sister is about to speak, but Senior Sister says calmly: "Eighty." Beat of silence. Enemy: "I'm buying your weakness, and you're helping her hike the price?" Senior Sister: "My weakness cannot be sold cheaply." Junior Sister nods seriously.
-10–15s | Close-up or Extreme Close-up: Enemy pushes all silver forward: "Eighty! What is she afraid of?" Junior Sister picks up an ingot, weighs it, and points to Senior Sister: "Afraid I'll lose out." Senior Sister pushes all silver to Junior Sister: "So the money stays, the person can leave." Enemy freezes: "Then what did I buy?" Master walks past: "A lesson. Sect takes thirty percent." Protagonists turn: "Master?" Enemy looks at empty hands. Cut to black.
-
-VII. Performance Rhythm Requirements
-Senior Sister: Completely serious throughout. The more serious, the funnier. No smiling, no explanation. Senior Sister and Junior Sister form a conspiracy. Junior Sister handles the reversal. Enemy reactions escalate from confidence to confusion. Master is calm and lethal.
-
-VIII. Camera and Spatial Requirements
-16:9 Landscape. Three continuous clear shots. Arri Alexa look. Stable facial details. Natural volumetric light. Fine film grain. Precise reaction shots. Stable spatial relationships.
-
-IX. Sound Requirements
-Native synchronized Mandarin dialogue. Precise lip-sync. Clear comedic pauses. Realistic ambient sound. No subtitles.
-
-X. Technical Specifications
-Total duration: 15s. Format: 16:9. Three clear shots. Native Mandarin sync. High physical realism for fabric and hair. Organized according to Seedance 2.0 15s multi-shot audio-video generation and multi-modal reference continuity capabilities.
-
-XI. Negative
-blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, watermark, text, error; deformed, mutated, bad anatomy, poorly drawn hands, bad composition, out of frame, disfigured; inconsistent character, changing clothes, face morphing, background shift, glitching cuts, disappearing props
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088808968189509632/img/PCyxTJTIuKaIXwof.jpg" width="600" alt="Wuxia Negotiation Comedy "Price Hiking"">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=9207)**
-
-**Author:** [Soran](https://x.com/Soranlan) | **Source:** [Link](https://x.com/Soranlan/status/2088809944149533166) | **Published:** Aug 16, 2026
-
----
-### Wuxia Deadpan Comedy "Just a Sound"
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A detailed cinematic prompt for a Wuxia-style deadpan comedy, focusing on character consistency and a specific four-act narrative structure based on a misunderstanding.
-
-#### 📝 Prompt
-
-```
-Core Positioning: Cinematic realistic texture, pure classical Chinese Xianxia aesthetics. Overall tone: Sophisticated deadpan comedy, elegant and clear Wuxia character blocking, silent film reaction rhythm, socially awkward humor, restrained absurdity. Visual tone: Arri Alexa film quality, clear and stable facial micro-details, delicate film grain, natural volumetric light.
-
-Comedy Structure: Epic expectation → Confident but completely wrong understanding → Extremely mundane truth → Final authority blow.
-
-Narrative Logic: 
-Phase 1: Epic expectation. The enemy leader gives a solemn, rapid challenge. Everyone assumes a legendary duel is set.
-Phase 2: Confident misunderstanding. The senior sister nods seriously, but actually didn't understand the speech.
-Phase 3: Mundane truth. She asks the junior sister what he said, revealing she only nodded to be polite.
-Phase 4: Authority blow. The master concludes that she is at least very polite.
-
-Character ID A: Senior Sister (White embroidery silk Hanfu, high bun, calm, serious, overly polite).
-Character ID B: Junior Sister (Green linen Hanfu, braids, smart, quick, trying to suppress laughter).
-
-Scene details: Dusk, ancient architecture, misty mountains, Arri Alexa cinematic look, high dynamic range.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088794699544870912/img/MaaOvJzaBTBZvnOC.jpg" width="600" alt="Wuxia Deadpan Comedy "Just a Sound"">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=9205)**
-
-**Author:** [Soran](https://x.com/Soranlan) | **Source:** [Link](https://x.com/Soranlan/status/2088795584400425102) | **Published:** Aug 16, 2026
-
----
-### Beastman Dragon Rider Battle
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A simple action prompt for generating a cinematic scene of a fantasy beastman fighting enemies while riding a dragon.
-
-#### 📝 Prompt
-
-```
-A cinematic, fast-paced scene of the beastman from the reference image riding a dragon and fighting approaching enemies.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088794705668841473/img/3_IVdJ3R3upUcNDr.jpg" width="600" alt="Beastman Dragon Rider Battle">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=9196)**
-
-**Author:** [meropan](https://x.com/renataro9) | **Source:** [Link](https://x.com/renataro9/status/2088794974364299406) | **Published:** Aug 16, 2026
-
----
-### Anime Drama Character Interaction Script
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A detailed multi-scene prompt for Seedance 2.5 that script out character dialogue and camera movements for an anime-style noble house drama.
-
-#### 📝 Prompt
-
-```
-Japanese full-color anime style. Japanese TV anime style. Cel-shaded animation. Anime-style screen capture focused on flat coloring.
-
-Noble's mansion. The long-haired blonde character from Image 1 is sitting in a chair. In the chair opposite him sits the red-haired character from Image 2, who is the stepbrother of the character in Image 1.
-
-0-4 seconds: A diagonal high-angle shot of the blonde long-haired character from Image 1. "Brother, what brings you here today?"
-4-8 seconds: A diagonal low-angle shot looking up at the red-haired character from Image 2. "Withdraw from Father's business, Reiss." (4 seconds)
-8-13 seconds: A side-view shot of the upper body of the blonde long-haired character from Image 1. "Did turning the business into a profit displease you that much?" Eyes closed quietly. Panning left.
-13-17 seconds: A close-up of the red-haired character's clenched fist from Image 2. "You're after the family headship, aren't you?" Trembling with anger.
-17-20 seconds: A straight-on shot of the red-haired character's upper body from Image 2. Pointing at the screen and shouting, "Even though you're just a concubine's child!"
-20-21 seconds: Water is poured over the head of the red-haired character from Image 2.
-21-25 seconds: A diagonal low-angle shot looking up at the black-haired maid from Image 3. She has a condescending gaze. The black-haired maid is holding a water pitcher with looking down eyes. "...Pardon me. My hand slipped." Cold gaze.
-25-28 seconds: A scene where the red-haired character from Image 2 screams "You!" and raises his arm. Side-view shot, showing the red-haired character from Image 2 from the shoulder up.
-27-28 seconds: A close-up of the red-haired character's shoulder from Image 2. The hand of the blonde long-haired character from Image 1 firmly grabs the shoulder of the red-haired character from Image 2. The face of the blonde character is not shown, only the hand grabbing the shoulder.
-28-30 seconds: Half of the red-haired character's face from Image 2 is shown facing the camera in the foreground. In the background, the face of the blonde long-haired character from Image 1 appears. "...Please leave." He speaks with an intimidating tone. The red-haired character turns pale with fear at the intensity.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088784781773602816/img/ktMG7fv-Vr2bMuJy.jpg" width="600" alt="Anime Drama Character Interaction Script">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=9219)**
-
-**Author:** [咲山(AIイラスト・AI動画垢)](https://x.com/z933TfmXkaISSVc) | **Source:** [Link](https://x.com/z933TfmXkaISSVc/status/2088790863011069992) | **Published:** Aug 16, 2026
-
----
-### Xianxia Comedy - Hearing a Sound
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A comedic cinematic short film prompt focusing on a refined ancient Chinese Xianxia aesthetic, featuring a misunderstood sword duel challenge with natural character acting and silent comedy beats.
-
-#### 📝 Prompt
-
-```
-Cinematic realism, authentic ancient Chinese Xianxia aesthetics. 
-Overall style: Sophisticated deadpan comedy, elegant and clear martial arts character blocking, silent-film reaction pacing, social awkwardness humor, and restrained absurdity. 
-Visual quality: Arri Alexa cinematic texture, clear and stable facial micro-details, fine film grain, natural volumetric light.
-The core structure of this comedy segment must strictly follow: Epic expectation → Confident but completely incorrect understanding → Extremely ordinary truth → Authority figure adds the final touch.
-
-The logic of the humor absorbs the 'pretending to understand, polite response, listening but responding randomly' mechanism, translated entirely into ancient character behavior.
-
-II. Reference Control
-1. Character Anchors: @Image 1 strictly locks Character ID A (Sword Master Sister). @Image 2 strictly locks Character ID B (Junior Sister).
-2. Environment: Use uploaded background reference images to decide a unified environment DNA including terrain, architectural language, spatial scale, textures, vegetation, water, weather, and light direction. Do not mechanically copy; maintain a fresh, believable, and continuous environment.
-
-III. Character Settings
-Character A (Sword Master Sister): 25-30 years old, calm, restrained, solemn, serious to a fault. Her comedy point is not being frivolous but 'sincerely making a completely wrong interpretation.'
-Character B (Junior Sister): 20-25 years old, smart, quick-reacting, restrained but awareness of the absurdity. Her comedy point is 'realizing things are ridiculous faster than anyone else.'
-Supporting Characters: Enemy sect leader (solemn and proud), Elder master (steady and weighty), and disciples.
-
-IV. Core Storyboard (0-15s)
-0-5s | Full Shot: The enemy leader issues a solemn, fast-paced death challenge. The white-robed sister listens seriously and nods once. Everyone thinks the duel is set.
-5-10s | Medium Shot: The enemy is victorious in spirit. The sister naturally turns to the junior sister and asks, 'What did he just say?' Complete silence. She explains she only nodded because he spoke for so long, she had to give a response.
-10-15s | Close-up: The enemy is offended and asks if the duel counts. Sister says 'No, I was just indicating I was still listening.' Junior sister holds back laughter. The elder master adds solemnly, 'At least she's very polite.' Precise cut to black.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088785580557582338/img/YSwQxeEvoZpGFPCp.jpg" width="600" alt="Xianxia Comedy - Hearing a Sound">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=9213)**
-
-**Author:** [Soran](https://x.com/Soranlan) | **Source:** [Link](https://x.com/Soranlan/status/2088789326549205338) | **Published:** Aug 16, 2026
-
----
-### Wuxia Sword Array Logic Comedy
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A cinematic Wuxia comedy prompt where a junior sister uses literal logic to bypass a traditional sword array, leaving the opponent in despair.
-
-#### 📝 Prompt
-
-```
-Core Positioning: Cinematic realistic texture, pure classical Chinese Xianxia aesthetics. Overall tone: High-end deadpan comedy, elegant and clear Wuxia character blocking, visual misdirection, and escalating logic absurdity. Visual quality: Arri Alexa look, stable facial details, natural volumetric light.
-
-Comedy Structure: Solemn challenge → Absurd shortcut → Semantic counter-kill → Authority final blow.
-
-Narrative Logic:
-1. Serious Challenge: An enemy array master challenges them to break his basic sword array before fighting him.
-2. Absurd Shortcut: The junior sister simply walks around the edge of the array to stand next to him, asking to fight without breaking the array.
-3. Counter-kill: When called an 'evil cultivator' for cheating, she accepts it as a compliment. 
-4. Authority Blow: The master rules that the rule was to break the array to fight, but didn't forbid not fighting at all. She then sheaths her sword and quits.
-
-Character IDs and blocking are consistent with white/green Hanfu archetypes.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088767010599485440/img/pXU8NZucFiwBB55L.jpg" width="600" alt="Wuxia Sword Array Logic Comedy">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=9206)**
-
-**Author:** [Soran](https://x.com/Soranlan) | **Source:** [Link](https://x.com/Soranlan/status/2088770941048250619) | **Published:** Aug 15, 2026
-
----
-### Tokyo Penthouse Action-Comedy Cinematic
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A photorealistic action-comedy short film set in a luxury Tokyo penthouse, featuring dynamic character interactions and high-speed martial arts sequences.
-
-#### 📝 Prompt
-
-```
-Use exactly 2 uploaded image assets. image1 = Emma (adult female) as the sole and highest priority character identity reference. Strictly maintain her face, facial proportions, skin tone, hairstyle, body type, age, temperament, clothing, and accessories. image2 = Adult male as the sole and highest priority character identity reference. Strictly maintain his face, facial proportions, skin tone, hairstyle, glasses, body type, age, temperament, clothing, and accessories. Generate a 30-second, 16:9 widescreen, 4K, 24fps, hyper-realistic cinematic action-comedy short. Scene is the penthouse of a luxury Tokyo high-rise at night, with Tokyo Tower and city views visible through glass walls. Open living room, hallways, modern furniture, mixed lighting. The space must feel luxurious while allowing for high-speed action. No anime, game CG, cheap effects, or slow motion. Action must be real, fast, and cinematic. [Premise] A choreographed, consensual action-comedy performance between two adults. The mood is lighthearted and playful, showing no fear or coercion. A high-energy sequence where the female lead attacks and the male lead dodges, disrupting her rhythm with brief cheek kisses. [Relationship] Emma attacks throughout; the male lead only dodges, repositioning calmly and praising her skills in a teasing tone. His 'scoring' comes from brief, playful cheek kisses during rhythm gaps. There are 5 kiss points: the male initiates the first 4, while the 5th is a planned reversal where Emma accidentally kisses his cheek. The 5th point occurs because he intentionally places his cheek in her path, causing her to lose balance and land a brief kiss. Emma realizes this immediately but does not blush. He smirks triumphantly and says 'Gomenne~'. [Emma's Reaction] Emma MUST NEVER BLUSH. No shyness or romantic heart-fluttering. Her emotions: 1st: Shock/Confusion -> Annoyance; 2nd: Realization of teasing -> Angrier; 3rd: Provoked -> Fiercer gaze; 4th: Limit reached -> Calls him 'Kono hentai oyaji!'; 5th: Realizes the trap -> Annoyed/Toyed with, but never shy. Her expression remains sharp and aggressive. [Action Principles] Emma: Constant pressure, hooks, elbows, knees, high kicks, and spinning attacks. Male: No counter-strikes or heavy grappling. Dodging, retreating, and sudden cheek kisses only. He stays composed, saying 'Un, ii yo' and 'Soshitsu aru ne~' while moving. [Structure] Escalating cycle: Emma attacks -> Male dodges/praises -> Male kisses -> Emma gets angrier -> Repeat. Reversal finale: Emma attacks -> Male guides her route -> Emma accidentally kisses him -> Male shows 'plan success' expression -> 'Gomenne~' -> Escape. [Male Personality] Composed, playful, and annoying prankster. He admires her skills while dodging. Smirks after successful kisses. 5th kiss is his ultimate successful trap. [Dialogue] Only 6 specific Japanese phrases allowed. No other dialogue, narration, or subtitles. During attack: 'Un, ii yo' and 'Soshitsu aru ne~'. After 1st kiss: Emma: 'Eh!'. After 2nd kiss: Male: 'Suki ari'. After 3rd kiss: Male: 'Mmm~'. After 4th kiss: Emma: 'Kono hentai oyaji!'. After 5th kiss: Male: 'Gomenne~' (teasing/insincere). [Timeline] 0–4s: Emma attacks in living room, Male dodges composedly. 4–6s: 1st kiss on right cheek, push-in shot, Emma annoyed. 6–10s: Faster pace, Emma kicks, Male dodges praising her. 10–12s: 2nd kiss on left cheek, Male says 'Suki ari'. 12–16s: Intense pursuit to hallways, Male performs extreme dodges. 16–18s: 3rd kiss on turn, Male makes satisfaction sound. 18–22s: Max rage pursuit, Male guides her route. 22–24s: 4th kiss, Emma calls him pervert. 24–27s: Final high-speed chase, Male sets the trap. 27–29s: Reversal—Emma accidentally kisses his cheek during attack, Male smirks saying 'Gomenne~'. 29–30s: Male flees, Emma chases, cut to black. [Performance/Environment] Professional martial arts movement, no blushing. Realistic sounds of breath, wind, and clothing. High-end Tokyo penthouse setting. [Prohibitions] NO BLUSHING; no romantic vibes; no slow motion; no CG feel; no weapons; no subtitles; no mouth-to-mouth; no sincere apologies; no static 5th kiss. Action must be fast, professional, and cinematic.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088762265302601728/img/nXBrqrbNKaXPXgpe.jpg" width="600" alt="Tokyo Penthouse Action-Comedy Cinematic">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=9300)**
-
-**Author:** [TSUBAKI](https://x.com/AI__TSUBAKI) | **Source:** [Link](https://x.com/AI__TSUBAKI/status/2088764827321933848) | **Published:** Aug 15, 2026
-
----
-### Surreal Hotel Pool Giant Scale Mismatch
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An absurd surreal comedy scene prompt depicting a scale mismatch where a normal man enters a pool and steps on a giant submerged woman's face.
-
-#### 📝 Prompt
-
-```
-Photorealistic absurd surreal comedy scene in a small indoor hotel pool. Low-budget real-world environment: tiled pool, metal ladders, fluorescent lighting, depth markers on the wall, white plastic chairs, a vending machine in the background, and a few casually dressed people in swimwear watching.
-
-A giant beautiful young woman is submerged in the pool up to her neck and upper chest, as if her body is enormous and fills most of the pool. She has wet slicked-back dark hair, expressive eyes, realistic wet skin, and a slightly amused then surprised expression. Her face and shoulders are huge compared to the rest of the environment.
-
-A normal-sized adult man in swim trunks carefully walks down the pool ladder as if he is just entering the water. He holds a white cup in one hand. As he steps down, it becomes clear that because of the bizarre scale mismatch, he is stepping directly onto the giant woman’s face. He awkwardly steps on her nose and cheek while trying to keep balance.
-
-The woman looks confused and cross-eyed toward him. The man slips, grabs at her nose for balance, and then slides toward her open mouth. By the end of the shot, he accidentally tumbles into her mouth in a ridiculous surreal way. She looks shocked. The people in the background react with surprise and laughter.
-
-Camera style:
-Recorded like a viral smartphone clip. Slight handheld movement, but mostly stable from the poolside. Realistic phone-video look, mild compression, indoor echo, natural pool reflections, believable lighting, not cinematic. The scene should feel like a bizarre real video someone captured by accident.
-
-Tone:
-Absurd, funny, surreal, and visually shocking — not gory, not violent, not horror. The humor comes from the impossible scale and the dead-serious realism.
-
-Action timing:
-0–3s: Show the indoor pool and the giant woman occupying most of it. The man starts climbing down the ladder.
-3–7s: He continues stepping down and accidentally plants a foot on her face/nose.
-7–11s: He loses balance, grabs at her nose, and slips toward her mouth.
-11–15s: Her mouth opens in surprise, he tumbles into it, and the bystanders react.
-
-Important details:
-Keep the scale relationship very clear: giant woman, tiny man, normal-size background people. Keep the environment realistic and grounded. Preserve believable water interaction and reflections. No gore, no body horror, no extra limbs, no broken anatomy, no glitchy transitions.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088748810814025729/img/bqKA6X0gCt3UXqVh.jpg" width="600" alt="Surreal Hotel Pool Giant Scale Mismatch">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=9340)**
-
-**Author:** [Alpha Mom](https://x.com/YourAlphaMom) | **Source:** [Link](https://x.com/YourAlphaMom/status/2088749172543410403) | **Published:** Aug 15, 2026
-
----
-### Wuxia Emotional Drama "Trust and Dignity"
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A cinematic Wuxia drama prompt focused on trust and identity, where a senior sister stands by her junior despite external prejudice regarding her origin.
-
-#### 📝 Prompt
-
-```
-Seedance Prompt | Identity, Trust, and Dignity I. Core Positioning Cinematic realistic quality, pure ancient Chinese Xianxia aesthetics. The overall tone is a restrained and mature emotional drama, utilizing: High-end Wuxia character blocking, Arri Alexa cinematic texture, clear and stable facial micro-details, fine film grain, natural volumetric lighting. The core reversal revolves around: Identity, Trust, and Dignity. The outside world tries to define a person with a bloodline label. What the Sword Immortal Senior Sister truly does is refuse to let this label decide who the Junior Sister is. II. Reference Control 1. Character Identity Anchors: @Image 1 strictly locks Character ID A: Sword Immortal Senior Sister; @Image 2 strictly locks Character ID B: Junior Sister. 2. Environmental Reference: All newly uploaded background and location reference images determine a single environmental DNA. Before formal composition, silently deduce compatible: real terrain, architectural language, spatial scale, material era, vegetation, water bodies, weather, clouds, mountain mist, primary light direction, reflection relationships, overall color, atmospheric depth, and realistic movement paths. Re-plan into a unique, complete, and unified new space. Requirements: Do not mechanically copy single reference images; must maintain the same world identity; three shots share consistent geographical relationships; clear spatial logic; the visual world must be vivid, credible, and continuous. III. Environmental Principles The background must remain vivid but completely neutral in the narrative. Elements like flowing water, moving mist, swaying plants, shifting clouds, and reflections should operate naturally. Distant ambient sounds should exist. Hard requirements: Background cannot create plot, drive reversals, or resolve character conflicts; it only provides a sense of real spatial existence. IV. Character Settings Character ID A | Sword Immortal Senior Sister: Same as @Image 1. 25–30 year old East Asian female, oval face, fair skin, dark almond eyes, black long hair partially tied with a white jade hairpin, tall and slender. Fixed outfit: White embroidered silk Hanfu, silver waist seal, jade pendant, white cloth boots, a single silver longsword. Temperament: Calm, restrained, precise, concise speech, subtle emotional expression. Respects the other's right to choose even when protecting them. Character ID B | Junior Sister: Same as @Image 2. 20–25 year old East Asian female, round and lively face, black hair in braids, petite build. Fixed outfit: Blue-green linen Hanfu, dark belt, wooden hairpin, black cloth shoes, a single dark steel sword. Temperament: Smart, sensitive, dignified. Instinctively retreats when identity is revealed. Needs respect and trust, not decisions made for her. Supporting Characters: 1. Enemy Swordsman (defeated, kneeling, provides external pressure/labels); 2. Elderly Master (secondary witness, silent, signals approval by stepping aside); 3. Two Disciples (background witnesses, blurred, no scene-stealing). V. Core Narrative Logic Beat 1: Enemy reveals the alien mark on Junior Sister's wrist. The world tries to define her by bloodline. Junior Sister instinctively retreats half a step. Beat 2: Senior Sister draws her sword, appearing to interrogate or judge, but instead stands by Junior Sister's side. Beat 3: She says: 'I protect her, not her bloodline.' She gives the choice back to Junior Sister. Junior Sister chooses to return to her side, confirming identity and trust through action. VI. Storyboard Script 0–5s | Wide or Long Shot: Choose a reasonable confrontation area based on reference images. Enemy points at the mark: 'She bears an alien pulse, you still acknowledge her?' Junior Sister retreats. Senior Sister slowly draws sword. Shot requirements: Establish stable confrontation, make the mark visible, show the weight of drawing the sword. 5–10s | Medium or Cowboy Shot: Senior Sister walks past Junior Sister, plants the silver sword point-down between the enemy and Junior Sister, and stands beside her. She says calmly: 'I already knew.' Enemy: 'Knew and still protect her?' She replies: 'I protect her, not her bloodline.' Shot requirements: The sword planting must be a clear declaration of stance; move should be calm and steady, not melodramatic. 10–15s | Close-up or Extreme Close-up: Junior Sister asks: 'You don't ask why I hid it from you?' Senior Sister looks her in the eye and says: 'I'll ask.' (pause) 'But when you want to tell me.' She gestures to the path: 'Whether to go back or not, you choose.' Junior Sister chooses to step back to her side: 'Then let's go back.' Senior Sister shows a tiny, relieved smile and sheathes the sword. The Master steps aside to open the path. Shot requirements: The dialogue must be stable; focus on the choice and the subtle smile. VII. Character Performance Requirements Senior Sister: Restrained, emotions through eyes and tiny movements, concise speech, sword drawing as a stance, not a threat. Junior Sister: Hurt by exposure, instinctive retreat, not hysterical, deliberate choice to return. Enemy: Represents external prejudice, aggressive despite being defeated. Master: Silent, heavy presence, approval through movement. VIII. Action and Blocking Requirements Clear, simple, readable actions: pointing to mark, retreating, drawing sword, walking past, planting sword, gesturing choice, stepping back, sheathing sword. Principle: Spatial logic, no exaggerated melodrama, actions serve the relationship and themes of identity, trust, and dignity. IX. Cinematography Requirements 16:9 landscape, three continuous clear shots, Arri Alexa look, stable camera. Wide for confrontation, medium for stance, close-up for relationship. Natural micro-details, film grain, volumetric light, stable geographical relationships with natural parallax. X. Sound Requirements Native synchronized Mandarin dialogue, precise lip-sync, natural ambient sounds (wind, water). Minimalist background music. Key dialogue anchors included. XI. Technical Specifications Duration: 15s. Aspect Ratio: 16:9. Character and background consistency throughout. Utilizing Seedance 2.0 features for image/audio/video reference and performance control. XII. Negative Standard negatives: blurry, low quality, deformed, inconsistent character, changing clothes, face morphing, background shift, etc.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088748465606037505/img/o9I7Ne3evwpJPKFI.jpg" width="600" alt="Wuxia Emotional Drama "Trust and Dignity"">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=9208)**
-
-**Author:** [Soran](https://x.com/Soranlan) | **Source:** [Link](https://x.com/Soranlan/status/2088748532777763250) | **Published:** Aug 15, 2026
-
----
-### Cinematic Anime Motocross Track
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An anime-style video prompt featuring a muddy motocross track under dark, overcast skies with realistic terrain physics.
-
-#### 📝 Prompt
-
-```
-Cinematic anime short film clip, 15 seconds. Muddy motocross track, dark overcast cloudy sky, wet churned up dirt everywhere, deep ruts in the track, no crowd just raw open terrain.
-
-CHARACTER: Use uploaded character sheet as strict visual reference.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088672220532879360/img/lIcQ_o_1HHmZmkhj.jpg" width="600" alt="Cinematic Anime Motocross Track">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=9193)**
-
-**Author:** [TechieSA](https://x.com/TechieBySA) | **Source:** [Link](https://x.com/TechieBySA/status/2088672323142332453) | **Published:** Aug 15, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -4373,6 +4421,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-22T01:30:03.812Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-23T01:38:24.826Z</sub>
 
 </div>
