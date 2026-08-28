@@ -68,9 +68,9 @@ Warum unsere Galerie nutzen?
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **6187** |
+| 📝 Gesamtanzahl Prompts | **6205** |
 | ⭐ Ausgewählte Prompts | **6** |
-| 🔄 Zuletzt aktualisiert | **2026-08-27** |
+| 🔄 Zuletzt aktualisiert | **2026-08-28** |
 
 ---
 
@@ -361,6 +361,509 @@ Ultra-realistisch, inspiriert von der Energie von Fast and Furious, fotorealisti
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Minimalistisches Fotostudio zur Goldenen Stunde
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein cineastischer Video-Prompt für ein minimalistisches Fotostudio-Setting, der sich auf Beleuchtung, Atmosphäre und Details der professionellen Ausrüstung konzentriert.
+
+#### 📝 Prompt
+
+```
+Ultrarealistische cineastische Szene eines modernen, minimalistischen Fotostudios während der Goldenen Stunde. Ein eleganter Laptop steht mittig auf einem großen, sauberen weißen Tisch, daneben ein klares Glas Wasser. Große, bodentiefe Fenster geben den Blick auf einen warm leuchtenden Sonnenuntergang und sanfte Wolken im Hintergrund frei. Professionelle Softboxen und ein großer silberner Reflexionsschirm sind um das Setup herum sichtbar und erzeugen eine authentische Behind-the-Scenes-Studioatmosphäre. Warmes Sonnenlicht fällt durch die Fenster und wirft lange, dramatische Schatten sowie wunderschöne Reflexionen auf die Tischoberfläche. Hochwertige kommerzielle Fotoästhetik, elegante Komposition, realistische Texturen, natürliches warmes Color Grading, weiche cineastische Beleuchtung, geringe Schärfentiefe, dezente Lens Flares, HDR, ultra-detailliert, fotorealistisch, 8K, professionelle Kameraqualität.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092845721666080768/img/ez9JfUdpf43WeAAm.jpg" width="600" alt="Minimalistisches Fotostudio zur Goldenen Stunde">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9874)**
+
+**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Quelle:** [Link](https://x.com/AIwithMinal/status/2092845782982357334) | **Veröffentlicht:** Aug 27, 2026
+
+---
+### Anime-Kochvideo: Sauerteig-Sandwich
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein 15-sekündiger Prompt im Anime-Stil für ein Kochvideo, das sich auf die Zubereitung eines Pesto-Sauerteig-Sandwichs mit detaillierten Lebensmitteltexturen konzentriert.
+
+#### 📝 Prompt
+
+```
+Erstelle ein 15-sekündiges filmisches Anime-/Webtoon-Kochvideo mit einer fröhlichen jungen Frau mit kurzem dunklem Haar, die eine cremefarbene Schürze über einem salbeigrünen Hemd trägt und in einer hellen, rustikalen Küche mit Holzarbeitsplatten, hängenden Pflanzen und warmem Morgenlicht kocht.
+
+Szene 1 — 0–3s: Nahaufnahme, wie sie Knoblauchbutter und Pesto auf zwei Scheiben knusprig getoastetes Sauerteigbrot streicht, mit fließenden, befriedigenden Handbewegungen.
+
+Szene 2 — 3–6s: Halbnahaufnahme, wie sie fröhlich Salat, saftige Tomaten, geschmolzenen Käse, knuspriges Hähnchen und Avocado mit einer Holzzange auf das Toastbrot schichtet.
+
+Szene 3 — 6–9s: Nahaufnahme eines Spiegeleis, das aus einer kleinen Pfanne auf das hoch aufgetürmte Sandwich gleitet, gefolgt davon, wie sie die zweite Toastscheibe oben auflegt.
+
+Szene 4 — 9–12s: Dynamische Nahaufnahme, wie sie das Sandwich mit einem Kochmesser diagonal durchschneidet; der Käse zieht sich leicht, während sie beide Hälften in die Kamera hebt und die farbenfrohen Schichten enthüllt.
+
+Szene 5 — 12–15s: Gemütliche Halbnahaufnahme, wie sie einen großen Bissen nimmt, die Augen schließt und mit einem entzückten Ausdruck lächelt, während warmes Sonnenlicht die Küche erfüllt.
+
+Stil: Hochwertige 2D-Anime-/Webtoon-Ästhetik, ausdrucksstarke Charakteranimation, klare Linienführung, sanfte Pastellfarben, warme filmische Beleuchtung, gemütliche Atmosphäre, detaillierte Lebensmitteltexturen, flüssige Kamerabewegungen, appetitliche Nahaufnahmen, natürliche Bewegungsabläufe, konsistentes Charakterdesign.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092817988839993344/img/IG5ebRBcnSBSl2_U.jpg" width="600" alt="Anime-Kochvideo: Sauerteig-Sandwich">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9866)**
+
+**Autor:** [Sairah](https://x.com/Sairah_0) | **Quelle:** [Link](https://x.com/Sairah_0/status/2092818081039179894) | **Veröffentlicht:** Aug 27, 2026
+
+---
+### Cyberpunk Anime Straßenkampf
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein extrem detaillierter 15-sekündiger Kampf-Prompt für Seedance 2.0, der einen energiegeladenen Kampf zwischen zwei stilisierten Charakteren in einer dichten urbanen Umgebung zeigt.
+
+#### 📝 Prompt
+
+```
+Sorgen Sie für Konsistenz bei Gesichtern, Frisuren, Kleidung, Körpertypen, Farbschemata, Temperament und der bestehenden Beziehung der beiden jugendlichen Charaktere ab dem ersten Frame. Tauschen Sie weder Gesichter noch Kleidung oder Charaktere aus. Linker Charakter: Junge mit schwarzen Haaren, rot karierter Jacke, weißem T-Shirt, dunkler Hose; Kampfstil geprägt von Kraft, Unterdrückung und hartem Nahkampf. Rechter Charakter: Junge mit silber-blauem Kurzhaarschnitt, schwarz-weißer High-Tech-Jacke, dunkler Hose, rot-weißen Turnschuhen; Kampfstil geprägt von schnellen Sprints, Agilität und blauer Energieverstärkung. Die Szene ist eine moderne Stadtstraße mit dichten Hochhäusern, chinesischen Leuchtreklamen im Hongkong-Stil, roten Taxis, dichten Häuserfassaden und einer starken Perspektive. Der Gesamtstil ist ein hochklassiger, actiongeladener Anime / Anime-Film-Look / energiegeladener Kampf-PV-Stil. Das gesamte Video ist ein 15-sekündiger, hochintensiver Kampf, der sofort in der ersten Sekunde beginnt, ohne Dialoge, ohne Untertitel, ohne Logo, ohne UI, ohne Comedy. Kernanforderungen: 15 Sekunden, 16:9, sofortiger Ausbruch in der ersten Sekunde, extrem schnelle Bewegungen, High-Speed-Kameraführung, übertriebene Spezialeffekte, starkes Geschwindigkeitsgefühl, offensichtliche Zerstörung der Umgebung, Konzentration auf den Kampf, kein langatmiges Vorgeplänkel, Bewegungen müssen klar erkennbar sein, Effekte dürfen die Aktionen nicht vollständig verdecken. 15-sekündiges Action-Design: 0-3s: Direkter Ausbruch ab dem ersten Frame. Der silber-blau haarige Charakter schlägt mit gewaltigem blauen Strom und hellem Energiewind zu und trifft den schwarzhaarigen Charakter frontal. Der schwarzhaarige Charakter weicht nicht aus, blockt mit der Schulter, der linke Arm hält dem Aufprall stand, die rechte Faust kontert. Eine riesige blau-weiße Schockwelle explodiert beim Kontakt, Wasser, Kies, weißer Dampf und Trümmer fliegen gleichzeitig umher. Ein rotes Taxi in der Nähe vibriert heftig, chinesische Schilder schwanken wild, Reflexionen in den Fenstern leuchten sofort auf. Die Kamera startet nah an der Faust und umkreist das Paar dann mit hoher Geschwindigkeit wie eine FPV-Drohne. 3-6s: Der schwarzhaarige Charakter übt massiven Nahdruck aus, kontinuierliche Vorwärtsangriffe: gerader Schlag, Ellbogenstoß, Kniestöße, Schulterrempler. Jeder Treffer erzeugt weißen explosiven Wind und kurze Überschallknall-Geräusche. Der silber-blaue Charakter führt Hochgeschwindigkeits-Paraden, Ausweichmanöver und Seitwärtsgleiten aus, wobei blaue Nachbilder und Lichtbögen unter den Füßen explodieren. Der schwarzhaarige Charakter schlägt den silber-blauen Charakter in ein rotes Taxi, wodurch die Tür verbeult. Der silber-blaue Charakter stößt sich vom Auto ab, fliegt über den Kopf des schwarzhaarigen Charakters hinweg, hinterlässt eine lange blaue Energiespur und landet mit einem Drehkick, der einen riesigen blauen Lichtbogen aussendet. 6-9s: Der silber-blaue Charakter beginnt mit einem Hochgeschwindigkeits-Gegenangriff. Er geht in den Burst-Modus über und greift kontinuierlich mit hoher Geschwindigkeit an: superschnelle gerade Schläge, kurze Ellbogenstöße, Kniestöße, kraftvolle Energieschläge. Blaue Energiespuren wie flüssige Blitze umhüllen den Körper. Der schwarzhaarige Charakter verteidigt sich kontinuierlich, wird zurückgedrängt, die Schuhe hinterlassen Schleifspuren auf dem Boden. Ein schwerer Schlag befördert den schwarzhaarigen Charakter in Straßeneinrichtungen, Steine, Werbetafelfragmente und Staub explodieren. Die Kamera gleitet mit hoher Geschwindigkeit auf Bodenhöhe und steigt dann scharf durch fliegende Fragmente und Energienachbilder auf. 9-12s: Der schwarzhaarige Charakter drängt mit Gewalt zurück. Er widersteht einer Angriffswelle, greift das Handgelenk des silber-blauen Charakters und bricht den Hochgeschwindigkeitsrhythmus. Der Boden explodiert im Moment des Stopps, die Luft wird zerrissen. Der schwarzhaarige Charakter verbindet sofort schwere Nahkampf-Kombos: Bauchschlag, Uppercut, Ellbogenstoß, schwerer Frontalschlag, der den Gegner wegbläst. Der silber-blaue Charakter wird weggeschleudert, prallt gegen Straßenschilder oder Autokarosserien, Metall verbiegt sich, Glas zersplittert, Funken, blaue Partikel und Fragmente explodieren. Deutliche Zerstörungsspuren auf der gesamten Straße. 12-15s: Finale. Der silber-blaue Charakter prallt von einer Wand oder einem Dach ab, blaue Energie bricht vollständig aus. Der schwarzhaarige Charakter bricht ebenfalls voll aus. Beide liefern sich eine letzte Runde ultra-schneller Schläge in der Mitte der Straße: kontinuierliche gerade Schläge, Kreuzparaden, Drehkicks, Kniestöße, schwere Frontalschläge. Jede Kollision erzeugt riesige blau-weiße Blitze, Energieschockwellen und Windlinien. Der Boden reißt auf, Wasser spritzt, das Taxi vibriert, Schilder schwanken wild, die ganze Straße wird von der Schockwelle erfasst. Schließlich nutzt der schwarzhaarige Charakter eine Lücke, ein schwerer Frontalschlag schleudert den silber-blauen Charakter weg, der eine lange blaue Energiespur hinter sich herzieht. Doch der silber-blaue Charakter landet schließlich auf einem Knie, die Hand auf dem Boden, nicht vollständig besiegt. Die Kamera fährt schnell zwischen beiden hin und her, zeigt die Straße in Trümmern, verbleibende Lichtbögen, schwebende Partikel und schwankende Schilder, und endet in einer spannungsgeladenen Konfrontation. Effekte: blauer Hochenergiewind, blau-weiße Lichtbögen, riesige Schockwellen, Energiespuren, Nachbilder, Partikel, luftzerreißende Linien, Bodenrisse, Wasser- und Kies-Spritzer, Autoverformung, Glasbruch, schwankende Schilder. Kamera: High-Speed-Follow, Orbit, Close-up-Push, Fly-through, Low-Angle-Up-Shot, plötzliches Zurückziehen und Hineinzoomen, Single-Take-Gefühl, immer dem Kampfzentrum folgen, keine unruhigen Schnitte, Aktionen klar halten.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092807598437531648/img/4VJ_Tv5OfNFW_FBP.jpg" width="600" alt="Cyberpunk Anime Straßenkampf">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9879)**
+
+**Autor:** [澜森](https://x.com/lansenai) | **Quelle:** [Link](https://x.com/lansenai/status/2092807747020689580) | **Veröffentlicht:** Aug 27, 2026
+
+---
+### Transformation vom Skorpion zum Luxus-Stiletto
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein magischer Fashion-Transformations-Prompt, bei dem sich ein verzierter Skorpion aus Obsidian und Rubinen auf einem Marmorboden in einen luxuriösen High-Heel verwandelt.
+
+#### 📝 Prompt
+
+```
+Eine vertikale Nahaufnahme in 4K-Auflösung, die eine magische Verwandlung darstellt. Der nackte Fuß einer Frau tritt auf einen großen, verzierten Skorpion aus poliertem schwarzem Obsidian, dunkelroten Rubinen und goldenen Metallakzenten, der auf einem polierten Marmorboden ruht. Sobald ihr Fuß ihn berührt, verwandelt sich der metallische Rubin-Skorpion nahtlos, legt sich um ihren Fuß und transformiert sich in einen luxuriösen High-Heel mit Fußkettchen. Der Schwanz des Skorpions krümmt sich um ihren Knöchel zu einem mit Edelsteinen besetzten Riemen, seine Scheren bilden die spitze Schuhkappe und sein Körper formt einen eleganten, juwelenbesetzten Stiletto-Absatz. Kinoreife Beleuchtung, fotorealistisch, 3D-Render, Luxus-Fashion-Ästhetik, satte Tiefenschärfe, helles Sonnenlicht, das durch einen prachtvollen Gewächshauspalast im Hintergrund fällt, 8k ultra-detailliert.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092783461610209280/img/ccdqQbgi9n08TAMS.jpg" width="600" alt="Transformation vom Skorpion zum Luxus-Stiletto">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9870)**
+
+**Autor:** [Julia](https://x.com/juliaevee) | **Quelle:** [Link](https://x.com/juliaevee/status/2092783528887083290) | **Veröffentlicht:** Aug 27, 2026
+
+---
+### Nostalgischer Highschool-Vlog
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Ein hochdetaillierter Video-Prompt zur Erstellung eines realistischen Vlogs im Heimvideo-Stil, der ein japanisches Highschool-Mädchen zeigt, mit Fokus auf natürlichen Gesichtsausdrücken und authentischer Schulumgebung.
+
+#### 📝 Prompt
+
+```
+Erstelle einen persönlichen Vlog im Heimvideo-Stil über einen alltäglichen Schultag eines süßen japanischen Highschool-Mädchens, gefilmt von ihrer besten Freundin aus derselben Klasse. Hyperrealistisch. Bestehend aus einer Montage von etwa 10 kurzen Einstellungen (jeweils 2-3 Sekunden) mit harten Schnitten. Jede Einstellung sollte an einem anderen Ort oder in einem anderen Moment spielen, wobei jede Einstellung ein kleines Ereignis darstellt. Keine Übergangseffekte oder Überblendungen. Da es von ihrer engsten Freundin gefilmt wird, ist sie völlig entspannt, lächelt in die Kamera, zeigt Dinge und spricht (Sprache ist nicht hörbar). Keine Posen oder Schauspielerei, sondern natürliche Ausdrücke, die nur einer besten Freundin gegenüber gezeigt werden. Hauptperson: Dasselbe japanische Highschool-Mädchen in allen Einstellungen. Keine auffällige perfekte Schönheit, sondern jemand mit einem freundlichen Gesicht, dessen Lächeln ihr süßestes Merkmal ist. Realistische Hauttextur, kein Make-up, ein leichtes Erröten auf den Wangen. Wenn sie lächelt, werden ihre Augen zu Halbmonden und ein leicht schiefer Zahn wird sichtbar. Kurzes schwarzes Haar in einem lockeren Bob, befestigt mit einer kleinen silbernen Haarnadel über dem rechten Ohr. Sie trägt ein weißes kurzärmeliges Hemd mit offenem Kragen, ein dunkelrotes Band, einen grauen knielangen Faltenrock, weiße Socken, Schulschuhe (weiße Sneaker für draußen) und eine Schultertasche. Gesichtszüge, Körpertyp, Frisur, Uniform und Habseligkeiten müssen von Anfang bis Ende absolut konsistent sein. Orte: Eine typische öffentliche Highschool von einem Sommermorgen bis zum Abend. Eingangsbereich, Klassenzimmer mit Fensterplätzen, Flur, Schulkiosk, Innenhof, sonnendurchflutetes Klassenzimmer nach der Schule, Schultor. Eine echte Schule mit einem Gefühl für den Alltag. Andere Schüler im Hintergrund wirken natürlich. Keine Werbung oder erkennbare Marken. Kamera/Visueller Stil: Allen Einstellungen gemeinsam: eine handgeführte alte Digitalkamera, gehalten von der Freundin. Natürliches Wackeln, unperfekter Bildausschnitt, gelegentliche Autofokus-Änderungen, Belichtungsschwankungen, weiche Bilddetails, leichte Bewegungsunschärfe, subtiles digitales Rauschen, leicht entsättigte Farben und unperfekter Weißabgleich. Keine Stabilisierung, kein Gimbal, keine Drohne, keine Zeitlupe, keine filmische Beleuchtung oder kommerzielles Color Grading. Einstellungsliste (in der Reihenfolge, jeweils 2-3 Sekunden, nur harte Schnitte): 1. Pause. Sitzt rückwärts auf einem Stuhl am vorderen Pult, gestikuliert und sagt etwas (unhörbar). 2. Kauft zwei Stücke Brot im Kiosk und bietet eines der Linse an. 3. Mittagspause auf einer Bank im Innenhof, blinzelt im gesprenkelten Sonnenlicht, während sie in das Brot beißt. 4. Lehnt an einer Flurwand und lacht zu sehr, wischt sich mit einem Finger den Augenwinkel ab. 5. Aufräumzeit. Macht eine alberne Pose mit einem Besen, bemerkt jemanden am Ende des Flurs und fängt hastig an, ernsthaft zu fegen. 6. Wäscht sich die Hände am Wasserhahn, tut so, als würde sie mit nassen Fingerspitzen Wasser in die Kamera spritzen und lacht. 7. Nach der Schule im sonnendurchfluteten Klassenzimmer. Aufgenommen, während sie mit dem Kopf auf dem Pult ein Nickerchen macht, wacht mit einem schüchternen Lächeln auf. 8. Zeichnet ein kleines Gekritzel in die Ecke der Tafel, dreht sich um, grinst und zeigt ihren schiefen Zahn, dann wischt sie es sofort weg. 9. Wechselt am Eingang in ihre Sneaker, während sie redet und lacht. 10. Dreht sich am Schultor im Sonnenuntergang um und winkt mit beiden Händen ausgiebig. Mitten drin schneidet die Aufnahme plötzlich auf Schwarz. Kein Ausblenden. Physischer Realismus: Behalte in allen Einstellungen eine plausible Physik der realen Welt bei. Hände, Finger, Füße, Uniform, Haare, Brot, Besen, Notizbücher und Schultaschen verhalten sich natürlich. Keine zusätzlichen Finger, verschmolzene Hände, duplizierte Gliedmaßen, verzerrte Anatomie, schwebende Objekte, verschwindende Gegenstände oder plötzliche Deformationen. Die Füße bleiben korrekt mit dem Boden verbunden. Konsistenz der Person zwischen den Einstellungen wahren und die Beleuchtung entwickelt sich natürlich von morgens über mittags bis zum Sonnenuntergang. Audio: Nur natürliche Umgebungsgeräusche. Die Umgebungsgeräusche wechseln ebenfalls mit jeder Einstellung. Entferntes Schulklingeln, das Geräusch von Schulschuhen, Klassenzimmer-Geplapper, das Treiben im Kiosk, Zikaden, das Geräusch des Besens, entfernte Rufe von Clubaktivitäten sowie Stimmen und Lachen, die nicht als Wörter hörbar sind. Keine Musik, keine Erzählung, keine künstlichen Soundeffekte. Endatmosphäre: Ein Video, das sich emotional anfühlt, wenn man darauf zurückblickt, auch wenn es nur eine Abfolge von 12 beiläufigen Momenten ist. Keine kommerzielle Arbeit, kein Modefilm, kein Musikvideo. Eine Aufzeichnung eines alltäglichen Schultages, der niemals zurückkehren kann, bewahrt nur auf der Kamera einer Klassenkameradin und besten Freundin. Sorglos, mitten in der Jugend, nostalgisch, warm, improvisiert und zutiefst menschlich. Priorisiere das Gefühl, dass die Kamera einfach zufällig dort war.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092686546298433536/img/tcrwpv0-K5VjzOn_.jpg" width="600" alt="Nostalgischer Highschool-Vlog">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9884)**
+
+**Autor:** [妖精アーヤさん](https://x.com/aiehon_aya) | **Quelle:** [Link](https://x.com/aiehon_aya/status/2092733830801109291) | **Veröffentlicht:** Aug 26, 2026
+
+---
+### Avantgardistisches Pixel-Finger-Porträt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein einzigartiger, modeorientierter Video-Prompt mit einem Model in einem schwarzen Kleid, das von surrealen, pixeligen Elementen umgeben ist, die digitale Aufmerksamkeit symbolisieren.
+
+#### 📝 Prompt
+
+```
+Avantgardistisches Mode-Porträt eines Models in einem schwarzen Kleid, umgeben von pixeligen, zeigenden Fingern, die digitale Beurteilung oder Aufmerksamkeit symbolisieren.
+```
+
+<img src="https://pbs.twimg.com/media/HQrEmS0XIAIcOcc.jpg" width="600" alt="Avantgardistisches Pixel-Finger-Porträt">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9876)**
+
+**Autor:** [AIrina (Virtual Media Net)](https://x.com/airina_xyz) | **Quelle:** [Link](https://x.com/airina_xyz/status/2092701039044554816) | **Veröffentlicht:** Aug 26, 2026
+
+---
+### Die Wasserfall-Szene aus Der letzte Mohikaner
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein strukturierter filmischer Szenen-Prompt, der Charaktere aus Der letzte Mohikaner zeigt, wie sie sich hinter einem Wasserfall verstecken, während Krieger in der Nähe suchen.
+
+#### 📝 Prompt
+
+```
+Charaktere:
+* Hawkeye — rauer Grenzgänger mit schulterlangem dunklem Haar, Wildlederkleidung, Langgewehr.
+* Cora Munro — junge Frau in einem blassen Kolonialkleid.
+* Uncas — athletischer indianischer Krieger mit geflochtenem Haar.
+* Huron-Krieger — mehrere Jäger mit Speeren.
+
+Szene: Später Nachmittag neben einem tosenden Wasserfall tief im Wald. Hawkeye, Cora und Uncas kauern lautlos hinter Felsen in einer flachen Höhle, die durch das herabstürzende Wasser verborgen ist. Draußen suchen mehrere Huron-Krieger vorsichtig das Flussufer ab, bemerken jedoch den versteckten Eingang nicht. Wasser spritzt über die Felsen, während alle vollkommen still verharren und warten, bis der Suchtrupp langsam flussabwärts verschwindet. Keine Musik. Achten Sie darauf, die räumliche Konsistenz zu wahren und die 180-Grad-Regel der Kinematografie zu respektieren.
+```
+
+<img src="https://pbs.twimg.com/media/HQqypPlWIAA6wD9.jpg" width="600" alt="Die Wasserfall-Szene aus Der letzte Mohikaner">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9872)**
+
+**Autor:** [AIrina (Virtual Media Net)](https://x.com/airina_xyz) | **Quelle:** [Link](https://x.com/airina_xyz/status/2092681296430432645) | **Veröffentlicht:** Aug 26, 2026
+
+---
+### Französischer Comic-Krimi mit Oktopus-Detektiv
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein animierter Krimi-Comedy-Prompt im französischen Ligne-claire-Comicstil mit einem Oktopus-Detektiv in einem Unterwasserbüro.
+
+#### 📝 Prompt
+
+```
+Montage, animierte Krimi-Comedy mit mehreren Einstellungen, keine statische Kamera oder Einzelschnitte, französische Ligne-claire-Comic-Animation, klare präzise Konturen, flache elegante Farben, minimale Schattierungen, charmantes europäisches grafisches Storytelling, klare architektonische Hintergründe, ausdrucksstarke zurückhaltende Gesichter, funkelnde Unterwasser-Lichtbrechungen, Farbpalette aus Türkis, Koralle, Rot, Creme und Marineblau
+
+In einem gläsernen Detektivbüro auf dem Boden eines farbenfrohen tropischen Meeres sitzt ein eleganter Oktopus-Detektiv in einem winzigen Trenchcoat hinter einem Schreibtisch. Ihm gegenüber schwebt ein nervöser Kugelfisch als Klient, während ein gelangweilter Seepferdchen-Assistent einen Notizblock hält. Vor den riesigen Fenstern gleiten Fischschwärme zwischen Korallentürmen hindurch. Eine verdächtige Krabbe versteckt sich unter dem Schreibtisch.
+
+Einstellung 1: Halbnahaufnahme mit einem sanften seitlichen Dolly-Schwenk, der Oktopus-Detektiv faltet vier Paar Tentakel selbstbewusst zusammen. Er sagt: „Kein Rätsel ist zu kompliziert für Monsieur Octave.“
+
+Einstellung 2: Nahaufnahme, der nervöse Kugelfisch bläht sich vor Aufregung leicht auf und sagt: „Jemand hat meine unbezahlbare Perle gestohlen!“
+
+Einstellung 3: Totale, der Oktopus erhebt sich dramatisch und nutzt sechs Tentakel gleichzeitig, um den Raum mit Lupen zu untersuchen, während der Seepferdchen-Assistent Notizen macht.
+
+Einstellung 4: Mittlere Kamerafahrt, der Detektiv folgt einer Spur winziger Kratzer auf dem Boden direkt zu der Krabbe, die sich unter seinem eigenen Schreibtisch versteckt. Er flüstert: „Der Täter ist ganz in der Nähe.“
+
+Einstellung 5: Detailaufnahme, die Krabbe öffnet eine Schere – die fehlende Perle liegt darin – und versteckt sie dann schnell hinter ihrem Rücken.
+
+Einstellung 6: Totale, alle starren schweigend auf die Krabbe. Die Krabbe deutet mit einer Schere auf einen vorbeischwimmenden Fisch vor dem Fenster. Der Detektiv seufzt: „Ein ambitionierter Verteidigungsversuch.“
+```
+
+<img src="https://pbs.twimg.com/media/HQp5pO7XIAA78vt.jpg" width="600" alt="Französischer Comic-Krimi mit Oktopus-Detektiv">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9864)**
+
+**Autor:** [AIrina (Virtual Media Net)](https://x.com/airina_xyz) | **Quelle:** [Link](https://x.com/airina_xyz/status/2092618583490666962) | **Veröffentlicht:** Aug 26, 2026
+
+---
+### Video einer Interaktion zwischen Frau und Katze mit „Katzenhieb“
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Ein realistischer Video-Prompt für Seedance 2.5, der eine verspielte Interaktion zwischen einer Frau und einer Katze darstellt, die in einem wirkungsvollen, von der Kamera eingefangenen „Katzenhieb“ endet.
+
+#### 📝 Prompt
+
+```
+Japanische Frau. Die Katze beginnt plötzlich wild zu agieren, und die Frau verliert die Kontrolle, woraufhin beide nach hinten fallen. Die Kamera zoomt schnell auf die Gesichter der Katze und der Frau. In dieser Szene reibt die Frau ihr Gesicht an der Katze. Die Frau schaut in die Kamera und küsst die Katze auf die Wange. Die Katze ist etwas genervt. Die Katze bemerkt die Kamera, wird wütend und versetzt der Linse einen „Katzenhieb“. Der Katzenhieb wird vollständig durchgezogen. Ein wirkungsvolles Video mit Handkamera-Wackeln, als wäre es von einem Amateur gefilmt worden. Keine Hintergrundmusik.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092604477157343233/img/eJsfjHUY9Tv9jLT_.jpg" width="600" alt="Video einer Interaktion zwischen Frau und Katze mit „Katzenhieb“">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9882)**
+
+**Autor:** [h64g](https://x.com/h64g_) | **Quelle:** [Link](https://x.com/h64g_/status/2092605211412205874) | **Veröffentlicht:** Aug 26, 2026
+
+---
+### Chinesischer Deadpan-Comedy-Kurzfilm
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein kreatives Prompt-Design für einen Sketch im chinesischen Deadpan-Comedy-Stil, mit mehreren Charakteren sowie detaillierten Anweisungen für physische Interaktionen und realistische Reaktionen auf unerwartete Ereignisse in alltäglichen Umgebungen.
+
+#### 📝 Prompt
+
+```
+[Stil] Chinesischer lokaler schwarzer Humor, Kurzfilm (Chinese Deadpan Comedy), fotorealistisches Live-Action, Textur eines alltäglichen Online-Kurzfilms, leicht handgeführte Kamera, echte physische Bewegungen, 4K HD [Dauer] 30 Sekunden, direkte Ausgabe [Bildformat] 16:9 Breitbild [Sprache] Vollständige chinesische Originaldialoge, präzises chinesisches Lip-Sync; keine Erzählerstimme, keine Untertitel [Szenen] Alter Innenhof in einer nordchinesischen Kreisstadt → Retro-Dessertladen in einer kleinen chinesischen Stadt → Flur eines altmodischen Gästehauses in einer chinesischen Kreisstadt [Charaktere] @Image1 namens 'Mo Ning', zuständig für die Erklärungen vor der Kamera; @Image2 namens 'A Lan', eine Kundin im Dessertladen; @Image3 namens 'Auntie Wang', A Lans Begleiterin [Regeln für Referenzbilder] Gesichter, Körperformen, Frisuren, Make-up, Kleidung und Accessoires aller drei Charaktere müssen strikt von den jeweiligen Referenzbildern übernommen werden, ohne Ergänzungen, Streichungen oder Änderungen an den Erscheinungsbildern. Die Charaktere müssen beim ersten Erscheinen exakt den Referenzbildern entsprechen; Gesichtertausch, Outfitwechsel oder Änderungen des Körperbaus sind bei Szenenübergängen nicht gestattet. [Kerninhalt] Mo Ning erklärt der Kamera: Um zu beurteilen, ob ein Video KI-generiert ist, sollte man nicht nur auf die Auflösung achten, sondern auf Tierbewegungen, physikalische Effekte, Charakterreaktionen und räumliche Beziehungen. Während sie erklärt, 'demonstriert' sie dies mit zunehmend absurden Aktionen vor Ort, bleibt aber fest davon überzeugt, dass das Problem beim KI-Video liegt, nicht bei ihr selbst. [Logik der Charakterdarstellung] Mo Ning betrachtet sich stets als seriöse, professionelle Pädagogin. Je absurder das Ereignis, desto ruhiger und selbstgerechter wird sie. Sie versucht nicht, lustig zu sein; der Humor entsteht durch ihre trockenen, fehlerhaften Einschätzungen. A Lan ist vor dem Vorfall völlig unvorbereitet; sie darf erst reagieren, wenn die Flüssigkeit ihren Körper tatsächlich berührt, und dann Anzeichen von Zurückweichen zeigen, die Augen schließen, die Hände heben und ausweichen. Auntie Wang muss erst nach A Lan sehen, bevor sie sich zu Mo Ning umdreht; kein vorzeitiges Starren oder Vorhersehen des Ereignisses. [00:00-00:05.30] Szene 1: Nicht auf die Bildqualität achten, sondern auf Details (Statischer Medium Shot). Ein alter Innenhof in einer nordchinesischen Kreisstadt mit grauen Ziegelwänden, einer roten Holztür, weißen Plastikstühlen, Unkraut an der Wand, trocknendem Mais und alltäglichen Gebrauchsgegenständen. Nachmittägliches natürliches Licht fällt von der Seite ein, Baumschatten wiegen sich leicht. Feste Frontalaufnahme: Mo Ning sitzt auf einem weißen Plastikstuhl, lehnt sich natürlich vor, Hände nahe den Knien, blickt direkt in die Kamera. [00:00-00:02.30] Mo Ning spricht, als würde sie einen einfachen, praktischen Tipp geben, ihre Sprache ist klar und natürlich: [Lip-Sync-Guide] 'Woran erkennt man, ob ein Video von einer KI erstellt wurde?' Sie beendet den Satz und hält den Blick fest, pausiert etwa 0,2 Sekunden, um die Aufmerksamkeit des Publikums zu sichern. [00:02.30-00:05.30] Mo Ning hebt leicht eine Hand, als würde sie wichtige Punkte aufzählen: [Lip-Sync-Guide] 'Starren Sie nicht nur auf die Auflösung; achten Sie zuerst auf die Tiere. Wenn KI Katzen und Hunde darstellt, passieren ihr am ehesten Fehler.' Sie betont 'achten Sie zuerst auf die Tiere' leicht; 'passieren ihr am ehesten Fehler' sagt sie mit Bestimmtheit. Während sie 'Katzen und Hunde' sagt, nähert sich das Geräusch eines hechelnden Hundes von außerhalb des Hofes. Mo Ning hört es, schaut aber noch nicht zurück. [00:05.30-00:10.20] Szene 2: Tierbewegungen sind am fehleranfälligsten (Handgeführte Kamera). [00:05.30-00:06.50] Ein großer schwarzer Hund kommt schnell von links unten ins Bild und steckt seinen Kopf zwischen Mo Nings Beine. Der Hund hat beim Eintreten echtes Momentum; sein Kopf erscheint zuerst, gefolgt von Schultern und Körper. Mo Nings Hände werden vom Hund natürlich angehoben, ihr Körper federt einige Zentimeter zurück. Die Kamera neigt sich instinktiv aufgrund des Hundes nach unten und fokussiert kurz auf dessen Kopf. Mo Ning schaut auf den Hund herab: [Lip-Sync-Guide] 'Nehmen wir zum Beispiel diesen hier.' Ihr Tonfall ist nicht spielerisch; es klingt, als hätte sie einen fertigen Fall für ihre Lektion gefunden. [00:06.50-00:07.70] Der schwarze Hund drängt sich weiter durch, sein Körper kreuzt vor Mo Nings Beinen, sein Schwanz streift das Stuhlbein. Mo Ning schiebt den Kopf des Hundes sanft mit der Hand beiseite und schaut dann zur Kamera hoch: [Lip-Sync-Guide] 'Können Sie es erkennen?' Sie pausiert eine halbe Sekunde, um dem Publikum Zeit zum Beobachten zu geben. [00:07.70-00:09.60] Der Hund läuft horizontal vor Mo Ning vorbei und steckt plötzlich seine Nase nah an die Kamera, wodurch der Vordergrund verschwimmt. Mo Nings Blick folgt dem Hund, ihre Stirn zieht sich zusammen: [Lip-Sync-Guide] 'Die Bewegung ist fehlerhaft und die Augen stimmen nicht.' Sie sagt 'fehlerhaft', als würde sie eine technische Analyse durchführen. Die tatsächliche Bewegung des Hundes muss kontinuierlich und natürlich sein; der Humor liegt darin, dass Mo Ning eine normale Aktion als 'KI-Fehler' erzwingt. [00:09.60-00:10.20] Die Nase des Hundes berührt fast das Objektiv und stößt ein kurzes Bellen aus. Mo Ning beobachtet ihn von hinten und schließt trocken: [Lip-Sync-Guide] 'Es sieht auf den ersten Blick gefälscht aus.' Sie lächelt nicht. Ein harter Schnitt zur nächsten Szene erfolgt unmittelbar nach dem Bellen. [00:10.20-00:14.60] Szene 3: Test der physikalischen Effekte (Extreme Nahaufnahme → Medium Shot). Harter Schnitt zu einem Retro-Dessertladen in einer kleinen chinesischen Stadt. Holztische, Glasvitrinen, weiße Porzellantassen, Thermoskannen, Taschentuchboxen und chinesische Preisschilder schaffen eine alltägliche Umgebung. Kunden im Hintergrund unterhalten sich natürlich. Mo Ning, A Lan und Auntie Wang sitzen am selben Tisch. Ein großer Becher mit pinkfarbenem Erdbeerjoghurt-Getränk und ein weiteres helles Getränk stehen auf dem Tisch. [00:10.20-00:10.70] Mo Ning bewegt sich plötzlich in einer extremen Nahaufnahme näher zur Kamera. Aufgrund der schnellen Distanzänderung verschwimmt das Bild kurz, bevor es präzise auf Mo Nings Augen und Lippen fokussiert. [00:10.70-00:13.70] Mo Ning reißt die Augen weit auf: [Lip-Sync-Guide] 'Zweitens: Achten Sie auf physikalische Effekte. Wenn viel Flüssigkeit im Bild ist, ist das meist ein verräterisches Zeichen.' Sie sagt 'physikalische Effekte' klar und langsam. Wenn sie 'viel Flüssigkeit' sagt, wandert ihr Blick kurz zum pinkfarbenen Getränk; bei 'verräterisches Zeichen' schaut sie wieder zur Kamera. A Lan und Auntie Wang sitzen weiterhin natürlich da, beobachten Mo Nings Hand nicht und zeigen keine Alarmbereitschaft. [00:13.70-00:14.60] Wechsel zu einer Medium-Aufnahme von zwei Personen. Mo Ning kehrt auf ihren Platz zurück, nimmt das pinkfarbene Getränk vor A Lan und hält es mit beiden Händen über A Lans Kopf. Ohne Vorwarnung kippt sie den Becher. Die dicke pinkfarbene Flüssigkeit bildet einen kontinuierlichen Strom, landet auf A Lans Kopf und fließt über ihr Gesicht, ihre Schultern und ihre Kleidung, bis sie schließlich auf den Holztisch spritzt. Der Flüssigkeitsstand im Becher muss beim Gießen sinken; die Flüssigkeit muss echtes Gewicht, Viskosität und Spritzträgheit aufweisen. [Soundeffekte] Klirrende Tassen, gießende dicke Flüssigkeit, auf den Tisch spritzende Flüssigkeit. [00:14.60-00:18.20] Szene 4: Echte Reaktionen dürfen nicht vorzeitig sein (Verzögerte Reaktion). [00:14.60-00:15.20] Nachdem die Flüssigkeit A Lan trifft, gibt es eine neuronale Verzögerung von 0,2 Sekunden. Dann zuckt A Lan plötzlich zusammen, schließt die Augen fest, zieht die Schultern hoch und schützt instinktiv ihren Kopf. Sie stößt einen kurzen Schrei aus und weicht mit echter Trägheit nach hinten aus, wobei der Stuhl über den Boden kratzt. A Lan darf die Augen nicht schließen oder ausweichen, bevor die Flüssigkeit sie trifft. [00:15.20-00:16.30] A Lan weicht weiter aus, ihr Arm streift über den Tisch und verursacht einen zweiten kleinen Spritzer. Mo Ning hält den Becher umgedreht, bis er leer ist, bevor sie ihn zurückzieht. Der Becher darf nicht plötzlich leer werden. Mo Ning betrachtet den leeren Becher und bestätigt, dass das 'Experiment abgeschlossen' ist, ohne Entschuldigung oder Panik. [00:16.30-00:17.50] Auntie Wang ist für einen halben Moment verblüfft, bewegt sich dann sofort zu A Lan, um die Flüssigkeit abzuwischen. Ihre Aufmerksamkeit muss zuerst A Lan gelten. [00:17.50-00:18.20] Nahaufnahme: Auntie Wang dreht sich langsam um, um Mo Ning anzusehen, die Stirn gerunzelt. A Lan keucht an Auntie Wang gelehnt. Kein klarer Dialog, nur anhaltende Schreie, schweres Atmen und das Rascheln von Kleidung. [00:18.20-00:21.30] Szene 5: Charakterreaktionen verraten es ebenfalls (Reverse Medium Close-up). Schuss/Gegenschuss auf Mo Ning. Sie sitzt allein auf der anderen Seite des Tisches, der mit pinkfarbener Flüssigkeit und Fruchtstücken übersät ist. [00:18.20-00:19.00] Mo Ning schaut zu A Lan und Auntie Wang und hebt leicht die Augenbrauen: [Lip-Sync-Guide] 'Dann achten Sie auf die Reaktionen der Charaktere.' Ihr Tonfall ist immer noch der einer Lehrerin, ohne Reue. [00:19.00-00:21.30] Mo Ning beobachtet A Lan, dann Auntie Wang, und schaut dann wieder zur Kamera: [Lip-Sync-Guide] 'Diese Reaktion gerade war zu koordiniert; offensichtlich übertrieben.' Sie sagt 'zu koordiniert' wie eine Schauspielkritikerin. Erst nachdem der Satz beendet ist, erscheint ein ganz leichtes, spöttisches Lächeln auf einer Seite ihres Mundes. [00:21.30-00:25.20] Szene 6: Räumliche Beziehungen sind am schwersten zu handhaben (Rückwärts-Tracking-Shot). Harter Schnitt zu einem alten Gästehausflur. Gedimmtes Licht, mehrere Türen. Ein klares grünes chinesisches 'Notausgang'-Schild an der Wand; kein Kauderwelsch. [00:21.30-00:22.40] Mo Ning geht vom Ende des Flurs auf die Kamera zu. Die Kamera bewegt sich mit der gleichen Geschwindigkeit zurück. Nur Schritte sind zu hören. [00:22.40-00:25.20] Mo Ning geht weiter: [Lip-Sync-Guide] 'Schließlich: Achten Sie auf Türen. Wenn räumliche Beziehungen komplex werden, neigt KI zu Fehlern.' Das 'Notausgang'-Schild muss fest an der Wand bleiben und darf sich nicht verzerren. [00:25.20-00:28.50] Szene 7: Die falsche Tür (Tür-Physik-Pointe). [00:25.20-00:25.80] Mo Ning hält vor einer Tür auf der linken Seite an und dreht sich zu ihr. Hand-Nahaufnahme: Sie greift präzise nach dem Metallgriff und drückt ihn herunter. Korrekte Anzahl an Fingern; der Kontakt zwischen Hand und Griff ist klar. [00:25.80-00:26.30] Wechsel zum Medium Shot. Die Tür, die sie hält, öffnet sich nicht, aber die Tür daneben – von niemandem berührt – öffnet sich leicht. Die Türen bleiben getrennt; kein Verschmelzen. Mo Ning drückt den linken Griff, aber die rechte Tür öffnet sich. [00:26.30-00:27.00] Mo Ning schaut auf ihren Griff, dann dreht sie langsam den Kopf zu der Tür, die sich von selbst geöffnet hat. Sie runzelt leicht die Stirn, dann schaut sie zur Kamera: [Lip-Sync-Guide] 'Sehen Sie? Sogar die Türen sind verwirrt.' Ihr Tonfall ist ruhig, ein 'Ich hab es Ihnen ja gesagt'. [00:27.00-00:27.80] Die benachbarte Tür schließt sich langsam von selbst. Mo Ning verdreht die Augen und lässt ihren Griff los: [Lip-Sync-Guide] 'Vergessen Sie es, ich gehe.' Ihr Tonfall ist müde und entschlossen. [00:27.80-00:28.50] Mo Ning drückt erneut gegen die ursprüngliche Tür, und diesmal öffnet sie sich normal. Sie betritt den Raum. Die Kamera bleibt im Flur. Sobald sie aus dem Bild ist, fällt die Tür schnell mit einem schweren 'Wummern' ins Schloss. [00:28.50-00:30.00] Szene 8: Ende (Harter Schnitt auf Schwarz). In dem Moment, als die Tür ins Schloss fällt, wird auf Schwarz geschnitten bis zum Ende. Schritte, die im Raum verklingen, sind zu hören. Die letzten 0,5 Sekunden sind lautlos. Kein Text oder Logos. [Dialog-Zusammenfassung] Mo Ning: 'Woran erkennt man, ob ein Video von einer KI erstellt wurde?', 'Starren Sie nicht nur auf die Auflösung; achten Sie zuerst auf die Tiere...', 'Nehmen wir zum Beispiel diesen hier.', 'Können Sie es erkennen?', 'Die Bewegung ist fehlerhaft und die Augen stimmen nicht.', 'Es sieht auf den ersten Blick gefälscht aus.', 'Zweitens: Achten Sie auf physikalische Effekte...', 'Dann achten Sie auf die Reaktionen der Charaktere.', 'Diese Reaktion gerade war zu koordiniert; offensichtlich übertrieben.', 'Schließlich: Achten Sie auf Türen...', 'Sehen Sie? Sogar die Türen sind verwirrt.', 'Vergessen Sie es, ich gehe.' [Audio-Anforderungen] Eine konsistente chinesische Stimme für Mo Ning, natürlich und klar. Keine mechanischen oder roboterhaften Töne. Umgebungsgeräusche: Wind, Vögel, hechelnde Hunde, Bellen im Innenhof; Geplapper, Klirren, Spritzer und Schreie im Laden; Schritte und Türen im Gästehaus. Keine Hintergrundmusik oder eingespieltes Lachen. [Globale Kontinuität] Charaktere entsprechen durchgehend strikt den Referenzbildern. Mo Ning behält das gleiche Aussehen und die gleiche Stimme bei. A Lan und Auntie Wang nur im Laden; schwarzer Hund nur im Innenhof. Szenenübergänge müssen harte Schnitte sein; kein Schmelzen oder Verzerren.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092592678219214848/img/beNsya7sj4raVMQ9.jpg" width="600" alt="Chinesischer Deadpan-Comedy-Kurzfilm">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9881)**
+
+**Autor:** [John](https://x.com/johnAGI168) | **Quelle:** [Link](https://x.com/johnAGI168/status/2092593100346519620) | **Veröffentlicht:** Aug 26, 2026
+
+---
+### Der Alltag eines Computer-Nerds in den 80ern
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein einfacher Video-Prompt, der verschiedene nostalgische Aufnahmen aus dem Leben eines Computer-Enthusiasten in den 1980er Jahren einfängt.
+
+#### 📝 Prompt
+
+```
+Ein Tag im Leben eines 80er-Jahre-Computer-Nerds, 8 verschiedene Aufnahmen, unterhaltsam und interessant
+```
+
+<img src="https://pbs.twimg.com/media/HQpghNxXMAA4g2P.jpg" width="600" alt="Der Alltag eines Computer-Nerds in den 80ern">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9873)**
+
+**Autor:** [AIrina (Virtual Media Net)](https://x.com/airina_xyz) | **Quelle:** [Link](https://x.com/airina_xyz/status/2092590944520400909) | **Veröffentlicht:** Aug 26, 2026
+
+---
+### Noir-Anime-Polizeirevier-Interieur
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein filmischer Anime-Video-Prompt, der einen dunklen, flackernden Korridor eines Polizeireviers mit Notbeleuchtung und Trümmern darstellt und eine spannungsgeladene Atmosphäre erzeugt.
+
+#### 📝 Prompt
+
+```
+Filmischer Anime-Kurzfilm-Clip, 15 Sekunden. Dunkles Interieur eines Polizeireviers, lange flackernde Leuchtstoffröhren-Korridore, Glastrennwände, Büros, Aktenschränke und Schreibtische, rotes Notlicht vermischt mit flackerndem weißem Licht, überall Rauch und Trümmer.
+```
+
+<img src="https://pbs.twimg.com/media/HQpP5-GWQAAR4i-.jpg" width="600" alt="Noir-Anime-Polizeirevier-Interieur">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9869)**
+
+**Autor:** [TechieSA](https://x.com/TechieBySA) | **Quelle:** [Link](https://x.com/TechieBySA/status/2092572936414666851) | **Veröffentlicht:** Aug 26, 2026
+
+---
+### Fantasy-Zauberin und mechanische Eule
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Eine High-Fantasy-Szene mit einer Zauberin, die ein leuchtendes Miniatur-Sonnensystem hält, und einer weißen mechanischen Eule in einer schwach beleuchteten Bibliothek.
+
+#### 📝 Prompt
+
+```
+Cinematic-Vertikalvideo einer blonden High-Fantasy-Zauberin in einem verzierten weißen Kleid und einem roten Samtumhang. Sie hält ein leuchtendes cyanfarbenes Miniatur-Sonnensystem in einer schwach beleuchteten Bibliothek. Die Zauberin dreht sich zum Betrachter um, lässt ihren Umhang schwingen und berührt eine flüssige Oberfläche, die leuchtend blaue Wellen erzeugt. Neben ihr breitet eine weiße mechanische Eule mit leuchtend blauen Augen ihre Flügel aus und landet anmutig auf ihrer Schulter. Die Kamera zoomt langsam heran, hyperdetailliert, dramatische Beleuchtung, 8k-Auflösung, flüssige 60fps Fantasy-Bewegung.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092562857355624448/img/mssOdDklLPTtqN6l.jpg" width="600" alt="Fantasy-Zauberin und mechanische Eule">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9871)**
+
+**Autor:** [Julia](https://x.com/juliaevee) | **Quelle:** [Link](https://x.com/juliaevee/status/2092562908966182982) | **Veröffentlicht:** Aug 26, 2026
+
+---
+### Grumblebert Flowerbottom Garten-Unterhaltung
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Multi-Shot-Narrativ-Prompt für Seedance 2.0 Mini, der einen Dialog zwischen einem mürrischen Charakter und einer Einheimischen in einem Garten zeigt.
+
+#### 📝 Prompt
+
+```
+Hauptcharakter: Grumblebert Flowerbottom @[image1] @[image2] (behalte seine Gesichtszüge und den exakt gleichen visuellen Stil bei)
+Ort: Dorfstraße neben Grumbleberts Garten. Bewölkter Nachmittag. Eine freundliche Einheimische geht neben ihm her.
+
+Shot 1 — 0:00–0:02Sie blickt zum bewölkten Himmel.Frau: „Schönes Wetter.“
+Shot 2 — 0:02–0:03.5Grumblebert runzelt sofort die Stirn.Grumblebert: „Zu trocken.“
+Shot 3 — 0:03.5–0:05Frau nickt.Frau: „Könnte später regnen.“
+Shot 4 — 0:05–0:06.5Grumblebert wirkt von dieser Möglichkeit beleidigt.Grumblebert: „Zu viel Regen.“
+Shot 5 — 0:06.5–0:08.5Frau hält inne.Frau: „Welches Wetter magst du eigentlich?“
+Shot 6 — 0:08.5–0:10.5Grumblebert denkt einen Moment ernsthaft nach.
+Shot 7 — 0:10.5–0:13Nahaufnahme.Grumblebert: „Gestern war akzeptabel.“
+Shot 8 — 0:13–0:15Frau starrt ihn an.Frau: „Du hast dich gestern den ganzen Tag beschwert.“Grumblebert geht weiter.Grumblebert: „Genau. Beständig.“
+```
+
+<img src="https://pbs.twimg.com/media/HQpB9udXUAAR8bu.jpg" width="600" alt="Grumblebert Flowerbottom Garten-Unterhaltung">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9863)**
+
+**Autor:** [AIrina (Virtual Media Net)](https://x.com/airina_xyz) | **Quelle:** [Link](https://x.com/airina_xyz/status/2092557400792322290) | **Veröffentlicht:** Aug 26, 2026
+
+---
+### Vlog-Skript für die morgendliche Hautpflegeroutine
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein komplexer, skriptbasierter Video-Prompt, der darauf ausgelegt ist, einen konsistenten 15-sekündigen Beauty-Vlog mit Produktinteraktion und Hautpflegeschritten zu erstellen.
+
+#### 📝 Prompt
+
+```
+Erstelle einen 15-sekündigen, ultra-realistischen 9:16 Beauty-Vlog, in dem durchgehend dieselbe junge Frau zu sehen ist. Achte darauf, dass Gesicht, Frisur, Hautton, Outfit und Identität perfekt konsistent bleiben.
+
+Szene: Helles, sauberes, modernes Badezimmer mit einem großen Spiegel, weicher, warmer Beleuchtung, minimalistischer Einrichtung und einer kleinen grünen Pflanze. Natürlicher Smartphone-/Vlog-Stil aus der Hand.
+
+0:00–0:03: Das Mädchen hält ihr Smartphone in einer Hand und filmt ein Spiegel-Selfie. Sie lächelt und stellt das Himalaya Purifying Neem Face Wash vor, wobei sie die Tube deutlich in die Kamera hält.
+Text auf dem Bildschirm: „Meine morgendliche Hautpflege“
+
+0:03–0:05: Nahaufnahme des Gesichtswaschmittels. Sie öffnet es und drückt eine kleine Menge auf ihre Handfläche. Zeige die realistische Gel-Textur.
+Text auf dem Bildschirm: „Neem + Kurkuma“
+
+0:05–0:09: Sie trägt das Waschgel sanft auf ihre Wangen und Stirn auf und massiert es natürlich ein. Dann spült sie ihr Gesicht am Waschbecken mit realistischer Wasserbewegung ab.
+
+0:09–0:12: Sie schaut mit frischer, reiner Haut in den Spiegel, berührt ihre Wange und lächelt.
+Text auf dem Bildschirm: „Frisch & Rein“
+
+0:12–0:15: Sie hält das Produkt neben ihr Gesicht, zeigt einen süßen Daumen nach oben und beendet das Video mit einer sauberen Produktaufnahme auf der Badezimmerablage neben einer kleinen Pflanze und einem Handtuch.
+Text auf dem Bildschirm: „Mein Hautpflege-Favorit“
+
+Stil: Fotorealistisch, natürliche Hauttextur, realistisches Haar und Hände, authentisches Smartphone-Filmmaterial, subtile Handbewegungen, weiche filmische Beleuchtung, realistische Reflexionen, 4K, kein CGI-Look, keine verzerrten Gesichter oder Produktverpackungen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092555353921863680/img/KpzEUOYWYP0cgVjU.jpg" width="600" alt="Vlog-Skript für die morgendliche Hautpflegeroutine">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9875)**
+
+**Autor:** [liana](https://x.com/Lianaalane) | **Quelle:** [Link](https://x.com/Lianaalane/status/2092555394304622883) | **Veröffentlicht:** Aug 26, 2026
+
+---
+### Vintage Japan-Reiseerinnerung im MiniDV-Stil
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein nostalgischer Video-Prompt für den MiniDV-Look der 2000er Jahre, der eine Japanreise aus der Ich-Perspektive mit atmosphärischen, körnigen Texturen und intimen Kamerabewegungen einfängt.
+
+#### 📝 Prompt
+
+```
+Beziehen Sie sich auf dieselbe erwachsene weibliche Figur und behalten Sie das lange, glatte, hellblonde Haar, den leichten Pony, die dunkelblaue Blumen-Haarspange sowie die Gesichtszüge und Körperproportionen bei. Während des gesamten Films trägt sie dasselbe cremefarbene, lang geschnittene Kleid mit dünnen Trägern und Stickereien aus Bild 1, das sich durch eine weiche Satin-Textur, hellgoldene Blumenstickereien und Spitzendetails auszeichnet.
+
+Ort: Japanischer Vorort-Bahnhof, Wiese, altes Buchgeschäft/Manga-Laden, japanische Gasse, Ramen-Laden, Park mit Rehen, Wiese bei Sonnenuntergang, belebte nächtliche Straße. Die allgemeine Stimmung ist wie ein Tag, der mit einer Freundin verbracht wurde, schnell zusammengeschnitten in Fragmente einer Reiseerinnerung.
+
+Visueller Stil: Live-Action-Aufnahme, japanische Jugendreise-Erinnerung, verträumt, natürlich, intim, Schnappschuss-Gefühl. Der gesamte Film präsentiert die Qualität eines MiniDV-Heimvideos aus den 2000er Jahren: weicher Fokus, geringer Kontrast, leicht ausgewaschene Lichter, natürliche Körnung, sanfte Lichthöfe, leichte automatische Belichtungsänderungen und deutliche Bewegungsunschärfe.
+
+Kamerastil: Boyfriend-POV aus der Ich-Perspektive, handgeführte DV-Kamera aus nächster Nähe, Weitwinkel, instabile Komposition, natürliches Wackeln und schneller Autofokus. Die Kamera fungiert als zweiter Charakter in der Geschichte; das Mädchen schaut ständig zum Kameramann, nähert sich ihm und dreht sich um, um ihn zu suchen. Zwischen den verschiedenen Szenen werden schnelle harte Schnitte verwendet.
+
+Zeitplan (20 Sek.):
+
+00:00–00:04.5 → Japanischer Vorort-Bahnsteig. Vom ersten Frame an herrscht Gefahr: Das Mädchen steht nahe an den Gleisen, der Körper leicht nach vorne gelehnt, eine Hand schirmt die Stirn ab. Ein rot-weißer japanischer Pendlerzug rast bereits auf sie zu. Der Boyfriend-POV greift sofort nach ihrem Oberarm und zieht sie in einer kontinuierlichen Bewegung zurück in Richtung Kamera. Das Mädchen bewegt sich deutlich, macht 1–2 Schritte; der Freund tritt natürlich zurück. Gerade als sie die Stelle verlässt, rast der Zug vorbei. Sie wird nah an das Objektiv gezogen, Haare und Kleid vom Winddruck zerzaust, die Augen weit aufgerissen, die Lippen vor Schreck leicht geöffnet.
+
+00:04.5–00:06.2 → Sonnige Wiese, Ich-Perspektive, wie er die Hand des Mädchens hält und vorwärts geht; sie schaut den Kameramann an und lacht glücklich, Haare und Kleid wehen im Wind.
+
+00:06.2–00:07.5 → Japanisches altes Buchgeschäft, gefilmt durch Bücherregale; das Mädchen streckt plötzlich den Kopf heraus und schaut mit einem verspielten Lächeln in die Kamera.
+
+00:07.5–00:08.5 → Aufnahme aus niedriger Perspektive, wie das Mädchen im cremefarbenen Kleid über einen japanischen Zebrastreifen geht, der Rock schwingt natürlich bei jedem Schritt.
+
+00:08.5–00:09.7 → Enge japanische Gasse, das Mädchen geht voraus, schaut zurück und dreht sich dann mit einem sanften Lächeln zum Kameramann um.
+
+00:09.7–00:10.8 → Ramen-Laden, Nahaufnahme von dampfenden Ramen, der Fokus verlagert sich natürlich auf das Mädchen, das gegenüber sitzt.
+
+00:10.8–00:12.0 → Manga-Laden, das Mädchen zieht einen Manga aus dem Regal und liest.
+
+00:12.0–00:13.1 → Ich-Perspektive beim Füttern von Rehen in einem japanischen Park, das Mädchen erscheint unscharf auf der Wiese im Hintergrund.
+
+00:13.1–00:14.1 → Das Mädchen sitzt ruhig da und blättert im Manga, Nahaufnahme von Händen, Seiten und Kleiddetails.
+
+00:14.1–00:15.6 → Wiese bei Sonnenuntergang, warmes goldenes Gegenlicht, das Mädchen steht in der Nähe der Rehe und dreht sich zum Kameramann um.
+
+00:15.6–00:17.5 → Nächtliche Straße, das Mädchen rennt vorwärts und schaut zurück; die Handkamera folgt mit starker Bewegungsunschärfe.
+
+00:17.5–00:18.4 → Schnelle Schnitte von Lifestyle-Details wie dem bestickten Kleid und der Spitze.
+
+00:18.4–00:20.0 → Ein digitaler Camcorder aus den 2000ern kommt ins Bild und zeigt dasselbe Mädchen auf dem ausklappbaren LCD-Display. Sie bemerkt, dass sie immer noch gefilmt wird, lächelt verspielt und der Bildschirm blendet in Weiß aus.
+
+Audio: Nur echte Umgebungsgeräusche: Zug auf den Gleisen, Winddruck, Schritte, Umblättern von Seiten, Parkumgebung, Menschen/Fahrzeuge bei Nacht, natürliches Keuchen und Lachen. Keine Hintergrundmusik, keine Untertitel.
+
+Ziel: Wie das Wiederentdecken eines alten MiniDV-Bandes einer Japanreise nach Jahren – beginnend mit einem 'Beinahe-Zugunfall'-Aufhänger, der dann in intime Jugendreiseerinnerungen übergeht.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092548374046367744/img/4MLvh2iKwqy5ZGOs.jpg" width="600" alt="Vintage Japan-Reiseerinnerung im MiniDV-Stil">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9883)**
+
+**Autor:** [小宇Chengzi](https://x.com/Chengzilhy) | **Quelle:** [Link](https://x.com/Chengzilhy/status/2092551539814723758) | **Veröffentlicht:** Aug 26, 2026
+
+---
+### Wasserspielshow Krabben-Hocke-Challenge
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein hochdetaillierter filmischer Prompt für eine 15-sekündige Sequenz einer Wasserspielshow, in der ein Kandidat eine bewegliche Wand mit einer speziellen „Krabben-Hocke“-Öffnung bewältigen muss.
+
+#### 📝 Prompt
+
+```
+SEEDANCE 2.5 | Wasser-Humanoid-Wand-Challenge
+
+[Stil] Live-Action-Wasserspielshow, helle gesättigte Farben, natürliches Mittagslicht im Hochsommer, professionelle Broadcast-Qualität, schnelles Editing, leichter Comedy-Rhythmus, realistische Schwerkraft- und Wasserphysik, 4K HD.
+[Dauer] 15 Sekunden
+[Format] 16:9 Breitbild
+[Sprache] Chinesischer männlicher Voiceover, Protagonistin hat keinen formellen Dialog, nur Atemgeräusche, Anstrengungslaute und kurze Schreie vor dem Sturz ins Wasser; keine Untertitel.
+[Szene] Große Outdoor-Wasserarena, eine lange orangefarbene Challenge-Plattform in der Mitte eines klaren blauen Swimmingpools. Am Ende der Plattform befindet sich eine dicke hellblaue humanoide Wand, die sich mit konstanter Geschwindigkeit auf einer versteckten Schiene bewegt; in der Mitte der Wand befindet sich eine „Krabben-Hocke“-Öffnung, bei der der Kopf zentriert ist, die Ellbogen horizontal abgewinkelt sind, die Hände den Kopf halten und die Beine weit gespreizt sind. Gegenüber dem Pool befindet sich eine halbkreisförmige Tribüne voller Zuschauer, die von einem großen weißen Sonnensegel bedeckt ist.
+
+[Charakterkarte]
+@Image1 namens „Xia Yan“, eine Kandidatin in der Wasserspielshow. Gesicht, Körperform, Frisur, Make-up, Kleidung und Accessoires des Charakters übernehmen vollständig das Referenzbild, ohne Erscheinungsmerkmale hinzuzufügen oder zu verändern.
+Charakterziel: Die Pose der Öffnung schnell verstehen und den Körper hindurchbringen, bevor die bewegliche humanoide Wand eintrifft.
+Bewegungsablauf: Selbstbewusster Auftritt → Kurzer Schock nach dem Erblicken des Puzzles → Hastiges Anpassen der Pose → Denken, sie habe es geschafft → Realisieren, dass die Größe nicht passt → Von der Wand ins Wasser geschubst werden → Nach dem Auftauchen ungläubig in die Kamera schauen.
+Performance-Stil: Realistische Spielshow-Reaktion, nicht absichtlich niedlich, nicht von der ersten Sekunde an übertrieben; alle Gesichtsausdrucksänderungen müssen durch die Wandbewegung, den physischen Kontakt und das Ergebnis des Sturzes ins Wasser ausgelöst werden.
+
+[00:00-00:02.00] Einstellung 1: Level 2 Start (Nahaufnahme-Hook)
+Frontale Nahaufnahme: Xia Yan steht in der Mitte der orangefarbenen Plattform, mit dem Pool und der hellblauen humanoiden Wand hinter ihr. Das Objektiv nutzt eine mittlere Telebrennweite, um den Hintergrund zu komprimieren, wobei die Zuschauerränge leicht unscharf sind.
+
+[00:00-00:00.80]
+Xia Yan schaut direkt in die Kamera, behält ein selbstbewusstes und ruhiges Lächeln bei, die Schultern sind natürlich entspannt. Das Geräusch eines startenden mechanischen Geräts und ein tiefes Motorgeräusch sind im Hintergrund zu hören.
+[Chinesischer männlicher Voiceover] „Level 2, Start!“
+Der Voiceover ist hell und energiegeladen, wie ein Live-Spielshow-Moderator, kein Nachrichtensprecher-Ton.
+
+[00:00-00:00.80-00:02.00]
+Das mechanische Betriebsgeräusch nähert sich allmählich. Xia Yans Lächeln erstarrt, ihre Augen weiten sich plötzlich und ihre Lippen formen natürlich einen kleinen Kreis; sie schaut zuerst in die Kamera, dann dreht sie schnell ihre Augen, um die Challenge-Wand hinter sich zu beobachten.
+Reaktionen dürfen nicht vorab erscheinen; sie müssen nach dem Start des mechanischen Geräuschs von Selbstvertrauen zu Überraschung übergehen.
+[Chinesischer männlicher Voiceover] „Diesmal ist es – die Super-Krabben-Hocke!“
+„Super-Krabben-Hocke“ wird lauter und zieht das Ende in die Länge, begleitet von einem kurzen Blechbläser-Soundeffekt der Spielshow.
+
+[00:02.00-00:05.00] Einstellung 2: Pose verstehen, in Position bringen (Totale → Hintere Dreiviertelansicht)
+Harter Schnitt auf die Totale: Zeigt vollständig die orangefarbene Plattform, den Pool, die hellblaue humanoide Wand und die Zuschauerränge. Die humanoide Wand bewegt sich mit konstanter Geschwindigkeit vom fernen Ende der Plattform auf Xia Yan zu. Sie bleibt währenddessen vertikal und mit stabiler Geschwindigkeit.
+
+[00:02.00-00:03.00]
+Xia Yan dreht sich schnell zur humanoiden Öffnung um und scannt zuerst die Kontur von oben nach unten, um die Positionen von Kopf, Ellbogen, Torso und Beinen zu bestätigen.
+Sie joggt ein paar Schritte in Richtung des Positionierungsbereichs vor der Wandplatte, wobei die Füße realistischen Kontakt mit der Plattform haben, ohne zu gleiten oder zu teleportieren.
+
+[00:03.00-00:05.00]
+Hintere Dreiviertelansicht: Xia Yan hebt ihre Hände hinter den Kopf, die Finger verschränkt, die Ellbogen nach links und rechts geöffnet; die Füße spreizen sich schnell zu beiden Seiten, Knie nach außen, der Schwerpunkt sinkt allmählich ab.
+[Chinesischer männlicher Voiceover] „Beine auf, Schwerpunkt senken, Hände hinter den Kopf!“
+Der Rhythmus des Voiceovers ist mit der Aktion synchronisiert: „Beine auf“ entspricht den Füßen, die sich zu beiden Seiten bewegen; „Schwerpunkt senken“ entspricht dem Körper, der in eine tiefe Hocke geht; „Hände hinter den Kopf“ entspricht den Händen, die sich hinter dem Kopf verschränken. Die Aktionen müssen nacheinander abgeschlossen werden; dass alle drei Aktionen im selben Frame erscheinen, ist untersagt.
+
+[00:05.00-00:09.00] Einstellung 3: Richtige Pose, falsche Größe (Symmetrische Frontalaufnahme)
+Schnitt auf eine symmetrische Totale von der Vorderseite der Wandplatte. Die Kamera filmt Xia Yan durch die humanoide Öffnung, wobei Kopf, Arme, Torso und Beine mit den entsprechenden Öffnungen ausgerichtet sind.
+
+[00:05.00-00:06.20]
+Xia Yan behält ihre Hände hinter dem Kopf und eine tiefe Hocke bei, passt ihre Schritte nach links und rechts an und bewegt dann ihren Körper ein paar Zentimeter in Richtung der Mitte der Öffnung. Sie schaut zuerst nach unten, um ihre Fußposition zu prüfen, dann nach oben auf die sich nähernde Wand. Ihre Lippen sind leicht zusammengepresst, die Atmung beschleunigt sich.
+
+[00:06.20-00:07.50]
+Die Wandplatte bewegt sich weiterhin mit konstanter Geschwindigkeit vorwärts. Xia Yan drückt ihren Schwerpunkt noch tiefer, sodass ihre Ellbogen und Beine so eng wie möglich an die Kanten der Öffnung passen. Sie schließt kurz die Augen vor Anstrengung, die Schultern leicht angehoben; als sie die Augen wieder öffnet, sind ihre Pupillen geweitet, die Lippen offen, da sie erkennt, dass die Öffnung enger ist als erwartet.
+[Chinesischer männlicher Voiceover] „Die Pose ist sehr standardmäßig –“
+Die erste Hälfte des Satzes klingt aufgeregt, als würde er ihren bevorstehenden Erfolg ankündigen.
+
+[00:07.50-00:09.00]
+Die Wandplatte kommt immer näher. Sie behält ihre Pose bei, wagt es nicht, sich zu bewegen, und rollt nur leicht mit den Augen, um die Kanten der Öffnung auf beiden Seiten zu beobachten. Die Kanten der Öffnung nähern sich allmählich ihren Ellbogen und Beinen, haben aber noch keinen Kontakt. Das Selbstvertrauen in ihrem Gesicht verschwindet langsam, ihr Mund steht leicht offen, die Atmung setzt für einen halben Schlag aus.
+[Chinesischer männlicher Voiceover] „Aber diese Öffnung... scheint ein bisschen klein!“
+Eine Pause von etwa 0,3 Sekunden nach „Aber diese Öffnung“; „ein bisschen klein“ wird leiser, mit einem klaren Gefühl von drohendem Unheil. Die Hintergrundmusik pausiert hier für einen schweren Schlag, nur das mechanische Geräusch der Wand und das Keuchen der Zuschauer bleiben übrig.
+
+[00:09.00-00:10.50] Einstellung 4: Nicht hindurchgekommen (Seitliche Aufnahme / Slapstick)
+Schnitt auf eine mittlere Totale von der Seite der Plattform, die die humanoide Wand, Xia Yan und den Poolrand hinter ihr zeigt.
+
+[00:09.00-00:09.50]
+Die Wandplatte erreicht Xia Yans Position. Die Kante der Öffnung berührt zuerst leicht die Außenseite ihres Körpers; sie erkennt sofort, dass sie nicht vollständig hindurchpassen kann, ihre Augen weiten sich, die Hände lösen sich vom Hinterkopf, die Handflächen zeigen nach vorne und suchen nach Halt. Reaktionen müssen durch Kontakt ausgelöst werden; Aufstehen oder Zurücklehnen im Voraus ist untersagt.
+[Chinesischer männlicher Voiceover] „Oh nein, sie hat nicht reingepasst!“
+
+[00:09.50-00:10.50]
+Die Wandplatte bewegt sich mit ihrer ursprünglichen Geschwindigkeit weiter vorwärts, und Xia Yan, die nicht durch die Öffnung passt, wird stetig zum Rand der Plattform geschoben. Ihr Schwerpunkt wandert allmählich über ihre Fersen, die Füße gleiten zuerst ein kurzes Stück auf der Plattform; dann strecken sich die Knie, der Körper neigt sich nach hinten und die Arme schwingen schnell zu beiden Seiten, um das Gleichgewicht zu halten. Am Rand angekommen, sitzt sie zuerst halb auf der Kante, die Beine heben sich aufgrund der Trägheit, dann fällt ihr ganzer Körper rückwärts in den Pool. Plötzliche Beschleunigung der Wand und freiwilliges Springen von Xia Yan sind untersagt; der Sturz ins Wasser muss durch das kontinuierliche Schieben der Wand und die Verlagerung des Körperschwerpunkts erfolgen. Xia Yan stößt ein kurzes, natürliches „Ah!“ aus, in dem Moment, in dem sie die Plattform verlässt.
+
+[00:10.50-00:12.50] Einstellung 5: Riesiger Wasserspritzer (Aufprall / Realistische Flüssigkeitsphysik)
+[00:10.50-00:11.20]
+Seitliche Totale: Xia Yans Rücken und die Rückseite ihres Körpers berühren zuerst die Wasseroberfläche, gefolgt von ihren Beinen. Ein großer weißer Spritzer explodiert am Eintrittspunkt, Wassersäulen breiten sich nach oben und zu beiden Seiten aus; feine Tröpfchen bilden realistische Parabeln, schwerere Wassermassen fallen schnell zurück.
+[Chinesischer männlicher Voiceover] „Trotzdem ins Wasser geschubst!“
+„Ins Wasser“ erscheint mit dem größten Spritzer. [Soundeffekte] Tiefes Eintauchen, großes Spritzgeräusch, Zuschauer keuchen.
+
+[00:11.20-00:12.50]
+Die Kamera bleibt weiterhin auf dem Eintrittsbereich. Xia Yan ist vollständig untergetaucht, nur weißer Schaum, sich ausbreitende Wellen und allmählich fallende Tröpfchen bleiben zurück. Der Schaum geht von dicht zu spärlich über, Wellen breiten sich zu den Seiten des Pools aus. Die humanoide Wand stoppt am Rand der Plattform, darf nicht fallen, sich verbiegen oder ins Wasser stürzen. Die Hintergrundmusik pausiert kurz und startet dann mit einem leichten Trommelschlag neu.
+
+[00:12.50-00:15.00] Einstellung 6: Ungläubige Rückkehr (Push-in auf Wasserhöhe)
+Schnitt auf eine frontale Halbtotale nahe der Wasseroberfläche.
+
+[00:12.50-00:13.20]
+Xia Yan taucht unter Wasser auf, zuerst der Kopf, dann die Schultern. Sie schließt die Augen und atmet aus, Wasser tropft kontinuierlich von ihrem Gesicht und Kinn. Sie breitet ihre Arme aus, um zu paddeln und ihren Körper stabil zu halten. Nasses Wasser kann nur den Oberflächenzustand verändern, nicht das Gesicht des Charakters, die Frisurstruktur, die Kleiderstruktur oder Identitätsmerkmale.
+
+[00:13.20-00:14.00]
+Xia Yan öffnet die Augen, bestätigt
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092535890736205824/img/Xp0GQ6C-OnRpTlfo.jpg" width="600" alt="Wasserspielshow Krabben-Hocke-Challenge">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9878)**
+
+**Autor:** [John](https://x.com/johnAGI168) | **Quelle:** [Link](https://x.com/johnAGI168/status/2092536240436363328) | **Veröffentlicht:** Aug 26, 2026
+
+---
 ### Transformation einer Uhr in einen mechanischen Schmetterling
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -844,6 +1347,62 @@ Die Nachbarin schenkt ihm ein triumphierendes Lächeln. Zephyr zeigt anerkennend
 **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9814)**
 
 **Autor:** [AIrina (Virtual Media Net)](https://x.com/airina_xyz) | **Quelle:** [Link](https://x.com/airina_xyz/status/2092244364361650520) | **Veröffentlicht:** Aug 25, 2026
+
+---
+### Handgezeichnete 2D-Animation: Japanisches Kochen
+
+![한국어](https://img.shields.io/badge/lang-한국어-orange)
+
+> Dieser hochdetaillierte Prompt erstellt eine 15-sekündige Kochsequenz im Anime-Stil, die sich auf die Zubereitung von Kakao-Schokoladenbrot konzentriert. Er verwendet spezifische Anweisungen für Bleistift-Outlines, Cel-Shading und präzise Kamerabewegungen, um eine handgefertigte Ästhetik zu erzielen.
+
+#### 📝 Prompt
+
+```
+15 Sekunden, 16:9, nur Text-zu-Video. Exakt 6 Szenen, 2,5 Sekunden pro Szene. Alle Übergänge sind saubere Hard Cuts ohne Effekte. 0 Referenzbilder, Start-Frames oder Storyboards. Beinhaltet generierte natürliche Geräusche.
+
+[Kunststil]
+Original japanische, handgezeichnete 2D-Kochanimation. Kompletter Handzeichnungs-Look. Hinterlässt glatte und klare Bleistift-Outlines mit subtilen Variationen der Linienstärke und handgezeichnetem Zittern. Dünne, warme Linien für Lebensmittel; etwas dickere Linien für Hände und Werkzeuge. Sauberes 2-3-stufiges Vollfarb-Cel-Shading in warmen, neutralen Tönen, keine tiefschwarzen Schatten. Küchenumgebung mit sichtbaren Pinselstrichen, flacher atmosphärischer Perspektive, zurückhaltendem analogem Filmkorn und leichtem Ausbluten der Farben an den Cel-Rändern. Starke Glanzlichter nur auf Ganache und feuchtem Teig. Ahmt keine existierenden Studios, Künstler, Filme oder Charaktere nach.
+
+[Subjekt und Regeln]
+Subjekt: Kakao-Schokoladenbrot. Herstellung einer kalten Ganache-Platte mit Zartbitterschokolade und Sahne, Kneten von Kakaoteig und Übergang zur ersten Fermentation. Nur die Hände und Unterarme einer erfahrenen erwachsenen Frau sind sichtbar. Ärmel aus elfenbeinfarbenem Leinen, warm pfirsich-beige Haut, kurze unlackierte Nägel, fünf Finger an jeder Hand, kein Schmuck. Kein Gesicht, Kopf, Torso, ganzer Körper oder eine zweite Person. Das Subjekt besteht nur aus Lebensmitteln und dem Kochprozess. Jede Szene hat genau eine primäre Aktion, und der Zustand der Zutaten schreitet nur voran. Niemals fertiges Brot, gebackenes Brot, geformte Laibe oder innere Schokolade zeigen.
+
+[Szenenkomposition]
+Szene 1 (0,00–2,50) - Kamera: Nahaufnahme aus der Vogelperspektive, vertikal auf ein abgenutztes Eichenschneidebrett gerichtet, sehr langsame Annäherung. Start: Ein Block Kuvertüre und ein Messer mit hellem Eichengriff. Aktion: Die linke Hand hält fest, während die rechte Hand viermal schneidet und die Klinge jedes Mal vollständig anhebt. Veränderung: Ein Haufen kleiner, gleichmäßiger Stücke. Textur: Trockene, scharf geschnittene Oberflächen und kleine Krümel, nicht schmelzend oder glänzend. Verbindung: Alle Stücke gehen in Szene 2 über.
+
+Szene 2 (2,50–5,00) *Textur-Highlight - Kamera: Tiefes Seiten-Makro knapp über dem Schüsselrand, bewegt sich sehr langsam nach rechts. Start: Stücke aus Szene 1 schmelzen von den Rändern in heißer Sahne. Aktion: Dunkelbrauner Silikonspatel rührt in drei größer werdenden Kreisen von der Mitte aus. Veränderung: Stücke verschwinden in gleichmäßiger schwarzer Ganache, die letzte Spur schließt sich langsam. Textur: Hohe Viskosität ohne Spritzer, schmale helle Glanzlichter. Verbindung: Butter und Mehl in die Ganache mischen, auf 3 mm flachdrücken und kühlen.
+
+Szene 3 (5,00–7,50) - Kamera: Fixierte 45-Grad-Halbtotale, Blick nach unten auf die Werkbank. Start: Eine 22x8 cm große, 3 mm dicke, gekühlte Ganache-Platte auf Backpapier. Aktion: Zwei Hände greifen die Enden des Papiers und heben es einmal an. Veränderung: Die Platte biegt sich sanft, ohne durchzuhängen oder zu brechen. Textur: Kalt, flexibel fest, schmaler harter Glanz. Verbindung: Eine Platte kalt halten.
+
+Szene 4 (7,50–10,00) - Kamera: Fixierte Nahaufnahme aus der Vogelperspektive nahe der Öffnung einer Edelstahlschüssel. Start: Gleichmäßiges braunes Trockenpulver und kalte Milchmischung in der Mitte. Aktion: Spatel faltet viermal von unten nach oben. Veränderung: Eine grobe, zerrissene, zottelige Kakaoteigmasse mit minimal losem Mehl. Textur: Dunkle feuchte Bereiche, unebene Oberfläche, kleine trockene Mehlstückchen an den Rändern. Verbindung: Teig und ein Stück Butter gehen zu Szene 5.
+
+Szene 5 (10,00–12,50) *Textur-Highlight - Kamera: Fixierte tiefe Seitenansicht auf Werkbankhöhe. Start: Butterblock in der Mitte des zotteligen Teigs. Aktion: Zwei Hände drücken nach vorne und falten dreimal nach innen. Veränderung: Butterstreifen und Risse verschwinden in glattem, elastischem dunklen Kakaoteig; eine dünne Kante lässt Licht durch, ohne zu reißen. Textur: Elastisches Leuchten statt nassem Glanz, Glutenwiderstand. Verbindung: Teig in der Schüssel auf etwa die doppelte Größe fermentieren lassen.
+
+Szene 6 (12,50–15,00) - Kamera: 45-Grad-Makro zur Schüsselmitte, sehr langsame Annäherung an den Fingerabdruck. Start: Glatte Kuppel desselben Teigs, auf etwa die doppelte Größe aufgegangen. Aktion: Ein Zeigefinger drückt in die Mitte und zieht sich vollständig zurück. Veränderung: Ränder kehren langsam zurück, die mittlere Markierung bleibt flach. Textur: Feine Fermentationsblasen, weiche Elastizität, keine Backkruste. Verbindung: Endet bei diesem abgeschlossenen Fermentationszustand.
+
+[Kamera]
+Ändern Sie pro Szene mindestens zwei der Parameter Distanz, Winkel oder Höhe. Nur fixierte oder extrem langsame Bewegungen innerhalb der Szenen. Keine Whip-Pans, Kamerawackler, Rotationen oder schnellen Zooms. Kontaktpunkte müssen immer lesbar sein. Makroaufnahmen nur für Szene 2 und Szene 6.
+
+[Textur und Bewegung]
+Progressive Veränderungen: Schokoladenstücke -> schwere Emulsion -> kalte flexible Platte; Trockenpulver -> zotteliger Teig -> glattes Gluten -> aufgegangener Teig. Hände haben Gewicht und Schwung; Flüssigkeiten und Teig folgen Viskosität, Elastizität und Schwerkraft. Kein plötzliches Morphing oder Zustandsrückschritt.
+
+[Beleuchtung und Umgebung]
+Saubere, warme Morgenküche. Werkbank aus weißem Quarz und abgenutztes Eichenschneidebrett. Weiches goldenes Hauptlicht vom Fenster oben links, schwaches kühles Fülllicht auf der gegenüberliegenden Seite, Bodenschatten in der gleichen Richtung unter allen Objekten. Nur benannte Objekte für die aktuelle Szene sind sichtbar.
+
+[Physische Kontinuität]
+Behalten Sie die gleiche Menge an Kuvertüre, Ganache-Charge, Kakaoteigmasse, Hände, Ärmel, Schüssel, Küche und Lichtquelle bei. Konsistente Werkzeug-/Materialanzahl, Größen und Texturen. Befolgen Sie die echte Kochreihenfolge und Schwerkraft.
+
+[Ton]
+Nur niedriger Raumton der Küche und Kontaktgeräusche: trockenes Schneiden, Reibung des nassen Spatels, raschelndes Backpapier, Schüsselklirren, Teigklebrigkeit. Keine Hintergrundmusik, Dialoge, Erzählungen oder Stimmen.
+
+[Negativ]
+Text, Titel, Bildunterschriften, Untertitel, Zahlen, Beschriftungen, Logos,
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092215626962190336/img/VSOTkTNsv8yUxFfS.jpg" width="600" alt="Handgezeichnete 2D-Animation: Japanisches Kochen">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9877)**
+
+**Autor:** [riotboy](https://x.com/riotboy2024) | **Quelle:** [Link](https://x.com/riotboy2024/status/2092217560788000816) | **Veröffentlicht:** Aug 25, 2026
 
 ---
 ### Wüsten-Sci-Fi-Epos: Erwachen des Artefakts
@@ -2955,667 +3514,6 @@ Die Klauen des Drachen treffen die Protagonistin nicht direkt; sie bewegt sich h
 **Autor:** [mayv@簡単プロ級プロンプト公開中！](https://x.com/haruuraeadss) | **Quelle:** [Link](https://x.com/haruuraeadss/status/2091045370805817540) | **Veröffentlicht:** Aug 22, 2026
 
 ---
-### Das Sammeln urbaner Klänge: Surrealismus
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein komplexer, filmisch-surrealistischer Prompt, bei dem eine Figur physisch Stadtgeräusche sammelt, bis die Stadt verstummt.
-
-#### 📝 Prompt
-
-```
-KAMERA:
-Eine kontinuierliche, filmische Einstellung ohne Schnitte. Beginn mit einer langsamen Kamerafahrt auf Straßenhöhe. Die Figur wird aus einer Dreiviertel-Rückenansicht verfolgt. Allmähliche Annäherung an die Hände der Figur, während die unsichtbaren Klänge sichtbar werden. Abschluss mit einem dramatischen Herauszoomen (Pullback).
-
-SCHAUPLATZ:
-Eine realistische, moderne Stadtstraße im Morgengrauen. Weiches Morgenlicht, leichter Nebel, entfernter Verkehr, Fußgänger, Vögel, Fahrräder und subtile urbane Bewegungen. Fotorealistische Umgebung.
-
-0–3 SEKUNDEN:
-Die Figur geht durch die Straße.
-
-Alles klingt normal: entfernter Verkehr, Schritte, Vögel und Wind.
-
-Plötzlich bleibt die Figur stehen.
-
-Ein schwaches, durchscheinendes Kräuseln erscheint in der Luft neben einem vorbeifahrenden Auto, geformt wie ein kleines, schwebendes Band aus vibrierendem Glas.
-
-3–6 SEKUNDEN:
-Die Figur streckt die Hand aus und greift sanft nach dem schwebenden Kräuseln.
-
-In dem Moment, in dem sie es berührt, wird das umliegende Auto vollkommen lautlos.
-
-Die Figur betrachtet das leuchtende, vibrierende Band in ihrer Hand.
-
-6–10 SEKUNDEN:
-Mehr Klänge werden sichtbar.
-
-Vogelgezwitscher erscheint als winzige leuchtende Wellen.
-Schritte werden zu kleinen, durchscheinenden Impulsen.
-Verkehrslärm wird zu langen, vibrierenden Bändern.
-
-Die Figur sammelt sie ruhig mit beiden Händen ein.
-
-Mit jedem gesammelten Klang wird der entsprechende Teil der Stadt vollkommen lautlos.
-
-10–12 SEKUNDEN:
-Die Figur presst alle gesammelten Klänge zwischen ihren Handflächen zusammen.
-
-Tausende leuchtende Schallwellen kollabieren zu einer winzigen, strahlenden Kugel.
-
-Die gesamte Stadt wird plötzlich vollkommen lautlos.
-
-12–15 SEKUNDEN:
-Die Figur lässt die Kugel los.
-
-Sie steigt einige Meter in die Luft.
-
-Die Kugel dehnt sich plötzlich zu einer gigantischen, unsichtbar wirkenden Schockwelle aus, die vollständig aus leuchtenden Klangmustern besteht.
-
-Für einen Augenblick kehrt jeder Klang gleichzeitig zurück.
-
-Vögel fliegen auf, Autos bewegen sich, Menschen reagieren, Blätter beben heftig.
-
-Dann SCHNITT AUF SCHWARZ.
-
-VISUELLER STIL:
-Fotorealistischer filmischer Surrealismus, originelles visuelles Design, realistische urbane Umgebung, subtile atmosphärische Beleuchtung, physikalisch glaubwürdige Partikelbewegung, durchscheinende Klangstrukturen, zurückhaltende VFX, natürliche menschliche Darstellung, erstklassige filmische Komposition.
-
-SOUND-DESIGN:
-Beginn mit realistischer Stadtatmosphäre.
-Einführung einer schwachen kristallinen Vibration, sobald der erste Klang sichtbar wird.
-Allmähliches Entfernen der Umgebungsgeräusche, während die Figur sie einsammelt.
-Erzeugung absoluter Stille bei 12 Sekunden.
-Bei der finalen Freisetzung: Gleichzeitige Wiederherstellung aller angesammelten Klänge für einen überwältigenden filmischen Moment.
-
-NEGATIV:
-Keine urheberrechtlich geschützten Charaktere, keine erkennbaren Filmszenen, keine Logos, kein Text, keine Untertitel, kein Wasserzeichen, keine Referenzen auf berühmte Franchises, keine Nachahmung spezifischer Regisseure oder Künstler, keine Cartoon-Ästhetik, keine übernatürlichen Kreaturen, keine Explosionen, keine zufälligen Objekte, keine Szenenschnitte, keine Inkonsistenzen
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091021306997448704/img/43Nx8PXLI--iLeP-.jpg" width="600" alt="Das Sammeln urbaner Klänge: Surrealismus">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9588)**
-
-**Autor:** [Sheikh Sharik 2.0](https://x.com/NoOneIsHere2603) | **Quelle:** [Link](https://x.com/NoOneIsHere2603/status/2091021342602866951) | **Veröffentlicht:** Aug 22, 2026
-
----
-### Filmreifes Fantasy-Anime-Schwertduell
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Ein hochdetaillierter Video-Generierungs-Prompt zur Erstellung eines 22-sekündigen, filmreifen Fantasy-Schwertduells in einer Kirche, mit zwei Anime-Charakteren, komplexer Choreografie und Multi-Winkel-Kamerabewegungen.
-
-#### 📝 Prompt
-
-```
-Verwenden Sie [@Image1] als strikt einzigartigen ersten Frame. Laden Sie keine Referenzvideos, Storyboards oder andere Charakterbilder hoch. Generieren Sie ein 22,27-sekündiges, filmreifes Fantasy-Schwertkampf-Video im 16:9-Breitbildformat, das 3D-Anime-Charaktere mit einer realistischen Kirchenumgebung kombiniert. Links befindet sich der ursprüngliche Purple Lightning Swordsman, rechts die ursprüngliche Scarlet Sakura Swordmistress. Wahren Sie strikt die Konsistenz bei Gesichtern, Frisuren, Kostümen, Waffen, Positionierung und dem Kirchenraum. Es dürfen durchgehend nur zwei Charaktere zu sehen sein. Das Kirchen-Setting ist mit spezifischen Kampfzonen (A, B, C) fixiert. Nutzen Sie Multi-Kamera-Einstellungen mit Schnitten an den Aufprallpunkten. 0-1,3s: Distanz-Engagement zu Beginn; 1,3-2,43s: Low-Angle-Tracking der Beinarbeit; 2,43-3,93s: Erster Zusammenstoß mit Funken sowie violetten/roten Blitzen; 3,93-5,37s: Schlagabtausch mit mehreren Treffern; 5,37-7,5s: Low-Angle-Aufnahme der Bewegung zwischen den Zonen; 7,5-9,57s: Over-the-Shoulder-Tracking; 9,57-10,63s: Nahaufnahme der vorrückenden Scarlet Sakura Swordmistress; 10,63-12,43s: Übergang durch einen Vorhang aus Kirschblütenblättern; 12,43-14,77s: Weitwinkelaufnahme der Kirche und Blütenpfade; 14,77-16,37s: Luftlandung des Purple Lightning Swordsman; 16,37-17,9s: Eintritt durch Blütennebel; 17,9-19,3s: Hochgeschwindigkeits-Sturmangriff am Boden; 19,3-22,27s: Finaler Aufprall und Schockwelle, bei der die Charaktere zurückgeworfen werden. Fokus auf mittlere und nahe Einstellungen mit Low-Angle-Tracking. Keine Zeitlupe, Musik, Dialoge oder UI.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091008325957955584/img/k-TapVPiSrri5Mlg.jpg" width="600" alt="Filmreifes Fantasy-Anime-Schwertduell">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9655)**
-
-**Autor:** [Arvin](https://x.com/Arvin010717) | **Quelle:** [Link](https://x.com/Arvin010717/status/2091008830247514414) | **Veröffentlicht:** Aug 22, 2026
-
----
-### Action-geladene Verteidigung in der Küche
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein strukturierter Storyboard-Entwurf für eine 30-sekündige Actionsequenz, in der ein scheinbar gewöhnlicher Vater seine Tochter während eines Hauseinbruchs beschützt.
-
-#### 📝 Prompt
-
-```
-Erstelle eine Storyboard-Karte für jede Szene - [0:00–0:04] VISUELL: Warme Küche, Abend. TOM (40er, ruhig, unauffällig) deckt den Tisch. Seine Tochter LILY (8) malt an der Theke. Normales, gemütliches Leben. LILY: „Papa, können wir nach dem Abendessen einen Film schauen?“ TOM (lächelnd): „Nur, wenn du diesmal dein Gemüse aufisst.“ SFX: klappernde Teller, sanfte Küchenatmosphäre. [0:04–0:07] VISUELL: Der Strom fällt aus. Das Haus wird dunkel. Toms Lächeln verschwindet sofort – seine gesamte Körperhaltung ändert sich, ruhig und wachsam. LILY (flüsternd, verängstigt): „Papa?“ TOM (leise, kontrolliert): „Bleib hinter mir. Sofort.“ SFX: harte Stille, entferntes Klirren von Glas im Obergeschoss. [0:07–0:11] VISUELL: Die Haustür wird eingetreten – drei bewaffnete EINDRINGLINGE in taktischer Ausrüstung stürmen herein, ihre Taschenlampen schneiden durch die Dunkelheit. Tom schiebt Lily hinter die Theke. EINDRINGLING 1 (schreiend): „Runter auf den Boden! SOFORT!“ TOM (flach, todernst): „Falsches Haus.“ SFX: Tür schlägt auf, Stiefel auf Hartholz, Waffe wird durchgeladen. [0:11–0:16] VISUELL: ULTRASCHNELLE KAMPFSEQUENZ. Tom entwaffnet Eindringling 1 mit einer brutalen Bewegung, schleudert ihn gegen einen Schrank – Glas zersplittert (starker VFX-Effekt: Glassplitter kurzzeitig in der Luft eingefroren, dann geht es weiter). Dreht sich, um den Schlag von Eindringling 2 zu blocken. EINDRINGLING 2 (verblüfft): „Er ist nicht nur ein—“ TOM (unterbricht ihn, setzt zum Schlag an): „Papa. Ich bin nur ein Papa.“ SFX: Schrank zersplittert, Knochenknacken, Stöhnen, Glasregen. [0:16–0:20] VISUELL: Eindringling 3 schießt – Tom stößt eine Propangasflasche vom Herd in die Schusslinie. MASSIVE VFX-EXPLOSION reißt durch die Küche und schleudert Tom und Eindringling 3 in Zeitlupe durch die Wand in den nächsten Raum, überall Trümmer und Feuer. LILY (schreiend): „PAPA!“ SFX: ohrenbetäubender Explosionsknall, Holz splittert, Ohrenklingeln-Effekt, Feuerknistern. [0:20–0:24] VISUELL: Der Rauch verzieht sich. Tom erhebt sich aus den Trümmern, gezeichnet, blutend, schwer atmend – aber er steht. Eindringling 3 ist am Boden. Er schwankt zurück in Richtung Küche. TOM (heiser, dringend): „Lily!“ SFX: sich setzende Trümmer, leises Feuerknistern, das Klingeln in den Ohren weicht echten Geräuschen. [0:24–0:28] VISUELL: Lily rennt hinter der Theke hervor, unverletzt, und stürzt sich schluchzend vor Erleichterung in seine Arme. Er sinkt auf die Knie und hält sie fest. LILY (weinend, gedämpft): „Du hast gesagt, du bist nur ein Papa.“ TOM (mit brüchiger Stimme, hält sie fest): „Das bin ich. Genau deshalb.“ SFX: knisterndes Feuer im Hintergrund, Sirenen nähern sich leise, ihr Schluchzen wird ruhiger. [0:28–0:30] VISUELL: Totale – die zerstörte, rauchende Küche hinter ihnen, rote und blaue Notlichter beginnen durch die zerbrochenen Fenster zu flackern. Halten auf die Umarmung. SFX: Sirenen werden lauter, Wind weht durch die zerbrochene Wand, sanfter letzter Klavierton.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091004945046913025/img/kVAKo1KDoRliIFTb.jpg" width="600" alt="Action-geladene Verteidigung in der Küche">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9583)**
-
-**Autor:** [Shara I Ai Video Creator](https://x.com/itsshara_ai) | **Quelle:** [Link](https://x.com/itsshara_ai/status/2091004996615827895) | **Veröffentlicht:** Aug 22, 2026
-
----
-### Anime-Kochszene Animations-Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein umfassender Prompt für eine 30-sekündige handgezeichnete 2D-Animation, die japanische Kochkunst zeigt und in 12 Segmente unterteilt ist.
-
-#### 📝 Prompt
-
-```
-Ein 30-sekündiges Video, bestehend aus 12 Szenen von jeweils 2,5 Sekunden Länge, das ausschließlich aus Text generiert wurde, ohne Referenzbilder oder Storyboards.
-
-[Kunststil]
-Original japanisches, handgezeichnetes 2D-Animationsvideo zum Thema Kochen. Optisch komplett handgezeichnet.
-Linien: Weiche, scharfe Konturen
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090982854520168449/img/VhL4188um_zVulQB.jpg" width="600" alt="Anime-Kochszene Animations-Prompt">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9662)**
-
-**Autor:** [AI活用ラボ@Levela](https://x.com/hata_AI_master) | **Quelle:** [Link](https://x.com/hata_AI_master/status/2090983200726425839) | **Veröffentlicht:** Aug 22, 2026
-
----
-### Heavy-Metal-Anime-Musikvideo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein umfassender Prompt für ein energiegeladenes Heavy-Metal-Anime-Musikvideo mit drei Bandmitgliedern auf einem Stadtdach, inklusive dynamischer Kameraführung und synchronisierten Liedtext-Segmenten.
-
-#### 📝 Prompt
-
-```
-Erstelle ein **30-sekündiges Heavy-Metal-Musikvideo im Anime-Stil** mit diesen drei Bandmitgliedern.
-**K1** ist der Bassist links im Bild, **D1** ist der Gitarrist rechts im Bild und **G1** ist der Schlagzeuger in der Mitte.
-Der Schauplatz ist eine **nächtliche Dachbühne** mit der **AB/CD**-Plattform, mehreren Verstärkern, Scheinwerfern und einer Skyline im Hintergrund.
-Der Song ist **schnell, unterhaltsam, intensiv und dynamisch**, bei **180 BPM**. Priorisiere die Energie und den Groove der Performance.
-Verwende einen **schnellen Schnitt im Musikvideo-Stil** mit einer natürlichen Mischung aus **Gesichts-Nahaufnahmen, Hand-Nahaufnahmen, Aufnahmen vom Bass- und Gitarrenspiel, Nahaufnahmen der Trommelschläge, Froschperspektiven, Vogelperspektiven, Frontalaufnahmen, diagonalen Aufnahmen und leichten Kamerabewegungen um die Musiker herum**.
-Gib jedem der drei Mitglieder klare Spotlight-Momente, insbesondere um ihre **Gesichtsausdrücke, Spielbewegungen und die Intensität ihrer Performance** zu zeigen.
-Stimme den Ablauf auf den Liedtext ab:
-**„Stuffed again, I can't deny / Third plate calling, don't ask why / Rice and ramen, sweet and fried / OVERFED! OVERFED! / No regrets, I ate it all / Rolling home, I hit the wall! / OVERFED tonight!”**
-Baue das Video natürlich vom **Intro über die Strophe bis zum Refrain** mit steigender Spannung auf.
-**Letzte Einstellung:** K1 und D1 stehen hinter dem Schlagzeug, G1 in der Mitte, endend mit einer **Nahaufnahme aller drei zusammen**.
-Erstelle es in **hoher Qualität** mit **konsistentem Aussehen der Charaktere, starker Live-Performance-Beleuchtung und energiegeladener Kameraführung**.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090978383278809088/img/-CNLtPPo-pfh4u_k.jpg" width="600" alt="Heavy-Metal-Anime-Musikvideo">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9598)**
-
-**Autor:** [Hei](https://x.com/heisuke123) | **Quelle:** [Link](https://x.com/heisuke123/status/2090979140770136297) | **Veröffentlicht:** Aug 22, 2026
-
----
-### Komödie über empfindungsfähige Kaffeetassen
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein animierter Comedy-Kurzfilm-Prompt über eine Gruppe von Kaffeetassen, die um die Aufmerksamkeit eines Menschen buhlen, nur um für eine geliebte Tasse mit Macke ignoriert zu werden.
-
-#### 📝 Prompt
-
-```
-Filmischer animierter Comedy-Kurzfilm, 15 Sekunden. Ein Küchenschrank öffnet sich. Dutzende Kaffeetassen stehen schweigend in einer Reihe. Sie sehen alle aufgeregt aus. Der Mensch greift hinein. Jede Tasse versucht verzweifelt, bemerkt zu werden. Eine riesige Tasse streckt sich nach oben. Eine schicke Tasse schüttelt sich dramatisch. Eine bunte Tasse winkt mit ihrem Henkel. Doch der Mensch ignoriert sie alle und greift nach derselben alten Tasse mit der Macke. Im Schrank wird es still. Die Tasse mit der Macke blickt mit einem selbstgefälligen Lächeln zu den anderen zurück. Als sie hinausgetragen wird, sagt sie leise: „Jeden Morgen.“ Die anderen Tassen starren sie wütend an. Eine flüstert: „Ich hasse diese Tasse.“ Schnelle, ausdrucksstarke Animation, einfaches visuelles Storytelling, übertriebene Charakterreaktionen, filmisches Comedy-Timing. Der Witz muss sofort verständlich sein: Menschen haben immer eine Lieblingstasse und ignorieren alle anderen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090962591535202304/img/afh6cCk_G7ozMsQa.jpg" width="600" alt="Komödie über empfindungsfähige Kaffeetassen">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9590)**
-
-**Autor:** [Alexandra Aisling](https://x.com/AllaAisling) | **Quelle:** [Link](https://x.com/AllaAisling/status/2090963001037799648) | **Veröffentlicht:** Aug 22, 2026
-
----
-### Anime-Charakter: Guten-Morgen-Aufwachen
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ein umfassender Prompt im Storyboard-Stil für Seedance 2.5, der darauf ausgelegt ist, ein Anime-Mädchen zu animieren, wie sie aufwacht, sich streckt und auf die Kamera zukriecht, mit spezifischen Kamera-Locks und Verhaltensvorgaben.
-
-#### 📝 Prompt
-
-```
-EINGABE
-Verwenden Sie das angehängte Referenzbild als ersten Frame des Videos.
-
-FORMAT
-20 Sekunden, 24 fps. Keine Hintergrundmusik. Nur leise Umgebungsgeräusche in Innenräumen. Sanfte Atemgeräusche, das Rascheln von Kleidung und das leise Geräusch von Händen, die den Boden berühren.
-
-KAMERA-LOCK
-Die Kamera ist komplett fixiert. Kein Schwenken, Neigen, Zoomen oder Bewegen. Eine einzige Einstellung. Der Winkel ändert sich nur, wenn sich der Charakter selbst auf das Objektiv zubewegt.
-
-FOKUS-REGEL
-Der Fokus liegt immer auf ihren Körperbewegungen. Es wird keine Zeit darauf verwendet, den Hintergrund, das Licht oder den Raum zu beschreiben. Stellen Sie sicher, dass der Bildschirm in jedem Moment von ihrem Handeln eingenommen wird. Keine einzelne Aktion darf länger als 3 Sekunden dauern. Innerhalb von 3 Sekunden muss zur nächsten Aktion übergegangen werden. Keine Momente völliger Stille.
-
-IDENTITÄTS-LOCK
-Verändern Sie weder Gesicht, Frisur, Haarfarbe, Augen noch Kleidung des ersten Frames. Verwandeln Sie sie nicht in eine andere Person.
-
-VISUELLER STIL
-Behalten Sie den Farbton, den Kontrast, die Schärfentiefe und die Textur des ersten Frames durchgehend bei. Ändern Sie weder die Richtung noch die Intensität der Beleuchtung.
-
-ZEITSTRAHL
-
-0,0–2,0 s
-Der Kopf sinkt nach vorne und hebt sich dann ruckartig. Das Haar schwingt leicht verzögert mit.
-
-2,0–4,0 s
-Ein Auge mit dem Handrücken einer geballten Faust reiben. Danach auch das andere Auge reiben.
-
-4,0–6,0 s
-Ein kleines Strecken. Der Körper lehnt sich zur Seite und kehrt dann zurück.
-
-6,0–8,0 s
-Blickkontakt mit dem Objektiv. Der Hals neigt sich, der Oberkörper folgt. Der Mund öffnet sich leicht.
-
-8,0–10,0 s
-Beide Hände vor sich auf den Boden legen, den Oberkörper nach vorne lehnen. Das Haar fällt von den Schultern nach vorne.
-
-10,0–16,0 s
-Auf allen Vieren auf das Objektiv zukriechen. Eine Hand nach der anderen, der Oberkörper schwingt bei jeder Bewegung leicht nach links und rechts. Das Haar schwingt neben dem Gesicht. Das Gesicht wird im Bild allmählich größer. Während der Annäherung bleiben die Augen fest auf das Objektiv gerichtet.
-
-16,0–18,0 s
-Super-Nahaufnahme. Das Gesicht nimmt den Großteil des Bildschirms ein. Die Mundwinkel heben sich, die Augen verengen sich und sie sagt mit fröhlicher, lebhafter Stimme „Guten Morgen“.
-
-18,0–20,0 s
-Leicht zurückgewichen. Die Augen verengen sich zu Halbmonden, die Nase kräuselt sich und die Wangen heben sich. Die Schultern wiegen sich leicht. Verbleibt in diesem Ausdruck.
-
-NEGATIVE EINSCHRÄNKUNGEN
-Kamerabewegungen, Zoomen und Schwenken sind untersagt. Keine Schnitte. Keine Phasen völliger Stille. Es ist untersagt, einzelne Aktionen länger als 3 Sekunden dauern zu lassen. Es ist untersagt, Zeit für Hintergrund- oder Szenenbeschreibungen zu verwenden. Posen, Victory-Zeichen, Zwinkern und Handküsse sind untersagt. Schnelle oder ruckartige Bewegungen sind untersagt. Aufstehen ist untersagt. Das Ändern der Charakteridentität ist untersagt. Die Umwandlung in einen realistischen Stil ist untersagt. Kein Sprechen außer „Guten Morgen“.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090794906533212160/img/o4J6xVfUWKk3r79e.jpg" width="600" alt="Anime-Charakter: Guten-Morgen-Aufwachen">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9659)**
-
-**Autor:** [輪廻タヲ👁️‍🗨️👄👁️‍🗨️](https://x.com/TaoRInne) | **Quelle:** [Link](https://x.com/TaoRInne/status/2090923147394519321) | **Veröffentlicht:** Aug 21, 2026
-
----
-### Bergsteiger im Schneesturm
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein dramatischer Luftaufnahme-Prompt eines Bergsteigers, der bei schwindendem Licht in einem heftigen Schneesturm kämpft.
-
-#### 📝 Prompt
-
-```
-Dramatische Luftaufnahme mit weitläufigen Bewegungen: ein Bergsteiger steckt in einem Schneesturm fest und versucht verzweifelt, auf einem verschneiten Berggipfel Schutz zu finden. Umgeben von wirbelndem Schnee und bedrohlichen Wolken, beleuchtet vom schwindenden Licht vor Einbruch der Dunkelheit, in einem markanten, intensiven, filmischen Stil.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090890283449831424/img/VNy5yL99b_Rp4ppB.jpg" width="600" alt="Bergsteiger im Schneesturm">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9593)**
-
-**Autor:** [DeCat](https://x.com/DeCat2025) | **Quelle:** [Link](https://x.com/DeCat2025/status/2090890434901950545) | **Veröffentlicht:** Aug 21, 2026
-
----
-### Romantische Komödie im TikTok-Stil
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Ein Video-Prompt im Hochformat für eine 30-sekündige Szene einer romantischen Komödie. Es zeigt eine weibliche Hauptdarstellerin in einem Neon-Studio, die durch einen skriptbasierten Dialog und spezifische Kamerabewegungen mit einer Stimme aus dem Off interagiert.
-
-#### 📝 Prompt
-
-```
-[Stil] Romantische Komödie, Neon-Studio-Textur, realistisches Live-Action, 4K HD, exquisite Hauttextur
-[Dauer] 30 Sekunden
-[Seitenverhältnis] 9:16 Hochformat
-[Szene] Ein stilvolles Fotostudio, umgeben von pinkfarbenen Neonlichtern, Hintergrund unscharf, die weibliche Hauptdarstellerin steht in der Mitte des Bildes und blickt direkt in die Kamera
-[Charakter] Weibliche Hauptdarstellerin @Image 1, Gesichtszüge, Frisur und Körper bleiben durchgehend konsistent, trägt ein trägerloses pinkfarbenes Bühnenoutfit und eine Perlenkette; der männliche Hauptdarsteller ist nicht zu sehen, nur eine junge männliche Stimme aus dem Off ist zu hören
-[Requisite] Schwarz-weißes Notizbuch mit festem Einband
-[Ton] Komplett originelles englisches Audio, präzises Lip-Sync, natürlicher Dialogaustausch zwischen männlicher und weiblicher Stimme, nur leichtes Umgebungsgeräusch im Innenraum; keine Untertitel, kein Text, keine Hintergrundmusik
-[Kamera] Durchgehende Aufnahme aus derselben frontalen Position, keine Schnitte; im ersten Teil eine feste mittlere Nahaufnahme, in den letzten 5 Sekunden langsames Heranfahren an eine Gesichtsnahaufnahme (Slow Push-in)
-
-[00:00-00:04] Einstellung 1: Liebesgeständnis und plötzlicher Stopp (Mittlere Nahaufnahme)
-Die weibliche Hauptdarstellerin schaut direkt in die Kamera, die Mundwinkel sind natürlich nach oben gezogen, der Kopf leicht geneigt.
-[Anleitung für Dialog-Lip-Sync]
-Männliche Stimme aus dem Off sagt zärtlich: „Hey, I like you.“
-Das Lächeln der Hauptdarstellerin vertieft sich, die rechte Hand liegt leicht auf ihrer Brust: „I like you too.“
-Männliche Stimme aus dem Off fragt sofort: „Would you be my girlfriend?“
-Das Lächeln der Hauptdarstellerin erstarrt plötzlich, eine Hand wird erhoben, um ihn zu stoppen: „Wait.“
-Sie nimmt schnell das Notizbuch und öffnet es, ihr Körper lehnt sich leicht vor, ihr Blick wird ernst und prüfend.
-
-[00:04-00:09.5] Einstellung 2: Erste Runde des Verhörs (Statische mittlere Nahaufnahme)
-Die Hauptdarstellerin hält das Notizbuch mit einer Hand und zählt jeden Punkt mit der anderen ab; nach jeder Antwort blickt sie kurz auf das Notizbuch und dann sofort wieder auf, um die nächste Frage zu stellen. Die Bewegungen sind präzise, ohne Pausen.
-[Durchgehender Dialog]
-Sie: „Are you single?“
-Er: „Yes.“
-Sie: „Do you have a girlfriend?“
-Er: „No.“
-Die Augenbraue der Hauptdarstellerin hebt sich, der Kopf neigt sich leicht zur anderen Seite: „Do you have a secret girlfriend?“
-Er: „No.“
-
-[00:09.5-00:14.9] Einstellung 3: Eskalierende Fragen (Schneller Dialog)
-Die Hauptdarstellerin blättert im Notizbuch um, das Sprechtempo nimmt allmählich zu; jedes Mal, wenn der Mann mit „No“ antwortet, macht sie schnell ein Häkchen mit dem Stift im Notizbuch. Die Augen wechseln schnell zwischen Kamera und Notizbuch.
-[Durchgehender Dialog]
-Sie: „Do you have a girlfriend abroad?“
-Er: „No.“
-Sie: „Do you have an online girlfriend?“
-Er: „No.“
-Die Hauptdarstellerin blinzelt leicht: „Are you in a situationship?“
-Er: „No.“
-
-[00:14.9-00:20.3] Einstellung 4: Ernsthafte Überprüfung (Fixierte Kamera)
-Die Hauptdarstellerin lächelt nicht mehr, die Stirn ist leicht gerunzelt, sie starrt in die Kamera; beim Fragen tippt sie mit der Stiftspitze auf das Notizbuch und fährt erst mit der nächsten Frage fort, nachdem der Mann geantwortet hat.
-[Durchgehender Dialog]
-Sie: „You're still in love with your ex?“
-Er: „No.“
-Sie: „Are you in an open relationship?“
-Er: „No.“
-Die Hauptdarstellerin hält kurz inne und hebt eine Augenbraue: „Do you have a friend with benefits?“
-Er: „No.“
-
-[00:20.3-00:26.4] Einstellung 5: Letzter Check (Subtiler Push-in)
-Die Kamera beginnt ein leichtes Heranfahren. Die Hauptdarstellerin notiert schnell, während sie kontinuierlich nachfragt; ihr Ton bleibt ernst, aber die Stirnfalten entspannen sich mit jedem „No“ allmählich.
-[Durchgehender Dialog]
-Sie: „Are you married?“
-Er: „No.“
-Sie: „Have you been married?“
-Er: „No.“
-Sie: „Do you have kids?“
-Er: „No.“
-Die Hauptdarstellerin schließt das Notizbuch halb: „Do you have a crush?“
-Er: „No.“
-
-[00:26.4-00:30] Einstellung 6: Bestätigung und Akzeptanz (Nahaufnahme-Pointe)
-Die Kamera fährt auf eine Gesichtsnahaufnahme heran. Die Hauptdarstellerin legt das Notizbuch beiseite, kommt näher an die Kamera, hebt eine Augenbraue und formt mit Daumen und Zeigefinger ein kleines Fingerherz.
-[Durchgehender Dialog]
-Die Hauptdarstellerin bestätigt Wort für Wort: „Do you like girls for sure, right?“
-Er antwortet sofort: „Yes.“
-Die Hauptdarstellerin hält eine halbe Sekunde inne, ihr ernster Ausdruck löst sich plötzlich in ein zufriedenes Lächeln auf, der Zeigefinger zeigt auf die Kamera: „All right, I'll be your girlfriend.“
-Nach dem Sprechen behält sie die zeigende Geste zur Kamera bei, neigt den Kopf leicht und lächelt für das letzte Bild.
-
-[Performance-Steuerung] Die Emotionen folgen einer Reihenfolge: glücklich, plötzlich alarmiert, ernsthafte Überprüfung, allmählich entspannt, zufriedene Akzeptanz; die Wechsel müssen durch die Zeilen des Mannes ausgelöst werden. Verwenden Sie während der Befragungsphase das Hochziehen der Augenbrauen, Kopfneigungen, Blicke nach unten und Häkchen mit dem Stift; verwenden Sie nicht für jeden Satz denselben Ausdruck. Die Antworten des Mannes sind kurz und klar und müssen erfolgen, nachdem die Frau zu Ende gesprochen hat; männliche und weibliche Stimmen sollten sich nicht überschneiden.
-
-[Generierungsbeschränkungen] Nur die weibliche Hauptdarstellerin entsprechend @Image 1 erscheint; der männliche Hauptdarsteller darf weder Gesicht, Körper noch Hände zeigen; Gesichtsform, Frisur, Kleidung, Halskette, Notizbuch und Beleuchtung müssen konsistent bleiben; kein Szenenwechsel während der gesamten Aufnahme.
-
-[Vermeiden] Untertitel, chinesischer Text, englischer Text, Sticker, Wasserzeichen, Dialogübersetzung, Hintergrundmusik, falscher Sprecher, Frau sagt „Ja/Nein“ für den Mann, Mann unterbricht, Lip-Sync-Abweichungen, mechanisches Vorlesen, verpasste Fragen, wiederholte Zeilen, plötzliche Schnitte, zufällige Kamerabewegungen, übertriebenes Starren, steife Mimik, bedeutungslose Gesten, verschwindendes Notizbuch, Gesichtsveränderungen, Kleiderwechsel, Fingerdeformitäten, plastische Haut.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090817704106024960/img/DjjEvJGWFK1HVoZi.jpg" width="600" alt="Romantische Komödie im TikTok-Stil">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9597)**
-
-**Autor:** [John](https://x.com/johnAGI168) | **Quelle:** [Link](https://x.com/johnAGI168/status/2090818191089979669) | **Veröffentlicht:** Aug 21, 2026
-
----
-### Waldwächter-Anime-Kampf
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein lebendiger Video-Prompt im Anime-Stil, der einen winzigen Waldwächter zeigt, der ein Dorf mit Sakuga-Animation vor mechanischen Jägern verteidigt.
-
-#### 📝 Prompt
-
-```
-Ein winziger Waldwächter mit einem überdimensionalen Holzschwert beschützt ein magisches Dorf vor einer anrückenden Armee mechanischer Jäger. Zunächst versteckt er sich hinter einem Pilz, während riesige Maschinen die Bäume zertrampeln, dann stürmt er vor, springt zwischen Wurzeln umher, durchtrennt Kabel und befreit gefangene Kreaturen, während der Wald selbst inmitten des Kampfes erwacht. Die Maschinen setzen einen kolossalen Bohrtitanen ein, der beginnt, den heiligen Baum im Zentrum des Dorfes zu zerreißen, was den Wächter dazu zwingt, an dessen rotierendem Körper hochzuklettern, während Ranken, Vögel und leuchtende Geister an seiner Seite angreifen. Er erreicht die Spitze, rammt das Holzschwert in den Kern der Maschine und kanalisiert die gesamte Kraft des Waldes hindurch. Ein farbenfrohes Abenteuer-Anime mit explosiver Sakuga-Animation, verspieltem Größenkontrast, flüssiger Kreaturenanimation, weitläufigen Kamerafahrten durch den Wald, ausdrucksstarkem Squash-and-Stretch, Cel-Shading-Charakteren vor detailreich gemalten Hintergründen, warmem grünem Sonnenlicht, türkisem Geisterleuchten, orangefarbenen Funken und fliegenden Blättern. Eine freudige, heldenhafte Atmosphäre, die damit endet, dass sich der Bohrtitan in einen gigantischen blühenden Baum verwandelt, während jede Maschine der Armee von Ranken überwuchert wird und der Wächter in einer Blüte über dem wiederhergestellten Dorf landet.
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2090816193447829504/pu/img/7Hm67uU1m4swQ1uV.jpg" width="600" alt="Waldwächter-Anime-Kampf">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9591)**
-
-**Autor:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI) | **Quelle:** [Link](https://x.com/CharaspowerAI/status/2090816224800149786) | **Veröffentlicht:** Aug 21, 2026
-
----
-### Sitcom-Küche: Leere Milchpackung
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Multi-Kamera-Sitcom-Prompt über eine Familieninteraktion in einer Küche rund um eine leere Milchpackung, der mit dem komödiantischen Auftritt neuer Charaktere endet.
-
-#### 📝 Prompt
-
-```
-0,0s–1,2s Weite Einstellung (WS), statische Multi-Kamera. Vater (Mitte 40, durchschnittliche Statur, türkisfarbener Pullover, kurzes braunes Haar), Mutter (Mitte 40, lockiges braunes Haar, gemusterte Bluse), Tochter (20, lockiges Haar, bunter Pullover), Sohn (18, Jeansjacke, kurzes braunes Haar) sitzen weiterhin am Küchentisch. Die leere Milchpackung steht noch am Tischrand, leicht geneigt. Vater lehnt sich leicht zurück, die Hand ruht in der Nähe der Müslipackung. Dialog: Vater: „Okay… also ist jetzt auch noch der Kühlschrank leer?“ (LACHKONSERVE leicht) Übergang: Harter Schnitt. 1,2s–2,4s Halbnahaufnahme (MS), leichter Zoom hinein. Mutter dreht ihre Tasse im Uhrzeigersinn, Keramik kratzt leicht. Dialog: Mutter: „Es sei denn, die Milch hat laufen gelernt…“ Tochter unterdrückt ein Grinsen. Übergang: Fokusverlagerung. 2,4s–3,6s Über-die-Schulter-Perspektive (OTS) von Tochter → Küchentür (rechte Seite des Bildes). Hinterkopf und Schulter der Tochter sichtbar. Tür im Hintergrund, geschlossen. Ein leises Klopfen unterbricht die Szene. Kein Gesicht sichtbar (POV-Regel durchgesetzt). SFX: Klopf. Klopf. Übergang: Audio-gesteuerter Schnitt. 3,6s–4,8s Nahaufnahme (CU) Reaktion der Tochter. Gesicht sichtbar: Augenbrauen heben sich, Lippen öffnen sich leicht. Dialog: Tochter: „Erwarten wir Gäste?“ Emotionale Veränderung: Verwirrung → Neugier. Übergang: Harter Schnitt. 4,8s–6,2s Weite Einstellung (WS), Kameraschwenk nach rechts zur Tür (Hauptbewegung). Familie bleibt links im Bild sitzen, während die Tür in die Bildmitte rückt. Türklinke dreht sich dezent. SFX: Klinken-Klicken, Scharnier-Quietschen. Übergang: Bewegungsanschluss. 6,2s–7,5s Über-die-Schulter-Perspektive (OTS) von Vater → Tür öffnet sich. Hinterkopf des Vaters, Schultern angespannt. Tür schwingt nach innen. Zwei Silhouetten erscheinen im Türrahmen. Kein Gesicht sichtbar. Übergang: Lichtenthüllung. 7,5s–9,0s Halbnahaufnahme (MS), frontale Enthüllung. Neuer Charakter 1 (Blonder Mann, Anfang 30, groß, schlank, blonde 80er-Jahre-Frisur, beigefarbene Jacke, gestreiftes Polohemd, blaue Jeans). Neuer Charakter 2 (Frau, Anfang 30, lockiges blondes Haar, Jeansjacke, rosa Oberteil, Jeans, Umhängetasche). Sie stehen lässig im Türrahmen, entspannte Körperhaltung. Dialog (Blonder Mann): „Hey… äh – hat jemand Milch?“ (LACHKONSERVE laut) Übergang: Harter Schnitt. 9,0s–10,2s Nahaufnahme (CU) Reaktion des Vaters. Gesicht sichtbar: Augen weiten sich, Kiefer spannt sich an, Lippen pressen sich zusammen und öffnen sich dann leicht. Dialog: Vater: „Das ist doch nicht euer Ernst.“ Emotionale Veränderung: Ungläubigkeit → Frustration. Übergang: Smash-Cut. 10,2s–11,5s Über-die-Schulter-Perspektive (OTS) von Mutter → Türrahmen. Hinterkopf der Mutter, Tasse leicht angehoben. Neues Paar im Bild sichtbar, steht still. Blonder Mann zuckt leicht mit den Schultern, Hände entspannt. Dialog (Frau): „Wir sind dem Duft von Müsli gefolgt…“ (LACHKONSERVE) Übergang: Match-Cut. 11,5s–13,0s Halbnahaufnahme (2-Personen-Einstellung), Tochter + Sohn. Tochter lehnt sich leicht zum Sohn, Ellbogen drückt auf den Tisch. Sohn neigt den Kopf, Schultern hochgezogen. Dialog (Sohn): „Das wird langsam seltsam.“ Übergang: Harter Schnitt. 13,0s–15,0s Weite Einstellung (WS), komplette Küche + Türrahmen. Alle Charaktere sichtbar. Tür bleibt offen, neues Paar steht lässig da. Milchpackung steht weiterhin leer auf dem Tisch.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090800814319144960/img/TwKJpsNiKrS4u84K.jpg" width="600" alt="Sitcom-Küche: Leere Milchpackung">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9584)**
-
-**Autor:** [Gumvue Studio](https://x.com/GumVue) | **Quelle:** [Link](https://x.com/GumVue/status/2090800910855242088) | **Veröffentlicht:** Aug 21, 2026
-
----
-### Dark-Fantasy-Drachenritt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein cineastischer Dark-Fantasy-Video-Prompt, in dem zwei Kinder auf einem schuppigen Drachen reiten, während dieser in einen sonnigen, bewölkten Himmel abhebt.
-
-#### 📝 Prompt
-
-```
-Ein realistisches Dark-Fantasy-Video, das mit einer Nahaufnahme von zwei kleinen, hellhaarigen Kindern beginnt, die auf dem Rücken eines großen, dunkel geschuppten Drachen mit leuchtend orangen Augen sitzen. Der Drache öffnet sein Maul zum Brüllen, während die Kinder lächeln und sich festklammern. Plötzlich schwenkt die Kamera sanft heraus, während der Drache in die Luft abhebt, seine massiven Flügel ausbreitet und hoch in einen bewölkten, sonnigen Himmel fliegt. Cineastische Beleuchtung, dramatische Kamerabewegungen, fotorealistische Texturen, dynamische Windeffekte, hochdetaillierter 3D-Fantasy-Stil.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090792527641157632/img/HlMq-Ya2XZumkdGl.jpg" width="600" alt="Dark-Fantasy-Drachenritt">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9586)**
-
-**Autor:** [Maya](https://x.com/MayaAiCreator) | **Quelle:** [Link](https://x.com/MayaAiCreator/status/2090792558943162650) | **Veröffentlicht:** Aug 21, 2026
-
----
-### Xianxia-Kurzfilm mit trockenem Humor
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Ein komplexes Multi-Shot-Skript für eine 15-sekündige chinesische Xianxia-Komödie. Es zeichnet sich durch eine spezifische „Drei-Schritte“-Comedy-Struktur, Charakter-IDs für Konsistenz und detaillierte Kameraanweisungen aus.
-
-#### 📝 Prompt
-
-```
-Seedance | 15-sekündiger Kurzfilm mit trockenem Humor | „Der Vierte“
-
-I. Missionsziel
-Erstellung eines vollständigen und zusammenhängenden 15-sekündigen chinesischen Xianxia-Kurzfilms (Fantasy).
-
-Allgemeine Stilanforderungen:
-Filmische, realistische Textur
-Ästhetik des klassischen chinesischen Xianxia
-Dekonstruktion des epischen „Auftritts des Rächers“ hin zu einer ernsthaften Survival-Komödie
-Zurückhaltende, trockene Darstellung
-Reaktionsrhythmus wie im Stummfilm
-Klassischer „Drei-Schritte-Aufbau“
-Klare Statusumkehr
-Filmische Textur im Stil der Arri Alexa
-Stabile und klare Mikrodetails im Gesicht
-Feine Filmkörnung
-Natürliches volumetrisches Licht
-
-II. Kernlogik der Komödie
-Nur ein leicht verständlicher Hauptstrang:
-Ein Feind tritt aggressiv auf, um seine drei bereits besiegten Brüder zu rächen, und identifiziert sich stolz als der „vierte Herausforderer“.
-Bis der Meister beiläufig eine sehr gewöhnliche Frage stellt und der Feind plötzlich erkennt: Er ist der Letzte in seiner Sekte, der noch stehen kann und zur Herausforderung angetreten ist.
-
-Humorquellen:
-Verzögerte Reaktion (späte Erkenntnis)
-Überlebensinstinkt eines normalen Menschen
-Ernster Dialogrhythmus
-Der Charakter erkennt das Problem allmählich selbst
-Verbote:
-Charaktere werden plötzlich dumm
-Zufällige Unfälle in der Umgebung
-Übertriebene Slapstick-Einlagen
-
-III. Referenzanker
-Charakteranker
-@Image 1: Charakter-ID A | Schwert-Unsterbliche Senior-Schwester
-@Image 2: Charakter-ID B | Junior-Schwester
-
-Umwelt-DNA
-Alle neu hochgeladenen Hintergrund- und Standortreferenzbilder bestimmen ein einheitliches Set an Umwelt-DNA. Vor der formalen Komposition müssen kompatible Elemente stillschweigend integriert und rekonstruiert werden:
-Echtes Gelände, architektonische Sprache, räumliche Skalierung, Vegetation, Gewässer, Wetter, Bergnebel, Hauptlichtrichtung, Reflexionsverhältnisse, atmosphärische Tiefe, begehbare Pfade.
-Umweltprinzipien:
-Wasser, Nebel, Vegetation, Stoffe und ferne Umgebungsgeräusche müssen eine natürliche Bewegung beibehalten. Die Umgebung muss narrativ neutral bleiben: keine aktiven Gags, keine Handlungsauslöser, kein Vorantreiben von Wendungen, keine Unterbrechung des Charakterrhythmus.
-
-IV. Charakter-Einstellungen
-Charakter-ID A | Schwert-Unsterbliche Senior-Schwester | @Image 1
-Immer die gleiche 25–30-jährige ostasiatische Frau: Groß und schlank, ovales Gesicht, dunkle Mandelaugen, langes schwarzes Haar halb hochgesteckt, fixiert mit einer weißen Jade-Haarnadel, weißes besticktes Seiden-Hanfu, halbtransparente, geschichtete weite Ärmel, silberner Taillengürtel, Jadeanhänger, weiße Stoffstiefel, ein einzelnes silbernes Langschwert.
-Charakter-Temperament: Ruhig, zurückhaltend, niemals übertrieben, behandelt Herausforderer wie tägliche Sekten-Pflichten.
-
-Charakter-ID B | Junior-Schwester | @Image 2
-Immer die gleiche 20–25-jährige ostasiatische Frau: Kleine Statur, rundes und lebhaftes Gesicht, schwarzes Haar geflochten, cyan-grünes Leinen-Hanfu, dunkler Gürtel, hölzerne Haarnadel, schwarze Stoffschuhe, ein einzelnes Schwert aus dunklem Stahl.
-Charakter-Temperament: Schnelle Reflexe, präzises komödiantisches Urteilsvermögen, prägnante Erwiderungen, zurückhaltende, aber lesbare Mimik.
-
-Charakter C | Feindlicher Schwertkämpfer
-Ein wütender feindlicher Schwertkämpfer tritt mit großem Schwung auf und sieht sich als Held, der auf Rache aus ist. In der ersten Hälfte sehr bedrohlich, erkennt er in der zweiten Hälfte allmählich, dass er nicht kämpfen sollte, und wandelt sich schließlich vom „Rächer“ zum „einzigen überlebenden Herausforderer“.
-
-Charakter D | Meister
-Der gleiche betagte Meister, der ein paar Schritte hinter den beiden steht und als stiller Zeuge fungiert. Minimale Zeilen, aber ein Satz vollendet die Kernumkehr, gefolgt von einem letzten leichten verbalen Seitenhieb.
-
-V. 15-sekündige Drei-Shot-Struktur
-Shot 1 | 0–5s | Weit / Totale | Auftritt des Rächers
-Im offenen Bereich, der natürlich gemäß den Referenzbildern geplant wurde: dieselbe weiß gekleidete Senior-Schwester, dieselbe grün gekleidete Junior-Schwester, derselbe Meister. Die räumliche Beziehung ist stabil. Ein wütender feindlicher Schwertkämpfer schreitet ins Bild. Er zieht sein Schwert mit einem „Klang“ und verkündet heldenhaft: „Ich komme, um meine drei älteren Brüder zu rächen!“ Die weiß gekleidete Schwester ist überhaupt nicht nervös und fragt ruhig: „Welche drei?“ Der Feind antwortet sofort: „Der, der ins Wasser gefallen ist, der, der im Baum hängt, und der, der den Berg heruntergerollt ist – sie alle sind meine Brüder!“
-
-Shot 2 | 5–10s | Medium / Cowboy-Shot | Die Bedeutung von „Der Vierte“ ändert sich
-Beibehaltung aller Charaktere, Kostüme und des identischen geografischen Raums. Die Junior-Schwester erkennt ihn schließlich und sagt: „Oh, du bist der Vierte.“ Der Feind richtet sich sofort auf und antwortet stolz: „Korrekt!“ Er darf kein Problem hören, sondern wird sogar noch stolzer. Dann richtet sich der Fokus auf den Meister, der beiläufig fragt: „Wie viele Schüler hat dein Meister noch übrig?“ Der Feind antwortet instinktiv, ohne nachzudenken: „... Nur mich.“ Nach dem Sprechen muss ein Moment absoluter Stille folgen. Nicht zu schnell wegschneiden. Die Verwandlung im Gesicht des Feindes beibehalten: die heldenhafte Aura hängt noch in der Luft, das Gehirn reagiert einen Takt zu spät, dann die Erkenntnis, was dieser Satz bedeutete. Die Junior-Schwester schaut auf sein gezogenes Schwert, dann zurück zu ihm und fragt ganz natürlich: „Kämpfst du noch?“
-
-Shot 3 | 10–15s | Nahaufnahme / Großaufnahme | Überlebensinstinkt besiegt Rache
-Beibehaltung aller Charaktere und Beziehungen. Der Feind schaut zur Schwester, dann zur Junior-Schwester und schließlich auf das Schwert in seiner Hand. Er beginnt ernsthaft, die Konsequenzen zu berechnen. Dann steckt er das Schwert sehr langsam weg und sagt in einem plötzlich reifen Ton: „Warten wir, bis der Meister zwei weitere rekrutiert hat.“ Vollständige Halb-Takt-Pause. Die Schwester nickt ihm tatsächlich formell zu, als würde sie ein echtes martialisches Urteil gutheißen: „Fortschritt.“ Die Junior-Schwester fügt hinzu: „Er hat zumindest gelernt, zu rechnen.“ Fokus auf den Meister, der ernst nickt: „Wenigstens war dieser Ausflug nicht umsonst.“ Dann Großaufnahme. Der Feind versucht, den letzten Rest seiner Würde zu bewahren, und dreht sich zum Gehen um. Nach zwei Schritten hält er inne, ohne sich umzudrehen, und flüstert: „Meine drei Brüder... sie leben alle noch, oder?“ Die Schwester antwortet fast sofort: „Sie leben.“ Die Schultern des Feindes zeigen eine sichtbare, physische Entspannung. Dann geht er mit spürbar schnellerem Schritt davon. Die Junior-Schwester beobachtet seinen Rücken und seufzt: „Diese Sekte hat endlich einen Vorsichtigen hervorgebracht.“ Schließlich verbirgt der Meister im Hintergrund ein kleines Lächeln, während das Bild schwarz wird.
-
-VI. Leistungsanforderungen
-Senior-Schwester: Niemals übertrieben, ruhig, als würde sie tägliche Aufgaben erledigen, erkennt den Rückzug des Feindes formell an.
-Junior-Schwester: Schnelle Reaktionen, stabiles komödiantisches Timing, natürlich gesprochene Zeilen.
-Feind: Erste Hälfte voller Rächer-Dynamik; mittlerer Übergang zeigt den langsamen Zusammenbruch der Helden-Narrative; zweite Hälfte zeigt Überlebensinstinkt und den Versuch, das Gesicht zu wahren.
-Meister: Minimale Zeilen, beiläufiger Ton, aber präzise, extrem subtiles letztes Lächeln.
-
-VII. Kameraarbeit und Ton
-Insgesamt 15 Sekunden, 16:9 horizontal, drei kontinuierliche, klare Shots. Dialog in nativem Mandarin, präzises Lip-Sync, klare komödiantische Pausen. Arri Alexa-Look, stabile, scharfe Gesichtsdetails, natürliches volumetrisches Licht. Zurückhaltende Kamerabewegung, stabile Shots, die den Reaktionen Zeit zum Wirken geben.
-
-VIII. Kontinuität
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090771956962406400/img/Dxmqy1X86oKC2tG4.jpg" width="600" alt="Xianxia-Kurzfilm mit trockenem Humor">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9596)**
-
-**Autor:** [Soran](https://x.com/Soranlan) | **Quelle:** [Link](https://x.com/Soranlan/status/2090773504794808565) | **Veröffentlicht:** Aug 21, 2026
-
----
-### 2000er Jahre MiniDV Balkon-Nacht
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein nostalgischer 15-sekündiger Video-Prompt, der MiniDV-Heimvideos aus den frühen 2000er Jahren einer jungen Frau auf einem ruhigen Wohnungsbalkon bei Nacht simuliert.
-
-#### 📝 Prompt
-
-```
-Authentisches MiniDV-Heimvideo-Material aus den frühen 2000er Jahren. Junge koreanische Frau, 24, langes dunkles Haar, dezentes Make-up, übergroßes gemütliches Sweatshirt und lockere Schlafanzughose, in eine weiche Decke gehüllt. Ruhiger Wohnungsbalkon bei Nacht, warmes Innenlicht fällt durch die offene Tür, kühles blaues Stadtlicht von außen. 4:3 MiniDV, handgeführte Unvollkommenheiten, Bildrauschen bei wenig Licht, Bandkörnung/Kompression, leichtes Suchen des Autofokus. Natürliches, ungezwungenes Verhalten, kein filmischer Hochglanz.
-
-SHOT 1 — 0:00–0:03
-Innenaufnahme in der Totalen mit Blick auf die Balkontür. Sie geht auf die offene Tür zu, fest in eine Decke eingewickelt, schläfrig und neugierig. Sie schiebt die Tür ein Stück weiter auf und tritt nach draußen.
-SHOT 2 — 0:03–0:06
-Schnitt auf eine seitliche Balkonperspektive. Sie macht ein paar kleine Schritte nach draußen und hält die Decke um ihre Schultern. Sie blickt in den ruhigen Nachthimmel und atmet tief durch.
-
-SHOT 3 — 0:06–0:09
-Ein plötzlicher kalter Windstoß weht über den Balkon. Ihr Haar bewegt sich stark im Wind, sie zieht sofort die Schultern hoch, wickelt die Decke fest um sich und macht einen lustigen, überraschten Gesichtsausdruck.
-SHOT 4 — 0:09–0:12
-Sie zieht sich schnell durch die Balkontür zurück und stolpert fast bei ihrem hastigen Tempo. Sie schließt die Tür halb, immer noch fest in die Decke eingewickelt, und schaut zurück nach draußen.
-
-SHOT 5 — 0:12–0:15
-Sie steckt langsam ihren Kopf wieder um die Tür und schaut in Richtung Kamera. Sie bemerkt, wie lächerlich ihr dramatischer Rückzug war, und beginnt leise zu lachen. Sie schüttelt den Kopf, lächelt und verschwindet wieder im Inneren.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090769016382238720/img/0rzsR442U_Pg7sHh.jpg" width="600" alt="2000er Jahre MiniDV Balkon-Nacht">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9581)**
-
-**Autor:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Quelle:** [Link](https://x.com/iamahmedfaraz66/status/2090769635474035199) | **Veröffentlicht:** Aug 21, 2026
-
----
-### Handgeführter skandinavischer Influencer-Lauf-Vlog
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein umfassender Prompt zur Erstellung eines realistischen 5-Uhr-Morgengrauen-Lauf-Vlogs mit einer skandinavischen Frau. Er nutzt eine Mini-DV-Handkamera-Ästhetik mit bewussten Unvollkommenheiten wie Kameraverwacklungen und suchendem Autofokus, um einen authentischen, hochwertigen Influencer-Look zu erzeugen.
-
-#### 📝 Prompt
-
-```
-KAMERA: Mini-DV-Camcorder-Handkamera-Ästhetik, vertikales Format. Eine wunderschöne, athletische skandinavische Lauf-Influencerin filmt sich während eines Laufs im Morgengrauen direkt aus der Hand im Selfie-Cam- und Ego-Perspektiven-Stil. Behalten Sie ein realistisches, durch ihren Schritt verstärktes Handwackeln bei, leicht schiefe Bildausschnitte, verzögertes Autofokus-Suchen bei schwachem Morgenlicht, unbeholfene Zoom-in- und Zoom-out-Bewegungen, gelegentliche Bewegungsunschärfe, Windgeräusche am Mikrofon und kleine Bildfehler, bei denen Teile ihres Gesichts oder der Horizont kurzzeitig aus dem Bild rutschen. Mischen Sie handgeführte Selfie-Aufnahmen mit einigen festen externen Einstellungen. Wichtig: Zeigen Sie niemals, wie sie eine Kamera platziert, einstellt oder aufbaut. Verwenden Sie beim Wechsel von handgeführten Aufnahmen zu einem festen externen Winkel einen sauberen Jump-Cut, als wäre die Kamera bereits positioniert gewesen, bevor die Aufnahme begann. Die Kamera selbst darf niemals im Bild erscheinen.
-
-LOOK:
-
-Weicher digitaler Tape-Camcorder-Look mit Vintage-DV-Charakter. Leichte Unschärfe, schwaches Bandrauschen, sichtbares Highlight-Blooming, wenn die Sonne den Horizont durchbricht, subtiles Auto-Exposure-Flimmern und -Suchen, während sie sich zum Licht hin und davon weg dreht, gedämpfter Kontrast in den Schatten, realistische Hauttextur mit sichtbaren Poren und Schweißglanz, kühles blaues Licht vor dem Morgengrauen, das sich zu Gold erwärmt, realistische Hauttöne, echte Linseneffekte bei Gegenlicht.
-
-STIL:
-
-Ein realistischer 5-Uhr-Morgengrauen-Lauf-Vlog mit einer selbstbewussten, athletischen Lifestyle-Atmosphäre. Der Ton ist atemlos, optimistisch, ein wenig selbstironisch und natürlich. Sie ist eindeutig attraktiv und charismatisch, aber das Video muss sich wie ein glaubwürdiger, selbst aufgenommener Lauf-Vlog anfühlen, nicht wie ein polierter Nike-Werbespot. Schnelle, saubere Jump-Cuts, starke Kontinuität, natürliche Körpersprache, hörbares echtes Atmen, das im Verlauf des Videos schwerer wird, keine unangenehmen Leerlaufmomente.
-
-CHARAKTER:
-
-Eine außergewöhnlich schöne, athletische skandinavische Frau Mitte 20. Sehr fotogenes Gesicht, klare hellblaue Augen, leichte Sommersprossen auf Nase und Wangen, definierte Kieferpartie, ein natürlicher voller Mund, helle Haut, die durch Kälte und Anstrengung rosa an den Wangen leuchtet, langes, dickes aschblondes Haar in einem tiefen Pferdeschwanz mit losen Strähnen, die um das Gesicht fallen. Sie sieht aus wie eine hochwertige Lauf- und Lifestyle-Influencerin, nicht wie eine gewöhnliche Joggerin. Schlanke, langgliedrige, athletische Läuferstatur. Kaum Make-up, leicht glänzende Haut durch Schweiß. Sie trägt ein eng anliegendes, langärmeliges technisches Laufshirt in gedämpftem Oliv, dazu passende hoch taillierte Laufshorts, eine dünne schwarze Laufuhr, flache Laufschuhe und kleine kabelgebundene Ohrhörer. Kein weiterer Schmuck.
-
-SETTING:
-
-Eine lange, leere Küstenpromenade im ersten Licht. Holzplanken unter den Füßen, niedrige Dünen und Strandgras auf der einen Seite, flaches graues Meer und ein leuchtender oranger Sonnenaufgang auf der anderen Seite, ein einzelnes Holzgeländer, verstreute Möwen, eine verwitterte Bank, leichter Seenebel. Komplett leer, keine anderen Läufer, keine Hundebesitzer, keine Passanten, keine zusätzlichen Personen. Kalte, stille Luft mit sichtbarem Atem zu Beginn.
-
-WICHTIGE KONTINUITÄT
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090760553375424512/img/1TUSrUNmWPNdyMNt.jpg" width="600" alt="Handgeführter skandinavischer Influencer-Lauf-Vlog">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9654)**
-
-**Autor:** [林悦己Cheer](https://x.com/cheerselflin) | **Quelle:** [Link](https://x.com/cheerselflin/status/2090760616134766807) | **Veröffentlicht:** Aug 21, 2026
-
----
-### Japanische handgezeichnete Anime-Koch-Animation
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ein Text-zu-Video-Prompt zur Erstellung einer 30-sekündigen Kochsequenz im handgezeichneten 2D-Anime-Stil, bestehend aus 12 verschiedenen Szenen.
-
-#### 📝 Prompt
-
-```
-Ein 30-sekündiges Video, 12 Szenen, 2,5 Sekunden pro Szene, ausschließlich aus Text generiert, keine Referenzbilder, keine Storyboard-Bilder.
-
-[Kunststil]
-Original japanisches, handgezeichnetes 2D-Anime-Kochvideo. Der Look ist komplett handgezeichnet.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090735331725426688/img/o-8cweXw_csBAEmv.jpg" width="600" alt="Japanische handgezeichnete Anime-Koch-Animation">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9661)**
-
-**Autor:** [オズ](https://x.com/ozuozuai99) | **Quelle:** [Link](https://x.com/ozuozuai99/status/2090738476903993417) | **Veröffentlicht:** Aug 21, 2026
-
----
-### Cartoon-Gesichtstransformation einer asiatischen Frau
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Ein professioneller Video-Prompt für Seedance, der Live-Action-Aufnahmen aus einem Café mit KI-Gesichtsverformung und Cartoon-Übergängen kombiniert.
-
-#### 📝 Prompt
-
-```
-Allgemeiner Stil und Setting:
-Hybrider Stil aus Café-Live-Action und KI-Gesichtsverformung/Cartoonisierung. Vertikale Komposition, natürliche, weiche Innenbeleuchtung, verschwommene grüne Bäume vor dem Fenster, Vinylschallplatten/Poster an der Hintergrundwand (mit sichtbarem „RAY CHARLES“-Schriftzug).
-Charakter: Junge asiatische Frau mit kurzem Bob und schwarzem Haar, trägt ein weißes Hemd (mit kleinem gesticktem Pferde-Logo), khakifarbene Shorts, eine feine Halskette und Ohrstecker. Leichtes und natürliches Make-up.
-Requisiten: Kaltgetränk (mit Strohhalm), Mobiltelefon und kleine Karten auf einem Holztisch; eine weiße Handtasche mit LV-Muster auf der linken Seite.
-Emotionale Tonalität: Lebhaft, verspielt, niedlich, mit einer leicht übertriebenen, interaktiven „süße Fotos machen“-Atmosphäre. Szenenaufschlüsselung (geschätzt nach Zeit):
-0-1s: Frontale Sitzposition, zieht mit den Händen die Mundwinkel weit auseinander, um einen riesigen Mund zu formen, streckt die Zunge heraus, rollt mit den Augen und zieht ein übertrieben niedliches, lustiges Gesicht.
-1-2s: Öffnet die Hände zu beiden Seiten, kehrt zum normalen Gesicht zurück und lächelt süß in die Kamera.
-2-3s: Drückt die Hände auf den Kopf, verwandelt sich sofort in einen Cartoon-Stil mit großem Kopf/Q-Version (übergroßes rundes Gesicht, riesige Augen, aufgeblähte Wangen und Schmollmund) mit einem niedlichen und verträumten Ausdruck.
-3-4s: Rückkehr zum menschlichen Gesicht, aber überlagert mit riesigen Cartoon-Augen + einem überraschten Ausdruck mit weit offenem Mund, Hände hoch über dem Kopf erhoben (als würde sie die Haare richten oder eine überraschte Geste machen).
-4-5s: Dreht den Kopf zur Seite mit einem leichten Schmollmund/nachdenklichen Ausdruck, Arme schwingen natürlich.
-5-6s: Cartoon-Kopf, Augen geschlossen, Mundwinkel nach oben, entspanntes Lächeln, Hände auf dem Schoß.
-6-7s: Rückkehr zum menschlichen Kopf, Hände in einer „Klauen“-Geste erhoben, Mund offen mit herausgestreckter Zunge, Augen zusammengekniffen vor Lachen, super aufgeregt und verspielt.
-7-8,4s: Körper leicht gedreht, eine Hand in der Hüfte, die andere hält eine große rote Cartoon-Blume (oder eine ähnliche Requisite), endet mit einem süßen Lächeln zur Seite in die Kamera. Insgesamt schnelles Tempo, rasche Ausdruckswechsel, natürliche und flüssige Transformation zwischen Mensch und Cartoon, wobei eine „niedliche und verrückte“ Atmosphäre hervorgehoben wird.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090732265345269762/img/CQnl9MVZDGp46Wgh.jpg" width="600" alt="Cartoon-Gesichtstransformation einer asiatischen Frau">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9594)**
-
-**Autor:** [PixelAIGC](https://x.com/PixelAigc) | **Quelle:** [Link](https://x.com/PixelAigc/status/2090732500901597368) | **Veröffentlicht:** Aug 21, 2026
-
----
-### Ätherische Frau und weißer Pfau
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein hochdetailliertes, filmisches Fantasy-Video, das eine elegante Frau in einem juwelenbesetzten Kleid neben einem riesigen weißen Pfau zeigt.
-
-#### 📝 Prompt
-
-```
-Ultra-detailliertes 8k-Fantasy-Filmvideo einer eleganten, ätherischen Frau in einem kunstvollen, mit Juwelen besetzten rosa-silbernen Kleid und passender Juwelen-Tiara, die neben einem majestätischen, riesigen weißen Pfau in einem magischen Garten mit rosa Kirschblüten an einem spiegelnden Teich steht; extreme Nahaufnahme ihres Gesichts mit Glitzer-Make-up und sich öffnenden, leuchtend türkisfarbenen Augen, Nahaufnahme eines glitzernden ovalen rosa Edelsteins, mittlere Einstellung der Frau neben dem Pfau, dynamische Kamerabewegung, die zeigt, wie der weiße Pfau sein prächtiges, mit rosa Edelsteinakzenten verziertes Schwanzgefieder auffächert, ruhige Atmosphäre, weiche, warme filmische Beleuchtung, schwebende leuchtende Staubpartikel, hyperrealistisches 3D-Rendering, hochdetaillierte Texturen, Meisterwerk, Ultra-HD, 16:9-Seitenverhältnis.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090696891801681920/img/y5NbQVe0MLE1fx4W.jpg" width="600" alt="Ätherische Frau und weißer Pfau">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9589)**
-
-**Autor:** [Zyrella](https://x.com/Zyrellix) | **Quelle:** [Link](https://x.com/Zyrellix/status/2090697013713138158) | **Veröffentlicht:** Aug 21, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -3677,6 +3575,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-08-27T08:04:48.337Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-08-28T04:26:25.632Z</sub>
 
 </div>
