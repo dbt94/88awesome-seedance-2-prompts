@@ -68,9 +68,9 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **6205** |
+| 📝 Total Prompts | **6204** |
 | ⭐ Featured Prompts | **6** |
-| 🔄 Last Updated | **2026-08-28** |
+| 🔄 Last Updated | **2026-08-29** |
 
 ---
 
@@ -382,37 +382,6 @@ Ultra-realistic cinematic scene of a modern minimalist photography studio during
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=9874)**
 
 **Author:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2092845782982357334) | **Published:** Aug 27, 2026
-
----
-### Anime Cooking Sourdough Sandwich
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A 15-second anime-style prompt for a cooking video, focusing on the preparation of a pesto sourdough sandwich with detailed food textures.
-
-#### 📝 Prompt
-
-```
-Create a 15-second cinematic anime/webtoon cooking video featuring a cheerful young woman with short dark hair, wearing a cream apron over a sage-green shirt, cooking in a bright rustic kitchen with wooden counters, hanging plants, and warm morning sunlight.
-
-Scene 1 — 0–3s: Close-up of her spreading garlic butter and pesto onto two slices of crispy toasted sourdough, with smooth, satisfying hand movements.
-
-Scene 2 — 3–6s: Medium shot as she happily layers lettuce, juicy tomato, melted cheese, crispy chicken, and avocado onto the toast using wooden tongs.
-
-Scene 3 — 6–9s: Close-up of a sunny-side-up egg sliding from a small skillet onto the towering sandwich, followed by her placing the second toast slice on top.
-
-Scene 4 — 9–12s: Dynamic close-up as she cuts the sandwich diagonally with a chef’s knife; cheese stretches slightly as she lifts both halves toward the camera, revealing the colorful layers.
-
-Scene 5 — 12–15s: Cozy medium close-up as she takes a huge bite, closes her eyes, and smiles with a delighted expression while warm sunlight fills the kitchen.
-
-Style: High-quality 2D anime/webtoon aesthetic, expressive character animation, clean line art, soft pastel colors, warm cinematic lighting, cozy atmosphere, detailed food textures, smooth camera movements, appetizing close-ups, natural motion, consistent character design.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092817988839993344/img/IG5ebRBcnSBSl2_U.jpg" width="600" alt="Anime Cooking Sourdough Sandwich">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=9866)**
-
-**Author:** [Sairah](https://x.com/Sairah_0) | **Source:** [Link](https://x.com/Sairah_0/status/2092818081039179894) | **Published:** Aug 27, 2026
 
 ---
 ### Cyberpunk Anime Street Fight
@@ -3568,6 +3537,89 @@ The dragon's claws do not hit the protagonist directly; the protagonist moves aw
 **Author:** [mayv@簡単プロ級プロンプト公開中！](https://x.com/haruuraeadss) | **Source:** [Link](https://x.com/haruuraeadss/status/2091045370805817540) | **Published:** Aug 22, 2026
 
 ---
+### Collecting City Sounds Surrealism
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A complex cinematic surrealist prompt where a character physically collects urban sounds until the city falls silent.
+
+#### 📝 Prompt
+
+```
+CAMERA:
+One continuous cinematic shot with no cuts. Begin with a slow tracking shot at street level. Follow the character from a three-quarter rear angle. Gradually move closer to the character's hands as the invisible sounds become visible. Finish with a dramatic pullback.
+
+SETTING:
+A realistic modern city street at dawn. Soft morning light, light fog, distant traffic, pedestrians, birds, bicycles and subtle urban movement. Photorealistic environment.
+
+0–3 SECONDS:
+The character walks through the street.
+
+Everything sounds normal: distant traffic, footsteps, birds and wind.
+
+Suddenly, the character stops.
+
+A faint translucent ripple appears in the air beside a passing car, shaped like a small floating ribbon of vibrating glass.
+
+3–6 SECONDS:
+The character reaches out and gently grabs the floating ripple.
+
+The instant they touch it, the surrounding car becomes completely silent.
+
+The character looks at the glowing vibrating ribbon in their hand.
+
+6–10 SECONDS:
+More sound becomes visible.
+
+Birdsong appears as tiny glowing waves.
+Footsteps become small translucent pulses.
+Traffic noise become long vibrating ribbons.
+
+The character calmly gathers them with both hands.
+
+As each sound is collected, that part of the city becomes completely silent.
+
+10–12 SECONDS:
+The character compresses all the collected sounds between their palms.
+
+Thousands of glowing sound waves collapse into one tiny luminous sphere.
+
+The entire city suddenly becomes completely silent.
+
+12–15 SECONDS:
+The character releases the sphere.
+
+It rises a few meters into the air.
+
+The sphere suddenly expands into a gigantic invisible-looking shockwave made entirely of luminous sound patterns.
+
+For one instant, every sound returns simultaneously.
+
+Birds fly upward, cars move, people react, leaves shake violently.
+
+Then CUT TO BLACK.
+
+VISUAL STYLE:
+Photorealistic cinematic surrealism, original visual design, realistic urban environment, subtle atmospheric lighting, physically believable particle motion, translucent sound structures, restrained VFX, natural human performance, premium cinematic composition.
+
+SOUND DESIGN:
+Begin with realistic city ambience.
+Introduce a faint crystalline vibration when the first sound becomes visible.
+Gradually remove environmental sounds as the character collects them.
+Create complete silence at 12 seconds.
+At the final release, restore all accumulated sounds simultaneously for one overwhelming cinematic moment.
+
+NEGATIVE:
+No copyrighted characters, no recognizable movie scenes, no logos, no text, no subtitles, no watermark, no famous franchise references, no imitation of any specific director or artist, no cartoon aesthetic, no supernatural creatures, no explosions, no random objects, no scene cuts, no inconsist
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091021306997448704/img/43Nx8PXLI--iLeP-.jpg" width="600" alt="Collecting City Sounds Surrealism">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=9588)**
+
+**Author:** [Sheikh Sharik 2.0](https://x.com/NoOneIsHere2603) | **Source:** [Link](https://x.com/NoOneIsHere2603/status/2091021342602866951) | **Published:** Aug 22, 2026
+
+---
 ---
 
 ## 📚 More Prompts Available
@@ -3629,6 +3681,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-28T04:26:11.839Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-29T03:02:04.772Z</sub>
 
 </div>

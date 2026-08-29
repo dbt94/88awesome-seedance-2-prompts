@@ -68,9 +68,9 @@ Por que usar nossa galeria?
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **6205** |
+| 📝 Total de prompts | **6204** |
 | ⭐ Prompts em destaque | **6** |
-| 🔄 Última atualização | **2026-08-28** |
+| 🔄 Última atualização | **2026-08-29** |
 
 ---
 
@@ -378,37 +378,6 @@ Cena cinematográfica ultrarrealista de um estúdio de fotografia moderno e mini
 **[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=9874)**
 
 **Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Fonte:** [Link](https://x.com/AIwithMinal/status/2092845782982357334) | **Publicado:** Aug 27, 2026
-
----
-### Sanduíche de Sourdough Estilo Anime
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de 15 segundos em estilo anime para um vídeo de culinária, focando no preparo de um sanduíche de sourdough com pesto e texturas de alimentos detalhadas.
-
-#### 📝 Prompt
-
-```
-Crie um vídeo de culinária cinematográfico de 15 segundos no estilo anime/webtoon, apresentando uma jovem alegre de cabelo curto e escuro, vestindo um avental creme sobre uma camisa verde-sálvia, cozinhando em uma cozinha rústica e iluminada com bancadas de madeira, plantas suspensas e a luz quente da manhã.
-
-Cena 1 — 0–3s: Close-up dela espalhando manteiga de alho e pesto em duas fatias de sourdough crocante, com movimentos de mão suaves e satisfatórios.
-
-Cena 2 — 3–6s: Plano médio enquanto ela monta alegremente o sanduíche com alface, tomate suculento, queijo derretido, frango crocante e abacate usando pinças de madeira.
-
-Cena 3 — 6–9s: Close-up de um ovo frito deslizando de uma frigideira pequena para o sanduíche, seguido por ela colocando a segunda fatia de pão por cima.
-
-Cena 4 — 9–12s: Close-up dinâmico enquanto ela corta o sanduíche na diagonal com uma faca de chef; o queijo estica levemente enquanto ela levanta as duas metades em direção à câmera, revelando as camadas coloridas.
-
-Cena 5 — 12–15s: Close-up médio aconchegante enquanto ela dá uma mordida generosa, fecha os olhos e sorri com uma expressão de satisfação enquanto a luz quente do sol preenche a cozinha.
-
-Estilo: Estética de anime/webtoon 2D de alta qualidade, animação de personagem expressiva, traços limpos, cores pastéis suaves, iluminação cinematográfica quente, atmosfera aconchegante, texturas de alimentos detalhadas, movimentos de câmera suaves, close-ups apetitosos, movimento natural, design de personagem consistente.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092817988839993344/img/IG5ebRBcnSBSl2_U.jpg" width="600" alt="Sanduíche de Sourdough Estilo Anime">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=9866)**
-
-**Autor:** [Sairah](https://x.com/Sairah_0) | **Fonte:** [Link](https://x.com/Sairah_0/status/2092818081039179894) | **Publicado:** Aug 27, 2026
 
 ---
 ### Luta de Rua em Anime Cyberpunk
@@ -3544,6 +3513,89 @@ As garras do dragão não atingem a protagonista diretamente; a protagonista se 
 **Autor:** [mayv@簡単プロ級プロンプト公開中！](https://x.com/haruuraeadss) | **Fonte:** [Link](https://x.com/haruuraeadss/status/2091045370805817540) | **Publicado:** Aug 22, 2026
 
 ---
+### Coletando o Surrealismo dos Sons da Cidade
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt cinematográfico surrealista complexo onde um personagem coleta fisicamente sons urbanos até que a cidade fique em silêncio.
+
+#### 📝 Prompt
+
+```
+CÂMERA:
+Um plano cinematográfico contínuo sem cortes. Comece com um travelling lento ao nível da rua. Siga o personagem em um ângulo de três quartos por trás. Aproxime-se gradualmente das mãos do personagem à medida que os sons invisíveis se tornam visíveis. Finalize com um afastamento dramático.
+
+CENÁRIO:
+Uma rua urbana moderna e realista ao amanhecer. Luz suave da manhã, neblina leve, tráfego distante, pedestres, pássaros, bicicletas e movimento urbano sutil. Ambiente fotorrealista.
+
+0–3 SEGUNDOS:
+O personagem caminha pela rua.
+
+Tudo soa normal: tráfego distante, passos, pássaros e vento.
+
+De repente, o personagem para.
+
+Uma leve ondulação translúcida aparece no ar ao lado de um carro que passa, com o formato de uma pequena fita flutuante de vidro vibrante.
+
+3–6 SEGUNDOS:
+O personagem estende a mão e agarra suavemente a ondulação flutuante.
+
+No instante em que toca nela, o carro ao redor torna-se completamente silencioso.
+
+O personagem olha para a fita vibrante brilhante em sua mão.
+
+6–10 SEGUNDOS:
+Mais sons tornam-se visíveis.
+
+O canto dos pássaros aparece como pequenas ondas brilhantes.
+Passos tornam-se pequenos pulsos translúcidos.
+O ruído do tráfego torna-se longas fitas vibrantes.
+
+O personagem os coleta calmamente com ambas as mãos.
+
+À medida que cada som é coletado, aquela parte da cidade torna-se completamente silenciosa.
+
+10–12 SEGUNDOS:
+O personagem comprime todos os sons coletados entre as palmas das mãos.
+
+Milhares de ondas sonoras brilhantes colapsam em uma pequena esfera luminosa.
+
+A cidade inteira torna-se subitamente silenciosa.
+
+12–15 SEGUNDOS:
+O personagem solta a esfera.
+
+Ela sobe alguns metros no ar.
+
+A esfera expande-se subitamente em uma gigantesca onda de choque de aparência invisível, feita inteiramente de padrões sonoros luminosos.
+
+Por um instante, todos os sons retornam simultaneamente.
+
+Pássaros voam para cima, carros se movem, pessoas reagem, folhas balançam violentamente.
+
+Então CORTE PARA O PRETO.
+
+ESTILO VISUAL:
+Surrealismo cinematográfico fotorrealista, design visual original, ambiente urbano realista, iluminação atmosférica sutil, movimento de partículas fisicamente verossímil, estruturas sonoras translúcidas, efeitos visuais contidos, atuação humana natural, composição cinematográfica premium.
+
+DESIGN DE SOM:
+Comece com um ambiente urbano realista.
+Introduza uma vibração cristalina suave quando o primeiro som se tornar visível.
+Remova gradualmente os sons ambientais à medida que o personagem os coleta.
+Crie silêncio total aos 12 segundos.
+Na liberação final, restaure todos os sons acumulados simultaneamente para um momento cinematográfico avassalador.
+
+NEGATIVO:
+Sem personagens protegidos por direitos autorais, sem cenas de filmes reconhecíveis, sem logotipos, sem texto, sem legendas, sem marca d'água, sem referências a franquias famosas, sem imitação de qualquer diretor ou artista específico, sem estética de desenho animado, sem criaturas sobrenaturais, sem explosões, sem objetos aleatórios, sem cortes de cena, sem inconsist
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091021306997448704/img/43Nx8PXLI--iLeP-.jpg" width="600" alt="Coletando o Surrealismo dos Sons da Cidade">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=9588)**
+
+**Autor:** [Sheikh Sharik 2.0](https://x.com/NoOneIsHere2603) | **Fonte:** [Link](https://x.com/NoOneIsHere2603/status/2091021342602866951) | **Publicado:** Aug 22, 2026
+
+---
 ---
 
 ## 📚 Mais prompts disponíveis
@@ -3605,6 +3657,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-08-28T04:26:30.254Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-08-29T03:02:23.490Z</sub>
 
 </div>

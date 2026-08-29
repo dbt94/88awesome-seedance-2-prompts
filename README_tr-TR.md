@@ -68,9 +68,9 @@ Neden galerimizi kullanmalısınız?
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **6205** |
+| 📝 Toplam İstem | **6204** |
 | ⭐ Öne Çıkan İstemler | **6** |
-| 🔄 Son Güncelleme | **2026-08-28** |
+| 🔄 Son Güncelleme | **2026-08-29** |
 
 ---
 
@@ -378,37 +378,6 @@ Altın saat esnasında modern ve minimalist bir fotoğraf stüdyosunun ultra ger
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=9874)**
 
 **Yazar:** [AIwithMinal](https://x.com/AIwithMinal) | **Kaynak:** [Link](https://x.com/AIwithMinal/status/2092845782982357334) | **Yayınlandı:** Aug 27, 2026
-
----
-### Anime Tarzı Ekşi Mayalı Sandviç Hazırlığı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Pesto soslu ekşi mayalı sandviç hazırlığına ve detaylı yemek dokularına odaklanan, 15 saniyelik anime tarzı bir yemek videosu istemi.
-
-#### 📝 İstem
-
-```
-Kısa koyu renk saçlı, adaçayı yeşili bir gömlek üzerine krem rengi önlük giymiş neşeli genç bir kadının; ahşap tezgahlar, sarkan bitkiler ve sıcak sabah güneş ışığıyla aydınlanan rustik bir mutfakta yemek pişirdiği, 15 saniyelik sinematik anime/webtoon tarzı bir yemek videosu oluşturun.
-
-Sahne 1 — 0–3 sn: Kıtır kıtır kızarmış iki dilim ekşi mayalı ekmeğin üzerine sarımsaklı tereyağı ve pesto sosu sürdüğü, pürüzsüz ve tatmin edici el hareketlerinin yer aldığı yakın çekim.
-
-Sahne 2 — 3–6 sn: Ahşap maşa kullanarak marul, sulu domates, eritilmiş peynir, çıtır tavuk ve avokadoyu ekmeğin üzerine neşeyle katmanlar halinde dizdiği orta ölçekli çekim.
-
-Sahne 3 — 6–9 sn: Küçük bir tavadan yüksek sandviçin üzerine kayan sahanda yumurtanın yakın çekimi ve ardından ikinci ekmek dilimini üzerine yerleştirmesi.
-
-Sahne 4 — 9–12 sn: Sandviçi bir şef bıçağıyla çapraz şekilde kestiği dinamik yakın çekim; iki yarısını kameraya doğru kaldırırken peynirin hafifçe uzaması ve renkli katmanların ortaya çıkması.
-
-Sahne 5 — 12–15 sn: Kocaman bir ısırık aldığı, gözlerini kapattığı ve sıcak güneş ışığı mutfağı doldururken keyifli bir ifadeyle gülümsediği samimi, orta ölçekli yakın çekim.
-
-Stil: Yüksek kaliteli 2D anime/webtoon estetiği, etkileyici karakter animasyonu, temiz çizgi sanatı, yumuşak pastel renkler, sıcak sinematik aydınlatma, samimi atmosfer, detaylı yemek dokuları, akıcı kamera hareketleri, iştah açıcı yakın çekimler, doğal hareketler, tutarlı karakter tasarımı.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092817988839993344/img/IG5ebRBcnSBSl2_U.jpg" width="600" alt="Anime Tarzı Ekşi Mayalı Sandviç Hazırlığı">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=9866)**
-
-**Yazar:** [Sairah](https://x.com/Sairah_0) | **Kaynak:** [Link](https://x.com/Sairah_0/status/2092818081039179894) | **Yayınlandı:** Aug 27, 2026
 
 ---
 ### Cyberpunk Anime Sokak Dövüşü
@@ -3544,6 +3513,89 @@ Ejderhanın pençeleri başkaraktere doğrudan çarpmaz; başkarakter saldırı 
 **Yazar:** [mayv@簡単プロ級プロンプト公開中！](https://x.com/haruuraeadss) | **Kaynak:** [Link](https://x.com/haruuraeadss/status/2091045370805817540) | **Yayınlandı:** Aug 22, 2026
 
 ---
+### Şehir Seslerini Toplamak: Sürrealizm
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir karakterin şehir sessizliğe bürünene kadar fiziksel olarak kentsel sesleri topladığı, karmaşık ve sinematik bir sürrealist istem.
+
+#### 📝 İstem
+
+```
+KAMERA:
+Kesintisiz, tek bir sinematik çekim. Sokak seviyesinde yavaş bir takip çekimiyle başlayın. Karakteri üç çeyrek arka açıdan takip edin. Görünmez sesler görünür hale geldikçe yavaşça karakterin ellerine odaklanın. Dramatik bir geri çekilmeyle bitirin.
+
+MEKAN:
+Şafak vaktinde gerçekçi ve modern bir şehir sokağı. Yumuşak sabah ışığı, hafif sis, uzaktan gelen trafik sesi, yayalar, kuşlar, bisikletler ve ince kentsel hareketlilik. Fotogerçekçi bir ortam.
+
+0–3 SANİYE:
+Karakter sokakta yürüyor.
+
+Her şey normal duyuluyor: uzaktan gelen trafik, ayak sesleri, kuşlar ve rüzgar.
+
+Aniden karakter durur.
+
+Geçen bir arabanın yanında, havada titreşen camdan küçük, yüzen bir şerit şeklinde hafif ve yarı saydam bir dalgalanma belirir.
+
+3–6 SANİYE:
+Karakter uzanır ve yüzen dalgalanmayı nazikçe kavrar.
+
+Ona dokunduğu anda, çevredeki araba tamamen sessizleşir.
+
+Karakter elindeki parlayan, titreşen şeride bakar.
+
+6–10 SANİYE:
+Daha fazla ses görünür hale gelir.
+
+Kuş sesleri küçük parlayan dalgalar olarak belirir.
+Ayak sesleri küçük yarı saydam nabızlara dönüşür.
+Trafik gürültüsü uzun, titreşen şeritler halini alır.
+
+Karakter bunları sakin bir şekilde iki eliyle toplar.
+
+Her ses toplandığında, şehrin o kısmı tamamen sessizliğe gömülür.
+
+10–12 SANİYE:
+Karakter toplanan tüm sesleri avuçlarının arasında sıkıştırır.
+
+Binlerce parlayan ses dalgası, tek bir küçük ışıklı küreye dönüşür.
+
+Tüm şehir aniden tamamen sessizleşir.
+
+12–15 SANİYE:
+Karakter küreyi serbest bırakır.
+
+Havada birkaç metre yükselir.
+
+Küre aniden tamamen ışıklı ses desenlerinden oluşan devasa, görünmez görünümlü bir şok dalgasına genişler.
+
+Bir anlığına, tüm sesler aynı anda geri döner.
+
+Kuşlar yukarı uçar, arabalar hareket eder, insanlar tepki verir, yapraklar şiddetle sallanır.
+
+Ardından SİYAH EKRANA GEÇİŞ.
+
+GÖRSEL STİL:
+Fotogerçekçi sinematik sürrealizm, özgün görsel tasarım, gerçekçi kentsel ortam, ince atmosferik aydınlatma, fiziksel olarak inandırıcı parçacık hareketi, yarı saydam ses yapıları, abartısız görsel efektler (VFX), doğal insan performansı, birinci sınıf sinematik kompozisyon.
+
+SES TASARIMI:
+Gerçekçi şehir ambiyansı ile başlayın.
+İlk ses görünür hale geldiğinde hafif, kristal bir titreşim ekleyin.
+Karakter sesleri topladıkça çevresel sesleri kademeli olarak kaldırın.
+12. saniyede tam bir sessizlik yaratın.
+Finaldeki serbest bırakma anında, biriken tüm sesleri tek bir çarpıcı sinematik an için aynı anda geri getirin.
+
+NEGATİF:
+Telif hakkı olan karakterler yok, tanınabilir film sahneleri yok, logolar yok, metin yok, altyazı yok, filigran yok, ünlü yapımlara referans yok, belirli bir yönetmen veya sanatçının taklidi yok, çizgi film estetiği yok, doğaüstü yaratıklar yok, patlamalar yok, rastgele nesneler yok, sahne kesintileri yok, tutarsızlık yok
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091021306997448704/img/43Nx8PXLI--iLeP-.jpg" width="600" alt="Şehir Seslerini Toplamak: Sürrealizm">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=9588)**
+
+**Yazar:** [Sheikh Sharik 2.0](https://x.com/NoOneIsHere2603) | **Kaynak:** [Link](https://x.com/NoOneIsHere2603/status/2091021342602866951) | **Yayınlandı:** Aug 22, 2026
+
+---
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -3605,6 +3657,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-08-28T04:26:31.374Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-08-29T03:02:24.822Z</sub>
 
 </div>

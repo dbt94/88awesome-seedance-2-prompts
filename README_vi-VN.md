@@ -68,9 +68,9 @@ Tại sao nên sử dụng thư viện của chúng tôi?
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **6205** |
+| 📝 Tổng số prompt | **6204** |
 | ⭐ Prompt nổi bật | **6** |
-| 🔄 Cập nhật lần cuối | **2026-08-28** |
+| 🔄 Cập nhật lần cuối | **2026-08-29** |
 
 ---
 
@@ -378,37 +378,6 @@ Cảnh quay điện ảnh siêu thực về một studio nhiếp ảnh hiện đ
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=9874)**
 
 **Tác giả:** [AIwithMinal](https://x.com/AIwithMinal) | **Nguồn:** [Link](https://x.com/AIwithMinal/status/2092845782982357334) | **Đã xuất bản:** Aug 27, 2026
-
----
-### Video Anime Nấu Ăn: Bánh Mì Sourdough
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt 15 giây theo phong cách anime cho video nấu ăn, tập trung vào công đoạn chuẩn bị bánh mì sourdough sốt pesto với kết cấu món ăn chi tiết.
-
-#### 📝 Prompt
-
-```
-Tạo một video nấu ăn phong cách anime/webtoon điện ảnh dài 15 giây, với nhân vật chính là một cô gái trẻ vui vẻ có mái tóc ngắn sẫm màu, mặc tạp dề màu kem bên ngoài áo sơ mi màu xanh lá xám, đang nấu ăn trong một căn bếp mộc mạc, sáng sủa với quầy gỗ, cây treo và ánh nắng buổi sáng ấm áp.
-
-Cảnh 1 — 0–3s: Cận cảnh cô ấy phết bơ tỏi và sốt pesto lên hai lát bánh mì sourdough nướng giòn, với các chuyển động tay mượt mà, mãn nhãn.
-
-Cảnh 2 — 3–6s: Cảnh trung khi cô ấy vui vẻ xếp xà lách, cà chua mọng nước, phô mai tan chảy, gà giòn và bơ lên lát bánh mì bằng kẹp gỗ.
-
-Cảnh 3 — 6–9s: Cận cảnh một quả trứng ốp la trượt từ chảo nhỏ lên chiếc bánh mì đầy ắp, sau đó cô ấy đặt lát bánh mì thứ hai lên trên.
-
-Cảnh 4 — 9–12s: Cận cảnh năng động khi cô ấy dùng dao đầu bếp cắt đôi chiếc bánh mì theo đường chéo; phô mai kéo sợi nhẹ khi cô ấy nhấc cả hai nửa bánh về phía máy quay, làm lộ ra các lớp nhân đầy màu sắc.
-
-Cảnh 5 — 12–15s: Cảnh trung cận ấm cúng khi cô ấy cắn một miếng lớn, nhắm mắt lại và mỉm cười đầy thích thú trong khi ánh nắng ấm áp tràn ngập căn bếp.
-
-Phong cách: Thẩm mỹ anime/webtoon 2D chất lượng cao, hoạt ảnh nhân vật biểu cảm, nét vẽ sạch sẽ, tông màu pastel nhẹ nhàng, ánh sáng điện ảnh ấm áp, bầu không khí ấm cúng, kết cấu món ăn chi tiết, chuyển động máy quay mượt mà, các cảnh cận cảnh kích thích vị giác, chuyển động tự nhiên, thiết kế nhân vật nhất quán.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092817988839993344/img/IG5ebRBcnSBSl2_U.jpg" width="600" alt="Video Anime Nấu Ăn: Bánh Mì Sourdough">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=9866)**
-
-**Tác giả:** [Sairah](https://x.com/Sairah_0) | **Nguồn:** [Link](https://x.com/Sairah_0/status/2092818081039179894) | **Đã xuất bản:** Aug 27, 2026
 
 ---
 ### Trận chiến đường phố phong cách Anime Cyberpunk
@@ -3567,6 +3536,89 @@ Móng vuốt của rồng không chạm trực tiếp vào nhân vật chính; n
 **Tác giả:** [mayv@簡単プロ級プロンプト公開中！](https://x.com/haruuraeadss) | **Nguồn:** [Link](https://x.com/haruuraeadss/status/2091045370805817540) | **Đã xuất bản:** Aug 22, 2026
 
 ---
+### Thu thập âm thanh thành phố theo phong cách siêu thực
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) điện ảnh siêu thực phức tạp, nơi một nhân vật thu thập các âm thanh đô thị cho đến khi thành phố chìm vào tĩnh lặng.
+
+#### 📝 Prompt
+
+```
+CAMERA:
+Một cú máy điện ảnh liên tục không cắt cảnh. Bắt đầu bằng cảnh quay tracking chậm ở tầm mắt đường phố. Theo chân nhân vật từ góc nhìn ba phần tư phía sau. Dần dần tiến lại gần đôi bàn tay của nhân vật khi những âm thanh vô hình trở nên hữu hình. Kết thúc bằng một cú quay lùi (pullback) đầy kịch tính.
+
+BỐI CẢNH:
+Một con phố hiện đại chân thực vào lúc bình minh. Ánh sáng ban mai dịu nhẹ, sương mù mỏng, tiếng xe cộ từ xa, người đi bộ, chim chóc, xe đạp và những chuyển động đô thị tinh tế. Môi trường chân thực như ảnh chụp (photorealistic).
+
+0–3 GIÂY:
+Nhân vật đi bộ trên phố.
+
+Mọi thứ nghe như bình thường: tiếng xe cộ từ xa, tiếng bước chân, tiếng chim hót và tiếng gió.
+
+Đột nhiên, nhân vật dừng lại.
+
+Một gợn sóng mờ ảo xuất hiện trong không trung bên cạnh một chiếc xe đang chạy qua, có hình dạng như một dải ruy băng thủy tinh rung động nhỏ đang trôi nổi.
+
+3–6 GIÂY:
+Nhân vật vươn tay ra và nhẹ nhàng nắm lấy gợn sóng đang trôi nổi đó.
+
+Ngay khoảnh khắc họ chạm vào, chiếc xe xung quanh trở nên hoàn toàn im lặng.
+
+Nhân vật nhìn vào dải ruy băng rung động rực rỡ trong tay mình.
+
+6–10 GIÂY:
+Nhiều âm thanh hơn trở nên hữu hình.
+
+Tiếng chim hót hiện lên như những làn sóng nhỏ rực rỡ.
+Tiếng bước chân trở thành những xung động mờ ảo nhỏ bé.
+Tiếng ồn giao thông trở thành những dải ruy băng rung động dài.
+
+Nhân vật bình tĩnh thu thập chúng bằng cả hai tay.
+
+Khi mỗi âm thanh được thu thập, phần đó của thành phố trở nên hoàn toàn im lặng.
+
+10–12 GIÂY:
+Nhân vật nén tất cả các âm thanh đã thu thập vào giữa lòng bàn tay.
+
+Hàng ngàn sóng âm rực rỡ sụp đổ thành một quả cầu phát sáng nhỏ bé.
+
+Toàn bộ thành phố đột nhiên trở nên hoàn toàn im lặng.
+
+12–15 GIÂY:
+Nhân vật thả quả cầu ra.
+
+Nó bay lên không trung vài mét.
+
+Quả cầu đột ngột mở rộng thành một làn sóng xung kích khổng lồ trông như vô hình, được tạo nên hoàn toàn từ các mô hình âm thanh rực rỡ.
+
+Trong một khoảnh khắc, mọi âm thanh quay trở lại cùng một lúc.
+
+Chim bay lên, xe cộ di chuyển, mọi người phản ứng, lá cây rung chuyển dữ dội.
+
+Sau đó CẮT ĐEN.
+
+PHONG CÁCH HÌNH ẢNH:
+Siêu thực điện ảnh chân thực, thiết kế hình ảnh nguyên bản, môi trường đô thị thực tế, ánh sáng khí quyển tinh tế, chuyển động hạt vật lý đáng tin, cấu trúc âm thanh mờ ảo, hiệu ứng hình ảnh (VFX) tiết chế, diễn xuất tự nhiên của con người, bố cục điện ảnh cao cấp.
+
+THIẾT KẾ ÂM THANH:
+Bắt đầu với âm thanh môi trường thành phố chân thực.
+Giới thiệu một rung động tinh thể mờ nhạt khi âm thanh đầu tiên trở nên hữu hình.
+Dần dần loại bỏ âm thanh môi trường khi nhân vật thu thập chúng.
+Tạo ra sự im lặng hoàn toàn ở giây thứ 12.
+Tại thời điểm thả ra cuối cùng, khôi phục tất cả các âm thanh đã tích lũy cùng một lúc cho một khoảnh khắc điện ảnh choáng ngợp.
+
+PHỦ ĐỊNH (NEGATIVE):
+Không có nhân vật có bản quyền, không có cảnh phim dễ nhận biết, không có logo, không có văn bản, không có phụ đề, không có hình mờ (watermark), không có tài liệu tham khảo về thương hiệu nổi tiếng, không bắt chước bất kỳ đạo diễn hay nghệ sĩ cụ thể nào, không có thẩm mỹ hoạt hình, không có sinh vật siêu nhiên, không có vụ nổ, không có vật thể ngẫu nhiên, không có cắt cảnh, không có sự không nhất quán
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091021306997448704/img/43Nx8PXLI--iLeP-.jpg" width="600" alt="Thu thập âm thanh thành phố theo phong cách siêu thực">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=9588)**
+
+**Tác giả:** [Sheikh Sharik 2.0](https://x.com/NoOneIsHere2603) | **Nguồn:** [Link](https://x.com/NoOneIsHere2603/status/2091021342602866951) | **Đã xuất bản:** Aug 22, 2026
+
+---
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -3628,6 +3680,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-08-28T04:26:20.188Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-08-29T03:02:13.107Z</sub>
 
 </div>

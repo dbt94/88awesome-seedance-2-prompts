@@ -68,9 +68,9 @@ Perché usare la nostra galleria?
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **6205** |
+| 📝 Totale prompt | **6204** |
 | ⭐ Prompt in evidenza | **6** |
-| 🔄 Ultimo aggiornamento | **2026-08-28** |
+| 🔄 Ultimo aggiornamento | **2026-08-29** |
 
 ---
 
@@ -378,37 +378,6 @@ Scena cinematografica ultra-realistica di un moderno studio fotografico minimali
 **[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=9874)**
 
 **Autore:** [AIwithMinal](https://x.com/AIwithMinal) | **Fonte:** [Link](https://x.com/AIwithMinal/status/2092845782982357334) | **Pubblicato:** Aug 27, 2026
-
----
-### Video anime: preparazione di un sandwich al lievito madre
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt in stile anime di 15 secondi per un video di cucina, incentrato sulla preparazione di un sandwich al lievito madre con pesto e dettagli curati sulle texture del cibo.
-
-#### 📝 Prompt
-
-```
-Crea un video di cucina cinematografico di 15 secondi in stile anime/webtoon con una giovane donna allegra dai capelli scuri corti, che indossa un grembiule color crema sopra una camicia verde salvia, mentre cucina in una luminosa cucina rustica con banconi in legno, piante sospese e la calda luce del mattino.
-
-Scena 1 — 0–3s: Primo piano di lei che spalma burro all'aglio e pesto su due fette di pane al lievito madre tostato e croccante, con movimenti della mano fluidi e soddisfacenti.
-
-Scena 2 — 3–6s: Inquadratura media mentre sovrappone con gioia lattuga, pomodoro succoso, formaggio fuso, pollo croccante e avocado sul pane tostato usando delle pinze di legno.
-
-Scena 3 — 6–9s: Primo piano di un uovo all'occhio di bue che scivola da una piccola padella sul sandwich torreggiante, seguito dal posizionamento della seconda fetta di pane sopra.
-
-Scena 4 — 9–12s: Primo piano dinamico mentre taglia il sandwich in diagonale con un coltello da chef; il formaggio si fila leggermente mentre solleva entrambe le metà verso la fotocamera, rivelando gli strati colorati.
-
-Scena 5 — 12–15s: Accogliente primo piano mentre dà un grande morso, chiude gli occhi e sorride con un'espressione deliziata mentre la calda luce del sole riempie la cucina.
-
-Stile: Estetica anime/webtoon 2D di alta qualità, animazione espressiva dei personaggi, linee pulite, colori pastello tenui, illuminazione cinematografica calda, atmosfera accogliente, texture del cibo dettagliate, movimenti di camera fluidi, primi piani appetitosi, movimento naturale, design coerente dei personaggi.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092817988839993344/img/IG5ebRBcnSBSl2_U.jpg" width="600" alt="Video anime: preparazione di un sandwich al lievito madre">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=9866)**
-
-**Autore:** [Sairah](https://x.com/Sairah_0) | **Fonte:** [Link](https://x.com/Sairah_0/status/2092818081039179894) | **Pubblicato:** Aug 27, 2026
 
 ---
 ### Combattimento di strada in stile Cyberpunk Anime
@@ -3514,6 +3483,89 @@ Gli artigli del drago non colpiscono direttamente il protagonista; il protagonis
 **Autore:** [mayv@簡単プロ級プロンプト公開中！](https://x.com/haruuraeadss) | **Fonte:** [Link](https://x.com/haruuraeadss/status/2091045370805817540) | **Pubblicato:** Aug 22, 2026
 
 ---
+### Collezionare i suoni della città: surrealismo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un complesso prompt cinematografico surrealista in cui un personaggio raccoglie fisicamente i suoni urbani finché la città non cade nel silenzio.
+
+#### 📝 Prompt
+
+```
+CAMERA:
+Un'unica ripresa cinematografica continua senza tagli. Iniziare con un lento tracking shot a livello strada. Seguire il personaggio da un'angolazione di tre quarti posteriore. Avvicinarsi gradualmente alle mani del personaggio man mano che i suoni invisibili diventano visibili. Concludere con un drammatico pullback.
+
+SETTING:
+Una realistica strada cittadina moderna all'alba. Luce mattutina soffusa, nebbia leggera, traffico in lontananza, pedoni, uccelli, biciclette e un sottile movimento urbano. Ambiente fotorealistico.
+
+0–3 SECONDI:
+Il personaggio cammina lungo la strada.
+
+Tutto suona normalmente: traffico in lontananza, passi, uccelli e vento.
+
+Improvvisamente, il personaggio si ferma.
+
+Un leggero increspamento traslucido appare nell'aria accanto a un'auto di passaggio, a forma di piccolo nastro fluttuante di vetro vibrante.
+
+3–6 SECONDI:
+Il personaggio allunga la mano e afferra delicatamente l'increspamento fluttuante.
+
+Nell'istante in cui lo tocca, l'auto circostante diventa completamente silenziosa.
+
+Il personaggio osserva il nastro vibrante e luminoso nella propria mano.
+
+6–10 SECONDI:
+Altri suoni diventano visibili.
+
+Il canto degli uccelli appare come minuscole onde luminose.
+I passi diventano piccoli impulsi traslucidi.
+Il rumore del traffico diventa un lungo nastro vibrante.
+
+Il personaggio li raccoglie con calma usando entrambe le mani.
+
+Man mano che ogni suono viene raccolto, quella parte della città diventa completamente silenziosa.
+
+10–12 SECONDI:
+Il personaggio comprime tutti i suoni raccolti tra i palmi delle mani.
+
+Migliaia di onde sonore luminose collassano in un'unica minuscola sfera luminescente.
+
+L'intera città diventa improvvisamente del tutto silenziosa.
+
+12–15 SECONDI:
+Il personaggio rilascia la sfera.
+
+Questa sale di pochi metri nell'aria.
+
+La sfera si espande improvvisamente in un'onda d'urto gigantesca e apparentemente invisibile, composta interamente da pattern sonori luminosi.
+
+Per un istante, ogni suono ritorna simultaneamente.
+
+Gli uccelli volano verso l'alto, le auto si muovono, le persone reagiscono, le foglie tremano violentemente.
+
+Poi TAGLIO A NERO.
+
+VISUAL STYLE:
+Surrealismo cinematografico fotorealistico, design visivo originale, ambiente urbano realistico, illuminazione atmosferica sottile, movimento delle particelle fisicamente credibile, strutture sonore traslucide, VFX sobri, performance umana naturale, composizione cinematografica premium.
+
+SOUND DESIGN:
+Iniziare con un'ambientazione urbana realistica.
+Introdurre una lieve vibrazione cristallina quando il primo suono diventa visibile.
+Rimuovere gradualmente i suoni ambientali man mano che il personaggio li raccoglie.
+Creare un silenzio assoluto al dodicesimo secondo.
+Al rilascio finale, ripristinare tutti i suoni accumulati simultaneamente per un momento cinematografico travolgente.
+
+NEGATIVE:
+Nessun personaggio protetto da copyright, nessuna scena di film riconoscibile, nessun logo, nessun testo, nessun sottotitolo, nessuna filigrana, nessun riferimento a franchise famosi, nessuna imitazione di registi o artisti specifici, nessuna estetica da cartone animato, nessuna creatura soprannaturale, nessuna esplosione, nessun oggetto casuale, nessun taglio di scena, nessuna incoerenza
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091021306997448704/img/43Nx8PXLI--iLeP-.jpg" width="600" alt="Collezionare i suoni della città: surrealismo">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=9588)**
+
+**Autore:** [Sheikh Sharik 2.0](https://x.com/NoOneIsHere2603) | **Fonte:** [Link](https://x.com/NoOneIsHere2603/status/2091021342602866951) | **Pubblicato:** Aug 22, 2026
+
+---
 ---
 
 ## 📚 Altri prompt disponibili
@@ -3575,6 +3627,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-08-28T04:26:28.245Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-08-29T03:02:19.078Z</sub>
 
 </div>

@@ -68,9 +68,9 @@ Warum unsere Galerie nutzen?
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **6205** |
+| 📝 Gesamtanzahl Prompts | **6204** |
 | ⭐ Ausgewählte Prompts | **6** |
-| 🔄 Zuletzt aktualisiert | **2026-08-28** |
+| 🔄 Zuletzt aktualisiert | **2026-08-29** |
 
 ---
 
@@ -378,37 +378,6 @@ Ultrarealistische cineastische Szene eines modernen, minimalistischen Fotostudio
 **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9874)**
 
 **Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Quelle:** [Link](https://x.com/AIwithMinal/status/2092845782982357334) | **Veröffentlicht:** Aug 27, 2026
-
----
-### Anime-Kochvideo: Sauerteig-Sandwich
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein 15-sekündiger Prompt im Anime-Stil für ein Kochvideo, das sich auf die Zubereitung eines Pesto-Sauerteig-Sandwichs mit detaillierten Lebensmitteltexturen konzentriert.
-
-#### 📝 Prompt
-
-```
-Erstelle ein 15-sekündiges filmisches Anime-/Webtoon-Kochvideo mit einer fröhlichen jungen Frau mit kurzem dunklem Haar, die eine cremefarbene Schürze über einem salbeigrünen Hemd trägt und in einer hellen, rustikalen Küche mit Holzarbeitsplatten, hängenden Pflanzen und warmem Morgenlicht kocht.
-
-Szene 1 — 0–3s: Nahaufnahme, wie sie Knoblauchbutter und Pesto auf zwei Scheiben knusprig getoastetes Sauerteigbrot streicht, mit fließenden, befriedigenden Handbewegungen.
-
-Szene 2 — 3–6s: Halbnahaufnahme, wie sie fröhlich Salat, saftige Tomaten, geschmolzenen Käse, knuspriges Hähnchen und Avocado mit einer Holzzange auf das Toastbrot schichtet.
-
-Szene 3 — 6–9s: Nahaufnahme eines Spiegeleis, das aus einer kleinen Pfanne auf das hoch aufgetürmte Sandwich gleitet, gefolgt davon, wie sie die zweite Toastscheibe oben auflegt.
-
-Szene 4 — 9–12s: Dynamische Nahaufnahme, wie sie das Sandwich mit einem Kochmesser diagonal durchschneidet; der Käse zieht sich leicht, während sie beide Hälften in die Kamera hebt und die farbenfrohen Schichten enthüllt.
-
-Szene 5 — 12–15s: Gemütliche Halbnahaufnahme, wie sie einen großen Bissen nimmt, die Augen schließt und mit einem entzückten Ausdruck lächelt, während warmes Sonnenlicht die Küche erfüllt.
-
-Stil: Hochwertige 2D-Anime-/Webtoon-Ästhetik, ausdrucksstarke Charakteranimation, klare Linienführung, sanfte Pastellfarben, warme filmische Beleuchtung, gemütliche Atmosphäre, detaillierte Lebensmitteltexturen, flüssige Kamerabewegungen, appetitliche Nahaufnahmen, natürliche Bewegungsabläufe, konsistentes Charakterdesign.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092817988839993344/img/IG5ebRBcnSBSl2_U.jpg" width="600" alt="Anime-Kochvideo: Sauerteig-Sandwich">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9866)**
-
-**Autor:** [Sairah](https://x.com/Sairah_0) | **Quelle:** [Link](https://x.com/Sairah_0/status/2092818081039179894) | **Veröffentlicht:** Aug 27, 2026
 
 ---
 ### Cyberpunk Anime Straßenkampf
@@ -3514,6 +3483,89 @@ Die Klauen des Drachen treffen die Protagonistin nicht direkt; sie bewegt sich h
 **Autor:** [mayv@簡単プロ級プロンプト公開中！](https://x.com/haruuraeadss) | **Quelle:** [Link](https://x.com/haruuraeadss/status/2091045370805817540) | **Veröffentlicht:** Aug 22, 2026
 
 ---
+### Das Sammeln urbaner Klänge: Surrealismus
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein komplexer, filmisch-surrealistischer Prompt, bei dem eine Figur physisch Stadtgeräusche sammelt, bis die Stadt verstummt.
+
+#### 📝 Prompt
+
+```
+KAMERA:
+Eine kontinuierliche, filmische Einstellung ohne Schnitte. Beginn mit einer langsamen Kamerafahrt auf Straßenhöhe. Die Figur wird aus einer Dreiviertel-Rückenansicht verfolgt. Allmähliche Annäherung an die Hände der Figur, während die unsichtbaren Klänge sichtbar werden. Abschluss mit einem dramatischen Herauszoomen (Pullback).
+
+SCHAUPLATZ:
+Eine realistische, moderne Stadtstraße im Morgengrauen. Weiches Morgenlicht, leichter Nebel, entfernter Verkehr, Fußgänger, Vögel, Fahrräder und subtile urbane Bewegungen. Fotorealistische Umgebung.
+
+0–3 SEKUNDEN:
+Die Figur geht durch die Straße.
+
+Alles klingt normal: entfernter Verkehr, Schritte, Vögel und Wind.
+
+Plötzlich bleibt die Figur stehen.
+
+Ein schwaches, durchscheinendes Kräuseln erscheint in der Luft neben einem vorbeifahrenden Auto, geformt wie ein kleines, schwebendes Band aus vibrierendem Glas.
+
+3–6 SEKUNDEN:
+Die Figur streckt die Hand aus und greift sanft nach dem schwebenden Kräuseln.
+
+In dem Moment, in dem sie es berührt, wird das umliegende Auto vollkommen lautlos.
+
+Die Figur betrachtet das leuchtende, vibrierende Band in ihrer Hand.
+
+6–10 SEKUNDEN:
+Mehr Klänge werden sichtbar.
+
+Vogelgezwitscher erscheint als winzige leuchtende Wellen.
+Schritte werden zu kleinen, durchscheinenden Impulsen.
+Verkehrslärm wird zu langen, vibrierenden Bändern.
+
+Die Figur sammelt sie ruhig mit beiden Händen ein.
+
+Mit jedem gesammelten Klang wird der entsprechende Teil der Stadt vollkommen lautlos.
+
+10–12 SEKUNDEN:
+Die Figur presst alle gesammelten Klänge zwischen ihren Handflächen zusammen.
+
+Tausende leuchtende Schallwellen kollabieren zu einer winzigen, strahlenden Kugel.
+
+Die gesamte Stadt wird plötzlich vollkommen lautlos.
+
+12–15 SEKUNDEN:
+Die Figur lässt die Kugel los.
+
+Sie steigt einige Meter in die Luft.
+
+Die Kugel dehnt sich plötzlich zu einer gigantischen, unsichtbar wirkenden Schockwelle aus, die vollständig aus leuchtenden Klangmustern besteht.
+
+Für einen Augenblick kehrt jeder Klang gleichzeitig zurück.
+
+Vögel fliegen auf, Autos bewegen sich, Menschen reagieren, Blätter beben heftig.
+
+Dann SCHNITT AUF SCHWARZ.
+
+VISUELLER STIL:
+Fotorealistischer filmischer Surrealismus, originelles visuelles Design, realistische urbane Umgebung, subtile atmosphärische Beleuchtung, physikalisch glaubwürdige Partikelbewegung, durchscheinende Klangstrukturen, zurückhaltende VFX, natürliche menschliche Darstellung, erstklassige filmische Komposition.
+
+SOUND-DESIGN:
+Beginn mit realistischer Stadtatmosphäre.
+Einführung einer schwachen kristallinen Vibration, sobald der erste Klang sichtbar wird.
+Allmähliches Entfernen der Umgebungsgeräusche, während die Figur sie einsammelt.
+Erzeugung absoluter Stille bei 12 Sekunden.
+Bei der finalen Freisetzung: Gleichzeitige Wiederherstellung aller angesammelten Klänge für einen überwältigenden filmischen Moment.
+
+NEGATIV:
+Keine urheberrechtlich geschützten Charaktere, keine erkennbaren Filmszenen, keine Logos, kein Text, keine Untertitel, kein Wasserzeichen, keine Referenzen auf berühmte Franchises, keine Nachahmung spezifischer Regisseure oder Künstler, keine Cartoon-Ästhetik, keine übernatürlichen Kreaturen, keine Explosionen, keine zufälligen Objekte, keine Szenenschnitte, keine Inkonsistenzen
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091021306997448704/img/43Nx8PXLI--iLeP-.jpg" width="600" alt="Das Sammeln urbaner Klänge: Surrealismus">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9588)**
+
+**Autor:** [Sheikh Sharik 2.0](https://x.com/NoOneIsHere2603) | **Quelle:** [Link](https://x.com/NoOneIsHere2603/status/2091021342602866951) | **Veröffentlicht:** Aug 22, 2026
+
+---
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -3575,6 +3627,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-08-28T04:26:25.632Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-08-29T03:02:17.193Z</sub>
 
 </div>
