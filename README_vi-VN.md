@@ -68,9 +68,9 @@ Tại sao nên sử dụng thư viện của chúng tôi?
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **6257** |
+| 📝 Tổng số prompt | **6256** |
 | ⭐ Prompt nổi bật | **6** |
-| 🔄 Cập nhật lần cuối | **2026-09-01** |
+| 🔄 Cập nhật lần cuối | **2026-09-02** |
 
 ---
 
@@ -378,210 +378,6 @@ Cảnh thảm họa điện ảnh siêu thực tại một thành phố hiện �
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=10103)**
 
 **Tác giả:** [AIwithMinal](https://x.com/AIwithMinal) | **Nguồn:** [Link](https://x.com/AIwithMinal/status/2094289381049659440) | **Đã xuất bản:** Aug 31, 2026
-
----
-### Duy trì tính nhất quán của nhân vật trong Vlog du lịch châu Âu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh chi tiết để tạo video vlog du lịch cầm tay chân thực tại một khu phố cổ châu Âu, chú trọng vào kết cấu da và tính nhất quán của nhân vật.
-
-#### 📝 Prompt
-
-```
-Tạo một video vlog du lịch siêu thực dài 30 giây, trông giống hệt như những thước phim chân thực được ghi lại một cách tự nhiên bởi một nhà sáng tạo nội dung du lịch thực thụ tại châu Âu bằng máy quay vlog cầm tay chất lượng cao. Cùng một người phụ nữ trẻ châu Âu phải giữ nguyên diện mạo trong suốt toàn bộ video: khuôn mặt, tỷ lệ khuôn mặt, kiểu tóc, màu tóc, tông da, tỷ lệ cơ thể, độ tuổi, trang phục, phụ kiện và ngoại hình tổng thể phải đồng nhất. Duy trì tính nhất quán nghiêm ngặt của nhân vật trong mọi cảnh quay và góc máy.
-
-Người phụ nữ cần có lỗ chân lông tự nhiên, những khuyết điểm nhỏ trên khuôn mặt, đôi mắt chân thực, từng sợi tóc riêng biệt, chuyển động tóc tự nhiên, tỷ lệ cơ thể thực tế, bàn tay chân thực và những biểu cảm con người tự phát. Không dùng bộ lọc làm đẹp, không có làn da nhựa, không trang điểm quá đà, không có sự đối xứng hoàn hảo.
-
-Toàn bộ video phải mang lại cảm giác như thước phim tài liệu/vlog du lịch thực tế, không phải quảng cáo, video âm nhạc, phim điện ảnh, bản dựng 3D hay chuỗi hình ảnh do AI tạo ra.
-
-TÍNH LIÊN TỤC / KHÓA NHÂN VẬT
-
-Cùng một người phụ nữ trong mọi cảnh quay. Người phụ nữ trẻ châu Âu, khoảng giữa độ tuổi 20, có vẻ ngoài thu hút một cách tự nhiên nhưng hoàn toàn thực tế. Làn da tự nhiên với lỗ chân lông có thể nhìn thấy và những khuyết điểm nhỏ, đôi mắt và lông mi chân thực, lông mày tự nhiên, những sợi tóc hơi không hoàn hảo di chuyển độc lập trong gió. Giữ nguyên kiểu tóc và trang phục trong suốt video. Tư thế và nhịp điệu đi bộ chân thực. Không bị trôi danh tính khuôn mặt, không thay đổi độ tuổi, kiểu tóc, trang phục, phụ kiện, hình dáng cơ thể hay tông da.
-
-Cô ấy cầm một chiếc máy quay vlog nhỏ gọn, giữ tự nhiên bằng một tay trong các cảnh quay selfie. Cách cầm, ngón tay, bàn tay và vị trí máy quay phải giữ được tính giải phẫu thực tế.
-
-ĐỊA ĐIỂM / KHÔNG GIAN
-
-Một khu phố cổ lịch sử tuyệt đẹp ở châu Âu vào buổi sáng. Đường lát đá hẹp, những tòa nhà hàng thế kỷ đầy kết cấu, mặt tiền đầy màu sắc nhưng chân thực, cửa chớp gỗ, quán cà phê nhỏ, bàn ghế ngoài trời, xe đạp, cửa tiệm bánh, người đi bộ, hoạt động đường phố tinh tế.
-
-Ánh nắng buổi sáng dịu nhẹ với những bóng đổ chân thực. Phối cảnh không gian tự nhiên. Không khí đường phố châu Âu đích thực. Những người xung quanh cư xử độc lập và tự nhiên, không nhìn chằm chằm vào máy quay. Không có người đi bộ bị trùng lặp hoặc nhân vật nền bị lặp lại.
-
-CẢNH 1 — 0–5 GIÂY
-
-Cảnh quay vlog cầm tay kiểu selfie.
-
-Người phụ nữ đi bộ tự nhiên dọc theo con phố cổ trong khi cầm máy quay vlog nhỏ bằng một tay. Cô ấy nhìn thẳng vào ống kính với một nụ cười nhẹ nhàng, chân thành.
-
-Máy quay có chuyển động cầm tay chân thực: độ nảy nhẹ khi đi bộ, chuyển động cổ tay nhỏ, rung lắc nhẹ không thường xuyên, khung hình không hoàn hảo tự nhiên, chuyển động nhẹ do nhịp thở. KHÔNG ổn định hình ảnh một cách hoàn hảo.
-
-Tóc cô ấy di chuyển tự nhiên khi đi bộ qua làn gió nhẹ buổi sáng. Biểu cảm của cô ấy vẫn thoải mái và tự phát. Cô ấy thỉnh thoảng chớp mắt tự nhiên.
-
-Phía sau cô ấy: người đi bộ đi lại bình thường, xe đạp đỗ, lối vào quán cà phê, những tòa nhà lịch sử đầy kết cấu và hoạt động buổi sáng.
-
-Ánh nắng tự nhiên chiếu lên khuôn mặt khi cô ấy di chuyển giữa vùng bóng râm và ánh nắng. Duy trì độ phơi sáng và tông màu da chân thực.
-
-CẢNH 2 — 5–10 GIÂY
-
-Cô ấy tự nhiên xoay máy quay từ phía mình sang hướng đường phố.
-
-Tạo một cú lia máy cầm tay không hoàn hảo, như thể một nhà sáng tạo du lịch thực thụ đang vô tình chuyển hướng máy quay vlog của họ.
-
-Tiết lộ:
-
-- kiến trúc lịch sử châu Âu chi tiết
-- mặt tiền bằng đá và cửa sổ
-- bàn cà phê ngoài trời
-- mọi người đang uống cà phê
-- xe đạp di chuyển trên đường
-- một tiệm bánh nhỏ trong khu phố
-- hoạt động đường phố buổi sáng tinh tế
-
-Cú lia máy KHÔNG nên mượt mà hoàn hảo. Bao gồm gia tốc cổ tay chân thực, các hiệu chỉnh khung hình nhỏ và độ mờ chuyển động nhẹ.
-
-Khi máy quay di chuyển từ phần tối của con phố ra ánh nắng trực tiếp buổi sáng, hãy tạo ra một sự điều chỉnh độ phơi sáng tự động tinh tế. Các vùng sáng và bóng tối phản ứng tự nhiên giống như cảm biến máy quay thực tế.
-
-Không có chuyển cảnh điện ảnh. Không có chuyển động máy quay mượt mà nhân tạo.
-
-CẢNH 3 — 10–15 GIÂY
-
-Cắt cảnh tự nhiên trở lại cảnh quay selfie.
-
-Người phụ nữ đó tiếp tục đi bộ về phía quán cà phê. Cô ấy nói ngắn gọn một câu bình thường và mang tính trò chuyện với máy quay, chẳng hạn như:
-
-“Con phố nhỏ này đẹp quá.”
-
-Chuyển động môi của cô ấy phải khớp tự nhiên với lời nói. Biểu cảm khuôn mặt thoải mái và tiết chế. Không diễn xuất cường điệu.
-
-Cô ấy liếc nhìn thứ gì đó trên đường rồi quay lại nhìn ống kính. Cô ấy chớp mắt tự nhiên. Một làn gió nhẹ làm di chuyển vài sợi tóc riêng lẻ.
-
-Người đi bộ đi qua tự nhiên ở phía sau mà không chú ý đến máy quay.
-
-Duy trì độ rung cầm tay chân thực, độ nảy khi đi bộ tự nhiên, nhịp thở tự nhiên, độ sâu trường ảnh thực tế và không khí đường phố đáng tin cậy.
-
-CẢNH 4 — 15–21 GIÂY
-
-Chuyển cảnh tự nhiên sang cảnh quay POV từ máy quay của cô ấy.
-
-Cô ấy tiến lại gần và bước vào một quán cà phê độc lập nhỏ.
-
-Máy quay di chuyển qua cửa với tốc độ đi bộ bình thường của con người. Độ nảy dọc nhẹ và chuyển động cổ tay tinh tế vẫn có thể nhìn thấy.
-
-Bên trong:
-
-- ánh sáng quán cà phê tự nhiên ấm áp
-- bàn gỗ
-- tường có kết cấu
-- phản chiếu kính chân thực
-- các cuộc trò chuyện nhỏ ở nền
-- khách hàng di chuyển tự nhiên
-- hoạt động của nhân viên pha chế ở phía xa
-- bóng đổ môi trường tinh tế
-
-Máy quay tiến lại gần một chiếc bàn gỗ có đặt một tách cà phê mới pha và một chiếc bánh ngọt nhỏ.
-
-Cho thấy hơi nước bốc lên nhẹ nhàng và chân thực từ tách cà phê. Sự phản chiếu trên tách và kính gần đó phải tuân theo ánh sáng thực tế.
-
-Không có hơi nước cường điệu. Không có vật thể trôi nổi. Không có thức ăn trông giả tạo.
-
-CẢNH 5 — 21–26 GIÂY
-
-Cắt cảnh trở lại cảnh quay selfie.
-
-Người phụ nữ đó hiện đang ngồi bên ngoài quán cà phê tại một chiếc bàn nhỏ.
-
-Cô ấy tự nhiên cầm tách cà phê lên, nhấp một ngụm nhỏ bình thường, hạ tách xuống và nhìn vào máy quay.
-
-Biểu cảm của cô ấy thay đổi thành một nụ cười chân thực nhẹ nhàng. Tránh kiểu tạo dáng của người có ảnh hưởng (influencer) hoặc sự hạnh phúc cường điệu.
-
-Duy trì sự nhất quán chính xác về danh tính khuôn mặt và trang phục.
-
-Bối cảnh vẫn sống động:
-người đi bộ đi lại, xe đạp đi qua, khách hàng quán cà phê trò chuyện, chuyển động tinh tế của ghế và quần áo trong gió.
-
-Máy quay vẫn cầm tay và hơi không hoàn hảo, với độ rung siêu nhỏ chân thực.
-
-CẢNH 6 — 26–30 GIÂY
-
-Tiếp tục cảnh quay selfie để có một kết thúc tự nhiên.
-
-Cô ấy giữ nụ cười thoải mái trong một khoảnh khắc, sau đó sự chú ý của cô ấy chuyển nhẹ về phía con phố.
-
-Máy quay thực hiện một sự thay đổi tiêu cự tự nhiên nhỏ từ khuôn mặt cô ấy sang con phố phía sau.
-
-Khuôn mặt cô ấy dần trở nên mềm mại hơn một chút trong khi hậu cảnh trở nên rõ ràng hơn, giống như hành vi lấy nét tự động chân thực của một máy quay vlog hiện đại.
-
-Kết thúc một cách tự phát thay vì kịch tính.
-
-Không có hiệu ứng mờ dần điện ảnh, không có chuyển cảnh nhân tạo, không có thẻ tiêu đề.
-
-MÁY QUAY / VẬT LÝ
-
-Hành vi máy quay vlog cầm tay chân thực trong suốt video.
-
-Sử dụng:
-
-- độ nảy khi đi bộ chân thực
-- rung cổ tay tinh tế
-- độ rung siêu nhỏ tự nhiên
-- khung hình không hoàn hảo
-- độ mờ chuyển động chính xác về mặt vật lý
-- hành vi lấy nét tự động chân thực
-- điều chỉnh độ phơi sáng chân thực
-- độ sâu trường ảnh tự nhiên
-- phản chiếu chính xác về mặt vật lý
-- bóng đổ chân thực
-- phản ứng da tự nhiên với ánh nắng
-- vật lý tóc đáng tin cậy
-- chuyển động vải chân thực
-- chuyển động người đi bộ chân thực
-
-Máy quay đôi khi nên thực hiện các hiệu chỉnh nhỏ của con người thay vì di chuyển mượt mà hoàn hảo.
-
-ÂM THANH / KHÔNG GIAN
-
-Chỉ sử dụng âm thanh tại địa điểm tự nhiên.
-
-Bao gồm các âm thanh tinh tế:
-
-- tiếng bước chân trên đường lát đá
-- các cuộc trò chuyện từ xa
-- tiếng trò chuyện trong quán cà phê
-- tiếng xe đạp di chuyển
-- tiếng ồn đường phố nhẹ
-- tiếng chim hót từ xa
-- tiếng mở cửa
-- không gian nội thất quán cà phê tinh tế
-- tiếng di chuyển tách nhẹ
-- tiếng thở tự nhiên
-
-Câu nói của cô ấy phải nghe như một bản ghi âm vlog bình thường thực thụ, với âm lượng giọng nói tự nhiên và tiếng ồn nền môi trường nhẹ.
-
-Không có nhạc nền kịch tính. Không có hiệu ứng âm thanh điện ảnh.
-
-YÊU CẦU VỀ TÍNH CHÂN THỰC TUYỆT ĐỐI
-
-Ưu tiên tính chân thực nhiếp ảnh hơn sự hoàn hảo về thị giác.
-
-Thước phim nên chứa đựng những khuyết điểm nhỏ thường thấy trong các thước phim du lịch cầm tay chân thực.
-
-Tránh:
-
-- vẻ ngoài CGI
-- vẻ ngoài do AI tạo ra
-- làn da nhựa
-- bộ lọc làm đẹp
-- làm mịn da quá mức
-- sự đối xứng khuôn mặt hoàn hảo
-- biểu cảm cường điệu
-- quá điện ảnh
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094280489372938242/img/7Fe6liEKwAtCoJ_T.jpg" width="600" alt="Duy trì tính nhất quán của nhân vật trong Vlog du lịch châu Âu">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=10095)**
-
-**Tác giả:** [K](https://x.com/ChillaiKalan__) | **Nguồn:** [Link](https://x.com/ChillaiKalan__/status/2094280707422191705) | **Đã xuất bản:** Aug 31, 2026
 
 ---
 ### Video hành động trượt tuyết đậm chất điện ảnh
@@ -3591,6 +3387,25 @@ Hình ảnh: Cảnh quay selfie cận cảnh. Cô nhìn thẳng vào ống kính
 **Tác giả:** [Harboris](https://x.com/harboriis) | **Nguồn:** [Link](https://x.com/harboriis/status/2092131570908065852) | **Đã xuất bản:** Aug 25, 2026
 
 ---
+### Trận chiến rồng giả tưởng đen tối đậm chất điện ảnh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một phân cảnh giả tưởng điện ảnh 8K hoành tráng, bắt đầu bằng hình ảnh phản chiếu trong mắt chiến binh và chuyển tiếp sang cảnh triệu hồi rồng hùng vĩ tại một ngôi đền cổ.
+
+#### 📝 Prompt
+
+```
+Một video giả tưởng đen tối đậm chất điện ảnh với độ phân giải 8K. Cận cảnh macro cực đại vào mắt của một nữ chiến binh, con ngươi phản chiếu một quả cầu thiên thể rực lửa đang cuộn xoáy bên trong những đám mây giông tối tăm. Cú máy tracking góc thấp theo chân một nữ chiến binh Đông Á mặc bộ giáp da và thép đen bóng bẩy, đang đi qua vùng nước nông và cầm một chiếc chìa khóa chạm trổ tinh xảo. Cô bước lên một bệ đá hình tròn được khắc các cổ tự vàng rực, xung quanh là sương mù, những thác nước đổ xuống và tàn tích đền thờ cổ. Phía trên, một quả cầu thiên thể khổng lồ với các đường vân nham thạch lơ lửng trong một cơn lốc xoáy của những đám mây cuộn. Cô cắm chìa khóa vào bàn thờ đá phủ đầy rêu, kích hoạt một mảng cổ tự hình tròn khổng lồ, phóng những cột nước áp suất cao thẳng đứng lên bầu trời. Một con rồng trắng hình rắn khổng lồ, hùng vĩ với đôi mắt màu cam rực lửa trồi lên từ làn sương. Nữ chiến binh đưa tay ra khi đôi mắt cô tỏa sáng màu vàng kim, thiết lập một mối liên kết ma thuật mạnh mẽ. Con rồng quay đầu hướng lên trên, bay vút lên bầu trời và giải phóng một luồng năng lượng trắng tinh khiết rực rỡ trực tiếp vào quả cầu thiên thể, khiến nó vỡ tan thành những làn sóng xung kích ánh sáng chói lòa. Quy mô điện ảnh hoành tráng, sương mù thể tích, hiệu ứng hình ảnh chân thực, phong cách render Unreal Engine 5, phối màu xám đen và vàng kim, chi tiết siêu thực.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092121030919675904/img/LW6awWqbBpAvhWB6.jpg" width="600" alt="Trận chiến rồng giả tưởng đen tối đậm chất điện ảnh">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=9766)**
+
+**Tác giả:** [Zyrella](https://x.com/Zyrellix) | **Nguồn:** [Link](https://x.com/Zyrellix/status/2092121112746287527) | **Đã xuất bản:** Aug 25, 2026
+
+---
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -3652,6 +3467,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-01T04:04:04.299Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-02T03:23:46.520Z</sub>
 
 </div>

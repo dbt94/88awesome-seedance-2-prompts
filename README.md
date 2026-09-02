@@ -68,9 +68,9 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **6257** |
+| 📝 Total Prompts | **6256** |
 | ⭐ Featured Prompts | **6** |
-| 🔄 Last Updated | **2026-09-01** |
+| 🔄 Last Updated | **2026-09-02** |
 
 ---
 
@@ -382,210 +382,6 @@ Ultra-realistic cinematic disaster scene in a modern city, a brave young woman i
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10103)**
 
 **Author:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2094289381049659440) | **Published:** Aug 31, 2026
-
----
-### European Travel Vlog Character Consistency
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for creating a realistic handheld travel vlog in a European old-town, emphasizing skin textures and consistent character identity.
-
-#### 📝 Prompt
-
-```
-Create a 30-second ultra-photorealistic travel vlog that looks exactly like genuine footage spontaneously recorded by a real European travel creator on a high-quality handheld vlog camera. The same young European woman must remain visually identical throughout the entire video: identical face, facial proportions, hairstyle, hair color, skin tone, body proportions, age, wardrobe, accessories, and overall appearance. Maintain strict character consistency across every shot and camera angle.
-
-The woman should have natural skin pores, subtle facial imperfections, realistic eyes, individual hair strands, authentic hair movement, natural body proportions, realistic hands, and spontaneous human expressions. No beauty filter, no plastic skin, no excessive makeup, no perfect symmetry.
-
-The entire video must feel like real documentary/travel-vlog footage, not a commercial, music video, cinematic film, 3D render, or AI-generated sequence.
-
-CONTINUITY / CHARACTER LOCK
-
-Same woman in every shot. Young European woman, approximately mid-20s, naturally attractive but completely realistic. Natural complexion with visible pores and tiny imperfections, realistic eyes and eyelashes, natural eyebrows, slightly imperfect hair strands moving independently in the breeze. Same hairstyle and clothing throughout. Authentic posture and walking rhythm. No facial identity drift, no changes in age, hairstyle, clothing, accessories, body shape, or skin tone.
-
-She carries a small compact vlog camera, held naturally at arm's length during selfie shots. Her grip, fingers, hands, and camera position must remain anatomically realistic.
-
-LOCATION / ATMOSPHERE
-
-A beautiful European historic old-town district in the morning. Narrow stone-paved street, textured centuries-old buildings, colorful but realistic façades, wooden shutters, small cafés, outdoor tables, bicycles, bakery storefront, pedestrians, subtle street activity.
-
-Soft morning sunlight with realistic shadows. Natural atmospheric perspective. Authentic European street ambience. Background people behave independently and naturally, without staring at the camera. No duplicated pedestrians or repeated background characters.
-
-SHOT 1 — 0–5 SECONDS
-
-Selfie-style handheld vlog footage.
-
-The woman walks naturally down the old-town street while holding a small vlog camera at arm's length. She looks directly into the lens with a subtle, genuine smile.
-
-Camera has realistic handheld movement: slight walking bounce, tiny wrist movements, occasional micro-shake, natural framing imperfections, subtle breathing-related movement. Do NOT stabilize the footage perfectly.
-
-Her hair moves naturally as she walks through a light morning breeze. Her expression remains relaxed and spontaneous. She occasionally blinks naturally.
-
-Behind her: pedestrians walking casually, parked bicycles, café entrances, historic textured buildings and morning activity.
-
-Natural sunlight falls across her face as she moves between partial shade and sunlight. Preserve realistic exposure and skin tones.
-
-SHOT 2 — 5–10 SECONDS
-
-She naturally turns the camera away from herself toward the street.
-
-Create an imperfect handheld pan, as if a real travel creator casually redirected their vlog camera.
-
-Reveal:
-
-- detailed historic European architecture
-- stone façades and windows
-- outdoor café tables
-- people drinking coffee
-- bicycles moving through the street
-- a small neighborhood bakery
-- subtle morning street activity
-
-The pan should NOT be perfectly smooth. Include realistic wrist acceleration, tiny framing corrections and slight motion blur.
-
-As the camera moves from a darker section of the street into direct morning sunlight, produce a subtle automatic exposure adjustment. Highlights and shadows react naturally like a real camera sensor.
-
-No cinematic transition. No artificial camera glide.
-
-SHOT 3 — 10–15 SECONDS
-
-Cut naturally back to selfie footage.
-
-The same woman continues walking toward the café. She briefly says something casual and conversational to the camera, such as:
-
-“This little street is so beautiful.”
-
-Her lip movement must synchronize naturally with the words. Facial expressions are relaxed and understated. No exaggerated acting.
-
-She briefly glances toward something in the street and then back at the lens. She blinks naturally. A light breeze moves several individual strands of hair.
-
-Pedestrians pass naturally in the background without acknowledging the camera.
-
-Maintain realistic handheld shake, authentic walking bounce, natural breathing, realistic depth of field and believable street ambience.
-
-SHOT 4 — 15–21 SECONDS
-
-Transition naturally into POV footage from her camera.
-
-She approaches and enters a small independent local café.
-
-The camera moves through the doorway at normal human walking speed. Slight vertical bounce and subtle wrist movement remain visible.
-
-Inside:
-
-- warm natural café lighting
-- wooden tables
-- textured walls
-- realistic glass reflections
-- small background conversations
-- customers moving naturally
-- barista activity in the distance
-- subtle environmental shadows
-
-The camera approaches a wooden table containing a freshly prepared coffee and a small pastry.
-
-Show subtle realistic steam rising from the coffee. Reflections on the cup and nearby glass should obey real-world lighting.
-
-No exaggerated steam. No floating objects. No artificial-looking food.
-
-SHOT 5 — 21–26 SECONDS
-
-Cut back to selfie footage.
-
-The same woman is now sitting outside the café at a small table.
-
-She naturally picks up the coffee, takes a small casual sip, lowers the cup and looks into the camera.
-
-Her expression changes into a subtle authentic smile. Avoid influencer-style posing or exaggerated happiness.
-
-Maintain exact facial identity and wardrobe continuity.
-
-Background remains alive:
-pedestrians walking, bicycles passing, café customers talking, subtle movement of chairs and clothing in the breeze.
-
-Camera remains handheld and slightly imperfect, with realistic micro-shake.
-
-SHOT 6 — 26–30 SECONDS
-
-Continue the selfie shot for a natural ending.
-
-She keeps a relaxed smile for a moment, then her attention subtly shifts toward the street.
-
-The camera performs a small natural focus shift from her face toward the street behind her.
-
-Her face gradually becomes slightly softer while the background becomes clearer, like realistic autofocus behavior from a modern vlog camera.
-
-End spontaneously rather than dramatically.
-
-No cinematic fade, no artificial transition, no title card.
-
-CAMERA / PHYSICS
-
-Authentic handheld vlog-camera behavior throughout.
-
-Use:
-
-- realistic walking bounce
-- subtle wrist shake
-- natural micro-jitter
-- imperfect framing
-- physically accurate motion blur
-- realistic autofocus behavior
-- realistic exposure adaptation
-- natural depth of field
-- physically correct reflections
-- realistic shadows
-- natural skin response to sunlight
-- believable hair physics
-- realistic fabric movement
-- authentic pedestrian movement
-
-Camera should occasionally make tiny human corrections rather than moving perfectly smoothly.
-
-AUDIO / AMBIENCE
-
-Natural location sound only.
-
-Include subtle:
-
-- footsteps on stone pavement
-- distant conversations
-- café chatter
-- bicycle movement
-- light street noise
-- birds in the distance
-- door opening
-- subtle café interior ambience
-- faint cup movement
-- natural breathing
-
-Her spoken sentence should sound like a real casual vlog recording, with natural voice volume and slight environmental background noise.
-
-No dramatic soundtrack. No cinematic sound effects.
-
-ABSOLUTE REALISM REQUIREMENTS
-
-Prioritize photographic realism over visual perfection.
-
-The footage should contain the tiny imperfections normally found in genuine handheld travel footage.
-
-Avoid:
-
-- CGI appearance
-- AI-generated look
-- plastic skin
-- beauty filters
-- excessive skin smoothing
-- perfect facial symmetry
-- exaggerated expressions
-- overly ci
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094280489372938242/img/7Fe6liEKwAtCoJ_T.jpg" width="600" alt="European Travel Vlog Character Consistency">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10095)**
-
-**Author:** [K](https://x.com/ChillaiKalan__) | **Source:** [Link](https://x.com/ChillaiKalan__/status/2094280707422191705) | **Published:** Aug 31, 2026
 
 ---
 ### Snowboarding Cinematic Action
@@ -3478,6 +3274,25 @@ Visuals: Close up selfie shot. She looks directly into the camera lens with a wa
 **Author:** [Harboris](https://x.com/harboriis) | **Source:** [Link](https://x.com/harboriis/status/2092131570908065852) | **Published:** Aug 25, 2026
 
 ---
+### Dark Fantasy Epic Warrior Battle
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic dark fantasy prompt featuring a female warrior, an ancient white dragon, and celestial magic.
+
+#### 📝 Prompt
+
+```
+A cinematic dark fantasy epic video in 8K resolution. Extreme macro close-up of a female warrior's eye, iris reflecting a burning molten celestial orb swirling inside dark storm clouds. Low-angle tracking shot as an East Asian female warrior clad in sleek black leather-and-steel armor walks through shallow water carrying an ornate key. She steps onto a circular stone platform engraved with glowing golden runes, surrounded by mist, cascading waterfalls, and ancient temple ruins. Above, a colossal magma-veined celestial sphere looms within a vortex of swirling clouds. She inserts the key into a moss-covered stone altar, triggering a massive circular runic array that launches vertical high-pressure water geysers into the sky. A giant, majestic white serpentine dragon with fiery orange eyes emerges from the mist. The warrior extends her hand as her eyes glow bright golden, establishing a powerful magical bond. The dragon turns upwards, soaring into the sky and unleashing a beam of pure radiant white energy directly into the celestial orb, causing it to shatter into shockwaves of blinding light. Epic cinematic scale, volumetric fog, photorealistic visual effects, Unreal Engine 5 render style, dark gray and golden color grading, hyper-detailed.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092121030919675904/img/LW6awWqbBpAvhWB6.jpg" width="600" alt="Dark Fantasy Epic Warrior Battle">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=9766)**
+
+**Author:** [Zyrella](https://x.com/Zyrellix) | **Source:** [Link](https://x.com/Zyrellix/status/2092121112746287527) | **Published:** Aug 25, 2026
+
+---
 ---
 
 ## 📚 More Prompts Available
@@ -3539,6 +3354,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-01T04:03:53.705Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-02T03:23:38.034Z</sub>
 
 </div>

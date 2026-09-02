@@ -68,9 +68,9 @@ Por que usar nossa galeria?
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **6257** |
+| 📝 Total de prompts | **6256** |
 | ⭐ Prompts em destaque | **6** |
-| 🔄 Última atualização | **2026-09-01** |
+| 🔄 Última atualização | **2026-09-02** |
 
 ---
 
@@ -378,210 +378,6 @@ Cena de desastre cinematográfica ultrarrealista em uma cidade moderna, uma jove
 **[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=10103)**
 
 **Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Fonte:** [Link](https://x.com/AIwithMinal/status/2094289381049659440) | **Publicado:** Aug 31, 2026
-
----
-### Consistência de Personagem em Vlog de Viagem Europeia
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt detalhado para criar um vlog de viagem realista gravado com câmera na mão em uma cidade histórica europeia, enfatizando texturas de pele e identidade consistente da personagem.
-
-#### 📝 Prompt
-
-```
-Crie um vlog de viagem ultra-fotorrealista de 30 segundos que pareça exatamente com uma filmagem genuína, gravada espontaneamente por uma criadora de conteúdo de viagem real em uma câmera de vlog de alta qualidade. A mesma jovem europeia deve permanecer visualmente idêntica durante todo o vídeo: rosto, proporções faciais, penteado, cor do cabelo, tom de pele, proporções corporais, idade, guarda-roupa, acessórios e aparência geral idênticos. Mantenha uma consistência rigorosa da personagem em cada tomada e ângulo de câmera.
-
-A mulher deve ter poros naturais na pele, imperfeições faciais sutis, olhos realistas, fios de cabelo individuais, movimento autêntico do cabelo, proporções corporais naturais, mãos realistas e expressões humanas espontâneas. Sem filtro de beleza, sem pele de plástico, sem maquiagem excessiva, sem simetria perfeita.
-
-O vídeo inteiro deve parecer uma filmagem real de documentário/vlog de viagem, não um comercial, videoclipe, filme cinematográfico, renderização 3D ou sequência gerada por IA.
-
-CONTINUIDADE / BLOQUEIO DE PERSONAGEM
-
-A mesma mulher em todas as tomadas. Jovem europeia, aproximadamente na casa dos 20 anos, naturalmente atraente, mas completamente realista. Tez natural com poros visíveis e pequenas imperfeições, olhos e cílios realistas, sobrancelhas naturais, fios de cabelo levemente imperfeitos movendo-se independentemente com a brisa. O mesmo penteado e roupas durante todo o vídeo. Postura e ritmo de caminhada autênticos. Sem desvio de identidade facial, sem mudanças de idade, penteado, roupas, acessórios, forma do corpo ou tom de pele.
-
-Ela carrega uma pequena câmera de vlog compacta, segurada naturalmente à distância do braço durante as selfies. Sua pegada, dedos, mãos e a posição da câmera devem permanecer anatomicamente realistas.
-
-LOCALIZAÇÃO / ATMOSFERA
-
-Um belo distrito histórico europeu pela manhã. Rua estreita de paralelepípedos, edifícios centenários texturizados, fachadas coloridas, porém realistas, persianas de madeira, pequenos cafés, mesas ao ar livre, bicicletas, vitrine de padaria, pedestres, atividade urbana sutil.
-
-Luz solar suave da manhã com sombras realistas. Perspectiva atmosférica natural. Ambiente de rua europeu autêntico. As pessoas ao fundo comportam-se de forma independente e natural, sem olhar para a câmera. Sem pedestres duplicados ou personagens de fundo repetidos.
-
-TOMADA 1 — 0–5 SEGUNDOS
-
-Filmagem de vlog estilo selfie com câmera na mão.
-
-A mulher caminha naturalmente pela rua da cidade histórica enquanto segura uma pequena câmera de vlog à distância do braço. Ela olha diretamente para a lente com um sorriso sutil e genuíno.
-
-A câmera tem movimento realista de mão: leve balanço de caminhada, pequenos movimentos de pulso, micro-tremores ocasionais, imperfeições naturais de enquadramento, movimento sutil relacionado à respiração. NÃO estabilize a filmagem perfeitamente.
-
-Seu cabelo se move naturalmente enquanto ela caminha através de uma leve brisa matinal. Sua expressão permanece relaxada e espontânea. Ela pisca ocasionalmente de forma natural.
-
-Atrás dela: pedestres caminhando casualmente, bicicletas estacionadas, entradas de cafés, edifícios históricos texturizados e atividade matinal.
-
-A luz solar natural incide sobre seu rosto enquanto ela se move entre a sombra parcial e a luz do sol. Preserve a exposição e os tons de pele realistas.
-
-TOMADA 2 — 5–10 SEGUNDOS
-
-Ela vira naturalmente a câmera de si mesma para a rua.
-
-Crie um movimento de câmera (pan) imperfeito, como se um criador de conteúdo de viagem real redirecionasse casualmente sua câmera de vlog.
-
-Revele:
-
-- arquitetura histórica europeia detalhada
-- fachadas de pedra e janelas
-- mesas de café ao ar livre
-- pessoas bebendo café
-- bicicletas movendo-se pela rua
-- uma pequena padaria de bairro
-- atividade urbana matinal sutil
-
-O movimento de câmera não deve ser perfeitamente suave. Inclua aceleração realista de pulso, pequenas correções de enquadramento e leve desfoque de movimento (motion blur).
-
-À medida que a câmera se move de uma seção mais escura da rua para a luz solar direta da manhã, produza um ajuste automático de exposição sutil. Luzes e sombras reagem naturalmente como um sensor de câmera real.
-
-Sem transição cinematográfica. Sem movimento artificial de câmera.
-
-TOMADA 3 — 10–15 SEGUNDOS
-
-Corte naturalmente de volta para a filmagem de selfie.
-
-A mesma mulher continua caminhando em direção ao café. Ela diz brevemente algo casual e coloquial para a câmera, como:
-
-“Esta ruazinha é tão linda.”
-
-O movimento de seus lábios deve sincronizar naturalmente com as palavras. As expressões faciais são relaxadas e contidas. Sem atuação exagerada.
-
-Ela olha brevemente para algo na rua e depois volta para a lente. Ela pisca naturalmente. Uma leve brisa move vários fios de cabelo individualmente.
-
-Pedestres passam naturalmente ao fundo sem notar a câmera.
-
-Mantenha o tremor realista de câmera na mão, balanço autêntico de caminhada, respiração natural, profundidade de campo realista e ambiente de rua crível.
-
-TOMADA 4 — 15–21 SEGUNDOS
-
-Transição natural para filmagem em POV (ponto de vista) da câmera dela.
-
-Ela se aproxima e entra em um pequeno café local independente.
-
-A câmera se move pela porta na velocidade normal de caminhada humana. Leve balanço vertical e movimento sutil de pulso permanecem visíveis.
-
-Dentro:
-
-- iluminação natural quente de café
-- mesas de madeira
-- paredes texturizadas
-- reflexos realistas em vidro
-- conversas de fundo sutis
-- clientes movendo-se naturalmente
-- atividade de barista ao longe
-- sombras ambientais sutis
-
-A câmera se aproxima de uma mesa de madeira contendo um café recém-preparado e um pequeno doce.
-
-Mostre vapor realista e sutil subindo do café. Reflexos na xícara e no vidro próximo devem obedecer à iluminação do mundo real.
-
-Sem vapor exagerado. Sem objetos flutuantes. Sem comida com aparência artificial.
-
-TOMADA 5 — 21–26 SEGUNDOS
-
-Corte de volta para a filmagem de selfie.
-
-A mesma mulher agora está sentada fora do café em uma pequena mesa.
-
-Ela pega naturalmente o café, toma um pequeno gole casual, abaixa a xícara e olha para a câmera.
-
-Sua expressão muda para um sorriso sutil e autêntico. Evite poses estilo influenciador ou felicidade exagerada.
-
-Mantenha a identidade facial exata e a continuidade do guarda-roupa.
-
-O fundo permanece vivo:
-pedestres caminhando, bicicletas passando, clientes de café conversando, movimento sutil de cadeiras e roupas com a brisa.
-
-A câmera permanece na mão e levemente imperfeita, com micro-tremores realistas.
-
-TOMADA 6 — 26–30 SEGUNDOS
-
-Continue a tomada de selfie para um final natural.
-
-Ela mantém um sorriso relaxado por um momento, então sua atenção muda sutilmente para a rua.
-
-A câmera realiza uma pequena mudança de foco natural do rosto dela para a rua atrás dela.
-
-Seu rosto gradualmente torna-se levemente mais suave enquanto o fundo torna-se mais nítido, como o comportamento de foco automático realista de uma câmera de vlog moderna.
-
-Termine espontaneamente em vez de dramaticamente.
-
-Sem fade cinematográfico, sem transição artificial, sem cartão de título.
-
-CÂMERA / FÍSICA
-
-Comportamento autêntico de câmera de vlog na mão durante todo o tempo.
-
-Use:
-
-- balanço realista de caminhada
-- tremor sutil de pulso
-- micro-vibração natural
-- enquadramento imperfeito
-- desfoque de movimento fisicamente preciso
-- comportamento realista de foco automático
-- adaptação realista de exposição
-- profundidade de campo natural
-- reflexos fisicamente corretos
-- sombras realistas
-- resposta natural da pele à luz solar
-- física de cabelo crível
-- movimento de tecido realista
-- movimento autêntico de pedestres
-
-A câmera deve ocasionalmente fazer pequenas correções humanas em vez de mover-se perfeitamente suave.
-
-ÁUDIO / AMBIENTE
-
-Som de local natural apenas.
-
-Inclua sutilmente:
-
-- passos em pavimento de pedra
-- conversas distantes
-- burburinho de café
-- movimento de bicicleta
-- ruído leve de rua
-- pássaros ao longe
-- abertura de porta
-- ambiente interno de café sutil
-- movimento fraco de xícara
-- respiração natural
-
-Sua frase falada deve soar como uma gravação de vlog casual real, com volume de voz natural e leve ruído de fundo ambiental.
-
-Sem trilha sonora dramática. Sem efeitos sonoros cinematográficos.
-
-REQUISITOS DE REALISMO ABSOLUTO
-
-Priorize o realismo fotográfico sobre a perfeição visual.
-
-A filmagem deve conter as pequenas imperfeições normalmente encontradas em filmagens de viagem genuínas feitas com a mão.
-
-Evite:
-
-- aparência de CGI
-- visual gerado por IA
-- pele de plástico
-- filtros de beleza
-- suavização excessiva da pele
-- simetria facial perfeita
-- expressões exageradas
-- excessivamente ci
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094280489372938242/img/7Fe6liEKwAtCoJ_T.jpg" width="600" alt="Consistência de Personagem em Vlog de Viagem Europeia">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=10095)**
-
-**Autor:** [K](https://x.com/ChillaiKalan__) | **Fonte:** [Link](https://x.com/ChillaiKalan__/status/2094280707422191705) | **Publicado:** Aug 31, 2026
 
 ---
 ### Ação Cinematográfica de Snowboard
@@ -3459,6 +3255,25 @@ Visuais: Close-up estilo selfie. Ela olha diretamente para a lente da câmera co
 **Autor:** [Harboris](https://x.com/harboriis) | **Fonte:** [Link](https://x.com/harboriis/status/2092131570908065852) | **Publicado:** Aug 25, 2026
 
 ---
+### Batalha de Dragões em Fantasia Sombria Cinematográfica
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Uma sequência épica de fantasia cinematográfica em 8K, começando com o reflexo no olho de um guerreiro e transicionando para a invocação de um dragão majestoso em um templo antigo.
+
+#### 📝 Prompt
+
+```
+Um vídeo épico de fantasia sombria cinematográfica em resolução 8K. Close-up macro extremo do olho de uma guerreira, com a íris refletindo um orbe celestial derretido e ardente girando dentro de nuvens de tempestade escuras. Tomada de acompanhamento em ângulo baixo enquanto uma guerreira do Leste Asiático, vestida com uma armadura elegante de couro e aço preto, caminha por águas rasas carregando uma chave ornamentada. Ela pisa em uma plataforma de pedra circular gravada com runas douradas brilhantes, cercada por névoa, cascatas de água e ruínas de templos antigos. Acima, uma esfera celestial colossal com veios de magma paira dentro de um vórtice de nuvens giratórias. Ela insere a chave em um altar de pedra coberto de musgo, acionando uma enorme matriz rúnica circular que lança gêiseres de água de alta pressão verticalmente em direção ao céu. Um dragão serpentino branco, gigante e majestoso, com olhos laranja flamejantes, emerge da névoa. A guerreira estende a mão enquanto seus olhos brilham em um dourado intenso, estabelecendo um poderoso vínculo mágico. O dragão vira-se para cima, subindo aos céus e disparando um feixe de pura energia branca radiante diretamente no orbe celestial, fazendo-o estilhaçar em ondas de choque de luz ofuscante. Escala cinematográfica épica, névoa volumétrica, efeitos visuais fotorrealistas, estilo de renderização Unreal Engine 5, gradação de cores cinza escuro e dourado, hiperdetalhado.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092121030919675904/img/LW6awWqbBpAvhWB6.jpg" width="600" alt="Batalha de Dragões em Fantasia Sombria Cinematográfica">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=9766)**
+
+**Autor:** [Zyrella](https://x.com/Zyrellix) | **Fonte:** [Link](https://x.com/Zyrellix/status/2092121112746287527) | **Publicado:** Aug 25, 2026
+
+---
 ---
 
 ## 📚 Mais prompts disponíveis
@@ -3520,6 +3335,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-09-01T04:04:16.317Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-09-02T03:23:59.306Z</sub>
 
 </div>

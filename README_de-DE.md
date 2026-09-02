@@ -68,9 +68,9 @@ Warum unsere Galerie nutzen?
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **6257** |
+| 📝 Gesamtanzahl Prompts | **6256** |
 | ⭐ Ausgewählte Prompts | **6** |
-| 🔄 Zuletzt aktualisiert | **2026-09-01** |
+| 🔄 Zuletzt aktualisiert | **2026-09-02** |
 
 ---
 
@@ -378,211 +378,6 @@ Ultrarealistische filmische Katastrophenszene in einer modernen Stadt: Eine muti
 **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=10103)**
 
 **Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Quelle:** [Link](https://x.com/AIwithMinal/status/2094289381049659440) | **Veröffentlicht:** Aug 31, 2026
-
----
-### Konsistenz des Charakters in einem europäischen Reise-Vlog
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Prompt zur Erstellung eines realistischen Handheld-Reise-Vlogs in einer europäischen Altstadt, mit Fokus auf Hauttexturen und konsistenter Charakteridentität.
-
-#### 📝 Prompt
-
-```
-Erstelle einen 30-sekündigen, ultra-fotorealistischen Reise-Vlog, der exakt wie echtes, spontan aufgenommenes Material eines echten europäischen Reise-Creators mit einer hochwertigen Handheld-Vlog-Kamera aussieht. Dieselbe junge europäische Frau muss während des gesamten Videos visuell identisch bleiben: identisches Gesicht, Gesichtsproportionen, Frisur, Haarfarbe, Hautton, Körperproportionen, Alter, Garderobe, Accessoires und Gesamterscheinungsbild. Achte auf strikte Charakterkonsistenz in jeder Einstellung und jedem Kamerawinkel.
-
-Die Frau sollte natürliche Hautporen, subtile Gesichtsunreinheiten, realistische Augen, einzelne Haarsträhnen, authentische Haarbewegungen, natürliche Körperproportionen, realistische Hände und spontane menschliche Mimik aufweisen. Kein Beauty-Filter, keine plastische Haut, kein übermäßiges Make-up, keine perfekte Symmetrie.
-
-Das gesamte Video muss sich wie echtes Dokumentar- oder Reise-Vlog-Material anfühlen, nicht wie ein Werbespot, Musikvideo, Kinofilm, 3D-Render oder eine KI-generierte Sequenz.
-
-KONTINUITÄT / CHARAKTER-FIXIERUNG
-
-Dieselbe Frau in jeder Einstellung. Junge europäische Frau, etwa Mitte 20, natürlich attraktiv, aber vollkommen realistisch. Natürlicher Teint mit sichtbaren Poren und kleinen Unreinheiten, realistische Augen und Wimpern, natürliche Augenbrauen, leicht unperfekte Haarsträhnen, die sich unabhängig im Wind bewegen. Dieselbe Frisur und Kleidung durchgehend. Authentische Körperhaltung und Geh-Rhythmus. Kein Abdriften der Gesichtsidentität, keine Veränderungen bei Alter, Frisur, Kleidung, Accessoires, Körperform oder Hautton.
-
-Sie trägt eine kleine, kompakte Vlog-Kamera, die bei Selfie-Aufnahmen natürlich auf Armlänge gehalten wird. Ihr Griff, ihre Finger, Hände und die Kameraposition müssen anatomisch realistisch bleiben.
-
-ORT / ATMOSPHÄRE
-
-Ein wunderschöner historischer europäischer Altstadtbezirk am Morgen. Enge, kopfsteingepflasterte Straßen, texturierte, jahrhundertealte Gebäude, farbenfrohe, aber realistische Fassaden, Fensterläden aus Holz, kleine Cafés, Tische im Freien, Fahrräder, Bäckerei-Schaufenster, Fußgänger, subtile Straßenaktivität.
-
-Weiches Morgenlicht mit realistischen Schatten. Natürliche atmosphärische Perspektive. Authentisches europäisches Straßenambiente. Passanten im Hintergrund verhalten sich unabhängig und natürlich, ohne in die Kamera zu starren. Keine duplizierten Fußgänger oder wiederholte Hintergrundcharaktere.
-
-EINSTELLUNG 1 — 0–5 SEKUNDEN
-
-Handheld-Vlog-Aufnahme im Selfie-Stil.
-
-Die Frau geht natürlich die Altstadtstraße entlang, während sie eine kleine Vlog-Kamera auf Armlänge hält. Sie blickt mit einem subtilen, echten Lächeln direkt in das Objektiv.
-
-Die Kamera weist realistische Handheld-Bewegungen auf: leichtes Wippen beim Gehen, winzige Handgelenkbewegungen, gelegentliches Mikrozittern, natürliche Bildausschnitt-Unvollkommenheiten, subtile, atembedingte Bewegungen. Stabilisiere das Material NICHT perfekt.
-
-Ihr Haar bewegt sich natürlich, während sie durch eine leichte Morgenbrise geht. Ihr Ausdruck bleibt entspannt und spontan. Sie blinzelt gelegentlich auf natürliche Weise.
-
-Hinter ihr: Fußgänger, die beiläufig spazieren, geparkte Fahrräder, Café-Eingänge, historisch texturierte Gebäude und morgendliche Aktivität.
-
-Natürliches Sonnenlicht fällt auf ihr Gesicht, während sie sich zwischen Halbschatten und Sonne bewegt. Bewahre realistische Belichtung und Hauttöne.
-
-EINSTELLUNG 2 — 5–10 SEKUNDEN
-
-Sie dreht die Kamera natürlich von sich weg in Richtung Straße.
-
-Erstelle einen unperfekten Handheld-Schwenk, als würde ein echter Reise-Creator seine Vlog-Kamera beiläufig neu ausrichten.
-
-Enthülle:
-
-- detaillierte historische europäische Architektur
-- Steinfassaden und Fenster
-- Café-Tische im Freien
-- Menschen, die Kaffee trinken
-- Fahrräder, die durch die Straße fahren
-- eine kleine Bäckerei in der Nachbarschaft
-- subtile morgendliche Straßenaktivität
-
-Der Schwenk sollte NICHT perfekt flüssig sein. Füge realistische Handgelenksbeschleunigung, winzige Korrekturen des Bildausschnitts und leichte Bewegungsunschärfe hinzu.
-
-Wenn sich die Kamera von einem dunkleren Teil der Straße in das direkte Morgenlicht bewegt, erzeuge eine subtile automatische Belichtungsanpassung. Lichter und Schatten reagieren natürlich wie bei einem echten Kamerasensor.
-
-Kein cineastischer Übergang. Kein künstliches Kameragleiten.
-
-EINSTELLUNG 3 — 10–15 SEKUNDEN
-
-Natürlicher Schnitt zurück zur Selfie-Aufnahme.
-
-Dieselbe Frau geht weiter auf das Café zu. Sie sagt kurz etwas Beiläufiges und Konversationelles in die Kamera, wie zum Beispiel:
-
-„Diese kleine Straße ist so wunderschön.“
-
-Ihre Lippenbewegungen müssen sich natürlich mit den Worten synchronisieren. Die Mimik ist entspannt und zurückhaltend. Kein übertriebenes Schauspiel.
-
-Sie blickt kurz zu etwas auf der Straße und dann zurück in das Objektiv. Sie blinzelt natürlich. Eine leichte Brise bewegt mehrere einzelne Haarsträhnen.
-
-Fußgänger gehen natürlich im Hintergrund vorbei, ohne die Kamera zu beachten.
-
-Behalte realistisches Handheld-Zittern, authentisches Wippen beim Gehen, natürliches Atmen, realistische Schärfentiefe und glaubwürdiges Straßenambiente bei.
-
-EINSTELLUNG 4 — 15–21 SEKUNDEN
-
-Natürlicher Übergang zu POV-Aufnahmen von ihrer Kamera.
-
-Sie nähert sich einem kleinen, unabhängigen lokalen Café und betritt es.
-
-Die Kamera bewegt sich mit normaler menschlicher Gehgeschwindigkeit durch den Türrahmen. Leichtes vertikales Wippen und subtile Handgelenkbewegungen bleiben sichtbar.
-
-Innen:
-
-- warmes, natürliches Café-Licht
-- Holztische
-- texturierte Wände
-- realistische Glasreflexionen
-- kleine Gespräche im Hintergrund
-
-- Kunden, die sich natürlich bewegen
-- Barista-Aktivität in der Ferne
-- subtile Umgebungsschatten
-
-Die Kamera nähert sich einem Holztisch, auf dem ein frisch zubereiteter Kaffee und ein kleines Gebäck stehen.
-
-Zeige subtilen, realistischen Dampf, der vom Kaffee aufsteigt. Reflexionen auf der Tasse und dem nahegelegenen Glas sollten den Gesetzen der realen Beleuchtung folgen.
-
-Kein übertriebener Dampf. Keine schwebenden Objekte. Kein künstlich aussehendes Essen.
-
-EINSTELLUNG 5 — 21–26 SEKUNDEN
-
-Schnitt zurück zur Selfie-Aufnahme.
-
-Dieselbe Frau sitzt nun draußen vor dem Café an einem kleinen Tisch.
-
-Sie nimmt natürlich den Kaffee, nimmt einen kleinen, beiläufigen Schluck, senkt die Tasse und schaut in die Kamera.
-
-Ihr Ausdruck wandelt sich in ein subtiles, authentisches Lächeln. Vermeide Posen im Influencer-Stil oder übertriebene Fröhlichkeit.
-
-Behalte die exakte Gesichtsidentität und Kontinuität der Garderobe bei.
-
-Der Hintergrund bleibt lebendig:
-Fußgänger gehen vorbei, Fahrräder fahren vorbei, Café-Gäste unterhalten sich, subtile Bewegung von Stühlen und Kleidung im Wind.
-
-Die Kamera bleibt in der Hand gehalten und leicht unperfekt, mit realistischem Mikrozittern.
-
-EINSTELLUNG 6 — 26–30 SEKUNDEN
-
-Setze die Selfie-Aufnahme für ein natürliches Ende fort.
-
-Sie behält einen Moment lang ein entspanntes Lächeln bei, dann richtet sich ihre Aufmerksamkeit subtil auf die Straße.
-
-Die Kamera führt eine kleine, natürliche Fokusverlagerung von ihrem Gesicht auf die Straße hinter ihr aus.
-
-Ihr Gesicht wird allmählich etwas weicher, während der Hintergrund klarer wird, wie bei einem realistischen Autofokus-Verhalten einer modernen Vlog-Kamera.
-
-Ende spontan statt dramatisch.
-
-Keine cineastische Überblendung, kein künstlicher Übergang, keine Titelkarte.
-
-KAMERA / PHYSIK
-
-Authentisches Handheld-Vlog-Kamera-Verhalten durchgehend.
-
-Verwende:
-
-- realistisches Wippen beim Gehen
-- subtiles Handgelenk-Zittern
-- natürliches Mikrozittern
-- unperfekten Bildausschnitt
-- physikalisch korrekte Bewegungsunschärfe
-- realistisches Autofokus-Verhalten
-- realistische Belichtungsanpassung
-- natürliche Schärfentiefe
-- physikalisch korrekte Reflexionen
-- realistische Schatten
-- natürliche Hautreaktion auf Sonnenlicht
-- glaubwürdige Haarphysik
-- realistische Stoffbewegungen
-- authentische Fußgängerbewegung
-
-Die Kamera sollte gelegentlich winzige menschliche Korrekturen vornehmen, anstatt sich perfekt flüssig zu bewegen.
-
-AUDIO / AMBIENTE
-
-Nur natürlicher Standort-Ton.
-
-Beinhaltet subtile:
-
-- Schritte auf Steinpflaster
-- entfernte Gespräche
-- Café-Geplapper
-- Fahrradbewegungen
-- leichte Straßengeräusche
-- Vögel in der Ferne
-- Türöffnen
-- subtiles Café-Innenambiente
-- leise Tassenbewegungen
-- natürliches Atmen
-
-Ihr gesprochener Satz sollte wie eine echte, beiläufige Vlog-Aufnahme klingen, mit natürlicher Stimmlautstärke und leichten Umgebungsgeräuschen.
-
-Kein dramatischer Soundtrack. Keine cineastischen Soundeffekte.
-
-ANFORDERUNGEN AN ABSOLUTEN REALISMUS
-
-Priorisiere fotografischen Realismus vor visueller Perfektion.
-
-Das Material sollte die winzigen Unvollkommenheiten enthalten, die normalerweise in echtem Handheld-Reisematerial zu finden sind.
-
-Vermeide:
-
-- CGI-Erscheinungsbild
-- KI-generierten Look
-- plastische Haut
-- Beauty-Filter
-- übermäßige Hautglättung
-- perfekte Gesichtssymmetrie
-- übertriebene Mimik
-- übermäßig ci
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094280489372938242/img/7Fe6liEKwAtCoJ_T.jpg" width="600" alt="Konsistenz des Charakters in einem europäischen Reise-Vlog">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=10095)**
-
-**Autor:** [K](https://x.com/ChillaiKalan__) | **Quelle:** [Link](https://x.com/ChillaiKalan__/status/2094280707422191705) | **Veröffentlicht:** Aug 31, 2026
 
 ---
 ### Cinematische Snowboard-Action
@@ -3472,6 +3267,25 @@ Visuals: Nahaufnahme-Selfie. Sie schaut mit einem warmen Lächeln direkt in das 
 **Autor:** [Harboris](https://x.com/harboriis) | **Quelle:** [Link](https://x.com/harboriis/status/2092131570908065852) | **Veröffentlicht:** Aug 25, 2026
 
 ---
+### Filmreifer Dark-Fantasy-Drachenkampf
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Eine epische 8K-Fantasy-Sequenz, die mit der Spiegelung im Auge eines Kriegers beginnt und in die Beschwörung eines majestätischen Drachen an einem antiken Tempel übergeht.
+
+#### 📝 Prompt
+
+```
+Ein filmreifes Dark-Fantasy-Epos als Video in 8K-Auflösung. Extreme Makro-Nahaufnahme des Auges einer Kriegerin, in dessen Iris eine brennende, geschmolzene Himmelskugel wirbelt, die sich in dunklen Gewitterwolken spiegelt. Ein Tracking-Shot aus der Froschperspektive zeigt eine ostasiatische Kriegerin in eleganter Rüstung aus schwarzem Leder und Stahl, die durch flaches Wasser schreitet und einen verzierten Schlüssel trägt. Sie betritt eine kreisförmige Steinplattform, die mit leuchtenden goldenen Runen graviert ist und von Nebel, herabstürzenden Wasserfällen und antiken Tempelruinen umgeben ist. Über ihr thront eine gewaltige, von Magma durchzogene Himmelskugel in einem Wirbel aus Wolken. Sie steckt den Schlüssel in einen moosbedeckten Steinaltar, wodurch ein massives, kreisförmiges Runenfeld aktiviert wird, das vertikale Hochdruck-Wasserfontänen in den Himmel schießt. Ein riesiger, majestätischer weißer Schlangendrache mit feurigen orangefarbenen Augen taucht aus dem Nebel auf. Die Kriegerin streckt ihre Hand aus, während ihre Augen hell golden leuchten, und baut eine mächtige magische Verbindung auf. Der Drache wendet sich nach oben, steigt in den Himmel auf und entfesselt einen Strahl aus reiner, strahlend weißer Energie direkt auf die Himmelskugel, die daraufhin in blendenden Lichtwellen zerspringt. Epische filmische Dimensionen, volumetrischer Nebel, fotorealistische visuelle Effekte, Unreal Engine 5 Render-Stil, dunkelgraues und goldenes Color Grading, hyperdetailliert.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092121030919675904/img/LW6awWqbBpAvhWB6.jpg" width="600" alt="Filmreifer Dark-Fantasy-Drachenkampf">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=9766)**
+
+**Autor:** [Zyrella](https://x.com/Zyrellix) | **Quelle:** [Link](https://x.com/Zyrellix/status/2092121112746287527) | **Veröffentlicht:** Aug 25, 2026
+
+---
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -3533,6 +3347,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-09-01T04:04:10.928Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-09-02T03:23:54.824Z</sub>
 
 </div>

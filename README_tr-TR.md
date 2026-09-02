@@ -68,9 +68,9 @@ Neden galerimizi kullanmalısınız?
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **6257** |
+| 📝 Toplam İstem | **6256** |
 | ⭐ Öne Çıkan İstemler | **6** |
-| 🔄 Son Güncelleme | **2026-09-01** |
+| 🔄 Son Güncelleme | **2026-09-02** |
 
 ---
 
@@ -378,210 +378,6 @@ Modern bir şehirde ultra gerçekçi sinematik felaket sahnesi; koyu kahverengi 
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10103)**
 
 **Yazar:** [AIwithMinal](https://x.com/AIwithMinal) | **Kaynak:** [Link](https://x.com/AIwithMinal/status/2094289381049659440) | **Yayınlandı:** Aug 31, 2026
-
----
-### Avrupa Seyahat Vlog'u Karakter Tutarlılığı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Avrupa'daki eski bir şehir merkezinde geçen, cilt dokularına ve tutarlı karakter kimliğine odaklanan gerçekçi bir el kamerası seyahat vlog'u oluşturmak için detaylı bir komut.
-
-#### 📝 İstem
-
-```
-Yüksek kaliteli bir el tipi vlog kamerasıyla gerçek bir Avrupalı seyahat içerik üreticisi tarafından spontane bir şekilde kaydedilmiş gibi görünen, 30 saniyelik ultra fotogerçekçi bir seyahat vlog'u oluşturun. Aynı genç Avrupalı kadın, tüm video boyunca görsel olarak tamamen aynı kalmalıdır: aynı yüz, yüz hatları, saç modeli, saç rengi, cilt tonu, vücut oranları, yaş, kıyafet, aksesuarlar ve genel görünüm. Her çekimde ve kamera açısında katı bir karakter tutarlılığı sağlayın.
-
-Kadının doğal cilt gözenekleri, hafif yüz kusurları, gerçekçi gözleri, tek tek seçilebilen saç telleri, otantik saç hareketi, doğal vücut oranları, gerçekçi elleri ve spontane insan ifadeleri olmalıdır. Güzellik filtresi yok, plastik cilt yok, aşırı makyaj yok, mükemmel simetri yok.
-
-Videonun tamamı ticari bir reklam, müzik videosu, sinematik film, 3D render veya yapay zeka tarafından oluşturulmuş bir sekans gibi değil, gerçek bir belgesel/seyahat vlog'u görüntüsü gibi hissettirmelidir.
-
-DEVAMLILIK / KARAKTER SABİTLEME
-
-Her çekimde aynı kadın. Genç Avrupalı kadın, yaklaşık 20'li yaşlarının ortasında, doğal olarak çekici ama tamamen gerçekçi. Görünür gözenekleri ve küçük kusurları olan doğal bir cilt, gerçekçi gözler ve kirpikler, doğal kaşlar, esintide bağımsız hareket eden hafif kusurlu saç telleri. Tüm video boyunca aynı saç modeli ve kıyafet. Otantik duruş ve yürüme ritmi. Yüz kimliğinde kayma yok, yaş, saç modeli, kıyafet, aksesuar, vücut şekli veya cilt tonunda değişiklik yok.
-
-Selfie çekimleri sırasında kol mesafesinde doğal bir şekilde tuttuğu küçük, kompakt bir vlog kamerası taşıyor. Kavrayışı, parmakları, elleri ve kamera konumu anatomik olarak gerçekçi kalmalıdır.
-
-KONUM / ATMOSFER
-
-Sabah saatlerinde güzel bir Avrupa tarihi eski şehir bölgesi. Dar taş döşemeli sokak, dokulu asırlık binalar, renkli ama gerçekçi cepheler, ahşap panjurlar, küçük kafeler, dış mekan masaları, bisikletler, fırın vitrini, yayalar, hafif sokak hareketliliği.
-
-Gerçekçi gölgelerle yumuşak sabah güneş ışığı. Doğal atmosferik perspektif. Otantik Avrupa sokak ambiyansı. Arka plandaki insanlar kameraya bakmadan bağımsız ve doğal davranıyor. Kopyalanmış yayalar veya tekrarlanan arka plan karakterleri yok.
-
-ÇEKİM 1 — 0–5 SANİYE
-
-Selfie tarzı el kamerası vlog görüntüsü.
-
-Kadın, küçük bir vlog kamerasını kol mesafesinde tutarak eski şehir sokağında doğal bir şekilde yürüyor. Hafif, samimi bir gülümsemeyle doğrudan lense bakıyor.
-
-Kamerada gerçekçi el hareketi var: hafif yürüme sarsıntısı, küçük bilek hareketleri, ara sıra oluşan mikro titremeler, doğal kadraj kusurları, nefes alıp vermeye bağlı hafif hareketler. Görüntüyü mükemmel şekilde sabitlemeyin.
-
-Hafif bir sabah esintisinde yürürken saçları doğal bir şekilde hareket ediyor. İfadesi rahat ve spontane kalıyor. Ara sıra doğal bir şekilde göz kırpıyor.
-
-Arkasında: gelişigüzel yürüyen yayalar, park halindeki bisikletler, kafe girişleri, tarihi dokulu binalar ve sabah hareketliliği.
-
-Kısmi gölge ve güneş ışığı arasında hareket ederken yüzüne doğal güneş ışığı düşüyor. Gerçekçi pozlama ve cilt tonlarını koruyun.
-
-ÇEKİM 2 — 5–10 SANİYE
-
-Kamerayı doğal bir şekilde kendinden sokağa doğru çeviriyor.
-
-Gerçek bir seyahat içerik üreticisi vlog kamerasını gelişigüzel bir şekilde yönlendiriyormuş gibi kusurlu bir el kamerası pan hareketi oluşturun.
-
-Şunları gösterin:
-
-- detaylı tarihi Avrupa mimarisi
-- taş cepheler ve pencereler
-- dış mekan kafe masaları
-- kahve içen insanlar
-- sokaktan geçen bisikletler
-- küçük bir mahalle fırını
-- hafif sabah sokak hareketliliği
-
-Pan hareketi mükemmel derecede pürüzsüz OLMAMALI. Gerçekçi bilek hızlanması, küçük kadraj düzeltmeleri ve hafif hareket bulanıklığı ekleyin.
-
-Kamera sokağın daha karanlık bir bölümünden doğrudan sabah güneş ışığına doğru hareket ederken, hafif bir otomatik pozlama ayarı oluşturun. Parlak alanlar ve gölgeler gerçek bir kamera sensörü gibi doğal tepki vermelidir.
-
-Sinematik geçiş yok. Yapay kamera kaydırması yok.
-
-ÇEKİM 3 — 10–15 SANİYE
-
-Doğal bir şekilde tekrar selfie görüntüsüne kesin.
-
-Aynı kadın kafeye doğru yürümeye devam ediyor. Kameraya kısaca şunun gibi gündelik ve sohbet havasında bir şey söylüyor:
-
-“Bu küçük sokak çok güzel.”
-
-Dudak hareketi kelimelerle doğal bir şekilde senkronize olmalıdır. Yüz ifadeleri rahat ve abartısız. Abartılı oyunculuk yok.
-
-Kısaca sokaktaki bir şeye göz atıyor ve sonra tekrar lense bakıyor. Doğal bir şekilde göz kırpıyor. Hafif bir esinti birkaç saç telini hareket ettiriyor.
-
-Yayalar kamerayı fark etmeden arka planda doğal bir şekilde geçiyor.
-
-Gerçekçi el titremesini, otantik yürüme sarsıntısını, doğal nefes almayı, gerçekçi alan derinliğini ve inandırıcı sokak ambiyansını koruyun.
-
-ÇEKİM 4 — 15–21 SANİYE
-
-Kamerasından POV görüntüsüne doğal bir şekilde geçiş yapın.
-
-Küçük, bağımsız bir yerel kafeye yaklaşıyor ve içeri giriyor.
-
-Kamera, kapıdan normal insan yürüme hızında geçiyor. Hafif dikey sarsıntı ve ince bilek hareketi görünür kalıyor.
-
-İçeride:
-
-- sıcak doğal kafe aydınlatması
-- ahşap masalar
-- dokulu duvarlar
-- gerçekçi cam yansımaları
-- küçük arka plan konuşmaları
-- doğal hareket eden müşteriler
-- uzakta barista hareketliliği
-- hafif çevresel gölgeler
-
-Kamera, taze hazırlanmış bir kahve ve küçük bir hamur işi bulunan ahşap bir masaya yaklaşıyor.
-
-Kahveden yükselen hafif gerçekçi buharı gösterin. Bardaktaki ve yakındaki camdaki yansımalar gerçek dünya ışıklandırmasına uymalıdır.
-
-Abartılı buhar yok. Havada asılı nesneler yok. Yapay görünen yiyecekler yok.
-
-ÇEKİM 5 — 21–26 SANİYE
-
-Tekrar selfie görüntüsüne kesin.
-
-Aynı kadın şimdi kafenin dışında küçük bir masada oturuyor.
-
-Doğal bir şekilde kahveyi alıyor, küçük bir yudum alıyor, bardağı indiriyor ve kameraya bakıyor.
-
-İfadesi hafif, otantik bir gülümsemeye dönüşüyor. Influencer tarzı poz vermekten veya abartılı mutluluktan kaçının.
-
-Tam yüz kimliğini ve kıyafet devamlılığını koruyun.
-
-Arka plan canlı kalıyor:
-yürüyen yayalar, geçen bisikletler, konuşan kafe müşterileri, esintide sandalyelerin ve kıyafetlerin hafif hareketi.
-
-Kamera el tipi ve hafif kusurlu kalıyor, gerçekçi mikro titremelerle.
-
-ÇEKİM 6 — 26–30 SANİYE
-
-Doğal bir bitiş için selfie çekimine devam edin.
-
-Bir an için rahat bir gülümsemeyi koruyor, sonra dikkati hafifçe sokağa kayıyor.
-
-Kamera, yüzünden arkasındaki sokağa doğru küçük, doğal bir odak kaydırması yapıyor.
-
-Modern bir vlog kamerasının gerçekçi otomatik odaklama davranışı gibi, yüzü yavaş yavaş biraz daha yumuşak hale gelirken arka plan netleşiyor.
-
-Dramatik bir şekilde değil, spontane bir şekilde bitirin.
-
-Sinematik kararma yok, yapay geçiş yok, başlık kartı yok.
-
-KAMERA / FİZİK
-
-Baştan sona otantik el tipi vlog kamerası davranışı.
-
-Şunları kullanın:
-
-- gerçekçi yürüme sarsıntısı
-- hafif bilek titremesi
-- doğal mikro titreme
-- kusurlu kadraj
-- fiziksel olarak doğru hareket bulanıklığı
-- gerçekçi otomatik odaklama davranışı
-- gerçekçi pozlama adaptasyonu
-- doğal alan derinliği
-- fiziksel olarak doğru yansımalar
-- gerçekçi gölgeler
-- cildin güneş ışığına doğal tepkisi
-- inandırıcı saç fiziği
-- gerçekçi kumaş hareketi
-- otantik yaya hareketi
-
-Kamera, mükemmel derecede pürüzsüz hareket etmek yerine ara sıra küçük insani düzeltmeler yapmalıdır.
-
-SES / AMBİYANS
-
-Sadece doğal ortam sesi.
-
-Şunları hafifçe dahil edin:
-
-- taş zeminde ayak sesleri
-- uzak konuşmalar
-- kafe sohbetleri
-- bisiklet hareketi
-- hafif sokak gürültüsü
-- uzaktan kuş sesleri
-- kapı açılma sesi
-- hafif kafe iç ambiyansı
-- hafif bardak hareketi
-- doğal nefes alıp verme
-
-Konuştuğu cümle, doğal ses seviyesi ve hafif çevresel arka plan gürültüsü ile gerçek bir gündelik vlog kaydı gibi duyulmalıdır.
-
-Dramatik bir müzik yok. Sinematik ses efektleri yok.
-
-MUTLAK GERÇEKÇİLİK GEREKSİNİMLERİ
-
-Görsel mükemmellikten ziyade fotoğrafik gerçekçiliğe öncelik verin.
-
-Görüntü, gerçek el tipi seyahat görüntülerinde normalde bulunan küçük kusurları içermelidir.
-
-Şunlardan kaçının:
-
-- CGI görünümü
-- yapay zeka tarafından oluşturulmuş görünüm
-- plastik cilt
-- güzellik filtreleri
-- aşırı cilt pürüzsüzleştirme
-- mükemmel yüz simetrisi
-- abartılı ifadeler
-- aşırı sinematik
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094280489372938242/img/7Fe6liEKwAtCoJ_T.jpg" width="600" alt="Avrupa Seyahat Vlog'u Karakter Tutarlılığı">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10095)**
-
-**Yazar:** [K](https://x.com/ChillaiKalan__) | **Kaynak:** [Link](https://x.com/ChillaiKalan__/status/2094280707422191705) | **Yayınlandı:** Aug 31, 2026
 
 ---
 ### Sinematik Snowboard Aksiyonu
@@ -3567,6 +3363,25 @@ Görseller: Yakın çekim selfie. Doğrudan kamera lensine bakıyor ve sıcak bi
 **Yazar:** [Harboris](https://x.com/harboriis) | **Kaynak:** [Link](https://x.com/harboriis/status/2092131570908065852) | **Yayınlandı:** Aug 25, 2026
 
 ---
+### Sinematik Karanlık Fantastik Ejderha Savaşı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir savaşçının göz yansımasıyla başlayan ve antik bir tapınakta görkemli bir ejderha çağırma sahnesine geçiş yapan epik 8K sinematik fantastik sekans.
+
+#### 📝 İstem
+
+```
+8K çözünürlükte sinematik, karanlık fantastik epik video. Kadın bir savaşçının gözünün aşırı makro yakın çekimi; iriste, karanlık fırtına bulutlarının içinde dönen yanan, erimiş göksel bir kürenin yansıması görülüyor. Şık siyah deri ve çelik zırh giymiş Doğu Asyalı kadın savaşçının, elinde süslü bir anahtarla sığ suda yürüdüğü düşük açılı takip çekimi. Savaşçı, sis, çağlayan şelaleler ve antik tapınak kalıntılarıyla çevrili, parlayan altın rünlerle işlenmiş dairesel bir taş platforma adım atıyor. Yukarıda, dönen bulutların girdabı içinde magma damarlı devasa bir göksel küre yükseliyor. Anahtarı yosun kaplı bir taş sunağa yerleştiriyor ve bu, gökyüzüne dikey, yüksek basınçlı su gayzerleri fırlatan devasa dairesel bir rün dizisini tetikliyor. Sisten, ateşli turuncu gözlere sahip dev, görkemli beyaz bir yılan ejderha ortaya çıkıyor. Savaşçı elini uzatıyor ve gözleri parlak altın renginde parlayarak güçlü bir büyü bağı kuruyor. Ejderha yukarı doğru dönerek gökyüzüne süzülüyor ve doğrudan göksel küreye saf, parlak beyaz bir enerji ışını püskürterek kürenin kör edici ışık dalgaları halinde parçalanmasına neden oluyor. Epik sinematik ölçek, hacimsel sis, fotogerçekçi görsel efektler, Unreal Engine 5 render stili, koyu gri ve altın renk tonlaması, hiper detaylı.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092121030919675904/img/LW6awWqbBpAvhWB6.jpg" width="600" alt="Sinematik Karanlık Fantastik Ejderha Savaşı">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=9766)**
+
+**Yazar:** [Zyrella](https://x.com/Zyrellix) | **Kaynak:** [Link](https://x.com/Zyrellix/status/2092121112746287527) | **Yayınlandı:** Aug 25, 2026
+
+---
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -3628,6 +3443,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-01T04:04:20.783Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-02T03:24:03.008Z</sub>
 
 </div>

@@ -68,9 +68,9 @@ Perché usare la nostra galleria?
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **6257** |
+| 📝 Totale prompt | **6256** |
 | ⭐ Prompt in evidenza | **6** |
-| 🔄 Ultimo aggiornamento | **2026-09-01** |
+| 🔄 Ultimo aggiornamento | **2026-09-02** |
 
 ---
 
@@ -378,211 +378,6 @@ Scena di disastro cinematografico ultra-realistico in una città moderna; una gi
 **[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10103)**
 
 **Autore:** [AIwithMinal](https://x.com/AIwithMinal) | **Fonte:** [Link](https://x.com/AIwithMinal/status/2094289381049659440) | **Pubblicato:** Aug 31, 2026
-
----
-### Coerenza del personaggio per vlog di viaggio in Europa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt dettagliato per creare un vlog di viaggio realistico girato a mano in un centro storico europeo, con enfasi sulle texture della pelle e sulla coerenza dell'identità del personaggio.
-
-#### 📝 Prompt
-
-```
-Crea un vlog di viaggio ultra-fotorealistico di 30 secondi che sembri esattamente un filmato autentico, registrato spontaneamente da un vero travel creator europeo con una videocamera da vlog portatile di alta qualità. La stessa giovane donna europea deve rimanere visivamente identica per tutto il video: volto, proporzioni facciali, acconciatura, colore dei capelli, tonalità della pelle, proporzioni corporee, età, guardaroba, accessori e aspetto generale devono essere identici. Mantieni una rigorosa coerenza del personaggio in ogni inquadratura e angolazione.
-
-La donna deve avere pori della pelle naturali, sottili imperfezioni del viso, occhi realistici, singole ciocche di capelli, movimento autentico dei capelli, proporzioni corporee naturali, mani realistiche ed espressioni umane spontanee. Niente filtri di bellezza, niente pelle di plastica, niente trucco eccessivo, niente simmetria perfetta.
-
-L'intero video deve sembrare un vero filmato documentaristico/vlog di viaggio, non una pubblicità, un video musicale, un film cinematografico, un rendering 3D o una sequenza generata dall'IA.
-
-CONTINUITÀ / BLOCCO DEL PERSONAGGIO
-
-La stessa donna in ogni inquadratura. Giovane donna europea, circa 25 anni, naturalmente attraente ma completamente realistica. Carnagione naturale con pori visibili e piccole imperfezioni, occhi e ciglia realistici, sopracciglia naturali, ciocche di capelli leggermente imperfette che si muovono indipendentemente nella brezza. Stessa acconciatura e abbigliamento per tutto il tempo. Postura e ritmo di camminata autentici. Nessuna deriva dell'identità facciale, nessun cambiamento di età, acconciatura, abbigliamento, accessori, forma del corpo o tonalità della pelle.
-
-Trasporta una piccola videocamera da vlog compatta, tenuta naturalmente a distanza di braccio durante i selfie. La presa, le dita, le mani e la posizione della videocamera devono rimanere anatomicamente realistiche.
-
-LOCATION / ATMOSFERA
-
-Un bellissimo centro storico europeo al mattino. Strade strette pavimentate in pietra, edifici secolari ricchi di texture, facciate colorate ma realistiche, persiane in legno, piccoli caffè, tavoli all'aperto, biciclette, vetrine di panetterie, pedoni, sottile attività stradale.
-
-Luce solare mattutina soffusa con ombre realistiche. Prospettiva atmosferica naturale. Autentica atmosfera stradale europea. Le persone sullo sfondo si comportano in modo indipendente e naturale, senza fissare la videocamera. Nessun pedone duplicato o personaggio di sfondo ripetuto.
-
-INQUADRATURA 1 — 0–5 SECONDI
-
-Filmato vlog in stile selfie girato a mano.
-
-La donna cammina naturalmente lungo la strada del centro storico mentre tiene una piccola videocamera da vlog a distanza di braccio. Guarda direttamente nell'obiettivo con un sorriso sottile e genuino.
-
-La videocamera presenta un movimento realistico a mano: leggero rimbalzo della camminata, minuscoli movimenti del polso, micro-vibrazioni occasionali, imperfezioni naturali nell'inquadratura, sottile movimento legato alla respirazione. NON stabilizzare perfettamente il filmato.
-
-I suoi capelli si muovono naturalmente mentre cammina attraverso una leggera brezza mattutina. La sua espressione rimane rilassata e spontanea. Sbatte le palpebre naturalmente di tanto in tanto.
-
-Dietro di lei: pedoni che camminano casualmente, biciclette parcheggiate, ingressi di caffè, edifici storici ricchi di texture e attività mattutina.
-
-La luce solare naturale cade sul suo viso mentre si muove tra ombra parziale e sole. Preserva l'esposizione e le tonalità della pelle realistiche.
-
-INQUADRATURA 2 — 5–10 SECONDI
-
-Sposta naturalmente la videocamera da sé verso la strada.
-
-Crea una panoramica a mano imperfetta, come se un vero travel creator avesse casualmente reindirizzato la propria videocamera da vlog.
-
-Rivela:
-
-- architettura storica europea dettagliata
-- facciate in pietra e finestre
-- tavoli da caffè all'aperto
-- persone che bevono caffè
-- biciclette che si muovono per strada
-- una piccola panetteria di quartiere
-- sottile attività stradale mattutina
-
-La panoramica NON deve essere perfettamente fluida. Includi un'accelerazione realistica del polso, minuscole correzioni dell'inquadratura e un leggero motion blur.
-
-Quando la videocamera si sposta da una sezione più buia della strada alla luce solare diretta del mattino, produci un sottile adattamento automatico dell'esposizione. Luci e ombre reagiscono naturalmente come il sensore di una vera videocamera.
-
-Nessuna transizione cinematografica. Nessun movimento artificiale della videocamera.
-
-INQUADRATURA 3 — 10–15 SECONDI
-
-Torna naturalmente al filmato selfie.
-
-La stessa donna continua a camminare verso il caffè. Dice brevemente qualcosa di casuale e colloquiale alla videocamera, come:
-
-“Questa stradina è così bella.”
-
-Il movimento delle sue labbra deve sincronizzarsi naturalmente con le parole. Le espressioni facciali sono rilassate e sobrie. Nessuna recitazione esagerata.
-
-Lancia un breve sguardo verso qualcosa nella strada e poi torna all'obiettivo. Sbatte le palpebre naturalmente. Una leggera brezza muove diverse ciocche di capelli individuali.
-
-I pedoni passano naturalmente sullo sfondo senza notare la videocamera.
-
-Mantieni vibrazioni realistiche a mano, autentico rimbalzo della camminata, respirazione naturale, profondità di campo realistica e un'atmosfera stradale credibile.
-
-INQUADRATURA 4 — 15–21 SECONDI
-
-Transizione naturale verso un filmato in soggettiva (POV) dalla sua videocamera.
-
-Si avvicina ed entra in un piccolo caffè locale indipendente.
-
-La videocamera si muove attraverso la porta a una normale velocità di camminata umana. Rimangono visibili un leggero rimbalzo verticale e un sottile movimento del polso.
-
-All'interno:
-
-- calda illuminazione naturale da caffè
-- tavoli in legno
-- pareti con texture
-- riflessi realistici sui vetri
-- piccole conversazioni di sottofondo
-
-- clienti che si muovono naturalmente
-- attività del barista in lontananza
-- sottili ombre ambientali
-
-La videocamera si avvicina a un tavolo di legno contenente un caffè appena preparato e un piccolo pasticcino.
-
-Mostra un sottile vapore realistico che sale dal caffè. I riflessi sulla tazza e sul vetro vicino devono seguire le leggi dell'illuminazione del mondo reale.
-
-Niente vapore esagerato. Niente oggetti fluttuanti. Niente cibo dall'aspetto artificiale.
-
-INQUADRATURA 5 — 21–26 SECONDI
-
-Torna al filmato selfie.
-
-La stessa donna è ora seduta fuori dal caffè a un tavolino.
-
-Prende naturalmente il caffè, ne beve un piccolo sorso casuale, abbassa la tazza e guarda nella videocamera.
-
-La sua espressione si trasforma in un sorriso autentico e sottile. Evita pose in stile influencer o felicità esagerata.
-
-Mantieni l'esatta identità facciale e la continuità del guardaroba.
-
-Lo sfondo rimane vivo:
-pedoni che camminano, biciclette che passano, clienti del caffè che parlano, sottile movimento di sedie e vestiti nella brezza.
-
-La videocamera rimane a mano e leggermente imperfetta, con micro-vibrazioni realistiche.
-
-INQUADRATURA 6 — 26–30 SECONDI
-
-Continua l'inquadratura selfie per un finale naturale.
-
-Mantiene un sorriso rilassato per un momento, poi la sua attenzione si sposta sottilmente verso la strada.
-
-La videocamera esegue un piccolo cambio di messa a fuoco naturale dal suo viso verso la strada dietro di lei.
-
-Il suo viso diventa gradualmente leggermente più morbido mentre lo sfondo diventa più nitido, come un comportamento di autofocus realistico di una moderna videocamera da vlog.
-
-Termina spontaneamente piuttosto che in modo drammatico.
-
-Nessuna dissolvenza cinematografica, nessuna transizione artificiale, nessuna schermata con titolo.
-
-FOTOCAMERA / FISICA
-
-Comportamento autentico della videocamera da vlog a mano per tutto il tempo.
-
-Usa:
-
-- rimbalzo realistico della camminata
-- sottile vibrazione del polso
-- micro-jitter naturale
-- inquadratura imperfetta
-- motion blur fisicamente accurato
-- comportamento di autofocus realistico
-- adattamento realistico dell'esposizione
-- profondità di campo naturale
-- riflessi fisicamente corretti
-- ombre realistiche
-- risposta naturale della pelle alla luce solare
-- fisica dei capelli credibile
-- movimento realistico dei tessuti
-- movimento autentico dei pedoni
-
-La videocamera dovrebbe occasionalmente fare minuscole correzioni umane invece di muoversi in modo perfettamente fluido.
-
-AUDIO / AMBIENTE
-
-Solo suono naturale della location.
-
-Includi sottili:
-
-- passi sulla pavimentazione in pietra
-- conversazioni in lontananza
-- chiacchiere da caffè
-- movimento di biciclette
-- leggero rumore stradale
-- uccelli in lontananza
-- apertura di porte
-- sottile atmosfera interna del caffè
-- debole movimento di tazze
-- respirazione naturale
-
-La sua frase parlata dovrebbe suonare come una vera registrazione da vlog casuale, con un volume di voce naturale e un leggero rumore ambientale di sottofondo.
-
-Nessuna colonna sonora drammatica. Nessun effetto sonoro cinematografico.
-
-REQUISITI DI REALISMO ASSOLUTO
-
-Dai la priorità al realismo fotografico rispetto alla perfezione visiva.
-
-Il filmato dovrebbe contenere le minuscole imperfezioni normalmente presenti nei filmati di viaggio autentici girati a mano.
-
-Evita:
-
-- aspetto CGI
-- look generato dall'IA
-- pelle di plastica
-- filtri di bellezza
-- eccessivo levigamento della pelle
-- perfetta simmetria facciale
-- espressioni esagerate
-- eccessivamente ci
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094280489372938242/img/7Fe6liEKwAtCoJ_T.jpg" width="600" alt="Coerenza del personaggio per vlog di viaggio in Europa">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10095)**
-
-**Autore:** [K](https://x.com/ChillaiKalan__) | **Fonte:** [Link](https://x.com/ChillaiKalan__/status/2094280707422191705) | **Pubblicato:** Aug 31, 2026
 
 ---
 ### Azione cinematografica di snowboard
@@ -3560,6 +3355,25 @@ Visual: Primo piano in stile selfie. Guarda direttamente nell'obiettivo della te
 **Autore:** [Harboris](https://x.com/harboriis) | **Fonte:** [Link](https://x.com/harboriis/status/2092131570908065852) | **Pubblicato:** Aug 25, 2026
 
 ---
+### Battaglia epica tra draghi in stile dark fantasy cinematografico
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un'epica sequenza fantasy cinematografica in 8K che inizia con il riflesso nell'occhio di una guerriera e passa all'evocazione di un maestoso drago presso un antico tempio.
+
+#### 📝 Prompt
+
+```
+Un video epico in stile dark fantasy cinematografico con risoluzione 8K. Primo piano macro estremo dell'occhio di una guerriera, con l'iride che riflette un globo celeste fuso e ardente che vortica tra oscure nuvole temporalesche. Ripresa in tracking dal basso mentre una guerriera dell'Asia orientale, vestita con un'elegante armatura in pelle nera e acciaio, cammina in acque basse portando una chiave decorata. Sale su una piattaforma circolare in pietra incisa con rune dorate luminose, circondata da nebbia, cascate scroscianti e rovine di un antico tempio. Sopra di lei, una colossale sfera celeste venata di magma incombe all'interno di un vortice di nuvole. Inserisce la chiave in un altare di pietra ricoperto di muschio, attivando un massiccio schieramento runico circolare che scaglia geyser d'acqua ad alta pressione verso il cielo. Un gigantesco e maestoso drago serpentino bianco dagli occhi color arancio fuoco emerge dalla nebbia. La guerriera tende la mano mentre i suoi occhi brillano di un oro intenso, stabilendo un potente legame magico. Il drago si volge verso l'alto, librandosi nel cielo e scatenando un raggio di pura energia bianca radiante direttamente contro il globo celeste, facendolo frantumare in onde d'urto di luce accecante. Scala cinematografica epica, nebbia volumetrica, effetti visivi fotorealistici, stile di rendering Unreal Engine 5, color grading grigio scuro e dorato, iper-dettagliato.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092121030919675904/img/LW6awWqbBpAvhWB6.jpg" width="600" alt="Battaglia epica tra draghi in stile dark fantasy cinematografico">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=9766)**
+
+**Autore:** [Zyrella](https://x.com/Zyrellix) | **Fonte:** [Link](https://x.com/Zyrellix/status/2092121112746287527) | **Pubblicato:** Aug 25, 2026
+
+---
 ---
 
 ## 📚 Altri prompt disponibili
@@ -3621,6 +3435,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-09-01T04:04:14.912Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-09-02T03:23:57.903Z</sub>
 
 </div>
