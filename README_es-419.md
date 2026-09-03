@@ -68,9 +68,9 @@ Una colección curada de prompts de generación de video de alta calidad para Se
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **6256** |
+| 📝 Total de prompts | **6270** |
 | ⭐ Prompts destacados | **6** |
-| 🔄 Última actualización | **2026-09-02** |
+| 🔄 Última actualización | **2026-09-03** |
 
 ---
 
@@ -361,6 +361,518 @@ Ultra realista, energía inspirada en Fast and Furious, iluminación fotorrealis
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Interacción entre un robot humanoide y un niño
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinematográfico detallado para una escena conmovedora donde un robot humanoide ayuda a un niño pequeño con un proyecto de juguete en una habitación acogedora y con ambiente.
+
+#### 📝 Prompt
+
+```
+Escena cinematográfica ultrarrealista de un robot humanoide arrodillado junto a un niño pequeño en el suelo, ayudándole cuidadosamente con un pequeño proyecto de juguete. Habitación oscura y acogedora, haz de luz cálida y dramática de una linterna, luz azul fría proveniente de una ventana, cuerpo robótico realista en blanco y negro, narrativa emocional, reflejos detallados, profundidad de campo reducida, iluminación cinematográfica, fotorrealista, 8K, alto nivel de detalle, estética de fotograma de película, composición natural, vertical.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095013559956832256/img/9sLw03nIwBcTBLvj.jpg" width="600" alt="Interacción entre un robot humanoide y un niño">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=10212)**
+
+**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Fuente:** [Link](https://x.com/AIwithMinal/status/2095013621034287392) | **Publicado:** Sep 2, 2026
+
+---
+### Parodia surrealista de infomercial de Samsung de los 90
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video surrealista altamente detallado que evoca el estilo de los infomerciales de Tim and Eric de 1998, con físicas destructivas y un teléfono inteligente con pantallas plegables infinitas.
+
+#### 📝 Prompt
+
+```
+(Estética de infomercial de Tim and Eric de 1998) (Medio: Cámara de transmisión SD BetaSP)
+
+[INICIO DE ESCENA]
+INT/EXT. CASA SUBURBANA Y CALLE - DÍA
+
+Cámara:
+En mano con seguimiento, zooms rápidos, sangrado de color NTSC de baja resolución, iluminación de video intensa
+
+Iluminación:
+Relleno de estudio brillante y plano mezclado con luz solar cenital intensa, ligera aberración cromática
+
+SUJETO:
+@steve: chaqueta de traje a cuadros vintage, grande y fea, sosteniendo un teléfono inteligente plegable negro y delgado, rostro inexpresivo.
+Multitud: Vecino suburbano paseando al perro afuera.
+
+ACCIÓN:
+[Tiempo 00:00-00:02]: @seeksteve saca un teléfono negro tipo ladrillo del bolsillo, desplegando la pantalla dos veces, voz en off: 'Se doblaron dos veces'. El tercer panel sigue expandiéndose infinitamente a través de la encimera de la cocina con rápidos clics de bisagra. Cuando las pantallas se despliegan, siempre permanecen juntas y nunca hay espacios entre ellas.
+[Tiempo 00:02-00:08]: @seeksteve camina mientras la pantalla en acordeón se expande sin fin a través de la mesa del comedor, aplastándola mientras vemos la madera astillarse y la mesa partirse por la mitad, atraviesa la puerta corrediza de vidrio con físicas realistas de rotura de vidrio mientras la puerta destroza la pared, esta comienza a desmoronarse con el panel de yeso cediendo y el polvo acumulándose, causando un caos absoluto, desplegándose como una alfombra de vidrio negro sobre el camino de entrada con rápidos clics de ametralladora, voz en off: 'Seguimos adelante. Galaxy Hundredfold. Teléfono. Tableta. Camino de entrada'.
+[Tiempo 00:08-00:12]: Toma en ángulo alto que muestra a @seeksteve de pie al final de la pista de vidrio negro que se extiende por la calle, la pista de teléfono de vidrio se extiende hasta la casa al fondo, un auto se desvía para evitar la pista de teléfono de vidrio pero choca contra la casa, la casa ya se estaba desmoronando pero ahora se cae por completo, voz en off: 'Saber cuándo sostenerlas, saber cuándo doblarlas... Ilimitado'. Corte directo al texto del título del producto Samsung Galaxy Hundredfold, colocado sobre una escena que muestra a los bomberos llegando al lugar, degradado negro ligeramente borroso para que el texto del producto siga siendo el foco.
+
+ATMÓSFERA:
+La vibra es inexpresiva, surrealista y destructiva. Tono comercial absurdo con @seeksteve manteniendo una energía seria de presentador de producto a pesar de la imposibilidad física extrema y la destrucción.
+
+[MODIFICADORES DE ESTILO]
+Referencia: Tim and Eric Awesome Show, cinta VHS, B-Roll comercial, metraje de desastres
+
+Implicación de audio: Voz en off masculina inexpresiva, clics mecánicos rápidos de bisagra, mesa de madera astillándose, vidrio rompiéndose, pared desmoronándose, bocina de auto amortiguada, chirrido de neumáticos, impacto de vehículo contra la casa, silencio absoluto al final
+```
+
+<img src="https://pbs.twimg.com/media/HRLxej7W4AAXNJh.jpg" width="600" alt="Parodia surrealista de infomercial de Samsung de los 90">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=10211)**
+
+**Autor:** [seeksteve](https://x.com/seeksteve) | **Fuente:** [Link](https://x.com/seeksteve/status/2095002313857380822) | **Publicado:** Sep 2, 2026
+
+---
+### Montaje de vlog de una bibliotecaria genial
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un montaje estilo documental de una bibliotecaria de preparatoria, genial y silenciosa, después de clases, con una estética de video casero realista en 480p y una consistencia de personaje impecable.
+
+#### 📝 Prompt
+
+```
+Crea un video casero estilo vlog de una chica del comité de la biblioteca de preparatoria, tranquila y genial, después de clases, grabado por un amigo del mismo comité. 480p. Consiste en un montaje de cortes directos de tomas cortas (aprox. 2 segundos cada una). Cada toma es un momento diferente, donde 1 toma = 1 evento pequeño. No utilices transiciones ni fundidos. Como es grabado por un amigo, ella está al menos algo relajada y muestra su verdadera expresión al final.
+
+Sujeto principal:
+La misma chica de preparatoria japonesa en todas las tomas. Una belleza genial con ojos almendrados de un solo párpado, pestañas largas y bajas, cejas bien definidas, textura de piel realista blanca y translúcida, sin maquillaje, nariz delgada, labios finos y una mandíbula marcada. Ojos tranquilos detrás de lentes delgados con marco plateado. Cabello negro lacio hasta los hombros. Camisa blanca de manga corta, falda plisada azul marino y zapatos escolares de interior. Tranquila y con pocas expresiones. Mantén los rasgos faciales, el tipo de cuerpo, el peinado, los lentes y el uniforme completamente consistentes de principio a fin.
+
+Ubicación:
+La biblioteca de la escuela durante el verano después de clases hasta el cierre. Filas de estanterías altas, un mostrador de préstamo, asientos junto a la ventana con el sol del atardecer y un rincón para libros infantiles. Sin anuncios ni marcas reconocibles.
+
+Cámara / Estilo visual:
+Común a todas las tomas: Una cámara digital casera antigua de mano. Movimiento natural de cámara, encuadre imperfecto, búsqueda de enfoque ocasional, fluctuaciones de exposición por el sol del atardecer, ligero desenfoque de movimiento, ruido sutil y colores ligeramente apagados. Sin estabilización, gimbals, drones, cámara lenta ni iluminación cinematográfica.
+
+Lista de tomas (En orden, aprox. 2s cada una, todos cortes directos):
+1. Caminando entre estantes sosteniendo libros devueltos contra su pecho. Nota la cámara y pone un dedo sobre sus labios.
+2. Estirándose para devolver un libro a un estante alto, fallando y yendo silenciosamente a buscar un taburete.
+3. Manos rítmicas y precisas sellando fechas de devolución en el mostrador.
+4. Un perfil de ella leyendo junto a la ventana bajo el sol del atardecer. Dedos delgados pasando una página.
+5. Después del cierre, abriendo un libro ilustrado en el rincón infantil desierto.
+
+Realismo físico:
+Mantén una física auténtica del mundo real. Las manos, dedos, cabello, lentes, uniformes, libros, taburetes y sellos se comportan de forma natural. Sin dedos extra, manos fusionadas, cuerpos distorsionados, objetos flotantes, objetos que desaparecen o deformaciones repentinas. Mantén el texto de los libros borroso e ilegible. Mantén la consistencia del sujeto en todas las tomas.
+
+Audio:
+Solo sonidos ambientales naturales. El silencio de la biblioteca, el sonido de las páginas al pasar, el sonido del sello, el sonido de los zapatos de interior, voces distantes de actividades de clubes y una pequeña voz leyendo en voz alta (palabras ininteligibles). Sin música, narración ni efectos de sonido artificiales.
+
+Atmósfera final:
+Un registro de las sesiones de práctica invisibles de una chica genial y tranquila que fueron captadas por casualidad en video. No es un trabajo comercial ni un drama. La brecha entre el silencio y su sonrisa resignada al ser sorprendida es entrañable. Tranquila, dedicada, teñida por el sol del atardecer, cálida y profundamente humana. Prioriza la sensación de que la cámara simplemente estaba allí por casualidad.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094082195019399169/img/X6qqAxYTCpta4Vpr.jpg" width="600" alt="Montaje de vlog de una bibliotecaria genial">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=10220)**
+
+**Autor:** [妖精アーヤ](https://x.com/aiehon_aya) | **Fuente:** [Link](https://x.com/aiehon_aya/status/2094908158749610036) | **Publicado:** Sep 1, 2026
+
+---
+### Secuencia de fantasía de artes marciales
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Una escena de fantasía de artes marciales chinas de alta intensidad que presenta a una guerrera realizando patadas y ráfagas de energía bajo una luna llena, probada en Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Un video cinematográfico de 5 segundos de fantasía de artes marciales chinas. Pantalla panorámica 16:9, calidad de película de acción real en alta definición, escena de acción poderosa.
+
+Un cielo nocturno profundo con una luna llena pálida. El fondo presenta arquitectura tradicional de palacio chino con pilares bermellones, techos de tejas y un patio de adoquines. La luz de la luna y una fina niebla iluminan el patio, creando una atmósfera grandiosa y tensa.
+
+En el centro, una joven y digna artista marcial. Su largo cabello negro está atado en una coleta alta, ondeando con el viento. Viste un traje de batalla estilo Hanfu basado en tonos rosados, con mangas largas y dobladillos que se balancean hermosamente con sus movimientos. Sus rasgos faciales, peinado, vestimenta y físico son consistentes a lo largo del video.
+
+0.0s-1.2s: La cámara se acerca lentamente desde una posición ligeramente diagonal frente a ella. Ella da un paso firme desde una postura baja, mirando a la cámara con una expresión concentrada.
+
+1.2s-3.1s: Ejecuta dos patadas circulares consecutivas a la velocidad del rayo. Ambas patadas muestran trayectorias de pierna claras y rotación de cuerpo completo. La cámara sigue su movimiento en un seguimiento semicircular suave, añadiendo una ligera cámara lenta y desenfoque de movimiento solo en el momento de la patada. Su ropa y su coleta ondean significativamente debido a la fuerte fuerza centrífuga.
+
+3.1s-5.0s: Inmediatamente después de aterrizar, posa con ambas manos frente a su pecho, condensando energía brillante de color azul pálido desde sus palmas. Luego, empuja ambas manos hacia la cámara, liberando una brillante y gran onda de energía hacia adelante. La onda va acompañada de ondas de choque circulares, partículas y finas estelas de luz que se acercan al primer plano. La cámara retrocede ligeramente mientras recibe la onda y, finalmente, una luz azul pálida envuelve toda la pantalla. Una actuación poderosa, elegante y cinematográfica de principio a fin.
+
+Estructura humana natural, extremidades precisas, movimiento continuo y fluido, causa y efecto claros en la acción, iluminación tridimensional, hermoso contraste entre la luz de luna pálida y la vestimenta rosada, escala grandiosa, cinematografía de alta gama, gradación de color cinematográfica, muy alta definición, sin texto ni logotipos mostrados en pantalla.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094845560557817856/img/UrPlQNgRjsz6qjJw.jpg" width="600" alt="Secuencia de fantasía de artes marciales">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=10217)**
+
+**Autor:** [おもも桃](https://x.com/omomomomo0309) | **Fuente:** [Link](https://x.com/omomomomo0309/status/2094845693227844025) | **Publicado:** Sep 1, 2026
+
+---
+### Montaje de escena de interacción con holograma
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt de múltiples cortes para Seedance 2.0 que muestra a un personaje interactuando con un holograma, utilizando referencias de imagen específicas para la consistencia de la escena.
+
+#### 📝 Prompt
+
+```
+Corte 1: Imagen 1. Aparece un holograma desde la palma de la mano mientras dice: "Justo ahora, un virus de rastreo de la Agencia Zordia ha ingresado a Arc Stella".
+
+Corte 2: Nia 02, operando mientras amplía el holograma anterior. Imagen 2. Nia 02: "Ya he convertido el virus de rastreo en un monstruo usando el sistema de cambio de avatar".
+```
+
+<img src="https://cms-assets.youmind.com/media/1788331433913_ct1k8g_HRIkPyBbwAABTwK.jpg" width="600" alt="Montaje de escena de interacción con holograma">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=10223)**
+
+**Autor:** [咲山(AIイラスト・AI動画垢)](https://x.com/z933TfmXkaISSVc) | **Fuente:** [Link](https://x.com/z933TfmXkaISSVc/status/2094776654380126351) | **Publicado:** Sep 1, 2026
+
+---
+### Video de rutina diaria después de la ducha
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt de video realista de una sola toma para Seedance 2.5 que representa la tranquila rutina matutina de una mujer después de bañarse, centrándose en movimientos sutiles y luz natural.
+
+#### 📝 Prompt
+
+```
+Relación de aspecto: 9:16, siguiendo la composición original
+Formato de toma: Toma única, plano secuencia, sin transiciones
+Atmósfera general: Vida cotidiana tranquila después de bañarse, real y natural, contenida y relajada, sin actuaciones intencionadas
+
+## Bloqueo del primer fotograma
+El segundo 0 debe conectar con precisión con `@Image 1`: mantén la identidad facial, el tono de piel, las proporciones corporales, el cabello negro húmedo, el vestido de casa de tirantes finos gris-púrpura claro, la toalla de baño color crema sobre el hombro y la postura de pie existente de la mujer adulta.
+La mano derecha permanece en el cabello húmedo en la parte posterior de la cabeza y la mano izquierda cuelga naturalmente; la cabeza está hacia la izquierda de la pantalla, con la mirada fuera del baño. Conserva las pequeñas gotas de agua en la piel y la clavícula, el peso del cabello húmedo en mechones y el contraste frío-cálido formado por la luz fría del baño y la luz cálida del dormitorio.
+
+## 0.0–0.8 segundos | Respiración tras la quietud
+La pantalla comienza con precisión desde la imagen original, sin saltos de composición.
+La persona mantiene la postura original y el pecho produce fluctuaciones muy leves con una respiración natural. La mirada sigue fija en el lado izquierdo de la pantalla, la expresión es tranquila y los labios están naturalmente entreabiertos.
+Los dedos de la mano derecha siguen en contacto con el cabello húmedo, permitiendo solo ligeros ajustes en las yemas. El cabello húmedo y la toalla de baño cuelgan naturalmente por la gravedad y no se balancean repentinamente.
+La lente está fija, conservando solo una sensación muy leve de respiración manual real.
+
+## 0.8–2.8 segundos | Acomodando el cabello húmedo
+Los dedos de la mano derecha de la persona pasan lentamente por el cabello húmedo en la parte posterior de la cabeza, recogiendo un pequeño mechón hacia atrás. El movimiento es suave y continuo, sin sacudir la cabeza con fuerza.
+La cabeza se inclina ligeramente hacia la derecha con el movimiento de la mano, la amplitud es muy pequeña; la mirada sigue fija a la izquierda, sin mirar a la cámara de antemano.
+El cabello húmedo movido sigue el movimiento de los dedos con un retraso de medio tiempo, y algunos mechones de cabello húmedo pegados al lado de la cara y el cuello se separan naturalmente. Una pequeña gota de agua se desliza lentamente por el costado del cuello, reflejándose brevemente en la luz cálida.
+La toalla de baño solo produce ligeros cambios en las arrugas y siempre permanece estable sobre ambos hombros.
+
+## 2.8–4.6 segundos | Retirando la mirada lentamente
+Después de terminar de recoger el cabello, la mano derecha se detiene en la unión del cuello y el cabello, sin bajarla inmediatamente.
+La persona primero mueve lentamente su mirada desde la distancia hacia una posición al frente y ligeramente a la izquierda, y luego la cabeza sigue y gira ligeramente hacia atrás. Ella parpadea naturalmente una vez y exhala suavemente, con los hombros y el cuello relajándose ligeramente con la exhalación.
+La expresión no muestra una sonrisa obvia, solo mantiene la quietud, la relajación y un poco de reflexión después del baño. Los labios se cierran naturalmente después de exhalar.
+La lente comienza a hacer zoom muy lentamente, con una amplitud de avance total de no más del 5% del encuadre original en seis segundos, sin cambiar las proporciones principales del cuerpo del personaje.
+
+## 4.6–6.0 segundos | Movimiento asentado
+La mano derecha se desliza lentamente desde el cabello húmedo hasta la parte posterior del cuello, deteniéndose finalmente con suavidad en el borde de la toalla de baño, sin bajarla por completo.
+La persona mantiene una postura de pie relajada, con la mirada cayendo cerca del lado izquierdo de la cámara, pero sin mirar directamente a ella. Los dedos de la mano izquierda se relajan naturalmente y el centro de gravedad del cuerpo solo experimenta ligeros ajustes.
+El cabello húmedo se pega naturalmente de nuevo al costado del cuello después de que termina el movimiento, y las arrugas de la toalla de baño se estabilizan lentamente. Finalmente, quédate medio segundo para formar una pantalla final tranquila y realista.
+
+## Diseño de sonido
+Conserva el funcionamiento de baja frecuencia del extractor de aire del baño, pequeños sonidos de goteo en la distancia, ligeros sonidos de fricción del cabello húmedo y los dedos, y sonidos suaves de tela cuando la toalla de baño se mueve.
+Sin diálogos, sin narración, sin música de fondo, sin subtítulos.
+
+## Continuidad y elementos prohibidos
+- El rostro, los rasgos, el tono de piel, el tipo de cuerpo y la edad del personaje son consistentes en todo momento.
+- La longitud, el color y el estado húmedo del cabello permanecen sin cambios; no debe secarse repentinamente, aumentar de volumen ni cambiar de peinado.
+- El color, el corte, la posición de los tirantes y el estado de cobertura del vestido de casa permanecen estables, sin deslizarse ni deformarse.
+- La toalla de baño siempre permanece sobre ambos hombros, sin desaparecer, cambiar de color ni caerse repentinamente.
+- Las gotas de agua solo pueden deslizarse lentamente, sin aumentar repentinamente, parpadear ni desaparecer todas.
+- Mantén el marco de la puerta, el baño, la cama del dormitorio y la dirección de la luz fría-cálida de la imagen original.
+- No añadas nuevos personajes, reflejos en espejos, teléfonos móviles, joyas u otros accesorios.
+- No utilices movimientos de cabeza, poses de sacudir el cabello, parpadeos exagerados, sonrisas repentinas o miradas directas a la cámara y otras actuaciones intencionadas.
+- No hagas zoom en partes del cuerpo, no cambies la perspectiva de disparo natural y realista de la imagen original.
+- Evita la distorsión facial, deformidades en los dedos, extremidades adicionales, recortes de ropa y deformación de la estructura del fondo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094770077182971905/img/i-Pc-5kGJaWbXfZ1.jpg" width="600" alt="Video de rutina diaria después de la ducha">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=10218)**
+
+**Autor:** [李岳](https://x.com/liyue_ai) | **Fuente:** [Link](https://x.com/liyue_ai/status/2094773618685403149) | **Publicado:** Sep 1, 2026
+
+---
+### Vlog de fotografía espontánea junto al lago
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt de video para Seedance 2.0 que crea un momento realista detrás de escena de una chica siendo fotografiada junto a un lago, enfocándose en transiciones naturales de posar a relajarse.
+
+#### 📝 Prompt
+
+```
+Utiliza la imagen cargada como única referencia de la persona, manteniendo estrictamente sus rasgos, forma de la cara, peinado, vestimenta, proporciones corporales, el fondo de pasto junto al lago y la iluminación general; sin intercambio de rostros ni cambios en la identidad de la persona. Duración de 8 segundos, plano secuencia, sensación realista de detrás de escena de una sesión de fotos entre amigos. 0-2 segundos: La chica mantiene la pose de la imagen original, con los brazos cruzados naturalmente, el cuerpo ligeramente de lado, manteniendo una sonrisa hermosa pero contenida, con la mirada cerca de la cámara. Hay una brisa ligera junto al lago, el cabello largo y el dobladillo de la camisa rosa se mueven naturalmente. 2-4 segundos: Después de mantener la pose por un momento, sus ojos comienzan a mostrar un poco de curiosidad, la sonrisa se relaja ligeramente, inclina suavemente la cabeza para mirar al fotógrafo y pregunta naturalmente: '¿Ya está?'. 4-5 segundos: Después de preguntar, no se mueve de inmediato, mantiene la pose original, esperando tranquilamente la respuesta de la otra persona, mirando a la cámara con un poco de expectativa. El fotógrafo fuera de cámara responde naturalmente: 'Listo'. 5-8 segundos: Tras escuchar 'Listo', confirma claramente el final de la sesión y se relaja por completo al instante. Sus hombros caen ligeramente, los brazos cruzados se sueltan, la sonrisa profesional desaparece y es reemplazada por una sonrisa genuinamente relajada. Exhala suavemente, su cuerpo se balancea un poco, su mirada se desvía hacia un lado y luego no puede evitar reírse, como si finalmente no tuviera que seguir posando. Puntos clave: Debe mostrar la relación causal de 'relajarse solo después de escuchar que está listo'. Antes de eso, la persona siempre mantiene la postura de fotografía y no se relaja por adelantado. La primera mitad es un estado de pose exquisito y la segunda mitad es un estado de vida muy real, formando un contraste claro pero natural. Requisitos: El rostro de la persona debe ser siempre estable, manteniendo los mismos rasgos de la imagen cargada; la sincronización labial en chino para '¿Ya está?' debe ser natural y precisa; la voz fuera de cámara de 'Listo' proviene del fotógrafo, no permitas que la chica lo diga ella misma; sin actuaciones exageradas; sin movimientos bruscos; el cabello debe moverse naturalmente con el viento; conservar la textura real de la piel; la lente debe tener una ligera sensación de cámara en mano; en general, debe parecer un clip real de detrás de escena capturado por un amigo mientras la ayudaba a tomarse fotos.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094726251059838976/img/BZZ18ceB-Y1_ujg3.jpg" width="600" alt="Vlog de fotografía espontánea junto al lago">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=10216)**
+
+**Autor:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Fuente:** [Link](https://x.com/Adam38363368936/status/2094727084975542436) | **Publicado:** Sep 1, 2026
+
+---
+### Corto de cocina con estética Ghibli
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video de anime acogedor para una escena de cocina con iluminación cálida y visuales de comida inspirados en Ghibli.
+
+#### 📝 Prompt
+
+```
+Cortometraje de cocina estilo anime, estética de comida Ghibli, luz de cocina dorada y cálida, encimera de mármol, cocina de panadería acogedora, 16:9. Una serie de tomas macro rápidas en primer plano: harina vertiéndose sobre una superficie de mármol con una nube de polvo blanco elevándose, manos amasando la masa
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094717281532035072/img/FIEMn0eLLK-eO7Ra.jpg" width="600" alt="Corto de cocina con estética Ghibli">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=10209)**
+
+**Autor:** [𝚎𝚖𝚘𝚝𝚒𝚘𝚗𝚜 ❦](https://x.com/0xemotions_) | **Fuente:** [Link](https://x.com/0xemotions_/status/2094717581756133424) | **Publicado:** Sep 1, 2026
+
+---
+### Animación 2.5D de catedral gótica
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video estilizado para una animación 2.5D de una arena de jefe en una catedral gótica, enfatizando una estética específica que evita el CGI común y el aspecto de caricatura plana.
+
+#### 📝 Prompt
+
+```
+Animación cinemática 2.5D. NO es caricatura 2D plana, SIN contornos negros marcados, SIN cel-shading, NO es CGI brillante, NO es Unreal Engine, SIN fotorrealismo, sin piel de plástico. MUNDO: Vasta arena de jefe en una catedral gótica, paleta de sombras de piedra azul pizarra, ámbar cálido
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094666624519516160/img/soFTc81pywuWLIW6.jpg" width="600" alt="Animación 2.5D de catedral gótica">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=10215)**
+
+**Autor:** [PixieVerse](https://x.com/itsPixieVerse) | **Fuente:** [Link](https://x.com/itsPixieVerse/status/2094670016243270084) | **Publicado:** Sep 1, 2026
+
+---
+### Encuentro en la cafetería escolar estilo anime
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinemático estilo anime para una escena expresiva entre dos adolescentes en una cafetería escolar, con iluminación suave y movimiento dinámico.
+
+#### 📝 Prompt
+
+```
+Escena escolar estilo anime cinemático ultrarrealista, un adolescente rubio con uniforme escolar negro inclinándose de forma juguetona hacia una adolescente de cabello azul, la chica levantando la mano para detenerlo, rostros expresivos, cabello azul fluido, ventanas brillantes del salón, luz natural suave, profundidad de campo reducida, composición cinemática, uniformes detallados, movimiento dinámico, texturas realistas de piel y cabello, lente de 85 mm, f/1.8, bokeh cremoso, alto detalle, 8K, vertical.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094653190004494336/img/vBdRFX-YQ6Wny6jO.jpg" width="600" alt="Encuentro en la cafetería escolar estilo anime">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=10213)**
+
+**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Fuente:** [Link](https://x.com/AIwithMinal/status/2094653366643155160) | **Publicado:** Sep 1, 2026
+
+---
+### Desafío de comedia al estilo de programa de variedades japonés
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt complejo de 30 segundos para Seedance 2.5 que simula un desafío de programa de variedades de la televisión japonesa, incluyendo ángulos de cámara específicos, reacciones de los personajes y repeticiones en cámara lenta.
+
+#### 📝 Prompt
+
+```
+Programa de variedades ficticio de la televisión japonesa
+"¡Al límite! El campeonato de la reina del desafío extremo"
+
+30 segundos, 16:9, estilo de programa de variedades japonés, video de acción real.
+
+[REFERENCIA DEL PERSONAJE]
+Usa a la mujer adulta de la Imagen 1 como la retadora "Yumi".
+Usa la Imagen 1 como la única referencia de persona para Yumi, manteniendo su rostro, contornos faciales, ojos, nariz, boca, peinado, color de cabello, flequillo, tono de piel, edad, físico, proporciones corporales y vestuario de manera consistente durante los 30 segundos.
+Ignora el fondo de la Imagen 1 y usa un estudio de televisión nuevo.
+No permitas que se convierta en una persona diferente en las tomas de cuerpo completo, primer plano, acostada o en cámara lenta.
+
+[ESCENA]
+Un estudio de televisión japonés brillante y animado.
+En el centro, una bicicleta completamente fijada con equipo de seguridad para la filmación.
+Un presentador masculino (Ota), una locutora, varios invitados y una audiencia en el estudio.
+Metraje que parece un programa de variedades japonés real filmado con múltiples cámaras de televisión.
+
+El proyecto es un desafío ficticio y cómico: "Pedalea una bicicleta vigorosamente por tu cuenta y supera el reto si logras detener la rueda trasera giratoria con tus glúteos".
+No realices contacto físico peligroso; establécelo mediante trucos de filmación seguros, actuación, ángulos de cámara, efectos de sonido y edición.
+No muestres el punto de contacto en primer plano.
+El punto principal es la reacción cómica de cuerpo completo de Yumi: "Sorprendida -> Con dolor -> Inclinándose hacia atrás significativamente -> Saltando con un espasmo -> Quejándose mientras se sujeta los glúteos con ambas manos -> Acostada en el suelo".
+
+[0:00–0:04 | Explicación de las reglas]
+CAM1: Toma amplia frontal del estudio. Yumi de la Imagen 1 está en la bicicleta fija. El presentador, la locutora, los invitados y la audiencia son visibles al fondo.
+Narración: "¡El desafío de hoy es—"
+Telop: <<¡Las reglas son súper simples!>>
+CAM2: Ángulo frontal de 45° de Yumi, plano medio. Yumi dice enérgicamente a la cámara:
+Yumi: "¡Voy a pedalear con todas mis fuerzas y detener la llanta con mis glúteos!"
+SE: ¡Don!
+Telop grande de TV: <<¡Detén la llanta con tus glúteos!>>
+Risas en el estudio.
+Presentador Ota: "¡Es un éxito si logras una detención completa usando solo tus glúteos!"
+Telop: <<¡Éxito con una detención completa!>>
+Yumi: "¡¡Aquí voy!!"
+
+[0:04–0:07 | Pedaleo: 3 segundos]
+CAM4: Vista lateral, cuerpo completo. Captura a Yumi y la bicicleta fija. Yumi pedalea vigorosamente.
+SE: "¡¡Chirrido, chirrido, chirrido...!"
+La rueda trasera gira más rápido.
+Ota: "¡Más! ¡Más!"
+Invitado: "¡Puedes dar más!"
+Yumi pedalea con más alegría. Breve inserción de la rueda trasera girando al final.
+
+[0:07–0:11 | Preparación del desafío: 4 segundos]
+CAM4: Vista lateral, cuerpo completo. Yumi se baja de la bicicleta. Mira hacia atrás a la rueda trasera giratoria.
+CAM2: Primer plano del rostro. Una expresión tensa momentánea.
+CAM4: Vista lateral, cuerpo completo. Yumi se coloca en posición de espaldas a la rueda trasera.
+CAM2: Plano medio frontal. Yumi dice enérgicamente: "¡¡Voy a detenerla!!"
+Risas en el estudio. Yumi se prepara.
+
+[0:11–0:16 | Desafío: 5 segundos]
+CAM2: Primer plano del rostro. Yumi: "¡¡Hah!!"
+CAM4: Corte inmediato a plano lateral de cuerpo completo. Yumi desafía vigorosamente. Sin primer plano del contacto.
+Momento siguiente—
+SE: "¡¡Chirrido!!"
+CAM2: Corte inmediato al rostro de Yumi. Su expresión cambia instantáneamente. Ojos abiertos, rostro contorsionado.
+Yumi: "¡¡Duuuuuueeeeleee!!"
+CAM4: Cuerpo completo inmediato. Inclina su cuerpo hacia atrás significativamente por la sorpresa y el dolor. Con ese impulso, salta alto con un "¡espasmo!"
+Invitado: "¡¡Guau!!"
+Yumi aterriza: "¡¡Ay, ay, ay!!"
+Se queja y reflexivamente se sujeta los glúteos con ambas manos. Pierde el equilibrio y cae al suelo. La cámara se inclina hacia abajo suavemente siguiendo a Yumi. Ella yace boca arriba en forma de estrella. La rueda trasera sigue girando.
+
+[0:16–0:17 | Juicio de fallo: 1 segundo]
+SE: "¡¡Buzzzzzzz!!"
+CAM7: Diagonal desde arriba, toma amplia. Yumi quejándose en forma de estrella en el suelo con la bicicleta detrás de ella.
+Telop gigante llenando la pantalla: <<¡¡Desafío fallido!!>>
+Ota: "¡¡Qué mal!!"
+El estudio estalla en risas.
+
+[0:17–0:27 | Repetición en cámara lenta de 10 segundos]
+BGM al estilo de la gran televisión japonesa. Telop: <<El momento impactante una vez más—>>
+IMPORTANTE: Esto no es un desafío nuevo. Es una repetición en cámara lenta hecha por el programa de televisión del mismo evento que ocurrió en 0:11–0:16, usando el mismo metraje de cámara. Mantén la consistencia completa del rostro de Yumi de la Imagen 1, vestuario, postura, posición de la bicicleta y acciones.
+CAM DE REPETICIÓN: Vista lateral, cuerpo completo. Sin zoom en la parte del contacto. El rostro de Yumi y su reacción de cuerpo completo son el enfoque principal.
+Su expresión de confianza justo antes del desafío. Al momento siguiente, su expresión cambia repentinamente. Ojos abiertos, rostro contorsionado. El grito real grabado a velocidad normal se estira en el tiempo con el video.
+Yumi (audio ralentizado): "¡¡¡¡¡Duuuuuuuuuueeeeeeeeeeeleeeeeeeeeeeeee!!!!!"
+Su cuerpo se inclina lentamente hacia atrás de forma significativa. Luego, todo el cuerpo salta alto con un "¡espasmo!"
+Invitado: "¡Voló! ¡Voló!"
+Yumi aterriza. Se sujeta los glúteos inmediatamente. Yumi (audio ralentizado): "¡¡¡¡¡Dueeeeeeeeeleeeeeee!!!!!"
+Quejándose mientras se sujeta los glúteos. Su cuerpo se dobla, se tambalea y cae al suelo. La cámara se inclina hacia abajo suavemente. Un breve cuadro congelado en el momento en que queda plana.
+SE: "¡¡Dooooon!!"
+Telop: <<¿¡Completamente noqueada por el impacto!?>>
+El estudio estalla en risas.
+
+[0:27–0:30 | Entrevista final]
+Regresa a la velocidad normal. CAM7: Diagonal desde arriba, cuerpo completo. Yumi de la Imagen 1 está boca arriba en el suelo, todavía quejándose. La locutora corre con un micrófono mientras intenta contener la risa. Se agacha junto a Yumi y le acerca el micrófono a la boca.
+Locutora: "¿Cómo te sientes?"
+CAM2: Rostro de Yumi. Zoom suave: plano medio -> primer plano del rostro -> primer plano. Las risas a su alrededor se silencian por un momento. Expresión de agonía de Yumi. Pausa de 0.5 segundos.
+Yumi dice suavemente como si estuviera exhausta: "...Mis glúteos salieron volando..."
+Las risas alcanzan su punto máximo instantáneamente al final de la frase. Termina de inmediato.
+
+[VOZ / AUDIO EN JAPONÉS | LO MÁS IMPORTANTE]
+Toda la conversación es en japonés. Pronunciación, acento, entonación, pausas y tempo naturales en japonés, como si fueran hablados por hablantes nativos en un programa de televisión japonés real. Sin acento extranjero.
+```
+
+<img src="https://cms-assets.youmind.com/media/1788331432814_pauzrw_HRGsTmzb0AA47bP.jpg" width="600" alt="Desafío de comedia al estilo de programa de variedades japonés">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=10221)**
+
+**Autor:** [オクニョ](https://x.com/okunyo28) | **Fuente:** [Link](https://x.com/okunyo28/status/2094646330958180486) | **Publicado:** Sep 1, 2026
+
+---
+### Comercial de lujo para reloj Rolex
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un sofisticado prompt para un comercial de televisión cinemático de 15 segundos para un reloj de lujo, detallando la iluminación, el movimiento de cámara y los planos.
+
+#### 📝 Prompt
+
+```
+Crea un lujoso comercial de televisión cinemático de 15 segundos en formato vertical 9:16 para el reloj Rolex Mini Twotone. Movimientos de cámara suaves y elegantes, iluminación dorada tenue, estética de película de moda de alta gama, ultra realista, calidad premium.
+
+0-2 seg: Una suave luz matutina llena un moderno apartamento de gran altura. Una mujer joven y elegante con cabello oscuro en un moño despeinado, vistiendo una blusa de seda color crema, se sienta junto a un gran ventanal con vista al horizonte de la ciudad. Ella toca suavemente su cuello y mira por la ventana mientras luce el Rolex Mini Twotone en su muñeca. Superposición de texto: “BELLEZA ATEMPORAL”.
+
+2-4 seg: Primer plano extremo de la esfera del reloj Rolex Mini Twotone. Esfera blanca, bisel estriado de oro, marcadores de hora dorados, ventana de fecha mostrando el 28. Reflejos suaves se deslizan sobre el cristal. Texto: “HECHO PARA LA PERFECCIÓN”.
+
+4-6 seg: Montaje macro rápido y elegante: primer plano de la esfera, la corona de oro y los eslabones del brazalete Jubilee bitono entrelazándose con precisión. La luz suave captura cada detalle de la artesanía. Texto: “CADA DETALLE IMPORTA”.
+
+6-8 seg: El reloj completo descansa sobre una superficie oscura y reflectante. Rotación lenta y elegante que muestra el brazalete de oro y acero bitono brillando intensamente desde cada ángulo. Texto: “HECHO PARA BRILLAR PARA SIEMPRE”.
+
+8-10 seg: Primer plano de las manos de la mujer sosteniendo una taza de café blanca. El Rolex Mini Twotone es claramente visible en su muñeca. Luz natural suave, ambiente elegante y sofisticado. Texto: “MÁS ALLÁ DEL TIEMPO, UNA DECLARACIÓN”.
+
+10-12 seg: El reloj yace sobre una lujosa tela de satén dorado. Una luz suave se desliza por la esfera y el brazalete. Texto: “PARA CADA MOMENTO”.
+
+12-14 seg: Fondo negro limpio. Aparece el logotipo de la corona de Rolex en oro, seguido de un elegante texto dorado: “ROLEX MINI TWOTONE” y “Elegancia atemporal. Hecho para ti.”
+
+14-15 seg: Encuadre final sobre fondo negro con partículas doradas flotantes. Logotipo grande de la corona de Rolex en oro y texto: “ROLEX – VIVE EL TIEMPO. AMA ROLEX.”
+
+Estilo general: Comercial de reloj de lujo, iluminación cinemática suave, movimientos de cámara lentos y elegantes, alto detalle, fotorrealista, atmósfera premium y sofisticada.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094641380606017536/img/ezxVXj1IjTsmaHMb.jpg" width="600" alt="Comercial de lujo para reloj Rolex">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=10205)**
+
+**Autor:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Fuente:** [Link](https://x.com/ayzalnooor24521/status/2094641418174361694) | **Publicado:** Sep 1, 2026
+
+---
+### Transformación de escarabajo biomecánico al estilo Transformers
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de transformación de video que convierte a un humanoide escarabajo biomecánico en un escarabajo robótico al estilo cinematográfico de las películas de Transformers.
+
+#### 📝 Prompt
+
+```
+Al estilo de las películas de Transformers, ¿puedes transformar al humanoide escarabajo biomecánico de la Imagen 1 en un escarabajo robótico biomecánico en la Imagen 2?
+```
+
+<img src="https://cms-assets.youmind.com/media/1788331415724_9dfin8_HRGI13cbIAAdhHY.jpg" width="600" alt="Transformación de escarabajo biomecánico al estilo Transformers">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=10206)**
+
+**Autor:** [Zidan 子丹](https://x.com/liluocheng13) | **Fuente:** [Link](https://x.com/liluocheng13/status/2094605823741919530) | **Publicado:** Sep 1, 2026
+
+---
+### Montaje de vlog de una chica en un restaurante japonés
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un montaje nostálgico de 15 segundos al estilo vlog de una estudiante de preparatoria japonesa ayudando en el restaurante rural de su familia, capturado con la sensación de una cámara digital de mano.
+
+#### 📝 Prompt
+
+```
+Crea un video casero de 15 segundos al estilo vlog de una estudiante de preparatoria ayudando en el restaurante de su familia, filmado por un amigo de la infancia desde un asiento en la barra. Los 15 segundos deben consistir en un montaje de cortes directos de 7 tomas cortas (aprox. 2 segundos cada una). Cada toma es un momento diferente, donde 1 toma = 1 pequeño evento. No utilices transiciones ni fundidos. Dado que es filmado por un amigo, ella muestra una expresión relajada y natural.
+
+Sujeto principal:
+La misma estudiante de preparatoria japonesa en todas las tomas. Una belleza definida con cejas rectas y decididas, ojos grandes y almendrados con párpados dobles claros, nariz recta, labios bien definidos, textura de piel saludable y realista, sin maquillaje. Una coleta alta y negra que deja al descubierto su frente enfatiza sus rasgos. Viste un pañuelo blanco, un delantal azul marino y una camiseta blanca. Es eficiente pero un poco seria. Mantén los rasgos faciales, el tipo de cuerpo, el peinado y la ropa completamente consistentes de principio a fin.
+
+Ubicación:
+Un pequeño restaurante rural durante un mediodía de verano. Una cocina llena de vapor, una barra, mesas pequeñas para clientes habituales y luz filtrándose a través de la cortina noren. Una tienda real con un aspecto vivido. Sin anuncios ni marcas reconocibles.
+
+Cámara / Estilo visual:
+Común a todas las tomas: Una vieja cámara digital casera de mano. Movimiento natural de la cámara, encuadre imperfecto, búsqueda ocasional de enfoque, empañamiento de la lente por el vapor, fluctuaciones de exposición, ligero desenfoque de movimiento, ruido sutil y colores ligeramente apagados. Sin estabilización, gimbals, drones, cámara lenta ni iluminación cinematográfica.
+
+Lista de tomas (En orden, aprox. 2s cada una, todos cortes directos):
+1. Saliendo del vapor cargando una bandeja, notando la cámara y conteniendo una sonrisa mientras lanza una mirada de 'no me grabes'.
+2. Manos eficientes acomodando platos del restaurante sobre una mesa.
+3. Un perfil definido mientras grita un pedido a su padre en la cocina (palabras ininteligibles).
+4. En el asiento de un cliente anciano habitual, moviendo suavemente un acompañamiento a una posición fácil de alcanzar y rellenando su taza de té.
+5. Reaccionando a algo que dice el anciano con una sonrisa suave y propia de su edad.
+6. Por la tarde, después de que los clientes se han ido, quedándose dormida con la barbilla apoyada en sus manos dentro de la barra.
+7. Despertando de golpe, dándose cuenta de que la estaban grabando y fingiendo lanzar un paño. Durante esto, la grabación corta repentinamente a negro alrededor de los 00:14. Sin fundido a negro.
+
+Realismo físico:
+Mantén una física auténtica del mundo real. Las manos, dedos, cabello, ropa, bandejas, platos, tazones, tazas de té y el vapor se comportan de forma natural. Sin dedos extra, manos fusionadas, cuerpos distorsionados, objetos flotantes, objetos que desaparecen ni deformaciones repentinas. Los platos y utensilios permanecen como objetos independientes. Mantén al sujeto consistente en todas las tomas.
+
+Audio:
+Solo sonidos ambientales naturales. Sonidos de fritura en la cocina, tintineo de platos, el susurro del noren, un ventilador y las voces de los clientes habituales (palabras ininteligibles). Sin música, narración ni efectos de sonido artificiales.
+
+Atmósfera final:
+Un registro de la hora del almuerzo de una chica que es seria pero que nunca olvida las pequeñas bondades hacia los clientes habituales. No es un trabajo comercial ni un programa gourmet. Tanto su perfil trabajando como su rostro dormido son entrañables. Ágil, cálido, nostálgico, improvisado y profundamente humano. Prioriza la sensación de que la cámara simplemente estaba allí por casualidad.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094081597452783616/img/8EAuyuM2l6gKdfuR.jpg" width="600" alt="Montaje de vlog de una chica en un restaurante japonés">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=10219)**
+
+**Autor:** [妖精アーヤ](https://x.com/aiehon_aya) | **Fuente:** [Link](https://x.com/aiehon_aya/status/2094545769810592006) | **Publicado:** Aug 31, 2026
+
+---
 ### Cinemática de desastre por terremoto
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -3006,383 +3518,6 @@ Mantén el estilo visual exacto. Personaje: @[image1]. El árbol que crece de su
 **Autor:** [AIrina (Virtual Media Net)](https://x.com/airina_xyz) | **Fuente:** [Link](https://x.com/airina_xyz/status/2092285455941152842) | **Publicado:** Aug 25, 2026
 
 ---
-### Secuencia cinemática de batalla de guerrero medieval
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Una secuencia cinemática ultra cámara lenta altamente detallada de un guerrero medieval en un campo de batalla lleno de lodo, con detalles complejos de armadura y movimientos de combate basados en la física.
-
-#### 📝 Prompt
-
-```
-Un prompt de video cinemático que describe a un guerrero masculino maduro original con armadura de acero pesada en un campo de batalla lleno de lodo. La secuencia presenta primeros planos íntimos de su casco, perspectiva en primera persona a través de las ranuras oculares y una batalla detallada contra atacantes montados utilizando un mayal y un arma de asta. El estilo es hiperrealista con un enfoque en la física, la niebla atmosférica y movimientos en ultra cámara lenta, enfatizando el peso y la inercia de la armadura y las acciones de combate a lo largo de 20 segundos de tiempo en pantalla.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092270002191683585/img/-dmwsWIARfMn9CVv.jpg" width="600" alt="Secuencia cinemática de batalla de guerrero medieval">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=9808)**
-
-**Autor:** [MadMax](https://x.com/MadMax_Series) | **Fuente:** [Link](https://x.com/MadMax_Series/status/2092270319109103849) | **Publicado:** Aug 25, 2026
-
----
-### Transformación de despertar de mecha postapocalíptico
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinematográfico de alto presupuesto para Seedance 2.5 que representa el despertar de un personaje y su transformación en un mecha hiperrealista en un entorno de ciudad en ruinas.
-
-#### 📝 Prompt
-
-```
-15 segundos, pantalla panorámica cinematográfica 16:9, estilo hiperrealista UE5.5, 3DCG de alta precisión, modelos Nanite de alto poligonaje, materiales físicos PBR, iluminación global Lumen, trazado de rayos en tiempo real, calidad de renderizado cinematográfico nivel Octane, 8K, 60 fps. Estilo de película de ciencia ficción postapocalíptica de alto presupuesto, desenfoque de movimiento realista, partículas realistas, arcos eléctricos realistas, humo y polvo realistas, y reflejos realistas sobre metal húmedo. La atmósfera general es de bordes duros, fría y vanguardista, opresiva, y emana una poderosa sensación de despertar y dominio. Absolutamente nada de estilo anime, elementos caricaturescos ni sensación de "disfraz" barato. [Bloqueo de identidad del personaje] Antes de la transformación, utilice estrictamente al personaje de la Figura 1 como única referencia; no reinicie el modelo ni reemplace el rostro. Mantenga una consistencia exacta con la Figura 1 en cuanto a rostro, rasgos faciales, cabello largo, liso y rubio claro, top blanco sin mangas, jeans azules, botas altas marrones, proporciones corporales y una actitud fría y distante. Después de la transformación, utilice estrictamente la Figura 2 como única referencia para la forma mecha; no reinicie el modelo ni altere la estructura del mecha. Mantenga la apariencia completa que se muestra en la Figura 2: el mecha de color gris plateado y negro, la armadura de hombros, la armadura de pecho, la armadura de cintura y cadera, la armadura de brazos, la armadura de piernas, las botas mecánicas, la estructura de la armadura trasera, los detalles brillantes en naranja y la estructura de cabeza y cuello deben ser idénticos. La transformación debe ser una evolución continua del personaje humano Alin (Figura 1) hacia el mecha completo Alin (Figura 2). La identidad debe permanecer absolutamente clara y continua; el personaje no debe transformarse en alguien desconocido, el peinado no debe alterarse y el rostro no debe quedar completamente oculto hasta convertirse en una figura mecha irreconocible. 【Entorno bloqueado】 El entorno debe coincidir estrictamente con la Figura 3. La escena es una plataforma elevada o azotea masiva y en ruinas ubicada sobre una megaciudad postapocalíptica. La plataforma es espaciosa, está dañada y húmeda, con una estructura mixta de metal y concreto. El suelo presenta charcos tras la lluvia, grietas, juntas entre placas de acero, escombros destrozados y piezas mecánicas dispersas. La vista lejana presenta un horizonte urbano en ruinas: rascacielos colapsados, puentes rotos, fuego a lo lejos, humo negro, nubes de tormenta, relámpagos y un cielo tormentoso de baja presión. El escenario general es un punto de observación apocalíptico justo antes de que estalle una tormenta: abierto, peligroso y altamente épico. 【Iluminación y atmósfera】 Nubes de tormenta pesadas y de baja presión con una paleta de colores predominantemente gris frío. Los incendios en la ciudad lejana proporcionan reflejos naranjas cálidos, mientras que los relámpagos y las nubes de tormenta ofrecen reflejos blancos fríos; el suelo húmedo de la plataforma refleja el cielo y la luz del fuego. El viento es extremadamente fuerte, soplando el cabello largo de Alin, los dobladillos de su ropa, el polvo, los escombros y las unidades mecánicas suspendidas. La iluminación general presenta un alto contraste, iluminación cinematográfica: luz natural fría, luz de fuego cálida, arcos eléctricos azules, luz de mecha naranja y luz de espada roja se combinan para crear capas sofisticadas. [Narrativa central] Esto no es una activación de traje ordinaria, es la llegada de un verdadero despertar. Alin es despertada primero por el poder dentro de ella, luego es elevada del suelo por un campo de energía invisible, flotando sobre la plataforma de gran altitud. Los escombros del campo de batalla circundante y las unidades mecánicas son despertados por ella y responden a su llamado, ensamblándose a alta velocidad mediante atracción magnética a su alrededor mientras ella flota. Una vez que su transformación está completa, desciende lentamente a la plataforma con un aire de control total. En el momento en que sus pies tocan el suelo, desenvaina su espada de energía al rojo vivo y la balancea, liberando un cegador haz de luz roja; toda la secuencia se ejecuta en un movimiento fluido, como si la diosa de la guerra definitiva hubiera descendido al campo de batalla. 【Requisitos generales para el trabajo de cámara】 Los movimientos de cámara deben ser suaves, impecables y fluidos; no deben ser monótonos o planos, ni la cámara debe volar de forma errática. La cámara debe parecer guiada por un campo de energía despertado, siguiendo su secuencia completa de movimientos: ser levantada del suelo, transformarse en el aire, aterrizar en la plataforma y balancear su espada para liberar un haz de luz. Técnicas a utilizar: seguimiento en primer plano, tomas de seguimiento semicirculares, deslizamiento a lo largo de la trayectoria de formación de su armadura, piezas mecánicas en primer plano barriendo el encuadre para crear una transición de estilo oclusión, elevaciones en ángulo bajo, tomas circulares flotantes, seguimiento de aterrizaje y una toma de retroceso fluida durante el balanceo de la espada. Toda la secuencia debe sentirse como una sola toma larga y continua, con el impulso aumentando constantemente y sin sensación de interrupción. [Línea de tiempo] 00:00 - 00:02 Alin, en el estado mostrado en la Figura 1, se encuentra en el centro de la plataforma de ruinas de gran altitud representada en la Figura 3. Un cielo tormentoso se cierne sobre ella, la ciudad arde en la distancia y los relámpagos destellan a través de las nubes. La cámara se desplaza lentamente hacia arriba desde un ángulo bajo en su hombro trasero izquierdo hasta su perfil. Primero inclina la cabeza ligeramente hacia abajo, como si reprimiera el poder dentro de ella; su respiración es contenida y su mirada es fría y dura. Luego levanta lentamente los ojos y sutiles pulsos de energía emergen a lo largo de su clavícula, el costado de su cuello, la parte inferior de su columna vertebral y las puntas de sus dedos. En ese preciso momento, un campo de energía invisible surge bajo sus pies y su cuerpo se eleva lentamente del suelo. Sus pies abandonan la plataforma húmeda, y su cabello largo y los dobladillos de su ropa son levantados simultáneamente por el campo de energía y el vendaval, mientras entra en un estado de despertar suspendido. 00:02 - 00:05 Alin flota en el aire, aproximadamente de medio metro a un metro sobre la plataforma. La cámara comienza con una toma semicircular en plano medio-corto, moviéndose suavemente desde su pecho hasta sus hombros. Escombros mecánicos, fragmentos de nano-armadura y unidades estructurales negras y plateadas dispersas a su alrededor son atraídas magnéticamente desde la plataforma y el aire, formando órbitas de alta velocidad a su alrededor. El marco esquelético en su espalda se despliega detrás de su cuerpo suspendido primero, seguido por los puntos de bloqueo de los hombros, la armadura de la clavícula y la armadura del pecho, que encajan en su lugar precisamente a lo largo de las curvas de su cuerpo. La cámara debe seguir la trayectoria de la formación de la armadura, pasando por los puntos de bloqueo en su espalda, sobre la armadura de hombro que se cierra, y deslizándose hacia la armadura del pecho a medida que se bloquea en su lugar. Fragmentos mecánicos pasan a gran velocidad por el primer plano de la toma, creando una transición natural a través de la obstrucción visual. Ella flota constantemente en el aire, con una actitud tranquila, como si todo estuviera bajo su control. 00:05 - 00:08 La cámara corta rápidamente hacia sus brazos y torso, luego se eleva nuevamente con el flujo. El marco mecánico de sus antebrazos se despliega hacia arriba desde las muñecas, con placas de armadura de color gris plateado y negro encajando, bloqueándose y entrelazándose una por una; la armadura del torso se bloquea en su lugar simultáneamente con la estructura de la cadera; la armadura de las piernas se cierra suavemente desde el muslo hasta la pantorrilla mientras está suspendida en el aire, con las botas de cuero de la Figura 1 actualizándose a las botas mecánicas de la Figura 2. La cámara parece ser arrastrada por la armadura mientras se desliza desde los antebrazos hasta la cintura y el abdomen, luego se eleva hacia el pecho y el cuello. La barra de energía naranja se ilumina segmento por segmento a lo largo de las costuras, como si el sistema de despertar estuviera completamente activado. El estado de suspensión le otorga a toda la transformación una presencia más divina e imponente. 00:08 - 00:10 El rostro y la cabeza/cuello completan el despertar. La escena comienza con un primer plano extremo de su rostro; ella cierra los ojos ligeramente, su expresión cambia completamente de la represión al control total. Las unidades mecánicas se despliegan en la parte posterior de su cuello, detrás de sus orejas y en ambos lados de su mandíbula, mientras la armadura de la cabeza y el cuello se cierra rápidamente a lo largo de las líneas detrás de sus orejas, él
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092269560405880832/img/WssS_arOU0rDe4g0.jpg" width="600" alt="Transformación de despertar de mecha postapocalíptico">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=9809)**
-
-**Autor:** [Loriel.AI](https://x.com/ou_zhen599) | **Fuente:** [Link](https://x.com/ou_zhen599/status/2092269888110989779) | **Publicado:** Aug 25, 2026
-
----
-### Batalla de anime de fantasía oscura en el periodo Edo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt complejo con código de tiempo para una pelea de espadas en anime 2D de alto presupuesto entre un ronin y un exorcista de papel.
-
-#### 📝 Prompt
-
-```
-Genera un video de anime de fantasía oscura de 15 segundos, formato horizontal 16:9, ambientado en el periodo Edo, basado en el primer fotograma proporcionado. Personajes: Ren (kimono de carbón desgastado, katana negra maldita, ronin agresivo) y el Maestro Orikami (túnicas sintoístas blancas, exorcista ciego, grullas de papel flotantes). Mantén una consistencia de diseño del 100% en todo momento. Estilo y calidad: Estilo de anime de TV de alto presupuesto, arte lineal de tinta nítido, coreografía de lucha con espadas en 2D fluida, física de nieve y hojas, líneas de velocidad dramáticas, sombreado cel de alto contraste. Acción con código de tiempo: 0.0s – 3.0s: Ren corre por el patio nevado del santuario, ejecutando tajos de espada con energía carmesí. Orikami invoca un muro denso de grullas de papel para absorber el golpe inicial. 3.0s – 7.0s: Ráfaga de alta velocidad. Orikami lanza un vórtice de shurikens de papel afilados; Ren los desvía en el aire con giros de espada a la velocidad del rayo antes de intentar un ataque aéreo descendente. 7.0s – 11.0s: Ren corta un señuelo de papel. Orikami reaparece detrás de él, usando talismanes de papel doblado para envolver la katana y los brazos de Ren, absorbiendo todo el impulso. 11.0s – 15.0s: Las ataduras de papel inmovilizan a Ren por completo, desarmándolo y haciendo caer su espada en la nieve. Finaliza con un plano cinematográfico amplio del ronin derrotado atrapado en papel mientras Orikami se aleja silenciosamente en medio de hojas de arce rojo que caen. Cámara y aspectos técnicos: Seguimiento rápido de cámara, cortes de ángulo dinámicos, primer plano del choque de espadas, plano final dramático y amplio. Formato horizontal 16:9, sin texto, sin marca de agua.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092268850167300096/img/7do-mPohpFgTSEy4.jpg" width="600" alt="Batalla de anime de fantasía oscura en el periodo Edo">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=9831)**
-
-**Autor:** [Gilbert Odera | Your AI Plug](https://x.com/yourPlugAI) | **Fuente:** [Link](https://x.com/yourPlugAI/status/2092269036167934445) | **Publicado:** Aug 25, 2026
-
----
-### Confrontación con un vecino en el pasillo de un apartamento
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt con guion de múltiples tomas para Seedance 2.0 Mini que involucra a un personaje llamado Zephyr Valentine en un encuentro humorístico con un vecino en un pasillo.
-
-#### 📝 Prompt
-
-```
-Personaje principal: Zephyr Valentine @[image1] @[image2] (mantener los rasgos faciales consistentes y el mismo estilo visual exacto)
-Ubicación: Pasillo tranquilo de un apartamento.
-Otro personaje: Vecina anciana sospechosa.
-
-Toma 1 — 0:00–0:02
-Zephyr camina con confianza por el pasillo. La vecina se interpone en su camino. Vecina: “Tú no vives aquí”.
-Toma 2 — 0:02–0:04
-Zephyr se detiene. Sonrisa leve. Zephyr: “Fuerte apertura”.
-Toma 3 — 0:04–0:05.5
-La vecina entrecierra los ojos. Vecina: “¿A quién visitas?”.
-Toma 4 — 0:05.5–0:07.5
-Zephyr mira pensativo hacia el pasillo. Zephyr: “Aparentemente a nadie”.
-Toma 5 — 0:07.5–0:09
-La vecina frunce el ceño. Vecina: “¿Qué significa eso?”.
-Toma 6 — 0:09–0:11
-Zephyr mira el número de piso, dándose cuenta de algo de repente. Zephyr: “Significa que…”.
-Toma 7 — 0:11–0:13
-Primer plano de Zephyr quitándose ligeramente las gafas de sol, avergonzado. Zephyr: “…estoy un piso más arriba”.
-Toma 8 — 0:13–0:15
-La vecina le dedica una sonrisa victoriosa. Zephyr la señala con aprobación. Zephyr: “Excelente seguridad”. Ella inmediatamente luce orgullosa.
-```
-
-<img src="https://pbs.twimg.com/media/HQklS4LWkAIrzHO.jpg" width="600" alt="Confrontación con un vecino en el pasillo de un apartamento">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=9814)**
-
-**Autor:** [AIrina (Virtual Media Net)](https://x.com/airina_xyz) | **Fuente:** [Link](https://x.com/airina_xyz/status/2092244364361650520) | **Publicado:** Aug 25, 2026
-
----
-### Animación de cocina japonesa 2D dibujada a mano
-
-![한국어](https://img.shields.io/badge/lang-한국어-orange)
-
-> Este prompt altamente detallado crea una secuencia de cocina estilo anime de 15 segundos centrada en el proceso de elaboración de pan de chocolate y cacao. Utiliza instrucciones específicas para contornos a lápiz, sombreado cel y movimientos de cámara precisos para lograr una estética artesanal.
-
-#### 📝 Prompt
-
-```
-15 segundos, 16:9, solo texto a video. Exactamente 6 escenas, 2.5 segundos por escena. Todas las transiciones son cortes directos limpios sin efectos. 0 imágenes de referencia, fotogramas iniciales o guiones gráficos. Incluye sonidos naturales generados.
-
-[Estilo artístico]
-Animación de cocina japonesa 2D dibujada a mano original. Aspecto completamente dibujado a mano. Deja contornos a lápiz suaves y claros con variaciones sutiles en el grosor de la línea y temblores propios del dibujo manual. Líneas finas y cálidas para la comida; líneas ligeramente más gruesas para las manos y las herramientas. Sombreado cel a todo color de 2-3 niveles limpio en tonos neutros cálidos, sin sombras negras saturadas. Entorno de cocina con pinceladas visibles, perspectiva atmosférica poco profunda, grano de película analógica moderado y ligero sangrado de color en los bordes de las celdas. Reflejos especulares intensos solo en el ganache y la masa húmeda. No imita estudios, artistas, películas o personajes existentes.
-
-[Sujeto y reglas]
-Sujeto: Pan de chocolate y cacao. Creación de una lámina de ganache fría con chocolate amargo y crema, amasado de masa de cacao y paso a la fermentación primaria. Solo son visibles las manos y antebrazos de una mujer adulta experimentada. Mangas de lino color marfil, piel color melocotón beige cálido, uñas cortas sin pintar, cinco dedos en cada mano, sin accesorios. Sin rostro, cabeza, torso, cuerpo completo o segunda persona. El sujeto es solo la comida y el proceso de cocina. Cada escena tiene exactamente una acción principal y los estados de los ingredientes solo progresan hacia adelante. Nunca mostrar el pan terminado, pan horneado, troncos moldeados o chocolate interno.
-
-[Composición de la escena]
-Escena 1 (0.00–2.50) - Cámara: Primer plano en ángulo picado mirando verticalmente a una tabla de cortar de roble desgastada, acercamiento muy lento. Inicio: Un bloque de cobertura oscura y un cuchillo con mango de roble pálido. Acción: La mano izquierda sostiene mientras la mano derecha corta cuatro veces por separado, levantando la hoja completamente cada vez. Cambio: Un montón de piezas pequeñas y uniformes. Textura: Superficies de corte secas y afiladas, y pequeñas migas, sin derretirse ni brillar. Conexión: Todas las piezas pasan a la Escena 2.
-
-Escena 2 (2.50–5.00) *Resalte de textura - Cámara: Macro lateral baja justo por encima del borde del tazón, moviéndose muy lentamente hacia la derecha. Inicio: Las piezas de la Escena 1 se derriten desde los bordes en crema caliente. Acción: Una espátula de silicona marrón oscuro revuelve en tres círculos que se ensanchan desde el centro. Cambio: Las piezas desaparecen en un ganache negro uniforme, el último rastro se cierra lentamente. Textura: Viscosidad pesada sin salpicaduras, reflejos brillantes estrechos. Conexión: Mezclar mantequilla y harina en el ganache, aplanar a 3 mm y refrigerar.
-
-Escena 3 (5.00–7.50) - Cámara: Plano medio fijo a 45 grados mirando hacia abajo a la mesa de trabajo. Inicio: Una lámina de ganache refrigerada de 22x8 cm y 3 mm de espesor sobre papel pergamino. Acción: Dos manos agarran los extremos del papel y levantan una vez. Cambio: La lámina se curva suavemente sin ceder ni romperse. Textura: Sólido frío y flexible, brillo duro estrecho. Conexión: Mantener una lámina fría.
-
-Escena 4 (7.50–10.00) - Cámara: Primer plano fijo en ángulo picado cerca de la abertura del tazón de acero inoxidable. Inicio: Polvo seco marrón uniforme y mezcla láctea fría en el centro. Acción: La espátula pliega cuatro veces de abajo hacia arriba. Cambio: Una masa de cacao rugosa y desgarrada con mínima harina suelta. Textura: Áreas oscuras húmedas, superficie irregular, pequeños trozos de harina seca en los bordes. Conexión: La masa y un bloque de mantequilla pasan a la Escena 5.
-
-Escena 5 (10.00–12.50) *Resalte de textura - Cámara: Plano medio lateral fijo a la altura de la mesa de trabajo. Inicio: Bloque de mantequilla en el centro de la masa rugosa. Acción: Dos manos empujan hacia adelante y pliegan hacia adentro tres veces. Cambio: Las vetas y grietas de mantequilla desaparecen en una masa de cacao oscura, elástica y suave; un borde delgado deja pasar la luz sin romperse. Textura: Brillo elástico en lugar de brillo húmedo, resistencia del gluten. Conexión: Fermentar la masa en el tazón hasta aproximadamente el doble de su tamaño.
-
-Escena 6 (12.50–15.00) - Cámara: Macro a 45 grados hacia el centro del tazón, acercamiento muy lento a la marca del dedo. Inicio: Domo suave de la misma masa fermentada hasta aproximadamente el doble de tamaño. Acción: Un dedo índice presiona el centro y se retira completamente. Cambio: Los bordes regresan lentamente, la marca central permanece poco profunda. Textura: Finas burbujas de fermentación, elasticidad suave, sin corteza horneada. Conexión: Termina en este estado de fermentación completado.
-
-[Cámara]
-Cambiar al menos dos elementos de distancia, ángulo o altura por escena. Movimiento fijo o extremadamente lento solo dentro de las escenas. Sin barridos rápidos, sacudidas de cámara, rotación o zoom rápido. Los puntos de contacto siempre deben ser legibles. Tomas macro usadas solo para la Escena 2 y la Escena 6.
-
-[Textura y movimiento]
-Cambios progresivos: trozos de chocolate -> emulsión pesada -> lámina fría flexible; polvo seco -> masa rugosa -> gluten suave -> masa fermentada. Las manos tienen peso y seguimiento; los líquidos y la masa siguen la viscosidad, elasticidad y gravedad. Sin transformaciones repentinas ni regresión de estado.
-
-[Iluminación y entorno]
-Cocina matutina limpia y cálida. Mesa de trabajo de cuarzo blanco y tabla de cortar de roble desgastada. Luz principal dorada suave desde la ventana superior izquierda, luz de relleno fría débil en el lado opuesto, sombras en el suelo en la misma dirección debajo de todos los objetos. Solo los objetos nombrados para la escena actual son visibles.
-
-[Continuidad física]
-Mantener la misma cantidad de cobertura, lote de ganache, masa de cacao, manos, mangas, tazón, cocina y fuente de luz. Cantidades, tamaños y texturas de herramientas/materiales consistentes. Seguir el orden de cocción real y la gravedad.
-
-[Sonido]
-Solo tono de ambiente de cocina bajo y sonidos de contacto: corte en seco, fricción de espátula húmeda, crujido de pergamino, sonido del tazón, pegajosidad de la masa. Sin música de fondo, diálogos, narración o voces.
-
-[Negativo]
-Texto, títulos, leyendas, subtítulos, números, etiquetas, logotipos,
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092215626962190336/img/VSOTkTNsv8yUxFfS.jpg" width="600" alt="Animación de cocina japonesa 2D dibujada a mano">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=9877)**
-
-**Autor:** [riotboy](https://x.com/riotboy2024) | **Fuente:** [Link](https://x.com/riotboy2024/status/2092217560788000816) | **Publicado:** Aug 25, 2026
-
----
-### Épica de ciencia ficción en el desierto: El despertar del artefacto
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Una secuencia cinemática de tres planos que sigue a un científico que descubre y activa un artefacto alienígena brillante en un desierto azotado por el viento.
-
-#### 📝 Prompt
-
-```
-Crea una secuencia cinemática épica de ciencia ficción de 15 segundos, ultra realista, efectos visuales fotorrealistas, iluminación dramática, entorno desértico atmosférico, alto nivel de detalle, física realista, movimiento de cámara cinemático fluido, continuidad visual perfecta.
-
-Plano 1 — Descubrimiento | 0–5 seg
-Un científico solitario con un traje de exploración futurista camina por un vasto desierto azotado por el viento durante la hora dorada. De repente se detiene y descubre un misterioso artefacto alienígena parcialmente enterrado en la arena. El artefacto brilla con una intensa energía azul blanquecina, iluminando su rostro mientras el polvo se arremolina a su alrededor. Lento acercamiento cinemático (push-in), composición dramática, texturas realistas.
-
-Plano 2 — Despertar | 5–10 seg
-El artefacto alienígena se eleva lentamente del suelo y comienza a flotar a varios pies sobre el desierto. Poderosas ondas de energía azul pulsan hacia afuera, haciendo que la arena y el polvo giren en el aire. El científico retrocede con asombro mientras el artefacto se vuelve cada vez más brillante. Movimiento de cámara en ángulo contrapicado, efectos de energía dramáticos, destello de lente cinemático, escala épica.
-
-Plano 3 — Portal | 10–15 seg
-El cielo sobre el desierto comienza a distorsionarse y a agrietarse repentinamente con energía azul brillante. Un enorme portal circular se abre entre las nubes, revelando una misteriosa dimensión cósmica más allá. El artefacto lanza un poderoso rayo de energía hacia el portal mientras el desierto se ilumina con su resplandor. El científico permanece en silueta en primer plano, mirando hacia arriba. Plano general épico, alejamiento de cámara dramático, final de ciencia ficción impresionante.
-
-Prompt negativo: dibujos animados, baja calidad, borroso, física poco realista, humano distorsionado, extremidades adicionales, texto, subtítulos, marca de agua, logotipo, cámara inestable, transiciones abruptas.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092217143383515136/img/qbzCNXstC99YTbAL.jpg" width="600" alt="Épica de ciencia ficción en el desierto: El despertar del artefacto">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=9816)**
-
-**Autor:** [Nafees](https://x.com/feesyiam) | **Fuente:** [Link](https://x.com/feesyiam/status/2092217439702634496) | **Publicado:** Aug 25, 2026
-
----
-### Vlog de estilo de vida: Rutina de fitness matutina femenina
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt integral de estilo de vida con múltiples tomas para un vlog de fitness, que detalla las rutinas matutinas desde el despertar hasta una caminata rápida al aire libre.
-
-#### 📝 Prompt
-
-```
-Parte 1. 30 segundos + parte 2. 15 segundos = Total 45 segundos DURACIÓN: 45 segundos RELACIÓN DE ASPECTO: 16:9 Parte 1. 30 segundos Crea un vlog de estilo de vida de fitness matutino femenino cinematográfico y ultra fotorrealista. PRIORIDAD DE REFERENCIA: @IMG1 = REFERENCIA ESTRICTA DE IDENTIDAD FEMENINA @IMG8 = LOOK MAESTRO DE FITNESS, ATUENDO, PEINADO, ZAPATOS Y ACCESORIOS @IMG2 = ENTORNO DEL DORMITORIO @IMG3 = ENTORNO DEL BAÑO @IMG4 = RUTA DE CAMINATA MATUTINA @IMG5 = ENTORNO DEL GIMNASIO @IMG6 = REFERENCIA DE ACCIÓN DE FITNESS La MISMA mujer de @IMG1 debe aparecer durante todo el video. Usa @IMG8 para mantener su atuendo de fitness, peinado, zapatillas, auriculares, reloj deportivo y botella de agua exactos una vez que se cambie para su entrenamiento. No cambies su rostro, identidad, peinado o apariencia. -------------------------------------------------- 0–5 SEGUNDOS — DESPERTAR Usa @IMG1 + @IMG2. Temprano en la mañana. La mujer duerme plácidamente en su dormitorio. La suave luz del sol de la mañana entra por las cortinas. Se despierta lentamente. Abre los ojos, se sienta naturalmente y se estira con suavidad. Se levanta de la cama. Expresión matutina natural de sueño. CÁMARA: Lento acercamiento cinematográfico desde una toma media-ancha del dormitorio. -------------------------------------------------- 5–10 SEGUNDOS — CEPILLADO Y LAVADO DE CARA Usa @IMG1 + @IMG3. Camina hacia el baño. Se para naturalmente frente al espejo. Se cepilla los dientes. Muestra un breve primer plano realista del cepillado. Se enjuaga la boca. Luego se lava la cara con agua limpia. Se seca la cara suavemente con una toalla. Se mira al espejo con una expresión fresca de mañana. CÁMARA: Toma media del espejo seguida de breves primeros planos. Movimiento realista del agua y movimientos naturales de las manos. -------------------------------------------------- 10–15 SEGUNDOS — PREPARÁNDOSE PARA EL FITNESS Usa @IMG8. Se cambia al atuendo deportivo exacto que se muestra en @IMG8. Se pone las mismas zapatillas de correr. Se coloca los mismos auriculares inalámbricos. Usa el mismo reloj deportivo. Toma la misma botella de agua reutilizable. Se revisa brevemente en el espejo. Está lista para su caminata matutina y su sesión de gimnasio. CÁMARA: Cortes de estilo de vida rápidos pero fluidos: zapatillas deportivas, auriculares, reloj deportivo, botella de agua, luego toma media de ella lista para salir. No cambies su atuendo después de este punto. -------------------------------------------------- 15–22 SEGUNDOS — CAMINATA MATUTINA Usa @IMG8 + @IMG4. Sale de su casa y camina por la tranquila ruta matutina. La suave luz del amanecer atraviesa los árboles. Comienza con una caminata cómoda. Después de unos momentos, aumenta el ritmo a una caminata ligera y rápida. Sus brazos y piernas se mueven naturalmente. Se ve tranquila, fresca y llena de energía. CÁMARA: Toma de seguimiento lateral fluida. Luego una toma de seguimiento frontal. Breve primer plano de sus zapatillas caminando por el sendero. Mantén visible el entorno matutino. -------------------------------------------------- 22–26 SEGUNDOS — LLEGADA AL GIMNASIO Usa @IMG8 + @IMG5. Llega al gimnasio. Se acerca a la entrada. Abre la puerta y entra. La cámara la sigue hacia el gimnasio. Muestra brevemente la cinta de correr y el área de entrenamiento. Camina hacia la cinta de correr. CÁMARA: Toma de seguimiento fluida desde atrás. Luego toma panorámica del gimnasio. -------------------------------------------------- 26–30 SEGUNDOS — INICIO EN LA CINTA DE CORRER Usa @IMG8 + @IMG6. Se sube a la cinta de correr. Coloca los pies naturalmente. Comienza con una caminata de calentamiento lenta. Después de un momento, aumenta ligeramente la velocidad y comienza un trote ligero. Su postura es natural. Sus brazos se mueven naturalmente. Su expresión es concentrada pero cómoda. TERMINA EL VIDEO MIENTRAS ELLA TODAVÍA ESTÁ TROTANDO LIGERAMENTE. IMPORTANTE: NO termines el entrenamiento en la Parte 1. NO muestres mancuernas todavía. NO muestres estiramientos todavía. NO muestres la escena final de agua/espejo todavía. El momento final debe establecer claramente que está trotando en la cinta de correr para que la Parte 2 pueda continuar desde esta actividad exacta. CÁMARA: Toma media lateral de la cinta de correr. Termina con un encuadre cinematográfico estable de ella trotando. -------------------------------------------------- REALISMO: Movimiento humano natural. Caminata realista. Carrera realista. Mecánica de cinta de correr realista. Cepillado realista. Lavado de cara realista. Agua realista. Movimiento de ropa realista. Manos y pies realistas. Expresiones faciales naturales. Sin movimientos exagerados. Sin transiciones repentinas. Sin teletransportación. Sin deformación facial. Sin cambios de identidad. Sin cambios de atuendo después de que aparece el atuendo de fitness. Sin manos distorsionadas. Sin dedos extra. Sin dibujos animados. Sin anime. Sin humanos con aspecto de CGI. Sin texto. Sin logotipos. Sin marcas de agua. ENCUADRE FINAL: La mujer está trotando ligeramente en la cinta de correr dentro del gimnasio. Mantén la toma final de la cinta de correr breve y limpia. Este encuadre final se utilizará como referencia de continuidad para la PARTE 2. DURACIÓN: 15 SEGUNDOS Crea una continuación cinematográfica ultra fotorrealista de la PARTE 1. PRIORIDAD DE CONTINUIDAD — ABSOLUTA: El video DEBE comenzar desde el ENCUADRE FINAL EXACTO de la PARTE 1. Usa el encuadre final de la Parte 1 como REFERENCIA DE INICIO PRINCIPAL. La MISMA mujer debe continuar desde la posición exacta en la cinta de correr. Preserva: - rostro exacto - peinado - atuendo deportivo - zapatillas - auriculares - reloj deportivo - posición corporal - entorno del gimnasio - iluminación - perspectiva de cámara - posición de la cinta de correr NO debe haber saltos visibles, cambios de personaje, cambios de atuendo o cambios de entorno. REFERENCIAS ADICIONALES: @IMG8 = PERSONAJE MAESTRO DE FITNESS @IMG6 = ACCIÓN DE ENTRENAMIENTO EN GIMNASIO @IMG7 = FINAL POST-ENTRENAMIENTO -------------------------------------------------- 0–4 SEGUNDOS — CONTINUAR EN LA CINTA DE CORRER Continúa EXACTAMENTE desde el encuadre final de la Parte 1. La mujer continúa trotando ligeramente en la cinta de correr. No reinicies la acción. Su ritmo de carrera permanece consistente con la Parte 1. Después de un momento, reduce gradualmente la velocidad de la cinta. Se baja naturalmente. CÁMARA: Continúa con el mismo ángulo de cámara del encuadre final de la Parte 1 antes de realizar una sutil transición cinematográfica. -------------------------------------------------- 4–8 SEGUNDOS — ENTRENAMIENTO CON MANCUERNAS Usa @IMG6. La mujer camina naturalmente desde la cinta de correr hacia el área de mancuernas. Toma un par de mancuernas ligeras. Realiza ejercicios controlados de hombros/brazos. Sus movimientos son realistas y seguros. Completa algunas repeticiones controladas. CÁMARA: Toma cinematográfica media. Breve primer plano de sus manos sosteniendo las mancuernas. Mantén su rostro reconocible. -------------------------------------------------- 8–11 SEGUNDOS — ESTERILLA + ESTIRAMIENTO Usa @IMG6. Deja las mancuernas. Se mueve a una esterilla de ejercicio. Realiza un ejercicio central simple y controlado. Luego se pone de pie y realiza un breve estiramiento suave. Respiración natural. Expresión relajada pero ligeramente cansada. CÁMARA: Toma media-ancha. Transición suave del ejercicio en la esterilla al estiramiento de pie. -------------------------------------------------- 11–15 SEGUNDOS — AGUA + SONRISA FINAL Usa @IMG7. El entrenamiento ha terminado. Toma su botella de agua reutilizable. Bebe agua de forma natural. Se seca suavemente la frente con la toalla del gimnasio. Se mira en el gran espejo del gimnasio. Respira con calma. Se dedica una pequeña sonrisa de confianza y satisfacción. CÁMARA: Suave empuje cinematográfico hacia su reflejo. Termina con la sonrisa de confianza. CORTE A NEGRO. -------------------------------------------------- REGLAS DE CONTINUIDAD: Misma mujer de la Parte 1. Mismo rostro. Mismo peinado. Mismo atuendo deportivo. Mismas zapatillas. Mismos auriculares. Mismo reloj deportivo. Mismo gimnasio. Misma iluminación. Misma atmósfera matutina. Mismo estilo visual realista. El primer encuadre de la Parte 2 debe coincidir con el encuadre final de la Parte 1. Sin reinicios. Sin saltos de cámara repentinos. Sin cambios de atuendo. Sin deformación facial. Sin una mujer diferente. Sin manos distorsionadas. Sin dedos extra. Sin ejercicios poco realistas. Sin movimientos exagerados. Sin dibujos animados. Sin anime. Sin texto. Sin logotipos.
-```
-
-<img src="https://cms-assets.youmind.com/media/1787725967863_6uli3t_HQkDcoHaEAALYK1.jpg" width="600" alt="Vlog de estilo de vida: Rutina de fitness matutina femenina">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=9821)**
-
-**Autor:** [Elsa Ai](https://x.com/ElsaSofia__AI) | **Fuente:** [Link](https://x.com/ElsaSofia__AI/status/2092207601991999741) | **Publicado:** Aug 25, 2026
-
----
-### Encuentro con un monstruo de terror en la selva amazónica
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de fantasía oscura lleno de suspenso que presenta un encuentro con un depredador en la selva amazónica, siguiendo referencias específicas del monstruo y la protagonista.
-
-#### 📝 Prompt
-
-```
-15 segundos, pantalla panorámica cinematográfica 16:9, 3DCG hiperrealista en UE5.5, renderizado Octane, modelos de alta precisión Nanite, materiales físicos PBR, trazado de rayos en tiempo real, iluminación global Lumen, 8K, 60 fps, realismo de fantasía oscura cinematográfica. Niebla volumétrica, haces de Tyndall, aire húmedo, suelo fangoso, hojas en descomposición, musgo, charcos poco profundos, baba goteante, desenfoque de movimiento realista y simulación de fluidos realista. El tono general es más suspicaz, contenido y sofisticado que un encuentro típico con un monstruo; como los últimos 15 segundos de un preludio de muerte antes de que estalle una gran batalla. La primera mitad genera tensión a través del silencio, la incertidumbre y la sensación de ser observado; en los últimos 0.5 segundos, el monstruo se lanza repentinamente hacia el rostro del jugador y la escena se corta a negro justo antes de morder. [Bloqueo de entorno] El entorno debe limitarse estrictamente a la selva amazónica; no debe ser un bosque común, un bosque montañoso, un pantano o ruinas. Los siguientes elementos son obligatorios: árboles antiguos imponentes, raíces gruesas y retorcidas, montículos de raíces masivos, doseles densos, aire tropical húmedo, troncos cubiertos de musgo, una capa de hojas en descomposición, lodo negro, charcos de agua poco profundos, enredaderas, vapor de agua ascendente, niebla baja, vegetación densa y haces de luz de Tyndall localizados que se filtran a través de los huecos del dosel. La atmósfera general es oscura, profunda y opresiva, con el calor y la humedad haciendo casi imposible ver a la distancia. El entorno debe evocar la sensación de ser el “territorio de un depredador”. [Bloqueo del monstruo] La Figura 1 sirve como única referencia para el monstruo; adhiérase estrictamente a este diseño: sin reinicios, sin alteraciones. Mantenga su postura cuadrúpeda delgada y pegada al suelo, extremidades anteriores extremadamente largas, garras masivas, crestas óseas protuberantes, cola delgada, cabeza alargada agachada, hocico largo profundamente hendido, hileras densas de colmillos, ojos blancos fríos, piel marrón oscura (casi negra) resbaladiza, una superficie que se asemeja a una fascia en descomposición y mucosidad que gotea constantemente. Sus movimientos deben parecerse a los de un depredador de alto nivel: agachado, lento, calculador, sigiloso y capaz de ráfagas repentinas de velocidad. No lo transforme en una forma humanoide, no adopte un diseño al estilo “Alien” y no permita que su apariencia se desvíe. Varias criaturas de la misma especie pueden estar al acecho, pero el monstruo principal debe ser el más claro, completo y opresivo. [Bloqueo de la protagonista femenina] La Figura 2 sirve como única referencia para la protagonista femenina, llamada Alin; esto está estrictamente bloqueado y no debe reiniciarse. Mantenga la consistencia en su rostro, cabello largo y liso rubio claro, top blanco sin mangas, jeans azules, botas altas marrones, físico y comportamiento sereno. Ella no es el tipo de heroína que grita y huye, sino alguien que reprime su miedo, toma decisiones con calma y nunca retrocede. Ella no ataca activamente en la película, pero gradualmente se da cuenta de que ha sido marcada y, al final, se mantiene firme, encontrándose con la mirada del monstruo principal. [Cinematografía] La cinematografía debe ser sofisticada, contenida y cinematográfica. Evite cortes aleatorios, visuales al estilo de videos musicales y movimientos de cámara exagerados y temblorosos típicos de las películas de acción. La sensación general debe parecerse a la secuencia de “la muerte se acerca” en un thriller de alta tensión. Principios de filmación: Primero, use una toma de alta velocidad a través del bosque para establecer el peligro, luego disminuya la velocidad a medida que ella entra en el claro, seguido de tomas de ángulo bajo y primeros planos alternos para establecer el bloqueo mutuo, luego gire alrededor para revelar que está rodeada y, finalmente, use cortes extremadamente cortos y rápidos para llevar el ataque a su clímax. En la primera mitad, es mejor ser un poco más lento y medido en lugar de apresurarse a asustar a la audiencia. Deje que la tensión estalle repentinamente en los últimos 0.5 segundos para crear un contraste discordante. [Línea de tiempo segundo a segundo] 0.0–2.8s Corremos a través de la densa selva amazónica a velocidades similares a FPV. La cámara pasa junto a enredaderas húmedas, troncos cubiertos de musgo, ramas y hojas colgantes, niebla baja y raíces masivas y enredadas. El ritmo es rápido, pero el espacio se siente cada vez más opresivo. Las hojas, ramitas y charcos poco profundos son perturbados por el flujo de aire. Ocasionalmente, el contorno borroso y los ojos blancos y fríos del monstruo de la Figura 1 pasan rápidamente entre las sombras de los árboles distantes, pero su forma completa nunca debe ser claramente visible. Los únicos efectos de sonido son el crujido de las hojas húmedas, las vocalizaciones guturales bajas de una criatura distante y el chasquido esporádico de ramas secas. La cámara se ralentiza repentinamente al final y se detiene en el borde de un claro oscuro. 2.8–5.0s Alin sale lentamente de las sombras y la niebla hacia el claro, manteniendo estrictamente la apariencia que se muestra en la Figura 2. Sus botas se hunden en el lodo negro y las hojas en descomposición, y el agua poco profunda a sus pies ondula suavemente. Ella no corre frenéticamente; más bien, como si hubiera sentido algo, se detiene lentamente y mira hacia las profundidades del bosque. Un haz de luz de Tyndall que se filtra a través de un hueco en el dosel cae sobre su cabello, hombros y la mitad de su rostro; su top blanco destaca marcadamente contra la selva oscura. Su respiración es ligera, sus hombros y espalda están tensos, y sus dedos están ligeramente apretados mientras comienza a darse cuenta de que ya no es una observadora, sino la presa. 5.0–7.2s La cámara se mueve hacia adelante en un ángulo bajo, rozando el suelo, observando a través de hojas en descomposición, lodo negro y las grietas entre las raíces de los árboles hacia las sombras que tiene delante. El monstruo principal revela lentamente la mitad de su cuerpo desde detrás de un árbol gigante. Primero, sus garras masivas se hunden en el lodo, apartando el lodo negro y las hojas en descomposición; luego, su columna ósea resbaladiza y su cabeza agachada emergen lentamente de las sombras. No se abalanza, sino que simplemente levanta la cabeza extremadamente lento, sus ojos blancos y fríos brillan en las sombras mientras la mucosidad gotea silenciosamente por las comisuras de su boca. Toda la secuencia debe sentirse como un depredador confirmando a su presa, no como un salto repentino y sorprendente. 7.2–9.5s Los primeros planos de corte cruzado establecen la “visión mutua”. Un primer plano del rostro de Alin muestra sus pupilas ligeramente contraídas y sus labios ligeramente entreabiertos, aunque no emite sonido; un primer plano de la cabeza del monstruo muestra su largo hocico abriéndose lentamente, revelando colmillos afilados y mucosidad fibrosa; Alin cambia suavemente su postura con las puntas de sus botas, plantando sus talones con más firmeza; las extremidades anteriores del monstruo se mueven medio paso hacia adelante, los músculos de sus hombros, espalda y extremidades se tensan lentamente bajo su piel húmeda. Las partículas de niebla en el haz de luz flotan inmóviles; el tiempo parece estirarse. La emoción aquí es esta: ella no ha huido y él aún no se ha abalanzado, pero la batalla ya ha comenzado. 9.5–11.8s La cámara realiza un semicírculo lento alrededor de Alin, revelando una amenaza mayor. A medida que la cámara se mueve, varios otros monstruos de la misma especie aparecen débilmente entre las sombras de los árboles y la vegetación al fondo: algunos se arrastran cerca del suelo, con solo sus ojos y patas delanteras visibles; otros están agachados detrás de las raíces de los árboles, con sus largos hocicos entreabiertos; otros son simplemente siluetas de sus espinas en la niebla más lejos. Ninguno de ellos carga; simplemente forman un cerco silencioso. El crujido en el bosque se vuelve más denso; el canto de los pájaros en la distancia cesa por completo y el aire parece ser tomado por una voluntad colectiva. 11.8–13.4s El monstruo principal comienza a acercarse de verdad. Primeros planos extremos de su rostro, garras y línea de los hombros. Sus garras afiladas se hunden profundamente en el lodo, apartando las hojas en descomposición mientras agua negra rezuma entre ellas. La mucosidad gotea de las comisuras de su boca sobre el lodo, haciendo un sonido húmedo y tenue. Inclinó la cabeza ligeramente, como si estuviera evaluando qué ángulo facilitaría romper la garganta de su presa. Alin todavía no retrocedió; se mantuvo firme, levantó la cabeza y se encontró con su mirada, su expresión cambiando de tensión a una resolución tan tranquila que rayaba en...
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092201969922555904/img/b8f-Ln22V9l_DBW8.jpg" width="600" alt="Encuentro con un monstruo de terror en la selva amazónica">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=9823)**
-
-**Autor:** [Loriel.AI](https://x.com/ou_zhen599) | **Fuente:** [Link](https://x.com/ou_zhen599/status/2092202234818035930) | **Publicado:** Aug 25, 2026
-
----
-### Transformación de juguete a dragón gigante
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Una secuencia de fantasía ultrarrealista donde un pequeño dragón de juguete se transforma en una criatura mítica masiva junto a un río.
-
-#### 📝 Prompt
-
-```
-Prompt de transformación de dragón realista de 15 segundos. Crea una secuencia de fantasía cinematográfica ultrarrealista de 15 segundos que presente a una mujer adulta de unos 20 años jugando con un pequeño dragón de juguete al lado de un río cristalino en lo profundo de un bosque exuberante y misterioso. Escena y personaje: Una hermosa mujer adulta de unos 20 años, apariencia natural, textura de piel realista, cabello largo y fluido, vistiendo un atuendo casual sencillo en tonos tierra. Está sentada sobre rocas lisas junto a un río poco profundo en el bosque, sosteniendo juguetonamente un pequeño dragón de juguete altamente detallado en sus manos. El entorno se siente completamente real e inmersivo: follaje verde denso, rocas cubiertas de musgo, luz solar suave filtrándose a través de los árboles, partículas de polvo flotantes, movimiento de agua realista y profundidad atmosférica natural. 0–4 segundos: Comienza con un plano medio cinematográfico de la mujer sentada junto al río, sonriendo naturalmente mientras juega con el pequeño dragón. Mueve suavemente el juguete por el aire como si lo hiciera volar. Usa un movimiento de cámara en mano sutil y sonidos ambientales realistas. La luz del sol crea reflejos suaves en su cabello y en el agua. 4–7 segundos: Ella baja lentamente el dragón de juguete hacia el río poco profundo y lo sumerge brevemente por completo bajo el agua. A medida que el juguete toca el agua, crea ondas sutiles pero realistas y pequeñas olas a su alrededor. La mujer observa con curiosidad. 7–11 segundos — Transformación: El agua comienza a brillar repentinamente con una sutil energía mística. El pequeño dragón comienza a expandirse bajo la superficie. Su cuerpo crece rápidamente mientras mantiene una anatomía y un movimiento físico realistas. Las escamas se forman naturalmente a lo largo de su cuerpo, las alas se despliegan, las garras emergen y su larga cola se mueve a través del agua. La transformación debe sentirse físicamente creíble y fotorrealista, no caricaturesca. El agua salpica naturalmente a medida que la criatura crece desde un pequeño juguete hasta convertirse en un dragón masivo y majestuoso. 11–15 segundos: El dragón gigante emerge dramáticamente del río, elevándose sobre la mujer. El agua cae en cascada desde sus enormes escamas y alas. Extiende sus alas masivas y lanza un rugido poderoso pero realista que resuena a través del bosque. La mujer retrocede con asombro genuino mientras mantiene una reacción natural y creíble. Termina con un plano cinematográfico amplio que revela a la mujer, el dragón gigante, el río y el bosque circundante juntos, creando una impresionante sensación de escala. Estilo visual: Fantasía de acción real ultrarrealista, efectos visuales de nivel cinematográfico de Hollywood, simulación de agua físicamente precisa, anatomía de dragón realista, escamas individuales detalladas, texturas naturales de piel y cabello, luz solar volumétrica, sombras realistas, profundidad atmosférica, grano de película sutil, alto rango dinámico, desenfoque de movimiento realista, aspecto de cámara de cine de fotograma completo, lente de 35 mm.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092195233559932928/img/DwSQg6_GUnSNfkZV.jpg" width="600" alt="Transformación de juguete a dragón gigante">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=9833)**
-
-**Autor:** [Ruzaina](https://x.com/RuzainaMeer) | **Fuente:** [Link](https://x.com/RuzainaMeer/status/2092195435385630983) | **Publicado:** Aug 25, 2026
-
----
-### Animación de rutina de belleza al estilo Pixar
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Una secuencia de animación 3D detallada al estilo Pixar que muestra la rutina de baño de un personaje, incluyendo el secado de cabello y una transición fluida de vestuario.
-
-#### 📝 Prompt
-
-```
-Secuencia de animación 3D al estilo Pixar ambientada en un baño de mármol moderno y lujoso con iluminación ambiental cálida. Un personaje femenino asiático joven con ojos grandes y expresivos realiza una rutina rápida: 1. Envuelta en una toalla de baño blanca y afelpada, se quita la toalla de la cabeza, dejando que su cabello oscuro y húmedo caiga sobre sus hombros. 2. Toma lateral mientras seca su largo cabello negro con una secadora rosa elegante. Su cabello fluye suavemente con la brisa. 3. Primer plano de los dedos pasando a través de un cabello negro, sedoso y ultra lacio con un brillo y movimiento realistas. 4. Extiende la mano hacia la pantalla, realizando una transición fluida de la toalla de baño a un elegante vestido lencero de seda blanca. 5. Se gira, abre la puerta de madera del baño, sale y cierra suavemente la puerta detrás de ella.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092193167848415233/img/mMQxZAcMiRCO8blz.jpg" width="600" alt="Animación de rutina de belleza al estilo Pixar">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=9807)**
-
-**Autor:** [Lavinia](https://x.com/laviniavelle) | **Fuente:** [Link](https://x.com/laviniavelle/status/2092193228803952975) | **Publicado:** Aug 25, 2026
-
----
-### Ataque de T-Rex en la selva: Dashcam
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Una secuencia de supervivencia cruda y de alta intensidad filmada como si fuera una grabación auténtica de una cámara de tablero, mostrando a un T-Rex atacando un jeep militar en una selva inundada.
-
-#### 📝 Prompt
-
-```
-Secuencia de acción y supervivencia estilo blockbuster de 12 a 15 segundos, ultra realista, filmada como si fuera una grabación cruda de una cámara de tablero o montada en el parabrisas desde el interior de un jeep militar que se desplaza a gran velocidad por un camino selvático inundado en Vietnam. El metraje debe sentirse como una captura accidental auténtica del mundo real, no como una cinematografía preparada: ligera vibración del tablero, movimiento realista de la cámara por la suspensión, rayas de lluvia en el parabrisas, salpicaduras de lodo, vibración del motor, deslizamiento de neumáticos, desenfoque de movimiento natural y movimiento ocasional de los limpiaparabrisas. Realismo de películas de criaturas de los años 2000/2010, fundamentado y físicamente creíble. Sin teletransportación, sin cambios de dirección imposibles, sin transformaciones. La velocidad del vehículo, la dirección del camino, el movimiento del dinosaurio y todas las colisiones deben mantener una coherencia espacial. Ubicación / atmósfera: camino selvático remoto en Vietnam después de una lluvia intensa, agua poco profunda sobre el camino, surcos de lodo, vegetación rota, selva verde densa a ambos lados, luz de día gris tormentosa, neblina húmeda, charcos, bruma, aves dispersándose desde los árboles. 0–2s — GANCHO ULTRA: Comienza ya a toda velocidad desde la cámara del tablero del jeep. Un jeep militar corre por un camino selvático inundado detrás de otro vehículo cuando, en los primeros 2 segundos, un T-Rex masivo explota saliendo de la selva desde el lado derecho y se estrella contra el vehículo líder. El impacto envía al vehículo violentamente hacia un lado a través del camino lodoso, destrozando agua y vegetación. El T-Rex ruge directamente frente a la cámara mientras el conductor del jeep de la cámara gira el volante bruscamente a la izquierda para evitar el choque. Agua y lodo salpican el parabrisas. Un soldado dentro del jeep grita: “¡IZQUIERDA! ¡IZQUIERDA! ¡IZQUIERDA!”. 2–5s: El jeep derrapa a través del agua inundada pero sigue avanzando. El vehículo chocado gira detrás de ellos mientras el T-Rex recupera el equilibrio e inmediatamente persigue al jeep de la cámara por el camino. Mantén el movimiento físicamente fundamentado: pisadas pesadas, agua salpicando, lodo lanzado hacia atrás, el depredador acelerando con un peso e inercia creíbles. El conductor lucha por mantener el control mientras el pasajero se gira en pánico para mirar hacia atrás. Un soldado grita: “¡ESTÁ DETRÁS DE NOSOTROS! ¡VAMOS! ¡VAMOS!”. 5–8s: El T-Rex acorta la distancia, pisoteando el camino y el arcén, destrozando árboles bajos y lanzando ramas al aire. El jeep rebota sobre surcos profundos y lodosos y casi pierde la tracción. El dinosaurio se lanza una vez y chasquea sus mandíbulas justo detrás de la parte trasera del vehículo, fallando por poco. El conductor esquiva un árbol caído mientras los neumáticos rocían agua lodosa en largos arcos. Toda la escena debe sentirse peligrosamente inestable pero legible. 8–11s — CRISIS: Más adelante, parte del camino está parcialmente bloqueado por un gran árbol inclinado, debilitado por la tormenta. El conductor se decide y apunta hacia el estrecho espacio a su lado. El T-Rex carga aún más fuerte, casi lo suficientemente cerca como para morder el jeep. La curva del camino
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092157503207325696/img/daDS7QAusoI_PGlz.jpg" width="600" alt="Ataque de T-Rex en la selva: Dashcam">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=9818)**
-
-**Autor:** [DennisVisuals](https://x.com/DtheW1995) | **Fuente:** [Link](https://x.com/DtheW1995/status/2092158157334217204) | **Publicado:** Aug 25, 2026
-
----
-### Secuencia de la base militar Dune Ridge
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Una secuencia técnica de cuatro planos altamente detallada que describe los puntos de referencia ambientales y los movimientos de cámara para una escena de base militar en el desierto.
-
-#### 📝 Prompt
-
-```
-BLOQUEO DEL MUNDO: La cresta de la duna sobre la base, arena azul fría antes del amanecer. NORTE: una cresta de duna alta, con la cima a cuarenta metros sobre la llanura, el viento peinando la arena de cada cresta. SUR: llanuras abiertas de color azul frío que se extienden hacia un horizonte negro, el casco enemigo descendente ardiendo de forma constante en ese sector. ESTE: la franja más pálida del resplandor del cielo antes del amanecer sobre el horizonte. OESTE: un campo de dunas negro, la parte más profunda de la noche. Puntos de referencia nombrados: CÚPULA CENTRAL (treinta metros de altura, cerámica ampollada, en medio de la base), CÚPULA DE COMANDO (setenta metros al este de la central), CÚPULA DEL ARSENAL (setenta metros al oeste de la central, medio hundida en la arena), CÚPULA EXTERIOR (cascarón vacío, ciento sesenta metros al noroeste de la central, en el perímetro), CRESTA DE LA DUNA (doscientos veinte metros al norte de la central, cuarenta metros más alta), PLATAFORMA ASHWING (sesenta metros al noreste de la cúpula de comando). SCARECROW está de pie en la CRESTA DE LA DUNA, a doscientos veinte metros al norte de la CÚPULA CENTRAL y cuarenta metros por encima de la llanura, con las botas sobre la superficie de la cresta, CUERPO MIRANDO AL SUR hacia las cúpulas. BLOQUEO DE EJE: línea de 180 grados desde la CRESTA DE LA DUNA en el norte hasta la CÚPULA CENTRAL en el sur. La cámara permanece al ESTE de esa línea durante todo el clip. Direcciones en pantalla: cuesta arriba y el norte se leen a la DERECHA DE LA PANTALLA, la base y el sur se leen a la IZQUIERDA DE LA PANTALLA y muy abajo, la estrella descendente se lee arriba a la IZQUIERDA DE LA PANTALLA. [T=0.0-3.2s] TOMA 1 - gran plano general - 32 mm CÁMARA: dieciocho metros al este de Scarecrow, 1.2 m sobre la cresta, al este del eje, mirando al oeste a través de la línea de la cresta. MOVIMIENTO: ESTÁTICO. ACCIÓN: el viento peina la cresta y levanta largas cintas de arena que pasan junto a la figura de pie. LÍNEA DE VISIÓN: Scarecrow mira a la IZQUIERDA DE LA PANTALLA y hacia abajo, hacia las cúpulas. SONIDO: viento fuerte y constante, siseo de arena seca. CORTE SECO en T=3.2s. Scarecrow en la cresta mirando al SUR, cámara al este del eje. [T=3.2-6.0s] TOMA 2 - plano general bajo - 24 mm CÁMARA: doce metros al este, 0.25 m sobre la arena, al este del eje, mirando al oeste a la altura de las botas. MOVIMIENTO: TRACK L 1.5 m. ACCIÓN: un pulso oscuro viaja bajo la superficie de la duna de la DERECHA DE LA PANTALLA a la IZQUIERDA DE LA PANTALLA y la arena se estremece sobre él. LÍNEA DE VISIÓN: ninguna en la toma, el pulso viaja a la IZQUIERDA DE LA PANTALLA. SONIDO: un golpe subsónico profundo que se aleja bajo tierra. CORTE SECO en T=6.0s. Scarecrow en la cresta mirando al SUR, cámara al este del eje. [T=6.0-9.0s] TOMA 3 - gran plano general alto - 28 mm CÁMARA: veinticinco metros al este y ocho metros sobre la cresta, al este del eje, mirando al oeste y hacia abajo sobre la llanura. MOVIMIENTO: INCLINACIÓN HACIA ABAJO (TILT DOWN) 10 grados. ACCIÓN: tres anillos de cimentación enterrados se iluminan bajo la arena uno tras otro, marcando tres cúpulas redondas en la llanura de abajo. LÍNEA DE VISIÓN: ninguna en la toma, los anillos se iluminan desde la IZQUIERDA DE LA PANTALLA hacia adentro. SONIDO: el golpe subsónico se repite tres veces, cada vez más tenue. CORTE SECO en T=9.0s. Scarecrow en la cresta mirando al SUR, cámara al este del eje. [T=9.0-11.6s] TOMA 4 - plano medio - 50 mm CÁMARA: cuatro metros al este de Scarecrow, 0.5 m de altura, al este del eje, mirando al oeste a sus piernas y botas. MOVIMIENTO: CÁMARA EN MANO CON MICRO-VIBRACIÓN. ACCIÓN: la arena alrededor de sus botas vibra en anillos finos y él planta su peso para sentir cómo sube a través del cuero. LÍNEA DE VISIÓN: mira directamente hacia abajo a sus propias botas, ABAJO EN LA PANTALLA. SONIDO: granos de arena golpeando contra el cuero de la bota. CORTE SECO en T=11.6s. Scarecrow en la cresta mirando al SUR, cámara al este del eje. [T=11.6-14.4s] TOMA 5 - plano medio corto - 85 mm CÁMARA: tres metros al este, 1.3 m de altura, al este del eje, mirando al oeste a su pecho y manos. MOVIMIENTO: ESTÁTICO. ACCIÓN: levanta ambas manos vivas frente a su pecho y las gira con las palmas hacia arriba bajo la luz azul fría, estudiando la piel. LÍNEA DE VISIÓN: mira hacia abajo a sus propias palmas abiertas, ABAJO EN LA PANTALLA. SONIDO: el viento aplanando la tela del abrigo. CORTE SECO en T=14.4s. Scarecrow en la cresta mirando al SUR, cámara al este del eje. [T=14.4-17.0s] TOMA 6 - plano medio sobre el hombro - 40 mm CÁMARA: cinco metros al este y ligeramente detrás de su hombro derecho, 1.7 m de altura, al este del eje, mirando al oeste-suroeste más allá de él. MOVIMIENTO: DOLLY IN 0.8 m. ACCIÓN: su cabeza gira a la IZQUIERDA DE LA PANTALLA y se fija en la cúpula central muy abajo, el anillo iluminado bajo su arena aún brilla. LÍNEA DE VISIÓN: Scarecrow mira a la IZQUIERDA DE LA PANTALLA y hacia abajo a la cúpula central. SONIDO: viento y un zumbido bajo que sube desde la llanura. CORTE SECO en T=17.0s. Scarecrow en la cresta mirando al SUR, cámara al este del eje. [T=17.0-19.6s] TOMA 7 - plano medio corto bajo - 65 mm CÁMARA: dos metros y medio al este, 1.0 m de altura, al este del eje, mirando al oeste y hacia arriba a su mandíbula y cráneo. MOVIMIENTO: INCLINACIÓN HACIA ARRIBA (TILT UP) 12 grados. ACCIÓN: inclina la cabeza hacia atrás y el punto naranja en lo alto del cielo del sur traza una línea caliente por su mejilla. LÍNEA DE VISIÓN: Scarecrow mira alto a la IZQUIERDA DE LA PANTALLA hacia el cielo. SONIDO: viento que disminuye, un quemado lejano y tenue. CORTE SECO en T=19.6s. Scarecrow en la cresta mirando al SUR, cámara al este del eje. [T=19.6-22.6s] TOMA 8 - plano general del cielo - 35 mm CÁMARA: doce metros al este, 2 m de altura, al este del eje, angulado hacia arriba treinta grados hacia el cielo del sur. MOVIMIENTO: ESTÁTICO. ACCIÓN: una nueva estrella desciende a través de la nube alta demasiado rápido, ardiendo de forma constante y sin parpadear, arrastrando una estela fina y recta. LÍNEA DE VISIÓN: ninguna en la toma, la estrella viaja a la IZQUIERDA DE LA PANTALLA y hacia abajo. SONIDO: un rugido plano y distante que llega tarde. CORTE SECO en T=22.6s. Scarecrow en la cresta mirando al SUR, cámara al este del eje. [T=22.6-27.4s] TOMA 9 - primer plano - 85 mm CÁMARA: dos metros al este de Scarecrow, 1.6 m de altura, al este del eje, mirando al oeste a su rostro en perfil de tres cuartos. MOVIMIENTO: CÁMARA EN MANO CON MICRO-VIBRACIÓN. ACCIÓN: dice una frase corta y medida al viento, la mandíbula y los labios cicatrizados moviéndose con claridad, los ojos fijos en el cielo. LÍNEA DE VISIÓN: Scarecrow mantiene la mirada alta a la IZQUIERDA DE LA PANTALLA. SONIDO: viento bajo una voz constante, arena golpeando el abrigo. CORTE SECO en T=27.4s. Scarecrow en la cresta mirando al SUR, cámara al este del eje. [T=27.4-30.0s] TOMA 10 - gran plano general - 28 mm CÁMARA: veintidós metros al este y cuatro metros sobre la cresta, al este del eje, mirando al oeste a través de la cresta, la base y el cielo juntos. MOVIMIENTO: ESTÁTICO. ACCIÓN: la pequeña figura sostiene la cresta mientras los tres anillos iluminados brillan muy abajo y el punto ardiente cae hacia ellos. LÍNEA DE VISIÓN: Scarecrow mantiene la mirada alta a la IZQUIERDA DE LA PANTALLA. SONIDO: viento, zumbido subsónico, quemado distante. CORTE SECO en T=30.0s. Scarecrow en la cresta mirando al SUR, cámara al este del eje. CUADRO FINAL: gran plano general de la cresta con Scarecrow pequeño en la cima mirando al sur, tres brillos en forma de anillo bajo la arena muy abajo de él y un punto ardiente descendiendo del cielo del sur sobre las cúpulas. INFORMACIÓN CAMBIADA: la cosa enterrada bajo la base ha despertado y encendido sus tres anillos, y Scarecrow ha reconocido lo que está descendiendo del cielo. NEGATIVOS: sin texto en pantalla, sin leyendas, sin subtítulos, sin marca de agua, sin pantalla dividida, sin multitud enfocada, sin armas tocando un cuerpo, sin dedos manipulando objetos pequeños, sin animales en primer plano, sin aspecto de dibujos animados o cómic de neón, sin sobresaturación.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092151971767549952/img/R4PKUH6ja5Jgwhxq.jpg" width="600" alt="Secuencia de la base militar Dune Ridge">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=9819)**
-
-**Autor:** [Vitalii Isaev](https://x.com/restofart) | **Fuente:** [Link](https://x.com/restofart/status/2092152166815343034) | **Publicado:** Aug 25, 2026
-
----
-### Vlog de festival de verano japonés
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vibrante al estilo vlog para Seedance 2.5 que captura la atmósfera de un festival nocturno tradicional japonés Matsuri con un desglose detallado de las escenas.
-
-#### 📝 Prompt
-
-```
-Un vibrante montaje cinematográfico estilo vlog de 30 segundos grabado en un festival nocturno de verano tradicional japonés, Matsuri. El sujeto principal es una joven alegre de Asia Oriental con cabello castaño suave recogido en una coleta baja de lado, vistiendo un yukata clásico de color azul pastel claro con un fajín obi blanco impecable. La escena está iluminada por cálidos farolillos de papel rojo que cuelgan sobre ella y las luces cálidas de los puestos de comida callejera de madera, yatai, contra el cielo nocturno oscuro.
-
-La secuencia captura cómo disfruta del festival: caminando por el animado mercado nocturno, recibiendo una barca recién hecha de takoyaki chisporroteante de un vendedor, dando un bocado al takoyaki caliente con un palillo de madera, ganando con éxito un peluche en un puesto de lanzamiento de anillos, mirando hacia arriba con asombro mientras vibrantes fuegos artificiales explotan en el cielo nocturno, y sosteniendo su premio mientras sonríe y saluda a la cámara. Alta definición, iluminación cálida de festival, suave bokeh de fondo, desenfoque de movimiento natural, gradación de color cinematográfica.
-
-Detalles del sujeto y el entorno
-
-Sujeto: Mujer joven de Asia Oriental, de unos 20 y tantos años, comportamiento expresivo y enérgico.
-
-Vestuario: Yukata de algodón tradicional azul claro con un patrón blanco sutil, cuello interior blanco, fajín obi blanco, delicada pulsera dorada.
-
-Ubicación: Festival nocturno japonés Matsuri. Incluye puestos de mercado de madera, farolillos de papel rojo colgantes, chochin, multitudes con yukata, puestos de premios con peluches y fuegos artificiales sobre ellos.
-
-Desglose escena por escena y diálogo
-
-Escena 1: Caminando por el festival 0:00 a 0:03
-
-Visuales: Plano medio tipo selfie o de seguimiento. Camina a lo largo de una calle iluminada bordeada de puestos de madera y farolillos colgantes, mirando a su alrededor la vibrante atmósfera.
-
-Efectos de sonido: Multitud ambiental del festival, música, charla.
-
-Escena 2: Puesto de takoyaki 0:03 a 0:06
-
-Visuales: Primer plano de un vendedor de comida callejera usando palillos de madera para girar las bolas de pulpo, takoyaki, en una plancha caliente. Ella extiende una bandeja de papel para recibir su porción fresca cubierta con salsa y copos de bonito.
-
-Escena 3: Probando la comida 0:07 a 0:12
-
-Visuales: Primer plano. Usa un palillo de madera para levantar una bola de takoyaki caliente, sopla suavemente, le da un bocado, mastica y reacciona con deleite genuino.
-
-Audio y diálogo: "Mmm"
-
-Escena 4: Juego de feria de lanzamiento de anillos 0:13 a 0:20
-
-Visuales: Plano medio en un puesto de juegos lleno de filas de animales de peluche. Ella apunta cuidadosamente con un anillo de plástico, lo lanza y lo coloca perfectamente alrededor de un peluche de conejito blanco. Jadea de emoción y recoge su premio ganado con una gran sonrisa.
-
-Audio y diálogo: "¡Wah! ¡Sugoi! ¡Wow! ¡Increíble!"
-
-Escena 5: Exhibición de fuegos artificiales 0:21 a 0:25
-
-Visuales: Plano selfie en ángulo bajo. Sosteniendo su peluche cerca, mira hacia el cielo nocturno mientras brillantes y coloridos fuegos artificiales estallan sobre ella, iluminando su rostro.
-
-Audio y diálogo: "¡Woah!" Sonido de explosión de fuegos artificiales.
-
-Escena 6: Despedida y saludo 0:26 a 0:30
-
-Visuales: Primer plano tipo selfie. Mira directamente al lente de la cámara con una sonrisa cálida.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092131317664407552/img/05uv08-zndHq6Fa3.jpg" width="600" alt="Vlog de festival de verano japonés">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=9811)**
-
-**Autor:** [Harboris](https://x.com/harboriis) | **Fuente:** [Link](https://x.com/harboriis/status/2092131570908065852) | **Publicado:** Aug 25, 2026
-
----
-### Batalla de dragones de fantasía oscura cinematográfica
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Una secuencia épica de fantasía cinematográfica en 8K que comienza con el reflejo en el ojo de un guerrero y hace la transición a la invocación de un majestuoso dragón en un templo antiguo.
-
-#### 📝 Prompt
-
-```
-Un video épico de fantasía oscura cinematográfica en resolución 8K. Primer plano macro extremo del ojo de una guerrera, con el iris reflejando un orbe celestial fundido y ardiente que gira dentro de oscuras nubes de tormenta. Toma de seguimiento en ángulo bajo mientras una guerrera de Asia Oriental, vestida con una elegante armadura de cuero y acero negro, camina a través de aguas poco profundas portando una llave ornamentada. Ella sube a una plataforma de piedra circular grabada con runas doradas brillantes, rodeada de niebla, cascadas y ruinas de templos antiguos. Arriba, una esfera celestial colosal con vetas de magma se cierne dentro de un vórtice de nubes arremolinadas. Ella inserta la llave en un altar de piedra cubierto de musgo, activando una enorme matriz rúnica circular que lanza géiseres de agua a alta presión verticalmente hacia el cielo. Un dragón serpentino blanco, gigante y majestuoso, con ojos de color naranja ardiente, emerge de la niebla. La guerrera extiende su mano mientras sus ojos brillan con un tono dorado intenso, estableciendo un poderoso vínculo mágico. El dragón gira hacia arriba, elevándose hacia el cielo y lanzando un rayo de energía blanca pura y radiante directamente hacia el orbe celestial, provocando que se fragmente en ondas de choque de luz cegadora. Escala cinematográfica épica, niebla volumétrica, efectos visuales fotorrealistas, estilo de renderizado de Unreal Engine 5, gradación de color gris oscuro y dorado, hiperdetallado.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092121030919675904/img/LW6awWqbBpAvhWB6.jpg" width="600" alt="Batalla de dragones de fantasía oscura cinematográfica">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=9766)**
-
-**Autor:** [Zyrella](https://x.com/Zyrellix) | **Fuente:** [Link](https://x.com/Zyrellix/status/2092121112746287527) | **Publicado:** Aug 25, 2026
-
----
 ---
 
 ## 📚 Más prompts disponibles
@@ -3444,6 +3579,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-09-02T03:23:53.017Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-09-03T03:31:32.246Z</sub>
 
 </div>
