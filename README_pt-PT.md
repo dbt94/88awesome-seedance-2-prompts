@@ -68,9 +68,9 @@ Por que usar nossa galeria?
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **6270** |
+| 📝 Total de prompts | **6278** |
 | ⭐ Prompts em destaque | **6** |
-| 🔄 Última atualização | **2026-09-03** |
+| 🔄 Última atualização | **2026-09-04** |
 
 ---
 
@@ -361,6 +361,236 @@ Ultra realista, energia inspirada em Velozes e Furiosos, iluminação fotorreali
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Curta-metragem de animação 3D estilo Pixar sobre confeitaria
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de animação 3D de alta qualidade retratando uma mulher fazendo um bolo de chocolate em uma cozinha iluminada pelo sol, apresentando uma sequência passo a passo desde quebrar os ovos até a apresentação final.
+
+#### 📝 Prompt
+
+```
+Um curta-metragem de animação 3D cinematográfico estilo Pixar de uma bela jovem com longos cabelos castanhos ondulados, grandes olhos azul-esverdeados brilhantes, bochechas rosadas e um sorriso gentil, vestindo uma blusa creme sem mangas e um avental bege com o texto "@Logolumos" estampado no peito. Ela está em uma cozinha moderna, clara e iluminada pelo sol, com armários de madeira quente, bancada de mármore, uma janela com plantas e a luz do sol da hora dourada entrando. Iluminação fotorrealista, profundidade de campo rasa, texturas ultra detalhadas, qualidade de animação 3D de alto nível.
+
+Sequência:
+Ela quebra um ovo marrom em uma tigela de vidro que já contém várias gemas.
+Ela despeja açúcar branco sobre as gemas.
+Ela despeja simultaneamente óleo dourado de um copo medidor e leite branco de uma jarra de vidro na tigela.
+Ela peneira farinha branca através de uma peneira de metal sobre a mistura úmida.
+Ela polvilha cacau em pó escuro sobre o monte de farinha.
+Ela bate tudo até obter uma massa de chocolate escuro rica e brilhante.
+Ela pincela manteiga derretida em uma forma de metal retangular.
+Ela despeja a massa espessa de chocolate na forma com uma espátula.
+Ela coloca a forma no forno pré-aquecido.
+Ela olha para o relógio de pulso com uma expressão levemente preocupada enquanto espera.
+O bolo cresce e assa dentro do forno brilhante.
+Ela abre o forno usando luvas térmicas e retira o bolo de chocolate escuro perfeitamente assado.
+Ela apresenta orgulhosamente o bolo de chocolate redondo finalizado em uma grade de resfriamento, sorrindo para a câmera.
+
+Atmosfera de culinária calorosa, convidativa e aconchegante, movimentos de câmera suaves, qualidade profissional de comercial de alimentos, 8k, altamente detalhado.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095380971277443072/img/KvylEcPAjvIXfP2P.jpg" width="600" alt="Curta-metragem de animação 3D estilo Pixar sobre confeitaria">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=10252)**
+
+**Autor:** [Elisia](https://x.com/AiwithElisia) | **Fonte:** [Link](https://x.com/AiwithElisia/status/2095381006031503710) | **Publicado:** Sep 3, 2026
+
+---
+### Briga de água dramática no banheiro da escola
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo cinematográfico para uma cena de briga de água tensa e caótica em um banheiro escolar moderno, apresentando três adolescentes com iluminação e reflexos realistas.
+
+#### 📝 Prompt
+
+```
+Cena cinematográfica realista dentro de um banheiro escolar moderno, três adolescentes vestindo blazers escolares cinzas combinando, camisas brancas, saias xadrez e tênis brancos. Uma garota está sentada na bancada perto das pias enquanto outra está em pé à sua frente com um gesto de mão intenso, e uma terceira garota reage dramaticamente ao fundo. Água espirra contra o espelho grande, criando uma atmosfera caótica e tensa. Iluminação fria de banheiro fluorescente, reflexos realistas, expressões faciais detalhadas, movimento corporal natural, composição cinematográfica, profundidade de campo rasa, sensação de câmera na mão, fotorrealismo de alto detalhe, gradação de cor dramática, 4K, vertical.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095380592397537280/img/j1Z5lobzSKeUwfut.jpg" width="600" alt="Briga de água dramática no banheiro da escola">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=10254)**
+
+**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Fonte:** [Link](https://x.com/AIwithMinal/status/2095380638224318793) | **Publicado:** Sep 3, 2026
+
+---
+### Gato Silver Tabby 3D dançando Samba brasileiro
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Um prompt de geração de vídeo preciso que utiliza múltiplos ativos de referência — uma imagem para a identidade do personagem, uma imagem para a configuração da cena e um vídeo para o movimento — para criar um gato animado em 3D executando passos de samba.
+
+#### 📝 Prompt
+
+```
+Gere um vídeo de 15 segundos, formato vertical 3:4, 720p, sem áudio, de um gato 3D semirrealista dançando. Plano médio-longo de corpo inteiro, frontal e fixo; sem cortes, zooms, pans ou tilts.
+
+@Image1 é a única responsável pela identidade do personagem: sempre o mesmo gatinho Silver Tabby levemente magro, mantendo o rosto redondo, olhos grandes cinza-esverdeados, nariz rosa, pelo curto branco-prateado, degradê cinza-escuro nas costas, pernas curtas, patas arredondadas e cauda cheia e espessa. Não utilize o fundo de estúdio da @Image1 e não mantenha sua pose estática.
+
+@Image2 é a única responsável pela cena, composição e iluminação: mantendo sempre a mesma sala de estar à beira-mar em tons de creme, janela, cortinas, sofá, banqueta, armário, luminária, vista para o mar, céu ao entardecer, perspectiva do piso de madeira e luz solar dourada vinda da esquerda; os móveis e o fundo permanecem estáveis durante todo o vídeo.
+
+@Video1 é a única referência para a linha do tempo do movimento e a execução da ação. Siga rigorosamente a sequência de ação completa do @Video1 de 0,00s a 15,00s, incluindo tempos de início/fim, relações entre os membros, posicionamento dos pés, deslocamentos do centro de gravidade, flexão/extensão do corpo, trajetórias das patas, movimentos da cabeça, piscar de olhos, fechar/abrir a boca, colocar a língua para fora e a pose final. As ações devem ocorrer continuamente na ordem original; não re-coreografe, reorganize, simplifique, faça médias, crie loops, omita ou adicione ações. Utilize apenas o movimento, expressão, amplitude, câmera fixa e ritmo do @Video1; nunca utilize o personagem sapo, aparência verde, textura de pele, praia, ondas, areia ou iluminação.
+
+Foque em manter os pequenos passos de "deslize" tocando o chão do @Video1: pequenos cruzamentos, solturas, toques laterais e retornos, com passos curtos e transferência de peso para a esquerda/direita. As patas dianteiras devem seguir as posições alta/baixa do @Video1; não altere para joelhos altos, marcha, saltos, chutes ou danças fofas genéricas. A amplitude dos membros e os contornos da pose do gato devem coincidir com o @Video1 a cada momento.
+
+O gatinho permanece centralizado horizontalmente, totalmente visível, ocupando cerca de 52% a 58% da altura do quadro e menos de 40% da largura; mantenha espaço acima da cabeça, orelhas, pés, patas, cauda e o piso de madeira. O tamanho do personagem é constante. A cauda existe continuamente desde a base, balançando naturalmente em oposição às transferências de peso; ela não deve se duplicar nem desaparecer.
+
+Apenas um gato durante todo o vídeo. Mantenha membros felinos realistas e pelo 3D semirrealista; as patas não podem se transformar em mãos humanas nem criar dedos. Cada passo deve tocar o chão de forma estável, sem deslizar ou flutuar. Proibido sapos, outros animais, pessoas, roupas, coleiras, texto, legendas, logotipos, interface (UI), marcas d'água, membros extras, caudas duplicadas, ganho de peso, distorção facial, mudanças de cor, oscilação de fundo ou movimento de móveis. Sem áudio.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095370811461029888/img/OH2zJEo-lt8_FQwT.jpg" width="600" alt="Gato Silver Tabby 3D dançando Samba brasileiro">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=10256)**
+
+**Autor:** [Mr.JI](https://x.com/jjjd77326292) | **Fonte:** [Link](https://x.com/jjjd77326292/status/2095371621385347251) | **Publicado:** Sep 3, 2026
+
+---
+### Jornada Cinematográfica de Compras em um Mercado Coreano
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um roteiro de vídeo abrangente que gera uma sequência de uma jovem coreana fazendo compras em um mercado de moda, mantendo a consistência da personagem em várias tomadas, incluindo uma banca de roupas e a descida em uma escada rolante.
+
+#### 📝 Prompt
+
+```
+Uma jovem coreana fazendo compras em um movimentado mercado de moda coreano.
+Mantenha a MESMA garota coreana, o MESMO rosto, o MESMO penteado, a MESMA roupa, as MESMAS proporções corporais e a MESMA bolsa preta durante todo o vídeo. Mantenha uma forte consistência visual e da personagem entre cada tomada.
+
+Cena 1 — 0–2 seg:
+A garota coreana caminha por um mercado coreano animado e para em uma banca de roupas. Ela olha através de uma grande arara cheia de vestidos bonitos. Mostre placas coreanas coloridas, compradores aglomerados, iluminação interna quente e uma atmosfera realista de mercado coreano. Use um movimento de câmera lateral médio e suave.
+
+Cena 2 — 2–4 seg:
+Ela seleciona cuidadosamente um vestido da arara e examina o tecido e os detalhes com as mãos. Use um close-up cinematográfico das mãos dela e do vestido, seguido por um close-up sutil do rosto dela reagindo positivamente.
+
+Cena 3 — 4–6 seg:
+Ela segura o vestido selecionado contra o corpo e verifica sua aparência em um espelho grande dentro da loja. Mostre o reflexo dela claramente. Use um plano médio suave com profundidade de campo rasa e movimento natural e realista.
+
+Cena 4 — 6–8 seg:
+Ela decide comprar o vestido. Um atendente da loja coreana dobra o vestido cuidadosamente e o coloca em uma sacola de compras limpa. Mostre um close-up do processo de embalagem, mãos, vestido e sacola de compras.
+
+Cena 5 — 8–10 seg:
+A garota deixa a banca de roupas carregando a sacola de compras em uma mão e sua bolsa preta no ombro. Ela caminha naturalmente pelo movimentado mercado coreano. Use um movimento de acompanhamento suave pela frente/lado.
+
+Cena 6 — 10–12 seg:
+Ela chega a uma ESCADA ROLANTE AUTOMÁTICA que desce do mercado. Ela pisa na escada rolante em movimento descendente e começa a descer enquanto segura sua sacola de compras. Deixe claro que é uma escada rolante, NÃO escadas normais. Use um plano de acompanhamento traseiro de três quartos seguindo-a para baixo.
+
+Cena 7 — 12–14 seg:
+Enquanto desce a escada rolante, mostre um close-up cinematográfico da garota olhando levemente para cima e ao redor do mercado. O cabelo dela se move naturalmente com seu movimento. Mantenha a escada rolante claramente visível atrás e ao lado dela.
+
+Cena 8 — 14–15 seg:
+Plano traseiro aberto enquanto ela chega ao final da escada rolante descendente e caminha para longe em meio à multidão do movimentado mercado coreano, ainda carregando sua sacola de compras. Termine com um fade-out cinematográfico suave.
+
+Estilo visual: fotorrealista, atmosfera cinematográfica de mercado de moda coreano, iluminação quente e suave, textura de pele realista, expressões faciais naturais, profundidade de campo rasa, granulação de filme sutil, movimento realista da multidão, movimento de câmera suave, visual comercial premium, alto detalhe, qualidade 4K.
+
+Importante: Mantenha a identidade e a aparência da mesma garota consistentes em cada tomada. A transição do mercado para a escada rolante deve parecer contínua e realista. A escada rolante deve ser uma ESCADA ROLANTE AUTOMÁTICA DESCENDENTE, não escadas fixas.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095356008529076224/img/WF-JOiCeyjJxTGON.jpg" width="600" alt="Jornada Cinematográfica de Compras em um Mercado Coreano">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=10253)**
+
+**Autor:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Fonte:** [Link](https://x.com/ayzalnooor24521/status/2095356156487127394) | **Publicado:** Sep 3, 2026
+
+---
+### Ação Cinematográfica de Espadachim de Anime
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Um prompt detalhado para uma sequência de combate de espada em anime de alta qualidade, enfatizando a consistência da personagem, efeitos de hit-stop e dissolução de partículas em um ambiente urbano chuvoso.
+
+#### 📝 Prompt
+
+```
+Vídeo de anime de alta qualidade. Apresente uma espadachim de raridade máxima de um RPG de ação de fantasia urbana com elegância silenciosa e um único golpe de espada claro e de alta velocidade. Existe apenas uma pessoa real durante toda a sequência, uma jovem garota. Os inimigos são dois inimigos de sombra azul-pretos semelhantes a jogos. Siga estritamente os papéis das imagens de referência. @image1 é a referência principal para o rosto e a consistência da personagem. Fixe um rosto curto, bochechas macias, um queixo pequeno e arredondado, nariz e boca pequenos, olhos grandes verticalmente abertos como joias azul-cobalto, alta taxa de ocupação da íris, mínimo de branco aparente, cantos externos dos olhos calmos, uma sensação de idade jovem e clara, e franja e cabelos longos branco-prateados. @image2 é a referência principal para traje, decorações, design de corpo inteiro, porte, silhueta e a espada japonesa. Fixe um vestido gótico de renda elaborado em preto a azul-marinho profundo, mangas de renda transparente, cetim azul, saia em camadas, uma joia azul no peito, uma corrente de metal na cintura, botas decorativas pretas, enfeites de cabelo de rosas azul-profundo e borboletas preto-azuladas, correntes de cristal azul pendentes, uma bainha azul-marinho profundo, acessórios de prata e uma espada japonesa com uma joia azul. Em caso de conflito de referência, @image1 tem prioridade para o rosto, olhos, bochechas, queixo, sensação de idade, expressão, cor do cabelo, franja e cabelos longos; @image2 tem prioridade para detalhes dos enfeites de cabelo, traje, joias, corpo inteiro, porte e a espada japonesa. As imagens de referência são apenas para consistência e design, não para telas iniciais ou storyboards. Não reproduza fundos brancos, texto, interface de usuário (UI), quadros divididos, vistas frontais/traseiras, variações de expressão facial, diagramas explicativos ou diagramas de armas. Correção da Personagem: A mesma jovem garota durante todo o vídeo. Não mude seu rosto, olhos azuis e proporção da íris, cabelos longos branco-prateados, traje preto-azulado, enfeites de cabelo, joia no peito ou porte esguio e jovem. As mudanças são apenas no olhar, expressões sutis, postura de combate, respiração e o balanço natural do cabelo, renda e correntes. Mesmo dentro de reflexos, apenas imagens locais da mesma pessoa são permitidas; não crie outras pessoas ou clones completos de corpo inteiro. Correção de Renderização: Estilo toon/cel-look 3D de alta qualidade completamente unificado. Uma sensação completa de modelo 3D, contornos de anime azul-marinho profundo finos e limpos, sombras toon translúcidas de 2-3 camadas em índigo, cobalto e azul-violeta, destaques suaves de luar nos cabelos branco-prateados, reflexos de luz (catchlights) multicamadas nos olhos e reflexos nítidos e elegantes em joias e metal. Diferencie texturas para renda, cetim, metal, joias e o chão molhado, garantindo alta densidade tanto para a personagem quanto para o fundo urbano. Não substitua a consistência da personagem pelo estilo de renderização, e vice-versa. Um terraço de cidade alta após a chuva. Chão molhado, paredes de vidro, prédios distantes com baixa saturação, bokeh de neon suave. O luar branco-prateado é a principal fonte de luz, o azul-marinho profundo e o azul-cobalto específicos da personagem são as principais cores de sombra, e o azul-gelo e uma pequena quantidade de azul-violeta são as luzes de preenchimento. Mantenha as cores de fundo e o neon sutis, tornando os cabelos branco-prateados, olhos azuis, traje preto-azulado, enfeites de cabelo, joia no peito e a espada japonesa da garota os protagonistas da tela. As armas que a garota manuseia são exatamente uma espada japonesa e uma bainha. A espada é um corpo rígido único com o punho, guarda, lâmina e ponta conectados em um comprimento fixo. A mão direita segura o punho atrás da guarda, e essa força continua através do antebraço, ombro, peito e cintura, movendo a espada inteira como uma só. Não gire apenas a ponta de forma independente. A mão esquerda manuseia apenas a bainha e não toca na lâmina. Não duplique, ramifique ou estenda/contraia as armas. Coloque o Inimigo de Sombra A e o Inimigo de Sombra B diagonalmente à frente da garota, um mais próximo e outro mais distante ao longo da mesma linha de ataque. Cada inimigo é uma silhueta humanoide azul-preta legível como tendo cabeça, tronco, dois braços, duas pernas, pés e uma espada de sombra curta. Os inimigos A e B mantêm um material de sombra semissólido com limites e densidade, contornos de armadura de sombra, armas, sombras no chão e reflexos no vidro até o momento do impacto. Não misture os cabelos branco-prateados, rosto, traje, joias ou espada japonesa da garota nos inimigos, e não misture o material de sombra azul-preto e as espadas de sombra dos inimigos na garota. Fixe a sequência de ações visíveis. Proceda na ordem: estado estacionário tocando o punho, desembainhar a espada com um curto deslize, um único golpe horizontal, contato claro, um curto hit-stop, completa transformação em partículas após o contato, oclusão por partículas, início do embainhamento ao nível da mão e subida até o rosto. Não adicione múltiplos ataques ou aparições longas de inimigos. Comece com um plano médio-fechado de um ângulo ligeiramente abaixo e atrás, equivalente a 50-70mm. Mostre os cabelos longos branco-prateados, traje preto-azulado, enfeites de cabelo e a espada japonesa embainhada no quadril esquerdo. A garota já está com os dedos da mão direita no punho. Comece a desembainhar a espada sem uma longa pausa. Apenas as pontas de seu cabelo, renda e correntes de cristal balançam no vento noturno, e o vidro reflete momentaneamente apenas um olho azul, igual ao da @image1. A garota desliza uma curta distância diagonalmente para frente no chão molhado enquanto desembainha a espada, movendo-se para fora das linhas de ataque dos dois inimigos. Mantenha a perna de apoio, a perna de deslize e o movimento do centro de gravidade como uma sequência contínua. Passe a câmera do luar refletido na lâmina para o reflexo no chão molhado; após a entidade no ponto A sair da tela, capture a mesma pessoa no ponto B em um plano médio-fechado diagonalmente à frente. Reflexos são uma transição de câmera mostrando o deslize real, não teletransporte, pulo, aterrissagem ou clonagem. Sem mudar a pose, expanda a rotação da cintura do desembainhar e deslize diretamente para um grande golpe horizontal. Uma única lâmina cruza os dois inimigos em sequência ao longo de um caminho contínuo na mesma altura. Existe apenas um arco de luz de espada em branco-prateado e azul-cobalto. Mostre claramente a superfície de contato com o primeiro inimigo e coloque um único hit-stop curto no momento em que o caminho passa pelo segundo inimigo. Mostre vividamente o punho, guarda, lâmina única, ambas as mãos e o ponto de contato. Somente após o hit-stop, comece a transformação em partículas de frente para trás, seguindo a mesma direção da luz da espada. Os dois corpos, duas espadas de sombra, sombras no chão, reflexos no vidro e reflexos no chão molhado desaparecem completamente em névoa azul-preta, pequenas borboletas de luz azul estilhaçadas e finos fragmentos de luz azul-gelo. As partículas não devem esconder o rosto, mãos, espada ou posição de contato. A garota transita naturalmente o movimento após o golpe horizontal da ponta da espada para o pulso, ombro, cintura e perna traseira, recuperando a espada para um ponto final baixo. Mostre brevemente o resultado dos inimigos desaparecendo completamente enquanto a espada ainda está desembainhada. Sem parar esse movimento, conecte a névoa azul-preta e a luz da borboleta azul à oclusão na frente da lente. Imediatamente após a oclusão, mude para um close-up do peito até as mãos, onde ela começa a embainhar a espada. A mão direita segura o punho e a mão esquerda segura a bainha perto da boca. Deixe o punho, guarda, lâmina e boca da bainha serem lidos separadamente, e alinhe com precisão os eixos centrais da lâmina e da bainha. Deslize a lâmina para dentro da bainha sem tocar na borda, não causando penetração entre espada e bainha, desalinhamento de ângulo ou deformação dos dedos. A câmera segue o punho, a joia azul no peito, renda preta e enfeites de cabelo durante o processo de embainhamento, subindo rapidamente para um rosto natural em 3/4 equivalente a 70-85mm. O rosto deve ser o rosto normal da @image1. Primeiro, mantenha ambos os grandes olhos azuis abertos, então relaxe levemente a tensão nas sobrancelhas, não abaixe as pálpebras, crie um pequeno sorriso de boca fechada usando apenas os cantos da boca e, finalmente, direcione um olhar calmo para perto da câmera. O sujeito final mostrado é a garota sozinha. Os inimigos, suas armas, sombras e reflexos desapareceram completamente. Assim que a lâmina continua reta para dentro da bainha e antes que a guarda toque a boca da bainha, corte no momento em que os olhos azuis abertos, cabelos branco-prateados, enfeites de cabelo, joia no peito, punho da espada e a cena noturna molhada estejam todos simultaneamente claros. Não fique parado por muito tempo após completar o embainhamento e não encolha a pessoa para a distância. Sem BGM, música, diálogo ou narração. Sincronize apenas o vento noturno, sons curtos de deslize das solas das botas de couro no chão de pedra molhado, farfalhar de renda e cetim, pequenos sons metálicos de correntes e enfeites de cristal, o som da lâmina de aço saindo da boca da bainha de metal, o som da lâmina de aço cortando o ar, o som fino do material de sombra colapsando em partículas mágicas, o som da lâmina de aço deslizando dentro da bainha durante o embainhamento e respiração natural com as ações visíveis. Negativas Forçadas: Texto, legendas, logotipos, marcas d'água, interface de usuário (UI) com fundo branco, folhas de configuração, um segundo humano, clones, dublês de corpo inteiro, reflexos de rostos diferentes, inimigos colapsando antes do contato, borboletas gigantes, partículas cobrindo o rosto ou a espada, espadas adicionais, mãos segurando a lâmina, penetração entre espada e bainha, embainhamento distante, longas pausas, close-ups de rosto com lente grande-angular, olho de peixe, rostos maduros, rostos longos, olhos pequenos, íris pequenas, olhos oblíquos, olhos semicerrados, contornos grossos, sombras de célula de camada única, CG de plástico, semirrealista e estilos de arte misturados são proibidos.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095347586114998272/img/c7a-pehgPiGQGwwW.jpg" width="600" alt="Ação Cinematográfica de Espadachim de Anime">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=10257)**
+
+**Autor:** [mayv](https://x.com/haruuraeadss) | **Fonte:** [Link](https://x.com/haruuraeadss/status/2095347991016280457) | **Publicado:** Sep 3, 2026
+
+---
+### Cinemática de Ataque Especial de Anime
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Um prompt de vídeo de alta energia para gerar sequências climáticas de anime estilizadas, apresentando movimentos especiais coordenados, trabalho de câmera dramático e iluminação chamativa.
+
+#### 📝 Prompt
+
+```
+Um movimento especial coordenado entre [@Character A] e [@Character B]. Apresenta trabalho de câmera dinâmico, tomadas dramáticas, câmera na mão, dolly-in extremo movendo-se profundamente para dentro da tela, dupla exposição, velocidade 2x, velocidade 4x, efeitos de iluminação adequados para um golpe final, efeitos de movimento especial excessivamente chamativos, estilo anime japonês colorido, cut-ins, sem diálogos, uma sequência de closes extremos e planos gerais extremos, alta qualidade, uma cena de clímax de filme de anime de grande sucesso de 10 milhões de dólares e a técnica suprema usada apenas uma vez em toda a série.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095132605209628672/img/sGd5w9qHBm2RxgHm.jpg" width="600" alt="Cinemática de Ataque Especial de Anime">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=10255)**
+
+**Autor:** [FinishFish | AI Anime](https://x.com/finishfish_ai) | **Fonte:** [Link](https://x.com/finishfish_ai/status/2095132814232395800) | **Publicado:** Sep 2, 2026
+
+---
+### Efeitos de Movimento para Anime Music Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de MV de anime em ritmo acelerado com ecos visuais e mudanças rápidas de composição, projetado para movimentos rítmicos de personagens.
+
+#### 📝 Prompt
+
+```
+Use a Imagem de Referência 1 como a referência de identidade visual exata para a garota. Preserve seu rosto, penteado, cor do cabelo, roupas, proporções corporais e design de personagem durante todo o vídeo. Crie uma sequência de anime music-video estilizada e acelerada de 15 segundos apresentando uma garota única. Duplicatas temporárias são permitidas apenas como ecos visuais da mesma garota. O vídeo deve parecer rítmico, lúdico, levemente surreal e altamente gráfico. ## ESTILO VISUAL Animação de anime limpa, fundo gráfico simplificado, paleta de cores limitada, contornos nítidos, edição rítmica, leve desfoque de movimento. ## 0–1,5s — INÍCIO INSTANTÂNEO A garota está no centro do quadro. Imediatamente, ela vira a cabeça levemente para a direita da tela. No momento exato do movimento, crie um breve eco duplicado atrás dela. ## 1,5–3s — ECO DE DESLIZAMENTO (SLIDE ECHO) A garota desliza rapidamente da esquerda para a direita da tela. Três cópias com atraso aparecem atrás dela em posições uniformemente espaçadas. ## 3–4,5s — CLOSE-UP EXTREMO Close-up extremo e repentino de um olho. O olho se abre rapidamente. Afaste o zoom imediatamente a partir do olho para revelar o rosto da garota. ## 4,5–6s — REPETIÇÃO DE POSE A garota realiza uma pose rápida e distinta. Crie instantaneamente três versões idênticas da mesma pose dispostas horizontalmente. ## 6–7,5s — ROTAÇÃO A garota pula levemente para cima. Durante o salto, toda a composição gira aproximadamente 90 graus. ## 7,5–9s — DE CABEÇA PARA BAIXO A mesma garota aparece de cabeça para baixo. Seu cabelo cai naturalmente de acordo com a gravidade. ## 9–10,5s — ENTRADAS MÚLTIPLAS A garota entra rapidamente no quadro pela parte inferior. Ao mesmo tempo, dois ecos visuais entram um pouco mais tarde na mesma direção. Três versões idênticas brevemente o
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095093137660342273/img/ycXSQfZ1ypOMC8Jm.jpg" width="600" alt="Efeitos de Movimento para Anime Music Video">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=10258)**
+
+**Autor:** [田中勇道 | AI画像・動画生成](https://x.com/yudotanaka) | **Fonte:** [Link](https://x.com/yudotanaka/status/2095114516212109319) | **Publicado:** Sep 2, 2026
+
+---
+### Batalha entre Fênix de Fogo e Dragão de Água
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um confronto elemental épico apresentando uma fênix de fogo e um dragão de água em ruínas antigas, com instruções detalhadas de câmera e efeitos.
+
+#### 📝 Prompt
+
+```
+Vídeo de ação cinematográfico fotorrealista de 15s, 5 tomadas, 16:9. ARRI ALEXA 65, lente anamórfica de 35mm, granulação de filme, contraste rico, bokeh natural, raios de luz volumétricos, fumaça realista, poeira, faíscas, fogo, água, física de cabelo e tecido. Sem texto, logotipos, interface ou marca d'água.
+
+Ambiente: Ruínas de um templo antigo abandonado, pilares quebrados, escombros, templo em chamas, fumaça densa, faíscas, pôr do sol dramático. Mantenha a arquitetura, os danos, a iluminação e a atmosfera consistentes.
+
+Mulher 1 – Fogo: Cabelo curto rosa, chifres vermelhos, traje de batalha ornamentado em vermelho profundo/dourado, correntes, cinto preto, borlas, botas de plataforma. Trave o rosto, o corpo e o traje perfeitamente.
+
+Mulher 2 – Água: Cabelo longo azul-marinho com franja reta, manto de batalha fluido em azul-prata profundo, camadas transparentes, cinto decorativo, ornamentos de prata, borlas e botas. Trave o rosto, o corpo e o traje perfeitamente.
+
+0–2,5s: Plano aberto com movimento circular de acompanhamento. As lutadoras se enfrentam agressivamente. A mulher do fogo ataca com socos/chutes de chamas; a mulher da água desvia e contra-ataca com chicotes de água. Fogo e água colidem em explosões de vapor.
+
+2,5–6s: Plano fechado de acompanhamento. Troca brutal de curto alcance. Cotovelada e joelhada de fogo; a mulher da água bloqueia com um escudo de água e contra-ataca com um golpe de palma pressurizado, arremessando a oponente sobre os escombros.
+
+6–9,5s: Plano de acompanhamento em ângulo baixo. Ambas avançam e saltam. A mulher da água lança esferas de água giratórias; a mulher do fogo rompe com chamas explosivas e ataques de curto alcance.
+
+9,5–12,5s: Plano médio-aberto com zoom in. A mulher da água invoca um enorme dragão de água serpentino. A mulher do fogo libera uma majestosa fênix de chamas. Ambas avançam uma contra a outra.
+
+12,5–15s: Plano épico aberto com zoom out/grua subindo. Dragão e fênix colidem, criando uma enorme explosão de vapor, fogo, água, luz e detritos. Onda de choque, faíscas e gotículas preenchem o quadro; a energia se dissipa lentamente.
+
+Áudio: Trilha sonora cinematográfica orquestral-eletrônica, percussão pesada, cordas crescentes, sintetizadores, impactos, sons de movimento, água, fogo, vapor, rugido de dragão e grito de fênix.
+
+Apenas câmera cinematográfica suave, sem trepidação de mão ou cortes desnecessários. Consistência perfeita dos personagens e física elemental realista.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095039213813260288/img/5HtlFxZHXOEnOU5C.jpg" width="600" alt="Batalha entre Fênix de Fogo e Dragão de Água">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=10250)**
+
+**Autor:** [Noor](https://x.com/noorlewisx) | **Fonte:** [Link](https://x.com/noorlewisx/status/2095039305555263672) | **Publicado:** Sep 2, 2026
+
+---
 ### Interação entre robô humanoide e criança
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -3352,195 +3582,6 @@ Uma sequência de vídeo em alta definição com estilo comercial de uma jovem m
 **Autor:** [Lavinia](https://x.com/laviniavelle) | **Fonte:** [Link](https://x.com/laviniavelle/status/2092417476265144705) | **Publicado:** Aug 26, 2026
 
 ---
-### Vlog realista de uma estudante do ensino médio japonês
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Um prompt detalhado e de formato longo para gerar um vídeo realista de 30 segundos no estilo vlog, mostrando as atividades pós-escola de uma estudante do ensino médio japonês com uma estética nostálgica de filme caseiro.
-
-#### 📝 Prompt
-
-```
-Crie um vídeo caseiro pessoal de 30 segundos no estilo vlog, filmado por um colega de classe caminhando para casa com uma estudante japonesa do ensino médio. Hiper-realista. Os 30 segundos devem consistir em uma montagem de cortes secos compreendendo cerca de 12 tomadas curtas (2-3 segundos cada). Cada tomada deve ser em um local diferente e em um momento diferente, onde 1 tomada = 1 pequeno evento. Não use efeitos de transição ou desvanecimentos. Como a pessoa que está filmando é um colega próximo, ela está completamente relaxada, sorrindo para a câmera, mostrando coisas e conversando (as palavras são inaudíveis). Nada de poses ou atuação, apenas as expressões naturais que ela só mostra aos amigos.
-
-Sujeito Principal:
-A mesma estudante japonesa do ensino médio em todas as tomadas. Textura de pele natural, saudável e realista, sem maquiagem, olhos ligeiramente cansados, mas brilhantes após as atividades do clube. Cabelo preto preso em um rabo de cavalo alto com alguns fios soltos nas bochechas. Uniforme de marinheiro branco de manga curta (colarinho e lenço azul-marinho), saia plissada azul-marinho na altura do joelho, meias brancas, tênis brancos e uma mochila escolar. Mantenha o rosto, a forma do corpo, o penteado, o uniforme e os pertences completamente consistentes do início ao fim.
-
-Locais:
-Um caminho escolar e suas ladeiras desde o fim da aula no verão até o pôr do sol. Salas de aula após a escola, corredores, saguões de entrada, portões da escola, máquinas de venda automática, caminhos à beira do rio, lojas de doces e faixas de pedestres ao pôr do sol. Caminhos escolares autênticos cheios de vida cotidiana. Sem multidões, anúncios ou marcas reconhecíveis.
-
-Câmera / Estilo Visual:
-Comum a todas as tomadas: uma câmera digital compacta antiga segurada por um colega de classe. Trepidação natural, enquadramento imperfeito, mudanças ocasionais de foco automático, flutuações de exposição, detalhes de imagem suaves, leve desfoque de movimento, ruído digital sutil, cores levemente suprimidas e balanço de branco imperfeito. Sem estabilização, gimbals, drones, câmera lenta, iluminação cinematográfica ou correção de cor comercial.
-
-Lista de Tomadas (em ordem, 2-3 segundos cada, todos cortes secos):
-1. Preparando-se para ir para casa na sala de aula após a escola. Percebendo a câmera, sorrindo e cobrindo levemente a lente com a palma da mão.
-2. Caminhando juntas por um corredor vazio após a escola. O som dos sapatos internos ecoa.
-3. Trocando para tênis na entrada enquanto conversa e ri de algo (inaudível).
-4. Saindo pelo portão da escola, virando-se uma vez para olhar para o prédio da escola ao entardecer.
-5. Comprando duas bebidas em uma máquina de venda automática e oferecendo uma para a lente.
-6. Caminhando ao longo de um caminho à beira do rio. Rindo enquanto segura seu rabo de cavalo que esvoaça ao vento.
-7. Agachando-se para alcançar um gato em um muro, rindo com seu amigo enquanto o gato se esquiva habilmente.
-8. Dividindo um picolé de uma loja de doces ao meio e oferecendo um lado para a câmera.
-9. Uma chuva de verão repentina. Correndo enquanto ri com sua mochila escolar sobre a cabeça, depois parando para segurá-la no alto.
-10. Sob um telhado com a franja molhada, fazendo uma careta intencionalmente para fazer o fotógrafo rir.
-11. Virando-se ao atravessar uma faixa de pedestres ao pôr do sol.
-12. Acenando com as duas mãos amplamente em uma bifurcação na estrada. No meio disso, por volta de 00:29, a gravação corta repentinamente para preto. Sem fade-out.
-
-Realismo Físico:
-Mantenha uma física do mundo real plausível em todas as tomadas. Mãos, dedos, pés, uniforme, cabelo, chuva, mochilas escolares e picolés se comportam naturalmente. Sem dedos extras, mãos fundidas, membros duplicados, anatomia distorcida, objetos flutuantes, itens desaparecendo ou deformações repentinas. Os pés permanecem conectados corretamente ao chão. Mantenha a consistência do sujeito entre as tomadas, com a iluminação progredindo naturalmente do fim da escola até o pôr do sol.
-
-Áudio:
-Apenas sons ambientais naturais. Os sons ambientais também cortam a cada tomada. Gritos distantes de atividades de clubes, sons de sapatos internos, cigarras, sons de máquinas de venda automática, sons de picolé sendo dividido, sons de chuva, sons de faixa de pedestres e vozes e risadas inaudíveis. Sem música. Sem narração. Sem efeitos sonoros artificiais.
-
-Atmosfera Final:
-Um vídeo que parece emocionante ao ser relembrado, mesmo sendo apenas 12 momentos comuns alinhados. Não é um trabalho comercial. Não é um filme de moda. Não é um videoclipe. Um registro de um momento pós-escola comum, mas insubstituível, deixado na câmera de um colega de classe. Descontraído, em meio à juventude, nostálgico, caloroso, espontâneo e profundamente humano. Priorize a sensação de que a câmera estava lá por acaso.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092414044259209217/img/zT4bU8HDG3QsgDdb.jpg" width="600" alt="Vlog realista de uma estudante do ensino médio japonês">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=9839)**
-
-**Autor:** [妖精アーヤさん](https://x.com/aiehon_aya) | **Fonte:** [Link](https://x.com/aiehon_aya/status/2092415045917716668) | **Publicado:** Aug 26, 2026
-
----
-### POV: Celeiro pela manhã
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Uma tomada cinematográfica em POV de uma cena matinal em um celeiro, capturando um momento suave e íntimo entre um casal.
-
-#### 📝 Prompt
-
-```
-Celeiro, manhã. Acorda, olha para a esposa, uma breve troca de provocações, um beijo. POV fechado no rosto, luz suave da manhã. Som: respiração, feno, canto dos pássaros.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092400817718648832/img/zerSvgftrK1BIUJw.jpg" width="600" alt="POV: Celeiro pela manhã">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=9824)**
-
-**Autor:** [YORONE](https://x.com/heyyorone) | **Fonte:** [Link](https://x.com/heyyorone/status/2092403725877076388) | **Publicado:** Aug 26, 2026
-
----
-### Vídeo cinematográfico em POV de táxi noturno
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo em primeira pessoa para o Seedance 2.0, capturando uma cena íntima de táxi à noite com a sensação de uma câmera na mão.
-
-#### 📝 Prompt
-
-```
-Crie um vídeo contínuo de 13s na vertical (9:16) em velocidade 1x: POV de celular na mão, ângulo lateral levemente baixo, muito próximo ao rosto dela no banco de trás de um táxi à noite
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092381960060760064/img/TClPJG37WR_ujk0a.jpg" width="600" alt="Vídeo cinematográfico em POV de táxi noturno">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=9837)**
-
-**Autor:** [YORONE](https://x.com/heyyorone) | **Fonte:** [Link](https://x.com/heyyorone/status/2092386861826404597) | **Publicado:** Aug 25, 2026
-
----
-### Live-action de Fantasia e Artes Marciais
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de artes marciais de 30 segundos utilizando múltiplas tags de referência de personagens e ambientes para um fotorrealismo de alta qualidade.
-
-#### 📝 Prompt
-
-```
-TAGS DE REFERÊNCIA
-Use: @.Aisha referência exata de personagem feminina indiana
-@.Harumin referência exata de personagem feminina coreana
-@.FrozenCourtyard referência exata de ambiente
-
-30 segundos | 16:9 | live-action de fantasia e artes marciais ultra fotorrealista |
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092335704655454208/img/Nj7whYZButRhtGQc.jpg" width="600" alt="Live-action de Fantasia e Artes Marciais">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=9826)**
-
-**Autor:** [BMX](https://x.com/bmx_ai13) | **Fonte:** [Link](https://x.com/bmx_ai13/status/2092338324681937280) | **Publicado:** Aug 25, 2026
-
----
-### POV de cockpit de nave espacial futurista
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt em primeira pessoa para o Seedance 2.0 e GPT Image-2, retratando um piloto dentro do cockpit de uma nave espacial com vista para uma cidade cyberpunk neon.
-
-#### 📝 Prompt
-
-```
-POV do assento do piloto dentro do cockpit de uma nave espacial de assento único, olhando através do para-brisa. Enquadramento médio: mãos no manche, painel iluminado em primeiro plano; metrópole noturna futurista além dos arranha-céus, tráfego aéreo denso, sinalização neon, reflexos das ruas molhadas lá embaixo. Pilota jovem implícita como observadora; visível apenas através das mangas/luvas/reflexos no vidro: traje de voo elegante em branco e cinza, luvas táteis com micro LED, maquiagem sutil em tons frios, rabo de cavalo baixo, postura confiante e firme, tensão calma. Iluminação: luz fria do painel, brilho periférico da cidade, névoa atmosférica, reflexos no para-brisa, brilhos neon difusos, ruído mínimo. Atmosfera: ficção científica minimalista e limpa, suspense silencioso, serenidade de alta tecnologia, paleta estéril e linhas limpas inspiradas em Oblivion. Virtual ARRI Alexa 65, 35mm 2× anamórfica, T2.0, ISO 800, 1/48s, 9:16, profundidade de campo rasa, bokeh oval, granulação de filme sutil, perfil log, HDR.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092320748320813056/img/HHhbABI83rIAxuuo.jpg" width="600" alt="POV de cockpit de nave espacial futurista">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=9810)**
-
-**Autor:** [LANDCÄSTER.EXE](https://x.com/LANDCASTER_92) | **Fonte:** [Link](https://x.com/LANDCASTER_92/status/2092320917762314666) | **Publicado:** Aug 25, 2026
-
----
-### Curta de anime em salão japonês
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt cinematográfico em estilo anime para um clipe de 15 segundos apresentando um holofote dramático em um grande salão japonês.
-
-#### 📝 Prompt
-
-```
-Clipe de curta-metragem em estilo anime cinematográfico, 15 segundos. Interior estilo House of Blue Leaves, grande salão japonês escuro, um único holofote dramático cortando a escuridão e iluminando o centro do piso, paredes escuras e pilares visíveis nas sombras, inimigos
-```
-
-<img src="https://pbs.twimg.com/media/HQlX46rW8AAp9bI.jpg" width="600" alt="Curta de anime em salão japonês">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=9825)**
-
-**Autor:** [TechieSA](https://x.com/TechieBySA) | **Fonte:** [Link](https://x.com/TechieBySA/status/2092300473365942757) | **Publicado:** Aug 25, 2026
-
----
-### Fantasia de Congelamento de Tempo da Sacerdotisa Escarlate
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Uma sequência de fantasia cinematográfica de tirar o fôlego, onde uma maga para o tempo durante uma tempestade para reconstruir uma árvore estilhaçada.
-
-#### 📝 Prompt
-
-```
-Crie uma sequência de fantasia cinematográfica live-action ultra-fotorrealista de 15 segundos, com múltiplos planos e proporção 16:9. A sequência deve parecer uma cena real de filme live-action de alto nível, filmada em locação com um artista real e figurino prático. Realismo fotográfico absoluto. Sem visual 3D, sem sensação de CGI, sem renderização de motor de jogo, sem vegetação de plástico, sem superfícies sintéticas, sem estética de ilustração de fantasia. Textura de pele natural, fibras têxteis visíveis, comportamento de tecido pesado, musgo úmido, casca irregular, gotas realistas, vento fisicamente crível, gravidade real, inércia verdadeira, comportamento de lente cinematográfica, granulação de filme sutil, gradação de cor cinematográfica contida. Conceito central: uma violenta tempestade sobrenatural atravessa a floresta. A maga levanta seu cajado bem alto no ar para parar o tempo. No exato momento em que o cajado atinge o ponto mais alto, o tempo congela instantaneamente ao seu redor: chuva, folhas, galhos quebrados, casca, lascas de madeira, musgo, gotas e detritos ficam suspensos e imóveis no ar. Importante: a maga não está congelada. Apenas ela permanece viva e se movendo fora do tempo parado. Seu cabelo continua a fluir ao vento, sua imensa vestimenta vermelha continua a ondular e respirar com peso natural, e ela pode mover a mão pelo mundo congelado. A câmera desliza pela tempestade suspensa em detalhes macro, então revela ela tocando suavemente uma gota congelada com as pontas dos dedos. Ela fecha os dedos, e toda a floresta retrocede violentamente. Tomada final: uma árvore gigantesca e estilhaçada se reconstrói ao seu redor em um espetáculo live-action de tirar o fôlego. TOMADA 1 — 0,0–2,0 s. Tomada de estabelecimento cinética ampla na floresta, sensação de lente 28mm, câmera movendo-se através das árvores enquanto uma violenta tempestade sobrenatural atravessa a paisagem. Galhos chicoteiam, folhas espiralam, chuva e spray explodem pelo quadro, cascas soltas e lascas voam pelo ar, samambaias se dobram sob força súbita. A maga está à frente, à distância, como uma silhueta vermelha vívida contra a floresta verde escura. A tempestade é caótica, pesada e fisicamente crível. TOMADA 2 — 2,0–4,0 s. Tomada dramática de ângulo baixo, média-ampla. A maga levanta poderosamente seu cajado alto coberto de musgo acima da cabeça em direção ao céu. Sua postura é firme e soberana. Sua expressão é calma, focada e absoluta. Vento forte sopra através de seu longo cabelo vermelho e das pesadas fibras de sua capa, fazendo-os fluir e tremular com peso e textura reais. Ela está viva, poderosa e dinâmica. A tempestade continua a rugir violentamente ao seu redor enquanto ela completa o gesto ascendente. TOMADA 3 — 4,0–5,0 s. Close extremo no cajado levantado no ar e em sua mão segurando-o. No pico exato do gesto, o tempo para instantaneamente. Congelamento sobrenatural rígido. Gotas de chuva, folhas, fragmentos de casca, gravetos, partículas de lama e musgo rasgado tornam-se perfeitamente suspensos no ar. O ambiente congela absolutamente. Importante: apenas o mundo congela. A maga permanece não congelada, respirando sutilmente, com o cabelo e a vestimenta ainda se movendo em um vento residual misterioso. TOMADA 4 — 5,0–7,0 s. Tomada de travessia macro pela tempestade congelada. A câmera se move lenta e elegantemente através de gotas suspensas, folhas rasgadas, lascas de madeira, aglomerados de musgo úmido e partículas de solo no ar, tudo perfeitamente imóvel. Profundidade de campo rasa e foco seletivo delicado. Água, fibras de casca e texturas de plantas hiperdetalhadas. Ao fundo, a maga permanece o único elemento em movimento no quadro, seu cabelo vermelho flutuando suavemente e sua capa respirando ao vento enquanto todo o resto está congelado no tempo. TOMADA 5 — 7,0–9,5 s. Close íntimo em transição de macro para retrato. A câmera passa na frente do rosto da maga enquanto ela estende lentamente uma mão no ar congelado. Ela toca suavemente uma única gota de água suspensa com as pontas dos dedos. A gota permanece perfeitamente suspensa no espaço enquanto sua mão se move livremente ao redor dela. Seu rosto está vivo, calmo e controlado, não congelado. Seus olhos estudam a gota com domínio silencioso. Mechas de cabelo vermelho se movem sobre o capuz e as bochechas, e as bordas de sua vestimenta ondulam sutilmente. Ao seu redor, os detritos da tempestade pairam imóveis como um halo de destruição suspensa. TOMADA 6 — 9,5–12,0 s. Tomada dinâmica de close com ângulo de câmera levemente orbital. Após tocar a gota, a maga fecha lentamente os dedos. Nesse exato momento, o mundo inteiro inverte a direção violentamente. Todos os elementos suspensos aceleram para trás através de seus caminhos originais: gotas voam de volta para fluxos de chuva, lascas retornam para os galhos, fragmentos de casca se reconectam, folhas retrocedem pelo ar, lama e musgo voltam para o lugar. O movimento reverso deve parecer um verdadeiro retrocesso do tempo, não apenas objetos se movendo para trás. A maga permanece centrada e controlada enquanto a floresta se cura ao seu redor. TOMADA 7 — 12,0–15,0 s. Grande tomada final, composição dramática de ângulo baixo para média-ampla centrada na maga. Ao redor e atrás dela está uma árvore gigantesca que havia sido violentamente estilhaçada pela tempestade. Em movimento reverso, fragmentos colossais de tronco, placas de casca, fibras internas de madeira, galhos, musgo e detritos se remontam ao seu redor em escala monumental. A árvore antiga se reconstrói completamente, selando-se e tornando-se inteira novamente enquanto ela permanece sob ela com seu cajado ainda levantado ou começando a baixar, cabelo e vestimenta ainda movidos pelo vento persistente. Termine com uma majestosa composição completa: a árvore imponente restaurada envolvendo sua presença, a tempestade desaparecida, a floresta retornando a uma imobilidade impossível, e a maga como a única força viva além do tempo. A linguagem da câmera deve ser variada e proposital ao longo da sequência: tomada ampla impulsionada pela tempestade, gesto heroico em ângulo baixo, tomada de gatilho em close extremo, travessia macro por detritos congelados, interação íntima de rosto e mão, tomada de retrocesso dinâmico e revelação final monumental. Cada ângulo deve parecer deliberado, original, cinematográfico e digno de um grande diretor de cinema. Mantenha o fenômeno sobrenatural fundamentado no realismo. O efeito impossível deve emergir de materiais físicos totalmente críveis: água, madeira, casca, musgo, folhas, névoa, tecido, solo e ar. Sem feixes de magia brilhantes, sem explosões de energia de fantasia, sem hologramas, sem sobrecarga de efeitos visuais estilizados. O poder é expresso através do controle do tempo, contraste de movimento, interação tátil com matéria congelada e reversão física. Regra visual importante: uma vez que o tempo é parado, todos os elementos ambientais devem estar perfeitamente congelados, mas a maga deve permanecer sutilmente animada. Seu cabelo se move ao vento, sua capa e vestimenta fibrosa continuam a ondular naturalmente, e ela pode deliberadamente estender a mão e tocar uma gota suspensa. Sem texto, sem títulos, sem legendas, sem logotipo, sem marca d'água, sem interface visível, sem desvio de identidade, sem mudança de figurino, sem mudança de cajado, sem personagem duplicado, sem mãos malformadas, sem dedos extras, sem pele sintética, sem movimento de desenho animado, sem fundo de baixo detalhe. Sem música, sem legendas.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092285328849580032/img/I26MyE0vA2M6kDyb.jpg" width="600" alt="Fantasia de Congelamento de Tempo da Sacerdotisa Escarlate">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=9822)**
-
-**Autor:** [Minuit](https://x.com/minuitIA) | **Fonte:** [Link](https://x.com/minuitIA/status/2092285935056568787) | **Publicado:** Aug 25, 2026
-
----
-### Animação de Personagem Surreal com Cabeça de Árvore
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt que descreve um personagem surreal cuja cabeça em forma de árvore atrai um grande bando de pássaros, causando movimentos de comédia física.
-
-#### 📝 Prompt
-
-```
-Mantenha exatamente o mesmo estilo visual. Personagem: @[image1]. A árvore que cresce em sua cabeça subitamente se enche de pássaros migratórios. O peso combinado deles inclina sua enorme cabeça para o lado, arrastando seu corpo minúsculo pela paisagem. Ele tenta sacudi-los para se soltar, mas acaba atraindo ainda mais pássaros. Finalmente, ele se posiciona ao lado de um penhasco onde todo o bando levanta voo simultaneamente, fazendo sua cabeça voltar à posição vertical como uma mola solta.
-```
-
-<img src="https://pbs.twimg.com/media/HQlK5AVXcAABc5d.jpg" width="600" alt="Animação de Personagem Surreal com Cabeça de Árvore">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=9834)**
-
-**Autor:** [AIrina (Virtual Media Net)](https://x.com/airina_xyz) | **Fonte:** [Link](https://x.com/airina_xyz/status/2092285455941152842) | **Publicado:** Aug 25, 2026
-
----
 ---
 
 ## 📚 Mais prompts disponíveis
@@ -3602,6 +3643,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-09-03T03:31:37.129Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-09-04T03:28:37.048Z</sub>
 
 </div>
