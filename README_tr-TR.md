@@ -68,9 +68,9 @@ Neden galerimizi kullanmalısınız?
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **6278** |
+| 📝 Toplam İstem | **6281** |
 | ⭐ Öne Çıkan İstemler | **6** |
-| 🔄 Son Güncelleme | **2026-09-04** |
+| 🔄 Son Güncelleme | **2026-09-05** |
 
 ---
 
@@ -361,6 +361,81 @@ Ultra gerçekçi, Hızlı ve Öfkeli esintili enerji, fotogerçekçi aydınlatma
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Okul Öncesi Kelime Öğrenme Posteri
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Meyveleri öğrenmek için tasarlanmış, eğitici düzenlere ve yüksek kaliteli fotoğraflara sahip, çocuk dostu, temiz ve modern bir kelime posteri.
+
+#### 📝 İstem
+
+```
+Basit bir görsel öğrenme kartından esinlenerek, okul öncesi/anaokulu çocukları için temiz ve çocuk dostu bir eğitici kelime posteri oluşturun.
+
+Sol tarafta ana büyük gerçekçi nesne olarak [MEYVE] öğesini öne çıkarın ve sağ tarafta aynı meyvenin bir [PARÇA / DİLİM / BÖLÜM] kısmını gösterin. İkisini eğlenceli, noktalı ve kavisli bir okla ve daha küçük parçayı işaret eden minik, basit bir çöp adam çocuk figürüyle birbirine bağlayın.
+
+Üst kısma büyük, kalın ve büyük harflerle “[MEYVE ADI]” kelimesini, daha küçük görselin altına ise yine büyük, kalın ve büyük harflerle “[PARÇA ADI]” kelimesini ekleyin. Yumuşak beyaz ve çok açık pastel mavi bir arka plan, yuvarlatılmış görsel panelleri, temiz boşluklar, gerçekçi meyve fotoğrafları, basit mavi tipografi ve minimal, eğlenceli illüstrasyonlar kullanın.
+
+Genel tasarım parlak, eğitici, modern, düzenli ve küçük çocukların kolayca anlayabileceği, premium bir okul öncesi kelime öğrenme kartı gibi hissettirmelidir. Dikey 4:5 kompozisyon, yüksek çözünürlük, yumuşak aydınlatma, net etiketler, gereksiz süslemelerden kaçınılmıştır.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095749270364368896/img/70QIbvdUo8O0Apo-.jpg" width="600" alt="Okul Öncesi Kelime Öğrenme Posteri">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10301)**
+
+**Yazar:** [AsmatAi](https://x.com/AsmatAi786) | **Kaynak:** [Link](https://x.com/AsmatAi786/status/2095749328102936937) | **Yayınlandı:** Sep 4, 2026
+
+---
+### 1990'lar Hi8 Ev Videosu Tarzı Çocuk
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 1990'ların nostaljik Hi8 video estetiğine sahip; tatilinde mini yarış arabasıyla oynayan Japon bir çocuğun, otantik lo-fi dokular ve doğal hareketlerle yakalandığı bir video istemi.
+
+#### 📝 İstem
+
+```
+[Genel Bakış] 9 yaşındaki bir çocuğun motorlu mini arabasına ve pistine olan tutkusunu konu alan 1990 yılına ait bir tatil anısı. Babası, onu uzaktan konuşmadan bir Hi8 video kamera ile kaydediyor. 480p, 16:9, 15 saniye. 7 farklı konumda 7 sert kesim çekim. Geçiş efekti yok. Özne kamerayı fark etmiyor. Diyalog veya dış ses yok.
+
+[Özne] Sevimli bir Japon çocuk. Yüz: dağınık siyah saç, yuvarlak yüz, büyük çift kapaklı gözler, çiller, büyük ön dişler, bronz ten. Kıyafet: kırmızı sweatshirt, mavi kot pantolon, beyaz spor ayakkabı, kırmızı şapka. Aksesuarlar: küçük tornavida, avuç içi kadar mini araba. Alışkanlık: konsantre olduğunda dilini dışarı çıkarması.
+
+[Zaman Çizelgesi/Konum/Işık] İlkbahar 1990. 1. Kahvaltı masası. 2. Odadaki çalışma masası. 3. Oturma odasındaki pist. 4. Parktaki kum havuzu. 5. Evin önünde araba yıkama. 6. Veranda (akşam). 7. Gece televizyonun önü.
+
+[Kamera] 1990 Hi8 estetiği: renk taşmaları, düşük çözünürlük, kolay aşırı pozlama, yumuşak hatlar. Elde çekim, doğal sarsıntı, kusurlu kompozisyon. Sabitleyici, drone veya ağır çekim yok.
+
+[Çekimler] 1. Kahvaltı: Süt içip ağzını silme. 2. Masa: Tornavida ile arabayı sıkıştırma. 3. Pist: Başlangıcı takip etme, kaybetme ve başını ellerinin arasına alma. 4. Kum havuzu: Kumdan pist yapma. 5. Araba yıkama: Yanlışlıkla hortumla babasını ıslatma. 6. Veranda: Parçaları dizme ve üzerlerine üfleme. 7. TV: Kumandayı tutarak uyuyakalma. 0:14'te ani kayıt kararması.
+
+[Fizik] Gerçekçi fizik kuralları. Bozuk anatomi veya havada asılı nesne yok. Kıyafetler boyunca tutarlı.
+
+[Ses] Doğal ortam sesleri: tabak tıkırtıları, motor sesleri, su, babanın gülüşü. Müzik yok.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094090513112776704/img/_6R1b60uq3Tz4_Oo.jpg" width="600" alt="1990'lar Hi8 Ev Videosu Tarzı Çocuk">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10302)**
+
+**Yazar:** [妖精アーヤ](https://x.com/aiehon_aya) | **Kaynak:** [Link](https://x.com/aiehon_aya/status/2095632939199443237) | **Yayınlandı:** Sep 3, 2026
+
+---
+### Sinematik Anime Hong Kong Masaj Salonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Hong Kong'da bir masaj salonunda geçen, sıcak ışıklandırma ve geleneksel dekoratif panellere sahip 15 saniyelik bir klip için sinematik anime video istemi.
+
+#### 📝 İstem
+
+```
+Sinematik anime kısa film klibi, 15 saniye. Heaven on Earth masaj salonu, Hong Kong, krem ve bej duvarlar, beyaz geometrik Çin dekoratif panelleri, krem rengi yatar koltuk sıraları, alçak yan sehpalar, yumuşak sıcak ışıklandırma, cilalı zemin.
+```
+
+<img src="https://pbs.twimg.com/media/HRTD-lJbYAAz06R.jpg" width="600" alt="Sinematik Anime Hong Kong Masaj Salonu">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10299)**
+
+**Yazar:** [TechieSA](https://x.com/TechieBySA) | **Kaynak:** [Link](https://x.com/TechieBySA/status/2095515266532651349) | **Yayınlandı:** Sep 3, 2026
+
+---
 ### 3D Animasyonlu Pixar Tarzı Pasta Yapımı Kısa Filmi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -512,6 +587,31 @@ Yüksek kaliteli anime videosu. Kentsel fantezi aksiyon RPG oyunundan, sessiz bi
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10257)**
 
 **Yazar:** [mayv](https://x.com/haruuraeadss) | **Kaynak:** [Link](https://x.com/haruuraeadss/status/2095347991016280457) | **Yayınlandı:** Sep 3, 2026
+
+---
+### Anime Editöryel Moda Filmi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Aria adında bir karakterin yer aldığı, anime tarzı bir moda editörü için sofistike bir video istemi. 15 saniyelik kesintisiz bir çekim için belirli pozları, BPM ile senkronize kamera hareketlerini ve hassas aydınlatmayı detaylandırır.
+
+#### 📝 İstem
+
+```
+Yüksek moda anime editöryel filmi, on hassas poz boyunca akıp giden bir kadını konu alıyor. aria yüzünü, saçını, çillerini ve kimliğini; ariaoutfit ise tüm kıyafetini, aksesuarlarını ve vücut oranlarını tanımlar. Referans arka planların her ikisini de yok sayın ve yeni aksesuar eklemeyin. Saç tokasıyla tutturulmuş katmanlı kırmızıdan pembeye dönen saçları, kehribar rengi gözleri, hafif çilleri, ince siyah bir gerdanlığı, kollarında ve sağ omzunda mürekkep dövmeleri, bir omzu açıkta bırakan büyük beden gri bir grup tişörtü, siyah bisikletçi şortu, ince bir bacak bandı ve çıplak ayakları var. Temiz mürekkep çizgileri ve düz gölge bloklarıyla cel-shaded anime illüstrasyonu olarak oluşturun.
+
+Film, 128 BPM hızında, minimal beyaz bir siklorama içinde; sert flaşlar, hafif pus, parlak zemin yansımaları, saten bir çarşaf ve etrafa saçılmış prova kağıtları eşliğinde 15 saniyelik kesintisiz tek bir çekimle ilerliyor. Kamera, pozlar arasında hızlanan ve her duruşta sert bir şekilde fren yapan fiziksel olarak sürekli bir yolu takip ediyor.
+
+0:00-0:01.5: Poz 1, ortalanmış frontal MCU, bir el kulağının yanındaki saçı düzeltiyor, kontrollü bir yakınlaşma (push-in). 0:01.5-0:03.0: Poz 2, çene yukarıda üç çeyrek açı; Poz 3, bakışlar aşağıda, her iki el yaka ve saç yakınında; kamera hızlı bir yay çizerek aşağı iner ve gözlerinde duraksar. 0:03.0-0:04.5: Poz 4, tam sol profil; Poz 5, bir omuz öne doğru yuvarlanırken tişörtün düşük omuz kenarı keskin bir yan ışık yakalar; kamera yanağından hızla geçer. 0:04.5-0:06.0: Poz 6, belindeki tişörtün bir katını toplar; Poz 7, omzunun üzerinden bakış; kamera gövde seviyesine dalar ve yakın bir yüz geçişine yükselir. 0:06.0-0:07.5: Poz 8, bir dizi havada saten çarşafın üzerine çöker; Poz 9, ön planda lensi domine eden uzatılmış bir çıplak ayak; kamera zemin seviyesinde ileri doğru fırlar. 0:07.5-0:09.0: Poz 10, üç çeyrek duruş, bir el köprücük kemiğinde, tişörtün eteği uyluğunu sıyırıyor; kamera bel hattı boyunca kayarak portre duruşuna geçer. 0:09-0:11.0: içe doğru kapanır, bir nefeslik gözlerini kapatır, ardından uzun bir esnemeyle açılır; sıkı yörünge. 0:11.0-0:13.0: çene hattı ve tişört yakasının aynı flaşı yakalaması için yeterince dönen arka üç çeyrek omuz silüeti. 0:13.0-0:15.0: kamera gözlerinin yanından sıyırarak geçer, dışa doğru yay çizer ve lensin içine bakarak baskın bir tam vücut pozunda yere indiğinde alçalır, finaldeki beyaz flaş patlaması altında temiz ve geniş bir duruşla sona erer.
+
+Pürüzsüz bir 24-85mm zoom hissi, sert ön flaşlar, keskin yan kenar ışığı, deklanşör sesleri, nefes, saç hareketi ve kumaş hışırtısı kullanın. Karakterin kimliğini, anatomisini, saç stilini, kıyafetini, aksesuarlarını, dövme yerleşimini ve anime tarzını baştan sona sabit ve tutarlı tutun.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095296513157349376/img/yLh-DtXC-IBKpsv6.jpg" width="600" alt="Anime Editöryel Moda Filmi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10303)**
+
+**Yazar:** [Borderless 🌐](https://x.com/BorderleSint) | **Kaynak:** [Link](https://x.com/BorderleSint/status/2095298275175739702) | **Yayınlandı:** Sep 2, 2026
 
 ---
 ### Anime Özel Saldırı Sinematiği
@@ -749,70 +849,6 @@ Kesit 2: Nia 02, önceki hologramı büyüterek işlem yapıyor. Görsel 2. Nia 
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10223)**
 
 **Yazar:** [咲山(AIイラスト・AI動画垢)](https://x.com/z933TfmXkaISSVc) | **Kaynak:** [Link](https://x.com/z933TfmXkaISSVc/status/2094776654380126351) | **Yayınlandı:** Sep 1, 2026
-
----
-### Duş Sonrası Günlük Rutin Videosu
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Seedance 2.5 için, bir kadının duş sonrası sessiz sabah rutinini betimleyen, ince hareketlere ve doğal ışığa odaklanan gerçekçi bir tek plan video istemi.
-
-#### 📝 İstem
-
-```
-En Boy Oranı: 9:16, orijinal kompozisyona sadık kalınacak
-Çekim biçimi: Tek plan, kesintisiz çekim, geçiş yok
-Genel atmosfer: Duş sonrası sessiz günlük yaşam, gerçek ve doğal, ölçülü ve rahat, yapay bir performans yok
-
-## İlk Kare Sabitleme
-0. saniye `@Image 1` ile tam olarak eşleşmelidir: Yetişkin kadının yüz kimliğini, ten rengini, vücut oranlarını, ıslak siyah saçlarını, açık gri-mor ince askılı ev elbisesini, omuzlarındaki krem rengi banyo havlusunu ve mevcut duruşunu koruyun.
-Sağ el başın arkasındaki ıslak saçta kalmalı, sol el doğal bir şekilde aşağı sarkmalıdır; baş ekranın soluna doğru dönük, gözler banyonun dışına bakıyor olmalıdır. Cilt ve köprücük kemiği üzerindeki küçük su damlacıklarını, ıslak saçın demetler halindeki ağırlığını ve banyonun soğuk ışığı ile yatak odasının sıcak ışığının oluşturduğu soğuk-sıcak kontrastını koruyun.
-
-## 0.0–0.8 saniye | Hareketsizlik sonrası nefes alış
-Ekran, kompozisyon sıçraması olmadan doğrudan orijinal görüntüden başlamalıdır.
-Kişi orijinal duruşunu korur ve doğal bir nefes alışla göğüs kafesinde çok hafif hareketlenmeler olur. Bakışlar hala ekranın sol tarafında kalır, ifade sakindir ve dudaklar doğal bir şekilde hafif aralıktır.
-Sağ elin parmakları hala ıslak saçla temas halindedir, sadece parmak uçlarında hafif ayarlamalar yapılır. Islak saç ve banyo havlusu yerçekimi etkisiyle doğal bir şekilde sarkar ve aniden sallanmaz.
-Lens sabittir, sadece çok hafif, gerçek bir elde çekim nefes alma hissi korunur.
-
-## 0.8–2.8 saniye | Islak saçı düzeltme
-Kişinin sağ el parmakları yavaşça başın arkasındaki ıslak saçların arasından geçer ve küçük bir tutam saçı geriye doğru toplar. Hareket nazik ve süreklidir, başı sertçe sarsmaz.
-Baş, el hareketiyle birlikte hafifçe sağa yatar, genlik çok küçüktür; bakışlar hala solda kalır, kameraya önceden bakılmaz.
-Hareket eden ıslak saçlar, parmak hareketini yarım saniyelik bir gecikmeyle takip eder ve yüzün yanına ve boyna yapışan birkaç ıslak saç teli doğal bir şekilde ayrılır. Küçük bir su damlası yavaşça boynun yanından aşağı kayar ve sıcak ışıkta kısa bir an parlar.
-Banyo havlusu sadece hafif kırışıklık değişimleri gösterir ve her iki omuzda da sabit kalır.
-
-## 2.8–4.6 saniye | Bakışları yavaşça geri çekme
-Saçı toplama işlemi bittikten sonra, sağ el ense ile saçın birleştiği noktada durur, hemen aşağı indirilmez.
-Kişi önce bakışlarını uzaklardan ön tarafa ve hafif sola doğru yavaşça çevirir, ardından başı da hafifçe geri döner. Doğal bir şekilde bir kez göz kırpar ve hafifçe nefes verir; nefes vermeyle birlikte omuzlar ve boyun hafifçe gevşer.
-İfade belirgin bir gülümseme içermez, sadece duş sonrası sessizliği, rahatlığı ve biraz düşünceli hali korur. Dudaklar nefes verdikten sonra doğal bir şekilde kapanır.
-Lens çok yavaş bir şekilde yakınlaşmaya başlar; altı saniye içinde orijinal karenin %5'ini geçmeyecek bir ilerleme genliği ile karakterin ana vücut oranlarını değiştirmeden hareket eder.
-
-## 4.6–6.0 saniye | Hareketin sonlanması
-Sağ el ıslak saçtan enseye doğru yavaşça kayar ve sonunda banyo havlusunun kenarında nazikçe durur, tamamen aşağı bırakılmaz.
-Kişi rahat bir duruş sergiler, bakışlar kameranın sol tarafına yakın bir yere düşer ancak doğrudan kameraya bakılmaz. Sol elin parmakları doğal bir şekilde gevşer ve vücudun ağırlık merkezi sadece hafif ayarlamalar yapar.
-Islak saçlar hareket bittikten sonra doğal bir şekilde boynun yanına geri yapışır ve banyo havlusunun kırışıklıkları yavaşça sabitlenir. Son olarak, sessiz ve yaşamdan bir bitiş karesi oluşturmak için yaklaşık yarım saniye bekleyin.
-
-## Ses Tasarımı
-Banyo havalandırma fanının düşük frekanslı çalışmasını, uzaktan gelen küçük damlama seslerini, ıslak saç ve parmakların hafif sürtünme seslerini ve havlu hareket ettiğinde çıkan yumuşak kumaş seslerini koruyun.
-Diyalog, dış ses, arka plan müziği veya altyazı yoktur.
-
-## Süreklilik ve Yasaklı Öğeler
-- Karakterin yüzü, hatları, ten rengi, vücut tipi ve yaş algısı boyunca tutarlıdır.
-- Islak saçın uzunluğu, rengi ve ıslaklık durumu değişmeden kalır; aniden kurumaz, çoğalmaz veya saç modeli değişmez.
-- Ev elbisesinin rengi, kesimi, askı pozisyonu ve örtücülük durumu sabit kalır; kaymaz veya deforme olmaz.
-- Banyo havlusu her zaman her iki omuzda kalır; kaybolmaz, renk değiştirmez veya aniden düşmez.
-- Su damlacıkları sadece yavaşça aşağı kayabilir; aniden çoğalmaz, parlamaz veya tamamen yok olmaz.
-- Kapı çerçevesini, banyoyu, yatak odasındaki yatağı ve soğuk-sıcak ışık yönünü orijinal görüntüdeki gibi koruyun.
-- Yeni karakterler, ayna yansımaları, cep telefonları, takılar veya başka aksesuarlar eklemeyin.
-- Baş sallama, saç savurma, abartılı göz kırpma, ani gülümsemeler veya doğrudan kameraya bakma gibi yapay performanslar kullanmayın.
-- Vücudun bölümlerine yakınlaşmayın, orijinal görüntünün doğal, yaşamdan çekim perspektifini değiştirmeyin.
-- Yüz kayması, parmak deformasyonları, fazladan uzuvlar, kıyafet kırpılması ve arka plan yapısının bozulmasından kaçının.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094770077182971905/img/i-Pc-5kGJaWbXfZ1.jpg" width="600" alt="Duş Sonrası Günlük Rutin Videosu">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10218)**
-
-**Yazar:** [李岳](https://x.com/liyue_ai) | **Kaynak:** [Link](https://x.com/liyue_ai/status/2094773618685403149) | **Yayınlandı:** Sep 1, 2026
 
 ---
 ### Doğal Göl Kenarı Fotoğraf Çekimi Vlog'u
@@ -3501,63 +3537,6 @@ DÜNYA: alacakaranlıkta yıkık dökük dağ manastırı avlusu, kırık taş s
 **Yazar:** [PixieVerse](https://x.com/itsPixieVerse) | **Kaynak:** [Link](https://x.com/itsPixieVerse/status/2092439850184249474) | **Yayınlandı:** Aug 26, 2026
 
 ---
-### İstanbul Fotoğrafçı Yaşam Tarzı Vlog'u
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Tarihi İstanbul'da bir fotoğrafçının fotogerçekçi vlog'unu oluşturmak için referans görseller kullanan çok çekimli bir Seedance 2.5 istemi.
-
-#### 📝 İstem
-
-```
-Ultra fotogerçekçi, sinematik ve profesyonel bir fotoğrafçı yaşam tarzı vlog'u oluşturun. HİKAYE: Profesyonel bir kadın fotoğrafçı evde kamera ekipmanlarını hazırlar, tarihi İstanbul'a seyahat eder, tarihi sokaklarda kadın bir modeli fotoğraflar, fotoğrafları kamerasından inceler ve güzel tarihi bölgede yürüyerek günü bitirir. REFERANS ÖNCELİĞİ: @IMG1 = ANA KADIN FOTOĞRAFÇI @IMG2 = İSTANBUL TARİHİ MEKAN @IMG3 = PROFESYONEL KAMERA EKİPMANI @IMG4 = FOTOĞRAFÇI + MODEL ÇEKİMİ @IMG5 = FOTOĞRAF İNCELEME @IMG6 = FİNAL İSTANBUL YÜRÜYÜŞÜ KARAKTER TUTARLILIĞI: @IMG1'deki AYNISI kadın video boyunca görünmelidir. Yüzünü, yüz hatlarını, saç stilini, cilt tonunu, vücut oranlarını, yaş görünümünü ve genel kimliğini tam olarak koruyun. Video boyunca fotoğrafçı olarak kalmalıdır. Kıyafetini, kamera çantasını ve profesyonel görünümünü tutarlı tutun. -------------------------------------------------- 0–4 SANİYE — EVDE HAZIRLIK @IMG1 + @IMG3 kullanın. Sabahın erken saatleri. Fotoğrafçı evde çekime hazırlanıyor. Kamera çantasını açıyor. Profesyonel kamerayı kontrol ediyor. Bataryayı ve hafıza kartını kontrol ediyor. @IMG3'te gösterilen 24–70mm lensi dikkatlice takıyor. Kamerayı omuz çantasına yerleştiriyor. Çantasını alıyor ve evden çıkmaya hazırlanıyor. KAMERA: Kamera, lens ve aksesuarların hızlı sinematik yakın planları. Ardından evden çıkışını gösteren orta ölçekli bir çekim. Sekansı doğal ve akıcı tutun. -------------------------------------------------- 4–8 SANİYE — İSTANBUL'A VARIŞ @IMG1 + @IMG2 kullanın. Doğal bir geçişle tarihi İstanbul'a geçiş yapın. Fotoğrafçı Sultanahmet tarihi bölgesine varıyor. Kamera çantasını taşıyarak Arnavut kaldırımlı sokakta yürüyor. Mimariye bakıyor. Çekim için güzel bir yer seçiyor. Kamerayı çantasından çıkarıyor. KAMERA: Tarihi İstanbul mimarisini gösteren geniş bir genel çekim. Ardından fotoğrafçıyı takip eden orta ölçekli bir takip çekimi. -------------------------------------------------- 8–13 SANİYE — ÇEKİM HAZIRLIĞI @IMG1 + @IMG2 + @IMG3 + @IMG4 kullanın. Kadın model geliyor. Fotoğrafçı, modeli tarihi İstanbul mimarisine karşı konumlandırıyor. Kamera ayarlarını kontrol ediyor. Lensi ayarlıyor. Kamerayı göz hizasına kaldırıyor. Modele nerede durması ve nasıl poz vermesi gerektiğini belirten hafif bir el işareti yapıyor. Model doğal bir şekilde yanıt veriyor. KAMERA: Fotoğrafçı ve modeli gösteren orta ölçekli çekim. Kamera ve lensin kısa yakın planı. -------------------------------------------------- 13–20 SANİYE — PROFESYONEL FOTOĞRAF ÇEKİMİ @IMG4 kullanın. Fotoğrafçı profesyonel fotoğraflar çekmeye başlıyor. Model doğal bir şekilde poz veriyor. Fotoğrafçı kompozisyonu değiştirmek için hafifçe yana kayıyor. Bir portre çekimi yapıyor. Ardından konumunu değiştirip daha geniş bir çevresel çekim yapıyor. Sonra dramatik bir düşük açılı fotoğraf yakalamak için kısa süreliğine çömeliyor. Model doğal ve kendinden emin kalıyor. Fotoğrafçı deklanşöre doğal bir şekilde basıyor. KAMERA: Şunlar arasında geçiş yapın: fotoğrafçı bakış açısı, yan açı, omuz üstü kamera çekimi, düşük açılı fotoğrafçılık pozisyonu, tarihi mimariyi gösteren geniş çekim. Fotoğrafçılık sürecini gerçekçi tutun. -------------------------------------------------- 20–25 SANİYE — FOTOĞRAFLARI İNCELEME @IMG5 kullanın. Çekim tamamlandı. Fotoğrafçı kamerayı indiriyor. Kamera ekranını kendine doğru çeviriyor. Fotoğraflar arasında geziniyor. Kamera ekranında aynı modelin güzel bir portresini gösterin. Özellikle etkileyici bir görüntüde duruyor. Sonuçtan memnun görünüyor. Hafif, memnun bir gülümseme beliriyor. KAMERA: Orta ölçekli çekim → kamera ekranının yakın planı → fotoğrafçının memnun ifadesinin yakın planı. Kamera ekranını gerçekçi gösterin. -------------------------------------------------- 25–30 SANİYE — FİNAL YÜRÜYÜŞ @IMG6 kullanın. Fotoğrafçı kamerayı omzuna asıyor. Kamera askısını düzeltiyor. Kamera çantasını alıyor. Tarihi İstanbul sokağında sakin bir şekilde yürümeye başlıyor. Altın saat güneş ışığı binaları aydınlatıyor. Kameradan uzaklaşıyor. Kamera yavaşça geri çekilerek geniş bir sinematik çekime dönüşüyor. Tarihi sokağı, mimariyi, kubbeleri ve uzaktaki minareleri ortaya çıkarın. Fotoğrafçının güzel İstanbul ortamında küçülmesiyle bitirin. SİYAH EKRANA GEÇİŞ. -------------------------------------------------- KAMERA STİLİ: Premium sinematik seyahat-moda fotoğrafçılığı vlog'u. Akıcı takip çekimleri. Doğal el kamerası hareketi. Profesyonel belgesel tarzı kamera çalışması. Geniş genel çekimler. Orta ölçekli yaşam tarzı çekimleri. Kamera ekipmanı için yakın planlar. Omuz üstü fotoğrafçılık çekimleri. Finalde yumuşak sinematik geri çekilme. Aşırı kamera sarsıntısı kullanmayın. Gerçekçi olmayan kamera hareketlerinden kaçının. -------------------------------------------------- GERÇEKÇİLİK: Gerçekçi kamera kullanımı. Gerçekçi lens etkileşimi. Gerçekçi deklanşör operasyonu. Gerçekçi yürüyüş. Gerçekçi model pozları. Doğal insan anatomisi. Gerçekçi eller ve parmaklar. Doğal yüz ifadeleri. Gerçekçi kıyafet hareketi. Gerçekçi kamera ekranı. Doğal İstanbul ortamı. -------------------------------------------------- DEVAMLILIK: Video boyunca aynı kadın fotoğrafçı. Aynı yüz. Aynı saç stili. Aynı kıyafet. Aynı kamera. Aynı lens. Aynı kamera çantası. Aynı İstanbul konumu. Tüm çekim sahneleri boyunca aynı model. Kimlik değişimi yok. Farklı fotoğrafçı yok. Farklı model yok. Kamera değişimi yok. Aniden değişen lens yok. Yüz bozulması yok. Bozuk eller yok. Fazla parmak yok. Çizgi film yok. Anime yok. CGI görünümlü insanlar yok. Metin yok. Logo yok. Filigran yok. SON HİS: Profesyonel ve özenli bir fotoğrafçılık yaşam tarzı vlog'u. İzleyici, fotoğrafçıyı gerçek bir iş gününde takip ediyormuş gibi hissetmeli: KAMERAYI HAZIRLA → EVDE AYRIL → İSTANBUL'A VAR → ÇEKİMİ KUR → MODELİ FOTOĞRAFLA → FOTOĞRAFLARI İNCELE → UZAKLAŞ.
-```
-
-<img src="https://cms-assets.youmind.com/media/1787725958100_ifyaat_HQnDhKkagAAZMZ1.jpg" width="600" alt="İstanbul Fotoğrafçı Yaşam Tarzı Vlog'u">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=9812)**
-
-**Yazar:** [Elsa Ai](https://x.com/ElsaSofia__AI) | **Kaynak:** [Link](https://x.com/ElsaSofia__AI/status/2092418643212795940) | **Yayınlandı:** Aug 26, 2026
-
----
-### Yetişkin Kükremesini Taklit Eden Yavru Ejderha
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Büyülü bir ormanda, kadim bir ejderhanın güçlü kükremesini taklit etmeye çalışan bir yavru ejderhanın yer aldığı iç ısıtan bir 3D animasyon istemi.
-
-#### 📝 İstem
-
-```
-Koyu gri pullara ve büyük altın rengi gözlere sahip sevimli bir yavru ejderhanın, güneşli ve büyülü bir ormanda küçük kanatlarını çırptığı, geyik boynuzlu devasa ve kadim bir ejderhanın önünde durduğu sinematik 3D animasyon. Kamera, gülümseyen yavru ejderhaya yakınlaşır, ardından arkasındaki devasa ejderha çenesini açıp güçlü bir kükreme çıkardığında geri çekilir; bu sırada minik ejderha kanatlarını açarak kükremeyi taklit eder. Yosunlu zemin, parlayan mavi mantarlar, eğrelti otları, hacimsel altın ışık huzmeleri, sis, gerçekçi pul dokuları, 8k çözünürlük ve son derece detaylı fantezi tarzıyla büyülü bir ormanda geçmektedir.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092418310566727680/img/3C95A3nUScVvly1S.jpg" width="600" alt="Yetişkin Kükremesini Taklit Eden Yavru Ejderha">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=9835)**
-
-**Yazar:** [Julia](https://x.com/juliaevee) | **Kaynak:** [Link](https://x.com/juliaevee/status/2092418379315650682) | **Yayınlandı:** Aug 26, 2026
-
----
-### Glass Skin Güzellik Serumu Reklamı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Yorgun cildi ışıl ışıl, nemli ve pürüzsüz bir 'glass skin' görünümüne dönüştüren bir cilt bakım rutinini anlatan reklam sekansı.
-
-#### 📝 İstem
-
-```
-Işıl ışıl, cam gibi bir cilde sahip genç bir Doğu Asyalı kadının yer aldığı, reklam tarzında yüksek çözünürlüklü bir video sekansı. Sekans, küçük cilt kusurlarını ve çilleri gösteren yakın çekimlerle başlıyor; ardından kadının dizüstü bilgisayar başında yorgun göründüğü bir ana geçiş yapılıyor. Kadın, güneş alan mermer bir tezgahın üzerinde duran şeffaf, minimal tasarımlı bir nemlendirici yüz serumu şişesine uzanıyor. Makro yakın çekimler, şeffaf serumun avucuna dökülüşünü ve yüzüne nazikçe uygulanışını gösteriyor. Serum emildikçe, teni ışıldayan, derinlemesine nemlenmiş ve pürüzsüz bir 'glass skin' görünümüne kavuşuyor. Aydınlık, modern beyaz bir dairede, ince beyaz perdeler rüzgarda dalgalanırken kendine güvenle gülümsüyor. Yumuşak doğal ışık, estetik güzellik reklamı sinematografisi, 4K çözünürlük, 60fps, akıcı sinematik geçişler.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092417435391700992/img/F9nc4JF7hY5e1ebH.jpg" width="600" alt="Glass Skin Güzellik Serumu Reklamı">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=9832)**
-
-**Yazar:** [Lavinia](https://x.com/laviniavelle) | **Kaynak:** [Link](https://x.com/laviniavelle/status/2092417476265144705) | **Yayınlandı:** Aug 26, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -3619,6 +3598,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-04T03:28:38.188Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-05T03:30:35.790Z</sub>
 
 </div>

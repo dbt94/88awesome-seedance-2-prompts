@@ -68,9 +68,9 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **6278** |
+| 📝 Total Prompts | **6281** |
 | ⭐ Featured Prompts | **6** |
-| 🔄 Last Updated | **2026-09-04** |
+| 🔄 Last Updated | **2026-09-05** |
 
 ---
 
@@ -365,11 +365,86 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 
 > 📝 Sorted by publish date (newest first)
 
-### 3D Animated Pixar-Style Baking Short
+### Preschool Vocabulary Learning Poster
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-quality 3D animation prompt depicting a woman baking a chocolate cake in a sunlit kitchen, featuring a step-by-step sequence from cracking eggs to the final presentation.
+> A clean and modern child-friendly vocabulary poster for learning fruits, designed with educational layouts and high-quality photography.
+
+#### 📝 Prompt
+
+```
+Create a clean, child-friendly educational vocabulary poster for preschool/kindergarten children, inspired by a simple visual learning card.
+
+Feature [FRUIT] as the main large realistic object on the left, and show a [PART / SLICE / SEGMENT] of the same fruit on the right. Connect the two with a playful dotted curved arrow and a tiny simple stick-figure child pointing toward the smaller part.
+
+Add the word “[FRUIT NAME]” in large bold uppercase letters at the top and “[PART NAME]” in large bold uppercase letters underneath the smaller image. Use a soft white and very light pastel-blue background, rounded image panels, clean spacing, realistic fruit photography, simple blue typography, and minimal playful illustrations.
+
+The overall design should feel bright, educational, modern, uncluttered, and easy for young children to understand, like a premium preschool vocabulary learning card. Vertical 4:5 composition, high resolution, soft lighting, clear labels, no unnecessary decorations.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095749270364368896/img/70QIbvdUo8O0Apo-.jpg" width="600" alt="Preschool Vocabulary Learning Poster">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10301)**
+
+**Author:** [AsmatAi](https://x.com/AsmatAi786) | **Source:** [Link](https://x.com/AsmatAi786/status/2095749328102936937) | **Published:** Sep 4, 2026
+
+---
+### 1990s Hi8 Home Video Boy
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A nostalgic 1990s-style Hi8 video prompt featuring a young Japanese boy playing with a mini slot car on his holiday, captured with authentic lo-fi textures and natural movement.
+
+#### 📝 Prompt
+
+```
+[Overview] A 1990 holiday where a 9-year-old boy is obsessed with his motorized mini car and track. His father records him from a distance using a Hi8 camcorder without speaking. 480p, 16:9, 15 seconds. 7 hard-cut shots in 7 different locations. No transitions. The subject does not acknowledge the camera. No dialogue or narration.
+
+[Subject] A cute Japanese boy. Face: mash-style black hair, round face, big double-lidded eyes, freckles, large front teeth, tanned skin. Clothes: red sweatshirt, blue jeans, white sneakers, red cap. Props: small screwdriver, palm-sized mini car. Habit: sticking his tongue out when concentrating.
+
+[Timeline/Location/Light] Spring 1990. 1. Breakfast table. 2. Desk in room. 3. Living room track. 4. Park sandbox. 5. Car wash in front of house. 6. Veranda (evening). 7. In front of the TV at night.
+
+[Camera] 1990 Hi8 aesthetic: color bleeding, low resolution, easy overexposure, soft outlines. Handheld, natural shake, imperfect composition. No stabilizers, drones, or slow motion.
+
+[Shots] 1. Breakfast: Drinking milk and wiping mouth. 2. Desk: Tightening the car with a screwdriver. 3. Track: Following the start, losing, and putting head in hands. 4. Sandbox: Making a sand track. 5. Car wash: Accidentally spraying dad with a hose. 6. Veranda: Lining up parts and blowing on them. 7. TV: Falling asleep holding a controller. Recording blackouts suddenly at 0:14.
+
+[Physics] Realistic physics. No distorted anatomy or floating objects. Consistent clothing throughout.
+
+[Sound] Natural environment sounds: clinking dishes, motor sounds, water, father's laughter. No music.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094090513112776704/img/_6R1b60uq3Tz4_Oo.jpg" width="600" alt="1990s Hi8 Home Video Boy">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10302)**
+
+**Author:** [妖精アーヤ](https://x.com/aiehon_aya) | **Source:** [Link](https://x.com/aiehon_aya/status/2095632939199443237) | **Published:** Sep 3, 2026
+
+---
+### Cinematic Anime Hong Kong Massage Parlour
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic anime video prompt for a 15-second clip set in a Hong Kong massage parlour featuring warm lighting and traditional decorative panels.
+
+#### 📝 Prompt
+
+```
+Cinematic anime short film clip, 15 seconds. Heaven on Earth massage parlour, Hong Kong, cream and beige walls with white geometric Chinese decorative panels, rows of cream reclined lounge chairs, low side tables, soft warm lighting, polished floor.
+```
+
+<img src="https://pbs.twimg.com/media/HRTD-lJbYAAz06R.jpg" width="600" alt="Cinematic Anime Hong Kong Massage Parlour">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10299)**
+
+**Author:** [TechieSA](https://x.com/TechieBySA) | **Source:** [Link](https://x.com/TechieBySA/status/2095515266532651349) | **Published:** Sep 3, 2026
+
+---
+### Pixar-Style Baking Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed 3D animated sequence of a young woman baking a chocolate cake in a warm, sunlit kitchen.
 
 #### 📝 Prompt
 
@@ -384,7 +459,7 @@ She sifts white flour through a metal sieve into the wet mixture.
 She sprinkles dark cocoa powder onto the flour mound.
 She whisks everything into a rich, glossy dark chocolate batter.
 She brushes melted butter onto a rectangular metal baking pan.
-She pours the thick chocolate batter into the pan with a spatula.
+She pours the chocolate batter into the pan with a spatula.
 She slides the pan into a preheated oven.
 She looks at her wristwatch with a slightly worried expression while waiting.
 The cake rises and bakes inside the glowing oven.
@@ -394,7 +469,7 @@ She proudly presents the finished round chocolate cake on a cooling rack, smilin
 Warm, inviting, cozy cooking atmosphere, smooth camera movements, professional food-commercial quality, 8k, highly detailed.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095380971277443072/img/KvylEcPAjvIXfP2P.jpg" width="600" alt="3D Animated Pixar-Style Baking Short">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095380971277443072/img/KvylEcPAjvIXfP2P.jpg" width="600" alt="Pixar-Style Baking Animation">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10252)**
 
@@ -420,42 +495,42 @@ Cinematic realistic scene inside a modern school restroom, three teenage girls w
 **Author:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2095380638224318793) | **Published:** Sep 3, 2026
 
 ---
-### 3D Silver Tabby Brazilian Samba Dance
+### 3D Brazilian Shuffle Cat Dance
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A precise video generation prompt that uses multiple reference assets—an image for character identity, an image for scene setup, and a video for motion—to create a 3D animated cat performing samba movements.
+> A highly detailed video generation prompt for a 3D semi-realistic kitten performing the Brazilian shuffle dance, using specific reference images for character and setting and a video for motion driving.
 
 #### 📝 Prompt
 
 ```
-Generate a 15-second, 3:4 vertical, 720p, silent semi-realistic 3D cat dancing video. Fixed front full-body medium-long shot, one-shot; no cuts, zooms, pans, or tilts.
+Generate a 15-second, 3:4 vertical, 720p, silent semi-realistic 3D kitten dance video. Fixed front full-body medium-long shot, one-take; no cutting, no zooming, no panning, no focal changes.
 
-@Image1 is solely responsible for the identity of the only character: always the same slightly thin Silver Tabby kitten, maintaining a round face, grey-green large eyes, pink nose, silver-white short fur, dark grey back gradient, short legs, rounded paws, and a full thick tail. Do not use the studio background from @Image1, and do not maintain its static standing pose.
+@Image1 is solely responsible for the identity of the only character in the whole film: always the same slightly thin silver-shaded kitten, maintaining a round face, grayish-green large eyes, pink nose, silvery-white short fur, dark gray back gradient, short legs, rounded paws, and a complete thick tail. Do not use the studio background of @Image1, nor maintain its static standing pose.
 
-@Image2 is solely responsible for the scene, composition, and lighting: always maintaining the same cream-colored seaside living room, window, curtains, sofa, stool, cabinet, lamp, sea view, dusk sky, wooden floor perspective, and left-side golden sunlight; furniture and background remain stable throughout.
+@Image2 is solely responsible for the scene, composition, and lighting: always maintaining the same cream-colored seaside living room, windows, curtains, sofa, round stool, low cabinet, desk lamp, sea view, sunset sky, wooden floor perspective, and golden sunlight on the left; furniture and background remain stable throughout.
 
-@Video1 is the sole motion timeline and action driving reference. Strictly follow the full action sequence of @Video1 from 0.00s to 15.00s, including start/end times, limb relationships, foot placements, center of gravity shifts, body sinking/rebounding, paw trajectories, head movements, blinking, closing eyes, opening mouth, sticking out tongue, and the final pose. Actions must occur continuously in the original order; do not re-choreograph, re-arrange, simplify, average, loop, omit, or add actions. Only reference the motion, expression, amplitude, fixed camera, and rhythm of @Video1; never reference the frog character, green appearance, skin texture, beach, waves, sand, or lighting.
+@Video1 is the only motion timeline and motion drive reference for the whole film. Strictly follow the complete sequence of actions from 0.00s to 15.00s of @Video1, the start and end moments of each action, left and right limb relationships, foot placement, center of gravity switching, body sinking and rebounding, forelimb trajectory, head swinging, blinking, closing eyes, opening mouth, sticking out tongue, and the final closing pose. Actions must occur continuously in the original order of @Video1, without re-choreographing, rearranging, simplifying, averaging, looping, omitting, or adding actions. Only reference @Video1's actions, expressions, range of motion, fixed camera position, and timing; never reference the frog identity, green appearance, skin texture, beach, waves, sand, or lighting of its character.
 
-Focus on maintaining the small ground-touching 'shuffling' steps from @Video1: small crossovers, releases, side taps, and returns, with small steps and weight shifting left/right. Front paws follow the high/low positions from @Video1; do not change into high knees, marching, jumping, kicking, or generic cute dances. The cat's limb amplitude and pose contours must match @Video1 at every moment.
+Focus on maintaining @Video1's small ground-skimming shuffle steps: small toe-on-the-ground crossovers, releases, side points, returns, and reverse crossovers in continuous succession, with small steps, the center of gravity moving left and right, and knees/ankles sinking and rebounding slightly with the motion. Forepaws only alternate according to the high and low positions in @Video1, and must not turn into high kicks, marching in place, running, jumping, raising both paws over the head for a long time, saluting, waving, or ordinary cute dances. The cat's limb movement range and the pose silhouette at every moment are based on @Video1.
 
-The kitten remains centered horizontally, fully visible, occupying about 52% to 58% of the frame height and under 40% width; keep headroom, ears, feet, paws, tail, and the wooden floor. Character size is constant. The tail exists continuously from the base, swinging naturally in opposition to weight shifts; it must not duplicate or disappear.
+The kitten is always in the horizontal center of the frame, with the full body visible, the body occupying about 52% to 58% of the frame height, and the width not exceeding 40%; keep space at the top, full ears, both feet, paws, tail, and the wooden floor underfoot. The character size is constant throughout, not moving closer to the camera or jumping larger. The tail exists continuously from the root and only swings naturally in reverse with the center of gravity, and cannot be duplicated or disappear.
 
-Only one cat throughout. Maintain realistic feline limbs and semi-realistic 3D fur; paws cannot turn into human hands or grow fingers. Every footfall must contact the floor stably without sliding or floating. Prohibit frogs, other animals, people, clothes, collars, text, subtitles, logos, UI, watermarks, extra limbs, duplicate tails, weight gain, facial drifting, color changes, background flickering, or furniture movement. Silent throughout.
+Only one cat appears throughout. Maintain real feline limbs and semi-realistic 3D fur; paws cannot turn into human hands or grow fingers; every step must make stable contact with the wooden floor, no sliding, floating, or clipping through the floor. Frogs, other animals, people, clothes, collars, text, subtitles, logos, UI, watermarks, extra limbs, duplicate tails, weight gain, face drifting, fur color changes, background flickering, or furniture moving are prohibited. The whole film remains silent, no sound generated.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095370811461029888/img/OH2zJEo-lt8_FQwT.jpg" width="600" alt="3D Silver Tabby Brazilian Samba Dance">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095370811461029888/img/OH2zJEo-lt8_FQwT.jpg" width="600" alt="3D Brazilian Shuffle Cat Dance">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10256)**
 
 **Author:** [Mr.JI](https://x.com/jjjd77326292) | **Source:** [Link](https://x.com/jjjd77326292/status/2095371621385347251) | **Published:** Sep 3, 2026
 
 ---
-### Cinematic Korean Market Shopping Journey
+### Korean Market Fashion Shopping Sequence
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A comprehensive video script generating a sequence of a young Korean girl shopping in a fashion market, maintaining character consistency across multiple shots including a clothing stall and an escalator descent.
+> A multi-scene cinematic video of a girl shopping in a Korean market, focusing on shot-to-shot consistency and smooth transitions.
 
 #### 📝 Prompt
 
@@ -492,45 +567,70 @@ Visual style: photorealistic, cinematic Korean fashion-market atmosphere, warm s
 Important: Keep the same girl's identity and appearance consistent in every shot. The transition from the market to the escalator must feel continuous and realistic. The escalator must be an AUTOMATIC MOVING DOWN ESCALATOR, not stationary stairs.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095356008529076224/img/WF-JOiCeyjJxTGON.jpg" width="600" alt="Cinematic Korean Market Shopping Journey">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095356008529076224/img/WF-JOiCeyjJxTGON.jpg" width="600" alt="Korean Market Fashion Shopping Sequence">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10253)**
 
 **Author:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Source:** [Link](https://x.com/ayzalnooor24521/status/2095356156487127394) | **Published:** Sep 3, 2026
 
 ---
-### Cinematic Anime Swordsman Action
+### Gothic Anime Sword Slash
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A detailed prompt for a high-quality anime sword combat sequence, emphasizing character consistency, hit-stop effects, and particle dissolution in a rainy urban environment.
+> A high-end anime action prompt for Seedance featuring a silver-haired gothic swordswoman performing a single, precise horizontal slash in a rain-slicked futuristic city.
 
 #### 📝 Prompt
 
 ```
-High-quality anime video. Showcase a maximum rarity swordsman from an urban fantasy action RPG with quiet elegance and a single, clear, high-speed sword strike. There is only one real person throughout the entire sequence, a young girl. The enemies are two game-like blue-black shadow enemies. Strictly adhere to the roles of the reference images. @image1 is the primary reference for face and character consistency. Fix a short lower face, soft cheeks, a small rounded chin, a small nose and mouth, large vertically open cobalt blue jewel-like eyes, a high iris occupancy rate, minimal white showing, calm outer corners of the eyes, a young and clear sense of age, and silver-white bangs and long hair. @image2 is the primary reference for costume, decorations, full-body design, build, silhouette, and the Japanese sword. Fix an elaborate gothic lace dress in black to deep navy, sheer lace sleeves, blue satin, a layered skirt, a blue jewel at the chest, a metal chain at the waist, black decorative boots, hair ornaments of deep blue roses and black-blue butterflies, hanging blue crystal chains, a deep navy scabbard, silver fittings, and a Japanese sword with a blue jewel. In case of reference conflict, @image1 takes priority for the face, eyes, cheeks, chin, sense of age, expression, hair color, bangs, and long hair; @image2 takes priority for hair ornament details, costume, jewels, full body, build, and the Japanese sword. The reference images are for consistency and design only, not for starting screens or storyboards. Do not reproduce white backgrounds, text, UI, split frames, front/back views, facial expression variations, explanatory diagrams, or weapon diagrams. Character Fix: The same single young girl throughout. Do not change her face, blue eyes and iris ratio, long silver-white hair, black-blue costume, hair ornaments, chest jewel, or slender, youthful build. Changes are only in gaze, subtle expressions, combat posture, breathing, and the natural swaying of hair, lace, and chains. Even within reflections, only local images of the same person are allowed; do not create other people or complete full-body clones. Rendering Fix: Completely unified high-quality 3D toon / cel-look. A complete sense of a 3D model, thin and clean deep navy anime outlines, translucent 2-3 layer toon shadows in indigo, cobalt, and blue-violet, soft moonlight highlights on silver-white hair, multi-layered catchlights in the eyes, and sharp, elegant reflections on jewels and metal. Differentiate textures for lace, satin, metal, jewels, and the wet floor, ensuring high density for both the character and urban background. Do not substitute character consistency with rendering style, and vice versa. A high-rise city rooftop after rain. Wet floor, glass walls, low-saturation distant buildings, shallow neon bokeh. Silver-white moonlight is the main light source, character-specific deep navy and cobalt blue are the main shadow colors, and ice blue and a small amount of blue-violet are the fill lights. Keep background colors and neon subtle, making the girl's silver-white hair, blue eyes, black-blue costume, hair ornaments, chest jewel, and Japanese sword the protagonists of the screen. The weapons the girl handles are exactly one Japanese sword and one scabbard. The sword is a single rigid body with the hilt, guard, blade, and tip connected at a fixed length. The right hand grips the hilt behind the guard, and that force continues through the forearm, shoulder, chest, and waist, moving the entire sword as one. Do not rotate only the tip independently. The left hand handles only the scabbard and does not touch the blade. Do not duplicate, branch, or extend/contract the weapons. Place Shadow Enemy A and Shadow Enemy B diagonally in front of the girl, one closer and one further along the same attack line. Each enemy is a blue-black humanoid silhouette readable as having a head, torso, two arms, two legs, feet, and one short shadow sword. Enemies A and B maintain a semi-solid shadow material with boundaries and density, shadow armor outlines, weapons, floor shadows, and glass reflections until the moment of impact. Do not mix the girl's silver-white hair, face, costume, jewels, or Japanese sword into the enemies, and do not mix the enemies' blue-black shadow material and shadow swords into the girl. Fix the sequence of visible actions. Proceed in the order of: stationary state touching the hilt, drawing the sword with a short slide, a single horizontal slash, clear contact, a short hit-stop, complete particleization after contact, particle occlusion, start of sheathing at hand level, and rising to the face. Do not add multiple attacks or long enemy appearances. Start with a medium-close shot from slightly below and behind, equivalent to 50-70mm. Show the long silver-white hair, black-blue costume, hair ornaments, and the sheathed Japanese sword on the left hip. The girl already has her right fingers on the hilt. Start drawing the sword without a long pause. Only the ends of her hair, lace, and crystal chains sway in the night wind, and the glass momentarily reflects only a single blue eye, same as @image1. The girl slides a short distance diagonally forward on the wet floor as she draws the sword, moving outside the two enemies' attack lines. Keep the supporting leg, sliding leg, and center of gravity movement as a continuous sequence. Pass the camera from the moonlight reflected on the blade to the reflection on the wet floor; after the entity at point A leaves the screen, capture the same person at point B in a medium-close shot diagonally in front. Reflections are a camera transition showing the actual slide, not teleportation, jumping, landing, or cloning. Without re-posing, expand the waist rotation of the draw and slide directly into one large horizontal slash. A single blade crosses the two enemies in sequence along a continuous path at the same height. There is only one sword light arc in silver-white and cobalt blue. Clearly show the contact surface with the first enemy, and place a single short hit-stop the moment the path passes through the second enemy. Vividly show the hilt, guard, single blade, both hands, and the contact point. Only after the hit-stop, begin particleization from front to back, following the same direction as the sword light. The two bodies, two shadow swords, floor shadows, glass reflections, and reflections on the wet floor completely disappear into blue-black mist, small shattered blue butterfly light, and fine ice-blue light fragments. Particles must not hide the face, hands, sword, or contact position. The girl naturally transitions the movement after the horizontal slash from the sword tip to the wrist, shoulder, waist, and back leg, recovering the sword to a low endpoint. Briefly show the result of the enemies completely disappearing while the sword is still drawn. Without stopping that motion, connect the blue-black mist and blue butterfly light to occlusion in front of the lens. Immediately after the occlusion, switch to a close-up from the chest down to the hands, where she first begins sheathing the sword. The right hand holds the hilt, and the left hand holds the scabbard near its mouth. Let the hilt, guard, blade, and scabbard mouth be read separately, and accurately align the central axes of the blade and scabbard. Slide the blade into the scabbard without touching the edge, causing no penetration between sword and scabbard, angle misalignment, or finger deformation. The camera follows the hilt, the blue jewel on the chest, black lace, and hair ornaments during the sheathing process, quickly rising to a natural 3/4 face equivalent to 70-85mm. The face must be @image1's normal face. First, keep both large blue eyes open, then slightly relax the tension in the eyebrows, do not lower the eyelids, create a small closed-mouth smile using only the corners of the mouth, and finally direct a calm gaze near the camera. The final subject shown is the girl alone. The enemies, their weapons, shadows, and reflections have all completely disappeared. Just as the blade continues straight into the scabbard and before the guard touches the mouth of the scabbard, cut at the moment the open blue eyes, silver-white hair, hair ornaments, chest jewel, sword hilt, and wet night scene are all simultaneously clear. Do not stay still for long after completing the sheathing, and do not shrink the person into the distance. No BGM, music, dialogue, or narration. Synchronize only the night wind, short sliding sounds of the leather boot soles on the wet stone floor, rustling of lace and satin, small hard sounds of metal chains and crystal ornaments, the sound of the steel blade leaving the metal scabbard mouth, the sound of the steel blade cutting through the air, the thin sound of the shadow material collapsing into magical particles, the sound of the steel blade sliding inside the scabbard during sheathing, and natural breathing with the visible actions. Forced Negatives: Text, subtitles, logos, watermarks, white background UI, setting sheets, a second human, clones, full-body doubles, reflections of different faces, enemies collapsing before contact, giant butterflies, particles covering the face or sword, additional swords, hands gripping the blade, penetration between sword and scabbard, distant sheathing, long pauses, wide-angle face close-ups, fisheye, mature faces, long faces, small eyes, small irises, slanted eyes, half-closed eyes, thick outlines, single-layer cell shadows, plastic CG, semi-realistic, and mixed art styles are prohibited.
+High-quality anime action RPG style video. One girl vs. two shadow enemies. References: @image1 for face identity (cobalt blue eyes, silver-white hair) and @image2 for outfit (gothic lace dress, Japanese katana). Style: 3D toon/cel-look, moonlit highlights, blue shadow tones. Scene: Rain-slicked rooftop. Action sequence: Character draws the sword, slides across the wet floor, performs a horizontal slash across both enemies, short hit-stop, enemies dissolve into particles, and she finishes by sheathing the sword. No music or dialogue, only atmospheric sound effects synced to the motion.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095347586114998272/img/c7a-pehgPiGQGwwW.jpg" width="600" alt="Cinematic Anime Swordsman Action">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095347586114998272/img/c7a-pehgPiGQGwwW.jpg" width="600" alt="Gothic Anime Sword Slash">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10257)**
 
 **Author:** [mayv](https://x.com/haruuraeadss) | **Source:** [Link](https://x.com/haruuraeadss/status/2095347991016280457) | **Published:** Sep 3, 2026
 
 ---
-### Anime Special Attack Cinematic
+### Anime Editorial Fashion Film
 
-![日本語](https://img.shields.io/badge/lang-日本語-green)
+![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-energy video prompt for generating stylized anime climax sequences featuring coordinated special moves, dramatic camera work, and flashy lighting.
+> A sophisticated video prompt for an anime-style fashion editorial featuring a character named Aria. It details specific poses, camera movements synced to BPM, and precise lighting for a 15-second continuous shot.
 
 #### 📝 Prompt
 
 ```
-A coordinated special move between [@Character A] and [@Character B]. Features dynamic camera work, dramatic shots, handheld camera, extreme dolly-in moving deep into the screen, double exposure, 2x speed, 4x speed, lighting effects suitable for a finishing move, excessively flashy special move effects, Japanese full-color anime style, cut-ins, no dialogue, a sequence of extreme close-ups and extreme long shots, high quality, a 10-million dollar blockbuster anime movie climax scene, and the ultimate grand technique used only once in the entire series.
+A high-fashion anime editorial film follows a woman flowing through ten precise poses. aria defines her face, hair, freckles and identity; ariaoutfit defines her full outfit, accessories and proportions. Ignore both reference backgrounds and add no new accessories. She has layered red-to-pink hair held by a claw clip, amber eyes, light freckles, a thin black choker, ink tattoos on her arms and right shoulder, an oversized grey band tee worn off one shoulder, black biker shorts, a thin thigh strap, and bare feet. Render as cel-shaded anime illustration with clean ink linework and flat shadow blocks.
+
+The film unfolds in one uninterrupted 15-second shot at 128 BPM inside a minimal white cyclorama with hard strobes, faint haze, glossy floor reflections, a satin sheet, and scattered proof sheets. The camera follows one physically continuous path, accelerating between poses and braking sharply on every lock.
+
+0:00-0:01.5: Pose 1, centered frontal MCU, one hand brushing the hair beside her ear, restrained push-in. 0:01.5-0:03.0: Pose 2, three-quarter with lifted chin; Pose 3, lowered gaze with both hands near collar and hair; camera descends in a fast arc and pauses on her eyes. 0:03.0-0:04.5: Pose 4, strict left profile; Pose 5, one shoulder rolled forward while the off-shoulder edge of the tee catches a sharp side light; camera whips past her cheek. 0:04.5-0:06.0: Pose 6, she gathers a fold of the tee at her waist; Pose 7, over-the-shoulder look; camera dives to torso level and rises into a close facial pass. 0:06.0-0:07.5: Pose 8, she lowers onto the satin sheet with one knee raised; Pose 9, one bare foot extended toward the lens dominating the foreground; camera rockets forward at floor level. 0:07.5-0:09.0: Pose 10, three-quarter stance, one hand at the collarbone, the tee hem skimming her thigh; camera slides across the waistline into a portrait hold. 0:09-0:11.0: she folds inward, closes her eyes for one breath, then opens into a long upward stretch; tight orbit. 0:11.0-0:13.0: rear three-quarter shoulder silhouette turning just enough for jawline and tee neckline to catch the same flash. 0:13.0-0:15.0: the camera grazes past her eyes, arcs outward and lowers as she lands in a dominant full-body pose looking down into the lens, ending on a clean wide hold under a final white flash bloom.
+
+Use a smooth 24-85mm zoom feel, hard frontal flashes, sharp side rim light, shutter clicks, breath, hair movement, and fabric rustle. Keep one continuous character with stable identity, anatomy, hairstyle, outfit, accessories, tattoo placement, and anime style throughout.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095132605209628672/img/sGd5w9qHBm2RxgHm.jpg" width="600" alt="Anime Special Attack Cinematic">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095296513157349376/img/yLh-DtXC-IBKpsv6.jpg" width="600" alt="Anime Editorial Fashion Film">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10303)**
+
+**Author:** [Borderless 🌐](https://x.com/BorderleSint) | **Source:** [Link](https://x.com/BorderleSint/status/2095298275175739702) | **Published:** Sep 2, 2026
+
+---
+### Anime Character Ultimate Skill PV
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A dramatic anime-style prompt for a cinematic ultimate skill scene featuring dynamic camera work, double exposure, and high-quality production effects.
+
+#### 📝 Prompt
+
+```
+A coordinated ultimate special move between [@Character A] and [@Character B]. Dynamic camera work, dramatic shots, handheld camera, extreme dolly-in deep into the screen, double exposure, 2x speed, 4x speed, lighting suited for a special move, excessively flashy special move effects, full-color Japanese anime, cut-ins, no dialogue, continuous sequence of extreme close-ups and extreme long shots, lighting processing, high quality, 10 million dollar blockbuster anime, climax scene, the greatest ultimate technique used only once in the entire series.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095132605209628672/img/sGd5w9qHBm2RxgHm.jpg" width="600" alt="Anime Character Ultimate Skill PV">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10255)**
 
@@ -728,70 +828,6 @@ Cut 2: Nia 02, operating while enlarging the previous hologram. Image 2. Nia 02:
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10223)**
 
 **Author:** [咲山(AIイラスト・AI動画垢)](https://x.com/z933TfmXkaISSVc) | **Source:** [Link](https://x.com/z933TfmXkaISSVc/status/2094776654380126351) | **Published:** Sep 1, 2026
-
----
-### Post-Shower Daily Routine Video
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A realistic one-shot video prompt for Seedance 2.5 depicting a woman's quiet morning routine after bathing, focusing on subtle movements and natural lighting.
-
-#### 📝 Prompt
-
-```
-Aspect Ratio: 9:16, following the original composition
-Shot form: Single shot, one-shot, no transition
-Overall atmosphere: Quiet daily life after bathing, real and natural, restrained and relaxed, no intentional performance
-
-## First Frame Lock
-The 0th second must accurately connect with `@Image 1`: maintain the adult female's face identity, skin color, body proportions, wet black hair, light grey-purple thin strap house dress, cream-white bath towel on the shoulder and existing standing posture.
-The right hand stays at the wet hair on the back of the head, and the left hand hangs naturally; the head is toward the left of the screen, eyes looking out of the bathroom. Retain small water droplets on the skin and collarbone, the weight of wet hair in bundles, and the cold-warm contrast formed by the bathroom cold light and bedroom warm light.
-
-## 0.0–0.8 seconds | Breathing after still
-The screen starts accurately from the original image, without composition jumps.
-The person maintains the original posture, and the chest produces very slight fluctuations with a natural breath. The gaze still stays on the left side of the screen, the expression is calm, and the lips are naturally slightly parted.
-The right hand fingers are still in contact with the wet hair, only letting the fingertips produce slight adjustments. The wet hair and bath towel hang naturally under gravity and do not swing suddenly.
-The lens is fixed, only retaining a very slight real handheld breathing feel.
-
-## 0.8–2.8 seconds | Tidying up wet hair
-The person's right hand fingers slowly pass through the wet hair on the back of the head, gathering a small bunch of hair back. The movement is gentle and continuous, without shaking the head forcefully.
-The head tilts slightly to the right with the hand movement, the amplitude is very small; the gaze still stays on the left, not looking at the camera in advance.
-The moved wet hair follows the finger movement with a half-beat delay, and a few strands of wet hair sticking to the side of the face and neck naturally separate. A small water droplet slowly slides down the side of the neck, reflecting briefly in the warm light.
-The bath towel only produces slight wrinkle changes and always stays stable on both shoulders.
-
-## 2.8–4.6 seconds | Slowly withdrawing gaze
-After finishing gathering the hair, the right hand stops at the junction of the back neck and hair, not immediately putting it down.
-The person first slowly moves their gaze from a distance back to a position in front and slightly to the left, and then the head follows and turns back slightly. She naturally blinks once and exhales softly, the shoulders and neck relaxing slightly with the exhalation.
-The expression does not make an obvious smile, only retaining the quietness, relaxation and a bit of thoughtfulness after bathing. The lips naturally close after exhaling.
-The lens starts to zoom in very slowly, with a total advancement amplitude of no more than 5% of the original frame within six seconds, without changing the character's main body proportions.
-
-## 4.6–6.0 seconds | Movement settled
-The right hand slowly slides from the wet hair to the back of the neck, finally stopping gently at the edge of the bath towel, not completely putting it down.
-The person maintains a relaxed standing posture, gaze falling near the left side of the camera, but not looking directly at the camera. The left hand fingers relax naturally, and the center of gravity of the body only undergoes slight adjustments.
-The wet hair naturally sticks back to the side of the neck after the movement ends, and the bath towel wrinkles slowly stabilize. Finally, stay for about half a second to form a quiet, life-like ending screen.
-
-## Sound Design
-Retain the low-frequency operation of the bathroom exhaust fan, small dripping sounds in the distance, slight friction sounds of wet hair and fingers, and soft fabric sounds when the bath towel moves.
-No dialogue, no narration, no background music, no subtitles.
-
-## Continuity and Prohibited Items
-- Character face, features, skin color, body type and sense of age are consistent throughout.
-- Wet hair length, color and wet state remain unchanged, not suddenly becoming dry, increasing or changing hairstyle.
-- House dress color, cut, strap position and coverage state remain stable, not sliding or deforming.
-- Bath towel always stays on both shoulders, not disappearing, changing color or suddenly falling off.
-- Water droplets can only slide down slowly, not suddenly increasing, flashing or all disappearing.
-- Maintain the door frame, bathroom, bedroom bed and cold-warm light direction in the original image.
-- Do not add new characters, mirror reflections, mobile phones, jewelry or other props.
-- Do not use head shaking, hair-flicking posing, exaggerated blinking, sudden smiles or direct looks at the camera and other intentional performances.
-- Do not zoom in on parts of the body, do not change the natural life-like shooting perspective of the original image.
-- Avoid facial drift, finger deformities, extra limbs, clothing clipping and background structure deformation.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094770077182971905/img/i-Pc-5kGJaWbXfZ1.jpg" width="600" alt="Post-Shower Daily Routine Video">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10218)**
-
-**Author:** [李岳](https://x.com/liyue_ai) | **Source:** [Link](https://x.com/liyue_ai/status/2094773618685403149) | **Published:** Sep 1, 2026
 
 ---
 ### Candid Lakeside Photography Vlog
@@ -3387,63 +3423,6 @@ WORLD: crumbling mountain monastery courtyard at dusk, mist rolling through brok
 **Author:** [PixieVerse](https://x.com/itsPixieVerse) | **Source:** [Link](https://x.com/itsPixieVerse/status/2092439850184249474) | **Published:** Aug 26, 2026
 
 ---
-### Istanbul Photographer Lifestyle Vlog
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A multi-shot Seedance 2.5 prompt using reference images to create a photorealistic vlog of a photographer in historic Istanbul.
-
-#### 📝 Prompt
-
-```
-Create an ultra-photorealistic cinematic professional photographer lifestyle vlog. STORY: A female professional photographer prepares her camera equipment at home, travels to historic Istanbul, photographs a female model in the historic streets, reviews the photos on her camera, and finishes by walking through the beautiful historic district. REFERENCE PRIORITY: @IMG1 = MAIN FEMALE PHOTOGRAPHER @IMG2 = ISTANBUL HISTORIC LOCATION @IMG3 = PROFESSIONAL CAMERA GEAR @IMG4 = PHOTOGRAPHER + MODEL PHOTOSHOOT @IMG5 = PHOTO REVIEW @IMG6 = FINAL ISTANBUL WALK CHARACTER CONSISTENCY: The EXACT SAME woman from @IMG1 must appear throughout the video. Preserve her exact: face, facial features, hairstyle, skin tone, body proportions, age appearance and overall identity. She remains the photographer throughout. Keep her outfit, camera bag and professional appearance consistent. -------------------------------------------------- 0–4 SECONDS — PREPARING AT HOME Use @IMG1 + @IMG3. Early morning. The photographer is at home preparing for the photoshoot. She opens her camera bag. She checks the professional camera. She checks the battery and memory card. She carefully attaches the same 24–70mm lens shown in @IMG3. She places the camera into her shoulder bag. She picks up the bag and prepares to leave. CAMERA: Quick cinematic close-ups of the camera, lens and accessories. Then a medium shot of her leaving home. Keep the sequence natural and efficient. -------------------------------------------------- 4–8 SECONDS — ARRIVING IN ISTANBUL Use @IMG1 + @IMG2. Transition naturally to historic Istanbul. The photographer arrives at the Sultanahmet historic area. She walks along the cobblestone street carrying her camera bag. She looks around at the architecture. She chooses a beautiful location for the photoshoot. She takes the camera out of her bag. CAMERA: Wide establishing shot revealing the historic Istanbul architecture. Then a medium tracking shot following the photographer. -------------------------------------------------- 8–13 SECONDS — PREPARING THE PHOTOSHOOT Use @IMG1 + @IMG2 + @IMG3 + @IMG4. The female model arrives. The photographer positions the model against the historic Istanbul architecture. She checks the camera settings. She adjusts the lens. She raises the camera to her eye. She gives the model a subtle hand gesture indicating where to stand and how to pose. The model responds naturally. CAMERA: Medium shot showing photographer and model. Brief close-up of the camera and lens. -------------------------------------------------- 13–20 SECONDS — PROFESSIONAL PHOTOSHOOT Use @IMG4. The photographer begins taking professional photographs. The model poses naturally. The photographer moves slightly to one side to change the composition. She takes a portrait shot. Then she changes position and takes a wider environmental shot. Then she briefly crouches to capture a dramatic low-angle photograph. The model remains natural and confident. The photographer presses the shutter naturally. CAMERA: Alternate between: photographer POV, side angle, over-the-shoulder camera shot, low-angle photography position, wide shot showing the historic architecture. Keep the photography process realistic. -------------------------------------------------- 20–25 SECONDS — REVIEWING THE PHOTOS Use @IMG5. The photoshoot is complete. The photographer lowers the camera. She turns the camera screen toward herself. She scrolls through the photographs. Show a beautiful portrait of the same model on the camera display. She stops on one particularly strong image. She looks pleased with the result. A subtle satisfied smile appears. CAMERA: Medium shot → close-up of camera screen → close-up of photographer's satisfied expression. Make the camera screen look realistic. -------------------------------------------------- 25–30 SECONDS — FINAL WALK AWAY Use @IMG6. The photographer puts the camera on her shoulder. She adjusts the camera strap. She picks up her camera bag. She begins walking calmly through the historic Istanbul street. Warm golden-hour sunlight illuminates the buildings. She walks away from the camera. The camera slowly pulls back into a wide cinematic shot. Reveal the historic street, architecture, domes and distant minarets. End with the photographer becoming smaller in the beautiful Istanbul environment. CUT TO BLACK. -------------------------------------------------- CAMERA STYLE: Premium cinematic travel-fashion photography vlog. Smooth tracking shots. Natural handheld movement. Professional documentary-style camera work. Wide establishing shots. Medium lifestyle shots. Close-ups for camera equipment. Over-the-shoulder photography shots. Gentle cinematic pull-back at the ending. Do not use excessive camera shake. Do not use unrealistic camera movements. -------------------------------------------------- REALISM: Realistic camera handling. Realistic lens interaction. Realistic shutter operation. Realistic walking. Realistic model posing. Natural human anatomy. Realistic hands and fingers. Natural facial expressions. Realistic clothing movement. Realistic camera screen. Natural Istanbul environment. -------------------------------------------------- CONTINUITY: Same female photographer throughout. Same face. Same hairstyle. Same outfit. Same camera. Same lens. Same camera bag. Same Istanbul location. Same model during all photoshoot scenes. No identity swapping. No different photographer. No different model. No camera change. No lens suddenly changing. No face morphing. No distorted hands. No extra fingers. No cartoon. No anime. No CGI-looking people. No text. No logos. No watermark. FINAL FEELING: A polished professional photography lifestyle vlog. The viewer should feel they followed the photographer through a real working day: PREPARE CAMERA → LEAVE HOME → ARRIVE IN ISTANBUL → SET UP SHOOT → PHOTOGRAPH MODEL → REVIEW PHOTOS → WALK AWAY.
-```
-
-<img src="https://cms-assets.youmind.com/media/1787725958100_ifyaat_HQnDhKkagAAZMZ1.jpg" width="600" alt="Istanbul Photographer Lifestyle Vlog">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=9812)**
-
-**Author:** [Elsa Ai](https://x.com/ElsaSofia__AI) | **Source:** [Link](https://x.com/ElsaSofia__AI/status/2092418643212795940) | **Published:** Aug 26, 2026
-
----
-### Baby Dragon Roar Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A 3D fantasy animation of a small baby dragon attempting to imitate the powerful roar of a giant colossal dragon in an enchanted forest.
-
-#### 📝 Prompt
-
-```
-Cinematic 3D animation of a cute baby dragon with dark grey scales and large golden eyes fluttering its small wings in a sunlit enchanted forest, standing in front of a giant colossal ancient dragon with antler horns. The camera tracks up close to the baby dragon smiling, then pulls back as the massive dragon behind it opens its jaws and lets out a powerful roar, with the tiny dragon spreading its wings and imitating the roar. Set in an enchanted forest with mossy ground, glowing blue mushrooms, ferns, volumetric golden god rays, fog, realistic scale textures, 8k resolution, highly detailed fantasy style.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092418310566727680/img/3C95A3nUScVvly1S.jpg" width="600" alt="Baby Dragon Roar Animation">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=9835)**
-
-**Author:** [Julia](https://x.com/juliaevee) | **Source:** [Link](https://x.com/juliaevee/status/2092418379315650682) | **Published:** Aug 26, 2026
-
----
-### Skincare Serum Glass Skin Commercial
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A professional beauty commercial sequence featuring an East Asian woman transitioning from tired skin to a radiant, hydrated glass skin glow using serum.
-
-#### 📝 Prompt
-
-```
-A commercial-style high-definition video sequence of a young East Asian woman with glowing, glass-like skin The sequence begins with close-up shots showing minor skin imperfections and freckles, transitioning to her looking tired while working in front of a laptop She reaches for a minimal glass bottle of clear hydrating facial serum on a sunlit marble counter. Macro close-ups show the clear serum pouring onto her palm and being gently applied to her face As the serum absorbs, her complexion transforms into radiant deeply hydrated, glass skin She smiles confidently in a bright, modern white apartment as sheer white curtains billow in the breeze. Soft natural lighting, aesthetic beauty commercial cinematography, 4k resolution, 60fps, smooth cinematic cuts.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092417435391700992/img/F9nc4JF7hY5e1ebH.jpg" width="600" alt="Skincare Serum Glass Skin Commercial">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=9832)**
-
-**Author:** [Lavinia](https://x.com/laviniavelle) | **Source:** [Link](https://x.com/laviniavelle/status/2092417476265144705) | **Published:** Aug 26, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -3505,6 +3484,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-04T03:28:21.017Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-05T03:30:14.938Z</sub>
 
 </div>

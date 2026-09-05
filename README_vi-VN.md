@@ -68,9 +68,9 @@ Tại sao nên sử dụng thư viện của chúng tôi?
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **6278** |
+| 📝 Tổng số prompt | **6281** |
 | ⭐ Prompt nổi bật | **6** |
-| 🔄 Cập nhật lần cuối | **2026-09-04** |
+| 🔄 Cập nhật lần cuối | **2026-09-05** |
 
 ---
 
@@ -361,6 +361,81 @@ Siêu thực tế, năng lượng lấy cảm hứng từ Fast and Furious, ánh
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Áp phích học từ vựng cho trẻ mầm non
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một mẫu áp phích từ vựng hiện đại, sạch sẽ và thân thiện với trẻ em để học về các loại trái cây, được thiết kế với bố cục giáo dục và hình ảnh chất lượng cao.
+
+#### 📝 Prompt
+
+```
+Hãy tạo một áp phích từ vựng giáo dục sạch sẽ, thân thiện với trẻ em dành cho trẻ mầm non/mẫu giáo, lấy cảm hứng từ thẻ học tập trực quan đơn giản.
+
+Đặt [FRUIT] làm đối tượng chính, lớn và chân thực ở bên trái, và hiển thị một [PART / SLICE / SEGMENT] của cùng loại trái cây đó ở bên phải. Kết nối hai hình ảnh bằng một mũi tên cong chấm bi vui nhộn và một hình vẽ người que nhỏ xíu đang chỉ tay về phía phần nhỏ hơn.
+
+Thêm từ “[FRUIT NAME]” bằng chữ in hoa đậm, cỡ lớn ở phía trên và “[PART NAME]” bằng chữ in hoa đậm, cỡ lớn bên dưới hình ảnh nhỏ hơn. Sử dụng nền trắng mềm mại kết hợp với màu xanh pastel rất nhạt, các khung ảnh bo tròn, khoảng cách thoáng đãng, hình ảnh trái cây chân thực, phông chữ màu xanh đơn giản và các hình minh họa tối giản, vui tươi.
+
+Thiết kế tổng thể cần mang lại cảm giác tươi sáng, mang tính giáo dục, hiện đại, gọn gàng và dễ hiểu đối với trẻ nhỏ, giống như một tấm thẻ học từ vựng cao cấp dành cho mầm non. Bố cục dọc 4:5, độ phân giải cao, ánh sáng dịu, nhãn dán rõ ràng, không có các chi tiết trang trí không cần thiết.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095749270364368896/img/70QIbvdUo8O0Apo-.jpg" width="600" alt="Áp phích học từ vựng cho trẻ mầm non">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=10301)**
+
+**Tác giả:** [AsmatAi](https://x.com/AsmatAi786) | **Nguồn:** [Link](https://x.com/AsmatAi786/status/2095749328102936937) | **Đã xuất bản:** Sep 4, 2026
+
+---
+### Cậu bé với video gia đình Hi8 thập niên 1990
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Một gợi ý video Hi8 mang phong cách hoài cổ thập niên 1990, khắc họa một cậu bé Nhật Bản đang chơi xe đua mini trong kỳ nghỉ, với kết cấu lo-fi chân thực và chuyển động tự nhiên.
+
+#### 📝 Prompt
+
+```
+[Tổng quan] Một kỳ nghỉ năm 1990, nơi một cậu bé 9 tuổi say mê với chiếc xe đua mini và đường đua của mình. Người cha quay lại cảnh cậu bé từ xa bằng máy quay Hi8 mà không nói lời nào. 480p, 16:9, 15 giây. 7 cảnh cắt cứng tại 7 địa điểm khác nhau. Không có hiệu ứng chuyển cảnh. Nhân vật không chú ý đến máy quay. Không có lời thoại hay lời dẫn.
+
+[Nhân vật] Một cậu bé Nhật Bản đáng yêu. Khuôn mặt: tóc đen kiểu mash, mặt tròn, mắt hai mí to, tàn nhang, răng cửa lớn, da rám nắng. Trang phục: áo nỉ đỏ, quần jeans xanh, giày thể thao trắng, mũ lưỡi trai đỏ. Đạo cụ: tua vít nhỏ, xe đua mini nằm gọn trong lòng bàn tay. Thói quen: thè lưỡi khi tập trung.
+
+[Dòng thời gian/Địa điểm/Ánh sáng] Mùa xuân năm 1990. 1. Bàn ăn sáng. 2. Bàn học trong phòng. 3. Đường đua trong phòng khách. 4. Hố cát ở công viên. 5. Rửa xe trước nhà. 6. Hiên nhà (buổi tối). 7. Trước TV vào ban đêm.
+
+[Máy quay] Thẩm mỹ Hi8 năm 1990: nhòe màu, độ phân giải thấp, dễ bị cháy sáng, đường nét mềm mại. Cầm tay, rung lắc tự nhiên, bố cục không hoàn hảo. Không sử dụng thiết bị chống rung, flycam hay quay chậm.
+
+[Các cảnh quay] 1. Bữa sáng: Uống sữa và lau miệng. 2. Bàn học: Vặn ốc xe bằng tua vít. 3. Đường đua: Theo dõi lúc bắt đầu, thua cuộc và ôm đầu thất vọng. 4. Hố cát: Tạo đường đua trên cát. 5. Rửa xe: Vô tình xịt nước vào người cha. 6. Hiên nhà: Xếp các linh kiện và thổi bụi. 7. TV: Ngủ gục khi đang cầm điều khiển. Bản ghi đột ngột tắt đen ở giây 0:14.
+
+[Vật lý] Vật lý thực tế. Không có giải phẫu bị biến dạng hay vật thể bay lơ lửng. Trang phục nhất quán trong suốt video.
+
+[Âm thanh] Âm thanh môi trường tự nhiên: tiếng bát đĩa va chạm, tiếng động cơ, tiếng nước, tiếng cười của người cha. Không có nhạc nền.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094090513112776704/img/_6R1b60uq3Tz4_Oo.jpg" width="600" alt="Cậu bé với video gia đình Hi8 thập niên 1990">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=10302)**
+
+**Tác giả:** [妖精アーヤ](https://x.com/aiehon_aya) | **Nguồn:** [Link](https://x.com/aiehon_aya/status/2095632939199443237) | **Đã xuất bản:** Sep 3, 2026
+
+---
+### Tiệm massage phong cách anime điện ảnh tại Hồng Kông
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video anime điện ảnh cho đoạn clip dài 15 giây lấy bối cảnh tại một tiệm massage ở Hồng Kông, với ánh sáng ấm áp và các tấm trang trí truyền thống.
+
+#### 📝 Prompt
+
+```
+Đoạn phim ngắn phong cách anime điện ảnh, 15 giây. Tiệm massage Heaven on Earth, Hồng Kông, tường màu kem và be với các tấm trang trí hình học kiểu Trung Hoa màu trắng, các hàng ghế tựa màu kem, bàn phụ thấp, ánh sáng ấm áp dịu nhẹ, sàn nhà sáng bóng.
+```
+
+<img src="https://pbs.twimg.com/media/HRTD-lJbYAAz06R.jpg" width="600" alt="Tiệm massage phong cách anime điện ảnh tại Hồng Kông">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=10299)**
+
+**Tác giả:** [TechieSA](https://x.com/TechieBySA) | **Nguồn:** [Link](https://x.com/TechieBySA/status/2095515266532651349) | **Đã xuất bản:** Sep 3, 2026
+
+---
 ### Phim ngắn hoạt hình 3D phong cách Pixar về chủ đề làm bánh
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -512,6 +587,31 @@ Video anime chất lượng cao. Thể hiện một kiếm sĩ có độ hiếm 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=10257)**
 
 **Tác giả:** [mayv](https://x.com/haruuraeadss) | **Nguồn:** [Link](https://x.com/haruuraeadss/status/2095347991016280457) | **Đã xuất bản:** Sep 3, 2026
+
+---
+### Phim thời trang biên tập phong cách Anime
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video tinh tế dành cho phim thời trang biên tập phong cách anime với nhân vật tên là Aria. Nội dung mô tả chi tiết các tư thế, chuyển động camera đồng bộ với nhịp BPM và ánh sáng chính xác cho một cảnh quay liên tục dài 15 giây.
+
+#### 📝 Prompt
+
+```
+Một bộ phim thời trang biên tập phong cách anime cao cấp theo chân một người phụ nữ thực hiện mười tư thế chính xác. aria xác định khuôn mặt, mái tóc, tàn nhang và danh tính của cô ấy; ariaoutfit xác định toàn bộ trang phục, phụ kiện và tỷ lệ cơ thể. Bỏ qua cả hai hình nền tham chiếu và không thêm bất kỳ phụ kiện mới nào. Cô ấy có mái tóc nhiều lớp chuyển từ đỏ sang hồng được giữ bằng kẹp càng cua, đôi mắt màu hổ phách, những đốm tàn nhang nhẹ, vòng cổ choker đen mảnh, hình xăm mực trên cánh tay và vai phải, áo phông ban nhạc màu xám quá khổ mặc trễ vai, quần biker short đen, đai đùi mảnh và chân trần. Kết xuất dưới dạng minh họa anime cel-shaded với các đường nét mực sắc sảo và các mảng đổ bóng phẳng.
+
+Bộ phim diễn ra trong một cảnh quay liên tục dài 15 giây ở tốc độ 128 BPM bên trong một phông nền cyclorama trắng tối giản với đèn strobe mạnh, hiệu ứng sương mờ nhẹ, sàn nhà bóng loáng phản chiếu, một tấm vải satin và các tờ bản in thử nằm rải rác. Camera đi theo một đường di chuyển vật lý liên tục, tăng tốc giữa các tư thế và dừng đột ngột tại mỗi điểm nhấn.
+
+0:00-0:01.5: Tư thế 1, góc chính diện MCU, một tay vuốt tóc bên tai, camera tiến lại gần một cách tiết chế. 0:01.5-0:03.0: Tư thế 2, góc ba phần tư với cằm nâng cao; Tư thế 3, ánh mắt hạ thấp với cả hai tay gần cổ áo và tóc; camera hạ thấp theo một vòng cung nhanh và dừng lại ở đôi mắt cô ấy. 0:03.0-0:04.5: Tư thế 4, góc nghiêng trái nghiêm ngặt; Tư thế 5, một vai cuộn về phía trước trong khi mép áo trễ vai bắt lấy ánh sáng cạnh sắc nét; camera lướt nhanh qua má cô ấy. 0:04.5-0:06.0: Tư thế 6, cô ấy túm một nếp gấp của áo ở eo; Tư thế 7, nhìn qua vai; camera lao xuống ngang tầm thân người và nâng lên thành một cú quay cận mặt. 0:06.0-0:07.5: Tư thế 8, cô ấy hạ người xuống tấm vải satin với một đầu gối nâng lên; Tư thế 9, một bàn chân trần duỗi về phía ống kính chiếm ưu thế ở tiền cảnh; camera lao nhanh về phía trước ở tầm sàn. 0:07.5-0:09.0: Tư thế 10, tư thế ba phần tư, một tay đặt ở xương quai xanh, gấu áo lướt qua đùi; camera trượt ngang qua vòng eo vào một khung hình chân dung. 0:09-0:11.0: cô ấy gập người vào trong, nhắm mắt trong một nhịp thở, sau đó mở mắt ra và vươn người lên cao; quỹ đạo xoay chặt. 0:11.0-0:13.0: hình bóng vai góc ba phần tư phía sau xoay vừa đủ để đường viền hàm và cổ áo bắt lấy cùng một tia chớp sáng. 0:13.0-0:15.0: camera lướt qua đôi mắt cô ấy, tạo vòng cung ra ngoài và hạ thấp khi cô ấy đáp xuống trong một tư thế toàn thân đầy quyền lực, nhìn xuống ống kính, kết thúc bằng một khung hình rộng sạch sẽ dưới một tia sáng trắng bùng nổ cuối cùng.
+
+Sử dụng cảm giác zoom mượt mà 24-85mm, đèn flash chính diện mạnh, ánh sáng viền cạnh sắc nét, tiếng màn trập, tiếng thở, chuyển động tóc và tiếng vải sột soạt. Duy trì một nhân vật liên tục với danh tính, giải phẫu, kiểu tóc, trang phục, phụ kiện, vị trí hình xăm và phong cách anime ổn định xuyên suốt.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095296513157349376/img/yLh-DtXC-IBKpsv6.jpg" width="600" alt="Phim thời trang biên tập phong cách Anime">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=10303)**
+
+**Tác giả:** [Borderless 🌐](https://x.com/BorderleSint) | **Nguồn:** [Link](https://x.com/BorderleSint/status/2095298275175739702) | **Đã xuất bản:** Sep 2, 2026
 
 ---
 ### Cinematic chiêu thức đặc biệt phong cách Anime
@@ -749,70 +849,6 @@ Cảnh 2: Nia 02, vừa thao tác vừa phóng to ảnh toàn ký trước đó.
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=10223)**
 
 **Tác giả:** [咲山(AIイラスト・AI動画垢)](https://x.com/z933TfmXkaISSVc) | **Nguồn:** [Link](https://x.com/z933TfmXkaISSVc/status/2094776654380126351) | **Đã xuất bản:** Sep 1, 2026
-
----
-### Video thói quen hàng ngày sau khi tắm
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Một gợi ý video quay một lần (one-shot) chân thực cho Seedance 2.5, mô tả thói quen buổi sáng yên bình của một người phụ nữ sau khi tắm, tập trung vào các chuyển động tinh tế và ánh sáng tự nhiên.
-
-#### 📝 Prompt
-
-```
-Tỷ lệ khung hình: 9:16, tuân thủ bố cục gốc
-Hình thức quay: Một cảnh quay duy nhất (one-shot), không chuyển cảnh
-Bầu không khí chung: Cuộc sống thường nhật yên bình sau khi tắm, chân thực và tự nhiên, tiết chế và thư thái, không có diễn xuất cố ý
-
-## Khóa khung hình đầu tiên
-Giây thứ 0 phải kết nối chính xác với `@Image 1`: duy trì nhận diện khuôn mặt, màu da, tỷ lệ cơ thể, mái tóc đen ướt, váy mặc nhà hai dây mỏng màu xám tím nhạt, khăn tắm màu trắng kem trên vai và tư thế đứng hiện tại của người phụ nữ trưởng thành.
-Tay phải đặt trên mái tóc ướt sau gáy, tay trái buông thõng tự nhiên; đầu hướng về phía bên trái màn hình, mắt nhìn ra ngoài phòng tắm. Giữ lại những giọt nước nhỏ trên da và xương quai xanh, độ nặng của mái tóc ướt thành từng lọn, và sự tương phản lạnh-ấm được tạo ra bởi ánh sáng lạnh của phòng tắm và ánh sáng ấm của phòng ngủ.
-
-## 0.0–0.8 giây | Hơi thở sau khi tĩnh lặng
-Màn hình bắt đầu chính xác từ hình ảnh gốc, không nhảy bố cục.
-Nhân vật duy trì tư thế ban đầu, lồng ngực phập phồng rất nhẹ theo hơi thở tự nhiên. Ánh mắt vẫn giữ ở phía bên trái màn hình, biểu cảm bình thản, đôi môi hơi hé mở tự nhiên.
-Các ngón tay phải vẫn tiếp xúc với mái tóc ướt, chỉ để các đầu ngón tay điều chỉnh nhẹ. Mái tóc ướt và khăn tắm rủ xuống tự nhiên theo trọng lực và không đung đưa đột ngột.
-Ống kính cố định, chỉ giữ lại cảm giác cầm tay quay rất nhẹ giống như hơi thở thực tế.
-
-## 0.8–2.8 giây | Chỉnh lại mái tóc ướt
-Các ngón tay phải của nhân vật từ từ luồn qua mái tóc ướt sau gáy, gom một lọn tóc nhỏ ra sau. Chuyển động nhẹ nhàng và liên tục, không lắc đầu mạnh.
-Đầu nghiêng nhẹ sang phải theo chuyển động của tay, biên độ rất nhỏ; ánh mắt vẫn giữ ở bên trái, không nhìn vào máy quay từ trước.
-Mái tóc ướt di chuyển theo chuyển động của ngón tay với độ trễ nửa nhịp, một vài sợi tóc ướt dính vào bên mặt và cổ tách ra tự nhiên. Một giọt nước nhỏ từ từ trượt xuống bên cổ, phản chiếu ánh sáng ấm trong giây lát.
-Khăn tắm chỉ tạo ra những thay đổi nếp nhăn nhẹ và luôn ổn định trên cả hai vai.
-
-## 2.8–4.6 giây | Từ từ rời ánh mắt
-Sau khi gom tóc xong, tay phải dừng lại ở điểm tiếp giáp giữa gáy và tóc, không hạ xuống ngay.
-Nhân vật trước tiên từ từ di chuyển ánh mắt từ xa trở lại vị trí phía trước và hơi lệch sang trái, sau đó đầu xoay theo nhẹ nhàng. Cô ấy chớp mắt tự nhiên một lần và thở nhẹ, vai và cổ thả lỏng đôi chút theo hơi thở ra.
-Biểu cảm không cười rõ rệt, chỉ giữ lại sự tĩnh lặng, thư thái và chút suy tư sau khi tắm. Đôi môi khép lại tự nhiên sau khi thở ra.
-Ống kính bắt đầu zoom vào rất chậm, với tổng biên độ tiến không quá 5% khung hình gốc trong vòng sáu giây, không làm thay đổi tỷ lệ cơ thể chính của nhân vật.
-
-## 4.6–6.0 giây | Chuyển động ổn định
-Tay phải từ từ trượt từ mái tóc ướt xuống gáy, cuối cùng dừng lại nhẹ nhàng ở mép khăn tắm, không hoàn toàn hạ xuống.
-Nhân vật duy trì tư thế đứng thư giãn, ánh mắt rơi gần phía bên trái máy quay, nhưng không nhìn trực diện vào máy quay. Các ngón tay trái thả lỏng tự nhiên, trọng tâm cơ thể chỉ điều chỉnh nhẹ.
-Mái tóc ướt tự nhiên dính trở lại bên cổ sau khi chuyển động kết thúc, các nếp nhăn trên khăn tắm ổn định dần. Cuối cùng, giữ khoảng nửa giây để tạo thành khung hình kết thúc yên bình, đậm chất đời thường.
-
-## Thiết kế âm thanh
-Giữ lại tiếng vận hành tần số thấp của quạt thông gió phòng tắm, tiếng nước nhỏ giọt từ xa, tiếng ma sát nhẹ của tóc ướt và ngón tay, và tiếng vải mềm khi khăn tắm di chuyển.
-Không lời thoại, không dẫn chuyện, không nhạc nền, không phụ đề.
-
-## Tính liên tục và các mục bị cấm
-- Khuôn mặt, đặc điểm, màu da, vóc dáng và cảm nhận về độ tuổi của nhân vật phải nhất quán xuyên suốt.
-- Độ dài, màu sắc và trạng thái ướt của tóc không thay đổi, không đột ngột trở nên khô, dày lên hoặc thay đổi kiểu tóc.
-- Màu sắc, kiểu dáng, vị trí dây váy và độ che phủ của váy mặc nhà phải ổn định, không bị trượt hoặc biến dạng.
-- Khăn tắm luôn ở trên hai vai, không biến mất, đổi màu hoặc đột ngột rơi xuống.
-- Giọt nước chỉ có thể trượt xuống chậm, không đột ngột tăng lên, nhấp nháy hoặc biến mất hoàn toàn.
-- Duy trì khung cửa, phòng tắm, giường ngủ và hướng ánh sáng lạnh-ấm như trong hình ảnh gốc.
-- Không thêm nhân vật mới, hình ảnh phản chiếu trong gương, điện thoại di động, trang sức hoặc các đạo cụ khác.
-- Không sử dụng các hành động lắc đầu, hất tóc, chớp mắt thái quá, cười đột ngột hoặc nhìn trực diện vào máy quay và các diễn xuất cố ý khác.
-- Không zoom vào các bộ phận cơ thể, không thay đổi góc quay tự nhiên giống đời thực của hình ảnh gốc.
-- Tránh hiện tượng khuôn mặt bị trôi, ngón tay biến dạng, thừa chi, lỗi trang phục và biến dạng cấu trúc nền.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094770077182971905/img/i-Pc-5kGJaWbXfZ1.jpg" width="600" alt="Video thói quen hàng ngày sau khi tắm">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=10218)**
-
-**Tác giả:** [李岳](https://x.com/liyue_ai) | **Nguồn:** [Link](https://x.com/liyue_ai/status/2094773618685403149) | **Đã xuất bản:** Sep 1, 2026
 
 ---
 ### Vlog chụp ảnh tự nhiên bên hồ
@@ -3525,63 +3561,6 @@ BỐI CẢNH: sân tu viện trên núi đổ nát lúc hoàng hôn, sương mù
 **Tác giả:** [PixieVerse](https://x.com/itsPixieVerse) | **Nguồn:** [Link](https://x.com/itsPixieVerse/status/2092439850184249474) | **Đã xuất bản:** Aug 26, 2026
 
 ---
-### Vlog phong cách sống của nhiếp ảnh gia tại Istanbul
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt Seedance 2.5 đa cảnh sử dụng hình ảnh tham chiếu để tạo vlog chân thực về một nhiếp ảnh gia tại Istanbul cổ kính.
-
-#### 📝 Prompt
-
-```
-Tạo một vlog phong cách sống của nhiếp ảnh gia chuyên nghiệp với chất lượng điện ảnh siêu thực. CỐT TRUYỆN: Một nữ nhiếp ảnh gia chuyên nghiệp chuẩn bị thiết bị máy ảnh tại nhà, di chuyển đến Istanbul cổ kính, chụp ảnh một người mẫu nữ trên những con phố lịch sử, xem lại ảnh trên máy ảnh và kết thúc bằng việc đi dạo qua khu phố cổ tuyệt đẹp. ƯU TIÊN THAM CHIẾU: @IMG1 = NỮ NHIẾP ẢNH GIA CHÍNH @IMG2 = ĐỊA ĐIỂM LỊCH SỬ ISTANBUL @IMG3 = THIẾT BỊ MÁY ẢNH CHUYÊN NGHIỆP @IMG4 = BUỔI CHỤP ẢNH NHIẾP ẢNH GIA + NGƯỜI MẪU @IMG5 = XEM LẠI ẢNH @IMG6 = CẢNH ĐI DẠO CUỐI CÙNG TẠI ISTANBUL TÍNH NHẤT QUÁN CỦA NHÂN VẬT: Người phụ nữ GIỐNG HỆT từ @IMG1 phải xuất hiện xuyên suốt video. Bảo toàn chính xác: khuôn mặt, đặc điểm khuôn mặt, kiểu tóc, tông màu da, tỷ lệ cơ thể, ngoại hình theo độ tuổi và danh tính tổng thể. Cô ấy vẫn là nhiếp ảnh gia trong suốt video. Giữ nguyên trang phục, túi máy ảnh và vẻ ngoài chuyên nghiệp của cô ấy. -------------------------------------------------- 0–4 GIÂY — CHUẨN BỊ TẠI NHÀ Sử dụng @IMG1 + @IMG3. Sáng sớm. Nhiếp ảnh gia đang ở nhà chuẩn bị cho buổi chụp hình. Cô mở túi máy ảnh. Cô kiểm tra máy ảnh chuyên nghiệp. Cô kiểm tra pin và thẻ nhớ. Cô cẩn thận gắn ống kính 24–70mm giống như trong @IMG3. Cô đặt máy ảnh vào túi đeo vai. Cô cầm túi lên và chuẩn bị rời đi. MÁY QUAY: Các cảnh quay cận cảnh điện ảnh nhanh về máy ảnh, ống kính và phụ kiện. Sau đó là cảnh trung quay cô rời khỏi nhà. Giữ trình tự tự nhiên và hiệu quả. -------------------------------------------------- 4–8 GIÂY — ĐẾN ISTANBUL Sử dụng @IMG1 + @IMG2. Chuyển cảnh tự nhiên sang Istanbul cổ kính. Nhiếp ảnh gia đến khu vực lịch sử Sultanahmet. Cô đi bộ dọc theo con phố lát đá, mang theo túi máy ảnh. Cô nhìn ngắm kiến trúc xung quanh. Cô chọn một địa điểm đẹp để chụp ảnh. Cô lấy máy ảnh ra khỏi túi. MÁY QUAY: Cảnh toàn thiết lập cho thấy kiến trúc lịch sử của Istanbul. Sau đó là cảnh quay theo chân nhiếp ảnh gia. -------------------------------------------------- 8–13 GIÂY — CHUẨN BỊ BUỔI CHỤP ẢNH Sử dụng @IMG1 + @IMG2 + @IMG3 + @IMG4. Người mẫu nữ đến. Nhiếp ảnh gia sắp xếp vị trí cho người mẫu dựa trên kiến trúc lịch sử của Istanbul. Cô kiểm tra cài đặt máy ảnh. Cô điều chỉnh ống kính. Cô đưa máy ảnh lên ngang tầm mắt. Cô ra hiệu bằng tay một cách tinh tế để chỉ cho người mẫu nơi đứng và cách tạo dáng. Người mẫu phản hồi một cách tự nhiên. MÁY QUAY: Cảnh trung cho thấy nhiếp ảnh gia và người mẫu. Cận cảnh nhanh máy ảnh và ống kính. -------------------------------------------------- 13–20 GIÂY — BUỔI CHỤP ẢNH CHUYÊN NGHIỆP Sử dụng @IMG4. Nhiếp ảnh gia bắt đầu chụp những bức ảnh chuyên nghiệp. Người mẫu tạo dáng tự nhiên. Nhiếp ảnh gia di chuyển nhẹ sang một bên để thay đổi bố cục. Cô chụp một bức chân dung. Sau đó, cô thay đổi vị trí và chụp một bức ảnh toàn cảnh rộng hơn. Tiếp đó, cô hơi cúi người để bắt lấy một bức ảnh góc thấp đầy ấn tượng. Người mẫu vẫn giữ vẻ tự nhiên và tự tin. Nhiếp ảnh gia nhấn nút chụp một cách tự nhiên. MÁY QUAY: Luân phiên giữa: góc nhìn của nhiếp ảnh gia (POV), góc nghiêng, cảnh quay qua vai, vị trí chụp góc thấp, cảnh toàn cho thấy kiến trúc lịch sử. Giữ cho quá trình chụp ảnh chân thực. -------------------------------------------------- 20–25 GIÂY — XEM LẠI ẢNH Sử dụng @IMG5. Buổi chụp hình hoàn tất. Nhiếp ảnh gia hạ máy ảnh xuống. Cô xoay màn hình máy ảnh về phía mình. Cô lướt xem các bức ảnh. Hiển thị một bức chân dung đẹp của cùng người mẫu đó trên màn hình máy ảnh. Cô dừng lại ở một bức ảnh đặc biệt ấn tượng. Cô trông có vẻ hài lòng với kết quả. Một nụ cười nhẹ nhàng, mãn nguyện xuất hiện. MÁY QUAY: Cảnh trung → cận cảnh màn hình máy ảnh → cận cảnh biểu cảm hài lòng của nhiếp ảnh gia. Làm cho màn hình máy ảnh trông chân thực. -------------------------------------------------- 25–30 GIÂY — CẢNH ĐI DẠO CUỐI CÙNG Sử dụng @IMG6. Nhiếp ảnh gia đeo máy ảnh lên vai. Cô điều chỉnh dây đeo máy ảnh. Cô cầm túi máy ảnh lên. Cô bắt đầu đi bộ một cách bình tĩnh qua con phố cổ Istanbul. Ánh nắng vàng rực rỡ của giờ vàng chiếu sáng các tòa nhà. Cô đi xa dần khỏi máy quay. Máy quay từ từ lùi lại thành một cảnh toàn điện ảnh. Để lộ con phố lịch sử, kiến trúc, các mái vòm và những ngọn tháp ở xa. Kết thúc với hình ảnh nhiếp ảnh gia nhỏ dần trong khung cảnh Istanbul tuyệt đẹp. CẮT VỀ MÀN HÌNH ĐEN. -------------------------------------------------- PHONG CÁCH MÁY QUAY: Vlog nhiếp ảnh thời trang du lịch điện ảnh cao cấp. Các cảnh quay theo chân mượt mà. Chuyển động cầm tay tự nhiên. Kỹ thuật quay phim phong cách tài liệu chuyên nghiệp. Cảnh toàn thiết lập. Cảnh phong cách sống trung cảnh. Cận cảnh thiết bị máy ảnh. Cảnh quay nhiếp ảnh qua vai. Cảnh quay lùi điện ảnh nhẹ nhàng ở cuối. Không sử dụng rung lắc máy quá mức. Không sử dụng các chuyển động máy quay phi thực tế. -------------------------------------------------- TÍNH CHÂN THỰC: Thao tác máy ảnh thực tế. Tương tác ống kính thực tế. Hoạt động màn trập thực tế. Đi bộ thực tế. Người mẫu tạo dáng thực tế. Giải phẫu người tự nhiên. Bàn tay và ngón tay thực tế. Biểu cảm khuôn mặt tự nhiên. Chuyển động quần áo thực tế. Màn hình máy ảnh thực tế. Môi trường Istanbul tự nhiên. -------------------------------------------------- TÍNH LIÊN TỤC: Cùng một nữ nhiếp ảnh gia xuyên suốt. Cùng một khuôn mặt. Cùng một kiểu tóc. Cùng một trang phục. Cùng một máy ảnh. Cùng một ống kính. Cùng một túi máy ảnh. Cùng một địa điểm tại Istanbul. Cùng một người mẫu trong tất cả các cảnh chụp. Không thay đổi danh tính. Không thay đổi nhiếp ảnh gia. Không thay đổi người mẫu. Không thay đổi máy ảnh. Không thay đổi ống kính đột ngột. Không biến dạng khuôn mặt. Không bàn tay méo mó. Không thừa ngón tay. Không hoạt hình. Không anime. Không người trông giống CGI. Không văn bản. Không logo. Không hình mờ (watermark). CẢM GIÁC CUỐI CÙNG: Một vlog phong cách sống nhiếp ảnh chuyên nghiệp, chỉn chu. Người xem sẽ cảm thấy như họ đã theo chân nhiếp ảnh gia suốt một ngày làm việc thực tế: CHUẨN BỊ MÁY ẢNH → RỜI NHÀ → ĐẾN ISTANBUL → THIẾT LẬP CHỤP → CHỤP ẢNH NGƯỜI MẪU → XEM LẠI ẢNH → ĐI DẠO.
-```
-
-<img src="https://cms-assets.youmind.com/media/1787725958100_ifyaat_HQnDhKkagAAZMZ1.jpg" width="600" alt="Vlog phong cách sống của nhiếp ảnh gia tại Istanbul">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=9812)**
-
-**Tác giả:** [Elsa Ai](https://x.com/ElsaSofia__AI) | **Nguồn:** [Link](https://x.com/ElsaSofia__AI/status/2092418643212795940) | **Đã xuất bản:** Aug 26, 2026
-
----
-### Rồng con tập gầm theo rồng trưởng thành
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý hoạt hình 3D đầy cảm xúc về chú rồng con đang cố gắng bắt chước tiếng gầm uy lực của một con rồng cổ đại trong khu rừng huyền bí.
-
-#### 📝 Prompt
-
-```
-Hoạt hình 3D điện ảnh về một chú rồng con đáng yêu với lớp vảy màu xám đậm và đôi mắt vàng to tròn đang đập đôi cánh nhỏ trong khu rừng huyền bí ngập tràn ánh nắng, đứng trước một con rồng cổ đại khổng lồ có cặp sừng hươu. Máy quay tiến lại gần chú rồng con đang mỉm cười, sau đó lùi ra xa khi con rồng khổng lồ phía sau há miệng và gầm lên một tiếng đầy uy lực, chú rồng nhỏ cũng dang rộng đôi cánh và bắt chước tiếng gầm đó. Bối cảnh tại một khu rừng huyền bí với mặt đất phủ đầy rêu, những cây nấm phát sáng màu xanh lam, dương xỉ, các tia sáng vàng rực rỡ, sương mù, kết cấu vảy chân thực, độ phân giải 8k, phong cách giả tưởng vô cùng chi tiết.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092418310566727680/img/3C95A3nUScVvly1S.jpg" width="600" alt="Rồng con tập gầm theo rồng trưởng thành">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=9835)**
-
-**Tác giả:** [Julia](https://x.com/juliaevee) | **Nguồn:** [Link](https://x.com/juliaevee/status/2092418379315650682) | **Đã xuất bản:** Aug 26, 2026
-
----
-### Quảng cáo Tinh chất dưỡng da Glass Skin
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một chuỗi quảng cáo mô tả quy trình chăm sóc da giúp biến đổi làn da mệt mỏi trở nên rạng rỡ, căng bóng như gương.
-
-#### 📝 Prompt
-
-```
-Một chuỗi video quảng cáo độ phân giải cao theo phong cách thương mại về một phụ nữ trẻ Đông Á với làn da căng bóng, mịn màng như gương. Chuỗi video bắt đầu bằng những cảnh quay cận cảnh cho thấy các khuyết điểm nhỏ và tàn nhang trên da, chuyển sang cảnh cô ấy trông mệt mỏi khi làm việc trước máy tính xách tay. Cô ấy với tay lấy một chai thủy tinh tối giản đựng tinh chất dưỡng ẩm da mặt trong suốt đặt trên quầy đá cẩm thạch dưới ánh nắng. Những cảnh quay cận cảnh macro cho thấy tinh chất trong suốt đổ vào lòng bàn tay và được thoa nhẹ nhàng lên mặt. Khi tinh chất thẩm thấu, làn da của cô ấy biến đổi trở nên rạng rỡ, được cấp ẩm sâu và căng bóng như gương. Cô ấy mỉm cười tự tin trong một căn hộ hiện đại, sáng sủa với những tấm rèm trắng mỏng bay nhẹ trong gió. Ánh sáng tự nhiên dịu nhẹ, kỹ thuật quay phim quảng cáo làm đẹp đầy tính thẩm mỹ, độ phân giải 4k, 60fps, các đoạn cắt cảnh điện ảnh mượt mà.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092417435391700992/img/F9nc4JF7hY5e1ebH.jpg" width="600" alt="Quảng cáo Tinh chất dưỡng da Glass Skin">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=9832)**
-
-**Tác giả:** [Lavinia](https://x.com/laviniavelle) | **Nguồn:** [Link](https://x.com/laviniavelle/status/2092417476265144705) | **Đã xuất bản:** Aug 26, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -3643,6 +3622,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-04T03:28:27.299Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-05T03:30:21.857Z</sub>
 
 </div>

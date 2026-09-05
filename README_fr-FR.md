@@ -68,9 +68,9 @@ Pourquoi utiliser notre galerie ?
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **6278** |
+| 📝 Total des prompts | **6281** |
 | ⭐ Prompts en vedette | **6** |
-| 🔄 Dernière mise à jour | **2026-09-04** |
+| 🔄 Dernière mise à jour | **2026-09-05** |
 
 ---
 
@@ -361,6 +361,81 @@ Ultra réaliste, énergie inspirée de Fast and Furious, éclairage photoréalis
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Affiche de vocabulaire pour l'éveil préscolaire
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Une affiche de vocabulaire moderne, épurée et adaptée aux enfants pour apprendre les fruits, conçue avec des mises en page pédagogiques et des photographies de haute qualité.
+
+#### 📝 Prompt
+
+```
+Créez une affiche de vocabulaire éducative, épurée et adaptée aux enfants d'âge préscolaire/maternelle, inspirée d'une carte d'apprentissage visuel simple.
+
+Mettez en avant [FRUIT] comme l'objet principal, grand et réaliste, sur la gauche, et montrez une [PARTIE / TRANCHE / SEGMENT] de ce même fruit sur la droite. Reliez les deux avec une flèche courbe pointillée ludique et un minuscule personnage en bâtonnets pointant vers la plus petite partie.
+
+Ajoutez le mot « [NOM DU FRUIT] » en grandes lettres majuscules grasses en haut et « [NOM DE LA PARTIE] » en grandes lettres majuscules grasses sous la plus petite image. Utilisez un fond blanc doux et bleu pastel très clair, des panneaux d'image arrondis, un espacement épuré, des photographies de fruits réalistes, une typographie bleue simple et des illustrations minimalistes et ludiques.
+
+Le design global doit être lumineux, pédagogique, moderne, aéré et facile à comprendre pour les jeunes enfants, à l'image d'une carte d'apprentissage de vocabulaire préscolaire haut de gamme. Composition verticale 4:5, haute résolution, éclairage doux, étiquettes claires, sans décorations inutiles.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095749270364368896/img/70QIbvdUo8O0Apo-.jpg" width="600" alt="Affiche de vocabulaire pour l'éveil préscolaire">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=10301)**
+
+**Auteur:** [AsmatAi](https://x.com/AsmatAi786) | **Source:** [Link](https://x.com/AsmatAi786/status/2095749328102936937) | **Publié:** Sep 4, 2026
+
+---
+### Petit garçon et vidéo amateur Hi8 des années 90
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt vidéo nostalgique style Hi8 des années 90 mettant en scène un jeune garçon japonais jouant avec une mini voiture de course pendant ses vacances, capturé avec des textures lo-fi authentiques et des mouvements naturels.
+
+#### 📝 Prompt
+
+```
+[Aperçu] Vacances de 1990, un garçon de 9 ans est obsédé par sa mini voiture motorisée et son circuit. Son père le filme à distance avec un caméscope Hi8 sans dire un mot. 480p, 16:9, 15 secondes. 7 plans avec coupes franches dans 7 lieux différents. Aucune transition. Le sujet ne remarque pas la caméra. Pas de dialogue ni de narration.
+
+[Sujet] Un mignon petit garçon japonais. Visage : cheveux noirs style « mash », visage rond, grands yeux à double paupière, taches de rousseur, grandes dents de devant, peau bronzée. Vêtements : sweat-shirt rouge, jean bleu, baskets blanches, casquette rouge. Accessoires : petit tournevis, mini voiture de la taille d'une paume. Habitude : tire la langue lorsqu'il se concentre.
+
+[Chronologie/Lieu/Lumière] Printemps 1990. 1. Table du petit-déjeuner. 2. Bureau dans la chambre. 3. Circuit dans le salon. 4. Bac à sable du parc. 5. Lavage de voiture devant la maison. 6. Véranda (soir). 7. Devant la télévision la nuit.
+
+[Caméra] Esthétique Hi8 de 1990 : bavures de couleurs, basse résolution, surexposition facile, contours doux. Caméra à l'épaule, tremblements naturels, composition imparfaite. Pas de stabilisateurs, de drones ou de ralenti.
+
+[Plans] 1. Petit-déjeuner : Boit du lait et s'essuie la bouche. 2. Bureau : Resserre la voiture avec un tournevis. 3. Circuit : Suit le départ, perd la course et prend sa tête entre ses mains. 4. Bac à sable : Construit un circuit dans le sable. 5. Lavage de voiture : Arrose accidentellement son père avec le tuyau. 6. Véranda : Aligne des pièces et souffle dessus. 7. TV : S'endort en tenant une manette. L'enregistrement s'arrête brutalement à 0:14.
+
+[Physique] Physique réaliste. Pas d'anatomie déformée ni d'objets flottants. Vêtements cohérents tout au long de la vidéo.
+
+[Son] Sons naturels de l'environnement : vaisselle qui s'entrechoque, bruit du moteur, eau, rire du père. Pas de musique.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094090513112776704/img/_6R1b60uq3Tz4_Oo.jpg" width="600" alt="Petit garçon et vidéo amateur Hi8 des années 90">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=10302)**
+
+**Auteur:** [妖精アーヤ](https://x.com/aiehon_aya) | **Source:** [Link](https://x.com/aiehon_aya/status/2095632939199443237) | **Publié:** Sep 3, 2026
+
+---
+### Salon de massage de Hong Kong style anime cinématographique
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo anime cinématographique pour un clip de 15 secondes se déroulant dans un salon de massage de Hong Kong, avec un éclairage chaleureux et des panneaux décoratifs traditionnels.
+
+#### 📝 Prompt
+
+```
+Clip de court-métrage anime cinématographique, 15 secondes. Salon de massage Heaven on Earth, Hong Kong, murs crème et beige avec des panneaux décoratifs chinois géométriques blancs, rangées de fauteuils inclinables crème, petites tables basses, éclairage doux et chaleureux, sol poli.
+```
+
+<img src="https://pbs.twimg.com/media/HRTD-lJbYAAz06R.jpg" width="600" alt="Salon de massage de Hong Kong style anime cinématographique">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=10299)**
+
+**Auteur:** [TechieSA](https://x.com/TechieBySA) | **Source:** [Link](https://x.com/TechieBySA/status/2095515266532651349) | **Publié:** Sep 3, 2026
+
+---
 ### Court-métrage d'animation 3D façon Pixar sur la pâtisserie
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -512,6 +587,31 @@ Vidéo anime de haute qualité. Mettez en scène une épéiste de rareté maxima
 **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=10257)**
 
 **Auteur:** [mayv](https://x.com/haruuraeadss) | **Source:** [Link](https://x.com/haruuraeadss/status/2095347991016280457) | **Publié:** Sep 3, 2026
+
+---
+### Film de mode éditorial style anime
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo sophistiqué pour un éditorial de mode style anime mettant en scène un personnage nommé Aria. Il détaille des poses spécifiques, des mouvements de caméra synchronisés sur le BPM et un éclairage précis pour un plan continu de 15 secondes.
+
+#### 📝 Prompt
+
+```
+Un film éditorial de haute couture style anime suit une femme enchaînant dix poses précises. aria définit son visage, ses cheveux, ses taches de rousseur et son identité ; ariaoutfit définit sa tenue complète, ses accessoires et ses proportions. Ignorez les arrière-plans de référence et n'ajoutez aucun nouvel accessoire. Elle porte des cheveux dégradés du rouge au rose retenus par une pince, des yeux ambrés, de légères taches de rousseur, un fin ras-du-cou noir, des tatouages à l'encre sur les bras et l'épaule droite, un t-shirt de groupe gris oversize porté sur une épaule, un short cycliste noir, une fine sangle de cuisse et est pieds nus. Rendu en illustration anime cel-shaded avec un trait d'encre net et des aplats d'ombre.
+
+Le film se déroule en un plan continu de 15 secondes à 128 BPM à l'intérieur d'un cyclorama blanc minimaliste avec des flashs stroboscopiques durs, une légère brume, des reflets sur un sol brillant, un drap en satin et des planches contact éparpillées. La caméra suit un chemin physiquement continu, accélérant entre les poses et freinant brusquement sur chaque arrêt.
+
+0:00-0:01.5 : Pose 1, plan poitrine frontal centré, une main brossant les cheveux près de l'oreille, léger zoom avant. 0:01.5-0:03.0 : Pose 2, trois-quarts menton levé ; Pose 3, regard baissé, les deux mains près du col et des cheveux ; la caméra descend en un arc rapide et se fixe sur ses yeux. 0:03.0-0:04.5 : Pose 4, profil gauche strict ; Pose 5, une épaule en avant tandis que le bord du t-shirt tombe sur l'épaule pour capter une lumière latérale vive ; la caméra frôle sa joue. 0:04.5-0:06.0 : Pose 6, elle rassemble un pli du t-shirt à la taille ; Pose 7, regard par-dessus l'épaule ; la caméra plonge au niveau du torse et remonte en un gros plan sur le visage. 0:06.0-0:07.5 : Pose 8, elle s'abaisse sur le drap de satin, un genou levé ; Pose 9, un pied nu étendu vers l'objectif dominant le premier plan ; la caméra fonce vers l'avant au niveau du sol. 0:07.5-0:09.0 : Pose 10, posture trois-quarts, une main sur la clavicule, l'ourlet du t-shirt effleurant sa cuisse ; la caméra glisse le long de la taille jusqu'à un portrait fixe. 0:09-0:11.0 : elle se replie sur elle-même, ferme les yeux le temps d'une respiration, puis s'étire longuement vers le haut ; orbite serrée. 0:11.0-0:13.0 : silhouette d'épaule trois-quarts arrière tournant juste assez pour que la mâchoire et l'encolure du t-shirt captent le même flash. 0:13.0-0:15.0 : la caméra frôle ses yeux, décrit un arc vers l'extérieur et s'abaisse alors qu'elle atterrit dans une pose plein pied dominante, regardant vers l'objectif, se terminant sur un plan large net sous un dernier flash blanc éclatant.
+
+Utilisez un rendu fluide de zoom 24-85mm, des flashs frontaux durs, une lumière latérale vive, des déclenchements d'obturateur, le son de la respiration, le mouvement des cheveux et le bruissement du tissu. Maintenez un personnage continu avec une identité, une anatomie, une coiffure, une tenue, des accessoires, un placement de tatouage et un style anime stables tout au long du film.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095296513157349376/img/yLh-DtXC-IBKpsv6.jpg" width="600" alt="Film de mode éditorial style anime">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=10303)**
+
+**Auteur:** [Borderless 🌐](https://x.com/BorderleSint) | **Source:** [Link](https://x.com/BorderleSint/status/2095298275175739702) | **Publié:** Sep 2, 2026
 
 ---
 ### Cinématique d'attaque spéciale style anime
@@ -749,70 +849,6 @@ Plan 2 : Nia 02, en train d'opérer tout en agrandissant l'hologramme précéden
 **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=10223)**
 
 **Auteur:** [咲山(AIイラスト・AI動画垢)](https://x.com/z933TfmXkaISSVc) | **Source:** [Link](https://x.com/z933TfmXkaISSVc/status/2094776654380126351) | **Publié:** Sep 1, 2026
-
----
-### Vidéo de routine quotidienne après la douche
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt vidéo réaliste en plan-séquence pour Seedance 2.5 dépeignant la routine matinale calme d'une femme après sa douche, en se concentrant sur des mouvements subtils et un éclairage naturel.
-
-#### 📝 Prompt
-
-```
-Format d'image : 9:16, respectant la composition originale
-Type de plan : Plan unique, plan-séquence, sans transition
-Atmosphère générale : Vie quotidienne calme après la douche, réel et naturel, sobre et détendu, sans jeu d'acteur intentionnel
-
-## Verrouillage de la première image
-La 0e seconde doit se connecter précisément à `@Image 1` : maintenir l'identité du visage de la femme adulte, la couleur de peau, les proportions corporelles, les cheveux noirs mouillés, la robe d'intérieur à fines bretelles gris-violet clair, la serviette de bain blanc crème sur l'épaule et la posture debout existante.
-La main droite reste sur les cheveux mouillés à l'arrière de la tête, et la main gauche pend naturellement ; la tête est tournée vers la gauche de l'écran, les yeux regardant hors de la salle de bain. Conserver les petites gouttes d'eau sur la peau et la clavicule, le poids des cheveux mouillés en mèches, et le contraste froid-chaud formé par la lumière froide de la salle de bain et la lumière chaude de la chambre.
-
-## 0,0–0,8 seconde | Respiration après l'immobilité
-L'écran démarre précisément à partir de l'image originale, sans saut de composition.
-La personne maintient la posture initiale, et la poitrine produit de très légères fluctuations avec une respiration naturelle. Le regard reste fixé sur le côté gauche de l'écran, l'expression est calme et les lèvres sont naturellement légèrement entrouvertes.
-Les doigts de la main droite sont toujours en contact avec les cheveux mouillés, ne laissant que les extrémités produire de légers ajustements. Les cheveux mouillés et la serviette de bain pendent naturellement sous l'effet de la gravité et ne bougent pas brusquement.
-L'objectif est fixe, ne conservant qu'une très légère sensation de respiration réelle à main levée.
-
-## 0,8–2,8 secondes | Mise en place des cheveux mouillés
-Les doigts de la main droite de la personne passent lentement à travers les cheveux mouillés à l'arrière de la tête, ramenant une petite mèche vers l'arrière. Le mouvement est doux et continu, sans secouer la tête brusquement.
-La tête s'incline légèrement vers la droite avec le mouvement de la main, l'amplitude est très faible ; le regard reste fixé sur la gauche, sans regarder la caméra à l'avance.
-Les cheveux mouillés déplacés suivent le mouvement des doigts avec un léger décalage, et quelques mèches de cheveux mouillés collées sur le côté du visage et du cou se séparent naturellement. Une petite goutte d'eau glisse lentement le long du cou, reflétant brièvement la lumière chaude.
-La serviette de bain ne produit que de légers changements de plis et reste toujours stable sur les deux épaules.
-
-## 2,8–4,6 secondes | Détournement lent du regard
-Après avoir fini de rassembler les cheveux, la main droite s'arrête à la jonction de la nuque et des cheveux, sans redescendre immédiatement.
-La personne déplace d'abord lentement son regard d'une distance vers une position devant et légèrement à gauche, puis la tête suit et se tourne légèrement. Elle cligne naturellement des yeux une fois et expire doucement, les épaules et le cou se relâchant légèrement avec l'expiration.
-L'expression ne montre pas de sourire évident, conservant seulement le calme, la détente et un peu de réflexion après la douche. Les lèvres se ferment naturellement après l'expiration.
-L'objectif commence à zoomer très lentement, avec une amplitude d'avancement totale ne dépassant pas 5 % du cadre original en six secondes, sans modifier les proportions principales du personnage.
-
-## 4,6–6,0 secondes | Mouvement stabilisé
-La main droite glisse lentement des cheveux mouillés vers la nuque, s'arrêtant finalement doucement au bord de la serviette de bain, sans redescendre complètement.
-La personne maintient une posture debout détendue, le regard tombant près du côté gauche de la caméra, mais sans regarder directement l'objectif. Les doigts de la main gauche se relâchent naturellement, et le centre de gravité du corps ne subit que de légers ajustements.
-Les cheveux mouillés reviennent naturellement se coller sur le côté du cou après la fin du mouvement, et les plis de la serviette de bain se stabilisent lentement. Enfin, rester immobile pendant environ une demi-seconde pour former une image de fin calme et réaliste.
-
-## Conception sonore
-Conserver le fonctionnement basse fréquence de l'extracteur d'air de la salle de bain, les petits bruits de gouttes au loin, les légers bruits de friction des cheveux mouillés et des doigts, et les bruits de tissu doux lorsque la serviette de bain bouge.
-Pas de dialogue, pas de narration, pas de musique de fond, pas de sous-titres.
-
-## Continuité et éléments interdits
-- Le visage, les traits, la couleur de peau, la morphologie et l'âge du personnage sont cohérents tout au long de la séquence.
-- La longueur, la couleur et l'état humide des cheveux restent inchangés, ils ne doivent pas devenir soudainement secs, ni augmenter en volume ou changer de coiffure.
-- La couleur, la coupe, la position des bretelles et l'état de couverture de la robe d'intérieur restent stables, sans glisser ni se déformer.
-- La serviette de bain reste toujours sur les deux épaules, ne disparaît pas, ne change pas de couleur et ne tombe pas soudainement.
-- Les gouttes d'eau ne peuvent que glisser lentement, elles ne doivent pas augmenter soudainement, clignoter ou disparaître toutes en même temps.
-- Maintenir le cadre de porte, la salle de bain, le lit de la chambre et la direction de la lumière froide-chaude de l'image originale.
-- Ne pas ajouter de nouveaux personnages, reflets dans les miroirs, téléphones portables, bijoux ou autres accessoires.
-- Ne pas utiliser de mouvements de tête, de poses de rejet de cheveux, de clignements d'yeux exagérés, de sourires soudains ou de regards directs vers la caméra et autres jeux d'acteur intentionnels.
-- Ne pas zoomer sur des parties du corps, ne pas modifier la perspective de prise de vue naturelle et réaliste de l'image originale.
-- Éviter la dérive faciale, les déformations des doigts, les membres surnuméraires, les vêtements qui traversent le corps et la déformation de la structure de l'arrière-plan.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094770077182971905/img/i-Pc-5kGJaWbXfZ1.jpg" width="600" alt="Vidéo de routine quotidienne après la douche">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=10218)**
-
-**Auteur:** [李岳](https://x.com/liyue_ai) | **Source:** [Link](https://x.com/liyue_ai/status/2094773618685403149) | **Publié:** Sep 1, 2026
 
 ---
 ### Vlog de photographie spontanée au bord du lac
@@ -3508,63 +3544,6 @@ MONDE : cour d'un monastère de montagne en ruine au crépuscule, brume s'infilt
 **Auteur:** [PixieVerse](https://x.com/itsPixieVerse) | **Source:** [Link](https://x.com/itsPixieVerse/status/2092439850184249474) | **Publié:** Aug 26, 2026
 
 ---
-### Vlog lifestyle d'une photographe à Istanbul
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt multi-plans pour Seedance 2.5 utilisant des images de référence pour créer un vlog photoréaliste d'une photographe dans le quartier historique d'Istanbul.
-
-#### 📝 Prompt
-
-```
-Créez un vlog lifestyle ultra-photoréaliste et cinématographique d'une photographe professionnelle. HISTOIRE : Une photographe professionnelle prépare son matériel chez elle, voyage dans le quartier historique d'Istanbul, photographie un modèle féminin dans les rues anciennes, examine les photos sur son appareil et termine en marchant à travers le magnifique quartier historique. PRIORITÉ DES RÉFÉRENCES : @IMG1 = PHOTOGRAPHE FÉMININE PRINCIPALE @IMG2 = LIEU HISTORIQUE D'ISTANBUL @IMG3 = MATÉRIEL PHOTO PROFESSIONNEL @IMG4 = SÉANCE PHOTO PHOTOGRAPHE + MODÈLE @IMG5 = EXAMEN DES PHOTOS @IMG6 = MARCHE FINALE À ISTANBUL COHÉRENCE DU PERSONNAGE : La MÊME femme que sur @IMG1 doit apparaître tout au long de la vidéo. Préservez exactement : son visage, ses traits, sa coiffure, son teint, ses proportions corporelles, son âge apparent et son identité globale. Elle reste la photographe tout au long de la séquence. Gardez sa tenue, son sac photo et son apparence professionnelle constants. -------------------------------------------------- 0–4 SECONDES — PRÉPARATION À LA MAISON Utilisez @IMG1 + @IMG3. Tôt le matin. La photographe est chez elle et se prépare pour la séance photo. Elle ouvre son sac photo. Elle vérifie l'appareil professionnel. Elle vérifie la batterie et la carte mémoire. Elle fixe soigneusement le même objectif 24–70mm que celui montré sur @IMG3. Elle place l'appareil dans son sac à bandoulière. Elle prend son sac et se prépare à partir. CAMÉRA : Gros plans cinématographiques rapides de l'appareil, de l'objectif et des accessoires. Puis un plan moyen d'elle quittant la maison. Gardez la séquence naturelle et efficace. -------------------------------------------------- 4–8 SECONDES — ARRIVÉE À ISTANBUL Utilisez @IMG1 + @IMG2. Transition naturelle vers le quartier historique d'Istanbul. La photographe arrive dans la zone historique de Sultanahmet. Elle marche le long de la rue pavée en portant son sac photo. Elle observe l'architecture. Elle choisit un bel endroit pour la séance photo. Elle sort l'appareil de son sac. CAMÉRA : Plan large établissant le décor révélant l'architecture historique d'Istanbul. Puis un plan de suivi moyen suivant la photographe. -------------------------------------------------- 8–13 SECONDES — PRÉPARATION DE LA SÉANCE PHOTO Utilisez @IMG1 + @IMG2 + @IMG3 + @IMG4. Le modèle féminin arrive. La photographe positionne le modèle devant l'architecture historique d'Istanbul. Elle vérifie les réglages de l'appareil. Elle ajuste l'objectif. Elle porte l'appareil à son œil. Elle fait un léger geste de la main au modèle pour lui indiquer où se tenir et comment poser. Le modèle réagit naturellement. CAMÉRA : Plan moyen montrant la photographe et le modèle. Bref gros plan sur l'appareil et l'objectif. -------------------------------------------------- 13–20 SECONDES — SÉANCE PHOTO PROFESSIONNELLE Utilisez @IMG4. La photographe commence à prendre des photos professionnelles. Le modèle pose naturellement. La photographe se déplace légèrement sur le côté pour changer la composition. Elle prend un portrait. Puis elle change de position et prend une photo d'ambiance plus large. Ensuite, elle s'accroupit brièvement pour capturer une photo spectaculaire en contre-plongée. Le modèle reste naturel et confiant. La photographe appuie sur le déclencheur de manière naturelle. CAMÉRA : Alternez entre : point de vue de la photographe, angle latéral, plan par-dessus l'épaule, position de prise de vue en contre-plongée, plan large montrant l'architecture historique. Gardez le processus photographique réaliste. -------------------------------------------------- 20–25 SECONDES — EXAMEN DES PHOTOS Utilisez @IMG5. La séance photo est terminée. La photographe baisse l'appareil. Elle tourne l'écran de l'appareil vers elle. Elle fait défiler les photos. Montrez un beau portrait du même modèle sur l'écran de l'appareil. Elle s'arrête sur une image particulièrement réussie. Elle semble satisfaite du résultat. Un léger sourire de satisfaction apparaît. CAMÉRA : Plan moyen → gros plan sur l'écran de l'appareil → gros plan sur l'expression satisfaite de la photographe. Rendez l'écran de l'appareil réaliste. -------------------------------------------------- 25–30 SECONDES — MARCHE FINALE Utilisez @IMG6. La photographe met l'appareil sur son épaule. Elle ajuste la sangle. Elle prend son sac photo. Elle commence à marcher calmement dans la rue historique d'Istanbul. La lumière dorée de fin de journée illumine les bâtiments. Elle s'éloigne de la caméra. La caméra recule lentement en un plan large cinématographique. Révélez la rue historique, l'architecture, les dômes et les minarets au loin. Terminez avec la photographe devenant plus petite dans le magnifique environnement d'Istanbul. FONDU AU NOIR. -------------------------------------------------- STYLE DE CAMÉRA : Vlog de photographie mode et voyage cinématographique haut de gamme. Plans de suivi fluides. Mouvement naturel à l'épaule. Travail de caméra de style documentaire professionnel. Plans larges d'établissement. Plans lifestyle moyens. Gros plans sur le matériel photo. Plans de photographie par-dessus l'épaule. Lent recul cinématographique à la fin. Ne pas utiliser de tremblements de caméra excessifs. Ne pas utiliser de mouvements de caméra irréalistes. -------------------------------------------------- RÉALISME : Manipulation réaliste de l'appareil. Interaction réaliste avec l'objectif. Déclenchement réaliste de l'obturateur. Marche réaliste. Pose réaliste du modèle. Anatomie humaine naturelle. Mains et doigts réalistes. Expressions faciales naturelles. Mouvement réaliste des vêtements. Écran d'appareil réaliste. Environnement naturel d'Istanbul. -------------------------------------------------- CONTINUITÉ : Même photographe féminine tout du long. Même visage. Même coiffure. Même tenue. Même appareil. Même objectif. Même sac photo. Même lieu à Istanbul. Même modèle pendant toutes les scènes de séance photo. Pas d'échange d'identité. Pas de photographe différent. Pas de modèle différent. Pas de changement d'appareil. Pas d'objectif changeant soudainement. Pas de morphing facial. Pas de mains déformées. Pas de doigts en trop. Pas de dessin animé. Pas d'anime. Pas de personnes ayant l'air d'être en CGI. Pas de texte. Pas de logos. Pas de filigrane. SENTIMENT FINAL : Un vlog lifestyle de photographie professionnel et soigné. Le spectateur doit avoir l'impression d'avoir suivi la photographe lors d'une vraie journée de travail : PRÉPARER L'APPAREIL → QUITTER LA MAISON → ARRIVER À ISTANBUL → INSTALLER LA SÉANCE → PHOTOGRAPHIER LE MODÈLE → EXAMINER LES PHOTOS → S'ÉLOIGNER.
-```
-
-<img src="https://cms-assets.youmind.com/media/1787725958100_ifyaat_HQnDhKkagAAZMZ1.jpg" width="600" alt="Vlog lifestyle d'une photographe à Istanbul">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=9812)**
-
-**Auteur:** [Elsa Ai](https://x.com/ElsaSofia__AI) | **Source:** [Link](https://x.com/ElsaSofia__AI/status/2092418643212795940) | **Publié:** Aug 26, 2026
-
----
-### Bébé dragon imitant le rugissement d'un adulte
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt d'animation 3D touchant représentant un bébé dragon essayant d'imiter le puissant rugissement d'un dragon ancien dans une forêt enchantée.
-
-#### 📝 Prompt
-
-```
-Animation 3D cinématographique d'un adorable bébé dragon aux écailles gris foncé et aux grands yeux dorés battant des ailes dans une forêt enchantée baignée de soleil, debout devant un dragon ancien colossal aux cornes en bois de cerf. La caméra zoome sur le bébé dragon qui sourit, puis recule alors que le dragon massif derrière lui ouvre ses mâchoires et pousse un rugissement puissant, le minuscule dragon déployant ses ailes pour imiter le cri. Situé dans une forêt enchantée avec un sol moussu, des champignons bleus luisants, des fougères, des rayons de lumière volumétriques dorés, du brouillard, des textures d'écailles réalistes, une résolution 8k, un style fantastique très détaillé.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092418310566727680/img/3C95A3nUScVvly1S.jpg" width="600" alt="Bébé dragon imitant le rugissement d'un adulte">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=9835)**
-
-**Auteur:** [Julia](https://x.com/juliaevee) | **Source:** [Link](https://x.com/juliaevee/status/2092418379315650682) | **Publié:** Aug 26, 2026
-
----
-### Publicité pour le sérum de beauté « Glass Skin »
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Une séquence publicitaire illustrant une routine de soin qui transforme une peau fatiguée en un teint éclatant, hydraté et effet « glass skin ».
-
-#### 📝 Prompt
-
-```
-Une séquence vidéo haute définition de style publicitaire mettant en scène une jeune femme d'Asie de l'Est à la peau éclatante, semblable à du verre. La séquence débute par des plans rapprochés montrant de légères imperfections cutanées et des taches de rousseur, puis montre la jeune femme à l'air fatigué travaillant devant un ordinateur portable. Elle attrape un flacon minimaliste en verre contenant un sérum hydratant transparent posé sur un comptoir en marbre baigné de soleil. Des gros plans macro montrent le sérum transparent versé dans sa paume et appliqué délicatement sur son visage. À mesure que le sérum pénètre, son teint se transforme pour devenir éclatant, profondément hydraté et effet « glass skin ». Elle sourit avec assurance dans un appartement moderne et lumineux, tandis que des rideaux blancs vaporeux ondulent sous la brise. Éclairage naturel doux, cinématographie publicitaire esthétique, résolution 4K, 60 fps, coupes cinématographiques fluides.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092417435391700992/img/F9nc4JF7hY5e1ebH.jpg" width="600" alt="Publicité pour le sérum de beauté « Glass Skin »">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=9832)**
-
-**Auteur:** [Lavinia](https://x.com/laviniavelle) | **Source:** [Link](https://x.com/laviniavelle/status/2092417476265144705) | **Publié:** Aug 26, 2026
-
----
 ---
 
 ## 📚 Plus de prompts disponibles
@@ -3626,6 +3605,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-09-04T03:28:32.933Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-09-05T03:30:28.724Z</sub>
 
 </div>
