@@ -68,9 +68,9 @@ Tại sao nên sử dụng thư viện của chúng tôi?
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **6281** |
+| 📝 Tổng số prompt | **6305** |
 | ⭐ Prompt nổi bật | **6** |
-| 🔄 Cập nhật lần cuối | **2026-09-06** |
+| 🔄 Cập nhật lần cuối | **2026-09-07** |
 
 ---
 
@@ -361,6 +361,706 @@ Siêu thực tế, năng lượng lấy cảm hứng từ Fast and Furious, ánh
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Chuỗi hành động giả tưởng phong cách anime trên sân thượng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một chuỗi hành động giả tưởng lấy cảm hứng từ anime, diễn ra trên sân thượng đóng băng của một trường đại học vào ban đêm.
+
+#### 📝 Prompt
+
+```
+Tạo một video tiến hóa khoa học viễn tưởng điện ảnh siêu thực dài 30 giây, tỷ lệ 16:9, kỹ xảo VFX đẳng cấp Hollywood. Tạo một chuỗi hành động giả tưởng lấy cảm hứng từ anime dài 30 giây với tỷ lệ màn hình rộng 16:9, chất lượng hình ảnh 8K, chuyển động 60fps mượt mà và vũ đạo chiến đấu điện ảnh đỉnh cao. Bối cảnh toàn bộ chuỗi hành động diễn ra trên sân thượng đóng băng của một học viện chiến đấu đại học hiện đại vào ban đêm. Sân thượng được bao quanh bởi hàng rào an toàn bằng kim loại, các cấu trúc thông gió, lối vào cầu thang bê tông, những vũng nước đóng băng, đường ống phủ đầy tuyết và các bể chứa nước lớn. Phía xa sân thượng là một thành phố Hàn Quốc rộng lớn rực rỡ với những bảng hiệu neon đằng xa, dòng xe cộ di chuyển, cửa sổ các tòa nhà cao tầng và ánh trăng xanh lạnh lẽo. Tuyết rơi nhẹ xuyên qua khung cảnh trong khi gió mùa đông mạnh làm lay động quần áo, tóc và các hạt băng vụn. NHÂN VẬT CHÍNH: Một nữ sinh 21 tuổi của học viện chiến đấu đại học Hàn Quốc, tự tin với vẻ ngoài nhất quán, vừa mang phong cách anime vừa chân thực như người thật. Cô có khuôn mặt trái xoan nhỏ nhắn, làn da trắng tự nhiên với kết cấu chân thực, đôi mắt màu tím xám sắc sảo và mái tóc ngắn màu tím pastel cắt ngay dưới tai với phần tóc mái thưa mềm mại. Cô mặc bộ đồng phục gồm áo blazer xám vừa vặn, áo sơ mi trắng, nơ màu xanh đậm, chân váy xếp ly màu than bên ngoài quần bảo hộ đen, quần tất giữ nhiệt đen và bốt cổ thấp tối màu trong suốt chuỗi hành động. Một chiếc kẹo mút vị anh đào vẫn được giữ một cách tự nhiên ở khóe miệng. Biểu cảm của cô luôn bình tĩnh, hơi thờ ơ và tự tin một cách nhẹ nhàng ngay cả trong những đòn tấn công nguy hiểm nhất. Duy trì chính xác khuôn mặt, kiểu tóc, trang phục, tỷ lệ cơ thể, chiếc kẹo mút và thiết kế năng lực băng giá của cô trong mọi cảnh quay. ĐỐI THỦ: Bốn kẻ tấn công đeo mặt nạ trưởng thành mặc trang phục chiến thuật mùa đông màu đen đồng bộ, áo giáp nhẹ, găng tay cách nhiệt và mặt nạ tối màu không lộ rõ đặc điểm. Chúng mang theo gậy ba khúc và kiếm tập luyện cùn. Giữ cho bốn kẻ tấn công có thể nhận diện được thông qua các ký hiệu nhỏ trên vai: đỏ, trắng, vàng và xanh lá cây. Các đòn tấn công của chúng phải tạo cảm giác nhanh và đầy đe dọa, nhưng nữ chính đánh bại chúng mà không gây thương tích nghiêm trọng. MỞ ĐẦU: Bắt đầu với cảnh quay cận cảnh cực đại đôi bốt đen của nữ chính bước lên một vũng nước nông trên sân thượng. Lớp sương giá ngay lập tức lan rộng từ dưới đế giày của cô theo những họa tiết phân nhánh tinh tế. Máy quay lia lên trên khi cô đứng một mình gần mép sân thượng, một tay đút trong túi áo blazer và chiếc kẹo mút giữa đôi môi. Gió làm bay mái tóc tím pastel trong khi cảnh quan thành phố tối tăm rực sáng phía xa bên dưới. Trong hình ảnh phản chiếu của vũng nước vừa đóng băng, để lộ bốn kẻ tấn công đeo mặt nạ đang tiến lại gần phía sau cô. Kẻ tấn công có ký hiệu vai màu đỏ lao tới và vung gậy về phía đầu cô. Sử dụng kỹ thuật quay theo chiều ngang nhanh khi cô bình tĩnh ngả người ra sau để tránh vũ khí mà không cần rút tay ra khỏi túi. Chiếc gậy chỉ lướt qua cách mặt cô vài centimet. Cô khẽ chạm mũi bốt xuống sân thượng, khiến một gờ băng hẹp nổi lên dưới chân kẻ tấn công. Hắn mất thăng bằng và trượt dài qua cô trên bề mặt đóng băng. Kẻ tấn công có ký hiệu màu trắng ném vài thanh kiếm tập luyện bằng kim loại nhỏ. Máy quay theo sát các thanh kiếm lao nhanh trong không trung về phía cô. Cô giơ hai ngón tay lên, nước từ rãnh thoát nước trên sân thượng dâng lên thành nhiều dòng xoắn ốc. Các dòng nước đóng băng ngay lập tức giữa không trung, bẫy mọi thanh kiếm bên trong một bức tường băng cong trong suốt. Xoay máy quay quanh đội hình đang lơ lửng khi ánh trăng khúc xạ qua băng và đổ những họa tiết xanh nhạt lên khuôn mặt bình tĩnh của cô. Cô cắn chiếc kẹo mút và búng tay sang một bên. Bức tường băng vỡ vụn thành hàng trăm mảnh lấp lánh vô hại trong khi các thanh kiếm tập luyện bị mắc kẹt rơi an toàn xuống sân thượng. Các mảnh vỡ vẫn lơ lửng xung quanh cô trong một khoảnh khắc kịch tính trước khi lao về phía những kẻ tấn công như một cơn bão tuyết có kiểm soát. Các hạt băng va vào áo giáp của chúng và đẩy chúng lùi lại mà không xuyên qua cơ thể. Kẻ tấn công có ký hiệu màu vàng nhảy từ mái nhà cầu thang xuống với chiếc gậy giơ cao trên đầu. Sử dụng máy quay góc thấp đặt gần nữ chính khi bóng của hắn cắt ngang mặt trăng. Cô xoay người mượt mà và vẽ một vòng tròn bằng một tay. Một dải nước đóng băng dày xoắn ốc lên cao quanh chiếc gậy của hắn, khóa chặt nó tại chỗ và đổi hướng đà của hắn. Hắn xoay người vô hại trong không trung và hạ cánh xuống một đống tuyết mới hình thành gần bộ phận thông gió. Kẻ tấn công có ký hiệu màu xanh lá cây lao đến từ phía điểm mù của cô. Cô lấy chiếc kẹo mút ra khỏi miệng lần đầu tiên, thở ra một làn hơi lạnh nhỏ và chạm chiếc kẹo vào lan can kim loại bên cạnh. Sương giá chạy dọc theo lan can và tạo thành một đường băng cong khắp sân thượng. Cô bước lên đó và lướt ngược lại với sự cân bằng dễ dàng khi kẻ tấn công liên tục vung gậy và trượt. Sử dụng cảnh quay theo sát nhanh bên cạnh khi cô lướt trên đường băng, cúi người dưới một đòn tấn công, xoay người quanh đòn khác và bắt lấy cổ tay kẻ tấn công bằng một tay. Cô đẩy hắn về phía những kẻ tấn công khác đang hồi phục. Cả bốn va vào nhau nhưng không bị thương về thể xác. Những kẻ tấn công bao vây cô cho một đòn tấn công cuối cùng phối hợp. Máy quay kéo ra góc nhìn toàn cảnh từ trên cao khi chúng lao đến từ bốn hướng. Cô ngồi xổm và ấn lòng bàn tay phẳng xuống sân thượng. Một xung nhịp sương giá màu xanh trắng hình tròn bùng nổ lan rộng khắp mặt bê tông. Những cấu trúc băng cong cao vút mọc lên xung quanh cô như những cánh hoa của một bông hoa đóng băng. Mỗi cánh hoa băng chặn một kẻ tấn công và bẫy chặt chân chúng xuống sân thượng trong khi vẫn để phần thân trên của chúng không bị thương. Tạo một khoảnh khắc im lặng ngắn ngủi. Cho thấy nữ chính đứng ở trung tâm của bông hoa băng khổng lồ trong suốt khi tuyết và các tinh thể băng vỡ trôi nổi xung quanh cô. Ánh đèn thành phố lung linh xuyên qua các cấu trúc đóng băng. Cô đặt chiếc kẹo mút trở lại miệng, chỉnh lại chiếc nơ xanh và nhìn những kẻ tấn công đang bị bất động với biểu cảm thư thái, gần như tinh nghịch. Ở phần kết, một kẻ tấn công bí mật giải thoát chân và cố gắng tung đòn cuối cùng từ phía sau. Không cần quay đầu lại, cô búng tay. Một cột băng nhỏ rơi từ đường ống phía trên và đập xuống sân thượng ngay trước chân hắn, làm hắn giật mình và ngã ngửa vào đống tuyết mềm. Cô nở một nụ cười hài lòng nhỏ và bước về phía lối vào cầu thang trong khi bông hoa băng khổng lồ bắt đầu giải phóng sương giá lấp lánh vào không trung ban đêm. PHONG CÁCH MÁY QUAY: Sử dụng chuyển động máy quay điện ảnh tràn đầy năng lượng nhưng có kiểm soát, quay theo góc thấp, chuyển động ngang nhanh, cảnh quay phản ứng cận cảnh, một cảnh quay quỹ đạo mượt mà quanh các thanh kiếm đóng băng và góc nhìn toàn cảnh từ trên cao cho cấu trúc băng cuối cùng. Giữ cho mọi đòn tấn công dễ theo dõi. Sử dụng động lượng thực tế, vị trí đặt chân chính xác, các va chạm đáng tin cậy, sự cân bằng cơ thể tự nhiên và các chuyển đổi mượt mà giữa các nhịp vũ đạo. Tránh việc máy quay xoay ngẫu nhiên và rung lắc quá mức. ÁNH SÁNG VÀ VFX: Kết hợp ánh trăng lạnh, đèn an ninh sân thượng, đèn cảnh báo máy bay màu đỏ và ánh sáng ấm áp của thành phố bên dưới. Năng lực băng tạo ra ánh sáng xanh trắng tiết chế tương tác tự nhiên với khuôn mặt, quần áo, bê tông và các vật thể xung quanh. Băng phải có độ trong suốt thực tế, các vết nứt bên trong, sương giá, khúc xạ, ngưng tụ, trọng lượng và vật lý vỡ vụn. Hiển thị sự dịch chuyển tuyết chi tiết, chuyển động của nước đóng băng, hơi thở và các hạt lấp lánh mà không làm cho cảnh quay trông giống trò chơi điện tử. ÂM THANH: Sử dụng tiếng gió mùa đông mạnh, tiếng giao thông thành phố từ xa, tiếng bốt cọ xát trên băng, tiếng gậy di chuyển nhanh, tiếng nước chảy từ cống, tiếng nứt băng sâu, tiếng va chạm băng sắc bén, âm thanh vỡ vụn có kiểm soát, tiếng chuyển động quần áo và tiếng lách cách nhẹ của chiếc kẹo mút chạm vào răng cô. Thêm nhạc nền hành động điện tử-giao hưởng căng thẳng tăng dần trong đòn tấn công phối hợp và đột ngột trở nên yên tĩnh trong cảnh tiết lộ bông hoa băng cuối cùng. Không có lời thoại. TÍNH LIÊN TỤC: Duy trì danh tính của nữ chính, kiểu tóc tím pastel, áo blazer xám, nơ xanh, chiếc kẹo mút, tình trạng quần áo và tính cách bình tĩnh trong suốt video. Duy trì tất cả bốn
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096821250534563840/img/OEWuape71bf4uSSz.jpg" width="600" alt="Chuỗi hành động giả tưởng phong cách anime trên sân thượng">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=10445)**
+
+**Tác giả:** [Elaine Wright](https://x.com/ElaineWrigari1) | **Nguồn:** [Link](https://x.com/ElaineWrigari1/status/2096821611240538456) | **Đã xuất bản:** Sep 7, 2026
+
+---
+### Kịch bản phim võ hiệp Tiên hiệp Trung Quốc
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Một kịch bản điện ảnh chuyên nghiệp cho phim ngắn Tiên hiệp có tựa đề 'Đừng ngoảnh lại', tập trung vào sự căng thẳng cảm xúc và tính nhất quán của nhân vật giữa một sư tỷ và sư muội.
+
+#### 📝 Prompt
+
+```
+Phim ngắn Tiên hiệp 15 giây | "Đừng ngoảnh lại" I. Định vị cốt lõi Tạo ra một đoạn phim ngắn Tiên hiệp Trung Quốc hoàn chỉnh và liên tục trong 15 giây. Phong cách tổng thể: Kết cấu điện ảnh chân thực, thẩm mỹ Tiên hiệp cổ trang Trung Quốc thuần túy, tâm lý căng thẳng trưởng thành, sức mạnh cảm xúc kiềm chế nhưng sắc bén, được dẫn dắt bởi ẩn ý thay vì lời thoại giải thích, lời thoại ngắn gọn theo phong cách biên kịch chuyên nghiệp, bố cục nhân vật võ hiệp thanh lịch, chất lượng phim Arri Alexa, chi tiết khuôn mặt ổn định và sắc nét, hạt phim tinh tế, ánh sáng thể tích tự nhiên. Sự đảo ngược này tập trung vào: sự phụ thuộc cảm xúc bị hiểu lầm là chán ghét. Nhận thức lớp đầu tiên phải giữ vững: kẻ thù mang ra lệnh điều chuyển ba năm trước, chứng minh sư tỷ đích thân yêu cầu sư muội phải rời xa mình. Mọi người, bao gồm cả sư muội, tự nhiên hiểu đó là sư tỷ thấy cô ấy là vật cản hoặc gánh nặng. Sự đảo ngược thực sự ẩn giấu và trưởng thành hơn: cô ấy không muốn vứt bỏ sư muội, mà nhận ra mình đã trở nên phụ thuộc đến mức nguy hiểm. Trước mỗi đường kiếm, cô ấy đều phải xác nhận sự an toàn của sư muội. Cô ấy từ chối biến cuộc đời người khác thành điểm tựa cho trạng thái tâm trí của chính mình. Chủ đề thực sự: "Không phải ta ghét đệ. Mà là ta phải học cách sống mà không dựa dẫm vào đệ trước đã." II. Neo định danh nhân vật Nhân vật A | Sư tỷ Kiếm tiên | @Image 1 Khóa chặt vào cùng một phụ nữ Đông Á 25–30 tuổi: khuôn mặt trái xoan thanh tú, đôi mắt hạnh đen láy, tóc đen dài buộc nửa đầu với trâm ngọc trắng. Cao và mảnh khảnh, mặc cùng một bộ Hán phục lụa trắng thêu, tay áo rộng nhiều lớp xuyên thấu, đai lưng bạc, ngọc bội, giày vải trắng. Một thanh kiếm dài bạc. Trạng thái: Không bao giờ né tránh sự thật, không vội vàng biện minh, không giải thích rẻ tiền, lời thoại tối giản nhưng chính xác. Không lạnh lùng, mà cực kỳ kiềm chế. Cường độ cảm xúc ẩn giấu trong những câu ngắn. Hành trình cảm xúc: Thừa nhận lệnh là thật -> Chịu đựng hiểu lầm -> Nói ra lý do thực sự -> Thừa nhận sự phụ thuộc và nỗi sợ -> Hướng ánh nhìn về phía trước. Nhân vật B | Sư muội | @Image 2 Khóa chặt vào cùng một phụ nữ Đông Á 20–25 tuổi: khuôn mặt tròn, tóc tết đen, vóc dáng nhỏ nhắn. Mặc cùng một bộ Hán phục vải lanh màu xanh lục, đai lưng tối màu, trâm gỗ, giày vải đen. Một thanh kiếm thép đen. Trạng thái: Tổn thương nhưng đầy tự trọng, không hờn dỗi, chỉ có những câu hỏi ngắn, đau đớn. Đủ thông minh để nghe ra ý nghĩa sâu xa hơn. Hành động cuối cùng là bước tới phía trước sư tỷ. Hành trình cảm xúc: Sốc -> Tổn thương -> Truy vấn -> Choáng váng -> Thấu hiểu -> Phản ứng trưởng thành. Kẻ thù chiến lược: Bị bắt, quỳ gần đó. Ném bằng chứng vật chất để tạo hiểu lầm. Nhận ra bằng chứng tiết lộ một mối liên kết sâu sắc hơn. Không cần la hét, chỉ cần thể hiện sự tự tin và mất kiểm soát khi sự đảo ngược xảy ra. Sư phụ và hai đệ tử: Nhân chứng phụ. Sư phụ đại diện cho quy tắc/hệ thống cũ, đệ tử đại diện cho sự hiểu lầm của người ngoài cuộc. III. DNA môi trường Môi trường thống nhất từ hình ảnh tham khảo: địa hình thực tế, ngôn ngữ kiến trúc, quy mô không gian, vật liệu, thảm thực vật, nước, sương mù núi, mây, hướng ánh sáng chính, mối quan hệ phản chiếu, màu sắc tổng thể, độ sâu không khí, đường di chuyển thực tế. Nguyên tắc môi trường: Nền phải sống động (nước chảy, gió, sương mù di chuyển, cây cối đung đưa, tóc/quần áo phản ứng với gió). Môi trường phải giữ tính trung lập về mặt tự sự. IV. Cấu trúc 3 cảnh quay 15 giây Cảnh 1 | 0–5s | Toàn cảnh/Viễn cảnh | Lệnh được đưa ra. Không gian thống nhất, kẻ thù quỳ, sư tỷ và sư muội trong mối quan hệ thị giác rõ ràng. Kẻ thù ném lệnh: "Ba năm trước, chính cô ta đã yêu cầu điều chuyển ngươi." Tạm dừng ngắn. Sư muội hỏi: "Thật sao?" Sư tỷ: "Thật." Mục tiêu: Thiết lập sự phản bội. Cảnh 2 | 5–10s | Trung cảnh | Sự thật lộ diện. Cùng nhân vật, cùng không gian. Sư muội: "Tỷ thấy ta là gánh nặng sao?" Sư tỷ: "Không. Khi đó, mỗi lần ta vung kiếm, ta đều nhìn lại đệ trước tiên." Sự đảo ngược đầu tiên. Nụ cười của kẻ thù tắt dần. Sư tỷ: "Ta nhận ra điều ta sợ không phải là mất mát." Mục tiêu: Khán giả nhận ra việc điều chuyển không phải là bỏ rơi mà là sự quan trọng tột cùng. Cảnh 3 | 10–15s | Cận cảnh/Cận cảnh đặc tả | Làm rõ sự phụ thuộc. Sư muội: "Tỷ sợ điều gì?" Sư tỷ: "Sợ đệ không theo kịp. Nên ta đã học cách sống mà không dựa dẫm vào đệ." Sư muội: "Rồi sao nữa?" Sư tỷ: "Rồi ta nhận ra đệ vốn chẳng cần ta phải nhìn lại nữa." Hành động kết thúc: Sư muội bước tới, đứng trước mặt sư tỷ: "Vậy thì bây giờ đừng ngoảnh lại nữa." Sư tỷ nhìn về phía trước: "Được." V. Quy tắc diễn xuất (Kiềm chế, không cường điệu, ẩn ý cụ thể). VI. Nguyên tắc điện ảnh (3 cảnh quay, ổn định, chất lượng Arri Alexa). VII. Thiết kế âm thanh (Lời thoại tiếng Quan Thoại, tiếng động hiện trường cho giấy/quần áo/kiếm, nhịp nghỉ theo tiết tấu). VIII. Ràng buộc tính nhất quán (Định danh, trang phục, đạo cụ, ánh sáng, môi trường). IX. Thông số kỹ thuật đầu ra (15s, 16:9, đồng bộ âm thanh). X. Prompt phủ định: mờ, chất lượng kém, độ phân giải thấp, nhiễu, lỗi jpeg, hình mờ, văn bản, phụ đề, lỗi; biến dạng, đột biến, giải phẫu xấu, bàn tay vẽ kém, bố cục xấu, ngoài khung hình, dị dạng; nhân vật không nhất quán, thay đổi quần áo, biến đổi khuôn mặt, thay đổi kiểu tóc, thay đổi nền, đạo cụ biến mất, cắt cảnh bị lỗi; khóc lóc cường điệu, la hét thú nhận, ôm nhau đoàn tụ sáo rỗng, lời thoại giải thích quá mức, độc thoại ủy mị, mô típ tha thứ đột ngột, phản diện trở thành trung tâm cảm xúc, môi trường phản ứng với lời thoại, gió thổi kịch tính, ánh sáng mặt trời biểu tượng, nước đóng băng, sương mù đóng băng, người ở xa đóng băng, thay đổi kiến trúc ngẫu nhiên, yếu tố hiện đại, phong cách anime, CG giống trò chơi, HDR quá mức
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096800711350882304/img/cs9NAfmaMZann0-R.jpg" width="600" alt="Kịch bản phim võ hiệp Tiên hiệp Trung Quốc">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=10449)**
+
+**Tác giả:** [Soran](https://x.com/Soranlan) | **Nguồn:** [Link](https://x.com/Soranlan/status/2096800771321081920) | **Đã xuất bản:** Sep 7, 2026
+
+---
+### Hoạt hình Stop-Motion về nhân vật bằng đá
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) vừa kỳ ảo vừa chân thực để tạo hoạt hình stop-motion về một nhân vật bằng đá sống dậy trên bờ biển.
+
+#### 📝 Prompt
+
+```
+Tạo một đoạn hoạt hình stop-motion điện ảnh dọc 9:16 dài 21 giây. Một nhân vật hình người tí hon được tạo hoàn toàn từ những viên đá cuội tự nhiên trên bãi biển bỗng nhiên sống dậy trong một vũng nước triều nông trên bờ biển đầy đá. Mỗi bộ phận cơ thể được ghép từ những viên đá riêng biệt—viên đá bầu dục lớn làm đầu, những viên đá tròn xếp chồng làm thân, những viên đá nhỏ hơn tạo thành tay và chân.
+
+Cảnh quay được thực hiện qua một hàng rào lưới thép hơi mất nét, tạo thành khung tiền cảnh tự nhiên. Phía sau nhân vật là bờ biển tĩnh lặng, nước biển nông, những tảng đá bám đầy hà, rong biển và khu rừng mờ ảo dưới bầu trời u ám. Kết cấu chân thực, màu sắc tự nhiên trầm lắng, độ sâu trường ảnh nông, phản chiếu mặt nước sống động.
+
+Hoạt hình: Nhân vật bằng đá từ từ giữ thăng bằng và bắt đầu di chuyển như một con người nhỏ bé tinh nghịch. Nó chuyển trọng tâm, nhấc một chân, khuỵu gối, vung đôi tay bằng đá và thực hiện một điệu nhảy kỳ quặc trong khi vẫn cẩn thận giữ thăng bằng trên bề mặt ướt. Những gợn sóng nhỏ hình thành dưới mỗi bước chân, và hình ảnh phản chiếu của nó di chuyển tự nhiên trong nước. Các chuyển động mang cảm giác stop-motion thủ công, hơi không hoàn hảo nhưng đáng tin, với vật lý và trọng lượng của đá chân thực.
+
+Về những giây cuối, nhân vật mất thăng bằng, vấp ngã và đổ sụp một cách tự nhiên, các viên đá rời ra và lăn trên mặt đất ướt nông. Nhân vật hoàn toàn tan rã thành những viên đá bình thường. Kết thúc bằng cảnh máy quay giữ nguyên ở những viên đá nằm rải rác và hình ảnh phản chiếu của chúng.
+
+Máy quay: bố cục dọc kiểu điện thoại thông minh cố định, chuyển động máy quay tự nhiên tinh tế, cảnh trung-toàn, góc thấp gần mực nước, hiệu ứng bokeh tiền cảnh mạnh từ hàng rào, độ sâu trường ảnh điện ảnh.
+
+Ánh sáng: ánh sáng ban ngày khuếch tán dịu nhẹ, bầu không khí ven biển u ám, phản chiếu chân thực và các điểm nhấn trên đá ướt.
+
+Phong cách: môi trường live-action siêu thực + nhân vật stop-motion bằng đá chân thực đầy kỳ ảo, kết cấu đá sần sùi, chuyển động vật lý đáng tin, nhiếp ảnh macro điện ảnh, không có bề mặt trông như CGI, không chữ, không có con người.
+
+Câu lệnh phủ định (Negative prompt): hoạt hình, đá trông như nhựa, đặc điểm khuôn mặt phóng đại, nhân vật CGI mượt mà, vật thể trôi nổi, vật lý phi thực tế, thừa chi tiết tay chân, môi trường thay đổi, cắt cảnh, văn bản, hình mờ, màu sắc quá bão hòa.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096791751994609664/img/vtRtf7pbhXreFq2a.jpg" width="600" alt="Hoạt hình Stop-Motion về nhân vật bằng đá">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=10441)**
+
+**Tác giả:** [Marcos](https://x.com/arsalannazir07) | **Nguồn:** [Link](https://x.com/arsalannazir07/status/2096791786807275583) | **Đã xuất bản:** Sep 7, 2026
+
+---
+### Prompt cho Vlog làm đẹp về chăm sóc da
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Một prompt tạo video chi tiết để tạo vlog làm đẹp dài 15 giây với nhân vật nữ Nhật Bản nhất quán đang thực hiện quy trình chăm sóc da trong phòng tắm.
+
+#### 📝 Prompt
+
+```
+Tạo một vlog làm đẹp 9:16 siêu thực dài 15 giây với cùng một cô gái trẻ nhất quán. Khuôn mặt, kiểu tóc, tông da, trang phục và danh tính của cô ấy phải hoàn toàn nhất quán.
+
+Bối cảnh: Một phòng tắm hiện đại, sạch sẽ, sáng sủa với gương lớn, ánh sáng ấm áp dịu nhẹ, trang trí tối giản và vài chậu cây xanh nhỏ. Phong cách quay vlog/điện thoại cầm tay tự nhiên.
+
+0:00–0:03: Một cô gái cầm điện thoại bằng một tay và chụp ảnh selfie trong gương. Cô ấy mỉm cười khi giới thiệu sữa rửa mặt Himalaya Purifying Neem Face Wash, đưa tuýp sản phẩm hướng rõ về phía camera.
+Văn bản trên màn hình: "My Morning Skincare"
+
+0:03–0:05: Cận cảnh sữa rửa mặt. Cô ấy mở nắp và lấy một lượng nhỏ vào lòng bàn tay. Hiển thị kết cấu dạng gel chân thực.
+Văn bản trên màn hình: "Neem + Turmeric"
+
+0:05–0:09: Cô ấy nhẹ nhàng thoa sữa rửa mặt lên má và trán, massage một cách tự nhiên. Sau đó, cô ấy rửa mặt tại bồn rửa, thể hiện chuyển động của nước một cách chân thực.
+
+0:09–0:12: Cô ấy nhìn vào gương với làn da tươi tắn, sạch sẽ, chạm vào má và mỉm cười.
+Văn bản trên màn hình: "Fresh & Clean"
+
+0:12–0:15: Cô ấy cầm sản phẩm bên cạnh khuôn mặt, giơ ngón tay cái đầy dễ thương và kết thúc bằng một cảnh quay sản phẩm sạch sẽ đặt cạnh một chậu cây nhỏ và khăn tắm trên kệ phòng tắm.
+Văn bản trên màn hình: "My Skincare Recommendation"
+
+Phong cách: Ảnh chân thực, kết cấu da tự nhiên, tóc và bàn tay chân thực, cảnh quay điện thoại thông minh xác thực, chuyển động cầm tay tinh tế, ánh sáng điện ảnh dịu nhẹ, phản chiếu chân thực, 4K, không giống CGI, không làm biến dạng khuôn mặt hoặc bao bì sản phẩm.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096774938086752256/img/RWxor4jrYgc8pbWt.jpg" width="600" alt="Prompt cho Vlog làm đẹp về chăm sóc da">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=10452)**
+
+**Tác giả:** [Mr.できる君](https://x.com/dek1rukun) | **Nguồn:** [Link](https://x.com/dek1rukun/status/2096774979400695861) | **Đã xuất bản:** Sep 7, 2026
+
+---
+### Vlog selfie thực tế trong phòng kiểu Nhật
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Một prompt tạo video cực kỳ chi tiết dành cho Seedance 2.5, tạo ra một cảnh quay selfie liên tục của một người phụ nữ trong căn hộ kiểu Nhật, tập trung vào chuyển động tự nhiên và cách xử lý camera chân thực.
+
+#### 📝 Prompt
+
+```
+Hãy đọc nội dung của các URL này và biến chúng thành một Skill. Luôn sử dụng Skill này khi yêu cầu tạo prompt cho Seedance 2.5. Hãy ghi nhớ điều này để không quên. https://t.co/BPHSzqNopm https://t.co/aUJgXKFRip https://t.co/u79zESgiTk Ngoài ra, hãy thêm các quy tắc sau vào Skill. Khi tạo lời thoại cho việc khớp môi (lip-sync), hãy tuân thủ các quy tắc sau: - Chuyển các chữ kanji khó mà AI khó đọc sang hiragana. - Không viết số bằng kanji (ví dụ: Hai nghìn năm, Một trăm chín mươi hai lần); hãy sử dụng chữ số Ả Rập (ví dụ: 2.000 năm, 192 lần). - Viết tiếng Anh bằng katakana. [Định dạng] 20 giây, dọc 9:16. Một video selfie hàng ngày được quay bằng camera trước của điện thoại thông minh. Một cảnh quay liên tục duy nhất từ đầu đến cuối. Độ nghiêng trái-phải (roll) của camera là 0 độ trong suốt quá trình. Giữ màn hình dọc theo chiều ngang và không sử dụng góc quay nghiêng (Dutch angle). [Nhân vật/Tham chiếu] Hình ảnh đính kèm 1 là bảng nhân vật của cùng một người phụ nữ, kết hợp cận cảnh khuôn mặt, toàn thân nhìn từ phía trước và toàn thân nhìn từ phía sau. Sử dụng nó làm tài liệu tham khảo chính duy nhất cho nhân vật và trang phục. Đây không phải là khung hình bắt đầu. Không đưa nền xám, tư thế đứng, ánh sáng studio hoặc bố cục 3 góc nhìn của bảng nhân vật vào video. Không hiển thị chính bảng nhân vật đó hoặc chuyển cảnh từ bảng nhân vật. Cảnh quay thực tế bắt đầu từ khung hình đầu tiên khi người phụ nữ bước vào căn phòng sau đây trong khi cầm camera. Người phụ nữ là một nhân vật hư cấu 29 tuổi, cao 163 cm, người Nhật. Duy trì cấu trúc khuôn mặt, vóc dáng mảnh mai và độ rộng vai, cánh tay thon thả, cổ thanh mảnh và mái tóc bob màu nâu sẫm với phần tóc mái mỏng từ Hình 1 trong suốt video. Khuôn mặt trái xoan sạch sẽ, đôi mắt kích thước tự nhiên và lối trang điểm hàng ngày nhẹ nhàng. Cô ấy trông cá tính và thanh lịch, với nụ cười tự nhiên, thân thiện. Sử dụng áo tank top gân nhỏ màu xanh coban rực rỡ và quần denim ống rộng màu xanh nhạt từ Hình 1. Áo tank top có cổ vuông nông, kiểu dáng gọn gàng ôm sát cơ thể một cách tự nhiên và độ dài chạm gần đến thắt lưng của quần denim. Quần denim vừa vặn quanh eo và suông rộng từ đùi đến gấu quần. Duy trì vị trí thắt lưng, độ dài gấu quần, túi và độ phai màu từ Hình 1. Đi chân trần, không đeo kính hay phụ kiện. Duy trì vóc dáng mảnh mai từ Hình 1 ngay cả khi đang ngồi. [Hành động] Mô tả liên tục bố cục và dòng chảy chuyển động sau đây trong 20 giây. Lúc bắt đầu, người phụ nữ đi bộ trong khi cầm camera gần thắt lưng. Cô ấy đặt camera lên bàn, tự mình ngồi vào ghế và tiếp tục như đang nói chuyện với một người bạn thân. Sau khi ngồi, cô ấy vén tóc ra sau tai một lần, cuối cùng vẫy tay nhỏ và cầm camera lên. Cuộc trò chuyện được chỉ định diễn ra trong khi đi bộ, thiết lập camera và ngồi xuống. [Môi trường] Một căn hộ một phòng nhỏ cho thuê ở Nhật Bản. Tường và trần nhà màu trắng, sàn gỗ sáng màu. Một bàn gỗ và ghế, cửa sổ trượt lớn, rèm ren. Ở phía sau bên trái bàn là một chiếc gương để bàn khung gỗ, một túi tote vải canvas màu xanh navy và vài cuốn sách bên cạnh. Phía trước bàn được giữ gọn gàng. Một căn phòng bình thường, sạch sẽ nhưng có cảm giác đang sinh sống. Duy trì vị trí của các đồ vật và hình dạng căn phòng trong suốt video. Không phản chiếu khuôn mặt rõ nét hoặc người khác trong gương. [Chuyển cảnh Camera/Bố cục] Một cảnh quay liên tục duy nhất di chuyển từ vị trí cầm tay thấp đến khi cố định trên bàn. Bảng nhân vật chỉ là tài liệu tham khảo cho nhân vật và trang phục, không phải cho bố cục camera. 0,0 đến 4,0 giây: Cầm camera trước dọc gần thắt lưng và hướng ống kính lên trên. Tuy nhiên, chỉ thay đổi góc dọc (pitch) để nhìn lên, không nghiêng màn hình sang trái hoặc phải. Ở tiền cảnh là thân trên và thắt lưng của quần, ở phần trên màn hình là cằm và khuôn mặt, phía sau là trần nhà rộng. Chỉ có chuyển động dọc nhỏ phù hợp với nhịp đi bộ, không xoay trái hoặc phải, đi từ lối vào mờ tối đến căn phòng sáng sủa có cửa sổ. Cánh tay cầm camera bị rút ngắn ở cạnh màn hình, bản thân điện thoại thông minh và bàn tay cầm nó nằm ngoài khung hình. Lúc bắt đầu, cô ấy nói trong khi nhìn về hướng đang đi. 4,0 đến 5,8 giây: Đặt camera lên một giá đỡ dọc ổn định trên bàn gỗ. Giá đỡ nằm ngoài khung hình. Hạ camera xuống và điều chỉnh góc dọc để chuyển tiếp liên tục sang bố cục cửa sổ, bàn, gương và túi. Không xoay trái hoặc phải. Đầu ngón tay lướt qua cạnh dưới, các rung lắc dọc nhỏ giảm dần và dừng lại. Sau khi đặt xong, mức ngang được thiết lập chắc chắn với độ nghiêng (roll) 0 độ và không nghiêng trái-phải. Người phụ nữ tạm thời di chuyển sang bên phải màn hình và quay lại từ bên phải để ngồi vào ghế. Ngay cả trong lúc đặt camera ngắn ngủi này, giọng nói vẫn được nghe thấy ở gần. 5,8 đến 19,5 giây: Camera được cố định theo chiều ngang trên giá đỡ ổn định ở mép bàn, không thay đổi góc hoặc tiêu cự. Bố cục dọc rộng nhìn hơi hướng lên từ vị trí thấp. Góc nhìn hướng lên ở đây chỉ nằm trong góc dọc. Xoay quanh trục quang học là 0 độ; không nghiêng màn hình sang trái hoặc phải. Các đường nối dọc của tường gần trung tâm màn hình hoặc khung dọc của cửa sổ gần như song song với các cạnh dọc của hình ảnh. Giữ phối cảnh tự nhiên của ống kính góc rộng nhẹ, nhưng không làm cho toàn bộ căn phòng bị nghiêng. Không nhầm lẫn việc cạnh bàn trông có vẻ chéo do chiều sâu với việc nghiêng chính camera. Người phụ nữ ngồi bên phải trung tâm màn hình. Cô ấy nằm trong khung hình từ đầu đến thắt lưng và cả hai cẳng tay, để lại một khoảng tường trắng rộng và trần nhà phía trên đầu. Không quay cận cảnh khuôn mặt. Cửa sổ lớn và rèm ren có thể nhìn thấy từ phía sau bên phải cô ấy. Mặt bàn gỗ trải dài theo đường chéo từ dưới màn hình lên phía sau bên trái. Gương khung gỗ và túi màu xanh navy nằm bên trái màn hình. Thân trên của người phụ nữ hướng về phía gương/bàn bên trái, và cô ấy quay mặt về phía ống kính khi nói. Không làm cho sự gần gũi tạm thời của nhân vật ngay sau khi ngồi trở thành hiệu ứng zoom trong bố cục cố định. 19,5 đến 20,0 giây: Người phụ nữ với tay lấy camera, bàn tay cô ấy mờ đi gần ống kính và cô ấy nhấc nó lên mà không nghiêng camera sang trái hoặc phải, kết thúc khi màn hình di chuyển nhẹ lên trên. Các vết cắt, thiết lập lại cảnh, zoom, lia máy theo nhân vật, góc quay nghiêng (Dutch angle), nghiêng trái-phải và xoay quanh trục quang học đều bị cấm. Không gây ra thay đổi tiêu cự trong phần cố định. Nền có thể nhận diện là đặc trưng của điện thoại thông minh. Không hiển thị chính điện thoại thông minh hoặc thiết bị quay phim khác. [Ánh sáng và Sự hiện diện] Lúc bắt đầu, độ phơi sáng thay đổi tự nhiên từ sự mờ tối của lối vào sang ánh sáng tự nhiên từ cửa sổ. Sau khi ngồi, ánh sáng tự nhiên dịu nhẹ đi vào từ cửa sổ phía sau bên phải màn hình cùng với sự phản chiếu từ các bức tường trắng. Duy trì lỗ chân lông nhỏ trên má, lông tơ, bóng mờ mỏng quanh mắt, nếp nhăn nhỏ trên môi và sự phản chiếu bã nhờn tự nhiên. Nụ cười hơi không đối xứng, chớp mắt và thở tự nhiên, các chuyển động lông mày nhỏ phù hợp với nội dung bài phát biểu. Không xử lý da cho mịn màng. Không sử dụng bộ lọc làm đẹp, da giống CG hoặc ánh sáng giống quảng cáo. Duy trì kết cấu tinh tế của cảnh quay điện thoại thông minh. [Thời gian/Diễn xuất] 0,0 đến 6,2 giây: Câu 1 bắt đầu từ 0,2 giây đầu tiên. Đi bộ vào phòng, đặt camera và nói trong khi di chuyển đến ghế. Phát âm rõ "Seedance 2.5". Không nhìn vào ống kính lúc bắt đầu. Sử dụng tay để đặt camera và không thực hiện thêm cử chỉ nào khác. 6,2 đến 8,8 giây: Trong khi hạ người xuống ghế, quay mặt về phía ống kính và nói Câu 2. Một khoảng dừng ngắn trước "but" (kedo). Nụ cười mờ dần một chút và lông mày hơi nhíu lại. Nghiêng đầu nhẹ như đang tìm kiếm sự đồng cảm trong "it's difficult" (muzukashii no). Không làm biểu cảm nghiêm trọng hoặc thất vọng thái quá. 8,8 đến 16,7 giây: Câu 3. Biểu cảm trở lại nhẹ nhàng. Trong khi nói, vén tóc một bên ra sau tai một lần và hạ tay xuống. Gật đầu nhẹ ở "because I wrote it in a post". Nhìn thẳng vào ống kính ở "please bookmark it", nói một cách thân thiện, nhấn mạnh nhẹ. Không sử dụng cử chỉ chỉ trỏ hoặc cử chỉ lớn. 16,7 đến 18,6 giây: Thở nhẹ và nói Câu 4. Nụ cười lan tỏa tự nhiên, giơ một tay lên bên má và vẫy nhẹ qua lại từ cổ tay. 18,6 đến 19,5 giây: Kết thúc bài phát biểu và hạ tay xuống với nụ cười nhẹ nhàng còn vương lại. Ở 19,5 đến 20,0 giây, với tay lấy camera và kết thúc trong khi nhấc nó lên. Khung thời gian là hướng dẫn cho diễn xuất liên tục. Không dừng hoặc cắt màn hình tại mỗi ranh giới. [Âm thanh/Lời thoại] Tiếng Nhật Tokyo tự nhiên. Giọng nói bình tĩnh, hơi thở nhẹ, rõ ràng của một phụ nữ 29 tuổi. Nhịp độ nhanh, nhẹ nhàng như đang nói chuyện với một người bạn. Nói tất cả các câu trong khoảng 18 giây. Tránh giọng đơn điệu, giọng phát thanh viên, cao độ quá cao hoặc nhấn mạnh kiểu nhân viên bán hàng. Chèn các khoảng dừng tự nhiên ngắn giữa các câu. Đồng bộ hóa chuyển động miệng với cách phát âm tiếng Nhật. Chỉ nói bốn câu sau theo thứ tự, không thay đổi một từ nào. Không thêm, diễn giải hoặc lặp lại. Câu 1: Ai de kouiu douga o tsukuru nara "Seedance Niiten-go" ga saikou. (Nếu bạn đang làm những video như thế này bằng AI, "Seedance 2.5" là tốt nhất.) Câu 2: Kedo, puronputo ga muzukashii no. (Nhưng các prompt rất khó.) Câu 3: Ii puronputo o tsukuru houhou o posuto ni kaita kara, bukku maaku shite oite ne. (Tôi đã viết cách tạo prompt tốt trong một bài đăng, vì vậy hãy đánh dấu nó nhé.) Câu 4: Jaa, mata ne. (Vậy nhé, hẹn gặp lại.) "AI" là A-I, cách phát âm của "Seedance 2.5" là "Seedance Niiten-go". Đọc rõ số "Niiten-go". Không đọc các dấu ngoặc kép. Âm thanh chỉ bao gồm giọng nói của chính cô ấy, tiếng thở nhẹ, tiếng sột soạt rất nhỏ của quần áo và âm thanh môi trường trong nhà. Không có nhạc nền, hiệu ứng âm thanh bổ sung, lời dẫn, phụ đề, văn bản trên màn hình hoặc logo. Người phụ nữ này là nhân vật duy nhất xuất hiện. Không làm biến dạng hoặc nhân bản khuôn mặt, bàn tay, quần áo hoặc nền ở giữa chừng.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096721788655013888/img/FtMO83Vaa1ttRd0w.jpg" width="600" alt="Vlog selfie thực tế trong phòng kiểu Nhật">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=10451)**
+
+**Tác giả:** [タナベ | AI動画 × マーケティング](https://x.com/tanabe_fragm) | **Nguồn:** [Link](https://x.com/tanabe_fragm/status/2096722038811754997) | **Đã xuất bản:** Sep 6, 2026
+
+---
+### Cuộc sống thường ngày của cô gái Jirai Kei
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Một câu lệnh toàn diện để tạo ra loạt cảnh quay ghi lại cuộc sống thường ngày của một cô gái theo phong cách thời trang 'Jirai Kei' Nhật Bản với phong cách chân thực, như được quay bằng điện thoại thông minh.
+
+#### 📝 Prompt
+
+```
+[Tổng quan] Một ngày bình thường của cô gái 21 tuổi theo phong cách thời trang 'Jirai Kei' thời Reiwa. Được ghi lại bởi một người bạn thân bằng điện thoại thông minh đặt nằm ngang. 480p, 16:9, 15 giây. 7 cảnh quay cắt nhanh tại các địa điểm khác nhau. Nhân vật đắm chìm vào các hoạt động của riêng mình và phớt lờ máy quay.
+
+[Nhân vật] Một cô gái Nhật Bản có vẻ ngoài giống thần tượng với làn da trắng, đôi mắt hai mí cụp và kiểu tóc buộc hai bên với ruy băng đen và hồng. Mặc áo blouse bèo nhún màu đen, chân váy xếp ly viền hồng và giày đế bánh mì màu đen.
+
+[Địa điểm] Phòng ngủ, sảnh vào, ghế công viên, lối đi ven sông, sàn nhà của bạn, cầu đi bộ vào ban đêm, cửa sổ tàu hỏa.
+
+[Máy quay] Video quay cầm tay bằng điện thoại thông minh hiện đại. Rung lắc tự nhiên, thỉnh thoảng lấy nét tự động và có nhòe chuyển động. Quay từ tầm mắt người (ngồi, đứng hoặc ngồi xổm).
+
+[Các cảnh quay]
+1. Chỉnh tóc mái trên giường.
+2. Thắt dây giày ở sảnh vào.
+3. Uống nước từ lon màu hồng trên ghế công viên.
+4. Xoay lọn tóc bên bờ sông.
+5. Tựa đầu vào lòng bạn.
+6. Ngắm nhìn ánh đèn thành phố từ trên cầu.
+7. Ngủ gật bên cửa sổ tàu hỏa; cắt sang màn hình đen ở giây thứ 14.
+
+[Chi tiết] Lon nước màu hồng trơn không có chữ. Không nhạc nền hay lời dẫn. Chỉ có âm thanh môi trường tự nhiên.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094095173894729728/img/35pNWGmpigQEFDdf.jpg" width="600" alt="Cuộc sống thường ngày của cô gái Jirai Kei">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=10453)**
+
+**Tác giả:** [妖精アーヤ](https://x.com/aiehon_aya) | **Nguồn:** [Link](https://x.com/aiehon_aya/status/2096720107011539334) | **Đã xuất bản:** Sep 6, 2026
+
+---
+### Chiến đấu dịch chuyển tức thời phong cách Anime điện ảnh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một prompt đậm chất hành động cho phân cảnh anime 2D dài 30 giây, nổi bật với các màn chiến đấu dịch chuyển tức thời và kỹ thuật cắt cảnh nhanh, dứt khoát.
+
+#### 📝 Prompt
+
+```
+@[char ref] xác định nhân vật nữ trưởng thành và trang phục của cô ấy; giữ nguyên cả hai trong phong cách anime 2D điện ảnh. Trận chiến dịch chuyển tức thời không ngừng nghỉ kéo dài 30 giây chống lại mười tám đặc vụ. Chính xác 19 cảnh quay, 18 lần cắt cảnh dứt khoát tại các ranh giới được liệt kê. Các cảnh cắt tiếp nối hành động mà không lặp lại.
+
+Đêm
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096704041937989634/img/6Na-k2eHP-_Nxw8B.jpg" width="600" alt="Chiến đấu dịch chuyển tức thời phong cách Anime điện ảnh">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=10444)**
+
+**Tác giả:** [Kōda](https://x.com/aimikoda) | **Nguồn:** [Link](https://x.com/aimikoda/status/2096705563220447262) | **Đã xuất bản:** Sep 6, 2026
+
+---
+### Video biên tập thời trang cao cấp
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) được thiết kế để tạo ra thước phim biên tập thời trang cao cấp dài 15 giây, đồng thời đảm bảo tính nhất quán tuyệt đối của nhân vật từ bảng tham chiếu.
+
+#### 📝 Prompt
+
+```
+Tạo một thước phim biên tập thời trang cao cấp dài 15 giây với nhân vật nữ trưởng thành trong @[char ref]. Giữ nguyên khuôn mặt, kiểu tóc, tỷ lệ cơ thể, tông màu da, trang phục, phụ kiện và phong cách hình ảnh của cô ấy. Sử dụng tài liệu tham chiếu làm nhân vật DUY NHẤT
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096574670506221568/img/kAOdo2rvT03JDpef.jpg" width="600" alt="Video biên tập thời trang cao cấp">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=10443)**
+
+**Tác giả:** [Zephyra Leigh](https://x.com/ZephyraLeigh) | **Nguồn:** [Link](https://x.com/ZephyraLeigh/status/2096574839637352928) | **Đã xuất bản:** Sep 6, 2026
+
+---
+### Tương tác với mèo trắng phong cách anime
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video prompt phong cách anime đầy cuốn hút về chú mèo đang chơi đùa trong căn hộ và tương tác với chủ nhân.
+
+#### 📝 Prompt
+
+```
+Một chú mèo trắng phong cách anime nhẹ nhàng với đôi mắt màu xanh mòng két to tròn bước đi trên sàn căn hộ ngập tràn ánh nắng, vồ lấy một quả bóng nhỏ màu trắng, sau đó ngước nhìn một chàng trai đang ăn bánh mì và nhảy thẳng vào lòng anh ấy.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2096555766417444864/pu/img/lHKD1wJvz_djVacs.jpg" width="600" alt="Tương tác với mèo trắng phong cách anime">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=10446)**
+
+**Tác giả:** [Sahil Verma](https://x.com/sahilvermaai) | **Nguồn:** [Link](https://x.com/sahilvermaai/status/2096555795324219599) | **Đã xuất bản:** Sep 6, 2026
+
+---
+### Kịch bản video ảo thuật điện ảnh
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Một prompt toàn diện cấp đạo diễn để tạo video trình diễn ảo thuật chất lượng cao, mô tả hiệu ứng biến hóa lụa nhanh chuyên nghiệp trên sân khấu phong cách Baroque.
+
+#### 📝 Prompt
+
+```
+Thời lượng: 18 giây
+Tỷ lệ khung hình: 9:16
+Tham chiếu: Ảo thuật gia = @, mặc lễ phục tuxedo đen tuyền, áo sơ mi trắng, nơ đen; Nữ diễn viên = một phụ nữ trẻ, xinh đẹp khoảng hai mươi tuổi với mái tóc nâu dài gợn sóng, mặc váy dạ hội hai dây đính kim sa màu đỏ tươi ôm sát, xẻ tà cao và đi giày cao gót vàng; ngoại hình và trang phục của cả hai nhân vật phải nhất quán tuyệt đối trong suốt video.
+Âm thanh: Độ vang của nhà hát lớn; tiếng gió liên tục từ chuyển động của dải lụa đỏ tốc độ cao; tiếng huýt sáo kỳ ảo khi dải lụa bay lên theo chiều dọc; tiếng reo hò và vỗ tay như sấm của khán giả khi nữ diễn viên xuất hiện; không lời thoại, không dẫn chuyện, không nhạc nền, không phụ đề.
+Phong cách tổng thể: Phong cách phim tài liệu sân khấu nhà hát siêu thực 8K, đèn sân khấu chuyên nghiệp có độ tương phản cao, hiệu ứng vật lý lụa chân thực, màn ảo thuật biến hình cơ thể vô hình, không dùng phong cách anime hoặc hiệu ứng CG chất lượng thấp.
+
+SỰ NHẤT QUÁN TOÀN CẦU
+Bối cảnh: Sân khấu nhà hát Baroque cổ điển châu Âu với rèm nhung đỏ thẫm. Đạo cụ bao gồm chân nến mạ vàng cổ điển và bàn đạo cụ chạm khắc. Sàn gỗ cứng tối màu phản chiếu ánh sáng. Có thể nhìn thấy bóng của khán giả ở hàng ghế đầu.
+Chủ thể chính: Ảo thuật gia là người điều khiển, nữ diễn viên là bạn diễn. Tỷ lệ cơ thể, khuôn mặt và kết cấu trang phục nhất quán.
+Đạo cụ: Lụa satin đỏ bản rộng, độ bóng cao, mật độ dày với độ rủ tuyệt vời.
+Công cụ hành động: Kéo lụa từ váy -> quấn xoắn ốc và biến mất -> kéo lụa lên trên như thác nước -> lụa tụ lại thành kén -> kén bung ra để lộ nữ diễn viên -> cúi chào kết thúc.
+Sự nhất quán của máy quay: Góc nhìn cầm tay mô phỏng từ hàng ghế đầu, toàn cảnh trung, một cú máy liên tục với khả năng lấy nét tự nhiên và độ rung nhẹ như hơi thở.
+Phủ định: Thay đổi trang phục, nhân bản chi, cắt cảnh, kết xuất hoạt hình, nhấp nháy, hình mờ (watermark).
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096487553495126016/img/HrjTXoILErTBPC3B.jpg" width="600" alt="Kịch bản video ảo thuật điện ảnh">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=10448)**
+
+**Tác giả:** [John](https://x.com/johnAGI168) | **Nguồn:** [Link](https://x.com/johnAGI168/status/2096487926217560519) | **Đã xuất bản:** Sep 6, 2026
+
+---
+### Người phụ nữ Hàn Quốc duyên dáng giữa mùa hè thôn quê
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý kể chuyện mùa hè ấm áp và đầy hoài niệm về một người phụ nữ Hàn Quốc ở vùng thôn quê, tập trung vào ánh nắng vàng, những viên đá cuội bên sông và quả dưa hấu.
+
+#### 📝 Prompt
+
+```
+Một cô gái Hàn Quốc duyên dáng với mái tóc ngắn uốn xoăn màu nâu mềm mại, các đường nét thanh tú, đôi mắt cười dịu dàng cùng biểu cảm ấm áp, thanh bình. Cô đội một chiếc mũ rơm nhẹ với phần viền sờn và mặc chiếc váy mùa hè không tay màu trắng có họa tiết hoa nhỏ tinh tế, chiếc váy nhẹ nhàng bay bổng quanh cơ thể. Cô cầm miếng dưa hấu đỏ mọng gần khuôn mặt dưới ánh nắng vàng dịu nhẹ bên khung cửa gỗ, sau đó cẩn thận bước qua những viên đá cuội nhẵn nhụi trên đôi giày bệt màu trắng trong khi xách một chiếc giỏ đan đầy những miếng dưa hấu. Cô ngồi xổm bên dòng suối nông trong vắt, dùng cả hai tay nhẹ nhàng đặt quả dưa hấu sọc xuống nước để làm mát rồi mỉm cười. Cô đứng trên lan can ban công gỗ, chỉnh lại chiếc mũ rơm với nụ cười dịu dàng, đi dạo dọc theo con đường ven sông đầy nắng giữa những bông hoa hướng dương vàng rực rỡ, vừa đi vừa quay lại nhìn hoa rồi mỉm cười với ống kính. Cuối cùng, cô đứng trên hiên gỗ truyền thống với chiếc chuông gió bằng thủy tinh treo lơ lửng, tay cầm chai sữa thủy tinh, chỉnh lại mũ và tóc, ngước nhìn lên đầy bình yên rồi quay lại nhìn vào camera với nụ cười rạng rỡ, dịu dàng. Tất cả tạo nên một bầu không khí mùa hè thôn quê đậm chất điện ảnh với ánh sáng tự nhiên ấm áp, những tán lá xanh, dòng nước chảy và tâm trạng hoài niệm yên bình.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096465156452806656/img/03yhpbFjN5VpHHzh.jpg" width="600" alt="Người phụ nữ Hàn Quốc duyên dáng giữa mùa hè thôn quê">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=10403)**
+
+**Tác giả:** [liana](https://x.com/Lianaalane) | **Nguồn:** [Link](https://x.com/Lianaalane/status/2096465196856340515) | **Đã xuất bản:** Sep 6, 2026
+
+---
+### Trận chiến với người ngoài hành tinh trong phim kinh dị khoa học viễn tưởng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) kinh dị khoa học viễn tưởng hoành tráng về cuộc đụng độ trên chiến trường tăm tối giữa một sinh vật ngoài hành tinh bọc thép khổng lồ và một nữ chiến binh, với hiệu ứng ánh sáng đêm màu xanh đầy kịch tính.
+
+#### 📝 Prompt
+
+```
+Cảnh quay kinh dị khoa học viễn tưởng điện ảnh siêu thực về một sinh vật ngoài hành tinh bọc thép khổng lồ với đôi mắt đỏ rực, những chiếc răng nanh sắc nhọn khổng lồ và bộ móng vuốt mạnh mẽ đang gầm thét đầy hung dữ trên một chiến trường tương lai tăm tối. Một nữ chiến binh bí ẩn hạ cánh từ trên bầu trời xuống phía trên sinh vật này, bao quanh bởi những vệt năng lượng màu cam dữ dội và những tia lửa rực sáng. Ánh sáng đêm màu xanh kịch tính, bầu không khí đầy khói, mưa, các cấu trúc kim loại, sương mù thể tích, bố cục hành động năng động, quy mô đáng sợ, kết cấu sinh vật chi tiết cao, phản chiếu chân thực, độ sâu trường ảnh điện ảnh, phong cách phim Hollywood hoành tráng, chân thực như ảnh chụp, 8K, dọc 9:16.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096458737758388224/img/dyTxIFmFjtlGOr56.jpg" width="600" alt="Trận chiến với người ngoài hành tinh trong phim kinh dị khoa học viễn tưởng">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=10406)**
+
+**Tác giả:** [AIwithMinal](https://x.com/AIwithMinal) | **Nguồn:** [Link](https://x.com/AIwithMinal/status/2096459001076613372) | **Đã xuất bản:** Sep 6, 2026
+
+---
+### Tạo cảnh Vlog cá nhân đậm chất điện ảnh
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Một câu lệnh tạo video cho Seedance 2.5 được thiết kế để tạo ra video phong cách vlog dài 15 giây với nhân vật tham chiếu cụ thể, mô phỏng cách quay bằng điện thoại thông minh tự nhiên với độ rung lắc cầm tay.
+
+#### 📝 Prompt
+
+```
+Cảnh quay nghiệp dư được một người bạn quay bằng điện thoại thông minh. Độ rung máy tự nhiên như quay cầm tay, bố cục nghiệp dư, độ lệch tiêu điểm nhẹ, hội thoại và tương tác tự nhiên, cùng bầu không khí đầy cảm xúc được tạo ra.
+
+<Person1> tương ứng với @Image1. Kể từ đây trong câu lệnh này, chỉ <Person1> sẽ được viết mà không có @, và tất cả các phần được viết là <Person1> đều đề cập đến người được tham chiếu này.
+
+Video dài 15 giây là một video Vlog ghi lại một ngày trong cuộc đời của nhân vật chính <Person1>.
+Sử dụng thông tin sau đây về người phụ nữ, hãy tạo một video Vlog tóm tắt những gì đã xảy ra trong ngày đó giống như một cuốn nhật ký hàng ngày với nhiều cảnh quay khác nhau.
+Điểm mấu chốt là tạo ra nội dung tràn đầy sức hút của người phụ nữ khiến người hâm mộ của cô ấy càng thêm tận tâm. Trang phục cho <Person1> sẽ được tối ưu hóa cho từng cảnh dựa trên thông tin cá tính của <Person1>.
+
+-- Thông tin cho <Person1> --
+Ngoại hình của người phụ nữ:
+Tham khảo <Person1>. Chỉ lấy khuôn mặt, kiểu tóc, làn da và vóc dáng từ hình ảnh tham chiếu. Không sử dụng trang phục trong hình ảnh tham chiếu.
+Duy trì sự nhất quán về khuôn mặt và ngoại hình cho <Person1> trong suốt toàn bộ video.
+
+Thông tin cá tính:
+<Thông tin cá tính do bạn tự chuẩn bị>
+-----------------------
+
+Các mục bị cấm:
+Các sản phẩm và anime hiện có đều bị cấm. Không sử dụng phụ đề. Các logo, chú thích, v.v. hiện có đều bị cấm.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096435220824375296/img/bcExlGotLEW0-VNy.jpg" width="600" alt="Tạo cảnh Vlog cá nhân đậm chất điện ảnh">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=10450)**
+
+**Tác giả:** [eijo(SAT577)](https://x.com/eijo_AIart) | **Nguồn:** [Link](https://x.com/eijo_AIart/status/2096435504845934845) | **Đã xuất bản:** Sep 6, 2026
+
+---
+### Phim hài tình huống (sitcom) về mèo phong cách hoài cổ thập niên 2000
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) điện ảnh chi tiết để tạo video sitcom hài hước về mèo theo phong cách truyền hình đầu những năm 2000, bao gồm các góc máy và thiết kế bối cảnh cụ thể.
+
+#### 📝 Prompt
+
+```
+Một bộ phim sitcom nhiều máy quay của đài truyền hình đầu những năm 2000, được quay trên phim 35mm với thiết lập bốn máy quay Panavision trước khán giả tại trường quay, sử dụng phim Kodak Vision2 500T, được chuyển sang băng video NTSC để phát sóng. Hạt phim 35mm mịn, hiệu ứng quầng sáng nhẹ xung quanh các đèn thực tế, độ mềm của video xen kẽ (interlaced) nhẹ, ánh sáng truyền hình cường độ cao phẳng không đổ bóng, tông màu ấm áp bão hòa đặc trưng của đầu những năm 2000, khung hình 4:3. BỐI CẢNH: Phòng khách căn hộ ba bức tường. Ghế sofa màu be với khăn phủ chất liệu chenille, đèn bàn ấm áp, đèn lava, rèm hạt treo ở cửa bếp, kệ đĩa DVD, ghế hơi ở góc phòng, bàn làm việc bừa bộn với màn hình CRT màu be dày cộp và thùng máy tính hình hộp, đĩa CD ghi thủ công trong bao giấy, cửa trước ở phía bên phải sân khấu. NHÂN VẬT — giống hệt nhau trong mọi cảnh quay: Mèo mướp vàng mặc áo hoodie khóa kéo màu xám quá khổ bên ngoài áo thun rugby sọc cam và đeo vòng cổ vỏ ốc puka, ngồi thẳng trên ghế làm việc. Mèo lông dài màu xám đứng thẳng trong bộ đồ thể thao nhung màu đỏ tía với đường viền trắng, điện thoại nắp gập màu bạc dày cài ở thắt lưng, tay cầm chiếc cốc bị sứt mẻ. Máy quay cố định, không chuyển động, cả hai chú mèo đều hơi nghiêng về phía máy quay, máy quay không bao giờ vượt qua bức tường thứ tư. CẢNH MỘT — 0–6 giây: Cảnh quay rộng hai người cố định. Mèo mướp vàng gõ bàn phím bằng hai chân trước, khuôn mặt được chiếu sáng bởi màn hình CRT. Cửa trước mở ra và mèo lông dài màu xám bước vào, tay cầm cốc. Khán giả tại trường quay vỗ tay. Chú mèo nhìn vào bàn làm việc và hỏi: “Cậu đang làm gì thế?” CẮT CẢNH ĐỘT NGỘT. CẢNH HAI — 6–11 giây: Cận cảnh trung bình mèo mướp vàng. Không rời mắt khỏi màn hình, chú mèo tiếp tục gõ và nói: “Tôi đang dạy máy tính cách tạo ra những con người nhảy múa hài hước.” Khán giả tại trường quay cười lớn. CẮT CẢNH ĐỘT NGỘT. CẢNH BA — 11–16 giây: Cận cảnh trung bình mèo lông dài màu xám. Chú mèo hạ cốc xuống, dừng lại một chút, rồi nói với giọng hoàn toàn bình thản: “Chúng ta có một con người.” Nghỉ một nhịp. “Anh ta đang ở trong bếp.” Khán giả tại trường quay cười lớn. CẮT CẢNH ĐỘT NGỘT. CẢNH BỐN — 16–20 giây: Cận cảnh mèo mướp vàng. Chú mèo ngừng gõ, từ từ quay về phía rèm hạt và gọi: “Mark.” Ngoài màn hình, một người đàn ông ngay lập tức bắt đầu nhảy múa, tiếng chân dậm trên sàn gỗ và rèm hạt đung đưa. Chú mèo vẫn nhìn ra ngoài màn hình trong khi khán giả cười và vỗ tay. Giữ nguyên cảnh. Âm thanh: Tiếng gõ phím, tiếng rít của màn hình CRT, tiếng cốc đặt trên gỗ, tiếng mở cửa, tiếng vỗ tay chào mừng, tiếng cười của khán giả sau mỗi câu đùa, tiếng hạt rèm va vào nhau và tiếng bước chân ngoài màn hình ở cuối. Không có nhạc nền. Ràng buộc: Giữ cho cả hai chú mèo giống hệt nhau xuyên suốt. Mèo thật mặc quần áo thật ngồi thẳng. Không có nhân vật người xuất hiện trên màn hình, không chuyển động máy quay, không cắt cảnh thừa, không có màn hình phẳng hiện đại, không có điện thoại thông minh, không có video kỹ thuật số phẳng.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096371356690755584/img/M6Y4PzznP4vSwN1z.jpg" width="600" alt="Phim hài tình huống (sitcom) về mèo phong cách hoài cổ thập niên 2000">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=10400)**
+
+**Tác giả:** [Shan | Ai](https://x.com/ShanBuildsAI) | **Nguồn:** [Link](https://x.com/ShanBuildsAI/status/2096371426790125642) | **Đã xuất bản:** Sep 5, 2026
+
+---
+### Thời trang đường phố đậm chất điện ảnh với váy vàng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) về cảnh thời trang đường phố cao cấp với hình ảnh người phụ nữ xoay người trong chiếc váy màu vàng mù tạt, được thiết kế cho Seedance 2.0 trên nền tảng Imagvio.
+
+#### 📝 Prompt
+
+```
+Cảnh thời trang đường phố đậm chất điện ảnh siêu thực tại một thành phố hiện đại sầm uất, một cô gái trẻ duyên dáng trong chiếc váy không tay màu vàng mù tạt thướt tha đang xoay người đầy ấn tượng trên vỉa hè đông đúc, mái tóc nâu dài gợn sóng bay trong gió, xung quanh là đàn chim bồ câu đang bay, taxi vàng, người đi bộ và những tòa nhà đô thị cao tầng. Chuyển động năng động, tư thế thanh lịch, đường nét khuôn mặt tự nhiên, chuyển động vải chân thực, ánh sáng ban ngày vàng óng, độ sâu trường ảnh nông, bố cục điện ảnh, nhiếp ảnh thời trang chuyên nghiệp, chân thực như ảnh chụp, siêu chi tiết, HDR, 8K, ống kính 85mm, f/1.8, chỉnh màu tự nhiên, khổ dọc.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096370505649717248/img/R8Z3MChtEYluZpIP.jpg" width="600" alt="Thời trang đường phố đậm chất điện ảnh với váy vàng">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=10404)**
+
+**Tác giả:** [AI Motion Lab](https://x.com/imagvio_trends) | **Nguồn:** [Link](https://x.com/imagvio_trends/status/2096370558560788591) | **Đã xuất bản:** Sep 5, 2026
+
+---
+### Hoài niệm học sinh tiểu học những năm 2000
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Một video prompt đầy hoài niệm dành cho Seedance, tái hiện thẩm mỹ của máy quay miniDV cầm tay năm 2000, khắc họa các hoạt động sau giờ học của một cậu bé người Nhật.
+
+#### 📝 Prompt
+
+```
+[Tóm tắt] Sau giờ học của một cậu bé lớp 4 (10 tuổi) vào năm 2000. Một người anh trai quay phim từ xa bằng máy quay miniDV của bố mà không nói lời nào. 480p, 16:9, 15 giây. 7 cảnh cắt cứng (mỗi cảnh khoảng 2 giây) tại 7 địa điểm khác nhau. Không có chuyển cảnh hay hiệu ứng mờ dần. Chủ thể không tương tác với máy quay: không giao tiếp bằng mắt, không khoe đồ vật, không vẫy tay, không tạo dáng. Đắm chìm trong trò chơi. Những mảnh ghép của cuộc sống thường nhật, không phải diễn xuất. Không đối thoại, không lời thoại hay dẫn chuyện.
+
+[Chủ thể] Một cậu bé người Nhật khôi ngô như diễn viên nhí. Gương mặt nghiêm túc khi xem thẻ bài là đẹp nhất. Khuôn mặt: Tóc đen ngắn vuốt dựng phía trước, lông mày rậm, mắt hai mí to, dán băng cá nhân trên sống mũi, da rám nắng (kết cấu chân thực), răng khểnh bên phải khi cười. Trang phục (thường ngày): Áo phông xanh lá bạc màu, quần short denim, đội mũ lưỡi trai ngược, giày thể thao trắng lấm bẩn, ba lô xanh. Vật dụng: Một xấp thẻ bài (chỉ có hình ảnh, không có chữ) buộc bằng dây chun, máy chơi game cầm tay (kích thước bằng lòng bàn tay, không nhìn thấy màn hình). Thói quen: Đưa thẻ bài lên ánh sáng, chạm vào vành mũ. Khuôn mặt, kiểu tóc và trang phục đồng nhất trong tất cả các cảnh quay.
+
+[Nhân vật] Hai người bạn: Một cậu bé hơi mũm mĩm đeo kính (áo phông vàng), một cậu bé nhỏ con đội mũ bóng chày (áo phông xanh). Không ai nhìn vào máy quay.
+
+[Thời đại, Địa điểm, Ánh sáng] Chiều hè sau giờ học năm 2000. ① Bãi để xe đạp chung cư (ánh sáng trắng buổi chiều). ② Ghế đá công viên (bóng râm). ③ Bậc thang đá đền thờ (ánh sáng loang lổ). ④ Bóng râm dưới đất tại đền thờ (buổi chiều). ⑤ Con dốc ở khu dân cư (ánh sáng cam buổi tối). ⑥ Đường ven ruộng lúa (hoàng hôn). ⑦ Trước cửa nhà (chạng vạng). Chọn địa điểm và góc quay sao cho biển báo, chữ viết, logo hoặc màn hình không lọt vào khung hình.
+
+[Máy quay] Kết cấu máy quay miniDV năm 2000: Màu sắc sâu, vùng tối bị bết, dễ bị cháy sáng (white clipping), hiện tượng zoom hunting và rung lắc do cầm tay. Không hiển thị ngày tháng. Cầm tay, bố cục không hoàn hảo, thỉnh thoảng lấy nét lại, độ phơi sáng thay đổi. Khoảng cách 3-6m so với chủ thể. Chủ thể phớt lờ máy quay. Không chống rung, không gimbal, không drone, không quay chậm, không ánh sáng điện ảnh hay chỉnh màu thương mại. Máy quay luôn ở vị trí người cầm (đứng, ngồi, cúi, đi bộ, ghế bên cạnh). Không có các góc quay bất khả thi (trên không, dưới nước, trần nhà, trực diện từ trên cao, bên ngoài xe đang chạy, sát mặt). Người quay phim theo sau với độ trễ, đôi khi khung hình bị lỏng.
+
+[Các cảnh quay] (mỗi cảnh khoảng 2 giây. Địa điểm/Hoạt động/Cảm xúc & Cử chỉ/Vị trí máy quay):
+1. Bãi để xe đạp. Chân vừa chạm đất, ngồi trên xe, bấm chuông hai lần rồi đạp xe đi. Cảm xúc: Hào hứng. Chạm vào vành mũ. Máy quay: Chính diện, thấp, hơi xa.
+2. Ghế đá công viên, bóng râm. Xòe thẻ bài như hình cánh quạt, nheo mắt kiểm tra một lá dưới ánh sáng. Cảm xúc: Kiểm tra kho báu một cách nghiêm túc. Máy quay: Từ bên cạnh, sát tay.
+3. Bậc thang đền thờ, ánh sáng loang lổ. Kết nối máy chơi game bằng cáp ngắn, không nhìn thấy màn hình, miệng tập trung cao độ. Cảm xúc: Tập trung cao độ. Máy quay: Nhìn xuống từ đỉnh bậc thang.
+4. Bóng râm dưới đất tại đền thờ. Trải thẻ bài ra để trao đổi, kết thúc bằng cái bắt tay với cậu bạn đeo kính. Cảm xúc: Thỏa mãn sau giao dịch. Khóe miệng nhếch lên. Máy quay: Góc nghiêng từ trên cao.
+5. Con dốc, buổi tối. Buông tay lái một giây khi đang đổ dốc, loạng choạng rồi hoảng hốt nắm lại. Cảm xúc: Tự tin rồi sợ hãi. Máy quay: Theo sau từ phía sau, rung lắc.
+6. Đường ven ruộng lúa, hoàng hôn. Ba người đạp xe thành hàng, chủ thể là người duy nhất đứng đạp. Cảm xúc: Vui vẻ. Máy quay: Từ bên cạnh, xa.
+7. Cửa nhà, chạng vạng. Vứt xe đạp xuống rồi chạy vào nhà. Cửa đóng lại. Cảm xúc: Đói bụng. Máy quay: Đứng yên trên đường, quay cánh cửa đóng kín trong vài giây. Khoảng 00:14, bản ghi đột ngột chuyển sang đen. Không có hiệu ứng mờ dần.
+
+[Chi tiết đạo cụ] Thẻ bài là giấy chỉ có hình, không chữ, buộc dây chun. Máy chơi game bằng nhựa trắng, không nhìn thấy màn hình. Mũ màu xanh, vành cong. Xe đạp màu bạc, có khăn vắt trên yên sau.
+
+[Cấm văn bản] Không có chữ viết, logo, biển báo, nhãn dán, màn hình hiển thị hoặc con số nào có thể đọc được trong khung hình. Thẻ bài không có chữ.
+
+[Vật lý/Tính nhất quán] Vật lý thế giới thực. Không có thêm ngón tay, bàn tay dính liền, giải phẫu biến dạng, vật thể bay lơ lửng, vật phẩm biến mất hoặc biến hình đột ngột. Chân chạm đất. Băng cá nhân, mũ, ba lô và quần áo của bạn bè đồng nhất trong tất cả các cảnh quay.
+
+[Âm thanh] Chỉ có âm thanh môi trường tự nhiên (thay đổi theo từng cảnh): tiếng chuông xe đạp, tiếng gió trong bóng râm cùng tiếng thẻ bài, tiếng chim ở đền thờ, tiếng sỏi, tiếng gió trên dốc, tiếng ếch ở ruộng, tiếng đóng cửa. Không có lời nói. Chỉ thỉnh thoảng có tiếng cười nhỏ/hơi thở từ người quay và chủ thể. Không nhạc. Không dẫn chuyện. Không hiệu ứng âm thanh nhân tạo.
+
+[Bầu không khí] Một bản ghi lại buổi chiều sau giờ học năm 2000 khiến những người lớn từng là học sinh tiểu học thời Heisei phải thốt lên 'Mình đã từng như thế'. Những mảnh ghép của trò chơi, không phải diễn xuất. Hoài niệm, tràn đầy năng lượng, đậm chất nhân văn. Ưu tiên cảm giác như máy quay tình cờ có mặt ở đó.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094094517297422336/img/9-xNi9qvnC1odHYi.jpg" width="600" alt="Hoài niệm học sinh tiểu học những năm 2000">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=10410)**
+
+**Tác giả:** [妖精アーヤ](https://x.com/aiehon_aya) | **Nguồn:** [Link](https://x.com/aiehon_aya/status/2096357706361913818) | **Đã xuất bản:** Sep 5, 2026
+
+---
+### Hành động khoa học viễn tưởng điện ảnh về Thế giới Vòng tròn
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý (prompt) cho phân cảnh hành động khoa học viễn tưởng quy mô lớn, dùng để tạo hình ảnh phi công chiến đấu đua tốc độ xuyên qua các thế giới vòng tròn đang va chạm với vật lý chân thực.
+
+#### 📝 Prompt
+
+```
+Phân cảnh hành động khoa học viễn tưởng điện ảnh dài 15 giây, tỷ lệ 16:9, siêu thực, quy mô không tưởng, màu sắc sống động, vật lý chân thực, không lộ mặt, không văn bản, không lời thoại.
+Một chiếc máy bay chiến đấu bay bên trong một thế giới vòng tròn khổng lồ đang xoay.
+Một thế giới vòng tròn thứ hai xuất hiện từ những đám mây phía trên.
+Phi công nhận ra cả hai cấu trúc đang chiếm cùng một không gian.
+Chúng đang từ từ xoay vào nhau.
+Toàn bộ các thành phố bắt đầu va chạm.
+Những ngọn núi bị xé toạc.
+Những cây cầu khổng lồ đổ sập.
+Chiếc máy bay chiến đấu lao qua vùng va chạm đang ngày càng mở rộng.
+Hai khối lục địa hội tụ phía trước.
+Khoảng cách thu hẹp lại từng giây.
+Phi công lao xuống ngay trước khoảnh khắc va chạm.
+Cắt.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096303145559244803/img/qO9-5iyiBcdtfdRE.jpg" width="600" alt="Hành động khoa học viễn tưởng điện ảnh về Thế giới Vòng tròn">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=10401)**
+
+**Tác giả:** [Alexandra Aisling](https://x.com/AllaAisling) | **Nguồn:** [Link](https://x.com/AllaAisling/status/2096303315277553901) | **Đã xuất bản:** Sep 5, 2026
+
+---
+### Kinh hoàng đại dịch trên chuyến tàu cuối
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một chuỗi cảnh quay điện ảnh gồm 22 cảnh chi tiết mô tả sự bùng phát của đại dịch zombie trên tàu hỏa, từ lúc mới nhiễm bệnh đến khi hỗn loạn bao trùm.
+
+#### 📝 Prompt
+
+```
+Chuỗi cảnh quay điện ảnh 22 cảnh về đại dịch trên tàu, tổng thời lượng 30 giây. Ngoại hình, khuôn mặt và trang phục của nhân vật khớp với hình ảnh tham chiếu.
+
+1. 0–1,2 giây: Người phụ nữ sốt cao ngồi một mình trên toa tàu vắng, lo lắng kiểm tra tin tức trên điện thoại, ánh sáng hoàng hôn mờ ảo.
+2. 1,2–2,4 giây: Cận cảnh điện thoại với hình ảnh tin tức khẩn cấp bị nhòe; hình ảnh phản chiếu của hành khách đầy lo âu.
+3. 2,4–3,6 giây: Xe quân sự và đèn nhấp nháy lướt qua bên ngoài; hành khách nhìn ra cửa sổ với vẻ bất an.
+4. 3,6–4,8 giây: Người phụ nữ khẽ ho vào tay áo, mồ hôi nhễ nhại, ghế bên cạnh trống không.
+5. 4,8–6 giây: Hành khách ngủ yên bình bên cửa sổ, không hề hay biết về mối nguy hiểm.
+6. 6–7,2 giây: Đôi mắt người phụ nữ lờ đờ; hơi thở chậm lại, biểu cảm trở nên trống rỗng và đáng sợ.
+7. 7,2–8,5 giây: Cô đứng dậy một cách cứng nhắc và đi ra lối đi mà không ai chú ý.
+8. 8,5–10 giây: Cô lặng lẽ tiến lại gần hành khách đang ngủ.
+9. 10–11,2 giây: Cô bất ngờ cắn vào vai anh ta; nạn nhân tỉnh dậy trong cú sốc và đau đớn, hiệu ứng quay chậm.
+10. 11,2–12,5 giây: Những hành khách gần đó nhận ra quá muộn, sự bối rối chuyển thành hoảng loạn.
+11. 12,5–13,8 giây: Nạn nhân ôm lấy vai đang chảy máu, hơi thở đứt quãng.
+12. 13,8–15 giây: Những đường gân đen lan nhanh lên cổ; cơ thể anh ta bắt đầu run rẩy.
+13. 15–16,3 giây: Anh ta co giật dữ dội ở lối đi trong khi các hành khách khác đứng hình hoặc bỏ chạy.
+14. 16,3–17,5 giây: Đôi mắt anh ta đảo ngược rồi mở ra, đỏ ngầu và trống rỗng; quá trình biến đổi hoàn tất.
+15. 17,5–18,8 giây: Anh ta lao vào một hành khách khác, gây ra tiếng thét và sự hỗn loạn.
+16. 18,8–20,2 giây: Hành khách tranh nhau trèo qua ghế, làm rơi điện thoại và túi xách; camera cầm tay rung lắc hỗn loạn.
+17. 20,2–21,5 giây: Một nạn nhân khác biến đổi nhanh chóng và tấn công người khác; đại dịch lan rộng.
+18. 21,5–23 giây: Những người sống sót lao về phía cửa nối toa, dùng hành lý để chặn cửa lại.
+19. 23–24,5 giây: Cửa đóng sầm lại; đệm và hành lý chặn cửa trong khi bàn tay của những kẻ nhiễm bệnh đập mạnh bên ngoài.
+20. 24,5–26 giây: Cận cảnh cánh cửa bị chặn đang rung chuyển; những người sống sót thở dốc trong sợ hãi.
+21. 26–28 giây: Những khuôn mặt nhiễm bệnh áp sát vào kính khi các vết nứt lan rộng trên bề mặt.
+22. 28–30 giây: Những người sống sót co cụm ở toa tiếp theo, nhìn chằm chằm qua cánh cửa đang nứt vỡ vào đám đông; ánh đèn chập chờn, nỗi kinh hoàng bao trùm.
+
+Phong cách: kinh dị điện ảnh, diễn xuất chân thực, bầu không khí thời kỳ cách ly, ánh sáng hoàng hôn, nhịp độ căng thẳng, camera cầm tay hỗn loạn trong lúc bùng phát, sự tĩnh lặng đáng sợ trong lúc cao trào, tính liên tục liền mạch, chuyển động máy quay kịch tính, hình ảnh phim chi tiết cao.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096238873013895168/img/tfilzh7MI_DIepqH.jpg" width="600" alt="Kinh hoàng đại dịch trên chuyến tàu cuối">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=10398)**
+
+**Tác giả:** [Tensor](https://x.com/QAiStudio) | **Nguồn:** [Link](https://x.com/QAiStudio/status/2096238921986539847) | **Đã xuất bản:** Sep 5, 2026
+
+---
+### Thử thách vượt chướng ngại vật trên mặt nước với quân domino khổng lồ
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Một video prompt đầy hành động, trong đó người chơi chạy trên những cạnh mỏng của các quân domino đá khổng lồ khi chúng đổ xuống mặt nước ngay phía sau.
+
+#### 📝 Prompt
+
+```
+Thời lượng: 15 giây
+Tỷ lệ khung hình: 9:16
+Phong cách tổng thể:
+Video ghi lại chướng ngại vật dưới nước chân thực, tốc độ cao, kịch tính, liên tục. Hình ảnh cốt lõi là 'một người chạy trên các cạnh trên cùng của những quân domino khổng lồ khi chúng lần lượt đổ xuống phía sau'. Tốc độ phát bình thường, không quay chậm, không rung lắc máy để tạo sự phấn khích giả tạo.
+
+Tham chiếu nhân vật:
+@Image 1 là tham chiếu nhận diện duy nhất cho người thách đấu. Duy trì danh tính, ngoại hình, trang phục thể thao và giày thể thao. Hình ảnh tham chiếu chỉ dành cho nhân vật, không bao gồm bối cảnh hoặc tư thế gốc.
+
+Định dạng đạo cụ - Khóa chặt chẽ:
+Trên mặt nước màu xanh lục, một loạt các quân domino bằng đá xám khổng lồ được sắp xếp.
+Mỗi quân là một phiến đá hình chữ nhật mỏng đứng thẳng: bề mặt trước/sau rộng, các cạnh rất mỏng, đỉnh hẹp. Bề mặt đá nhám, các cạnh sắc nét, không có số hoặc văn bản.
+Phải giống như các quân domino phóng đại, tuyệt đối không phải là khối lập phương, cột vuông, bia đá dày hoặc bậc thang rộng.
+Người chơi bước lên cạnh trên hẹp. Có thể nhìn thấy mặt nước giữa các quân domino liền kề, tạo thành một con đường liên tục dẫn đến một nền tảng màu xám rộng.
+
+Chuyển động của domino:
+Các quân domino nghiêng về phía sau từ gần đế; khi chúng nghiêng, bề mặt rộng lộ ra và sau đó đập xuống mặt nước.
+Các quân domino phía sau người chơi đổ xuống từng cái một, tạo ra nhịp điệu hiệu ứng domino liên tục. Các quân phía trước vẫn đứng thẳng; quá trình đổ theo sát người chơi và không được vượt lên trước họ.
+Các quân domino vẫn cứng cáp, không bị uốn cong, gập lại hoặc vỡ vụn; chúng không tự thiết lập lại sau khi đổ.
+
+[Mô tả chuỗi hành động đầy đủ đã được lược bỏ để ngắn gọn...]
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096217637357228036/img/-5C1vksYkBykER_A.jpg" width="600" alt="Thử thách vượt chướng ngại vật trên mặt nước với quân domino khổng lồ">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=10408)**
+
+**Tác giả:** [John](https://x.com/johnAGI168) | **Nguồn:** [Link](https://x.com/johnAGI168/status/2096222493044334883) | **Đã xuất bản:** Sep 5, 2026
+
+---
+### Người phụ nữ Đông Á trong căn hộ tĩnh lặng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh điện ảnh tối giản mô tả những khoảnh khắc tĩnh lặng trong căn hộ cao tầng, từ việc đọc sách dưới ánh nắng chiều đến viết lách bên ánh đèn thành phố về đêm.
+
+#### 📝 Prompt
+
+```
+Một người phụ nữ trẻ Đông Á xinh đẹp với mái tóc đen dài thẳng mượt, mặc chiếc áo len oversized màu trắng kem mềm mại và quần ống rộng đồng bộ, dành một ngày yên tĩnh một mình trong căn hộ cao tầng. Tâm trạng của cô ấy bình lặng, hơi trầm tư và suy ngẫm. Đầu tiên, cô nhìn ra cửa sổ đẫm mưa ngắm nhìn thành phố bên dưới, cằm tựa vào tay. Sau đó, cô rót cà phê nóng từ bình thủy tinh vào cốc trong căn bếp sáng sủa. Tiếp đến, cô ngồi trên ghế sofa đọc sách dưới ánh nắng chiều ấm áp. Sau đó, cô ngồi xếp bằng trên sàn gỗ, đeo tai nghe lớn, nhắm mắt lại, xung quanh là những chiếc đĩa than nằm rải rác và một cuốn sách đang mở. Cuối cùng, vào ban đêm, cô viết vào sổ tay bên cửa sổ với đường chân trời thành phố rực rỡ phía sau. Ánh sáng tự nhiên dịu nhẹ, đậm chất điện ảnh, yên bình, thẩm mỹ tối giản, chuyển cảnh mượt mà.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096105342405099520/img/NFrZgiMj9WP7TN4f.jpg" width="600" alt="Người phụ nữ Đông Á trong căn hộ tĩnh lặng">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=10405)**
+
+**Tác giả:** [liana](https://x.com/Lianaalane) | **Nguồn:** [Link](https://x.com/Lianaalane/status/2096105365419209139) | **Đã xuất bản:** Sep 5, 2026
+
+---
+### Dead End Express: Biến hình thành Zombie
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một prompt video chi tiết gồm 25 cảnh quay cho một phân đoạn kinh dị trên tàu hỏa, mô tả sự bùng phát của virus cùng sự hỗn loạn và hoảng loạn theo sau đó.
+
+#### 📝 Prompt
+
+```
+Cảnh 1 (0–1,2 giây): Nhân vật khớp với hình ảnh tham chiếu, đang ngồi trên chuyến tàu đã dừng, sốt cao và đổ mồ hôi khi ánh đèn đỏ từ trạm kiểm soát quét qua bên ngoài.
+
+Cảnh 2 (1,2–2,4 giây): Binh lính và quan chức bước lên tàu, kiểm tra hành khách bằng đèn pin trong khi mọi người quan sát đầy lo lắng.
+
+Cảnh 3 (2,4–3,6 giây): Cận cảnh bàn tay đang run rẩy của cô gái; các đường gân sẫm màu hiện rõ dưới da khi hơi thở của cô trở nên dồn dập.
+
+Cảnh 4 (3,6–4,8 giây): Quan chức kiểm tra giấy tờ và dừng lại bên cạnh cô, không hề hay biết về mối nguy hiểm.
+
+Cảnh 5 (4,8–6 giây): Đôi mắt cô chuyển sang màu trắng đục và đầu nghiêng sang một bên một cách bất thường về phía anh ta.
+
+Cảnh 6 (6–7,2 giây): Cô bất ngờ cắn vào cánh tay anh ta; cận cảnh cực độ, phản ứng kinh ngạc, hiệu ứng quay chậm đậm chất điện ảnh.
+
+Cảnh 7 (7,2–8,4 giây): Hành khách la hét và lùi lại khi vị quan chức bị thương loạng choạng ngã ra lối đi.
+
+Cảnh 8 (8,4–9,6 giây): Vết cắn trên tay anh ta nhanh chóng xuất hiện các đường gân đen lan rộng khi sự lây nhiễm bắt đầu.
+
+Cảnh 9 (9,6–10,8 giây): Binh lính bên ngoài nhận thấy sự hỗn loạn qua cửa sổ và phát tín hiệu báo động.
+
+Cảnh 10 (10,8–12 giây): Vị quan chức co giật dữ dội dưới ánh đèn chập chờn.
+
+Cảnh 11 (12–13 giây): Đôi mắt anh ta mở trừng, vằn tia máu và vô hồn—quá trình biến đổi hoàn tất.
+
+Cảnh 12 (13–14 giây): Anh ta tấn công một hành khách gần đó, gây ra sự hoảng loạn tột độ bên trong toa tàu chật hẹp.
+
+Cảnh 13 (14–15 giây): Hành khách đổ xô về phía cửa, nhưng binh lính bên ngoài đã đóng sầm và khóa chặt cửa lại.
+
+Cảnh 14 (15–16,2 giây): Binh lính khóa chốt bên ngoài trong khi hành khách đập cửa kính tuyệt vọng.
+
+Cảnh 15 (16,2–17,4 giây): Góc quay rộng: hành khách nhận ra họ đã bị mắc kẹt bên trong toa tàu bị phong tỏa.
+
+Cảnh 16 (17,4–18,6 giây): Một hành khách vừa bị cắn biến đổi chỉ trong vài giây và tấn công những người khác.
+
+Cảnh 17 (18,6–19,8 giây): Những người sống sót lùi về phía sau, bị mắc kẹt giữa các cánh cửa đã bị khóa.
+
+Cảnh 18 (19,8–21 giây): Một hành khách chộp lấy bình cứu hỏa và thủ thế trước đám người nhiễm bệnh đang tiến tới.
+
+Cảnh 19 (21–22,2 giây): Anh ta xịt bọt trắng từ bình cứu hỏa vào đám đông, khiến toa tàu tràn ngập làn sương mù.
+
+Cảnh 20 (22,2–23,4 giây): Binh lính lặng lẽ quan sát từ bên ngoài với vũ khí trên tay, không chắc liệu có nên can thiệp hay không.
+
+Cảnh 21 (23,4–24,6 giây): Nhân vật đã biến đổi hoàn toàn áp sát vào lớp kính cửa đã khóa trong khi những người sống sót dồn vào góc.
+
+Cảnh 22 (24,6–25,8 giây): Những người sống sót cố thủ trong nhà vệ sinh khi tiếng đập cửa và tiếng la hét vang vọng bên ngoài.
+
+Cảnh 23 (25,8–27 giây): Cảnh quay rộng về những người nhiễm bệnh và những người sống sót đang chiến đấu bên trong toa tàu bị phong tỏa dưới ánh đèn trạm kiểm soát gay gắt.
+
+Cảnh 24 (27–28,2 giây): Binh lính gọi bộ đàm xin chi viện khi con tàu rung lắc dữ dội vì sự hỗn loạn bên trong.
+
+Cảnh 25 (28,2–30 giây): Cảnh quay rộng từ bên ngoài: con tàu bất động tại trạm kiểm soát, cửa đóng chặt, cửa sổ mờ sương và bóng người đang giãy giụa bên trong—một cái kết kinh dị đầy ám ảnh.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096097568979927040/img/DcA5TuDfdvpmtgaP.jpg" width="600" alt="Dead End Express: Biến hình thành Zombie">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=10377)**
+
+**Tác giả:** [WasifAI](https://x.com/doctorwasif) | **Nguồn:** [Link](https://x.com/doctorwasif/status/2096097630317392019) | **Đã xuất bản:** Sep 5, 2026
+
+---
+### Video Quảng cáo Sản phẩm Trang điểm Cao cấp
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ba lựa chọn khác biệt để tạo video quảng cáo làm đẹp cao cấp, tập trung vào các sản phẩm son môi, kết cấu và cách sử dụng.
+
+#### 📝 Prompt
+
+```
+Lựa chọn 1: Trình diễn Sản phẩm theo phong cách UGC nhẹ nhàng (Phù hợp nhất cho TikTok / Reels)
+Cận cảnh bàn tay cầm thỏi son tint màu hồng đất cùng đầu cọ. Kết cấu son bóng mịn màng được tán nhẹ nhàng trên làn da sáng. Ánh sáng ấm áp, dịu nhẹ, chuyển động camera mượt mà, bối cảnh bàn trang điểm tối giản, sạch sẽ, video quảng cáo chất lượng cao.
+Lựa chọn 2: Tập trung vào Cách thoa son & Swatch (Xu hướng & Thỏa mãn thị giác)
+Cận cảnh cực đại đôi môi căng bóng đang được thoa nhẹ nhàng bằng đầu cọ son tint. Kết cấu đậm đà, lớp finish bóng mượt, tán đều mịn như nhung. Thẩm mỹ sang trọng, ánh sáng studio dịu nhẹ, phong cách quảng cáo làm đẹp siêu thực.
+Lựa chọn 3: Đập hộp & Swatch Sản phẩm đầy tính thẩm mỹ
+Cận cảnh macro đầu cọ son tint màu hồng tím đang được rút ra khỏi thỏi, để lộ kết cấu son lỏng. Chuyển động swatch mượt mà trên da tay, lớp finish bóng bẩy lấp lánh dưới ánh đèn ấm áp, video sản phẩm làm đẹp quay chậm.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096095308006780928/img/4oy5bYNLR1BSaUEj.jpg" width="600" alt="Video Quảng cáo Sản phẩm Trang điểm Cao cấp">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=10397)**
+
+**Tác giả:** [AsmatAi](https://x.com/AsmatAi786) | **Nguồn:** [Link](https://x.com/AsmatAi786/status/2096095449648443637) | **Đã xuất bản:** Sep 5, 2026
+
+---
+### Mèo trắng anime mềm mại
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý (prompt) theo phong cách anime mềm mại đầy quyến rũ cho video về một chú mèo trắng sống trong căn hộ hiện đại, với những chuyển động tinh nghịch và các tương tác ấm áp.
+
+#### 📝 Prompt
+
+```
+Tạo một video theo phong cách anime mềm mại về một chú mèo trắng lông xù với đôi mắt màu xanh mòng két lấp lánh, sống trong một căn hộ hiện đại sáng sủa với những ô cửa sổ lớn nhìn ra đường chân trời thành phố đầy nắng. Chú mèo ngồi yên bình trên bệ cửa sổ bằng gỗ, sau đó bước đi duyên dáng về phía máy quay trên sàn gỗ bóng loáng. Những cảnh quay cận cảnh ghi lại khuôn mặt dễ thương, bộ ria mép rung rinh và biểu cảm tò mò của chú. Chú đứng kiêu hãnh dưới ánh nắng, ngồi xuống một cách thanh lịch, rồi tinh nghịch vồ lấy một quả bóng nhỏ màu trắng. Sau đó, chú mèo nhìn lên đầy hy vọng về phía một chàng trai trẻ có mái tóc xoăn sẫm màu đang ngồi tại bàn ăn thưởng thức bánh sandwich, rồi nhảy lên ghế và leo vào lòng anh ấy. Chàng trai nhẹ nhàng ôm lấy chú mèo trong khi chú dụi đầu vào tay và mặt anh. Video kết thúc với cảnh họ âu yếm trên chiếc ghế sofa màu xám, chú mèo ngáp một cách mãn nguyện trong vòng tay anh dưới ánh sáng ban mai dịu nhẹ.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096085739729739776/img/vDzamF8khIQ3Dxay.jpg" width="600" alt="Mèo trắng anime mềm mại">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=10402)**
+
+**Tác giả:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Nguồn:** [Link](https://x.com/ayzalnooor24521/status/2096085776735912274) | **Đã xuất bản:** Sep 5, 2026
+
+---
+### Phong cách phim tài liệu Heisei Gal năm 2007
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Một bản mô tả chi tiết tỉ mỉ để tái tạo video về phong cách sống của các cô gái 'Gyaru' Nhật Bản năm 2007 với thẩm mỹ máy ảnh kỹ thuật số đời đầu và sự nhất quán cụ thể về nhân vật.
+
+#### 📝 Prompt
+
+```
+[Tóm tắt] Một ngày bình thường vào năm 2007 của một 'Hime Gyaru' (công chúa gal) 19 tuổi với mái tóc phồng lớn. Một người bạn quay phim cô từ bên cạnh bằng chế độ quay video của máy ảnh kỹ thuật số cầm tay mà không nói chuyện. 480p, 16:9, 15 giây. 7 cảnh cắt cứng (mỗi cảnh khoảng 2 giây) tại các địa điểm riêng biệt. Không có chuyển cảnh hay hiệu ứng mờ dần. Chủ thể không tương tác với máy ảnh: không nhìn vào ống kính, không khoe đồ vật, không vẫy tay, không tạo dáng. Cô ấy đắm chìm trong việc mình đang làm. Những mảnh ghép của cuộc sống thường nhật, không phải là một màn trình diễn. Không có đối thoại, lời thoại hay lời dẫn chuyện.
+
+[Chủ thể] Định nghĩa về vẻ đẹp: Một vẻ đẹp Nhật Bản quyến rũ sánh ngang với người mẫu độc quyền cho các tạp chí gal. Quyến rũ hơn trong những khoảnh khắc tự nhiên so với khi tạo dáng. Khuôn mặt: Da trắng (kết cấu chân thực), lông mày nâu dày, mắt hai mí to với hàng mi dày (mi giả), mũi nhỏ gọn, môi mọng bóng, khuôn mặt trái xoan nhỏ. Tóc: Kiểu 'Morigami' màu trà sữa (tóc phồng). Phần đỉnh đầu được đánh rối cao và phần đuôi uốn thành những lọn xoăn lớn dày, một kiểu tóc gal điển hình của thời đại đó. Chỉ uốn một nửa trong cảnh quay buổi sáng. Trang phục (đồ thường ngày, không quá cầu kỳ): Váy dài ngang gối màu hồng nhạt, khoác hờ một chiếc áo cardigan trắng trên vai, xăng đan gót thấp, túi xách trắng lớn (không có chữ). Vật dụng: 'Decoden' (điện thoại nắp gập phủ đầy đá rhinestone và ngọc trai lấp lánh. Màu hồng và trắng. Cầm ở trạng thái đóng, không thấy màn hình). Thói quen: Kiểm tra kiểu tóc bằng cách nâng tóc lên, hơi vấp nhẹ trên giày cao gót. Khuôn mặt, kiểu tóc và trang phục giống hệt nhau trong tất cả các cảnh quay.
+
+[Nhân vật] Bạn gal (người quay phim): Không xuất hiện, nhưng thỉnh thoảng có tiếng cười nhỏ, tiếng thở và tiếng sột soạt khi điều chỉnh máy ảnh (không có lời nói). Bạn lái xe: Chỉ thấy vai và cánh tay ở ghế lái trong cảnh 3 và 7 (tóc bob vàng, móng tay hồng).
+
+[Thời đại, Địa điểm, Ánh sáng] Mùa hè năm 2007. ① Buổi sáng trong phòng (ánh sáng dịu qua rèm cửa. Không có gương trong khung hình). ② Hành lang bên ngoài căn hộ (ánh sáng trắng). ③ Ghế phụ xe hơi của bạn (ánh sáng ban ngày, cửa sổ mở hé). ④ Sân hiên quán cà phê (nắng chiều, không có biển hiệu). ⑤ Bên trong cabin đu quay (ánh sáng cam buổi tối, thành phố ngoài cửa sổ). ⑥ Lối đi dạo ven biển ban đêm (đèn đường và bóng tối của đại dương). ⑦ Ghế sau xe hơi trên đường về nhà (đèn đường lướt qua). Chọn địa điểm và góc quay sao cho biển báo, chữ viết, logo hoặc màn hình không lọt vào khung hình.
+
+[Máy ảnh] Kết cấu chế độ video máy ảnh kỹ thuật số nhỏ gọn năm 2007: Nhiễu ở các vùng tối, màu hơi ngả vàng, rung lắc do cầm tay. Cầm tay, bố cục không hoàn hảo, thỉnh thoảng lấy nét không chuẩn, độ phơi sáng biến động. Giữ khoảng cách 2-4m với chủ thể, chỉ zoom vào tay hoặc góc nghiêng. Chủ thể phớt lờ máy ảnh. Không có chống rung, gimbal, drone, chuyển động chậm, ánh sáng điện ảnh hay chỉnh màu thương mại. Máy ảnh luôn được đặt ở vị trí mà một người bình thường sẽ cầm (đứng, ngồi, cúi người, đi bộ, ghế bên cạnh). Không có các góc quay bất khả thi (trên không, dưới nước, trần nhà, trực diện từ trên xuống, bên ngoài xe đang chạy, sát mặt). Người quay là một người thực sự có mặt tại không gian đó; nếu chủ thể di chuyển, họ theo sau với một độ trễ nhỏ, đôi khi khung hình hơi lỏng lẻo. Không có hình ảnh phản chiếu trong gương hoặc kính.
+
+[Các cảnh quay] (mỗi cảnh khoảng 2 giây. Địa điểm/Hoạt động/Cảm xúc & Cử chỉ/Vị trí máy ảnh):
+1. Phòng, ánh sáng buổi sáng dịu nhẹ. Đang uốn đuôi tóc bằng máy là. Cảm xúc: Tập trung vào việc làm tóc. Đầu lưỡi hơi thè ra, kiểm tra lọn tóc đã uốn. Máy ảnh: Từ bên cạnh, không có gương.
+2. Hành lang căn hộ, ánh sáng trắng. Đi bộ bằng xăng đan, vấp một lần, chạm vào tường. Cảm xúc: Ngượng ngùng. Nhìn xung quanh rồi đi lại bình thường. Máy ảnh: Từ phía sau.
+3. Ghế phụ xe hơi, ban ngày. Nhắm mắt trước làn gió từ cửa sổ mở hé. Cảm xúc: Thư giãn. Phớt lờ mái tóc đang bay. Máy ảnh: Nghiêng từ ghế sau.
+4. Sân hiên quán cà phê, buổi chiều. Để dành quả cherry trên ly parfait đến cuối cùng rồi ăn. Cảm xúc: Hạnh phúc. Nheo mắt, thả lỏng vai. Máy ảnh: Qua bàn.
+5. Cabin đu quay, buổi tối. Tựa trán vào cửa sổ nhìn xuống thành phố. Cảm xúc: Thẫn thờ suy tư. Miệng hơi mở. Máy ảnh: Từ ghế đối diện.
+6. Lối đi dạo ven biển ban đêm. Tựa vào lan can, phớt lờ mái tóc rối vì gió biển, ngừng giữ tóc. Cảm xúc: Giải phóng. Nhắm mắt trong gió. Máy ảnh: Từ bên cạnh, dưới ánh đèn đường.
+7. Ghế sau xe hơi trên đường về. Đầu tựa vào cửa sổ, chìm vào giấc ngủ. Đèn đường lấp lánh trên những viên đá decoden trên đùi (màn hình bị che khuất). Cảm xúc: Cơn buồn ngủ thỏa mãn. Máy ảnh: Từ ghế bên cạnh, theo nhịp rung của xe. Khoảng 00:14, bản ghi đột ngột tắt đen. Không có hiệu ứng mờ dần.
+
+[Chi tiết đạo cụ] Máy uốn tóc là nhựa trắng với dây điện rối. Decoden là đá rhinestone hồng/trắng hình trái tim, trông giống hộp trang sức khi đóng lại. Túi trắng bằng da giả, để mở. Xăng đan có quai hồng và gót thấp. Cabin đu quay có ghế nhựa trắng.
+
+[Cấm văn bản] Không có chữ viết, logo, biển báo, nhãn mác, màn hình hiển thị hoặc con số nào có thể đọc được trong khung hình. Thay thế các vật dụng có nhiều chữ bằng phiên bản trơn.
+
+[Vật lý/Tính nhất quán] Vật lý thế giới thực. Không có thêm ngón tay, bàn tay dính liền, giải phẫu biến dạng, vật thể trôi nổi, vật dụng biến mất hoặc biến đổi đột ngột. Chân chạm đất. Đá rhinestone, mũ, ba lô và quần áo của bạn bè giống hệt nhau trong tất cả các cảnh quay.
+
+[Âm thanh] Chỉ có âm thanh môi trường tự nhiên (thay đổi theo từng cảnh): tiếng máy là tóc, tiếng xăng đan trên hành lang, tiếng xe chạy và gió, tiếng bát đĩa quán cà phê, cơ chế đu quay, tiếng biển/gió, tiếng xe chạy ban đêm. Không có lời nói. Chỉ thỉnh thoảng có tiếng cười/hơi thở nhỏ từ người quay và chủ thể. Không có âm nhạc. Không có lời dẫn. Không có hiệu ứng âm thanh nhân tạo.
+
+[Bầu không khí] Một bản ghi lại một ngày bình thường khiến những người trưởng thành từng sống qua năm 2007 phải nghĩ rằng 'đã từng có những cô gái như thế'. Một tập hợp các mảnh ghép tự nhiên, không tạo dáng. Hoài niệm, tươi sáng, đầy tính nhân văn. Ưu tiên cảm giác như thể máy ảnh chỉ tình cờ có mặt ở đó.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094091270738395138/img/EDfIIA0OcweMUn7Q.jpg" width="600" alt="Phong cách phim tài liệu Heisei Gal năm 2007">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=10409)**
+
+**Tác giả:** [妖精アーヤ](https://x.com/aiehon_aya) | **Nguồn:** [Link](https://x.com/aiehon_aya/status/2095995325723156791) | **Đã xuất bản:** Sep 4, 2026
+
+---
 ### Áp phích học từ vựng cho trẻ mầm non
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2902,665 +3602,6 @@ Giữ cho diễn xuất thật tinh tế, vụng về, tự phát và mang tính
 **Tác giả:** [𝑨𝒇𝒓𝒊𝒏](https://x.com/afrinxai) | **Nguồn:** [Link](https://x.com/afrinxai/status/2092962983194616002) | **Đã xuất bản:** Aug 27, 2026
 
 ---
-### Tham quan bất động sản phong cách nội thất Scandinavian
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một cấu trúc gợi ý (prompt) đa cảnh cho video giới thiệu bất động sản theo phong cách nhà ở Scandinavian.
-
-#### 📝 Prompt
-
-```
-Nhiều cảnh quay. Nhân viên môi giới bất động sản @[image1] giới thiệu một ngôi nhà phong cách Scandinavian:\nNgoại thất: Ngôi nhà màu trắng đơn giản, xám nhạt hoặc ốp gỗ với cửa sổ lớn và mái dốc.\nLối vào: Gỗ sáng màu, ghế băng đơn giản, móc treo áo khoác, giỏ đan.\nNhà bếp: Tủ bếp màu trắng hoặc gỗ nhạt, kệ mở, bề mặt nhám, phụ kiện tối giản.\nPhòng khách/Phòng ăn: Không gian thoáng đãng, gọn gàng, gỗ sáng màu, vải dệt màu xám/be nhẹ nhàng, nội thất đơn giản.\nPhòng ngủ: Tường trắng, chăn ga gối đệm vải lanh, gỗ sáng màu, điểm nhấn bằng len ấm áp.\nPhòng tắm: Gạch ốp trắng, bàn trang điểm gỗ nhạt, phụ kiện kim loại đen hoặc kim loại phay xước.\nPhòng làm việc/Sân vườn: Bàn gỗ tối giản; khu vườn tự nhiên với các loại cỏ, cây bạch dương và sàn gỗ đơn giản.
-```
-
-<img src="https://pbs.twimg.com/media/HQt8UC7XsAA4zKY.jpg" width="600" alt="Tham quan bất động sản phong cách nội thất Scandinavian">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=10104)**
-
-**Tác giả:** [AIrina (Virtual Media Net)](https://x.com/airina_xyz) | **Nguồn:** [Link](https://x.com/airina_xyz/status/2092903022674301054) | **Đã xuất bản:** Aug 27, 2026
-
----
-### Studio Nhiếp ảnh Tối giản trong Giờ Vàng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video điện ảnh cho bối cảnh studio nhiếp ảnh tối giản, tập trung vào ánh sáng, bầu không khí và các chi tiết thiết bị chuyên nghiệp.
-
-#### 📝 Prompt
-
-```
-Cảnh quay điện ảnh siêu thực về một studio nhiếp ảnh hiện đại tối giản trong giờ vàng, nổi bật với chiếc laptop kiểu dáng đẹp đặt ở trung tâm trên một chiếc bàn trắng lớn sạch sẽ, bên cạnh là một ly nước trong suốt. Những khung cửa sổ lớn từ sàn đến trần để lộ ánh hoàng hôn rực rỡ và những đám mây mềm mại ở phía sau. Các softbox nhiếp ảnh chuyên nghiệp và một chiếc ô phản quang bạc lớn xuất hiện xung quanh bối cảnh, tạo nên bầu không khí hậu trường studio chân thực. Ánh nắng ấm áp tràn qua cửa sổ, đổ những bóng dài đầy kịch tính và tạo ra các phản chiếu tuyệt đẹp trên mặt bàn. Thẩm mỹ nhiếp ảnh thương mại cao cấp, bố cục thanh lịch, kết cấu chân thực, phân loại màu ấm tự nhiên, ánh sáng điện ảnh dịu nhẹ, độ sâu trường ảnh nông, hiệu ứng lóa ống kính tinh tế, HDR, siêu chi tiết, chân thực như ảnh chụp, 8K, chất lượng máy ảnh chuyên nghiệp,
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092845721666080768/img/ez9JfUdpf43WeAAm.jpg" width="600" alt="Studio Nhiếp ảnh Tối giản trong Giờ Vàng">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=9874)**
-
-**Tác giả:** [AIwithMinal](https://x.com/AIwithMinal) | **Nguồn:** [Link](https://x.com/AIwithMinal/status/2092845782982357334) | **Đã xuất bản:** Aug 27, 2026
-
----
-### Trận chiến đường phố phong cách Anime Cyberpunk
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Một câu lệnh (prompt) chiến đấu 15 giây cực kỳ chi tiết dành cho Seedance 2.0, mô tả trận chiến cường độ cao giữa hai nhân vật cách điệu trong bối cảnh đô thị dày đặc.
-
-#### 📝 Prompt
-
-```
-Duy trì sự nhất quán về khuôn mặt, kiểu tóc, trang phục, vóc dáng, bảng màu, tính cách và mối quan hệ giữa hai nhân vật thiếu niên ngay từ khung hình đầu tiên. Không được thay đổi khuôn mặt, quần áo hoặc nhân vật. Nhân vật bên trái: Nam, tóc đen, áo khoác kẻ sọc đỏ, áo phông trắng, quần tối màu; phong cách hành động thiên về sức mạnh, sự áp đảo và cận chiến quyết liệt. Nhân vật bên phải: Nam, tóc ngắn màu xanh bạc, áo khoác công nghệ cao đen trắng, quần tối màu, giày thể thao đỏ trắng; phong cách hành động thiên về tốc độ cao, sự linh hoạt và cường hóa năng lượng xanh. Bối cảnh là một con phố hiện đại với các tòa nhà cao tầng dày đặc, biển hiệu tiếng Trung kiểu Hồng Kông, taxi đỏ, mặt tiền tòa nhà san sát và góc nhìn đường phố có chiều sâu mạnh mẽ. Phong cách tổng thể là anime nội địa nhiệt huyết hoàn thiện cao / cảm giác phim anime / cảm giác PV chiến đấu cường độ cao. Toàn bộ video là 15 giây chiến đấu thuần túy, bùng nổ ngay từ giây đầu tiên, không đối thoại, không phụ đề, không Logo, không UI, không hài hước. Yêu cầu cốt lõi: 15 giây, 16:9, bùng nổ ngay giây đầu, chuyển động cực nhanh, camera theo sát tốc độ cao, hiệu ứng đặc biệt cường điệu, cảm giác tốc độ mạnh, phá hủy môi trường rõ rệt, dồn toàn bộ thời gian vào chiến đấu, không dẫn dắt dài dòng, các động tác phải rõ ràng, hiệu ứng không được che khuất hành động. Thiết kế hành động 15 giây: 0-3s: Bùng nổ trực tiếp từ hành động khung hình đầu tiên. Nhân vật tóc xanh bạc tung cú đấm với luồng điện xanh khổng lồ và gió năng lượng rực rỡ, đánh trực diện vào nhân vật tóc đen. Nhân vật tóc đen không né tránh, đỡ bằng vai, tay trái chống đỡ va chạm, tay phải phản đòn. Sóng xung kích xanh trắng khổng lồ bùng nổ tại điểm tiếp xúc, nước, sỏi, khí trắng và mảnh vụn văng tung tóe. Một chiếc taxi đỏ gần đó rung lắc dữ dội, biển hiệu tiếng Trung đung đưa mạnh, phản chiếu trên kính sáng lên tức thì. Camera bắt đầu cận cảnh nắm đấm, sau đó xoay quanh cặp đôi ở tốc độ cao như drone FPV. 3-6s: Nhân vật tóc đen tạo áp lực cận chiến, liên tục lao tới: đấm thẳng, đánh cùi chỏ, lên gối, húc vai. Mỗi cú đánh đều mang theo luồng gió nổ trắng và âm thanh phá vỡ tường âm thanh ngắn. Nhân vật tóc xanh bạc thực hiện các pha gạt đòn, né tránh và trượt ngang tốc độ cao, với dư ảnh xanh và các cung năng lượng bùng nổ dưới chân. Nhân vật tóc đen đấm nhân vật tóc xanh bạc vào chiếc taxi đỏ, làm móp cửa xe. Nhân vật tóc xanh bạc đạp vào xe, bay qua đầu nhân vật tóc đen, để lại vệt năng lượng xanh dài và tiếp đất bằng cú đá xoay, tạo ra một cung năng lượng xanh khổng lồ. 6-9s: Nhân vật tóc xanh bạc bắt đầu phản áp lực tốc độ cao. Bước vào trạng thái bùng nổ, tấn công liên tục với tốc độ cao: đấm thẳng siêu nhanh, cùi chỏ cận chiến, lên gối, đấm nặng mang năng lượng. Các vệt năng lượng xanh như tia chớp lỏng bao quanh cơ thể. Nhân vật tóc đen phòng thủ liên tục, bị đẩy lùi, giày kéo lê trên mặt đất. Một cú đánh mạnh khiến nhân vật tóc đen văng vào các thiết bị đường phố, đá, mảnh biển quảng cáo và bụi bặm nổ tung. Camera trượt tốc độ cao ở tầm thấp, sau đó vút lên cao xuyên qua các mảnh vỡ bay và dư ảnh năng lượng. 9-12s: Nhân vật tóc đen phản công mạnh mẽ. Chống đỡ một đợt tấn công, nắm lấy cổ tay nhân vật tóc xanh bạc, phá vỡ nhịp độ tốc độ cao. Mặt đất nổ tung tại thời điểm dừng kéo, không khí bị xé toạc. Nhân vật tóc đen lập tức tung chuỗi combo cận chiến hạng nặng: đấm bụng, móc hàm, đánh cùi chỏ, đấm thẳng cực mạnh hất văng đối thủ. Nhân vật tóc xanh bạc bị hất văng, va vào biển báo đường phố hoặc thân xe, kim loại biến dạng, kính vỡ vụn, tia lửa, hạt năng lượng xanh và mảnh vỡ nổ tung. Phản hồi phá hủy rõ rệt trên toàn bộ con phố. 12-15s: Cao trào cuối cùng. Nhân vật tóc xanh bạc bật lại từ tường hoặc mái nhà, năng lượng xanh bùng nổ hoàn toàn. Nhân vật tóc đen cũng bùng nổ toàn lực. Cả hai lao vào vòng đấm tốc độ siêu cao cuối cùng ở giữa phố: đấm thẳng liên tục, gạt đòn chéo, đá xoay, lên gối, đấm thẳng hạng nặng. Mỗi cú va chạm tạo ra những tia chớp xanh trắng khổng lồ, sóng xung kích năng lượng và các đường gió. Mặt đất nứt nẻ, nước bắn tung tóe, taxi rung lắc, biển hiệu đung đưa dữ dội, cả con phố bị quét sạch bởi sóng xung kích. Cuối cùng, nhân vật tóc đen bắt được sơ hở, một cú đấm thẳng hạng nặng hất văng nhân vật tóc xanh bạc, kéo theo vệt năng lượng xanh dài. Nhưng nhân vật tóc xanh bạc cuối cùng vẫn tiếp đất bằng một đầu gối, tay chống xuống đất, chưa hoàn toàn bị đánh bại. Camera nhanh chóng lướt qua giữa hai người, cho thấy con phố hoang tàn, các tia điện còn sót lại, các hạt lơ lửng và biển hiệu đung đưa, kết thúc bằng màn đối đầu căng thẳng. Hiệu ứng: gió năng lượng cao màu xanh, tia điện xanh trắng, sóng xung kích khổng lồ, vệt năng lượng, dư ảnh, hạt bụi, đường xé không khí, vết nứt mặt đất, nước và sỏi bắn tung tóe, biến dạng xe, kính vỡ, biển hiệu đung đưa. Camera: theo sát tốc độ cao, xoay quanh, đẩy cận cảnh, bay xuyên qua, góc thấp hướng lên, kéo lùi và lao tới đột ngột, cảm giác quay một lần (single-take), luôn theo sát trung tâm chiến đấu, không cắt cảnh lộn xộn, giữ cho các hành động rõ ràng.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092807598437531648/img/4VJ_Tv5OfNFW_FBP.jpg" width="600" alt="Trận chiến đường phố phong cách Anime Cyberpunk">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=9879)**
-
-**Tác giả:** [澜森](https://x.com/lansenai) | **Nguồn:** [Link](https://x.com/lansenai/status/2092807747020689580) | **Đã xuất bản:** Aug 27, 2026
-
----
-### Biến hình từ Bọ cạp thành Giày cao gót sang trọng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) biến hình thời trang đầy ma thuật, nơi một con bọ cạp trang trí bằng đá obsidian và hồng ngọc biến đổi thành một đôi giày cao gót sang trọng trên sàn đá cẩm thạch.
-
-#### 📝 Prompt
-
-```
-Một bức ảnh cận cảnh theo chiều dọc với độ phân giải 4K mô tả một màn biến hình đầy ma thuật. Bàn chân trần của một người phụ nữ bước xuống một con bọ cạp lớn, được trang trí tinh xảo làm từ đá obsidian đen bóng, hồng ngọc đỏ thẫm và các chi tiết kim loại vàng nằm trên sàn đá cẩm thạch sáng bóng. Khi bàn chân cô chạm vào, con bọ cạp hồng ngọc kim loại liền mạch biến đổi, bao quanh bàn chân cô và chuyển hóa thành một đôi giày cao gót sang trọng cùng vòng đeo cổ chân. Đuôi của con bọ cạp uốn cong quanh cổ chân cô thành một chiếc quai đính đá quý, đôi càng tạo thành phần mũi giày nhọn, và thân mình nó định hình thành chiếc gót nhọn đính đá đầy tinh tế. Ánh sáng điện ảnh, chân thực như ảnh chụp, kết xuất 3D, thẩm mỹ thời trang cao cấp, độ sâu trường ảnh phong phú, ánh sáng mặt trời rực rỡ lọc qua một cung điện nhà kính lớn ở phía sau, chi tiết siêu thực 8k.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092783461610209280/img/ccdqQbgi9n08TAMS.jpg" width="600" alt="Biến hình từ Bọ cạp thành Giày cao gót sang trọng">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=9870)**
-
-**Tác giả:** [Julia](https://x.com/juliaevee) | **Nguồn:** [Link](https://x.com/juliaevee/status/2092783528887083290) | **Đã xuất bản:** Aug 27, 2026
-
----
-### Vlog hoài niệm về thời trung học
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Một prompt video chi tiết để tạo vlog phong cách quay phim gia đình chân thực về một nữ sinh trung học Nhật Bản, tập trung vào biểu cảm tự nhiên và bối cảnh trường học đời thường.
-
-#### 📝 Prompt
-
-```
-Tạo một vlog cá nhân phong cách quay phim gia đình về một ngày bình thường ở trường của một nữ sinh trung học Nhật Bản dễ thương, được quay bởi bạn thân cùng lớp. Độ chân thực cao (Hyper-realistic). Video gồm một chuỗi khoảng 10 cảnh quay ngắn (mỗi cảnh 2-3 giây) với các đoạn cắt cảnh trực tiếp (hard cuts). Mỗi cảnh quay diễn ra ở một địa điểm hoặc khoảnh khắc khác nhau, mỗi cảnh thể hiện một sự kiện nhỏ. Không sử dụng hiệu ứng chuyển cảnh hay làm mờ. Vì được quay bởi bạn thân nhất, cô bé hoàn toàn thoải mái, cười với máy quay, chỉ trỏ và trò chuyện (không nghe rõ tiếng). Không tạo dáng hay diễn xuất, chỉ là những biểu cảm tự nhiên dành riêng cho bạn thân. Nhân vật chính: Cùng một nữ sinh trung học Nhật Bản trong tất cả các cảnh quay. Không phải vẻ đẹp hoàn hảo sắc sảo, mà là gương mặt thân thiện với nụ cười là điểm thu hút nhất. Kết cấu da chân thực, không trang điểm, má hơi ửng hồng. Khi cười, mắt cô bé cong lại thành hình trăng khuyết và lộ nhẹ một chiếc răng khểnh. Tóc đen ngắn ngang vai, được cố định bằng một chiếc kẹp tóc bạc nhỏ phía trên tai phải. Mặc áo sơ mi trắng cổ bẻ tay ngắn, thắt nơ đỏ sẫm, váy xếp ly màu xám dài đến đầu gối, tất trắng, giày đi học (giày thể thao trắng khi ở ngoài trời) và túi xách đi học. Các đặc điểm khuôn mặt, vóc dáng, kiểu tóc, đồng phục và đồ dùng phải hoàn toàn nhất quán từ đầu đến cuối. Địa điểm: Một trường trung học công lập điển hình từ sáng mùa hè đến chiều tối. Cổng trường, lớp học có chỗ ngồi cạnh cửa sổ, hành lang, cửa hàng trong trường, sân trường, lớp học lúc hoàng hôn sau giờ học, cổng trường. Một ngôi trường thực tế với cảm giác đời thường. Các học sinh khác xuất hiện tự nhiên ở hậu cảnh. Không có quảng cáo hay thương hiệu dễ nhận diện. Phong cách quay/hình ảnh: Điểm chung của tất cả các cảnh: máy ảnh kỹ thuật số cầm tay đời cũ do người bạn cầm. Rung lắc tự nhiên, khung hình không hoàn hảo, thỉnh thoảng thay đổi lấy nét tự động, độ phơi sáng biến động, chi tiết hình ảnh mềm mại, nhòe chuyển động nhẹ, nhiễu kỹ thuật số tinh tế, màu sắc hơi bão hòa thấp và cân bằng trắng không hoàn hảo. Không chống rung, không gimbal, không drone, không quay chậm, không ánh sáng điện ảnh hay chỉnh màu thương mại. Danh sách cảnh quay (theo thứ tự, mỗi cảnh 2-3 giây, tất cả đều cắt cảnh trực tiếp): 1. Giờ ra chơi. Ngồi ngược trên ghế ở bàn đầu, ra hiệu và nói gì đó (không nghe rõ). 2. Mua hai chiếc bánh mì ở cửa hàng và đưa một chiếc về phía ống kính. 3. Giờ ăn trưa trên ghế băng ở sân trường, nheo mắt dưới ánh nắng xuyên qua tán lá khi cắn bánh mì. 4. Dựa vào tường hành lang cười lớn, lấy ngón tay lau khóe mắt. 5. Giờ dọn dẹp. Tạo dáng ngớ ngẩn với cây chổi, nhận ra có người ở cuối hành lang nên vội vàng quét dọn nghiêm túc. 6. Rửa tay tại vòi, giả vờ vẩy nước vào máy quay bằng đầu ngón tay ướt rồi cười. 7. Sau giờ học trong lớp học dưới ánh hoàng hôn. Được quay khi đang ngủ gục trên bàn, tỉnh dậy với nụ cười e thẹn. 8. Vẽ một hình nguệch ngoạc nhỏ ở góc bảng đen, quay lại cười lộ răng khểnh rồi xóa ngay lập tức. 9. Thay giày thể thao ở lối vào trong khi trò chuyện và cười đùa. 10. Quay lại ở cổng trường lúc hoàng hôn và vẫy tay chào bằng cả hai tay. Giữa chừng, đoạn ghi hình đột ngột cắt sang màu đen. Không làm mờ dần. Tính chân thực vật lý: Duy trì vật lý thực tế hợp lý trong tất cả các cảnh quay. Tay, ngón tay, chân, đồng phục, tóc, bánh mì, chổi, vở và túi xách hoạt động tự nhiên. Không có thêm ngón tay, bàn tay dính liền, chi tiết thừa, giải phẫu biến dạng, vật thể trôi nổi, vật dụng biến mất hoặc biến dạng đột ngột. Chân vẫn đặt đúng trên sàn và mặt đất. Duy trì sự nhất quán của nhân vật giữa các cảnh, ánh sáng chuyển dần tự nhiên từ sáng sang trưa rồi hoàng hôn. Âm thanh: Chỉ có âm thanh môi trường tự nhiên. Âm thanh môi trường cũng thay đổi theo từng cảnh quay. Tiếng chuông trường xa xa, tiếng giày đi học, tiếng trò chuyện trong lớp, tiếng ồn ào của cửa hàng, tiếng ve kêu, tiếng chổi quét, tiếng hò hét từ các hoạt động câu lạc bộ, và tiếng nói cười không rõ lời. Không nhạc nền, không lời dẫn, không hiệu ứng âm thanh nhân tạo. Không khí cuối cùng: Một video mang lại cảm xúc khi nhìn lại, dù chỉ là chuỗi 12 khoảnh khắc đời thường. Không phải tác phẩm thương mại, không phải phim thời trang, không phải video âm nhạc. Một bản ghi chép về một ngày học bình thường không bao giờ có thể quay lại, được lưu giữ trên máy ảnh của một người bạn cùng lớp và bạn thân. Vô tư, giữa thời thanh xuân, hoài niệm, ấm áp, ngẫu hứng và đậm chất con người. Ưu tiên cảm giác như máy ảnh tình cờ có mặt ở đó.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092686546298433536/img/tcrwpv0-K5VjzOn_.jpg" width="600" alt="Vlog hoài niệm về thời trung học">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=9884)**
-
-**Tác giả:** [妖精アーヤ](https://x.com/aiehon_aya) | **Nguồn:** [Link](https://x.com/aiehon_aya/status/2092733830801109291) | **Đã xuất bản:** Aug 26, 2026
-
----
-### Chân dung ngón tay pixel phong cách Avant-Garde
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt độc đáo mang hơi hướng thời trang, khắc họa người mẫu trong chiếc váy đen với các yếu tố pixel siêu thực, tượng trưng cho sự chú ý trong thế giới kỹ thuật số.
-
-#### 📝 Prompt
-
-```
-Chân dung thời trang Avant-garde của một người mẫu trong chiếc váy đen, xung quanh là các ngón tay trỏ dạng pixel, tượng trưng cho sự phán xét hoặc sự chú ý từ kỹ thuật số.
-```
-
-<img src="https://pbs.twimg.com/media/HQrEmS0XIAIcOcc.jpg" width="600" alt="Chân dung ngón tay pixel phong cách Avant-Garde">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=9876)**
-
-**Tác giả:** [AIrina (Virtual Media Net)](https://x.com/airina_xyz) | **Nguồn:** [Link](https://x.com/airina_xyz/status/2092701039044554816) | **Đã xuất bản:** Aug 26, 2026
-
----
-### Cảnh thác nước trong The Last of the Mohicans
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) có cấu trúc về cảnh quay điện ảnh, mô tả các nhân vật từ The Last of the Mohicans đang ẩn nấp sau thác nước trong khi các chiến binh đang tìm kiếm gần đó.
-
-#### 📝 Prompt
-
-```
-Nhân vật:
-* Hawkeye — người tiên phong phong trần với mái tóc sẫm màu ngang vai, mặc trang phục da hươu, mang theo súng trường dài.
-* Cora Munro — thiếu nữ trong bộ váy thuộc địa nhạt màu.
-* Uncas — chiến binh người Mỹ bản địa vạm vỡ với mái tóc tết.
-* Các chiến binh Huron — một nhóm thợ săn mang theo giáo.
-
-Bối cảnh: Cuối buổi chiều bên cạnh một thác nước cuồn cuộn sâu trong rừng. Hawkeye, Cora và Uncas lặng lẽ nấp sau những tảng đá bên trong một hang động nông bị che khuất bởi dòng nước đổ xuống. Bên ngoài, một vài chiến binh Huron cẩn thận tìm kiếm dọc bờ sông nhưng không phát hiện ra lối vào ẩn giấu. Nước bắn tung tóe trên các tảng đá trong khi mọi người giữ im lặng tuyệt đối, chờ đợi cho đến khi nhóm tìm kiếm dần khuất bóng ở phía hạ lưu. Không có nhạc. Hãy chú ý duy trì tính nhất quán về không gian và tuân thủ quy tắc 180 độ trong quay phim.
-```
-
-<img src="https://pbs.twimg.com/media/HQqypPlWIAA6wD9.jpg" width="600" alt="Cảnh thác nước trong The Last of the Mohicans">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=9872)**
-
-**Tác giả:** [AIrina (Virtual Media Net)](https://x.com/airina_xyz) | **Nguồn:** [Link](https://x.com/airina_xyz/status/2092681296430432645) | **Đã xuất bản:** Aug 26, 2026
-
----
-### Bí ẩn thám tử bạch tuộc phong cách truyện tranh Pháp
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video hài hước bí ẩn theo phong cách truyện tranh ligne claire của Pháp, với nhân vật chính là một thám tử bạch tuộc trong văn phòng dưới đáy biển.
-
-#### 📝 Prompt
-
-```
-montage, phim hoạt hình hài hước bí ẩn đa góc máy, không sử dụng một góc quay hay cắt cảnh đơn lẻ, hoạt hình phong cách truyện tranh ligne claire của Pháp, đường nét sạch sẽ chính xác, màu sắc phẳng tinh tế, đổ bóng tối giản, lối kể chuyện đồ họa châu Âu đầy cuốn hút, bối cảnh kiến trúc sắc nét, biểu cảm khuôn mặt tiết chế, hiệu ứng ánh sáng lung linh dưới nước, bảng màu xanh ngọc, đỏ san hô, kem và xanh navy
-
-Bên trong văn phòng thám tử mái vòm kính dưới đáy biển nhiệt đới đầy màu sắc, một thám tử bạch tuộc thanh lịch mặc chiếc áo khoác măng tô nhỏ ngồi sau bàn làm việc, đối diện là một khách hàng cá nóc đang lo lắng, và một trợ lý cá ngựa đang chán nản cầm sổ ghi chép. Bên ngoài những ô cửa sổ khổng lồ, những đàn cá lướt qua giữa các tòa tháp san hô. Một con cua khả nghi đang trốn dưới gầm bàn.
-
-Cảnh 1: Cảnh trung với chuyển động dolly ngang mượt mà, thám tử bạch tuộc đan bốn cặp xúc tu vào nhau đầy tự tin. Anh ấy nói: "Không có bí ẩn nào là quá phức tạp đối với Monsieur Octave."
-
-Cảnh 2: Cận cảnh, chú cá nóc lo lắng hơi phồng lên vì đau khổ và nói: "Ai đó đã đánh cắp viên ngọc quý giá của tôi!"
-
-Cảnh 3: Cảnh toàn, thám tử bạch tuộc đứng dậy đầy kịch tính và sử dụng sáu xúc tu cùng lúc để kiểm tra căn phòng bằng kính lúp trong khi trợ lý cá ngựa đang hí hoáy ghi chép.
-
-Cảnh 4: Cảnh quay theo (tracking shot) trung bình, thám tử lần theo dấu vết của những vết xước nhỏ trên sàn nhà hướng thẳng về phía con cua đang trốn dưới bàn làm việc của mình. Anh ấy thì thầm: "Thủ phạm đang ở gần đây."
-
-Cảnh 5: Cận cảnh, con cua mở một chiếc càng — viên ngọc bị mất nằm bên trong đó — rồi nhanh chóng giấu nó ra sau lưng.
-
-Cảnh 6: Cảnh toàn, mọi người lặng lẽ nhìn chằm chằm vào con cua. Con cua dùng một chiếc càng chỉ về phía một con cá đang bơi ngang qua ngoài cửa sổ. Vị thám tử thở dài: "Một màn bào chữa đầy tham vọng."
-```
-
-<img src="https://pbs.twimg.com/media/HQp5pO7XIAA78vt.jpg" width="600" alt="Bí ẩn thám tử bạch tuộc phong cách truyện tranh Pháp">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=9864)**
-
-**Tác giả:** [AIrina (Virtual Media Net)](https://x.com/airina_xyz) | **Nguồn:** [Link](https://x.com/airina_xyz/status/2092618583490666962) | **Đã xuất bản:** Aug 26, 2026
-
----
-### Video tương tác giữa phụ nữ và mèo
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Một câu lệnh tạo video chân thực cho Seedance 2.5, mô tả sự tương tác tinh nghịch giữa một người phụ nữ và chú mèo, dẫn đến cú "đấm mèo" đầy ấn tượng được ghi lại qua ống kính.
-
-#### 📝 Prompt
-
-```
-Người phụ nữ Nhật Bản. Chú mèo đột nhiên trở nên phấn khích, cô ấy không kiểm soát được và cả hai ngã ngửa ra sau. Máy quay nhanh chóng zoom vào khuôn mặt của chú mèo và người phụ nữ. Lần này, người phụ nữ dụi mặt vào chú mèo. Cô ấy nhìn vào máy quay và hôn lên má chú mèo. Chú mèo có vẻ hơi khó chịu. Chú mèo nhận ra máy quay, trở nên tức giận và tung một cú "đấm mèo" về phía ống kính. Cú đấm mèo được thực hiện một cách dứt khoát. Một video đầy ấn tượng với hiệu ứng rung lắc như được quay bởi máy quay cầm tay của người nghiệp dư. Không có nhạc nền.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092604477157343233/img/eJsfjHUY9Tv9jLT_.jpg" width="600" alt="Video tương tác giữa phụ nữ và mèo">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=9882)**
-
-**Tác giả:** [h64g](https://x.com/h64g_) | **Nguồn:** [Link](https://x.com/h64g_/status/2092605211412205874) | **Đã xuất bản:** Aug 26, 2026
-
----
-### Phim ngắn hài kịch tình huống kiểu Trung Quốc
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Một kịch bản sáng tạo được thiết kế cho tiểu phẩm hài kịch tình huống kiểu Trung Quốc, với nhiều nhân vật và hướng dẫn chi tiết về tương tác vật lý cũng như phản ứng thực tế trước các sự kiện bất ngờ trong bối cảnh đời thường.
-
-#### 📝 Prompt
-
-```
-[Phong cách] Phim ngắn hài đen địa phương Trung Quốc (Chinese Deadpan Comedy), hành động trực tiếp chân thực (Photorealistic Live Action), kết cấu phim ngắn trực tuyến đời thường, quay cầm tay nhẹ, chuyển động vật lý thực tế, 4K HD [Thời lượng] 30 giây, xuất trực tiếp một lần [Khung hình] 16:9 màn hình rộng [Ngôn ngữ] Đối thoại tiếng Trung toàn phần tại chỗ, khớp khẩu hình tiếng Trung chính xác; không lời dẫn, không phụ đề [Bối cảnh] Sân cũ trong một thị trấn ở miền Bắc Trung Quốc → Tiệm tráng miệng hoài cổ ở một thị trấn nhỏ Trung Quốc → Hành lang nhà khách kiểu cũ ở một thị trấn Trung Quốc [Nhân vật] @Image1 tên 'Mo Ning', chịu trách nhiệm giải thích trên máy quay; @Image2 tên 'A Lan', một khách hàng cùng tiệm tráng miệng; @Image3 tên 'Auntie Wang', bạn đồng hành của A Lan [Quy tắc thực hiện hình ảnh tham chiếu] Khuôn mặt, vóc dáng, kiểu tóc, trang điểm, quần áo và phụ kiện của cả ba nhân vật phải tuân thủ nghiêm ngặt theo hình ảnh tham chiếu tương ứng, không được thêm, bớt hoặc sửa đổi bất kỳ yếu tố ngoại hình nào. Nhân vật phải khớp hoàn toàn với hình ảnh tham chiếu ngay lần xuất hiện đầu tiên, không được phép thay đổi khuôn mặt, trang phục hoặc vóc dáng trong quá trình chuyển cảnh. [Nội dung chính] Mo Ning giải thích với máy quay: Để đánh giá một video có phải do AI tạo ra hay không, đừng chỉ nhìn vào độ phân giải, mà hãy quan sát chuyển động của động vật, hiệu ứng vật lý, phản ứng của nhân vật và mối quan hệ không gian. Trong khi giải thích, cô ấy 'thực hiện minh họa' bằng những hành động ngày càng phi lý tại chỗ, nhưng luôn tin rằng vấn đề nằm ở video AI chứ không phải ở bản thân cô. [Logic diễn xuất của nhân vật] Mo Ning luôn coi mình là một nhà giáo dục chuyên nghiệp nghiêm túc. Sự kiện càng phi lý, cô càng trở nên bình tĩnh và tự cho mình là đúng. Cô không cố gắng gây cười; sự hài hước đến từ những phán đoán sai lầm đầy nghiêm túc của cô. A Lan hoàn toàn mất cảnh giác trước sự cố; cô phải đợi cho đến khi chất lỏng thực sự chạm vào cơ thể mới có dấu hiệu co rúm, nhắm mắt, giơ tay và né tránh. Auntie Wang phải kiểm tra A Lan trước khi quay sang nhìn Mo Ning; không được nhìn chằm chằm hoặc dự đoán sự kiện quá sớm. [00:00-00:05.30] Cảnh 1: Đừng nhìn chất lượng hình ảnh, hãy nhìn chi tiết (Cảnh trung tĩnh). Một sân cũ ở thị trấn miền Bắc Trung Quốc với tường gạch xám, cửa gỗ đỏ, ghế nhựa trắng, cỏ dại bên tường, ngô phơi khô và các vật dụng hàng ngày. Ánh sáng tự nhiên buổi chiều chiếu từ bên cạnh, bóng cây đung đưa nhẹ. Cảnh trung trực diện cố định: Mo Ning ngồi trên ghế nhựa trắng, hơi nghiêng người về phía trước một cách tự nhiên, tay đặt gần đầu gối, nhìn thẳng vào máy quay. [00:00-00:02.30] Mo Ning nói như đang chia sẻ một mẹo đơn giản, thiết thực, giọng nói rõ ràng và tự nhiên: [Hướng dẫn khẩu hình] 'Làm sao để biết một video có phải do AI tạo ra không?' Cô nói xong và giữ ánh mắt cố định, tạm dừng khoảng 0,2 giây để đảm bảo sự chú ý của khán giả. [00:02.30-00:05.30] Mo Ning nhẹ nhàng giơ một tay lên như đang liệt kê các điểm chính: [Hướng dẫn khẩu hình] 'Đừng chỉ nhìn chằm chằm vào độ phân giải; hãy nhìn vào động vật trước. Khi AI xử lý chó mèo, nó rất dễ mắc lỗi.' Cô nhấn mạnh nhẹ vào 'nhìn vào động vật'; 'rất dễ mắc lỗi' được nói với vẻ chắc chắn. Khi cô nói 'chó mèo', tiếng chó thở dốc từ bên ngoài sân vọng vào. Mo Ning nghe thấy nhưng chưa quay lại nhìn. [00:05.30-00:10.20] Cảnh 2: Chuyển động của động vật dễ mắc lỗi nhất (Quay cầm tay thay đổi khung hình). [00:05.30-00:06.50] Một con chó đen lớn nhanh chóng đi vào từ phía dưới bên trái khung hình, luồn đầu vào giữa hai chân Mo Ning. Con chó có đà thực sự khi đi vào; đầu xuất hiện trước, sau đó là vai và thân. Tay của Mo Ning bị con chó đẩy lên một cách tự nhiên, cơ thể cô nảy lại vài cm. Máy quay theo bản năng nghiêng xuống do sự xuất hiện của con chó, tập trung ngắn vào đầu con chó. Mo Ning nhìn xuống con chó: [Hướng dẫn khẩu hình] 'Lấy ví dụ con này chẳng hạn.' Giọng cô không đùa cợt; như thể cô vừa tìm thấy một trường hợp giảng dạy sẵn có. [00:06.50-00:07.70] Con chó đen tiếp tục luồn qua, thân mình cắt ngang trước chân Mo Ning, đuôi quẹt vào chân ghế nhựa. Mo Ning nhẹ nhàng đẩy đầu con chó sang một bên bằng tay, rồi nhìn lên máy quay: [Hướng dẫn khẩu hình] 'Bạn có nhận ra không?' Cô dừng lại nửa giây để khán giả có thời gian quan sát. [00:07.70-00:09.60] Con chó đi ngang qua trước mặt Mo Ning và đột ngột đưa mũi lại gần máy quay, khiến tiền cảnh bị mờ. Ánh mắt Mo Ning dõi theo con chó, lông mày nhíu lại: [Hướng dẫn khẩu hình] 'Chuyển động bị giật, và đôi mắt không đúng.' Cô nói 'bị giật' như đang thực hiện phân tích kỹ thuật. Chuyển động thực tế của con chó phải liên tục và tự nhiên; sự hài hước đến từ việc Mo Ning cố tình gán một hành động bình thường thành 'lỗi AI'. [00:09.60-00:10.20] Mũi con chó gần như chạm vào ống kính, phát ra một tiếng sủa ngắn. Mo Ning nhìn theo từ phía sau và kết luận một cách dứt khoát: [Hướng dẫn khẩu hình] 'Nhìn thoáng qua là thấy giả rồi.' Cô không cười. Cắt cảnh đột ngột sang cảnh tiếp theo ngay sau tiếng sủa. [00:10.20-00:14.60] Cảnh 3: Kiểm tra hiệu ứng vật lý (Cận cảnh cực đại → Cảnh trung). Cắt cảnh đột ngột sang một tiệm tráng miệng hoài cổ ở thị trấn nhỏ Trung Quốc. Bàn gỗ, tủ kính đựng đồ ăn, cốc sứ trắng, phích nước, hộp giấy và bảng giá tiếng Trung tạo nên môi trường đời thường. Khách hàng phía sau trò chuyện tự nhiên. Mo Ning, A Lan và Auntie Wang ngồi cùng bàn. Một cốc lớn đồ uống sữa chua dâu tây màu hồng và một đồ uống màu nhạt khác đặt trên bàn. [00:10.20-00:10.70] Mo Ning đột ngột di chuyển lại gần máy quay thành cận cảnh cực đại. Do thay đổi khoảng cách nhanh, khung hình bị mờ trong chốc lát trước khi tự động lấy nét chính xác vào mắt và môi của Mo Ning. [00:10.70-00:13.70] Mo Ning mở to mắt: [Hướng dẫn khẩu hình] 'Thứ hai, hãy nhìn vào hiệu ứng vật lý. Khi có nhiều chất lỏng trong khung hình, đó thường là dấu hiệu dễ lộ nhất.' Cô nói 'hiệu ứng vật lý' rõ ràng và chậm rãi. Khi nói 'nhiều chất lỏng', ánh mắt cô liếc nhanh sang đồ uống màu hồng; khi nói 'dấu hiệu dễ lộ', cô nhìn lại máy quay. A Lan và Auntie Wang vẫn ngồi tự nhiên, không nhìn tay Mo Ning hay tỏ ra lo lắng. [00:13.70-00:14.60] Chuyển sang cảnh trung hai người. Mo Ning trở lại chỗ ngồi, cầm cốc đồ uống màu hồng trước mặt A Lan lên và giữ trên đầu A Lan bằng cả hai tay. Không báo trước, cô lật ngược cốc. Chất lỏng màu hồng đặc tạo thành dòng chảy liên tục, rơi xuống đầu A Lan và chảy dọc theo khuôn mặt, vai và quần áo của cô, cuối cùng bắn tung tóe lên bàn gỗ. Mực chất lỏng trong cốc phải giảm dần khi đổ; chất lỏng phải có trọng lượng, độ nhớt và quán tính bắn tung tóe thực tế. [Hiệu ứng âm thanh] Tiếng cốc va chạm, tiếng chất lỏng đặc đổ xuống, tiếng chất lỏng bắn lên bàn. [00:14.60-00:18.20] Cảnh 4: Phản ứng thực không thể diễn ra quá sớm (Phản ứng chậm). [00:14.60-00:15.20] Sau khi chất lỏng chạm vào A Lan, có một độ trễ thần kinh 0,2 giây. Sau đó A Lan đột ngột co rúm, nhắm chặt mắt, nhún vai và theo bản năng che đầu. Cô hét lên một tiếng ngắn, né tránh về phía sau với quán tính thực, ghế cọ xát trên sàn. A Lan bị cấm nhắm mắt hoặc né tránh trước khi chất lỏng chạm vào. [00:15.20-00:16.30] A Lan tiếp tục né tránh, cánh tay cô quét qua bàn làm bắn thêm một lượng nhỏ chất lỏng. Mo Ning giữ cốc lộn ngược cho đến khi hết sạch mới kéo lại. Cốc không được đột ngột hết sạch. Mo Ning nhìn vào cốc rỗng, xác nhận 'thí nghiệm đã hoàn tất', không hề xin lỗi hay hoảng sợ. [00:16.30-00:17.50] Auntie Wang sững sờ nửa nhịp, sau đó lập tức di chuyển về phía A Lan để giúp lau chất lỏng. Sự chú ý của cô phải đặt vào A Lan trước. [00:17.50-00:18.20] Cận cảnh: Auntie Wang từ từ quay lại nhìn Mo Ning, lông mày nhíu chặt. A Lan thở dốc dựa vào Auntie Wang. Không có đối thoại rõ ràng, chỉ có tiếng hét kéo dài, tiếng thở nặng nhọc và tiếng quần áo sột soạt. [00:18.20-00:21.30] Cảnh 5: Phản ứng của nhân vật cũng là dấu hiệu (Cảnh trung cận đảo chiều). Quay/đảo chiều sang Mo Ning. Cô ngồi một mình ở phía bên kia bàn, nơi đang lộn xộn với chất lỏng màu hồng và mảnh trái cây. [00:18.20-00:19.00] Mo Ning nhìn A Lan và Auntie Wang, hơi nhướng mày: [Hướng dẫn khẩu hình] 'Sau đó hãy nhìn vào phản ứng của nhân vật.' Giọng cô vẫn là giọng của một giáo viên, không chút tội lỗi. [00:19.00-00:21.30] Mo Ning quan sát A Lan, rồi Auntie Wang, sau đó nhìn lại máy quay: [Hướng dẫn khẩu hình] 'Phản ứng vừa rồi quá phối hợp; rõ ràng là diễn quá đà.' Cô nói 'quá phối hợp' như một nhà phê bình diễn xuất. Chỉ sau khi câu nói kết thúc, một nụ cười mỉa mai rất nhẹ mới xuất hiện ở một bên miệng. [00:21.30-00:25.20] Cảnh 6: Mối quan hệ không gian là khó xử lý nhất (Cảnh quay lùi). Cắt cảnh đột ngột sang hành lang nhà khách cũ. Đèn mờ, vài cánh cửa. Biển báo 'Lối thoát hiểm' màu xanh lá cây bằng tiếng Trung trên tường; không có ký tự lạ. [00:21.30-00:22.40] Mo Ning đi từ cuối hành lang về phía máy quay. Máy quay di chuyển lùi lại với cùng tốc độ. Chỉ nghe thấy tiếng bước chân. [00:22.40-00:25.20] Mo Ning tiếp tục đi: [Hướng dẫn khẩu hình] 'Cuối cùng, hãy nhìn vào các cánh cửa. Khi mối quan hệ không gian trở nên phức tạp, AI rất dễ mắc sai lầm.' Biển báo 'Lối thoát hiểm' phải giữ cố định trên tường và không bị biến dạng. [00:25.20-00:28.50] Cảnh 7: Cánh cửa sai (Điểm nhấn vật lý cửa). [00:25.20-00:25.80] Mo Ning dừng lại trước một cánh cửa bên trái và quay về phía nó. Cận cảnh tay: Cô nắm chính xác tay nắm kim loại và ấn xuống. Số ngón tay chính xác; điểm tiếp xúc giữa tay và tay nắm rõ ràng. [00:25.80-00:26.30] Chuyển sang cảnh trung. Cánh cửa cô đang giữ không mở, nhưng cánh cửa bên cạnh—không ai chạm vào—lại mở hé. Các cánh cửa vẫn tách biệt; không bị nhập vào nhau. Mo Ning ấn tay nắm bên trái, nhưng cửa bên phải lại mở. [00:26.30-00:27.00] Mo Ning nhìn tay nắm của mình, rồi từ từ quay đầu nhìn cánh cửa tự mở. Cô nhíu mày nhẹ, rồi nhìn máy quay: [Hướng dẫn khẩu hình] 'Thấy chưa? Ngay cả những cánh cửa cũng bối rối.' Giọng cô bình tĩnh, kiểu 'Tôi đã bảo mà'. [00:27.00-00:27.80] Cánh cửa bên cạnh từ từ tự đóng lại. Mo Ning đảo mắt và buông tay nắm: [Hướng dẫn khẩu hình] 'Quên đi, tôi đi đây.' Giọng cô mệt mỏi và quyết đoán. [00:27.80-00:28.50] Mo Ning đẩy lại cánh cửa ban đầu, và lần này nó mở ra bình thường. Cô bước vào phòng. Máy quay ở lại hành lang. Khi cô ra khỏi khung hình, cánh cửa đóng sầm lại nhanh chóng với tiếng 'bịch' nặng nề. [00:28.50-00:30.00] Cảnh 8: Kết thúc (Cắt đột ngột sang đen). Khoảnh khắc cánh cửa đóng sầm, màn hình chuyển sang đen cho đến hết. Tiếng bước chân xa dần bên trong phòng được nghe thấy. 0,5 giây cuối cùng im lặng. Không có chữ hay logo. [Tóm tắt đối thoại] Mo Ning: 'Làm sao để biết một video có phải do AI tạo ra không?', 'Đừng chỉ nhìn chằm chằm vào độ phân giải; hãy nhìn vào động vật trước...', 'Lấy ví dụ con này chẳng hạn.', 'Bạn có nhận ra không?', 'Chuyển động bị giật, và đôi mắt không đúng.', 'Nhìn thoáng qua là thấy giả rồi.', 'Thứ hai, hãy nhìn vào hiệu ứng vật lý...', 'Sau đó hãy nhìn vào phản ứng của nhân vật.', 'Phản ứng vừa rồi quá phối hợp; rõ ràng là diễn quá đà.', 'Cuối cùng, hãy nhìn vào các cánh cửa...', 'Thấy chưa? Ngay cả những cánh cửa cũng bối rối.', 'Quên đi, tôi đi đây.' [Yêu cầu âm thanh] Một giọng nói tiếng Trung nhất quán cho Mo Ning, tự nhiên và rõ ràng. Không có tông giọng máy móc hay robot. Âm thanh môi trường: gió, chim hót, tiếng chó thở dốc, tiếng sủa trong sân; tiếng trò chuyện, tiếng va chạm, tiếng bắn tung tóe và tiếng hét trong tiệm; tiếng bước chân và cửa trong nhà khách. Không có nhạc nền hay tiếng cười thu sẵn. [Tính liên tục toàn cầu] Nhân vật tuân thủ nghiêm ngặt hình ảnh tham chiếu trong suốt quá trình. Mo Ning duy trì ngoại hình và giọng nói giống nhau. A Lan và Auntie Wang chỉ xuất hiện trong tiệm; chó đen chỉ xuất hiện trong sân. Chuyển cảnh phải là cắt cứng; không được làm nhòe hay biến dạng.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092592678219214848/img/beNsya7sj4raVMQ9.jpg" width="600" alt="Phim ngắn hài kịch tình huống kiểu Trung Quốc">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=9881)**
-
-**Tác giả:** [John](https://x.com/johnAGI168) | **Nguồn:** [Link](https://x.com/johnAGI168/status/2092593100346519620) | **Đã xuất bản:** Aug 26, 2026
-
----
-### Đời sống thường ngày của một tín đồ máy tính thập niên 80
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt đơn giản ghi lại những thước phim đầy hoài niệm về cuộc sống của một người đam mê máy tính vào những năm 1980.
-
-#### 📝 Prompt
-
-```
-một ngày trong cuộc sống của một tín đồ máy tính thập niên 80, 8 cảnh quay khác nhau, thú vị và hấp dẫn
-```
-
-<img src="https://pbs.twimg.com/media/HQpghNxXMAA4g2P.jpg" width="600" alt="Đời sống thường ngày của một tín đồ máy tính thập niên 80">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=9873)**
-
-**Tác giả:** [AIrina (Virtual Media Net)](https://x.com/airina_xyz) | **Nguồn:** [Link](https://x.com/airina_xyz/status/2092590944520400909) | **Đã xuất bản:** Aug 26, 2026
-
----
-### Nội thất đồn cảnh sát phong cách Anime Noir
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video anime điện ảnh mô tả hành lang đồn cảnh sát tối tăm, chập chờn với ánh sáng khẩn cấp và các mảnh vỡ, tạo nên bầu không khí căng thẳng.
-
-#### 📝 Prompt
-
-```
-Đoạn phim ngắn anime điện ảnh, 15 giây. Nội thất đồn cảnh sát tối tăm, hành lang dài với đèn huỳnh quang chập chờn, vách ngăn kính, văn phòng, tủ hồ sơ và bàn làm việc, ánh sáng đỏ khẩn cấp hòa quyện cùng ánh đèn trắng nhấp nháy, khói và mảnh vỡ ở khắp mọi nơi.
-```
-
-<img src="https://pbs.twimg.com/media/HQpP5-GWQAAR4i-.jpg" width="600" alt="Nội thất đồn cảnh sát phong cách Anime Noir">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=9869)**
-
-**Tác giả:** [TechieSA](https://x.com/TechieBySA) | **Nguồn:** [Link](https://x.com/TechieBySA/status/2092572936414666851) | **Đã xuất bản:** Aug 26, 2026
-
----
-### Nữ phù thủy huyền ảo và cú máy cơ khí
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một khung cảnh giả tưởng cao cấp với nữ phù thủy cùng hệ mặt trời thu nhỏ rực rỡ và một chú cú máy màu trắng trong thư viện mờ ảo.
-
-#### 📝 Prompt
-
-```
-Video dọc đậm chất điện ảnh về một nữ phù thủy tóc vàng trong thế giới giả tưởng, khoác trên mình bộ váy trắng tinh xảo và áo choàng nhung đỏ. Cô đang cầm một hệ mặt trời thu nhỏ màu xanh lam rực rỡ trong thư viện thiếu sáng. Nữ phù thủy quay người về phía người xem, tà áo choàng tung bay, rồi chạm vào một bề mặt chất lỏng tạo nên những gợn sóng màu xanh phát sáng. Bên cạnh cô, một chú cú máy màu trắng với đôi mắt xanh rực rỡ dang rộng đôi cánh và đậu nhẹ nhàng trên vai cô. Camera từ từ phóng to, chi tiết siêu thực, ánh sáng ấn tượng, độ phân giải 8k, chuyển động giả tưởng mượt mà 60fps.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092562857355624448/img/mssOdDklLPTtqN6l.jpg" width="600" alt="Nữ phù thủy huyền ảo và cú máy cơ khí">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=9871)**
-
-**Tác giả:** [Julia](https://x.com/juliaevee) | **Nguồn:** [Link](https://x.com/juliaevee/status/2092562908966182982) | **Đã xuất bản:** Aug 26, 2026
-
----
-### Cuộc trò chuyện trong vườn của Grumblebert Flowerbottom
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt tường thuật đa cảnh dành cho Seedance 2.0 Mini, mô tả cuộc đối thoại giữa một nhân vật cáu kỉnh và một người phụ nữ địa phương trong bối cảnh khu vườn.
-
-#### 📝 Prompt
-
-```
-Nhân vật chính: Grumblebert Flowerbottom @[image1] @[image2] (giữ nguyên các đặc điểm khuôn mặt và phong cách hình ảnh nhất quán)
-Địa điểm: Lối đi trong làng bên cạnh khu vườn của Grumblebert. Buổi chiều nhiều mây. Một người phụ nữ địa phương thân thiện đi bộ bên cạnh ông.
-
-Cảnh 1 — 0:00–0:02
-Bà ấy nhìn lên bầu trời đầy mây.
-Người phụ nữ: “Thời tiết đẹp nhỉ.”
-
-Cảnh 2 — 0:02–0:03.5
-Grumblebert cau mày ngay lập tức.
-Grumblebert: “Quá khô.”
-
-Cảnh 3 — 0:03.5–0:05
-Người phụ nữ gật đầu.
-Người phụ nữ: “Có thể lát nữa sẽ mưa.”
-
-Cảnh 4 — 0:05–0:06.5
-Grumblebert tỏ vẻ khó chịu trước khả năng đó.
-Grumblebert: “Mưa nhiều quá.”
-
-Cảnh 5 — 0:06.5–0:08.5
-Người phụ nữ dừng lại.
-Người phụ nữ: “Vậy ông thực sự thích kiểu thời tiết nào?”
-
-Cảnh 6 — 0:08.5–0:10.5
-Grumblebert suy nghĩ nghiêm túc một lúc.
-
-Cảnh 7 — 0:10.5–0:13
-Cận cảnh.
-Grumblebert: “Hôm qua là chấp nhận được.”
-
-Cảnh 8 — 0:13–0:15
-Người phụ nữ nhìn chằm chằm vào ông.
-Người phụ nữ: “Hôm qua ông đã càm ràm cả ngày đấy.”
-Grumblebert tiếp tục bước đi.
-Grumblebert: “Chính xác. Nhất quán.”
-```
-
-<img src="https://pbs.twimg.com/media/HQpB9udXUAAR8bu.jpg" width="600" alt="Cuộc trò chuyện trong vườn của Grumblebert Flowerbottom">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=9863)**
-
-**Tác giả:** [AIrina (Virtual Media Net)](https://x.com/airina_xyz) | **Nguồn:** [Link](https://x.com/airina_xyz/status/2092557400792322290) | **Đã xuất bản:** Aug 26, 2026
-
----
-### Kịch bản Vlog quy trình chăm sóc da buổi sáng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh video dựa trên kịch bản phức tạp được thiết kế để tạo ra một vlog làm đẹp dài 15 giây nhất quán, bao gồm tương tác với sản phẩm và các bước chăm sóc da.
-
-#### 📝 Prompt
-
-```
-Tạo một vlog làm đẹp 15 giây siêu thực với tỷ lệ 9:16, xuyên suốt chỉ có một cô gái trẻ. Đảm bảo khuôn mặt, kiểu tóc, tông da, trang phục và danh tính của cô ấy hoàn toàn nhất quán.
-
-Bối cảnh: Phòng tắm hiện đại, sáng sủa, sạch sẽ với gương lớn, ánh sáng ấm áp dịu nhẹ, trang trí tối giản và một chậu cây nhỏ. Phong cách quay vlog/điện thoại cầm tay tự nhiên.
-
-0:00–0:03: Cô gái cầm điện thoại bằng một tay, quay selfie trước gương. Cô mỉm cười và giới thiệu sữa rửa mặt Himalaya Purifying Neem Face Wash, đưa tuýp sản phẩm hướng rõ về phía camera.
-Văn bản trên màn hình: “Quy trình chăm sóc da buổi sáng của tôi”
-
-0:03–0:05: Cận cảnh sữa rửa mặt. Cô mở nắp và bóp một lượng nhỏ ra lòng bàn tay. Hiển thị kết cấu gel chân thực.
-Văn bản trên màn hình: “Neem + Nghệ”
-
-0:05–0:09: Cô nhẹ nhàng thoa sữa rửa mặt lên má và trán, massage một cách tự nhiên. Sau đó rửa mặt tại bồn rửa với chuyển động của nước chân thực.
-
-0:09–0:12: Cô nhìn vào gương với làn da tươi tắn, sạch sẽ, chạm vào má và mỉm cười.
-Văn bản trên màn hình: “Tươi mới & Sạch sẽ”
-
-0:12–0:15: Cô cầm sản phẩm bên cạnh khuôn mặt, giơ ngón tay cái đầy dễ thương, sau đó kết thúc bằng cảnh quay sản phẩm sạch sẽ trên bàn phòng tắm bên cạnh một chậu cây nhỏ và khăn tắm.
-Văn bản trên màn hình: “Lựa chọn chăm sóc da của tôi”
-
-Phong cách: Ảnh chân thực, kết cấu da tự nhiên, tóc và bàn tay chân thực, cảnh quay điện thoại thông minh xác thực, chuyển động cầm tay tinh tế, ánh sáng điện ảnh dịu nhẹ, phản chiếu chân thực, 4K, không có vẻ ngoài CGI, không bị biến dạng khuôn mặt hoặc bao bì sản phẩm.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092555353921863680/img/KpzEUOYWYP0cgVjU.jpg" width="600" alt="Kịch bản Vlog quy trình chăm sóc da buổi sáng">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=9875)**
-
-**Tác giả:** [liana](https://x.com/Lianaalane) | **Nguồn:** [Link](https://x.com/Lianaalane/status/2092555394304622883) | **Đã xuất bản:** Aug 26, 2026
-
----
-### Ký ức du lịch Nhật Bản phong cách MiniDV cổ điển
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Một gợi ý video đầy hoài niệm được thiết kế theo phong cách MiniDV những năm 2000, tái hiện chuyến đi Nhật Bản qua góc nhìn thứ nhất (POV) với các kết cấu nhiễu hạt đầy chất thơ và những chuyển động máy quay gần gũi.
-
-#### 📝 Prompt
-
-```
-Sử dụng cùng một nhân vật nữ trưởng thành, giữ nguyên mái tóc dài thẳng màu vàng nhạt, tóc mái thưa, kẹp tóc hoa màu xanh đậm, các đường nét khuôn mặt và tỷ lệ cơ thể. Trong suốt bộ phim, cô ấy mặc cùng một chiếc váy dài thêu dây mảnh màu kem nhạt từ Image1, với chất liệu satin mềm mại, họa tiết hoa thêu vàng nhạt và các chi tiết ren.
-
-Địa điểm: Sân ga ngoại ô Nhật Bản, đồng cỏ, hiệu sách cũ/cửa hàng manga, ngõ nhỏ Nhật Bản, quán ramen, công viên có hươu, đồng cỏ lúc hoàng hôn, đường phố về đêm nhộn nhịp. Cảm giác tổng thể giống như một ngày đi chơi cùng bạn gái, được biên tập nhanh thành những mảnh ghép ký ức du lịch.
-
-Phong cách hình ảnh: Quay phim thực tế, ký ức du lịch thanh xuân Nhật Bản, mơ màng, tự nhiên, gần gũi, cảm giác như những bức ảnh chụp nhanh. Toàn bộ bộ phim mang chất lượng video gia đình MiniDV cổ điển những năm 2000: lấy nét mềm, độ tương phản thấp, vùng sáng hơi nhạt, nhiễu hạt tự nhiên, hiệu ứng hào quang mềm mại, thay đổi phơi sáng tự động nhẹ và nhòe chuyển động rõ rệt.
-
-Phong cách máy quay: Góc nhìn bạn trai (POV) thứ nhất, máy quay cầm tay cự ly gần, góc rộng, bố cục không ổn định, rung lắc tự nhiên và lấy nét tự động nhanh. Máy quay đóng vai trò như một nhân vật thứ hai trong câu chuyện; cô gái sẽ liên tục nhìn, tiến lại gần và quay đầu lại tìm người quay phim. Các cảnh quay được cắt nhanh dứt khoát.
-
-Dòng thời gian (20 giây):
-
-00:00–00:04.5 → Sân ga ngoại ô Nhật Bản. Sự nguy hiểm xuất hiện ngay từ khung hình đầu tiên: cô gái đứng gần đường ray, cơ thể hơi nghiêng về phía trước, một tay che trán. Một chuyến tàu điện Nhật Bản màu đỏ trắng đang lao nhanh về phía cô. Góc nhìn bạn trai lập tức vươn tay nắm lấy cánh tay cô, kéo cô về phía máy quay trong một chuyển động liên tục. Cô gái di chuyển đáng kể, bước lùi 1–2 bước; người bạn trai tự nhiên lùi lại. Ngay khi cô rời khỏi vị trí đó, đoàn tàu lao qua. Cô bị kéo sát vào ống kính, tóc và váy bay trong gió, mắt mở to, môi hé mở vì sốc.
-
-00:04.5–00:06.2 → Đồng cỏ đầy nắng, góc nhìn thứ nhất nắm tay cô gái đi về phía trước; cô nhìn người quay phim và cười hạnh phúc, tóc và váy bay trong gió.
-
-00:06.2–00:07.5 → Hiệu sách cũ Nhật Bản, quay qua các kệ sách; cô gái bất ngờ nghiêng đầu ra nhìn vào máy quay với nụ cười tinh nghịch.
-
-00:07.5–00:08.5 → Quay góc thấp cảnh cô gái mặc váy kem đi bộ qua vạch kẻ đường cho người đi bộ ở Nhật, tà váy đung đưa tự nhiên theo bước chân.
-
-00:08.5–00:09.7 → Ngõ nhỏ Nhật Bản, cô gái đi phía trước, nhìn lại rồi quay sang người quay phim với nụ cười dịu dàng.
-
-00:09.7–00:10.8 → Quán ramen, cận cảnh bát ramen bốc khói, tiêu điểm tự nhiên chuyển sang cô gái đang ngồi đối diện.
-
-00:10.8–00:12.0 → Cửa hàng manga, cô gái rút một cuốn manga từ kệ và đọc.
-
-00:12.0–00:13.1 → Góc nhìn thứ nhất cho hươu ăn bánh quy trong công viên Nhật Bản, cô gái xuất hiện mờ ảo ở đồng cỏ phía sau.
-
-00:13.1–00:14.1 → Cô gái ngồi lặng lẽ lật xem manga, cận cảnh bàn tay, trang sách và chi tiết váy.
-
-00:14.1–00:15.6 → Đồng cỏ lúc hoàng hôn, ánh sáng vàng ấm áp ngược chiều, cô gái đứng gần những chú hươu quay đầu lại nhìn người quay phim.
-
-00:15.6–00:17.5 → Đường phố về đêm, cô gái chạy về phía trước, nhìn lại; máy quay cầm tay theo sát với độ nhòe chuyển động mạnh.
-
-00:17.5–00:18.4 → Cắt nhanh các chi tiết đời thường như chiếc váy thêu và ren.
-
-00:18.4–00:20.0 → Một chiếc máy quay kỹ thuật số những năm 2000 xuất hiện trong khung hình, hiển thị cùng một cô gái trên màn hình LCD lật. Cô nhận ra mình vẫn đang được quay, mỉm cười tinh nghịch và màn hình mờ dần sang màu trắng.
-
-Âm thanh: Chỉ sử dụng âm thanh môi trường thực tế: tàu chạy trên đường ray, tiếng gió, tiếng bước chân, tiếng lật trang, môi trường công viên, tiếng người/phương tiện vào ban đêm, tiếng thở và tiếng cười tự nhiên. Không nhạc nền, không phụ đề.
-
-Mục tiêu: Giống như việc tìm thấy một cuộn băng MiniDV cũ về chuyến đi Nhật Bản nhiều năm sau đó—bắt đầu bằng tình huống 'suýt va chạm với tàu hỏa' rồi chuyển sang những ký ức du lịch thanh xuân đầy gần gũi.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092548374046367744/img/4MLvh2iKwqy5ZGOs.jpg" width="600" alt="Ký ức du lịch Nhật Bản phong cách MiniDV cổ điển">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=9883)**
-
-**Tác giả:** [小宇Chengzi](https://x.com/Chengzilhy) | **Nguồn:** [Link](https://x.com/Chengzilhy/status/2092551539814723758) | **Đã xuất bản:** Aug 26, 2026
-
----
-### Thử thách Squat kiểu cua trong gameshow dưới nước
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Một prompt điện ảnh chi tiết cho phân cảnh gameshow dưới nước dài 15 giây, nơi người chơi phải vượt qua bức tường di động với lỗ hổng hình 'squat kiểu cua' đặc thù.
-
-#### 📝 Prompt
-
-```
-SEEDANCE 2.5 | Thử thách bức tường hình người dưới nước
-
-[Phong cách] Gameshow dưới nước người đóng, màu sắc tươi sáng bão hòa, ánh sáng tự nhiên giữa trưa hè, quay phim chất lượng truyền hình chuyên nghiệp, biên tập nhịp độ nhanh, tiết tấu hài hước nhẹ nhàng, vật lý nước và trọng lực chân thực, 4K HD.
-[Thời lượng] 15 giây
-[Định dạng] Màn hình rộng 16:9
-[Ngôn ngữ] Lồng tiếng nam bằng tiếng Trung, nhân vật chính không có lời thoại chính thức, chỉ có tiếng thở, tiếng gắng sức và tiếng hét ngắn trước khi rơi xuống nước; không có phụ đề.
-[Bối cảnh] Đấu trường gameshow dưới nước ngoài trời rộng lớn, một bục thử thách màu cam dài đặt giữa hồ bơi xanh trong. Ở cuối bục là một bức tường hình người màu xanh nhạt dày, di chuyển với tốc độ không đổi dọc theo đường ray ẩn; ở trung tâm bức tường là lỗ hổng hình người 'squat kiểu cua' với phần đầu ở giữa, khuỷu tay mở ngang, hai tay ôm đầu và hai chân dang rộng. Đối diện hồ bơi là khán đài hình bán nguyệt đầy khán giả, được che bởi một tấm bạt nắng lớn màu trắng.
-
-[Thẻ nhân vật]
-@Image1 tên là 'Xia Yan', một người chơi trong gameshow dưới nước. Khuôn mặt, vóc dáng, kiểu tóc, trang điểm, trang phục và phụ kiện của nhân vật hoàn toàn kế thừa từ hình ảnh tham chiếu mà không thêm thắt hay sửa đổi bất kỳ yếu tố ngoại hình nào.
-Mục tiêu nhân vật: Nhanh chóng hiểu tư thế của lỗ hổng và đưa cơ thể lọt qua trước khi bức tường hình người di chuyển đến.
-Quỹ đạo biểu cảm: Xuất hiện tự tin → Thoáng giật mình sau khi thấy câu đố → Vội vàng điều chỉnh tư thế → Nghĩ rằng mình đã thành công → Nhận ra kích thước không khớp → Bị bức tường đẩy xuống nước → Nhìn vào máy quay với vẻ không phục sau khi ngoi lên.
-Phong cách biểu diễn: Phản ứng gameshow chân thực, không cố tình làm dễ thương, không cường điệu ngay từ giây đầu tiên; mọi thay đổi biểu cảm khuôn mặt phải được kích hoạt bởi chuyển động của bức tường, tiếp xúc vật lý và kết quả của việc rơi xuống nước.
-
-[00:00-00:02.00] Cảnh 1: Bắt đầu cấp độ 2 (Cận cảnh thu hút)
-Cận cảnh chính diện: Xia Yan đứng ở trung tâm bục màu cam, phía sau là hồ bơi và bức tường hình người màu xanh nhạt. Ống kính sử dụng tiêu cự trung bình để nén hậu cảnh, hàng ghế khán giả hơi mờ.
-
-[00:00-00:00.80]
-Xia Yan nhìn thẳng vào máy quay, giữ nụ cười tự tin và bình tĩnh, vai thả lỏng tự nhiên. Âm thanh thiết bị cơ khí khởi động và tiếng mô-tơ trầm phát ra từ phía sau.
-[Lồng tiếng nam tiếng Trung] 'Cấp độ 2, Bắt đầu!'
-Giọng lồng tiếng tươi sáng và tràn đầy năng lượng, giống như người dẫn chương trình gameshow thực tế, không phải tông giọng phát thanh viên tin tức.
-
-[00:00-00:00.80-00:02.00]
-Tiếng vận hành cơ khí dần tiến lại gần. Nụ cười của Xia Yan dừng lại, mắt cô đột ngột mở to, môi tự nhiên tạo thành một vòng tròn nhỏ; cô nhìn vào máy quay trước, sau đó nhanh chóng đảo mắt quan sát bức tường thử thách phía sau.
-Các phản ứng không được xuất hiện trước; chúng phải chuyển từ tự tin sang bất ngờ sau khi âm thanh cơ khí bắt đầu.
-[Lồng tiếng nam tiếng Trung] 'Lần này là—Siêu Squat kiểu cua!'
-'Siêu Squat kiểu cua' tăng âm lượng và kéo dài phần kết, kèm theo hiệu ứng âm thanh kèn đồng đặc trưng của gameshow.
-
-[00:02.00-00:05.00] Cảnh 2: Hiểu tư thế, vào vị trí (Toàn cảnh → Góc 3/4 phía sau)
-Cắt nhanh sang toàn cảnh: Hiển thị đầy đủ bục màu cam, hồ bơi, bức tường hình người màu xanh nhạt và hàng ghế khán giả. Bức tường hình người di chuyển với tốc độ không đổi từ phía xa về phía Xia Yan. Nó luôn giữ phương thẳng đứng với tốc độ ổn định.
-
-[00:02.00-00:03.00]
-Xia Yan nhanh chóng quay người đối diện với lỗ hổng hình người, quét mắt từ trên xuống dưới để xác định vị trí đầu, khuỷu tay, thân mình và chân.
-Cô chạy bộ vài bước về phía khu vực định vị trước tấm tường, chân tiếp xúc thực tế với bục mà không bị trượt hay dịch chuyển tức thời.
-
-[00:03.00-00:05.00]
-Góc 3/4 phía sau: Xia Yan đưa hai tay ra sau đầu, các ngón tay đan vào nhau, khuỷu tay mở sang trái và phải; chân nhanh chóng dang rộng sang hai bên, đầu gối hướng ra ngoài, trọng tâm dần hạ thấp.
-[Lồng tiếng nam tiếng Trung] 'Chân mở rộng, hạ thấp trọng tâm, hai tay ra sau đầu!'
-Nhịp điệu lồng tiếng đồng bộ với hành động: 'Chân mở rộng' tương ứng với việc chân di chuyển sang hai bên; 'hạ thấp trọng tâm' tương ứng với việc cơ thể vào tư thế squat sâu; 'hai tay ra sau đầu' tương ứng với việc tay đan sau đầu. Các hành động phải được hoàn thành theo trình tự; nghiêm cấm việc cả ba hành động xuất hiện trong cùng một khung hình.
-
-[00:05.00-00:09.00] Cảnh 3: Tư thế đúng, kích thước sai (Cảnh chính diện đối xứng)
-Cắt sang cảnh toàn đối xứng từ phía trước tấm tường. Máy quay quay Xia Yan qua lỗ hổng hình người, với đầu, cánh tay, thân mình và chân khớp với các khoảng trống tương ứng.
-
-[00:05.00-00:06.20]
-Xia Yan giữ hai tay sau đầu và tư thế squat sâu rộng, điều chỉnh bước chân sang trái và phải, sau đó di chuyển cơ thể vài cm về phía trung tâm lỗ hổng. Cô nhìn xuống để kiểm tra vị trí chân, sau đó nhìn lên bức tường đang tiến đến. Môi cô hơi mím lại, hơi thở gấp gáp hơn.
-
-[00:06.20-00:07.50]
-Tấm tường tiếp tục di chuyển về phía trước với tốc độ không đổi. Xia Yan hạ thấp trọng tâm hơn nữa, khiến khuỷu tay và chân khớp sát nhất có thể với các cạnh của lỗ hổng. Cô nhắm mắt lại vì gắng sức, vai hơi nhô lên; khi mở mắt ra, đồng tử giãn ra, môi hé mở, nhận ra lỗ hổng chật hơn dự kiến.
-[Lồng tiếng nam tiếng Trung] 'Tư thế rất chuẩn—'
-Nửa câu đầu nghe đầy phấn khích, như thể đang thông báo cô sắp thành công.
-
-[00:07.50-00:09.00]
-Tấm tường tiến lại gần hơn. Cô giữ nguyên tư thế, không dám cử động, chỉ hơi đảo mắt quan sát các cạnh của lỗ hổng ở hai bên. Các cạnh của lỗ hổng dần tiến sát khuỷu tay và chân nhưng chưa chạm vào. Sự tự tin trên khuôn mặt cô dần biến mất, miệng hơi há ra, hơi thở khựng lại nửa nhịp.
-[Lồng tiếng nam tiếng Trung] 'Nhưng cái lỗ này... có vẻ hơi nhỏ!'
-Ngắt quãng khoảng 0,3 giây sau 'Nhưng cái lỗ này'; 'hơi nhỏ' hạ thấp âm lượng, tạo cảm giác rắc rối sắp ập đến. Nhạc nền dừng lại một nhịp mạnh ở đây, chỉ còn tiếng cơ khí của bức tường và tiếng khán giả ồ lên.
-
-[00:09.00-00:10.50] Cảnh 4: Không vượt qua được (Cảnh ngang / Hài hước vật lý)
-Cắt sang cảnh trung bình từ bên hông bục, cho thấy bức tường hình người, Xia Yan và mép hồ bơi phía sau.
-
-[00:09.00-00:09.50]
-Tấm tường chạm đến vị trí của Xia Yan. Cạnh của lỗ hổng chạm nhẹ vào bên ngoài cơ thể cô; cô lập tức nhận ra mình không thể lọt qua hoàn toàn, mắt mở to, hai tay rời khỏi sau đầu, lòng bàn tay hướng về phía trước tìm điểm tựa. Các phản ứng phải được kích hoạt bởi sự tiếp xúc; nghiêm cấm việc đứng dậy hoặc ngả người ra sau trước đó.
-[Lồng tiếng nam tiếng Trung] 'Ôi không, cô ấy không lọt!'
-
-[00:09.50-00:10.50]
-Tấm tường tiếp tục tiến về phía trước với tốc độ ban đầu, và Xia Yan, không thể lọt qua lỗ hổng, bị đẩy đều đặn về phía mép bục. Trọng tâm của cô dần vượt quá gót chân, chân trượt một đoạn ngắn trên bục trước; sau đó đầu gối duỗi ra, cơ thể nghiêng về phía sau, hai tay vung nhanh sang hai bên để giữ thăng bằng. Đến mép bục, cô ngồi nửa người xuống mép, chân nhấc lên do quán tính, rồi cả cơ thể ngã ngửa xuống hồ bơi. Nghiêm cấm việc bức tường tăng tốc đột ngột và Xia Yan tự ý nhảy; việc rơi xuống nước phải đến từ lực đẩy liên tục của bức tường và sự dịch chuyển trọng tâm cơ thể. Xia Yan phát ra tiếng 'Á!' ngắn, tự nhiên vào khoảnh khắc cô rời khỏi bục.
-
-[00:10.50-00:12.50] Cảnh 5: Cú bắn nước lớn (Va chạm nước / Vật lý chất lỏng chân thực)
-[00:10.50-00:11.20]
-Cảnh toàn từ bên hông: Lưng và phần sau cơ thể Xia Yan tiếp xúc với mặt nước trước, theo sau là đôi chân. Một cú bắn nước trắng xóa nổ tung tại điểm rơi, cột nước lan tỏa lên trên và sang hai bên; những giọt nước nhỏ tạo thành các đường parabol chân thực, khối nước nặng hơn nhanh chóng rơi xuống.
-[Lồng tiếng nam tiếng Trung] 'Vẫn bị đẩy xuống nước!'
-'Xuống nước' xuất hiện cùng với cú bắn nước lớn nhất. [Hiệu ứng âm thanh] Tiếng rơi xuống nước trầm, tiếng bắn nước lớn, tiếng khán giả ồ lên.
-
-[00:11.20-00:12.50]
-Máy quay tiếp tục giữ ở khu vực rơi xuống. Xia Yan hoàn toàn chìm dưới nước, chỉ còn lại bọt trắng, những gợn sóng lan tỏa và những giọt nước rơi dần. Bọt từ dày đặc chuyển sang thưa thớt, gợn sóng lan ra hai bên hồ. Bức tường hình người dừng lại ở mép bục, không được đổ, cong hay rơi xuống nước. Nhạc nền tạm dừng một chút, sau đó bắt đầu lại với nhịp trống nhẹ.
-
-[00:12.50-00:15.00] Cảnh 6: Sự trở lại không phục (Đẩy máy quay ngang mặt nước)
-Cắt sang cảnh trung bình chính diện gần mặt nước.
-
-[00:12.50-00:13.20]
-Xia Yan ngoi lên từ dưới nước, đầu trước, sau đó đến vai. Cô nhắm mắt và thở ra một hơi, nước liên tục nhỏ giọt từ mặt và cằm. Cô dang tay để đạp nước và giữ cơ thể ổn định. Nước ướt chỉ làm thay đổi trạng thái bề mặt, không làm thay đổi khuôn mặt nhân vật, cấu trúc kiểu tóc, cấu trúc trang phục hay đặc điểm nhận dạng.
-
-[00:13.20-00:14.00]
-Xia Yan mở mắt, xác nhận
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092535890736205824/img/Xp0GQ6C-OnRpTlfo.jpg" width="600" alt="Thử thách Squat kiểu cua trong gameshow dưới nước">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=9878)**
-
-**Tác giả:** [John](https://x.com/johnAGI168) | **Nguồn:** [Link](https://x.com/johnAGI168/status/2092536240436363328) | **Đã xuất bản:** Aug 26, 2026
-
----
-### Đồng hồ biến hình thành bướm cơ khí
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Chuỗi biến hình theo phong cách Transformers, chuyển đổi một chiếc đồng hồ cơ thực thụ thành một chú bướm máy với hiệu ứng âm thanh cơ khí.
-
-#### 📝 Prompt
-
-```
-Bạn hãy biến chiếc đồng hồ này (Hình 1) thành một chú bướm máy (Hình 2) theo phong cách phim Transformers. Không sử dụng nhạc. Chỉ sử dụng âm thanh biến hình cơ khí.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092487083332186113/img/pNRLhCy_dft_i_Vi.jpg" width="600" alt="Đồng hồ biến hình thành bướm cơ khí">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=9817)**
-
-**Tác giả:** [Zidan 子丹](https://x.com/liluocheng13) | **Nguồn:** [Link](https://x.com/liluocheng13/status/2092487184628752856) | **Đã xuất bản:** Aug 26, 2026
-
----
-### Phân cảnh rượt đuổi bằng xe đạp trong rừng xác sống
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) điện ảnh siêu thực cho phân cảnh rượt đuổi tốc độ cao, nơi một người phụ nữ đi xe đạp chạy trốn khỏi đám đông xác sống trong khu rừng sương mù gồ ghề.
-
-#### 📝 Prompt
-
-```
-Phân cảnh hành động điện ảnh siêu thực về một cô gái trẻ đang đạp chiếc xe đạp địa hình màu đỏ với tốc độ cao đầy tuyệt vọng xuyên qua khu rừng rậm rạp đầy sương mù, trong khi bị một đám đông xác sống bóng tối đuổi theo phía sau. Cô có mái tóc đen dài bay trong gió đầy kịch tính, mặc áo sát nách màu trắng ôm sát, quần đùi thể thao màu đen và giày cổ ngắn màu trắng. Biểu cảm của cô tập trung, sợ hãi và quyết tâm khi nắm chặt tay lái. Chiếc xe đạp lao đi trên con đường đất gồ ghề phủ đầy rễ cây lộ thiên, lá cây và bụi bặm. Trong một khoảnh khắc kịch tính, cô phóng chiếc xe đạp qua một rễ cây lớn đổ ngang, cả hai bánh xe nhấc bổng hoàn toàn lên không trung. Cú máy quay theo góc thấp năng động, hiệu ứng nhòe chuyển động kịch tính, bụi và lá bay, ánh nắng lọc qua những tán cây cao, sương mù rừng rậm đầy không khí, đổ bóng chân thực, nhiếp ảnh hành động tốc độ cao, độ sâu trường ảnh nông, chỉnh màu điện ảnh, kết cấu da và vải chân thực, siêu chi tiết, 8K, HDR, kỹ thuật quay phim giật gân sinh tồn chuyên nghiệp kiểu Hollywood, ống kính 85mm, f/1.8, bố cục dọc 9:16.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092481916998189056/img/D0Yo3I7tulo6VRW9.jpg" width="600" alt="Phân cảnh rượt đuổi bằng xe đạp trong rừng xác sống">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=9836)**
-
-**Tác giả:** [AIwithMinal](https://x.com/AIwithMinal) | **Nguồn:** [Link](https://x.com/AIwithMinal/status/2092482098657644655) | **Đã xuất bản:** Aug 26, 2026
-
----
-### Quảng cáo sản phẩm tinh chất dưỡng tóc
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một yêu cầu (prompt) video chi tiết cho quảng cáo làm đẹp dài 15 giây, mô tả quá trình biến hóa mái tóc với ánh sáng và chuyển động chân thực.
-
-#### 📝 Prompt
-
-```
-Một video quảng cáo làm đẹp dọc dài 15 giây đầy chân thực về một phụ nữ trẻ Đông Á với mái tóc dài màu nâu sẫm, bối cảnh trong một phòng tắm hiện đại, sáng sủa với tường ốp gỗ, cửa sổ lớn có rèm sáo và ánh nắng tự nhiên tràn vào. Cô mặc một chiếc áo ba lỗ gân tăm màu be đơn giản, trang điểm tự nhiên với làn da căng bóng và đôi môi hồng nhẹ nhàng. Bắt đầu với cảnh cô cầm một chai xịt thủy tinh mờ có vòi bơm màu vàng và nhãn trắng, mỉm cười rạng rỡ trước ống kính trong khi nhìn hơi nghiêng sang một bên. Văn bản xuất hiện trên màn hình: “My Hair Refresh ✨”. Cô nói đầy hào hứng: “Nếu sáng ra tóc bạn trông khô xơ và rối bời, hãy thử cách này: chỉ một chút tinh chất thôi là đã tạo nên sự khác biệt lớn rồi!”. Cô bơm một lượng nhỏ tinh chất màu trắng vào lòng bàn tay, sau đó dùng ngón tay vuốt nhẹ lên tóc để thoa sản phẩm. Văn bản chuyển thành “Smooth & Frizz-Free ✨”. Cô hất và vuốt tóc, cho thấy sự thay đổi rõ rệt. Tiếp theo, cô dùng cả hai tay vuốt mái tóc giờ đây đã trở nên bóng mượt, óng ả trong khi mỉm cười và nói: “Hãy nhìn xem tóc mình trông mượt mà và bóng khỏe thế nào này!”. Văn bản chuyển thành “Fresh Hair Finish ✨”. Cô tiếp tục hất và tung mái tóc một cách tinh nghịch, trông đầy hạnh phúc và tự tin. Văn bản cuối cùng xuất hiện: “Try It ✨”. Cô giơ chai tinh chất lên một lần nữa, mỉm cười với máy quay và nói: “Chắc chắn mình sẽ giữ sản phẩm này trong quy trình chăm sóc buổi sáng”. Ánh sáng tự nhiên dịu nhẹ, ánh nắng vàng ấm áp của giờ vàng, kết cấu da chân thực chất lượng cao, phong cách quảng cáo làm đẹp đậm chất điện ảnh, chuyển động máy quay mượt mà, định dạng dọc 9:16, thời lượng 15 giây.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092478623332909056/img/Hs5W9Dc0SSAMDyL8.jpg" width="600" alt="Quảng cáo sản phẩm tinh chất dưỡng tóc">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=9830)**
-
-**Tác giả:** [Noor](https://x.com/noorlewisx) | **Nguồn:** [Link](https://x.com/noorlewisx/status/2092478694078251087) | **Đã xuất bản:** Aug 26, 2026
-
----
-### Cài đặt phong cách hình ảnh điện ảnh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh phong cách kỹ thuật xác định tỷ lệ khung hình, tốc độ khung hình và ánh sáng cho vẻ ngoài điện ảnh không bão hòa màu.
-
-#### 📝 Prompt
-
-```
-ĐỊNH DẠNG VÀ PHONG CÁCH HÌNH ẢNH
-
-Tỷ lệ khung hình 16:9, độ phân giải gốc 1920×1080, 24fps, hình ảnh full-frame không có viền đen. Bảng màu lạnh, không bão hòa, ánh sáng điện ảnh tiết chế, vùng sáng dịu, vùng tối sâu, hiệu ứng phim tinh tế
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092462204930973696/img/MGfx4SbyvJhy5JxT.jpg" width="600" alt="Cài đặt phong cách hình ảnh điện ảnh">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=9828)**
-
-**Tác giả:** [Token360.ai](https://x.com/IronEntrepreneu) | **Nguồn:** [Link](https://x.com/IronEntrepreneu/status/2092462500117614847) | **Đã xuất bản:** Aug 26, 2026
-
----
-### Chuỗi cảnh phim giật gân tại khách sạn sang trọng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh video kể chuyện cho phân cảnh giật gân bao gồm cảnh chiến đấu ở hành lang, sử dụng hình ảnh tham chiếu để đảm bảo tính nhất quán của nhân vật.
-
-#### 📝 Prompt
-
-```
-Một bộ phim giật gân người đóng kể về Sue khi cô bước ra khỏi thang máy của một khách sạn sang trọng và chiến đấu tay không dọc hành lang trong khi mười kẻ tấn công đeo mặt nạ cố gắng ngăn cản cô.
-
-<<<image_1>>> là căn cứ duy nhất cho diện mạo hoàn chỉnh của Sue. Sue mặc chính xác trang phục trong ảnh,
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092461422131253248/img/kP4WTHZoLe0RuJP8.jpg" width="600" alt="Chuỗi cảnh phim giật gân tại khách sạn sang trọng">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=9829)**
-
-**Tác giả:** [Zephyra Leigh](https://x.com/ZephyraLeigh) | **Nguồn:** [Link](https://x.com/ZephyraLeigh/status/2092461819617333592) | **Đã xuất bản:** Aug 26, 2026
-
----
-### Phim ngắn khoa học viễn tưởng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) toàn diện cho bộ phim khoa học viễn tưởng phong cách Hollywood dài 2 phút, bao gồm bốn cảnh quay 30 giây được kết nối với nhau.
-
-#### 📝 Prompt
-
-```
-TỔNG THỜI LƯỢNG: 2 PHÚT
-CẤU TRÚC: 4 CẢNH QUAY KẾT NỐI, MỖI CẢNH 30 GIÂY
-TỶ LỆ KHUNG HÌNH: 16:9
-PHONG CÁCH: KHOA HỌC VIỄN TƯỞNG HOLLYWOOD CHÂN THỰC CAO CẤP
-
-Tạo một bộ phim ngắn điện ảnh hoàn chỉnh dài 2 phút về hai
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092449384080576512/img/wEBevemlVAq5GgV2.jpg" width="600" alt="Phim ngắn khoa học viễn tưởng">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=9838)**
-
-**Tác giả:** [Caden Flux](https://x.com/Caden_Flux) | **Nguồn:** [Link](https://x.com/Caden_Flux/status/2092450306546094558) | **Đã xuất bản:** Aug 26, 2026
-
----
-### Hoạt hình 2.5D Tu viện trên núi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh chi tiết để tạo hoạt hình 2.5D về sân tu viện lúc hoàng hôn, tập trung vào phong cách thẩm mỹ phi CGI đặc trưng.
-
-#### 📝 Prompt
-
-```
-Hoạt hình 2.5D đậm chất điện ảnh. KHÔNG phải hoạt hình 2D phẳng, KHÔNG có đường viền đen đậm, KHÔNG đổ bóng cel-shading, KHÔNG phải CGI bóng bẩy, KHÔNG phải Unreal Engine, KHÔNG chân thực như ảnh chụp, không có bề mặt nhựa.
-
-BỐI CẢNH: sân tu viện trên núi đổ nát lúc hoàng hôn, sương mù cuộn qua những cột đá vỡ,
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092438049468846081/img/_xHl0qj1jGSHVj1c.jpg" width="600" alt="Hoạt hình 2.5D Tu viện trên núi">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=9827)**
-
-**Tác giả:** [PixieVerse](https://x.com/itsPixieVerse) | **Nguồn:** [Link](https://x.com/itsPixieVerse/status/2092439850184249474) | **Đã xuất bản:** Aug 26, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -3622,6 +3663,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-06T03:28:48.617Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-07T09:16:38.214Z</sub>
 
 </div>

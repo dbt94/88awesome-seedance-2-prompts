@@ -68,9 +68,9 @@ Neden galerimizi kullanmalısınız?
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **6281** |
+| 📝 Toplam İstem | **6305** |
 | ⭐ Öne Çıkan İstemler | **6** |
-| 🔄 Son Güncelleme | **2026-09-06** |
+| 🔄 Son Güncelleme | **2026-09-07** |
 
 ---
 
@@ -361,6 +361,706 @@ Ultra gerçekçi, Hızlı ve Öfkeli esintili enerji, fotogerçekçi aydınlatma
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Anime Fantastik Çatı Üstü Dövüş Sekansı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gece vakti donmuş bir üniversite çatısında geçen, anime esintili detaylı bir fantastik dövüş sekansı.
+
+#### 📝 İstem
+
+```
+30 saniyelik, ultra gerçekçi, sinematik bir bilim kurgu evrim videosu oluşturun; 16:9 formatında, Hollywood seviyesinde görsel efektlerle. 16:9 geniş ekranda, 8K görsel kalitesinde, akıcı 60fps hareket kabiliyetine ve birinci sınıf sinematik dövüş koreografisine sahip, 30 saniyelik ultra gerçekçi, anime esintili yüksek aksiyonlu bir fantastik sekans yaratın. Sekansın tamamını gece vakti modern bir üniversite dövüş akademisinin donmuş çatısında kurgulayın. Çatı; metal güvenlik çitleri, havalandırma yapıları, beton merdiven girişleri, donmuş su birikintileri, karla kaplı borular ve büyük su depoları ile çevrilidir. Çatının ötesinde, uzak neon tabelalar, hareketli trafik, yüksek binaların pencereleri ve soğuk mavi ay ışığıyla parlayan geniş bir Kore şehri uzanmaktadır. Sahne boyunca hafif kar yağarken, sert bir kış rüzgarı kıyafetleri, saçları ve gevşek buz parçacıklarını hareket ettirir. ANA KARAKTER: Anime esintili ancak fotogerçekçi bir görünüme sahip, 21 yaşında, özgüvenli bir Koreli üniversite dövüş akademisi öğrencisi. Küçük oval bir yüze, gerçekçi dokuya sahip doğal açık ten rengine, keskin menekşe-gri gözlere ve kulaklarının hemen altında biten, yumuşak düzensiz kâküllü, kısa pastel mor saçlara sahip. Sekans boyunca aynı oturan gri akademi blazer ceketini, beyaz gömleğini, koyu mavi fiyongunu, siyah dar güvenlik şortunun üzerine giyilmiş kömür rengi pileli eteğini, siyah termal taytını ve koyu renkli kısa botlarını giyer. Ağzının kenarında kırmızı bir çilekli lolipop durmaktadır. En tehlikeli saldırılar sırasında bile ifadesi sakin, hafif sıkılmış ve zahmetsizce özgüvenlidir. Her çekimde yüzünü, saç stilini, kıyafetini, oranlarını, lolipopunu ve buz gücü tasarımını tutarlı bir şekilde koruyun. RAKİPLER: Siyah kışlık taktik kıyafetler, hafif vücut zırhı, yalıtımlı eldivenler ve yüzü belli etmeyen koyu maskeler giyen dört yetişkin maskeli saldırgan. Katlanabilir asalar ve kör eğitim bıçakları taşırlar. Dört saldırganı küçük renkli omuz işaretleri sayesinde ayırt edilebilir kılın: kırmızı, beyaz, sarı ve yeşil. Saldırıları hızlı ve tehditkar hissettirmeli, ancak kahramanımız onları yaralayıcı bir şiddet uygulamadan etkisiz hale getirmeli. AÇILIŞ: Kahramanın siyah botunun çatıdaki sığ bir su birikintisine basışının aşırı yakın plan çekimiyle başlayın. Don, tabanının altından dışarıya doğru narin dallanan desenler halinde anında yayılır. Çatının kenarında tek başına dururken, bir eli blazer ceketinin cebinde ve lolipopu dudaklarının arasındayken kamerayı yukarı doğru eğin. Rüzgar pastel mor saçlarını kaldırırken, aşağıda karanlık şehir manzarası parlar. Yeni donmuş su birikintisinin yansımasında, arkasından yaklaşan dört maskeli saldırganı gösterin. Kırmızı omuz işaretli saldırgan öne atılır ve asasını başına doğru sallar. Elini cebinden çıkarmadan silahın altından sakince geriye doğru eğilirken hızlı bir yanal takip çekimi kullanın. Asa yüzünün sadece santimetre üzerinden geçer. Botunun ucuyla çatıya hafifçe vurur, bu da saldırganın öndeki ayağının altında dar bir buz sırtının yükselmesine neden olur. Dengesini kaybeder ve donmuş yüzey üzerinde kayarak yanından geçer. Beyaz işaretli saldırgan birkaç küçük metal eğitim bıçağı fırlatır. Bıçakları havada ona doğru hızla takip edin. İki parmağını kaldırır ve çatıdaki bir drenaj kanalından su, çoklu kıvrımlı akışlar halinde yükselir. Akışlar havada anında donarak her bıçağı şeffaf, kavisli bir buz duvarının içine hapseder. Kamera, ay ışığı buzun içinden kırılıp sakin yüzüne soluk mavi desenler yansıtırken asılı kalan oluşumun etrafında döner. Lolipopu ısırır ve parmaklarını yana doğru şaklatır. Buz duvarı yüzlerce zararsız parıltılı parçaya ayrılırken, hapsolmuş eğitim bıçakları güvenli bir şekilde çatıya düşer. Parçalar, kontrollü bir kar fırtınası gibi saldırganlara doğru fırlamadan önce bir anlığına etrafında asılı kalır. Parçacıklar zırhlarına çarpar ve vücutlarına saplanmadan onları geriye doğru iter. Sarı işaretli saldırgan, asası havada kalkık bir şekilde merdiven çatısından atlar. Silüeti ayın önünden geçerken, kahramana yakın düşük açılı bir kamera kullanın. Sakince döner ve bir eliyle dairesel bir hareket çizer. Kalın bir donmuş su şeridi asasının etrafında yukarı doğru spiral çizer, onu yerine kilitler ve momentumunu yönünü değiştirir. Havada zararsızca döner ve bir havalandırma ünitesinin yanındaki taze oluşmuş yumuşak bir kar yığınının üzerine iner. Yeşil işaretli saldırgan kör noktasından saldırır. Lolipopu ilk kez ağzından çıkarır, küçük bir soğuk buhar bulutu üfler ve lolipopu yanındaki metal korkuluğa değdirir. Don, korkuluk boyunca hızla ilerler ve çatı boyunca kavisli bir buz yolu oluşturur. Üzerine basar ve saldırgan defalarca sallanıp ıskalarken zahmetsiz bir dengeyle geriye doğru kayar. Buz yolunda kayarken, bir darbenin altından eğilirken, diğerinin etrafında dönerken ve saldırganın bileğini tek eliyle yakalarken yanlarında hızlı bir takip çekimi kullanın. Onu toparlanmaya çalışan diğer saldırganlara doğru yönlendirir. Dördü de birbirine çarpar ancak fiziksel olarak zarar görmezler. Saldırganlar koordineli bir son saldırı için etrafını sararlar. Dört yönden hücum ederken geniş bir tepe açısına geçin. Çömelir ve avucunu çatıya düz bir şekilde bastırır. Mavi-beyaz bir don darbesi beton boyunca dışarı doğru patlar. Uzun kavisli buz yapıları, donmuş bir çiçeğin yaprakları gibi etrafında yükselir. Her buz yaprağı bir saldırganı engeller ve botlarını üst vücuduna zarar vermeden çatıya güvenli bir şekilde hapseder. Kısa bir sessizlik anı yaratın. Kahramanı, kar ve parçalanmış buz kristalleri etrafında süzülürken devasa şeffaf buz çiçeğinin merkezinde dururken gösterin. Şehir ışıkları donmuş yapıların arasından parıldar. Lolipopu tekrar ağzına koyar, mavi fiyongunu düzeltir ve hareketsiz kalan saldırganlara rahat, neredeyse oyuncu bir ifadeyle bakar. Final için, bir saldırgan gizlice botunu kurtarır ve arkadan son bir saldırı denemeye çalışır. Arkasına bakmadan parmaklarını şaklatır. Yukarıdaki bir borudan küçük bir buz sarkıtı düşer ve botunun hemen önünde çatıya çarparak onu şaşırtır ve yumuşak bir kar yığınının içine geriye doğru düşmesine neden olur. Küçük, tatmin olmuş bir gülümseme atar ve dev buz çiçeği gece havasına ışıltılı kırağılar salmaya başlarken merdiven girişine doğru yürür. KAMERA STİLİ: Enerjik ama kontrollü sinematik kamera hareketi, düşük açılı takip, hızlı yan hareketler, yakın plan tepki çekimleri, donmuş bıçakların etrafında pürüzsüz bir yörünge çekimi ve final buz oluşumu için geniş bir tepe açısı kullanın. Her saldırıyı takip etmesi kolay tutun. Gerçekçi momentum, doğru ayak yerleşimi, inandırıcı darbeler, doğal vücut dengesi ve koreografi vuruşları arasında akıcı geçişler kullanın. Rastgele kamera dönüşlerinden ve aşırı sarsıntıdan kaçının. AYDINLATMA VE VFX: Soğuk ay ışığını, çatı güvenlik lambalarını, kırmızı uçak ikaz ışıklarını ve aşağıdaki sıcak şehir parıltısını birleştirin. Buz güçleri, yüzler, kıyafetler, beton ve çevredeki nesnelerle doğal bir şekilde etkileşime giren kontrollü mavi-beyaz bir aydınlatma üretir. Buz; gerçekçi şeffaflığa, iç çatlaklara, kırağıya, kırılmaya, yoğunlaşmaya, ağırlığa ve parçalanma fiziğine sahip olmalıdır. Sahneyi bir video oyunu gibi göstermeden detaylı kar yer değiştirmesini, donmuş su hareketini, nefes buharını ve ışıltılı parçacıkları gösterin. SES: Sert kış rüzgarı, uzak şehir trafiği, buz üzerinde kazınan botlar, hızlı asa hareketleri, giderlerden akan su, derin donma çatlakları, keskin buz darbeleri, kontrollü parçalanma sesleri, kıyafet hareketi ve lolipopun dişlerine çarpmasının sessiz tıkırtısını kullanın. Koordineli saldırı sırasında yükselen ve finaldeki donmuş çiçek ortaya çıkışında aniden sessizleşen gerilimli elektronik-orkestral bir aksiyon müziği ekleyin. Sözlü diyalog yok. SÜREKLİLİK: Kahramanın kimliğini, pastel mor saç stilini, gri blazer ceketini, mavi fiyongunu, lolipopunu, kıyafet durumunu ve sakin kişiliğini baştan sona koruyun.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096821250534563840/img/OEWuape71bf4uSSz.jpg" width="600" alt="Anime Fantastik Çatı Üstü Dövüş Sekansı">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10445)**
+
+**Yazar:** [Elaine Wright](https://x.com/ElaineWrigari1) | **Kaynak:** [Link](https://x.com/ElaineWrigari1/status/2096821611240538456) | **Yayınlandı:** Sep 7, 2026
+
+---
+### Çin Xianxia Dövüş Sanatları Film Senaryosu
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Bir usta ve öğrencisi arasındaki duygusal gerilime ve karakter tutarlılığına odaklanan, 'Arkanı Dönme' (Don't Look Back) adlı Xianxia kısa filmi için profesyonel sinematik senaryo.
+
+#### 📝 İstem
+
+```
+15 saniyelik Xianxia kısa filmi | "Arkanı Dönme" I. Temel Konumlandırma 15 saniyelik, bütünlüklü ve kesintisiz bir Çin Xianxia kısa filmi oluşturun. Genel Stil: Sinematik gerçekçi doku, saf antik Çin Xianxia estetiği, olgun psikolojik gerilim, ölçülü ama keskin duygusal güç, açıklayıcı diyaloglar yerine alt metinle ilerleyen, profesyonel senarist tarzı kısa diyaloglar, zarif dövüş sanatları karakter kurgusu, Arri Alexa film kalitesi, sabit ve keskin yüz mikro detayları, hassas film greni, doğal hacimsel ışık. Bu ters köşe şuna odaklanır: yanlış anlaşılan duygusal bağımlılık. İlk algı şu olmalı: düşman, kıdemli kız kardeşin (abla) küçük kız kardeşin (kız kardeş) kendisinden uzaklaştırılmasını bizzat talep ettiğini kanıtlayan üç yıllık bir tayin emri getirir. Küçük kız kardeş dahil herkes, bunu doğal olarak ablanın onu bir engel veya yük olarak görmesi şeklinde yorumlar. Asıl ters köşe daha gizli ve olgundur: onu başından atmak istememiş, ancak ona tehlikeli bir derecede bağımlı hale geldiğini fark etmiştir. Her kılıç darbesinden önce küçük kız kardeşinin güvenliğini teyit etmek zorunda kalmıştır. Başkasının hayatını kendi zihin dengesi için bir dengeleyiciye dönüştürmeyi reddetmiştir. Asıl tema: "Senden hoşlanmadığım için değil. Sadece önce sana dayanmadan yaşamayı öğrenmem gerektiği için." II. Karakter Kimlik Çapaları Karakter A | Kılıç Ölümsüzü Kıdemli Kız Kardeş | @Image 1 25–30 yaşlarındaki aynı Doğu Asyalı kadınla sabitlenmiştir: oval duru bir yüz, koyu badem gözler, beyaz yeşim tokalı yarım toplu uzun siyah saç. Uzun ve ince yapılı, aynı beyaz işlemeli ipek Hanfu, yarı şeffaf katmanlı geniş kollar, gümüş kemer, yeşim kolye, beyaz bez ayakkabılar. Tek bir gümüş uzun kılıç. Durum: Gerçeklerden asla kaçmaz, savunmaya geçmek için acele etmez, ucuz açıklamalar yapmaz, minimal ama kesin konuşur. Soğuk değil, aşırı ölçülüdür. Duygusal yoğunluk kısa cümlelerde gizlidir. Duygusal yol: Emrin gerçek olduğunu kabul eder -> Yanlış anlaşılmaya katlanır -> Gerçek nedeni söyler -> Bağımlılığını ve korkusunu kabul eder -> Bakışlarını ileriye çevirir. Karakter B | Küçük Kız Kardeş | @Image 2 20–25 yaşlarındaki aynı Doğu Asyalı kadınla sabitlenmiştir: yuvarlak yüz, siyah örgülü saç, minyon yapı. Aynı camgöbeği yeşili keten Hanfu, koyu renk kemer, ahşap toka, siyah bez ayakkabılar. Tek bir koyu çelik kılıç. Durum: Kırgın ama vakur, taşkınlık yok, sadece kısa ve acı verici sorular. Derin anlamı kavrayacak kadar zeki. Final hareketi, ablasının önüne geçerek adım atmaktır. Duygusal yol: Şok -> Kırgınlık -> Sorgulama -> Donup kalma -> Anlama -> Olgun tepki. Düşman Stratejist: Yakalanmış, yakında diz çökmüş. Yanlış anlaşılma yaratmak için fiziksel kanıtları fırlatır. Kanıtların daha derin bir bağı ortaya çıkardığını fark eder. Bağırmaya gerek yok, sadece kendinden emin bir sunum ve ters köşe gerçekleştiğinde kontrol kaybı yeterlidir. Usta ve iki öğrenci: Küçük tanıklar. Usta kuralları/eski sistemi, öğrenciler ise dışarıdan bakanların yanlış yorumlamasını temsil eder. III. Çevre DNA'sı Referans görsellerden birleştirilmiş çevre: gerçek arazi, mimari dil, mekansal ölçek, malzemeler, bitki örtüsü, su, dağ sisi, bulutlar, ana ışık yönü, yansıma ilişkileri, genel renk, hava derinliği, gerçek hareket yolları. Çevre İlkeleri: Arka plan canlı olmalıdır (akan su, rüzgar, hareketli sis, sallanan bitkiler, rüzgarda hareket eden saç/kıyafetler). Çevre anlatısal olarak nötr kalmalıdır. IV. 15 Saniyelik 3 Çekimlik Yapı Çekim 1 | 0–5 sn | Geniş/Uzun Çekim | Emrin Ortaya Çıkışı. Birleşik mekan, diz çökmüş düşman, kıdemli ve küçük kız kardeş net bir görsel ilişki içinde. Düşman emri fırlatır: "Üç yıl önce, tayinini bizzat o istedi." Kısa bir duraksama. Küçük kız kardeş sorar: "Gerçekten mi?" Kıdemli kız kardeş: "Gerçekten." Amaç: İhaneti kurmak. Çekim 2 | 5–10 sn | Orta Çekim | Gerçeğin Ortaya Çıkışı. Aynı karakterler, aynı mekan. Küçük kız kardeş: "Beni bir engel olarak mı gördün?" Kıdemli kız kardeş: "Hayır. O zamanlar her kılıç salladığımda önce sana bakardım." İlk ters köşe. Düşmanın gülümsemesi solar. Kıdemli kız kardeş: "Korktuğum şeyin kaybetmek olmadığını fark ettim." Amaç: İzleyicinin tayinin terk ediş değil, aşırı önem verme olduğunu anlaması. Çekim 3 | 10–15 sn | Yakın Çekim/Aşırı Yakın Çekim | Bağımlılığın Netleşmesi. Küçük kız kardeş: "Neyden korkuyordun?" Kıdemli kız kardeş: "Ayak uyduramayacağından. Bu yüzden sana dayanmadan yaşamayı öğrendim." Küçük kız kardeş: "Sonra?" Kıdemli kız kardeş: "Sonra senin, arkama bakmama hiç ihtiyacın olmadığını fark ettim." Kapanış hareketi: Küçük kız kardeş bir adım öne çıkar, ablasının önünde durur: "O zaman şimdi arkana bakma." Kıdemli kız kardeş ileriye bakar: "Tamam." V. Oyunculuk Kuralları (Ölçülülük, melodram yok, özel alt metin). VI. Sinematografi İlkeleri (3 çekim, sabit, Arri Alexa kalitesi). VII. Ses Tasarımı (Mandarin diyalog, kağıt/kıyafet/kılıç için foley, ritmik duraksamalar). VIII. Süreklilik Kısıtlamaları (Kimlik, kıyafet, aksesuarlar, aydınlatma, çevre). IX. Çıktı Özellikleri (15 sn, 16:9, senkronize ses). X. Negatif İstemi: bulanık, kötü kalite, düşük kalite, düşük çözünürlük, gürültülü, jpeg bozulmaları, filigran, metin, altyazı, hata; deforme, mutasyona uğramış, kötü anatomi, kötü çizilmiş eller, kötü kompozisyon, kadraj dışı, şekli bozulmuş; tutarsız karakter, değişen kıyafetler, yüz kayması, saç stili değişimi, arka plan kayması, kaybolan aksesuarlar, aksayan kesmeler; melodramatik ağlama, bağıran itiraf, sarılarak barışma klişesi, aşırı açıklayıcı diyalog, duygusal monolog, ani affetme troyu, duygusal merkeze dönüşen kötü karakter, diyaloğa tepki veren çevre, dramatik rüzgar patlaması, sembolik güneş ışığı patlaması, donmuş su, donmuş sis, donmuş uzak insanlar, rastgele mimari değişiklikler, modern unsurlar, anime görünümü, oyun benzeri CG, aşırı HDR
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096800711350882304/img/cs9NAfmaMZann0-R.jpg" width="600" alt="Çin Xianxia Dövüş Sanatları Film Senaryosu">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10449)**
+
+**Yazar:** [Soran](https://x.com/Soranlan) | **Kaynak:** [Link](https://x.com/Soranlan/status/2096800771321081920) | **Yayınlandı:** Sep 7, 2026
+
+---
+### Taş Figür Stop-Motion Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Sahil kenarında canlanan bir taş figürün yer aldığı, hem fantastik hem de fotogerçekçi bir stop-motion animasyon istemi.
+
+#### 📝 İstem
+
+```
+21 saniyelik, 9:16 dikey formatta sinematik bir stop-motion animasyon oluşturun. Tamamen doğal şekilli pürüzsüz sahil taşlarından yapılmış minik insansı bir figür, kayalık bir sahil şeridindeki sığ bir gelgit havuzunda canlanıyor. Vücudun her bir parçası ayrı taşlardan inşa edilmiş; kafa için büyük oval bir taş, gövde için üst üste dizilmiş yuvarlak taşlar, kollar ve bacaklar için ise daha küçük taşlar kullanılmış.
+
+Sahne, doğal bir ön plan çerçevesi oluşturan hafif odak dışı bir tel örgünün arkasından çekiliyor. Karakterin arkasında sakin bir sahil şeridi, sığ deniz suyu, midye kaplı kayalar, deniz yosunları ve kapalı bir gökyüzü altında hafifçe bulanıklaşmış bir orman yer alıyor. Fotogerçekçi dokular, doğal pastel renkler, sığ alan derinliği, gerçekçi su yansımaları.
+
+Animasyon: Taş figür yavaşça dengesini sağlıyor ve oyuncu küçük bir insan gibi hareket etmeye başlıyor. Ağırlığını kaydırıyor, bir bacağını kaldırıyor, dizlerini büküyor, taş kollarını sallıyor ve ıslak yüzeyde dengesini dikkatle koruyarak tuhaf, küçük bir dans sergiliyor. Her adımın altında minik dalgalanmalar oluşuyor ve yansıması suda doğal bir şekilde hareket ediyor. Hareketler, el yapımı stop-motion hissi vermeli; hafif kusurlu ama inandırıcı, gerçekçi taş fiziği ve ağırlığı ile.
+
+Son saniyelere doğru figür dengesini kaybediyor, tökezliyor ve doğal bir şekilde yere yığılıyor; taşlar birbirinden ayrılıp sığ ve ıslak zemine dağılıyor. Karakter tamamen sıradan taşlara dönüşerek dağılıyor. Kamera, dağılmış taşlar ve yansımaları üzerinde kalarak sona eriyor.
+
+Kamera: Sabit akıllı telefon tarzı dikey kompozisyon, hafif doğal kamera hareketi, orta-tam çekim, su seviyesine yakın düşük açı, tel örgüden gelen güçlü ön plan bokehi, sinematik alan derinliği.
+
+Işıklandırma: Yumuşak yayılmış gün ışığı, kapalı sahil atmosferi, gerçekçi yansımalar ve ıslak taş parlamaları.
+
+Stil: Ultra gerçekçi canlı çekim ortamı + fantastik fotogerçekçi taş stop-motion karakteri, dokunsal taş dokuları, fiziksel olarak inandırıcı hareket, sinematik makro fotoğrafçılık, CGI görünümlü yüzeyler yok, metin yok, insan yok.
+
+Negatif istem: çizgi film, plastik görünümlü taşlar, abartılı yüz hatları, pürüzsüz CGI karakteri, havada uçan nesneler, gerçekçi olmayan fizik, fazladan uzuvlar, değişen ortam, kamera kesmeleri, metin, filigran, aşırı doygun renkler.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096791751994609664/img/vtRtf7pbhXreFq2a.jpg" width="600" alt="Taş Figür Stop-Motion Animasyonu">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10441)**
+
+**Yazar:** [Marcos](https://x.com/arsalannazir07) | **Kaynak:** [Link](https://x.com/arsalannazir07/status/2096791786807275583) | **Yayınlandı:** Sep 7, 2026
+
+---
+### Güzellik Vlog'u Cilt Bakımı İstemi
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Banyoda cilt bakımı rutini uygulayan tutarlı bir Japon kadının yer aldığı 15 saniyelik bir güzellik vlog'u oluşturmak için detaylı video üretim istemi.
+
+#### 📝 İstem
+
+```
+Aynı genç kadının tutarlı bir şekilde yer aldığı, 15 saniyelik, 9:16 formatında ultra gerçekçi bir güzellik vlog'u oluşturun. Yüzü, saç stili, cilt tonu, kıyafeti ve kimliği tamamen tutarlı olmalıdır.
+
+Sahne: Büyük bir aynaya, yumuşak sıcak aydınlatmaya, minimal dekorasyona ve küçük yeşil bitkilere sahip, aydınlık ve temiz modern bir banyo. Doğal el tipi akıllı telefon/vlog tarzı.
+
+0:00–0:03: Bir genç kız bir elinde akıllı telefon tutuyor ve aynada selfie çekiyor. Himalaya Purifying Neem Yüz Yıkama Jeli'ni kameraya net bir şekilde göstererek gülümseyerek tanıtıyor.
+Ekranda beliren metin: "Sabah Cilt Bakımım"
+
+0:03–0:05: Yüz yıkama jelinin yakın plan çekimi. Ürünü açıyor ve avucuna küçük bir miktar sıkıyor. Gerçekçi jel benzeri dokuyu gösterin.
+Ekranda beliren metin: "Neem + Zerdeçal"
+
+0:05–0:09: Yüz yıkama jelini yanaklarına ve alnına nazikçe uyguluyor, doğal bir şekilde masaj yapıyor. Ardından lavaboda yüzünü duruluyor, gerçekçi su hareketlerini gösterin.
+
+0:09–0:12: Aynaya bakıyor, taze ve temiz cildiyle yanağına dokunup gülümsüyor.
+Ekranda beliren metin: "Taze ve Temiz"
+
+0:12–0:15: Ürünü yüzünün yanında tutuyor, sevimli bir şekilde baş parmağıyla onay işareti yapıyor ve banyo tezgahındaki küçük bir bitki ile havlunun yanında temiz bir ürün çekimiyle bitiriyor.
+Ekranda beliren metin: "Cilt Bakımı Tavsiyem"
+
+Tarz: Fotogerçekçi, doğal cilt dokusu, gerçekçi saç ve eller, otantik akıllı telefon çekimi, hafif el hareketi, yumuşak sinematik aydınlatma, gerçekçi yansımalar, 4K, CGI benzeri değil, bozuk yüzler veya ürün ambalajı yok.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096774938086752256/img/RWxor4jrYgc8pbWt.jpg" width="600" alt="Güzellik Vlog'u Cilt Bakımı İstemi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10452)**
+
+**Yazar:** [Mr.できる君](https://x.com/dek1rukun) | **Kaynak:** [Link](https://x.com/dek1rukun/status/2096774979400695861) | **Yayınlandı:** Sep 7, 2026
+
+---
+### Gerçekçi Japon Odası Selfie Vlog'u
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Seedance 2.5 için, Japon bir apartman dairesindeki bir kadının doğal hareketlerine ve gerçekçi kamera kullanımına odaklanan, kesintisiz selfie tarzı bir çekim oluşturan oldukça detaylı bir video üretim istemi.
+
+#### 📝 İstem
+
+```
+Bu URL'lerin içeriğini okuyun ve bunları bir Yeteneğe (Skill) dönüştürün. Seedance 2.5 için istem üretimi talep ederken her zaman bu Yeteneği kullanın. Unutmamak için bunu aklınızda tutun. https://t.co/BPHSzqNopm https://t.co/aUJgXKFRip https://t.co/u79zESgiTk Ayrıca, Yeteneğe aşağıdaki kuralları ekleyin. Dudak senkronizasyonu için diyalog oluştururken şu kurallara uyun: - Yapay zekanın okumakta zorlandığı karmaşık kanji karakterlerini hiragana ile temsil edin. - Rakamları kanji ile yazmayın (örneğin, İki Bin Yıl, Yüz Doksan İki kez değil); rakamları Arap rakamlarıyla temsil edin (örneğin, 2.000 yıl, 192 kez). - İngilizce ifadeleri katakana ile temsil edin. [Format] 20 saniye, dikey 9:16. Akıllı telefonun ön kamerasıyla çekilmiş günlük bir selfie videosu. Baştan sona tek bir kesintisiz çekim. Kameranın sağ-sol eğimi (roll) boyunca 0 derecedir. Dikey ekranı yatay tutun ve çapraz eğimli bir Dutch angle kullanmayın. [Kişi/Referans] Ekli Görsel 1, aynı tek kadın karakterin yüz yakın planı, tam boy ön görünümü ve tam boy arka görünümünü birleştiren bir karakter sayfasıdır. Kişi ve kıyafet için tek birincil referans olarak kullanın. Bu, başlangıç karesi değildir. Sayfanın gri arka planını, ayakta duruşunu, stüdyo aydınlatmasını veya 3'lü görünüm düzenini videoya taşımayın. Sayfanın kendisini göstermeyin veya sayfadan sahne geçişi yapmayın. Kadının kamerayı tutarak aşağıdaki odaya girdiği ilk kareden başlayan canlı çekim. Kadın, 29 yaşında, 163 cm boyunda, kurgusal bir Japon kişidir. Görsel 1'deki yüz yapısını, ince yapıyı ve omuz genişliğini, narin kolları, ince boynu ve ince perçemli koyu kahverengi küt saçı baştan sona koruyun. Temiz bir oval yüz, doğal boyutlu gözler ve mütevazı günlük makyaj. Havalı ve temiz görünüyor, arkadaş canlısı doğal bir gülümsemesi var. Görsel 1'deki canlı kobalt mavisi ince fitilli atlet ve açık mavi yıkanmış geniş düz kot pantolonu olduğu gibi kullanın. Atlet, sığ bir kare yakaya, vücuda doğal bir şekilde oturan kompakt bir silüete ve kot pantolonun beline yakın bir uzunluğa sahiptir. Kot pantolon bel çevresine doğal bir şekilde oturur ve uyluklardan paçaya kadar bol durur. Bel pozisyonunu, paça uzunluğunu, cepleri ve Görsel 1'deki solma efektini koruyun. Yalınayak, gözlüksüz ve aksesuarsız. Otururken bile Görsel 1'deki ince yapıyı koruyun. [Eylem] 20 saniye boyunca aşağıdaki kompozisyonu ve hareket akışını sürekli olarak tasvir edin. Başlangıçta kadın kamerayı beline yakın tutarak yürür. Kamerayı bir masaya yerleştirir, kendisi bir sandalyeye oturur ve sanki yakın bir arkadaşıyla konuşuyormuş gibi devam eder. Oturduktan sonra saçını bir kez kulağının arkasına atar ve sonunda küçük bir el sallayıp kamerayı alır. Belirtilen konuşma yürürken, kamera kurulumu sırasında ve otururken devam eder. [Ortam] Japonya'da küçük bir kiralık tek odalı daire. Beyaz duvarlar ve tavan, açık renkli ahşap zemin. Ahşap bir masa ve sandalye, büyük bir sürgülü pencere, dantel perdeler. Masanın arka solunda ahşap çerçeveli bir masa aynası, lacivert kanvas bir bez çanta ve yanında birkaç kitap var. Masanın önü boş tutulmuş. Temiz ama yaşanmışlık hissi veren normal bir oda. Nesnelerin konumunu ve odanın şeklini baştan sona koruyun. Aynada okunabilir bir yüz veya başka bir kişi yansıtmayın. [Kamera/Kompozisyon Geçişi] Düşük bir el pozisyonundan masaya sabitlenmiş bir konuma hareket eden tek bir kesintisiz çekim. Karakter sayfası sadece kişi ve kıyafet için bir referanstır, kamera kompozisyonu için değildir. 0.0 ila 4.0 saniye: Dikey ön kamerayı belin yakınında tutun ve lensi yukarı doğru çevirin. Ancak, sadece yukarı bakmak için dikey açıyı (pitch) değiştirin ve ekranı saat yönünde veya saat yönünün tersine eğmeyin. Ön planda gövde ve pantolonun beli, ekranın üst kısmında çene ve yüz, arkalarında ise geniş tavan bulunur. Yürüme temposuna uygun küçük dikey hareketler dışında, sola veya sağa dönüş yoktur, loş bir girişten pencereli aydınlık bir odaya geçilir. Kamerayı tutan kol ekranın kenarında kısalmıştır ve akıllı telefonun kendisi ile onu tutan el ekran dışındadır. Başlangıçta, yürüdüğü yöne bakarak konuşur. 4.0 ila 5.8 saniye: Kamerayı ahşap masadaki sabit bir dikey standa yerleştirin. Stand ekran dışındadır. Kamerayı indirin ve dikey açıyı pencere, masa, ayna ve çantanın kompozisyonuna sürekli olarak geçecek şekilde ayarlayın. Sola veya sağa döndürmeyin. Parmak uçları alt kenardan kısaca geçer ve küçük dikey sarsıntılar azalarak durur. Yerleştirme tamamlandığında, yatay seviye 0 derece eğimle ve sağ-sol yatıklık olmadan sıkıca ayarlanmıştır. Kadın geçici olarak ekranın sağına hareket eder ve sandalyeye oturmak için sağdan geri döner. Bu kısa yerleştirme sırasında bile ses yakından duyulur. 5.8 ila 19.5 saniye: Kamera, açıyı veya odak uzaklığını değiştirmeden masanın kenarındaki sabit bir stand üzerinde yatay olarak sabitlenmiştir. Düşük bir konumdan hafifçe yukarı bakan geniş bir dikey kompozisyon. Buradaki yukarı bakış sadece dikey açıdadır. Optik eksen etrafındaki dönüş 0 derecedir; ekranı sola veya sağa eğmeyin. Ekranın merkezine yakın duvarın dikey birleşim yerleri veya pencerenin dikey çerçevesi, görüntünün dikey kenarlarına neredeyse paraleldir. Hafif geniş açılı bir lensin doğal perspektifini bırakın, ancak tüm odayı çapraz hale getirmeyin. Derinlik nedeniyle çapraz görünen masa kenarını kameranın kendisinin eğilmesiyle karıştırmayın. Kadın, ekran merkezinin sağına oturur. Başından beline kadar ve her iki ön koluyla birlikte kadrajdadır, başının üzerinde geniş bir beyaz duvar ve tavan bırakır. Yüzün yakın planı yapmayın. Büyük pencere ve dantel perdeler sağ tarafının arkasından görülebilir. Ahşap masa tablası ekranın altından sol arkaya doğru çapraz olarak yayılır. Ahşap çerçeveli ayna ve lacivert çanta ekranın solundadır. Kadının gövdesi sola, aynaya/masaya dönüktür ve konuşurken yüzünü lense çevirir. Oturduktan hemen sonra görülen kişinin geçici yakınlığını, sabit kompozisyonda bir zoom haline getirmeyin. 19.5 ila 20.0 saniye: Kadın kameraya uzanır, eli lensin yakınında bulanıklaşır ve kamerayı sola veya sağa eğmeden kaldırır, ekran hafifçe yukarı doğru hareket ederken biter. Kesmeler, sahne sıfırlamaları, zoomlar, kişiyi takip etmek için kaydırma (pan), Dutch angle'lar, sağ-sol eğmeler ve optik eksen etrafında dönüş yasaktır. Sabit bölüm sırasında odak uzaklığı değişikliklerine neden olmayın. Arka plan akıllı telefon için tipik olarak tanımlanabilir. Akıllı telefonun kendisini veya diğer çekim ekipmanlarını göstermeyin. [Işık ve Varlık] Başlangıçta, pozlama doğal olarak girişin loşluğundan pencereden gelen doğal ışığa değişir. Oturduktan sonra, ekranın sağ arkasındaki pencereden gelen yumuşak doğal ışık, beyaz duvarlardan gelen yansımalarla birlikte içeri girer. Yanaklardaki ince gözenekleri, şeftali tüylerini, göz çevresindeki ince gölgeleri, dudaklardaki ince kırışıklıkları ve doğal sebum yansımalarını koruyun. Hafif asimetrik bir gülümseme, doğal göz kırpma ve nefes alma, konuşmanın içeriğine uygun küçük kaş hareketleri. Cildi pürüzsüz olacak şekilde işlemeyin. Güzellik filtreleri, CG benzeri cilt veya reklam benzeri aydınlatma kullanmayın. Akıllı telefon çekiminin ince dokusunu koruyun. [Zamanlama/Oyunculuk] 0.0 ila 6.2 saniye: 1. cümle ilk 0.2 saniyeden başlar. Odaya yürüyün, kamerayı yerleştirin ve sandalyeye doğru hareket ederken konuşun. "Seedance 2.5"i net bir şekilde telaffuz edin. Başlangıçta lense dik dik bakmayın. Kamera yerleşimi için ellerinizi kullanın ve ek jestler yapmayın. 6.2 ila 8.8 saniye: Sandalyeye inerken yüzünüzü lense çevirin ve 2. cümleyi söyleyin. "Kedo" (ama) kelimesinden önce kısa bir duraklama. Gülümseme hafifçe solar ve kaşlar hafifçe çatılır. "Muzukashii no" (zor) derken empati arıyormuş gibi başınızı hafifçe eğin. Ciddi bir ifade veya abartılı bir hayal kırıklığı yapmayın. 8.8 ila 16.7 saniye: 3. cümle. İfade yumuşak hale geri döner. Konuşurken saçınızı bir taraftan kulağınızın arkasına bir kez atın ve elinizi indirin. "Çünkü bir gönderide yazdım" derken hafifçe başınızı sallayın. "Lütfen yer imlerine ekleyin" derken arkadaş canlısı, hafif vurgulu bir şekilde doğrudan lense bakın. İşaret etme veya büyük jestler kullanmayın. 16.7 ila 18.6 saniye: Kısa bir nefes alın ve 4. cümleyi söyleyin. Gülümseme doğal bir şekilde yayılır, bir elinizi yanağınızın yanına kaldırın ve bilekten hafifçe sallayın. 18.6 ila 19.5 saniye: Konuşmayı bitirin ve elinizi yumuşak, kalıcı bir gülümsemeyle indirin. 19.5 ila 20.0 saniyede kameraya uzanın ve onu alırken bitirin. Zaman dilimleri sürekli oyunculuk için bir rehberdir. Her sınırda ekranı durdurmayın veya kesmeyin. [Ses/Diyalog] Doğal Tokyo Japoncası. 29 yaşındaki bir kadının sakin, hafif nefesli, net sesi. Bir arkadaşla konuşuyormuş gibi hızlı tempolu, hafif bir ton. Tüm cümleleri yaklaşık 18 saniyede konuşun. Monoton, spiker benzeri tonlardan, aşırı yüksek perdeden veya satıcı benzeri vurgulardan kaçının. Cümleler arasına kısa doğal duraklamalar ekleyin. Ağız hareketlerini Japonca telaffuzla senkronize edin. Sadece aşağıdaki dört cümleyi sırayla, tek bir kelime bile değiştirmeden konuşun. Ekleme yapmayın, başka sözcüklerle ifade etmeyin veya tekrarlamayın. 1. Cümle: Ai de kouiu douga o tsukuru nara "Seedance Niiten-go" ga saikou. (Eğer yapay zeka ile böyle videolar yapıyorsan, "Seedance 2.5" en iyisidir.) 2. Cümle: Kedo, puronputo ga muzukashii no. (Ama istemler zor.) 3. Cümle: Ii puronputo o tsukuru houhou o posuto ni kaita kara, bukku maaku shite oite ne. (İyi istemlerin nasıl oluşturulacağını bir gönderide yazdım, bu yüzden lütfen yer imlerine ekleyin.) 4. Cümle: Jaa, mata ne. (Pekala, tekrar görüşürüz.) "AI" A-I'dır, "Seedance 2.5"in telaffuzu "Seedance Niiten-go"dur. "Niiten-go" sayısını net bir şekilde okuyun. Tırnak işaretlerini okumayın. Ses sadece kendi sesi, hafif nefes alışverişi, kıyafetlerin çok küçük hışırtısı ve iç mekan ortam seslerinden oluşur. BGM, eklenmiş ses efektleri, anlatım, altyazı, ekran metni veya logo yoktur. Bu kadın görünen tek karakterdir. Yüzü, elleri, kıyafetleri veya arka planı yarı yolda deforme etmeyin veya çoğaltmayın.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096721788655013888/img/FtMO83Vaa1ttRd0w.jpg" width="600" alt="Gerçekçi Japon Odası Selfie Vlog'u">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10451)**
+
+**Yazar:** [タナベ | AI動画 × マーケティング](https://x.com/tanabe_fragm) | **Kaynak:** [Link](https://x.com/tanabe_fragm/status/2096722038811754997) | **Yayınlandı:** Sep 6, 2026
+
+---
+### Jirai Kei Kızının Günlük Yaşamı
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Japon 'Jirai Kei' moda tarzındaki bir kızın günlük yaşamını, gerçekçi ve akıllı telefonla çekilmiş bir tarzda belgeleyen bir dizi çekim oluşturmak için kapsamlı bir istem.
+
+#### 📝 İstem
+
+```
+[Genel Bakış] Reiwa dönemi 'Jirai Kei' modasındaki 21 yaşındaki bir kızın sıradan bir günü. En yakın arkadaşı tarafından yatay akıllı telefonla kaydedildi. 480p, 16:9, 15 sn. Farklı mekanlarda 7 adet sert kesimli çekim. Özne kendi aktivitelerine dalmış durumda ve kamerayı görmezden geliyor.
+
+[Özne] Açık tenli, düşük çift göz kapaklı, siyah ve pembe kurdeleli ikiz kuyruk saç modeline sahip, idol benzeri Japon bir kız. Siyah fırfırlı bir bluz, pembe astarlı pileli etek ve siyah platform ayakkabılar giyiyor.
+
+[Mekanlar] Yatak odası, giriş holü, park bankı, nehir kenarı yolu, arkadaşının odasının zemini, gece yaya köprüsü, tren penceresi.
+
+[Kamera] Modern akıllı telefonla elde çekilmiş video. Doğal sarsıntı, ara sıra otomatik odaklama arayışı ve hareket bulanıklığı. İnsan gözü hizasından (otururken, ayaktayken veya çömelmişken) çekim.
+
+[Çekimler] 
+1. Yatakta kahküllerini düzeltiyor.
+2. Girişte ayakkabı bağlarını bağlıyor.
+3. Park bankında pembe bir kutudan içecek içiyor.
+4. Nehir kenarında saçlarıyla oynuyor.
+5. Başını bir arkadaşının kucağına yaslıyor.
+6. Köprüden şehir ışıklarına bakıyor.
+7. Tren penceresinin kenarında uyuyakalıyor; 14. saniyede ekran kararır.
+
+[Detaylar] Pembe kutu sade ve üzerinde yazı yok. Müzik veya dış ses yok. Sadece doğal ortam sesleri.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094095173894729728/img/35pNWGmpigQEFDdf.jpg" width="600" alt="Jirai Kei Kızının Günlük Yaşamı">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10453)**
+
+**Yazar:** [妖精アーヤ](https://x.com/aiehon_aya) | **Kaynak:** [Link](https://x.com/aiehon_aya/status/2096720107011539334) | **Yayınlandı:** Sep 6, 2026
+
+---
+### Sinematik Anime Işınlanma Dövüşü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Işınlanma dövüşü ve hızlı sert kesmeler içeren 30 saniyelik 2D anime sekansı için aksiyon dolu bir komut.
+
+#### 📝 İstem
+
+```
+@[char ref] yetişkin kadını ve kostümünü tanımlar; her ikisini de sinematik 2D anime tarzında koruyun. On sekiz ajana karşı aralıksız 30 saniyelik ışınlanma dövüşü. Tam olarak 19 çekim, belirtilen sınırlarda 18 sert kesme. Kesmeler, tekrar olmadan aksiyonu devam ettirir.
+
+Gece
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096704041937989634/img/6Na-k2eHP-_Nxw8B.jpg" width="600" alt="Sinematik Anime Işınlanma Dövüşü">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10444)**
+
+**Yazar:** [Kōda](https://x.com/aimikoda) | **Kaynak:** [Link](https://x.com/aimikoda/status/2096705563220447262) | **Yayınlandı:** Sep 6, 2026
+
+---
+### Yüksek Moda Editöryel Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Referans sayfasındaki karakter tutarlılığını sıkı bir şekilde koruyarak 15 saniyelik bir yüksek moda editöryel filmi oluşturmak için tasarlanmış bir komut.
+
+#### 📝 İstem
+
+```
+@[char ref] içindeki yetişkin kadın karakterin başrolde olduğu 15 saniyelik bir yüksek moda editöryel filmi oluşturun. Yüzünü, saç stilini, vücut oranlarını, cilt tonunu, kıyafetini, aksesuarlarını ve görsel stilini tam olarak koruyun. Referansı TEK karakter kaynağı olarak kullanın.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096574670506221568/img/kAOdo2rvT03JDpef.jpg" width="600" alt="Yüksek Moda Editöryel Videosu">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10443)**
+
+**Yazar:** [Zephyra Leigh](https://x.com/ZephyraLeigh) | **Kaynak:** [Link](https://x.com/ZephyraLeigh/status/2096574839637352928) | **Yayınlandı:** Sep 6, 2026
+
+---
+### Anime Tarzı Beyaz Kedi Etkileşimi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir apartman dairesinde oynayan ve sahibiyle etkileşime giren bir kedinin büyüleyici anime tarzı video istemi.
+
+#### 📝 İstem
+
+```
+Büyük turkuaz gözlü, yumuşak tüylü beyaz bir anime kedisi güneşli bir apartman dairesinin zemininde yürüyor, küçük beyaz bir topun üzerine atlıyor, ardından sandviç yiyen bir adama bakıp doğrudan kucağına tırmanıyor.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2096555766417444864/pu/img/lHKD1wJvz_djVacs.jpg" width="600" alt="Anime Tarzı Beyaz Kedi Etkileşimi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10446)**
+
+**Yazar:** [Sahil Verma](https://x.com/sahilvermaai) | **Kaynak:** [Link](https://x.com/sahilvermaai/status/2096555795324219599) | **Yayınlandı:** Sep 6, 2026
+
+---
+### Sinematik Sihirbazlık Numarası Video Senaryosu
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Barok bir sahnede profesyonel hızlı ipek değişimi efektini içeren, yüksek kaliteli bir sihir gösterisi videosu oluşturmak için yönetmen seviyesinde kapsamlı bir istem.
+
+#### 📝 İstem
+
+```
+Süre: 18 saniye
+En-boy oranı: 9:16
+Referans: Sihirbaz = @, saf siyah smok, beyaz gömlek, siyah papyon giyiyor; Kadın Oyuncu = yirmi yaşlarında, kahverengi uzun dalgalı saçlı, derin yırtmaçlı, dar kesim parlak kırmızı payetli askılı bir elbise ve altın rengi yüksek topuklu ayakkabılar giyen genç ve güzel bir kadın; her iki karakterin görünümü ve kıyafetleri video boyunca kesinlikle tutarlı kalmalı.
+Ses: Büyük tiyatro yankısı; yüksek hızlı kırmızı ipek hareketinden gelen sürekli rüzgar sesi; dikey yükselen ipeğin sihirli ıslık sesi; kadın oyuncu göründüğünde seyircilerden gelen gürültülü tezahürat ve alkışlar; diyalog yok, anlatım yok, müzik yok, altyazı yok.
+Genel tarz: 8K ultra gerçekçi tiyatro sahnesi belgesel tarzı, yüksek kontrastlı profesyonel sahne spot ışıkları, gerçekçi ipek fiziği, görünmez vücut yeniden gruplama sihir gösterisi, anime veya düşük kaliteli CG efektleri yok.
+
+KÜRESEL DEVAMLILIK
+Ortam: Koyu kırmızı kadife perdeli Avrupa klasik Barok tiyatro sahnesi. Aksesuarlar arasında vintage yaldızlı şamdan ve oymalı bir aksesuar masası bulunur. Işığı yansıtan koyu sert ahşap zemin. Ön sıra seyirci silüetleri görünür.
+Ana konu: Kontrolcü olarak sihirbaz, partner olarak kadın oyuncu. Tutarlı vücut oranları, yüzler ve kıyafet dokusu.
+Aksesuarlar: Mükemmel dökümlü, yüksek yoğunluklu, yüksek parlaklıkta kırmızı geniş saten ipek.
+Eylem Motoru: Elbiseden ipeği çek -> spiral sarım ve yok oluş -> ipeği şelale gibi yukarı çek -> ipek bir kozaya dönüşür -> koza patlar ve kadın oyuncuyu ortaya çıkarır -> final selamı.
+Kamera Devamlılığı: Ön sıradan simüle edilmiş el kamerası perspektifi, orta ölçekli panorama, doğal odak kilitleme ve nefes alma sarsıntısı ile tek kesintisiz çekim.
+Negatif: Kıyafet değişiklikleri, uzuv çoğalması, sahne kesmeleri, çizgi film renderı, titreme, filigranlar.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096487553495126016/img/HrjTXoILErTBPC3B.jpg" width="600" alt="Sinematik Sihirbazlık Numarası Video Senaryosu">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10448)**
+
+**Yazar:** [John](https://x.com/johnAGI168) | **Kaynak:** [Link](https://x.com/johnAGI168/status/2096487926217560519) | **Yayınlandı:** Sep 6, 2026
+
+---
+### Zarif Koreli Kadın Yaz Kırsalı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kırsal kesimdeki bir Koreli kadını konu alan; altın sarısı güneş ışığı, nehir taşları ve karpuza odaklanan nostaljik ve sıcak bir yaz hikayesi istemi.
+
+#### 📝 İstem
+
+```
+Yumuşak kısa dalgalı kahverengi saçlara, narin yüz hatlarına, nazik gülümseyen gözlere ve sıcak huzurlu bir ifadeye sahip zarif genç bir Koreli kadın; kenarları hafif yıpranmış hasır bir şapka ve vücudunda hafifçe dalgalanan, üzerinde küçük zarif desenler bulunan kolsuz beyaz çiçekli bir yazlık elbise giyiyor. Ahşap bir pencerenin yanında, yumuşak altın sarısı güneş ışığında yüzüne yakın tuttuğu sulu kırmızı bir karpuz dilimiyle duruyor, ardından beyaz düz ayakkabılarıyla pürüzsüz nehir taşlarının üzerinde dikkatlice yürüyerek içinde karpuz parçaları olan hasır bir sepet taşıyor. Berrak ve sığ bir derenin kenarına çömelip iki eliyle bütün bir çizgili karpuzu nazikçe suya yerleştirerek soğuturken gülümsüyor, ahşap bir balkon korkuluğunda durup hafif bir gülümsemeyle hasır şapkasını düzeltiyor, uzun parlak sarı ayçiçekleri arasında güneşli bir nehir kenarı yolunda yürürken onlara bakmak için dönüyor ve ardından kameraya gülümsüyor. Son olarak, asılı bir cam rüzgar çanının olduğu geleneksel ahşap bir verandada, elinde cam bir süt şişesiyle duruyor, şapkasını ve saçını düzeltiyor, huzurla yukarı bakıyor ve ardından nazik, ışıl ışıl bir gülümsemeyle kameraya dönüyor; tüm bunlar sıcak doğal ışık, yeşil yapraklar, akan su ve huzurlu nostaljik bir atmosferle yumuşak sinematik bir yaz kırsalı ortamında gerçekleşiyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096465156452806656/img/03yhpbFjN5VpHHzh.jpg" width="600" alt="Zarif Koreli Kadın Yaz Kırsalı">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10403)**
+
+**Yazar:** [liana](https://x.com/Lianaalane) | **Kaynak:** [Link](https://x.com/Lianaalane/status/2096465196856340515) | **Yayınlandı:** Sep 6, 2026
+
+---
+### Bilim Kurgu Korku Uzaylı Savaşı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Devasa zırhlı bir uzaylı yaratık ile kadın bir savaşçı arasında geçen, dramatik mavi gece ışıklandırmasına sahip karanlık bir savaş alanı karşılaşması için destansı bir bilim kurgu korku istemi.
+
+#### 📝 İstem
+
+```
+Karanlık ve fütüristik bir savaş alanında, parlayan kırmızı gözleri, devasa keskin dişleri ve güçlü pençeleriyle agresif bir şekilde kükreyen, zırhlı devasa bir uzaylı yaratığın ultra gerçekçi sinematik bilim kurgu korku sahnesi. Gizemli bir kadın savaşçı, yoğun turuncu enerji izleri ve parlayan kıvılcımlarla çevrili bir şekilde yaratığın üzerindeki gökyüzünden aşağı süzülüyor. Dramatik mavi gece ışıklandırması, dumanlı atmosfer, yağmur, metalik yapılar, hacimsel sis, dinamik aksiyon kompozisyonu, korkutucu ölçek, yüksek detaylı yaratık dokuları, gerçekçi yansımalar, sinematik alan derinliği, destansı Hollywood film tarzı, fotogerçekçi, 8K, dikey 9:16.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096458737758388224/img/dyTxIFmFjtlGOr56.jpg" width="600" alt="Bilim Kurgu Korku Uzaylı Savaşı">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10406)**
+
+**Yazar:** [AIwithMinal](https://x.com/AIwithMinal) | **Kaynak:** [Link](https://x.com/AIwithMinal/status/2096459001076613372) | **Yayınlandı:** Sep 6, 2026
+
+---
+### Sinematik Kişisel Vlog Sahnesi Oluşturma
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Belirli bir karakter referansı içeren, elde çekilmiş gibi doğal sarsıntılarla akıllı telefon çekimini simüle eden 15 saniyelik vlog tarzı bir video oluşturmak için tasarlanmış Seedance 2.5 video oluşturma istemi.
+
+#### 📝 İstem
+
+```
+Bir arkadaş tarafından akıllı telefonla çekilmiş amatör görüntüler. Elde çekilmiş gibi doğal kamera sarsıntısı, amatör kompozisyon, hafif odak kaymaları, doğal konuşma ve etkileşim ile duygusal bir atmosfer yaratılır.
+
+<Person1>, @Image1'e karşılık gelir. Bu istemin devamında sadece <Person1> yazılacak olup, @ işareti kullanılmayacaktır ve <Person1> olarak yazılan tüm kısımlar bu referans kişiyi ifade eder.
+
+15 saniyelik video, başkahraman <Person1>'in hayatından bir günü yakalayan bir Vlog videosudur.
+Kadın hakkındaki aşağıdaki bilgileri kullanarak, o gün yaşananları günlük bir anı defteri gibi birden fazla sahnede özetleyen bir Vlog videosu oluşturun.
+Önemli nokta, hayranlarını ona daha da bağlayacak, kadının cazibesiyle dolu bir içerik oluşturmaktır. <Person1> için kostüm, <Person1>'in persona bilgilerine göre her sahne için optimize edilecektir.
+
+-- <Person1> için bilgiler --
+Kadının görünüşü:
+<Person1>'i referans alın. Referanstan sadece yüz, saç modeli, cilt ve vücut tipini alın. Referans görselindeki kıyafetleri kullanmayın.
+Film boyunca <Person1> için tutarlı bir yüz ve fiziksel görünüm sağlayın.
+
+Persona bilgileri:
+<Kendi hazırladığınız persona bilgileri>
+-----------------------
+
+Yasaklı öğeler:
+Mevcut anime ve ürünler yasaktır. Altyazı kullanmayın. Mevcut logolar, başlıklar vb. yasaktır.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096435220824375296/img/bcExlGotLEW0-VNy.jpg" width="600" alt="Sinematik Kişisel Vlog Sahnesi Oluşturma">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10450)**
+
+**Yazar:** [eijo(SAT577)](https://x.com/eijo_AIart) | **Kaynak:** [Link](https://x.com/eijo_AIart/status/2096435504845934845) | **Yayınlandı:** Sep 6, 2026
+
+---
+### 2000'ler Retro Kedi Sitcom'u
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 2000'lerin başındaki TV yayını tarzında, belirli kamera açıları ve set tasarımıyla tamamlanmış, mizahi kedi temalı bir sitcom videosu oluşturmak için detaylı sinematik bir istem.
+
+#### 📝 İstem
+
+```
+2000'lerin başından kalma, 35mm film üzerine çekilmiş, canlı stüdyo seyircisi önünde dört kameralı Panavision kurulumuyla kaydedilmiş, Kodak Vision2 500T film stoğu kullanılmış ve yayın için NTSC video kasetine aktarılmış çok kameralı bir sitcom. İnce 35mm greni, pratik lambaların etrafında hafif halasyon parlaması, hafif geçmeli (interlaced) video yumuşaklığı, gölgesiz düz yüksek anahtar (high-key) televizyon aydınlatması, sıcak ve doygun 2000'ler başı renk tonlaması, 4:3 çerçeve. SET: Üç duvarlı bir apartman oturma odası. Şönil örtülü bej bir koltuk, sıcak pratik masa lambaları, bir lav lambası, mutfak kapısında boncuklu perde, bir DVD kulesi, köşede şişme bir koltuk, üzerinde hantal bej bir CRT monitör ve kutu gibi bir kasa bulunan dağınık bir masa, kağıt kılıflarda yanmış CD'ler, sahnenin sağında ön kapı. ÖZNELER — her çekimde aynı: Çizgili turuncu ragbi tişörtü üzerine büyük boy gri fermuarlı kapüşonlu giymiş ve puka kabuğu kolye takmış, masa sandalyesinde dik oturan tekir kedi. Bordo kadife eşofman takımı ve beyaz şeritli, beline takılı hantal gümüş kapaklı telefonla dik duran, elinde çatlak bir kupa tutan gri uzun tüylü kedi. Kamera sabit, kamera hareketi yok, her iki kedi de hafifçe kameraya dönük, kamera asla dördüncü duvarı geçmiyor. BİRİNCİ ÇEKİM — 0–6 sn: Sabit geniş ikili çekim. Tekir kedi ön patileriyle klavyeye vuruyor, yüzü CRT monitörün ışığıyla aydınlanıyor. Ön kapı açılıyor ve gri uzun tüylü kedi elinde kupayla içeri giriyor. Stüdyo seyircisi alkışlıyor. Masaya bakıp soruyor: “Ne yapıyorsun?” SERT KESME. İKİNCİ ÇEKİM — 6–11 sn: Tekir kedinin orta yakın planı. Ekrandan gözünü ayırmadan yazmaya devam ediyor ve diyor ki: “Bilgisayara komik dans eden insanlar yapmayı öğretiyorum.” Stüdyo seyircisi gülüyor. SERT KESME. ÜÇÜNCÜ ÇEKİM — 11–16 sn: Gri uzun tüylü kedinin orta yakın planı. Kupayı indiriyor, duraksıyor ve tamamen düz bir sesle diyor ki: “Bir insanımız var.” Bir anlık sessizlik. “Mutfakta.” Stüdyo seyircisi gülüyor. SERT KESME. DÖRDÜNCÜ ÇEKİM — 16–20 sn: Tekir kedinin yakın planı. Yazmayı bırakıyor, yavaşça boncuklu perdeye dönüyor ve sesleniyor: “Mark.” Ekran dışından bir adam hemen dans etmeye başlıyor, ayakları tahta zeminde ses çıkarıyor ve boncuklu perde sallanıyor. Seyirci gülerken ve alkışlarken kedi ekran dışına bakmaya devam ediyor. Bekle. Ses: Klavyedeki pati vuruşları, CRT vızıltısı, ahşap üzerindeki kupa sesi, açılan kapı, giriş alkışları, her espri sonrası stüdyo kahkahası, boncukların birbirine çarpma sesi ve sonunda ekran dışından gelen ayak sesleri. Müzik veya fon müziği yok. Kısıtlamalar: Her iki kediyi de baştan sona aynı tutun. Gerçek kıyafetler giymiş, dik oturan gerçek kediler. Ekranda görünen insan karakter yok, kamera hareketi yok, ekstra kesme yok, modern düz ekran monitörler yok, akıllı telefonlar yok, düz dijital video görünümü yok.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096371356690755584/img/M6Y4PzznP4vSwN1z.jpg" width="600" alt="2000'ler Retro Kedi Sitcom'u">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10400)**
+
+**Yazar:** [Shan | Ai](https://x.com/ShanBuildsAI) | **Kaynak:** [Link](https://x.com/ShanBuildsAI/status/2096371426790125642) | **Yayınlandı:** Sep 5, 2026
+
+---
+### Sinematik Sokak Modası Sarı Elbise
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Imagvio platformundaki Seedance 2.0 için tasarlanmış, hardal sarısı elbiseli bir kadının döndüğü yüksek moda sokak sahnesi istemi.
+
+#### 📝 İstem
+
+```
+Yoğun ve modern bir şehirde ultra gerçekçi sinematik sokak modası sahnesi; kalabalık bir kaldırımda dramatik bir şekilde dönen, uçuşan hardal sarısı kolsuz elbiseli zarif genç bir kadın, rüzgarda savrulan uzun dalgalı kahverengi saçlar, etrafta uçuşan güvercinler, sarı taksiler, yayalar ve yüksek şehir binaları. Dinamik hareket, zarif poz, doğal yüz hatları, gerçekçi kumaş hareketi, altın rengi gün ışığı, sığ alan derinliği, sinematik kompozisyon, profesyonel moda fotoğrafçılığı, fotogerçekçi, ultra detaylı, HDR, 8K, 85mm lens, f/1.8, doğal renk düzenleme, dikey.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096370505649717248/img/R8Z3MChtEYluZpIP.jpg" width="600" alt="Sinematik Sokak Modası Sarı Elbise">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10404)**
+
+**Yazar:** [AI Motion Lab](https://x.com/imagvio_trends) | **Kaynak:** [Link](https://x.com/imagvio_trends/status/2096370558560788591) | **Yayınlandı:** Sep 5, 2026
+
+---
+### 2000'lerin Nostaljik İlkokul Çocuğu
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Seedance için, 2000 yılı miniDV handycam estetiğini yansıtan ve Japon bir çocuğun okul sonrası aktivitelerini konu alan nostaljik bir video istemi.
+
+#### 📝 İstem
+
+```
+[Özet] 2000 yılında 4. sınıf (10 yaşında) bir erkek çocuğunun okul sonrası zamanı. Ağabeyi, babasının miniDV handycam'i ile uzaktan, konuşmadan çekim yapıyor. 480p, 16:9, 15 saniye. 7 farklı mekanda 7 adet hard-cut çekim (her biri yaklaşık 2 saniye). Geçiş veya kararma yok. Özne kamerayı fark etmiyor: göz teması yok, nesne gösterme yok, el sallama yok, poz verme yok. Oyuna dalmış durumda. Bir performans değil, günlük yaşamdan kesitler. Diyalog, replik veya dış ses yok.
+
+[Özne] Çocuk oyuncu kadar yakışıklı bir Japon çocuk. Kartlara bakarkenki ciddi yüz ifadesi en iyisi. Yüz: Önde dikleştirilmiş kısa siyah saçlar, kalın kaşlar, büyük çift kapaklı gözler, burun kemiğinde yara bandı, bronz ten (gerçekçi doku), gülümserken sağ tarafta hafif çarpık diş. Kıyafet (günlük): Soluk yeşil tişört, kot şort, ters takılmış şapka, kirli beyaz spor ayakkabılar, mavi sırt çantası. Eşyalar: Lastikle tutturulmuş bir deste oyun kartı (sadece resimli, yazı yok), el tipi oyun konsolu (avuç içi kadar, ekran görünmüyor). Alışkanlıklar: Kartları ışığa tutmak, şapkanın siperine dokunmak. Yüz, saç ve kıyafet tüm çekimlerde aynı.
+
+[Karakterler] İki arkadaş: Gözlüklü, hafif toplu bir çocuk (sarı tişört), beyzbol şapkalı küçük bir çocuk (mavi tişört). Kimse kameraya bakmıyor.
+
+[Dönem, Mekan, Işık] 2000 yılı yazında okul sonrası bir öğleden sonra. ① Apartman bisiklet park yeri (öğleden sonra beyaz ışığı). ② Park bankı (gölge). ③ Tapınak taş merdivenleri (alacalı ışık). ④ Tapınak gölgesinde zemin (öğleden sonra). ⑤ Yerleşim yerinde eğimli yol (akşam turuncusu). ⑥ Çeltik tarlaları kenarındaki yol (gün batımı). ⑦ Ev girişi önü (alacakaranlık). Kareye tabela, yazı, logo veya ekran girmeyecek mekanlar ve açılar seçin.
+
+[Kamera] 2000 yılı miniDV handycam dokusu: Derin renkler, ezilmiş siyahlar, beyaz patlamalarına yatkın, zoom arayışı ve elde çekim titremesi. Tarih göstergesi yok. Elde çekim, kusursuz olmayan kompozisyon, ara sıra odak arayışı, pozlama dalgalanmaları. Özneye 3-6 metre mesafe. Özne kamerayı görmezden geliyor. Sabitleme, gimbal, drone, ağır çekim, sinematik ışık veya ticari renk düzenlemesi yok. Kamera her zaman insan eliyle tutulan pozisyonlarda (ayakta, otururken, çömelirken, yürürken, yan koltukta). İmkansız açılar yok (havadan, su altından, tavandan, doğrudan tepeden, hareket eden araba dışından, yüze santim mesafeden). Çekimi yapan kişi gecikmeli olarak takip ediyor, bazen kadraj gevşek.
+
+[Çekimler] (her biri yaklaşık 2 saniye. Mekan/Aktivite/Duygu & Jest/Kamera pozisyonu):
+1. Bisiklet park yeri. Ayakları yere zor değiyor, bisikletin üzerinde, zili iki kez çalıp pedallayarak uzaklaşıyor. Duygu: Heyecan. Şapka siperine dokunuyor. Kamera: Önden, alçak, biraz uzaktan.
+2. Park bankı, gölge. Kartları yelpaze gibi açıyor, ışıkta birini kontrol etmek için gözlerini kısıyor. Duygu: Hazinenin ciddi incelemesi. Kamera: Yandan, ellere yakın.
+3. Tapınak merdivenleri, alacalı ışık. Oyun konsollarını kısa bir kabloyla bağlıyor, ekran görünmüyor, ağzı konsantrasyondan büzülmüş. Duygu: Yoğun odaklanma. Kamera: Merdivenlerin tepesinden aşağı bakış.
+4. Tapınak gölgesinde zemin. Takas için kartları diziyor, gözlüklü çocukla el sıkışarak bitiriyor. Duygu: Anlaşmanın verdiği tatmin. Ağzının kenarları yukarı kalkıyor. Kamera: Yukarıdan çapraz.
+5. Eğimli yol, akşam. Yokuş aşağı sürerken bir saniyeliğine gidonu bırakıyor, yalpalayıp panikle tekrar tutuyor. Duygu: Havalı ama sonra korkmuş. Kamera: Arkadan takip, titrek.
+6. Çeltik tarlaları kenarındaki yol, gün batımı. Üçü arka arkaya bisiklet sürüyor, sadece özne ayakta pedal çeviriyor. Duygu: Eğlence. Kamera: Yandan, uzaktan.
+7. Ev girişi, alacakaranlık. Bisikleti yere atıp eve koşuyor. Kapı kapanıyor. Duygu: Açlık. Kamera: Sokakta kalıyor, birkaç saniye boyunca kapalı kapıyı çekiyor. Yaklaşık 00:14'te kayıt aniden kararıyor. Fade out yok.
+
+[Prop Detayları] Kartlar sadece resimli kağıt, yazı yok, lastikli. Oyun konsolu beyaz plastik, ekran görünmüyor. Şapka kavisli siperli mavi. Bisiklet gümüş rengi, bagajında havlu var.
+
+[Metin Yasağı] Karede okunabilir metin, logo, tabela, etiket, ekran görüntüsü veya sayı yok. Kartlarda yazı yok.
+
+[Fizik/Tutarlılık] Gerçek dünya fiziği. Fazladan parmak, birleşmiş eller, bozuk anatomi, havada duran nesneler, kaybolan eşyalar veya ani şekil değiştirmeler yok. Ayaklar yere basıyor. Yara bandı, şapka, sırt çantası ve arkadaşların kıyafetleri tüm çekimlerde aynı.
+
+[Ses] Sadece doğal ortam sesleri (çekime göre değişir): bisiklet zili, gölgede kart sesleriyle rüzgar, tapınakta kuşlar, çakıl taşları, yokuşta rüzgar, tarlalarda kurbağalar, kapanan kapı. Kelime yok. Sadece ara sıra çekimi yapan kişinin veya öznenin küçük gülüşleri/nefes alışları olabilir. Müzik yok. Dış ses yok. Yapay ses efekti yok.
+
+[Atmosfer] Heisei döneminde ilkokul öğrencisi olan yetişkinlere 'Bunu ben de yapardım' dedirtecek, 2000 yılı okul sonrası bir öğleden sonranın kaydı. Oyun parçaları, oyunculuk değil. Nostaljik, enerjik, derinlemesine insani. Kameranın orada tesadüfen bulunduğu hissine öncelik verin.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094094517297422336/img/9-xNi9qvnC1odHYi.jpg" width="600" alt="2000'lerin Nostaljik İlkokul Çocuğu">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10410)**
+
+**Yazar:** [妖精アーヤ](https://x.com/aiehon_aya) | **Kaynak:** [Link](https://x.com/aiehon_aya/status/2096357706361913818) | **Yayınlandı:** Sep 5, 2026
+
+---
+### Sinematik Bilim Kurgu Halka Dünya Aksiyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gerçekçi fizik kurallarıyla çarpışan dönen halka dünyaların içinden geçen bir savaş pilotunu konu alan, yüksek ölçekli bir bilim kurgu aksiyon sekansı oluşturma istemi.
+
+#### 📝 İstem
+
+```
+15 saniyelik sinematik bilim kurgu aksiyon sekansı, 16:9, ultra gerçekçi, imkansız ölçek, canlı renkler, gerçekçi fizik, görünür yüz yok, metin yok, diyalog yok.
+Bir savaş uçağı, devasa dönen bir halka dünyanın içinde uçuyor.
+Yukarıdaki bulutların arasından ikinci bir halka dünya ortaya çıkıyor.
+Pilot, her iki yapının da aynı alanı işgal ettiğini fark ediyor.
+Yavaşça birbirlerinin içine doğru dönüyorlar.
+Tüm şehirler çarpışmaya başlıyor.
+Dağlar yerinden kopuyor.
+Devasa köprüler yıkılıyor.
+Savaş uçağı, giderek büyüyen çarpışma bölgesinin içinden hızla geçiyor.
+İleride iki kıtasal kara parçası birleşiyor.
+Boşluk her saniye daralıyor.
+Pilot, çarpışmadan hemen önce aradan dalış yapıyor.
+Kes.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096303145559244803/img/qO9-5iyiBcdtfdRE.jpg" width="600" alt="Sinematik Bilim Kurgu Halka Dünya Aksiyonu">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10401)**
+
+**Yazar:** [Alexandra Aisling](https://x.com/AllaAisling) | **Kaynak:** [Link](https://x.com/AllaAisling/status/2096303315277553901) | **Yayınlandı:** Sep 5, 2026
+
+---
+### Son Tren Yolculuğu: Zombi İstilası Korkusu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir trende yaşanan zombi istilasını, ilk enfeksiyon anından kitlesel kaosa kadar anlatan 22 çekimlik detaylı sinematik sekans.
+
+#### 📝 İstem
+
+```
+22 çekimlik sinematik tren istilası sekansı, toplam 30 saniye. Karakter görünümü, yüz ve kıyafet referans görseliyle uyumludur.
+
+1. 0–1.2s: Ateşli bir kadın, yarı boş trende tek başına oturuyor, endişeyle telefonundaki haber bildirimlerini kontrol ediyor, loş akşam ışığı.
+2. 1.2–2.4s: Bulanık acil durum haber görüntüleri içeren telefonun yakın çekimi; endişeli yolcunun yansıması.
+3. 2.4–3.6s: Dışarıdan geçen askeri kamyonlar ve yanıp sönen ışıklar; yolcular huzursuzca pencereden dışarı bakıyor.
+4. 3.6–4.8s: Kadın sessizce koluna doğru öksürüyor, terliyor, yanındaki koltuk boş.
+5. 4.8–6s: Bir yolcu pencerenin kenarında huzur içinde uyuyor, tehlikeden habersiz.
+6. 6–7.2s: Kadının gözleri donuklaşıyor; nefes alışverişi yavaşlıyor, ifadesi boş ve ürkütücü bir hal alıyor.
+7. 7.2–8.5s: Sert hareketlerle ayağa kalkıyor ve kimse fark etmeden koridora yürüyor.
+8. 8.5–10s: Sessizce uyuyan yolcuya yaklaşıyor.
+9. 10–11.2s: Aniden omzunu ısırıyor; yolcu şok ve acı içinde uyanıyor, ağır çekim darbe anı.
+10. 11.2–12.5s: Yakındaki yolcular durumu çok geç fark ediyor, kafa karışıklığı paniğe dönüşüyor.
+11. 12.5–13.8s: Kurban kanayan omzunu tutuyor, nefes alışverişi düzensizleşiyor.
+12. 13.8–15s: Koyu renkli damarlar hızla boynuna yayılıyor; vücudu titremeye başlıyor.
+13. 15–16.3s: Yolcular donup kalmış ya da kaçışırken, kurban koridorda şiddetle çırpınıyor.
+14. 16.3–17.5s: Gözleri geriye kayıyor, ardından kan çanağına dönmüş ve ifadesiz bir şekilde tekrar açılıyor; dönüşüm tamamlandı.
+15. 17.5–18.8s: Başka bir yolcuya saldırıyor, çığlıklar ve kaos başlıyor.
+16. 18.8–20.2s: Yolcular koltukların üzerinden birbirini eziyor, telefonlar ve çantalar düşüyor; el kamerasıyla çekilmiş kaotik görüntüler.
+17. 20.2–21.5s: Başka bir kurban hızla dönüşüp bir başkasına saldırıyor; istila yayılıyor.
+18. 21.5–23s: Hayatta kalanlar bağlantı kapısına doğru koşuyor, barikat kurmak için bagajları kullanıyorlar.
+19. 23–24.5s: Kapı hızla kapanıyor; dışarıda enfekte olmuş eller kapıyı yumruklarken, minderler ve bagajlarla kapı destekleniyor.
+20. 24.5–26s: Sarsılan barikatlı kapının yakın çekimi; hayatta kalanlar korku içinde ağır ağır nefes alıyor.
+21. 26–28s: Enfekte olmuş yüzler cama bastırılıyor ve camda çatlaklar yayılıyor.
+22. 28–30s: Hayatta kalanlar bir sonraki vagonda birbirine sokulmuş, çatlayan kapının ardındaki sürüye bakıyor; titreyen ışıklar, sessiz bir dehşet.
+
+Stil: sinematik korku, gerçekçi oyunculuk, karantina dönemi atmosferi, akşam ışığı, gerilimli tempo, istila sırasında el kamerası kaosu, hazırlık aşamasında ürkütücü durgunluk, kesintisiz devamlılık, dramatik kamera hareketleri, yüksek detaylı film görünümü.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096238873013895168/img/tfilzh7MI_DIepqH.jpg" width="600" alt="Son Tren Yolculuğu: Zombi İstilası Korkusu">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10398)**
+
+**Yazar:** [Tensor](https://x.com/QAiStudio) | **Kaynak:** [Link](https://x.com/QAiStudio/status/2096238921986539847) | **Yayınlandı:** Sep 5, 2026
+
+---
+### Dev Domino Su Parkuru Meydan Okuması
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Bir yarışmacının, arkasında suya düşen dev taş dominoların ince tepeleri üzerinde koştuğu aksiyon dolu bir video istemi.
+
+#### 📝 İstem
+
+```
+Süre: 15 saniye
+En-boy oranı: 9:16
+Genel Stil:
+Gerçekçi su engelli parkur kaydı, yüksek hız, heyecan verici, kesintisiz. Temel görsel 'bir kişinin, arkasında sırayla düşen dev dominoların üst kenarları boyunca koşmasıdır.' Normal oynatma hızı, ağır çekim yok, yapay heyecan için sarsıntılı kamera yok.
+
+Karakter Referansı:
+@Image 1, yarışmacı için benzersiz kimlik referansıdır. Kimliği, görünüşü, spor kıyafetlerini ve spor ayakkabılarını koruyun. Referans görsel sadece karakter içindir, arka plan veya orijinal poz için değildir.
+
+Prop Formu - Sıkı Kilitleme:
+Mavi-yeşil su üzerinde, bir dizi dev gri taş domino dizilmiştir.
+Her biri dikey duran ince dikdörtgen bir taş levhadır: geniş ön/arka yüzeyler, çok ince yanlar, dar üst kısım. Mat taş yüzey, keskin kenarlar, üzerinde sayı veya metin yok.
+Büyütülmüş domino taşları gibi olmalıdır; kesinlikle küp, kare sütun, kalın dikilitaş veya geniş basamak olmamalıdır.
+Kişi dar üst kenara basar. Bitişik dominolar arasında su görünür ve geniş gri bir platforma giden kesintisiz bir yol oluşturur.
+
+Domino Hareketi:
+Dominolar tabana yakın kısımdan geriye doğru eğilir; eğildikçe geniş yüzey ortaya çıkar ve ardından suya çarpar.
+Kişinin arkasındaki taşlar birer birer düşerek kesintisiz bir domino etkisi ritmi yaratır. Öndeki taşlar dik kalır; düşme süreci kişiyi yakından takip eder ve onları geçmemelidir.
+Dominolar sert kalır, bükülme, katlanma veya parçalanma olmaz; düştükten sonra tekrar eski haline dönmezler.
+
+[Tam çevrilmiş sekans açıklaması kısalık adına çıkarılmıştır...]
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096217637357228036/img/-5C1vksYkBykER_A.jpg" width="600" alt="Dev Domino Su Parkuru Meydan Okuması">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10408)**
+
+**Yazar:** [John](https://x.com/johnAGI168) | **Kaynak:** [Link](https://x.com/johnAGI168/status/2096222493044334883) | **Yayınlandı:** Sep 5, 2026
+
+---
+### Doğu Asyalı Kadın Apartman Yalnızlığı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Öğleden sonra güneşinde kitap okumaktan gece şehir ışıkları altında yazı yazmaya kadar, yüksek katlı bir apartmandaki sessiz yalnızlık anlarını betimleyen minimalist sinematik bir istem.
+
+#### 📝 İstem
+
+```
+Uzun düz siyah saçlı, yumuşak kırık beyaz büyük beden bir kazak ve uyumlu bol pantolon giyen güzel, genç bir Doğu Asyalı kadın, yüksek katlı bir apartmanda tek başına sessiz bir gün geçiriyor. Hali sakin, hafif melankolik ve düşünceli. İlk olarak çenesini eline dayamış, yağmurla ıslanmış pencereden aşağıdaki şehri izliyor. Ardından aydınlık bir mutfakta cam bir sürahiden fincana dumanı tüten kahve dolduruyor. Daha sonra sıcak öğleden sonra ışığında koltukta oturup kitap okuyor. İlerleyen saatlerde, büyük kulaklıklar takmış, gözleri kapalı bir şekilde, etrafına saçılmış plaklar ve açık bir kitapla ahşap zeminde bağdaş kurmuş oturuyor. Son olarak gece, arkasında parlayan şehir manzarasıyla pencerenin önünde bir deftere yazı yazıyor. Yumuşak doğal aydınlatma, sinematik, huzurlu, minimalist estetik, akıcı geçişler.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096105342405099520/img/NFrZgiMj9WP7TN4f.jpg" width="600" alt="Doğu Asyalı Kadın Apartman Yalnızlığı">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10405)**
+
+**Yazar:** [liana](https://x.com/Lianaalane) | **Kaynak:** [Link](https://x.com/Lianaalane/status/2096105365419209139) | **Yayınlandı:** Sep 5, 2026
+
+---
+### Dead End Express Zombi Dönüşümü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir trende geçen korku sahnesi için viral bir salgını ve ardından gelen kaos ile paniği betimleyen, 25 çekimlik detaylı bir video sekansı istemi.
+
+#### 📝 İstem
+
+```
+Çekim 1 (0–1.2 sn): Referans görselle eşleşen karakter, durmuş bir trende oturuyor; dışarıda kırmızı kontrol noktası ışıkları süpürürken ateşli ve ter içinde.
+
+Çekim 2 (1.2–2.4 sn): Askerler ve görevliler trene biniyor, herkes gergin bir şekilde izlerken yolcuları el fenerleriyle kontrol ediyorlar.
+
+Çekim 3 (2.4–3.6 sn): Titreyen elinin yakın çekimi; nefesi sığlaşırken cildinin altındaki damarlar kararıyor.
+
+Çekim 4 (3.6–4.8 sn): Görevli belgeleri kontrol ediyor ve tehlikeden habersiz bir şekilde onun yanında duruyor.
+
+Çekim 5 (4.8–6 sn): Gözleri beyazlaşıyor ve başı doğal olmayan bir şekilde ona doğru eğiliyor.
+
+Çekim 6 (6–7.2 sn): Aniden kolunu ısırıyor; aşırı yakın çekim, şok olmuş tepki, sinematik ağır çekim.
+
+Çekim 7 (7.2–8.4 sn): Yaralı görevli koridora doğru sendelerken yolcular çığlık atarak geri çekiliyor.
+
+Çekim 8 (8.4–9.6 sn): Enfeksiyon yayıldıkça ısırık yarası hızla dallanan koyu damarlar geliştiriyor.
+
+Çekim 9 (9.6–10.8 sn): Dışarıdaki askerler pencerelerden kaosu fark ediyor ve alarm veriyor.
+
+Çekim 10 (10.8–12 sn): Görevli, titreyen ışıkların altında şiddetle kasılıyor.
+
+Çekim 11 (12–13 sn): Gözleri kan çanağı içinde ve boş bir ifadeyle açılıyor; dönüşüm tamamlandı.
+
+Çekim 12 (13–14 sn): Yakındaki bir yolcuya saldırıyor, kapalı vagonun içinde kitlesel paniği tetikliyor.
+
+Çekim 13 (14–15 sn): Yolcular kapılara koşuyor ancak dışarıdaki askerler kapıları çarpıp kilitliyor.
+
+Çekim 14 (15–16.2 sn): Asker dış kilidi mühürlerken yolcular çaresizce cama vuruyor.
+
+Çekim 15 (16.2–17.4 sn): Geniş açı: yolcular mühürlenmiş tren vagonunun içinde kapana kısıldıklarını fark ediyor.
+
+Çekim 16 (17.4–18.6 sn): Yeni ısırılan bir yolcu saniyeler içinde dönüşüyor ve diğerlerine saldırıyor.
+
+Çekim 17 (18.6–19.8 sn): Hayatta kalanlar, mühürlü kapılar arasında sıkışmış bir şekilde arkaya doğru çekiliyor.
+
+Çekim 18 (19.8–21 sn): Bir yolcu yangın söndürücü kapıyor ve yaklaşan enfektekilere karşı kendini hazırlıyor.
+
+Çekim 19 (21–22.2 sn): Söndürücüyü onlara doğru püskürtüyor, vagonu sisle dolduruyor.
+
+Çekim 20 (22.2–23.4 sn): Askerler dışarıdan sessizce, silahları havada, müdahale edip etmeme konusunda kararsız bir şekilde izliyor.
+
+Çekim 21 (23.4–24.6 sn): Tamamen enfekte olmuş karakter, hayatta kalanlar köşeye sıkışmışken mühürlü kapının camına bastırıyor.
+
+Çekim 22 (24.6–25.8 sn): Hayatta kalanlar bir tuvalete barikat kuruyor, dışarıdan vurma sesleri ve çığlıklar yankılanıyor.
+
+Çekim 23 (25.8–27 sn): Sert kontrol noktası ışıkları altında mühürlü vagonda savaşan enfektekilerin ve hayatta kalanların geniş açılı çekimi.
+
+Çekim 24 (27–28.2 sn): Tren içerideki kaostan dolayı sarsılırken asker telsizle destek çağırıyor.
+
+Çekim 25 (28.2–30 sn): Dış geniş açı: kontrol noktasında hareketsiz duran tren, mühürlü kapılar, buğulu camlar ve içeride çabalayan silüetler; kapana kısılmış korku dolu bir son.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096097568979927040/img/DcA5TuDfdvpmtgaP.jpg" width="600" alt="Dead End Express Zombi Dönüşümü">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10377)**
+
+**Yazar:** [WasifAI](https://x.com/doctorwasif) | **Kaynak:** [Link](https://x.com/doctorwasif/status/2096097630317392019) | **Yayınlandı:** Sep 5, 2026
+
+---
+### Lüks Makyaj Ürünü Tanıtım Videoları
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Dudak ürünleri, dokular ve uygulama üzerine odaklanan üst düzey güzellik reklam videoları oluşturmak için üç farklı seçenek.
+
+#### 📝 İstem
+
+```
+Seçenek 1: Yumuşak Estetik UGC Ürün Vitrini (TikTok / Reels için en iyisi)
+Toz pembe bir dudak renklendirici şişesini ve aplikatör çubuğunu tutan ellerin yakın plan çekimi. Pürüzsüz dudak parlatıcısı dokusu, açık ten üzerinde zarif bir şekilde uygulanıyor. Estetik yumuşak sıcak ışıklandırma, akıcı kamera hareketi, temiz ve minimalist makyaj masası arka planı, yüksek kaliteli reklam videosu.
+Seçenek 2: Dudak Uygulaması ve Renk Gösterimi Odaklı (Trend ve Tatmin Edici)
+Parlak toz pembe dudaklara dudak renklendirici aplikatörü ile nazikçe uygulama yapılan ekstrem yakın çekim. Zengin doku, yüksek parlaklıkta bitiş, kadifemsi pürüzsüzlükte dağılım. Zarif estetik, yumuşak stüdyo ışıklandırması, ultra gerçekçi güzellik reklamı tarzı.
+Seçenek 3: Estetik Ürün Kutu Açılışı ve Renk Gösterimi
+Toz leylak rengi dudak renklendirici aplikatörünün şişeden çıkarak sıvı dudak renklendirici dokusunu ortaya çıkardığı estetik makro çekim. El üzerinde pürüzsüz renk gösterme hareketi, sıcak estetik ışıklar altında parıldayan parlak bitiş, ağır çekim güzellik ürünü videosu.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096095308006780928/img/4oy5bYNLR1BSaUEj.jpg" width="600" alt="Lüks Makyaj Ürünü Tanıtım Videoları">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10397)**
+
+**Yazar:** [AsmatAi](https://x.com/AsmatAi786) | **Kaynak:** [Link](https://x.com/AsmatAi786/status/2096095449648443637) | **Yayınlandı:** Sep 5, 2026
+
+---
+### Yumuşak Anime Tarzı Pofuduk Beyaz Kedi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Modern bir dairede yaşayan beyaz bir kedinin oyuncu hareketlerini ve samimi etkileşimlerini konu alan, büyüleyici ve yumuşak anime tarzında bir video istemi.
+
+#### 📝 İstem
+
+```
+Güneşli bir şehir manzarasına bakan büyük pencereli, aydınlık ve modern bir dairede yaşayan, iri ve parıldayan turkuaz gözlü pofuduk beyaz bir kedinin yumuşak anime tarzında videosu oluşturuldu. Kedi huzur içinde ahşap pencere pervazında oturuyor, ardından cilalı ahşap zemin üzerinde kameraya doğru zarifçe yürüyor. Yakın çekimler kedinin sevimli yüzünü, seğiren bıyıklarını ve meraklı ifadesini yakalıyor. Güneş ışığında gururla duruyor, zarif bir şekilde oturuyor ve ardından küçük beyaz bir topun peşinden oyuncu bir şekilde atılıyor. Daha sonra kedi, yemek masasında sandviç yiyen koyu dalgalı saçlı genç bir adama umutla bakıyor, bir sandalyeye zıplıyor ve adamın kucağına çıkıyor. Adam kediyi nazikçe tutup kucaklarken kedi onun eline ve yüzüne sürtünüyor. Video, sabahın yumuşak ışığı altında gri kanepede sıcak bir şekilde kucaklaşmaları ve kedinin adamın kollarında memnuniyetle esnemesiyle sona eriyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096085739729739776/img/vDzamF8khIQ3Dxay.jpg" width="600" alt="Yumuşak Anime Tarzı Pofuduk Beyaz Kedi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10402)**
+
+**Yazar:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Kaynak:** [Link](https://x.com/ayzalnooor24521/status/2096085776735912274) | **Yayınlandı:** Sep 5, 2026
+
+---
+### 2007 Heisei Gal Belgesel Tarzı
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 2007 yılı Japon 'Gyaru' yaşam tarzı videosunu, erken dönem dijital kamera estetiği ve belirli karakter tutarlılığı ile yeniden yaratmak için titizlikle hazırlanmış bir istem.
+
+#### 📝 İstem
+
+```
+[Özet] 2007 yılında, kabarık saçlı 19 yaşındaki bir 'Hime Gyaru' (prenses gal) için sıradan bir gün. Bir arkadaşı, onu kompakt bir dijital kameranın video modunu kullanarak, konuşmadan yan taraftan kaydediyor. 480p, 16:9, 15 saniye. Farklı konumlarda 7 adet sert kesimli çekim (her biri yaklaşık 2 saniye). Geçiş veya kararma yok. Özne kamerayı fark etmiyor: göz teması yok, nesneleri gösterme yok, el sallama yok, poz verme yok. Yaptığı şeye odaklanmış durumda. Bir performans değil, günlük yaşamdan kesitler. Diyalog, replik veya dış ses yok.
+
+[Özne] Güzellik tanımı: Gal dergileri için özel bir modele kıyasla büyüleyici bir Japon güzeli. Poz verilmiş yüzlerden ziyade, doğal anlarda daha çekici. Yüz: Soluk ten (gerçekçi doku), kalın kahverengi kaşlar, ağır kirpikli (takma kirpik) büyük çift kapaklı gözler, küçük düzgün bir burun, parlak dolgun dudaklar, küçük oval yüz. Saç: Açık sütlü kahve rengi 'Morigami' (kabartılmış saç). Tepe kısmı iyice taranıp kabartılmış ve uçları büyük kalın bukleler halinde kıvrılmış, dönemin tipik bir gal stili. Sabah çekiminde sadece yarısı kıvrılmış. Kıyafet (gündelik giyim, aşırı stilize değil): Açık pembe diz boyu elbise, omuzlara atılmış beyaz bir hırka, alçak topuklu sandaletler, büyük beyaz bir çanta (yazısız). Eşyalar: 'Decoden' (ışıltılı yapay elmaslar ve incilerle kaplı kapaklı bir telefon. Pembe ve beyaz. Kapalı tutuluyor, ekran görünmüyor). Alışkanlıklar: Saç şeklini kaldırarak kontrol etme, topuklu ayakkabılarla hafifçe tökezleme. Yüz, saç ve kıyafet tüm çekimlerde aynı.
+
+[Karakterler] Gal arkadaş (kameraman): Görünmüyor, ancak ara sıra gelen küçük kıkırdamalar, nefes alışverişleri ve kamerayı ayarlarken çıkan hışırtılar dahil (kelime yok). Araba süren arkadaş: Sadece 3. ve 7. çekimlerde sürücü koltuğunda omzu ve kolu görünüyor (sarı küt saçlı, pembe ojeli).
+
+[Dönem, Konum, Işık] Yaz 2007. ① Odada sabah (perdelerden süzülen yumuşak ışık. Çerçevede ayna yok). ② Dairenin dış koridoru (beyaz ışık). ③ Arkadaşın arabasının yolcu koltuğu (gün ışığı, pencere hafif aralık). ④ Kafe terası (ikindi güneşi, tabela yok). ⑤ Dönme dolap kabininin içi (akşam turuncusu, pencerenin dışında şehir). ⑥ Gece deniz kenarı yürüyüş yolu (sokak lambaları ve okyanus karanlığı). ⑦ Eve dönüşte arabanın arka koltuğu (geçen sokak lambaları). Tabelaların, metinlerin, logoların veya ekranların çerçeveye girmediği konumları ve açıları seçin.
+
+[Kamera] 2007 kompakt dijital kamera video modu dokusu: Karanlık alanlarda kumlanma, hafif sarımsı renkler, elde çekimden kaynaklanan titreme. Elde çekim, kusursuz olmayan kompozisyon, ara sıra odak arama, pozlama dalgalanmaları. Özneden 2-4 metre mesafeyi koruyun, sadece eller veya profil için yakınlaştırma yapın. Özne kamerayı görmezden geliyor. Sabitleme, gimbal, drone, ağır çekim, sinematik ışık veya ticari renk düzenlemesi yok. Kamera her zaman bir insanın tutacağı konumdadır (ayakta, otururken, çömelmiş, yürürken, yan koltukta). İmkansız açılar yok (havada, suyun içinde, tavanda, doğrudan tepede, hareket halindeki arabanın dışında, yüzden birkaç santim uzakta). Çekimi yapan kişi mekandaki gerçek bir insandır; özne hareket ederse, hafif bir gecikmeyle onu takip eder, bazen kadraj gevşek kalır. Aynalarda veya camlarda yansıma yok.
+
+[Çekimler] (her biri yaklaşık 2 saniye. Konum/Aktivite/Duygu & Jest/Kamera konumu):
+1. Oda, yumuşak sabah ışığı. Düzleştirici ile uçları kıvırma. Duygu: Saçla mücadeleye odaklanmış. Dilin ucu hafif dışarıda, kıvrılan tutamı kontrol ediyor. Kamera: Yandan, ayna yok.
+2. Daire koridoru, beyaz ışık. Sandaletlerle yürüme, bir kez tökezleme, duvara dokunma. Duygu: Utangaç. Etrafına bakıyor, sonra normal yürüyor. Kamera: Arkadan.
+3. Arkadaşın arabasının yolcu koltuğu, gündüz. Aralıklı pencereden gelen esintiye karşı gözleri kapatma. Duygu: Rahatlama. Saçının savrulmasını görmezden geliyor. Kamera: Arka koltuktan eğilerek.
+4. Kafe terası, öğleden sonra. Parfedeki kirazı sona saklayıp ağza atma. Duygu: Mutluluk. Gözleri kısıyor, omuzlarını gevşetiyor. Kamera: Masanın karşısından.
+5. Dönme dolap kabini, akşam. Alnını cama dayayıp şehre bakma. Duygu: Dalgınlık. Ağız hafif açık. Kamera: Karşı koltuktan.
+6. Gece deniz kenarı yürüyüş yolu. Korkuluğa yaslanma, deniz esintisinden dağılan saçı görmezden gelme, tutmayı bırakma. Duygu: Özgürleşme. Rüzgarda gözler kapalı. Kamera: Yandan, sokak lambalarının altında.
+7. Eve dönüşte arabanın arka koltuğu. Başını cama yaslayıp uyuyakalma. Sokak lambaları kucağındaki Decoden taşlarında parlıyor (ekran gizli). Duygu: Memnun bir uyku hali. Kamera: Yan koltuktan, titreşimi takip ederek. Yaklaşık 00:14'te kayıt aniden kararır. Kararma (fade out) yok.
+
+[Aksesuar Detayları] Saç düzleştirici, dolaşık kablolu beyaz plastik. Decoden, kalp desenli pembe/beyaz yapay elmaslardan oluşuyor, kapalıyken mücevher kutusu gibi görünüyor. Beyaz çanta suni deri, açık bırakılmış. Sandaletlerin pembe kayışları ve alçak topukları var. Dönme dolap kabininde beyaz plastik koltuklar var.
+
+[Metin Yasağı] Çerçevede okunabilir metin, logo, tabela, etiket, ekran görüntüsü veya sayı olmasın. Metin ağırlıklı öğeleri sade versiyonlarıyla değiştirin.
+
+[Fizik/Tutarlılık] Gerçek dünya fiziği. Fazladan parmak, birleşmiş eller, bozuk anatomi, havada asılı nesneler, kaybolan eşyalar veya ani şekil değiştirmeler yok. Ayaklar yere basıyor. Yapay elmaslar, şapka, sırt çantası ve arkadaşın kıyafetleri tüm çekimlerde aynı.
+
+[Ses] Sadece doğal ortam sesi (çekime göre değişir): düzleştirici sesi, koridordaki sandalet sesi, araba sürüşü ve rüzgar, kafe tabakları, dönme dolap mekaniği, deniz/rüzgar, gece araba sürüşü. Kelime yok. Sadece çekimi yapan kişinin ve öznenin ara sıra çıkan küçük kıkırdamalarına/nefes alışverişlerine izin verilir. Müzik yok. Dış ses yok. Yapay ses efekti yok.
+
+[Atmosfer] 2007'yi bilen yetişkinlere 'o zamanlar böyle kızlar vardı' dedirten sıradan bir günün kaydı. Poz verilmiş değil, doğal parçalardan oluşan bir koleksiyon. Nostaljik, parlak, derinlemesine insani. Kameranın sadece orada olduğu hissini ön planda tutun.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094091270738395138/img/EDfIIA0OcweMUn7Q.jpg" width="600" alt="2007 Heisei Gal Belgesel Tarzı">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10409)**
+
+**Yazar:** [妖精アーヤ](https://x.com/aiehon_aya) | **Kaynak:** [Link](https://x.com/aiehon_aya/status/2095995325723156791) | **Yayınlandı:** Sep 4, 2026
+
+---
 ### Okul Öncesi Kelime Öğrenme Posteri
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2902,641 +3602,6 @@ Oyunculuğu abartısız, doğal, spontane ve tamamen insani tutun. Tüm klip, se
 **Yazar:** [𝑨𝒇𝒓𝒊𝒏](https://x.com/afrinxai) | **Kaynak:** [Link](https://x.com/afrinxai/status/2092962983194616002) | **Yayınlandı:** Aug 27, 2026
 
 ---
-### İskandinav İç Tasarım Emlak Turu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> İskandinav tarzı bir evin emlak turu için yapılandırılmış çok çekimli bir istem.
-
-#### 📝 İstem
-
-```
-Çoklu çekim. Emlak danışmanı @[image1] bir İskandinav evini tanıtıyor:\nDış Cephe: Büyük pencereli ve kırma çatılı, sade beyaz, açık gri veya ahşap kaplama ev.\nGiriş: Açık renk ahşap, sade bir bank, askılıklar, hasır sepetler.\nMutfak: Beyaz veya açık renk ahşap dolaplar, açık raflar, mat yüzeyler, minimal donanım.\nOturma/Yemek Odası: Ferah, düzenli, açık renk ahşaplar, yumuşak gri/bej tekstil ürünleri, sade mobilyalar.\nYatak Odaları: Beyaz duvarlar, keten nevresimler, açık renk ahşap, rahat yün detaylar.\nBanyolar: Beyaz fayans, açık renk ahşap lavabo dolabı, siyah veya fırçalanmış metal armatürler.\nOfis/Bahçe: Minimal ahşap çalışma masası; çimenler, huş ağaçları ve sade bir veranda içeren doğal görünümlü bahçe.
-```
-
-<img src="https://pbs.twimg.com/media/HQt8UC7XsAA4zKY.jpg" width="600" alt="İskandinav İç Tasarım Emlak Turu">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10104)**
-
-**Yazar:** [AIrina (Virtual Media Net)](https://x.com/airina_xyz) | **Kaynak:** [Link](https://x.com/airina_xyz/status/2092903022674301054) | **Yayınlandı:** Aug 27, 2026
-
----
-### Minimalist Fotoğraf Stüdyosu Altın Saat
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Minimalist bir fotoğraf stüdyosu ortamı için aydınlatma, atmosfer ve profesyonel ekipman detaylarına odaklanan sinematik bir video istemi.
-
-#### 📝 İstem
-
-```
-Altın saat esnasında modern ve minimalist bir fotoğraf stüdyosunun ultra gerçekçi sinematik sahnesi; büyük, temiz ve beyaz bir masanın ortasında şık bir dizüstü bilgisayar ve yanında duran şeffaf bir su bardağı. Tavandan tabana uzanan büyük pencereler, arka planda sıcak bir gün batımını ve yumuşak bulutları gözler önüne seriyor. Profesyonel fotoğrafçılık softbox'ları ve büyük gümüş bir yansıtıcı şemsiye, kurulumun etrafında görünerek otantik bir stüdyo arkası atmosferi yaratıyor. Pencerelerden süzülen sıcak güneş ışığı, masa üzerinde uzun ve dramatik gölgeler ile güzel yansımalar oluşturuyor. Premium ticari fotoğrafçılık estetiği, zarif kompozisyon, gerçekçi dokular, doğal sıcak renk derecelendirmesi, yumuşak sinematik aydınlatma, sığ alan derinliği, hafif lens parlaması, HDR, ultra detaylı, fotogerçekçi, 8K, profesyonel kamera kalitesi,
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092845721666080768/img/ez9JfUdpf43WeAAm.jpg" width="600" alt="Minimalist Fotoğraf Stüdyosu Altın Saat">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=9874)**
-
-**Yazar:** [AIwithMinal](https://x.com/AIwithMinal) | **Kaynak:** [Link](https://x.com/AIwithMinal/status/2092845782982357334) | **Yayınlandı:** Aug 27, 2026
-
----
-### Cyberpunk Anime Sokak Dövüşü
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Seedance 2.0 için, yoğun bir kentsel ortamda iki stilize karakter arasındaki yüksek enerjili dövüşü konu alan, son derece detaylı 15 saniyelik bir aksiyon istemi.
-
-#### 📝 İstem
-
-```
-İlk kareden itibaren iki genç karakterin yüzleri, saç stilleri, kıyafetleri, vücut tipleri, renk şemaları, mizaçları ve aralarındaki duruş ilişkisinde tutarlılığı koruyun. Yüzleri, kıyafetleri veya karakterleri değiştirmeyin. Sol karakter: Siyah saçlı çocuk, kırmızı ekose ceket, beyaz tişört, koyu renk pantolon; aksiyon tarzı güç, baskı ve yakın mesafe sert dövüşe odaklı. Sağ karakter: Gümüş-mavi kısa saçlı çocuk, siyah-beyaz yüksek teknolojili ceket, koyu renk pantolon, kırmızı-beyaz spor ayakkabı; aksiyon tarzı yüksek hızlı atılma, çeviklik ve mavi enerji takviyesine odaklı. Sahne; yoğun gökdelenlerin, Hong Kong tarzı Çince tabelaların, kırmızı taksilerin, sık bina cephelerinin ve güçlü perspektifli sokak manzaralarının olduğu modern bir şehir sokağıdır. Genel tarz, yüksek kaliteli, ateşli bir yerli anime / anime filmi hissi / yüksek enerjili dövüş PV'si havasındadır. Videonun tamamı 15 saniyelik saf, yüksek tempolu bir dövüş olup, ilk saniyeden itibaren başlar; diyalog, altyazı, Logo, arayüz (UI) veya komedi unsuru yoktur. Temel gereksinimler: 15 saniye, 16:9, ilk saniyede patlama, aşırı hızlı hareket, yüksek hızlı kamera takibi, abartılı özel efektler, güçlü hız hissi, belirgin çevresel yıkım, tüm süreyi dövüşe odaklayın, uzun uzadıya ön hazırlık yapmayın, hareketler net bir şekilde okunabilir olmalı, efektler aksiyonu tamamen kapatmamalıdır. 15 saniyelik aksiyon tasarımı: 0-3 sn: İlk karedeki aksiyonla doğrudan patlama yaşanır. Gümüş-mavi saçlı karakter, devasa mavi akım ve parlak enerji rüzgarıyla yumruk atarak siyah saçlı karaktere doğrudan vurur. Siyah saçlı karakter kaçmaz, omzuyla bloklar, sol koluyla darbeyi karşılar, sağ yumruğuyla karşı saldırıya geçer. Temas anında devasa mavi-beyaz bir şok dalgası patlar; su, çakıl, beyaz gaz ve enkaz aynı anda havaya saçılır. Yakındaki bir kırmızı taksi şiddetle sarsılır, Çince tabelalar çılgınca sallanır, cam yansımaları anında parlar. Kamera yumruğa yakın başlar, ardından FPV drone gibi yüksek hızla çiftin etrafında döner. 3-6 sn: Siyah saçlı karakter yakın mesafe baskısı kurar, sürekli ileri atılır: düz yumruk, dirsek darbesi, diz darbesi, omuz atma. Her vuruş beyaz patlayıcı rüzgar ve kısa sonik patlama sesleri taşır. Gümüş-mavi karakter yüksek hızlı savuşturmalar, kaçışlar ve yan kaymalar yapar; ayaklarının altında mavi art görüntüler ve arklar patlar. Siyah saçlı karakter, gümüş-mavi karakteri kırmızı bir taksiye yumrukla savurur, kapıyı göçertir. Gümüş-mavi karakter arabadan güç alarak zıplar, siyah saçlı karakterin başının üzerinden uçar, arkasında uzun bir mavi enerji izi bırakır ve dönerek attığı bir tekme ile yere iner, devasa bir mavi ark oluşturur. 6-9 sn: Gümüş-mavi karakter yüksek hızlı karşı baskıya başlar. Patlama moduna girer, yüksek hızda sürekli saldırır: süper hızlı düz yumruklar, yakın dirsekler, diz darbeleri, enerjili ağır yumruklar. Akışkan şimşek gibi mavi enerji izleri vücudunu sarar. Siyah saçlı karakter sürekli savunma yapar, geri itilir, ayakkabıları zeminde iz bırakır. Ağır bir darbe siyah saçlı karakteri sokak tesislerine savurur; taşlar, reklam panosu parçaları ve toz patlar. Kamera zemin seviyesinde yüksek hızla kayar, ardından uçuşan parçaların ve enerji art görüntülerinin arasından hızla yükselir. 9-12 sn: Siyah saçlı karakter zorla geri iter. Bir saldırı dalgasına direnir, gümüş-mavi karakterin bileğini yakalar ve yüksek hızlı ritmi kırar. Sürükleme durduğu anda zemin patlar, hava yırtılır. Siyah saçlı karakter hemen ağır yakın dövüş kombolarını bağlar: mideye yumruk, aparkat, dirsek darbesi, rakibi uçuran önden ağır yumruk. Gümüş-mavi karakter uzağa savrulur, sokak tabelalarına veya araba gövdelerine çarpar; metal bükülür, camlar kırılır, kıvılcımlar, mavi parçacıklar ve enkaz patlar. Tüm sokakta belirgin bir yıkım etkisi görülür. 12-15 sn: Final doruk noktası. Gümüş-mavi karakter bir duvardan veya çatıdan geri seker, mavi enerji tamamen patlar. Siyah saçlı karakter de tamamen patlar. İkisi de sokağın ortasında son bir ultra yüksek hızlı yumruklaşmaya girer: sürekli düz yumruklar, çapraz savuşturmalar, dönen tekmeler, diz darbeleri, önden ağır yumruklar. Her çarpışma devasa mavi-beyaz parlamalar, enerji şok dalgaları ve rüzgar çizgileri üretir. Zemin çatlar, sular sıçrar, taksi sarsılır, tabelalar çılgınca sallanır, tüm sokak şok dalgasıyla süpürülür. Sonunda siyah saçlı karakter bir açık yakalar, ağır bir önden yumruk gümüş-mavi karakteri uzağa savurur, arkasında uzun bir mavi enerji izi bırakır. Ancak gümüş-mavi karakter sonunda bir dizi üzerine iner, eli yerde, tamamen yenilmemiş haldedir. Kamera hızla ikisinin arasından geçer, sokağın harabeye dönmüş halini, kalıntı arkları, havada uçuşan parçacıkları ve sallanan tabelaları gösterir, yüksek gerilimli bir yüzleşme ile sona erer. Efektler: mavi yüksek enerjili rüzgar, mavi-beyaz arklar, devasa şok dalgaları, enerji izleri, art görüntüler, parçacıklar, hava yırtılma çizgileri, zemin çatlakları, su ve çakıl sıçramaları, araba deformasyonu, cam kırılmaları, tabela sallanması. Kamera: yüksek hızlı takip, yörünge, yakın çekim, içinden geçiş, düşük açılı yukarı çekim, ani geri çekilme ve ileri atılma, tek çekim hissi, her zaman dövüş merkezini takip et, karmaşık kesimler yapma, aksiyonları net tut.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092807598437531648/img/4VJ_Tv5OfNFW_FBP.jpg" width="600" alt="Cyberpunk Anime Sokak Dövüşü">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=9879)**
-
-**Yazar:** [澜森](https://x.com/lansenai) | **Kaynak:** [Link](https://x.com/lansenai/status/2092807747020689580) | **Yayınlandı:** Aug 27, 2026
-
----
-### Akrepten Lüks Stiletto'ya Dönüşüm
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Süslemeli obsidyen ve yakut bir akrebin, mermer zemin üzerinde lüks bir topuklu ayakkabıya dönüştüğü büyülü bir moda dönüşümü istemi.
-
-#### 📝 İstem
-
-```
-4K çözünürlükte, büyülü bir dönüşümü betimleyen dikey yakın çekim. Bir kadının çıplak ayağı, cilalı mermer zemin üzerinde duran; parlak siyah obsidyen, koyu kırmızı yakutlar ve altın metal detaylardan yapılmış büyük, süslemeli bir akrebin üzerine basıyor. Ayağı temas ettiği anda, metalik yakut akrep kusursuz bir şekilde şekil değiştirerek ayağını sarıyor ve lüks bir topuklu ayakkabı ile halhala dönüşüyor. Akrebin kuyruğu bileğinin etrafında kıvrılarak mücevherli bir banda, kıskaçları sivri burun kısmına ve gövdesi ise şık, mücevherlerle süslü bir stiletto topuğuna dönüşüyor. Sinematik aydınlatma, fotogerçekçi, 3D render, lüks moda estetiği, zengin alan derinliği, arka planda görkemli bir sera sarayından süzülen parlak güneş ışığı, 8k ultra detaylı.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092783461610209280/img/ccdqQbgi9n08TAMS.jpg" width="600" alt="Akrepten Lüks Stiletto'ya Dönüşüm">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=9870)**
-
-**Yazar:** [Julia](https://x.com/juliaevee) | **Kaynak:** [Link](https://x.com/juliaevee/status/2092783528887083290) | **Yayınlandı:** Aug 27, 2026
-
----
-### Nostaljik Lise Vlog'u
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Japon bir lise öğrencisini konu alan, doğal ifadelere ve otantik okul ortamlarına odaklanan, gerçekçi ve ev videosu tarzında bir vlog oluşturmak için son derece detaylı bir video istemi.
-
-#### 📝 İstem
-
-```
-Sevimli bir Japon lise öğrencisinin okulda geçirdiği sıradan bir günü, aynı sınıftan en yakın arkadaşı tarafından çekilmiş gibi ev videosu tarzında bir kişisel vlog olarak oluşturun. Hiçbir geçiş efekti veya kararma olmadan, yaklaşık 10 kısa çekimden (her biri 2-3 saniye) oluşan, sert kesişli bir montaj şeklinde, hiper gerçekçi bir çalışma. Her çekim farklı bir mekanda veya anda geçmeli ve her çekim küçük bir olayı temsil etmelidir. En yakın arkadaşı tarafından çekildiği için kız tamamen rahat, kameraya gülümsüyor, bir şeyler gösteriyor ve konuşuyor (konuşma duyulmuyor). Poz verme veya oyunculuk değil, sadece en yakın arkadaşına gösterdiği doğal ifadeler olmalı. Ana Karakter: Tüm çekimler boyunca aynı Japon lise öğrencisi. Çarpıcı bir güzelliği yok, ancak gülümsemesi en sevimli özelliği olan, arkadaş canlısı bir yüze sahip. Gerçekçi cilt dokusu, makyajsız, yanaklarda hafif bir kızarıklık. Gülümsediğinde gözleri hilal şeklini alıyor ve hafifçe çarpık dişi görünüyor. Kısa siyah saçları gevşek bir küt kesim, sağ kulağının üzerinde küçük gümüş bir toka var. Üzerinde beyaz kısa kollu yakalı bir gömlek, koyu kırmızı bir kurdele, gri diz boyu pileli bir etek, beyaz çoraplar, okul ayakkabıları (dışarıda beyaz spor ayakkabılar) ve omuzda bir okul çantası var. Yüz hatları, vücut tipi, saç modeli, üniforma ve eşyalar baştan sona tamamen tutarlı olmalıdır. Mekanlar: Yaz sabahından akşama kadar tipik bir devlet lisesi. Giriş, pencere kenarı sıraları olan sınıf, koridor, okul kantini, avlu, okul çıkışı gün batımıyla aydınlanan sınıf, okul kapısı. Günlük yaşam hissi veren gerçek bir okul. Arka plandaki diğer öğrenciler doğal görünmeli. Reklam veya tanınabilir markalar olmamalı. Kamera/Görsel Stil: Tüm çekimler için ortak özellikler: arkadaşının elinde tuttuğu eski bir tüketici tipi dijital kamera. Doğal sarsıntılar, kusurlu kadraj, ara sıra değişen otomatik odaklama, pozlama dalgalanmaları, yumuşak görüntü detayları, hafif hareket bulanıklığı, ince dijital gürültü, hafif doygunluğu azaltılmış renkler ve kusurlu beyaz dengesi. Sabitleme, gimbal, drone, ağır çekim, sinematik aydınlatma veya profesyonel renk düzenlemesi yok. Çekim Listesi (sırayla, her biri 2-3 saniye, hepsi sert kesişli): 1. Teneffüs. Ön sıradaki bir sandalyeye ters oturmuş, jestler yaparak bir şeyler söylüyor (duyulmuyor). 2. Kantinden iki parça ekmek alıp birini lense uzatıyor. 3. Öğle yemeği molasında avludaki bankta, güneş ışığında gözlerini kısarak ekmeği ısırıyor. 4. Koridor duvarına yaslanmış, çok gülerken gözünün kenarını parmağıyla siliyor. 5. Temizlik saati. Süpürgeyle komik bir poz veriyor, koridorun sonunda birini fark edip aceleyle ciddi bir şekilde süpürmeye başlıyor. 6. Muslukta ellerini yıkarken, ıslak parmak uçlarıyla kameraya su sıçratma numarası yapıp gülüyor. 7. Okul çıkışı, gün batımıyla aydınlanan sınıf. Sıranın üzerinde başını koymuş uyurken yakalanıyor, utangaç bir gülümsemeyle uyanıyor. 8. Tahtanın köşesine küçük bir karalama yapıp, çarpık dişini göstererek sırıtmak için arkasına dönüyor ve hemen siliyor. 9. Girişte konuşup gülerken spor ayakkabılarını giyiyor. 10. Gün batımında okul kapısında arkasına dönüp iki eliyle genişçe el sallıyor. Ortasında kayıt aniden kararır. Kararma efekti yok. Fiziksel Gerçekçilik: Tüm çekimlerde makul dünya fiziğini koruyun. Eller, parmaklar, ayaklar, üniforma, saç, ekmek, süpürge, defterler ve okul çantaları doğal davranmalı. Fazladan parmak, birleşmiş eller, çoğaltılmış uzuvlar, bozuk anatomi, havada asılı nesneler, kaybolan eşyalar veya ani deformasyonlar olmamalı. Ayaklar zemine düzgün bir şekilde bağlı kalmalı. Çekimler arasında karakter tutarlılığını koruyun ve aydınlatma sabahtan öğlene ve gün batımına doğru doğal bir şekilde ilerlemeli. Ses: Sadece doğal çevresel sesler. Çevresel sesler de her çekimle birlikte değişmeli. Uzaktan gelen okul zili, okul ayakkabılarının sesi, sınıf uğultusu, kantin hareketliliği, ağustos böcekleri, süpürge sesi, kulüp faaliyetlerinden gelen uzak bağırışlar ve kelime olarak duyulmayan sesler ve kahkahalar. Müzik, anlatım veya yapay ses efektleri yok. Final Atmosferi: Sadece 12 sıradan andan oluşsa bile, geriye dönüp bakıldığında duygusal hissettiren bir video. Ticari bir iş, moda filmi veya müzik videosu değil. Asla geri dönülemeyecek sıradan bir okul gününün, sadece bir sınıf arkadaşının ve en yakın dostunun kamerasında saklı kalan kaydı. Kaygısız, gençliğin ortasında, nostaljik, sıcak, doğaçlama ve derinlemesine insani. Kameranın orada tesadüfen bulunduğu hissine öncelik verin.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092686546298433536/img/tcrwpv0-K5VjzOn_.jpg" width="600" alt="Nostaljik Lise Vlog'u">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=9884)**
-
-**Yazar:** [妖精アーヤ](https://x.com/aiehon_aya) | **Kaynak:** [Link](https://x.com/aiehon_aya/status/2092733830801109291) | **Yayınlandı:** Aug 26, 2026
-
----
-### Avangart Piksel Parmak Portresi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Dijital ilgiyi temsil eden sürreal pikselli öğelere sahip, siyah elbiseli bir modelin yer aldığı, moda odaklı benzersiz bir video istemi.
-
-#### 📝 İstem
-
-```
-Dijital yargıyı veya ilgiyi simgeleyen, pikselli işaret parmaklarıyla çevrili siyah elbiseli bir modelin avangart moda portresi.
-```
-
-<img src="https://pbs.twimg.com/media/HQrEmS0XIAIcOcc.jpg" width="600" alt="Avangart Piksel Parmak Portresi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=9876)**
-
-**Yazar:** [AIrina (Virtual Media Net)](https://x.com/airina_xyz) | **Kaynak:** [Link](https://x.com/airina_xyz/status/2092701039044554816) | **Yayınlandı:** Aug 26, 2026
-
----
-### The Last of the Mohicans Şelale Sahnesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> The Last of the Mohicans karakterlerinin bir şelalenin arkasına saklandığı ve savaşçıların yakınlarda arama yaptığı sinematik bir sahne için yapılandırılmış istem.
-
-#### 📝 İstem
-
-```
-Karakterler:
-* Hawkeye — omuz hizasında koyu renk saçlı, geyik derisi kıyafetli, uzun tüfekli, sert görünümlü sınır muhafızı.
-* Cora Munro — soluk renkli kolonyal dönem elbisesi giymiş genç bir kadın.
-* Uncas — örgülü saçlı, atletik yapılı bir Kızılderili savaşçı.
-* Huron savaşçıları — mızrak taşıyan birkaç avcı.
-
-Sahne: Ormanın derinliklerinde, gürül gürül akan bir şelalenin yanında gün batımı. Hawkeye, Cora ve Uncas, akan suyun gizlediği sığ bir mağaranın içindeki kayaların arkasına sessizce çömelmiş durumdalar. Dışarıda, birkaç Huron savaşçısı nehir kıyısını dikkatlice arıyor ancak gizli girişi fark edemiyorlar. Arama ekibi yavaşça nehir aşağı uzaklaşana kadar herkes tamamen hareketsiz beklerken, su kayaların üzerine sıçrıyor. Müzik yok. Sinematografide mekansal tutarlılığı korumaya ve 180 derece kuralına uymaya dikkat edin.
-```
-
-<img src="https://pbs.twimg.com/media/HQqypPlWIAA6wD9.jpg" width="600" alt="The Last of the Mohicans Şelale Sahnesi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=9872)**
-
-**Yazar:** [AIrina (Virtual Media Net)](https://x.com/airina_xyz) | **Kaynak:** [Link](https://x.com/airina_xyz/status/2092681296430432645) | **Yayınlandı:** Aug 26, 2026
-
----
-### Fransız Çizgi Roman Tarzında Ahtapot Dedektif Gizemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Sualtı ofisinde geçen bir ahtapot dedektifin yer aldığı, Fransız ligne claire çizgi roman tarzında animasyonlu bir gizem ve komedi istemi.
-
-#### 📝 İstem
-
-```
-montaj, çok açılı animasyonlu gizem komedisi, tek kamera açısı veya tek kesim kullanmayın, Fransız ligne claire çizgi roman animasyonu, temiz ve hassas ana hatlar, düz ve zarif renkler, minimal gölgelendirme, büyüleyici Avrupa grafik hikaye anlatımı, net mimari arka planlar, ifadeli ancak ölçülü yüzler, parıldayan sualtı ışık oyunları, turkuaz, mercan kırmızısı, krem ve lacivert paleti
-
-Renkli bir tropikal denizin tabanında, cam kubbeli bir dedektiflik ofisinin içinde, küçük bir trençkot giymiş zarif bir ahtapot dedektif masasının arkasında oturuyor; karşısında gergin bir balon balığı müvekkili süzülüyor ve sıkılmış bir denizatı asistan not defteri tutuyor. Dev pencerelerin dışında, balık sürüleri mercan kuleleri arasında süzülüyor. Şüpheli bir yengeç masanın altında saklanıyor.
-
-Çekim 1: Pürüzsüz bir yan dolly hareketiyle orta çekim, ahtapot dedektif dört çift dokunacını kendinden emin bir şekilde birleştiriyor. Şöyle diyor: "Monsieur Octave için hiçbir gizem fazla karmaşık değildir."
-
-Çekim 2: Yakın çekim, gergin balon balığı sıkıntıdan hafifçe şişiyor ve diyor ki: "Biri paha biçilmez incimi çaldı!"
-
-Çekim 3: Geniş çekim, ahtapot dramatik bir şekilde ayağa kalkıyor ve altı dokunacını aynı anda kullanarak büyüteçlerle odayı inceliyor, bu sırada denizatı asistan notlar alıyor.
-
-Çekim 4: Orta takip çekimi, dedektif yerdeki küçük çizik izlerini takip ederek doğrudan kendi masasının altında saklanan yengece doğru ilerliyor. Fısıldıyor: "Suçlu yakınlarda."
-
-Çekim 5: Yakın çekim detay, yengeç bir kıskaç açıyor — kayıp inci içinde duruyor — sonra hızla arkasına saklıyor.
-
-Çekim 6: Geniş çekim, herkes sessizce yengece bakıyor. Yengeç bir kıskacıyla pencerenin dışından geçen bir balığı işaret ediyor. Dedektif iç çekiyor: "İddialı bir savunma."
-```
-
-<img src="https://pbs.twimg.com/media/HQp5pO7XIAA78vt.jpg" width="600" alt="Fransız Çizgi Roman Tarzında Ahtapot Dedektif Gizemi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=9864)**
-
-**Yazar:** [AIrina (Virtual Media Net)](https://x.com/airina_xyz) | **Kaynak:** [Link](https://x.com/airina_xyz/status/2092618583490666962) | **Yayınlandı:** Aug 26, 2026
-
----
-### Kadın ve Kedi Etkileşimi 'Kedi Yumruğu' Videosu
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Seedance 2.5 için, bir kadın ile kedi arasındaki oyuncu etkileşimin kameraya yansıyan yüksek etkili bir 'kedi yumruğu' ile sonuçlandığı gerçekçi bir video istemi.
-
-#### 📝 İstem
-
-```
-Japon kadın. Kedi aniden çılgınca hareket etmeye başlar ve kadın buna engel olamayarak kediyle birlikte geriye doğru düşer. Kamera, kedinin ve kadının yüzlerine hızla yakınlaşır. Bu sefer kadın yüzünü kedinin yüzüne sürter. Kadın kameraya bakar ve kedinin yanağından öper. Kedi biraz rahatsız olur. Kedi kamerayı fark eder, sinirlenir ve lense doğru bir 'kedi yumruğu' atar. Kedi yumruğu tam bir vuruştur. Amatör biri tarafından çekilmiş gibi el kamerası sarsıntısı içeren, yüksek etkili bir video. Arka plan müziği yok.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092604477157343233/img/eJsfjHUY9Tv9jLT_.jpg" width="600" alt="Kadın ve Kedi Etkileşimi 'Kedi Yumruğu' Videosu">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=9882)**
-
-**Yazar:** [h64g](https://x.com/h64g_) | **Kaynak:** [Link](https://x.com/h64g_/status/2092605211412205874) | **Yayınlandı:** Aug 26, 2026
-
----
-### Çin Tarzı Deadpan Komedi Kısa Drama
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Çin tarzı deadpan komedi skeçleri için tasarlanmış, birden fazla karakter içeren, fiziksel etkileşimler ve günlük durumlardaki beklenmedik olaylara karşı gerçekçi tepkiler için detaylı talimatlar barındıran yaratıcı bir istem.
-
-#### 📝 İstem
-
-```
-[Stil] Çin yerel kara mizah kısa draması (Çin Deadpan Komedisi), Fotogerçekçi Canlı Aksiyon, günlük çevrimiçi kısa film dokusu, hafif el kamerası çekimi, gerçek fiziksel hareket, 4K HD [Süre] 30 saniye, tek seferlik doğrudan çıktı [Çerçeve] 16:9 geniş ekran [Dil] Tamamı Çince yerinde diyalog, hassas Çince dudak senkronizasyonu; anlatım yok, altyazı yok [Sahneler] Kuzey Çin ilçe kasabasındaki eski avlu → Küçük bir Çin kasabasındaki retro tatlıcı → Çin ilçe kasabasındaki eski tip misafirhane koridoru [Karakterler] @Image1 'Mo Ning' adında, kamera önü açıklamasından sorumlu; @Image2 'A Lan' adında, tatlıcıdaki diğer müşteri; @Image3 'Teyze Wang', A Lan'ın arkadaşı [Referans Görsel Uygulama Kuralları] Her üç karakterin yüzleri, vücut yapıları, saç stilleri, makyajları, kıyafetleri ve aksesuarları, hiçbir görünüm öğesinde ekleme, silme veya değişiklik yapılmaksızın referans görsellerinden kesinlikle miras alınmalıdır. Karakterler ilk göründükleri andan itibaren referans görselleriyle tamamen eşleşmeli; sonraki sahne geçişlerinde yüz değiştirme, kıyafet değiştirme veya vücut tipi değişikliğine izin verilmemektedir. [Temel İçerik] Mo Ning kameraya açıklar: Bir videonun AI tarafından oluşturulup oluşturulmadığını anlamak için sadece çözünürlüğe bakmayın; hayvan hareketlerini, fiziksel etkileri, karakter tepkilerini ve mekansal ilişkileri gözlemleyin. Açıklama yaparken, giderek daha absürt yerinde eylemlerle 'gösteri' yapar ancak sorunun kendisinde değil, AI videosunda olduğuna inanmaya devam eder. [Karakter Performans Mantığı] Mo Ning her zaman kendisini ciddi bir profesyonel eğitimci olarak görür. Olay ne kadar absürt olursa olsun, o kadar sakin ve kendinden emindir. Komik olmaya çalışmaz; mizah, onun deadpan ve hatalı yargılarından kaynaklanır. A Lan olaydan önce tamamen hazırlıksızdır; sıvı vücuduna temas edene kadar ürperme, gözlerini kapatma, ellerini kaldırma ve kaçınma belirtileri göstermemelidir. Teyze Wang, Mo Ning'e bakmadan önce A Lan'ı kontrol etmelidir; olayı önceden tahmin edip bakmak yoktur. [00:00-00:05.30] Sahne 1: Görüntü kalitesine değil, detaylara bakın (Sabit Orta Çekim). Gri tuğla duvarları, kırmızı ahşap kapısı, beyaz plastik sandalyeleri, duvar kenarındaki yabani otları, kurutulan mısırları ve günlük eşyalarıyla kuzey Çin ilçe kasabasındaki eski bir avlu. Öğleden sonra doğal ışığı yandan girer, ağaç gölgeleri hafifçe sallanır. Sabit ön orta çekim: Mo Ning beyaz plastik bir sandalyede oturur, doğal bir şekilde öne eğilir, elleri dizlerinin yakınındadır, doğrudan kameraya bakar. [00:00-00:02.30] Mo Ning basit ve pratik bir ipucu paylaşıyormuş gibi konuşur, konuşması net ve doğaldır: [Dudak Senkronizasyonu Kılavuzu] 'Bir videonun AI tarafından yapıldığını nasıl anlarsınız?' Bitirir ve bakışlarını sabit tutar, izleyicinin dikkatinin odaklandığından emin olmak için yaklaşık 0,2 saniye duraksar. [00:02.30-00:05.30] Mo Ning önemli noktaları sıralıyormuş gibi bir elini hafifçe kaldırır: [Dudak Senkronizasyonu Kılavuzu] 'Sadece çözünürlüğe bakmayın; önce hayvanlara bakın. AI kedi ve köpekleri işlerken hata yapma olasılığı en yüksek olanıdır.' 'Hayvanlara bakın' kısmını hafifçe vurgular; 'hata yapma olasılığı en yüksek olanıdır' kısmını kesin bir dille söyler. 'Kedi ve köpekler' dediğinde, avlunun dışından bir köpeğin nefes nefese sesi yaklaşır. Mo Ning duyar ama henüz arkasına bakmaz. [00:05.30-00:10.20] Sahne 2: Hayvan hareketleri hata yapmaya en müsait olanlardır (El kamerasıyla yeniden çerçeveleme). [00:05.30-00:06.50] Büyük bir siyah köpek çerçevenin sol altından hızla girer, başını Mo Ning'in bacaklarının arasına sokar. Köpeğin girişi sırasında gerçek bir ivmesi vardır; önce başı, ardından omuzları ve gövdesi görünür. Mo Ning'in elleri köpek tarafından doğal bir şekilde yukarı kaldırılır ve vücudu birkaç santimetre geri sıçrar. Kamera, köpeğin girişi nedeniyle içgüdüsel olarak aşağı eğilir ve kısa bir süre köpeğin kafasına odaklanır. Mo Ning köpeğe bakar: [Dudak Senkronizasyonu Kılavuzu] 'Mesela şunu ele alalım.' Tonu oyuncu değildir; sanki hazır bir eğitim vakası bulmuş gibidir. [00:06.50-00:07.70] Siyah köpek geçmeye devam eder, gövdesi Mo Ning'in bacaklarının önünden geçer, kuyruğu plastik sandalye ayağına sürünür. Mo Ning eliyle köpeğin başını nazikçe iter, sonra kameraya bakar: [Dudak Senkronizasyonu Kılavuzu] 'Anlayabiliyor musunuz?' İzleyiciye gözlem yapması için yarım saniye süre tanır. [00:07.70-00:09.60] Köpek, Mo Ning'in önünden yatay olarak geçer ve aniden burnunu kameraya yaklaştırır, ön planın bulanıklaşmasına neden olur. Mo Ning'in bakışları köpeği takip eder, kaşları çatılır: [Dudak Senkronizasyonu Kılavuzu] 'Hareket hatalı ve gözler doğru değil.' 'Hatalı' kelimesini teknik bir analiz yapıyormuş gibi söyler. Köpeğin gerçek hareketi sürekli ve doğal olmalıdır; mizah, Mo Ning'in normal bir eylemi 'AI kusuru' olarak zorlamasından gelir. [00:09.60-00:10.20] Köpeğin burnu neredeyse lense değer, kısa bir havlama sesi çıkarır. Mo Ning arkasından izler ve düz bir şekilde sonuca bağlar: [Dudak Senkronizasyonu Kılavuzu] 'Bir bakışta sahte olduğu belli oluyor.' Gülümsemez. Havlamadan hemen sonra bir sonraki sahneye sert bir kesiş yapılır. [00:10.20-00:14.60] Sahne 3: Fiziksel Etki Testi (Aşırı Yakın Çekim → Orta Çekim). Küçük bir Çin kasabasındaki retro tatlıcıya sert kesiş. Ahşap masalar, cam yemek dolapları, beyaz porselen fincanlar, termoslar, peçetelikler ve Çin fiyat etiketleri günlük bir ortam yaratır. Arka plandaki müşteriler doğal bir şekilde sohbet eder. Mo Ning, A Lan ve Teyze Wang aynı masada oturur. Masada büyük bir bardak pembe çilekli yoğurt içeceği ve başka bir açık renkli içecek vardır. [00:10.20-00:10.70] Mo Ning aniden kameraya yaklaşarak aşırı yakın çekime girer. Hızlı mesafe değişimi nedeniyle, çerçeve otomatik odaklama ile Mo Ning'in gözlerine ve dudaklarına tam olarak odaklanmadan önce kısa bir süre bulanıklaşır. [00:10.70-00:13.70] Mo Ning gözlerini kocaman açar: [Dudak Senkronizasyonu Kılavuzu] 'İkincisi, fiziksel etkilere bakın. Çerçevede çok fazla sıvı olduğunda, bu bir ele verme işaretidir.' 'Fiziksel etkiler' kısmını net ve yavaş söyler. 'Çok fazla sıvı' dediğinde bakışları kısaca pembe içeceğe kayar; 'ele verme işareti' dediğinde tekrar kameraya bakar. A Lan ve Teyze Wang doğal bir şekilde oturmaya devam eder, Mo Ning'in elini izlemez veya panik göstermezler. [00:13.70-00:14.60] İki kişilik orta çekime geçiş. Mo Ning yerine döner, A Lan'ın önündeki pembe içeceği alır ve iki eliyle A Lan'ın başının üzerinde tutar. Hiç uyarı vermeden bardağı ters çevirir. Yoğun pembe sıvı sürekli bir akış oluşturur, A Lan'ın başına iner ve yüzünden, omuzlarından ve kıyafetlerinden aşağı akar, sonunda ahşap masaya sıçrar. Bardaktaki sıvı seviyesi döküldükçe düşmelidir; sıvının gerçek bir ağırlığı, viskozitesi ve sıçrama ataleti olmalıdır. [Ses Efektleri] Bardak tıkırtısı, yoğun sıvı dökülmesi, masaya sıvı sıçraması. [00:14.60-00:18.20] Sahne 4: Gerçek tepkiler erken olamaz (Gecikmeli Tepki). [00:14.60-00:15.20] Sıvı ilk olarak A Lan'a çarptıktan sonra 0,2 saniyelik bir sinirsel gecikme olur. Ardından A Lan aniden irkilir, gözlerini sıkıca kapatır, omuzlarını silkeler ve içgüdüsel olarak başını korur. Kısa bir çığlık atar, gerçek bir ataletle geriye doğru kaçar, sandalye zeminde gıcırdar. A Lan'ın sıvı çarpmadan önce gözlerini kapatması veya kaçması yasaktır. [00:15.20-00:16.30] A Lan kaçmaya devam eder, kolu masayı süpürür ve ikinci bir küçük sıvı sıçramasına neden olur. Mo Ning bardağı boşalana kadar ters tutar, sonra geri çeker. Bardak aniden boşalamaz. Mo Ning boş bardağa bakar, 'deneyin tamamlandığını' onaylar, özür veya panik yoktur. [00:16.30-00:17.50] Teyze Wang yarım saniye şaşkın kalır, ardından sıvıyı silmeye yardımcı olmak için hemen A Lan'a doğru hareket eder. Dikkati önce A Lan üzerinde olmalıdır. [00:17.50-00:18.20] Yakın çekim: Teyze Wang yavaşça Mo Ning'e bakmak için döner, kaşları çatılmıştır. A Lan, Teyze Wang'a yaslanarak nefes nefesedir. Net bir diyalog yok, sadece süregelen çığlıklar, ağır nefes alıp verme ve kıyafet hışırtısı. [00:18.20-00:21.30] Sahne 5: Karakter tepkileri de ele verir (Ters Orta Yakın Çekim). Mo Ning'e çekim/ters çekim. Pembe sıvı ve meyve parçalarıyla dolu masanın diğer tarafında tek başına oturur. [00:18.20-00:19.00] Mo Ning, A Lan ve Teyze Wang'a bakar, kaşlarını hafifçe kaldırır: [Dudak Senkronizasyonu Kılavuzu] 'Sonra karakter tepkilerine bakın.' Tonu hala bir öğretmen tonundadır, suçluluk yoktur. [00:19.00-00:21.30] Mo Ning, A Lan'ı, sonra Teyze Wang'ı gözlemler, sonra tekrar kameraya bakar: [Dudak Senkronizasyonu Kılavuzu] 'Az önceki tepki çok koordineliydi; belli ki abartılıydı.' 'Çok koordineli' kısmını bir oyunculuk eleştirmeni gibi söyler. Cümle bittikten sonra ağzının bir kenarında çok hafif alaycı bir gülümseme belirir. [00:21.30-00:25.20] Sahne 6: Mekansal ilişkileri yönetmek en zorudur (Geriye Doğru Takip Çekimi). Eski bir misafirhane koridoruna sert kesiş. Loş ışıklar, birkaç kapı. Duvarda net bir yeşil Çince 'Acil Çıkış' tabelası; anlamsız yazılar yok. [00:21.30-00:22.40] Mo Ning koridorun uzak ucundan kameraya doğru yürür. Kamera aynı hızla geri hareket eder. Sadece ayak sesleri duyulur. [00:22.40-00:25.20] Mo Ning yürümeye devam eder: [Dudak Senkronizasyonu Kılavuzu] 'Son olarak, kapılara bakın. Mekansal ilişkiler karmaşıklaştığında, AI hata yapmaya meyillidir.' 'Acil Çıkış' tabelası duvarda sabit kalmalı ve bozulmamalıdır. [00:25.20-00:28.50] Sahne 7: Yanlış kapı (Kapı Fiziği Finali). [00:25.20-00:25.80] Mo Ning soldaki bir kapının önünde durur ve ona doğru döner. El Yakın Çekimi: Metal kolu doğru bir şekilde kavrar ve aşağı bastırır. Doğru parmak sayısı; el-kol teması nettir. [00:25.80-00:26.30] Orta Çekime geçiş. Tuttuğu kapı açılmaz, ancak yanındaki kapı -kimse tarafından dokunulmadan- hafifçe açılır. Kapılar birbirinden ayrı kalır; birleşme olmaz. Mo Ning sol kolu bastırır ama sağ kapı açılır. [00:26.30-00:27.00] Mo Ning kendi koluna bakar, sonra yavaşça kendi kendine açılan kapıya başını çevirir. Hafifçe kaşlarını çatar, sonra kameraya bakar: [Dudak Senkronizasyonu Kılavuzu] 'Gördünüz mü? Kapıların kafası bile karışık.' Tonu sakindir, 'Söylemiştim' havasındadır. [00:27.00-00:27.80] Yan kapı kendi kendine yavaşça kapanır. Mo Ning gözlerini devirir ve kolunu bırakır: [Dudak Senkronizasyonu Kılavuzu] 'Boş ver, gidiyorum.' Tonu yorgun ve kararlıdır. [00:27.80-00:28.50] Mo Ning orijinal kapıyı tekrar iter ve bu sefer normal şekilde açılır. Odaya girer. Kamera koridorda kalır. Çerçeveden çıktığında, kapı ağır bir 'güm' sesiyle hızla kapanır. [00:28.50-00:30.00] Sahne 8: Bitiş (Siyaha Sert Kesiş). Kapının gümlediği an, sonuna kadar siyaha kesilir. Odanın içinde uzaklaşan ayak sesleri duyulur. Son 0,5 saniye sessizdir. Metin veya logo yok. [Diyalog Özeti] Mo Ning: 'Bir videonun AI tarafından yapıldığını nasıl anlarsınız?', 'Sadece çözünürlüğe bakmayın; önce hayvanlara bakın...', 'Mesela şunu ele alalım.', 'Anlayabiliyor musunuz?', 'Hareket hatalı ve gözler doğru değil.', 'Bir bakışta sahte olduğu belli oluyor.', 'İkincisi, fiziksel etkilere bakın...', 'Sonra karakter tepkilerine bakın.', 'Az önceki tepki çok koordineliydi; belli ki abartılıydı.', 'Son olarak, kapılara bakın...', 'Gördünüz mü? Kapıların kafası bile karışık.', 'Boş ver, gidiyorum.' [Ses Gereksinimleri] Mo Ning için tutarlı bir Çince ses, doğal ve net. Mekanik veya robotik tonlar yok. Ortam sesleri: rüzgar, kuşlar, köpek nefes alıp vermesi, avluda havlamalar; dükkanda sohbet, tıkırtılar, sıçramalar ve çığlıklar; misafirhanede ayak sesleri ve kapılar. Arka plan müziği veya hazır gülüş efektleri yok. [Küresel Süreklilik] Karakterler baştan sona referans görselleriyle kesinlikle eşleşmelidir. Mo Ning aynı görünümü ve sesi korur. A Lan ve Teyze Wang sadece dükkanda; siyah köpek sadece avluda. Sahne geçişleri sert kesişler olmalıdır; erime veya bükülme yok.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092592678219214848/img/beNsya7sj4raVMQ9.jpg" width="600" alt="Çin Tarzı Deadpan Komedi Kısa Drama">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=9881)**
-
-**Yazar:** [John](https://x.com/johnAGI168) | **Kaynak:** [Link](https://x.com/johnAGI168/status/2092593100346519620) | **Yayınlandı:** Aug 26, 2026
-
----
-### 80'lerin Bilgisayar Kurdu Günlük Yaşamı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 1980'lerdeki bir bilgisayar tutkununun yaşamından nostaljik kareler yakalayan basit bir video istemi.
-
-#### 📝 İstem
-
-```
-80'lerin bilgisayar kurdunun bir günü, 8 farklı çekim, eğlenceli ve ilgi çekici
-```
-
-<img src="https://pbs.twimg.com/media/HQpghNxXMAA4g2P.jpg" width="600" alt="80'lerin Bilgisayar Kurdu Günlük Yaşamı">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=9873)**
-
-**Yazar:** [AIrina (Virtual Media Net)](https://x.com/airina_xyz) | **Kaynak:** [Link](https://x.com/airina_xyz/status/2092590944520400909) | **Yayınlandı:** Aug 26, 2026
-
----
-### Noir Anime Polis Merkezi İç Mekanı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gergin bir atmosfer yaratan, acil durum aydınlatması ve enkazla dolu, karanlık ve titrek ışıklı bir polis merkezi koridorunu tasvir eden sinematik bir anime video istemi.
-
-#### 📝 İstem
-
-```
-Sinematik anime kısa film klibi, 15 saniye. Karanlık polis merkezi iç mekanı, uzun titrek floresan koridorlar, cam bölmeler, ofisler, dosya dolapları ve masalar, titreyen beyaz ışıklarla karışan kırmızı acil durum aydınlatması, her yerde duman ve enkaz.
-```
-
-<img src="https://pbs.twimg.com/media/HQpP5-GWQAAR4i-.jpg" width="600" alt="Noir Anime Polis Merkezi İç Mekanı">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=9869)**
-
-**Yazar:** [TechieSA](https://x.com/TechieBySA) | **Kaynak:** [Link](https://x.com/TechieBySA/status/2092572936414666851) | **Yayınlandı:** Aug 26, 2026
-
----
-### Fantezi Büyücüsü ve Mekanik Baykuş
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Loş bir kütüphanede, parlayan minyatür bir güneş sistemi tutan bir büyücü ve beyaz mekanik bir baykuşun yer aldığı yüksek fantezi sahnesi.
-
-#### 📝 İstem
-
-```
-Süslü beyaz bir elbise ve kırmızı kadife pelerin giymiş, yüksek fantezi tarzında sarışın bir büyücünün sinematik dikey videosu. Loş bir kütüphanede elinde parlayan camgöbeği renginde minyatür bir güneş sistemi tutuyor. Büyücü, pelerinini savurarak izleyiciye dönüyor ve sıvı bir yüzeye dokunarak mavi parıltılı dalgalar yaratıyor. Yanında, parlayan mavi gözlü beyaz mekanik bir baykuş kanatlarını açıyor ve zarif bir şekilde omzuna konuyor. Kamera yavaşça yakınlaşıyor, hiper detaylı, dramatik aydınlatma, 8k çözünürlük, akıcı 60fps fantezi hareketi.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092562857355624448/img/mssOdDklLPTtqN6l.jpg" width="600" alt="Fantezi Büyücüsü ve Mekanik Baykuş">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=9871)**
-
-**Yazar:** [Julia](https://x.com/juliaevee) | **Kaynak:** [Link](https://x.com/juliaevee/status/2092562908966182982) | **Yayınlandı:** Aug 26, 2026
-
----
-### Grumblebert Flowerbottom Bahçe Sohbeti
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 Mini için, huysuz bir karakter ile yerel bir kadın arasında geçen bahçe sohbetini konu alan çok sahneli bir anlatı istemi.
-
-#### 📝 İstem
-
-```
-Ana Karakter: Grumblebert Flowerbottom @[image1] @[image2] (yüz hatlarını ve görsel stili tutarlı tutun)
-Konum: Grumblebert'in bahçesinin yanındaki köy yolu. Bulutlu bir öğleden sonra. Dost canlısı yerel bir kadın onun yanında yürüyor.
-
-Sahne 1 — 0:00–0:02 Kadın bulutlu gökyüzüne bakar. Kadın: “Ne güzel hava.”
-Sahne 2 — 0:02–0:03.5 Grumblebert anında kaşlarını çatar. Grumblebert: “Çok kuru.”
-Sahne 3 — 0:03.5–0:05 Kadın başını sallar. Kadın: “Daha sonra yağmur yağabilir.”
-Sahne 4 — 0:05–0:06.5 Grumblebert bu ihtimalden rahatsız olmuş görünür. Grumblebert: “Çok fazla yağmur.”
-Sahne 5 — 0:06.5–0:08.5 Kadın duraksar. Kadın: “Peki sen aslında nasıl havayı seversin?”
-Sahne 6 — 0:08.5–0:10.5 Grumblebert bir an için ciddi ciddi düşünür.
-Sahne 7 — 0:10.5–0:13 Yakın çekim. Grumblebert: “Dün kabul edilebilirdi.”
-Sahne 8 — 0:13–0:15 Kadın ona dik dik bakar. Kadın: “Dün bütün gün şikayet ettin.” Grumblebert yürümeye devam eder. Grumblebert: “Tam olarak öyle. Tutarlıydı.”
-```
-
-<img src="https://pbs.twimg.com/media/HQpB9udXUAAR8bu.jpg" width="600" alt="Grumblebert Flowerbottom Bahçe Sohbeti">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=9863)**
-
-**Yazar:** [AIrina (Virtual Media Net)](https://x.com/airina_xyz) | **Kaynak:** [Link](https://x.com/airina_xyz/status/2092557400792322290) | **Yayınlandı:** Aug 26, 2026
-
----
-### Sabah Cilt Bakım Rutini Vlog Metni
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ürün etkileşimi ve cilt bakım adımlarını içeren, tutarlı bir 15 saniyelik güzellik vlog'u oluşturmak için tasarlanmış karmaşık, metin tabanlı bir video istemi.
-
-#### 📝 İstem
-
-```
-Baştan sona aynı genç kadının yer aldığı, 15 saniyelik, ultra gerçekçi, 9:16 formatında bir güzellik vlog'u oluşturun. Yüzünü, saç stilini, ten rengini, kıyafetini ve kimliğini tamamen tutarlı tutun.
-
-Sahne: Büyük bir aynaya sahip, aydınlık, temiz ve modern bir banyo; yumuşak sıcak ışıklandırma, minimal dekor ve küçük bir yeşil bitki. Doğal el tipi akıllı telefon/vlog tarzı.
-
-0:00–0:03: Genç kadın bir elinde telefonuyla ayna karşısında selfie çekiyor. Gülümsüyor ve Himalaya Purifying Neem Yüz Yıkama Jeli'ni tanıtarak tüpü net bir şekilde kameraya doğru tutuyor.
-Ekranda beliren metin: “Sabah Cilt Bakımım 
-
-0:03–0:05: Yüz yıkama jelinin yakın çekimi. Ürünü açıyor ve avucuna az miktarda sıkıyor. Gerçekçi jel dokusunu gösterin.
-Ekranda beliren metin: “Neem + Zerdeçal”
-
-0:05–0:09: Yüz yıkama jelini yanaklarına ve alnına nazikçe uygulayıp doğal bir şekilde masaj yapıyor. Ardından lavaboda, gerçekçi su hareketleriyle yüzünü duruluyor.
-
-0:09–0:12: Taze ve temiz bir ciltle aynaya bakıyor, yanağına dokunuyor ve gülümsüyor.
-Ekranda beliren metin: “Taze & Temiz ”
-
-0:12–0:15: Ürünü yüzünün yanında tutuyor, sevimli bir şekilde baş parmağıyla onay işareti yapıyor, ardından banyo tezgahında, küçük bir bitki ve havlunun yanındaki temiz bir ürün çekimiyle bitiriyor.
-Ekranda beliren metin: “Cilt Bakımı Tercihim ”
-
-Tarz: Fotogerçekçi, doğal cilt dokusu, gerçekçi saç ve eller, otantik akıllı telefon çekimi, hafif el hareketi, yumuşak sinematik ışıklandırma, gerçekçi yansımalar, 4K, CGI görünümü yok, bozulmuş yüz veya ürün ambalajı yok.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092555353921863680/img/KpzEUOYWYP0cgVjU.jpg" width="600" alt="Sabah Cilt Bakım Rutini Vlog Metni">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=9875)**
-
-**Yazar:** [liana](https://x.com/Lianaalane) | **Kaynak:** [Link](https://x.com/Lianaalane/status/2092555394304622883) | **Yayınlandı:** Aug 26, 2026
-
----
-### Vintage Japon MiniDV Seyahat Anısı
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 2000'lerin MiniDV tarzını yansıtan, atmosferik grenli dokular ve samimi kamera hareketleriyle Japonya'ya yapılan birinci şahıs bakış açılı bir geziyi konu alan nostaljik bir video istemi.
-
-#### 📝 İstem
-
-```
-Aynı yetişkin kadın karakteri referans alın; açık sarı uzun düz saçlarını, hafif perçemlerini, koyu mavi çiçekli saç tokasını, yüz hatlarını ve vücut oranlarını koruyun. Film boyunca, Image1'deki açık krem rengi, ince askılı, işlemeli uzun elbiseyi giymeye devam etsin; elbise yumuşak saten dokuya, açık altın rengi çiçek işlemelerine ve dantel detaylarına sahip olsun.
-
-Konum: Japon banliyö tren istasyonu, çayır, eski kitapçı/manga dükkanı, Japon ara sokağı, ramen dükkanı, geyikli park, gün batımı çayırı, hareketli gece caddesi. Genel his, bir kız arkadaşla geçirilen bir günün, hızlıca kurgulanmış seyahat anısı parçaları gibi olmasıdır.
-
-Görsel Stil: Canlı çekim, Japon gençlik seyahat anısı, rüya gibi, doğal, samimi, anlık fotoğraf hissi. Filmin tamamı 2000'lerin vintage MiniDV ev videosu kalitesini yansıtır: yumuşak odak, düşük kontrast, hafif soluk parlak alanlar, doğal gren, yumuşak hale etkisi, hafif otomatik pozlama değişimleri ve belirgin hareket bulanıklığı.
-
-Kamera Stili: Birinci şahıs erkek arkadaş bakış açısı, yakın mesafe elde taşınan DV kamera, geniş açı, dengesiz kompozisyon, doğal sarsıntı ve hızlı otomatik odaklama. Kamera hikayede ikinci bir karakter görevi görür; kız sürekli kameramana bakacak, ona yaklaşacak ve dönüp onu arayacaktır. Farklı sahneler arasında hızlı sert kesmeler kullanılır.
-
-Zaman Çizelgesi (20 sn):
-
-00:00–00:04.5 → Japon banliyö istasyonu. İlk kareden itibaren tehlike mevcut: kız rayların yakınında duruyor, vücudu hafifçe öne eğilmiş, bir eliyle alnını güneşten koruyor. Kırmızı beyaz bir Japon banliyö treni hızla ona doğru geliyor. Erkek arkadaşın bakış açısı hemen uzanıp kızın üst kolunu yakalar ve tek bir sürekli hareketle onu kameraya doğru geri çeker. Kız belirgin bir şekilde yer değiştirir, 1–2 adım atar; erkek arkadaş doğal bir şekilde geri çekilir. O tam noktadan ayrıldığı anda tren hızla yanından geçer. Kız lense yakın çekilir, saçları ve elbisesi rüzgar basıncıyla savrulur, gözleri fal taşı gibi açılmış, dudakları şaşkınlıkla aralanmıştır.
-
-00:04.5–00:06.2 → Güneşli çayır, kızın elini tutan birinci şahıs bakış açısı ileri doğru hareket eder; kız kameramana bakar ve neşeyle güler, saçları ve elbisesi rüzgarda dalgalanır.
-
-00:06.2–00:07.5 → Japon eski kitapçısı, kitap raflarının arasından çekim; kız aniden başını uzatıp oyuncu bir gülümsemeyle kameraya bakar.
-
-00:07.5–00:08.5 → Krem rengi elbiseli kızın Japon yaya geçidinden geçişinin düşük açılı kaydı, eteği adımlarıyla doğal bir şekilde sallanır.
-
-00:08.5–00:09.7 → Dar Japon ara sokağı, kız önden yürür, arkasına bakar ve sonra yumuşak bir gülümsemeyle kameramana döner.
-
-00:09.7–00:10.8 → Ramen dükkanı, tüten ramen yakın planı, odak doğal bir şekilde karşıda oturan kıza kayar.
-
-00:10.8–00:12.0 → Manga dükkanı, kız raftan bir manga çeker ve okur.
-
-00:12.0–00:13.1 → Japon parkında birinci şahıs bakış açısıyla geyiklere kraker yedirme, kız arka plandaki çayırda bulanık bir şekilde görünür.
-
-00:13.1–00:14.1 → Kız sessizce oturup manga sayfalarını çevirir, ellerin, sayfaların ve elbise detaylarının yakın planı.
-
-00:14.1–00:15.6 → Gün batımı çayırı, sıcak altın rengi arkadan aydınlatma, kız geyiklerin yakınında durup kameramana döner.
-
-00:15.6–00:17.5 → Gece caddesi, kız ileri doğru koşar, arkasına bakar; elde taşınan kamera güçlü hareket bulanıklığıyla onu takip eder.
-
-00:17.5–00:18.4 → İşlemeli elbise ve dantel gibi yaşam tarzı detaylarının hızlı kesmeleri.
-
-00:18.4–00:20.0 → 2000'lerden kalma bir dijital kamera kadraja girer, açılır LCD ekranında aynı kız görünür. Hala çekildiğini fark eder, oyuncu bir şekilde gülümser ve ekran beyaza kararır.
-
-Ses: Sadece gerçek ortam sesleri: raylardaki tren, rüzgar basıncı, ayak sesleri, sayfa çevirme, park ortamı, gece insanlar/araçlar, doğal nefes alışverişleri ve kahkahalar. Arka plan müziği yok, altyazı yok.
-
-Amaç: Yıllar sonra Japonya gezisine ait eski bir MiniDV kasetini bulmak gibi—'trene yakın çarpışma' kancasıyla başlayıp samimi gençlik seyahat anılarına geçiş yapmak.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092548374046367744/img/4MLvh2iKwqy5ZGOs.jpg" width="600" alt="Vintage Japon MiniDV Seyahat Anısı">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=9883)**
-
-**Yazar:** [小宇Chengzi](https://x.com/Chengzilhy) | **Kaynak:** [Link](https://x.com/Chengzilhy/status/2092551539814723758) | **Yayınlandı:** Aug 26, 2026
-
----
-### Su Yarışması Yengeç Çökme (Squat) Mücadelesi
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Bir yarışmacının belirli bir 'yengeç çökme' deliğine sahip hareketli bir duvarda ilerlediği 15 saniyelik su yarışması sekansı için oldukça detaylı sinematik bir istem.
-
-#### 📝 İstem
-
-```
-SEEDANCE 2.5 | Su İnsansı Duvar Mücadelesi
-
-[Stil] Canlı aksiyon su yarışması, parlak doygun renkler, doğal yaz ortası öğle ışığı, profesyonel yayın kalitesinde fotoğrafçılık, hızlı tempolu kurgu, hafif komedi ritmi, gerçekçi yerçekimi ve su fiziği, 4K HD.
-[Süre] 15 saniye
-[Format] 16:9 geniş ekran
-[Dil] Çince erkek dış ses, ana karakterin resmi bir diyaloğu yok, sadece nefes alışverişi, çaba sesleri ve suya düşmeden önce kısa çığlıklar; altyazı yok.
-[Sahne] Büyük açık hava su yarışması arenası, berrak mavi bir yüzme havuzunun ortasına kurulmuş uzun turuncu bir mücadele platformu. Platformun sonunda, gizli bir ray üzerinde sabit hızla hareket eden kalın, açık mavi insansı bir duvar; duvarın merkezinde, başı ortalanmış, dirsekleri yatay olarak açılmış, elleri başını tutan ve bacakları iki yana açık bir 'yengeç çökme' insansı deliği var. Havuzun karşısında, büyük beyaz bir güneşlik ile kaplı, seyircilerle dolu yarım daire şeklinde bir tribün bulunuyor.
-
-[Karakter Kartı]
-@Image1, su yarışmasında bir yarışmacı olan 'Xia Yan'. Karakterin yüzü, vücut şekli, saç stili, makyajı, kıyafeti ve aksesuarları, herhangi bir görünüm öğesi eklenmeden veya değiştirilmeden referans görselden tamamen devralınmıştır.
-Karakter Hedefi: Deliğin pozunu hızlıca anlamak ve hareketli insansı duvar gelmeden önce vücudunu içinden geçirmek.
-Performans Yörüngesi: Kendinden emin bir görünüm → Bulmacayı gördükten sonra kısa bir şok → Aceleyle poz düzeltme → Başardığını sanma → Boyutun yanlış olduğunu fark etme → Duvar tarafından suya itilme → Sudan çıktıktan sonra ikna olmamış bir şekilde kameraya bakma.
-Performans Stili: Gerçekçi yarışma programı tepkisi, kasıtlı olarak sevimli değil, ilk saniyeden itibaren abartılı değil; tüm yüz ifadesi değişiklikleri duvar hareketi, fiziksel temas ve suya düşme sonucu ile tetiklenmelidir.
-
-[00:00-00:02.00] Çekim 1: 2. Seviye Başlangıcı (Yakın Plan Kanca)
-Ön yakın plan: Xia Yan, arkasında havuz ve açık mavi insansı duvar ile turuncu platformun merkezinde duruyor. Lens, arka planı sıkıştırmak için orta-telefoto odak uzaklığı kullanıyor, seyirci koltukları hafif bulanık.
-
-[00:00-00:00.80]
-Xia Yan doğrudan kameraya bakıyor, kendinden emin ve sakin bir gülümsemeyi koruyor, omuzları doğal bir şekilde gevşek. Arka plandan mekanik bir cihazın çalışma sesi ve düşük bir motor sesi geliyor.
-[Çince Erkek Dış Ses] '2. Seviye, Başla!'
-Seslendirme, haber spikeri tonunda değil, canlı bir yarışma programı sunucusu gibi enerjik ve canlı.
-
-[00:00-00:00.80-00:02.00]
-Mekanik çalışma sesi yavaş yavaş yaklaşıyor. Xia Yan'ın gülümsemesi duruyor, gözleri aniden büyüyor ve dudakları doğal bir şekilde küçük bir daire oluşturuyor; önce kameraya bakıyor, ardından arkasındaki mücadele duvarını gözlemlemek için gözlerini hızla çeviriyor.
-Tepkiler önceden ortaya çıkamaz; mekanik ses başladıktan sonra güven duygusundan şaşkınlığa geçiş yapmalıdır.
-[Çince Erkek Dış Ses] 'Bu seferki—Süper Yengeç Çökme!'
-'Süper Yengeç Çökme' ifadesinin ses seviyesi artıyor ve sonu uzatılıyor, buna kısa bir yarışma programı pirinç nefesli çalgı ses efekti eşlik ediyor.
-
-[00:02.00-00:05.00] Çekim 2: Pozu anlama, pozisyon alma (Geniş Çekim → Arka Üç Çeyrek)
-Geniş çekime sert kesme: Turuncu platformu, havuzu, açık mavi insansı duvarı ve seyirci koltuklarını tamamen gösterir. İnsansı duvar, platformun uzak ucundan Xia Yan'a doğru sabit hızla hareket eder. Hız boyunca dikey kalır, hızı sabittir.
-
-[00:02.00-00:03.00]
-Xia Yan, insansı deliğe dönmek için hızla arkasına döner, önce baş, dirsekler, gövde ve bacakların konumlarını doğrulamak için ana hatları yukarıdan aşağıya tarar.
-Duvar panelinin önündeki konumlandırma alanına doğru birkaç adım koşar, ayakları platformla gerçekçi bir temas kurar, kayma veya ışınlanma olmaz.
-
-[00:03.00-00:05.00]
-Arka üç çeyrek açı: Xia Yan ellerini başının arkasına kaldırır, parmaklarını kenetler, dirseklerini sağa ve sola açar; ayaklarını hızla iki yana açar, dizlerini dışarı çıkarır, ağırlık merkezi yavaş yavaş aşağı iner.
-[Çince Erkek Dış Ses] 'Bacakları aç, ağırlık merkezini alçalt, eller başın arkasına!'
-Dış sesin ritmi eylemle senkronizedir: 'Bacakları aç' ayakların iki yana hareketine karşılık gelir; 'ağırlık merkezini alçalt' vücudun derin bir çökmeye girmesine karşılık gelir; 'eller başın arkasına' ellerin başın arkasında kenetlenmesine karşılık gelir. Eylemler sırayla tamamlanmalıdır; üç eylemin de aynı karede görünmesi yasaktır.
-
-[00:05.00-00:09.00] Çekim 3: Doğru poz, yanlış boyut (Simetrik Ön Çekim)
-Duvar panelinin önünden simetrik bir geniş çekime geçiş. Kamera, Xia Yan'ı insansı delikten çeker; başı, kolları, gövdesi ve bacakları ilgili açıklıklarla hizalanmıştır.
-
-[00:05.00-00:06.20]
-Xia Yan ellerini başının arkasında ve geniş bir derin çökmüş pozisyonda tutar, adımlarını sağa sola ayarlar, ardından vücudunu deliğin merkezine doğru birkaç santimetre hareket ettirir. Önce ayak pozisyonunu kontrol etmek için aşağı bakar, sonra yaklaşan duvara bakar. Dudakları hafifçe birbirine bastırılmış, nefes alışverişi hızlanmıştır.
-
-[00:06.20-00:07.50]
-Duvar paneli sabit hızla ileri doğru hareket etmeye devam eder. Xia Yan ağırlık merkezini daha da aşağı bastırır, dirseklerinin ve bacaklarının deliğin kenarlarına mümkün olduğunca yakın oturmasını sağlar. Çabayla gözlerini kısaca kapatır, omuzları hafifçe kalkar; gözlerini tekrar açtığında göz bebekleri büyümüştür, dudakları açıktır, deliğin beklenenden daha dar olduğunu fark eder.
-[Çince Erkek Dış Ses] 'Poz çok standart—'
-Cümlenin ilk yarısı, sanki başarısını duyuruyormuş gibi heyecanlı duyulur.
-
-[00:07.50-00:09.00]
-Duvar paneli giderek yaklaşır. Pozunu korur, hareket etmeye cesaret edemez, sadece her iki taraftaki deliğin kenarlarını gözlemlemek için gözlerini hafifçe yuvarlar. Deliğin kenarları dirseklerine ve bacaklarına yavaş yavaş yaklaşır ancak henüz temas etmemiştir. Yüzündeki güven yavaşça kaybolur, ağzı hafifçe aralıktır, nefes alışverişi yarım vuruşluğuna durur.
-[Çince Erkek Dış Ses] 'Ama bu delik... biraz küçük gibi!'
-'Ama bu delik' ifadesinden sonra yaklaşık 0,3 saniyelik bir duraklama; 'biraz küçük' ifadesinin ses seviyesi düşer, yaklaşan bir sorun hissi verir. Arka plan müziği burada ağır bir vuruş için durur, geriye sadece duvarın mekanik sesi ve seyircilerin nefes alışverişleri kalır.
-
-[00:09.00-00:10.50] Çekim 4: İçinden geçememe (Yan Çekim / Fiziksel Komedi)
-Platformun yanından, insansı duvarı, Xia Yan'ı ve arkasındaki havuz kenarını gösteren orta-geniş bir çekime geçiş.
-
-[00:09.00-00:09.50]
-Duvar paneli Xia Yan'ın konumuna ulaşır. Deliğin kenarı önce vücudunun dış kısmına hafifçe temas eder; tamamen geçemeyeceğini hemen fark eder, gözleri büyür, elleri başının arkasından kurtulur, avuç içleri destek arayarak öne bakar. Tepkiler temasla tetiklenmelidir; önceden ayağa kalkmak veya geriye yaslanmak yasaktır.
-[Çince Erkek Dış Ses] 'Ah hayır, sığmadı!'
-
-[00:09.50-00:10.50]
-Duvar paneli orijinal hızında ilerlemeye devam eder ve delikten geçemeyen Xia Yan, platformun kenarına doğru istikrarlı bir şekilde itilir. Ağırlık merkezi yavaş yavaş topuklarını geçer, ayakları önce platform üzerinde kısa bir mesafe kayar; sonra dizleri uzanır, vücudu geriye doğru eğilir ve dengesini korumak için kolları her iki tarafta hızla sallanır. Kenara ulaştığında, önce kenara yarı oturur, eylemsizlik nedeniyle bacakları yukarı kalkar, sonra tüm vücudu geriye doğru havuza düşer. Duvarın ani hızlanması ve Xia Yan'ın gönüllü olarak atlaması yasaktır; suya düşme, duvarın sürekli itişinden ve vücudun ağırlık merkezinin kaymasından kaynaklanmalıdır. Xia Yan platformdan ayrıldığı anda kısa, doğal bir 'Ah!' sesi çıkarır.
-
-[00:10.50-00:12.50] Çekim 5: Büyük su sıçraması (Su Etkisi / Gerçek Akışkan Fiziği)
-[00:10.50-00:11.20]
-Yan geniş çekim: Xia Yan'ın sırtı ve vücudunun arka kısmı önce su yüzeyine temas eder, ardından bacakları. Giriş noktasında büyük beyaz bir sıçrama patlar, su sütunları yukarıya ve her iki yana yayılır; ince damlacıklar gerçekçi paraboller oluşturur, daha ağır su kütleleri hızla geri düşer.
-[Çince Erkek Dış Ses] 'Yine de suya itildi!'
-'Suya' ifadesi en büyük sıçrama ile belirir. [Ses Efektleri] Düşük perdeli suya giriş, büyük sıçrama sesi, seyirci nefes alışverişleri.
-
-[00:11.20-00:12.50]
-Kamera giriş alanında kalmaya devam eder. Xia Yan tamamen su altındadır, geriye sadece beyaz köpük, yayılan dalgalar ve yavaşça düşen damlacıklar kalır. Köpük yoğundan seyreğe döner, dalgalar havuzun kenarlarına yayılır. İnsansı duvar platformun kenarında durur, düşmemeli, bükülmemeli veya suya düşmemelidir. Arka plan müziği kısa bir süre durur, ardından hafif bir davul vuruşuyla yeniden başlar.
-
-[00:12.50-00:15.00] Çekim 6: İkna Olmamış Geri Dönüş (Su seviyesinden yakınlaştırma)
-Su yüzeyine yakın bir ön orta çekime geçiş.
-
-[00:12.50-00:13.20]
-Xia Yan su altından yüzeye çıkar, önce başı, sonra omuzları. Gözlerini kapatır ve bir nefes verir, yüzünden ve çenesinden sürekli su damlar. Suda tırmanmak ve vücudunu sabit tutmak için kollarını açar. Islak su sadece yüzey durumunu değiştirebilir, karakterin yüzünü, saç yapısını, kıyafet yapısını veya kimlik özelliklerini değiştiremez.
-
-[00:13.20-00:14.00]
-Xia Yan gözlerini açar, onaylar
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092535890736205824/img/Xp0GQ6C-OnRpTlfo.jpg" width="600" alt="Su Yarışması Yengeç Çökme (Squat) Mücadelesi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=9878)**
-
-**Yazar:** [John](https://x.com/johnAGI168) | **Kaynak:** [Link](https://x.com/johnAGI168/status/2092536240436363328) | **Yayınlandı:** Aug 26, 2026
-
----
-### Saatten Kelebeğe Mekanik Dönüşüm
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gerçek bir mekanik saati, mekanik ses efektleriyle bir makine kelebeğine dönüştüren Transformers tarzı bir dönüşüm sekansı.
-
-#### 📝 İstem
-
-```
-Bu saati (Görsel 1) Transformers film tarzında bir makine kelebeğine (Görsel 2) dönüştürün. Müzik olmasın. Sadece mekanik dönüşüm seslerini kullanın.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092487083332186113/img/pNRLhCy_dft_i_Vi.jpg" width="600" alt="Saatten Kelebeğe Mekanik Dönüşüm">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=9817)**
-
-**Yazar:** [Zidan 子丹](https://x.com/liluocheng13) | **Kaynak:** [Link](https://x.com/liluocheng13/status/2092487184628752856) | **Yayınlandı:** Aug 26, 2026
-
----
-### Zombi Ormanı Bisiklet Takip Sahnesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir kadının bisikletle sisli ve engebeli bir ormanda zombi sürüsünden kaçtığı yüksek hızlı bir takip sahnesi için ultra gerçekçi sinematik istem.
-
-#### 📝 İstem
-
-```
-Arka planda büyük bir gölgeli zombi sürüsü tarafından kovalanırken, yoğun ve sisli bir ormanda yüksek hızla kırmızı bir dağ bisikletini çaresizce süren genç bir kadının ultra gerçekçi sinematik aksiyon sahnesi. Rüzgarda dramatik bir şekilde savrulan uzun siyah saçları var; üzerinde vücuda oturan beyaz kolsuz bir üst, siyah spor şort ve beyaz kısa botlar bulunuyor. Gidonları sıkıca kavrarken yüz ifadesi odaklanmış, korkmuş ve kararlı. Bisiklet, devasa ağaç kökleri, yapraklar ve tozla kaplı engebeli bir toprak yolda hızla ilerliyor. Yoğun bir anda, bisikleti devrilmiş büyük bir ağaç kökünün üzerinden uçuruyor ve her iki tekerlek de tamamen havaya kalkıyor. Dinamik düşük açılı takip çekimi, dramatik hareket bulanıklığı, uçuşan toz ve yapraklar, uzun ağaçların arasından süzülen güneş ışığı, atmosferik orman sisi, gerçekçi gölgeler, yüksek hızlı aksiyon fotoğrafçılığı, sığ alan derinliği, sinematik renk düzenleme, fotogerçekçi cilt ve kumaş dokuları, ultra detaylı, 8K, HDR, profesyonel Hollywood hayatta kalma-gerilim sinematografisi, 85mm lens, f/1.8, dikey 9:16 kompozisyon.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092481916998189056/img/D0Yo3I7tulo6VRW9.jpg" width="600" alt="Zombi Ormanı Bisiklet Takip Sahnesi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=9836)**
-
-**Yazar:** [AIwithMinal](https://x.com/AIwithMinal) | **Kaynak:** [Link](https://x.com/AIwithMinal/status/2092482098657644655) | **Yayınlandı:** Aug 26, 2026
-
----
-### Saç Serumu Güzellik Reklamı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gerçekçi ışıklandırma ve hareketlerle saç dönüşümü sekansını içeren 15 saniyelik bir güzellik reklamı için detaylı video istemi.
-
-#### 📝 İstem
-
-```
-Ahşap duvarlı, jaluzili büyük pencereli ve doğal güneş ışığı alan aydınlık, modern bir banyoda uzun koyu kahverengi saçlı genç bir Doğu Asyalı kadının yer aldığı, 15 saniyelik gerçekçi dikey güzellik reklamı videosu. Üzerinde basit bej rengi fitilli bir atlet var ve hafif pembe dudaklarıyla doğal, ışıltılı bir makyaja sahip. Videoya, altın pompalı ve beyaz etiketli buzlu cam bir sprey şişesini tutarak, hafifçe yana bakarken kameraya parlak bir şekilde gülümseyerek başlıyor. Ekranda şu yazı beliriyor: “Saçımı Yeniliyorum ✨”. Coşkuyla konuşuyor: “Sabahları saçınız kuru ve dağınık görünüyorsa bunu deneyin: sadece küçük bir serum bile büyük fark yaratıyor!” Avucuna az miktarda beyaz serum pompalıyor, ardından parmaklarını saçlarının arasından geçirerek ürünü uyguluyor. Metin “Pürüzsüz ve Elektriklenmeyen ✨” olarak değişiyor. Saçını savurup düzeltiyor ve dönüşümü gösteriyor. Ardından, gülümseyerek ve konuşarak her iki elini de artık parlak, pürüzsüz ve ipeksi saçlarının arasından geçiriyor: “Bakın, saçım artık ne kadar pürüzsüz ve parlak görünüyor!” Metin “Taze Saç Görünümü ✨” olarak değişiyor. Saçlarını neşeyle ve kendine güvenerek savurmaya devam ediyor. Final metni beliriyor: “Dene ✨”. Şişeyi tekrar havaya kaldırıp kameraya gülümseyerek şöyle diyor: “Bu kesinlikle sabah rutinimin bir parçası olacak.” Yumuşak doğal ışıklandırma, sıcak gün batımı ışığı, yüksek kaliteli gerçekçi cilt dokusu, sinematik güzellik reklamı tarzı, akıcı kamera hareketleri, 9:16 dikey format, 15 saniye süre.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092478623332909056/img/Hs5W9Dc0SSAMDyL8.jpg" width="600" alt="Saç Serumu Güzellik Reklamı">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=9830)**
-
-**Yazar:** [Noor](https://x.com/noorlewisx) | **Kaynak:** [Link](https://x.com/noorlewisx/status/2092478694078251087) | **Yayınlandı:** Aug 26, 2026
-
----
-### Sinematik Görsel Stil Ayarları
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Doygunluğu azaltılmış sinematik bir görünüm için en boy oranını, kare hızını ve ışıklandırmayı tanımlayan teknik bir stil istemi.
-
-#### 📝 İstem
-
-```
-FORMAT VE GÖRSEL STİL
-
-16:9 en boy oranı, 1920×1080 yerel çözünürlük, 24fps, letterbox (siyah bant) içermeyen tam kare görüntü. Soğuk, doygunluğu azaltılmış renk paleti, kontrollü sinematik ışıklandırma, yumuşak vurgular, derin gölgeler, incelikli film
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092462204930973696/img/MGfx4SbyvJhy5JxT.jpg" width="600" alt="Sinematik Görsel Stil Ayarları">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=9828)**
-
-**Yazar:** [Token360.ai](https://x.com/IronEntrepreneu) | **Kaynak:** [Link](https://x.com/IronEntrepreneu/status/2092462500117614847) | **Yayınlandı:** Aug 26, 2026
-
----
-### Lüks Otel Gerilim Sekansı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Karakter tutarlılığı için görsel referans kullanılan, koridorda geçen bir dövüş sahnesini konu alan anlatısal bir video istemi.
-
-#### 📝 İstem
-
-```
-Gerçek çekim bir gerilim sahnesinde Sue, lüks bir otelin asansöründen çıkıyor ve on maskeli saldırgan onu durdurmaya çalışırken koridor boyunca çıplak elleriyle savaşıyor.
-
-<<<image_1>>>, Sue'nun dış görünüşü için tek referans kaynağıdır. Sue, görseldeki kıyafetin aynısını giymektedir,
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092461422131253248/img/kP4WTHZoLe0RuJP8.jpg" width="600" alt="Lüks Otel Gerilim Sekansı">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=9829)**
-
-**Yazar:** [Zephyra Leigh](https://x.com/ZephyraLeigh) | **Kaynak:** [Link](https://x.com/ZephyraLeigh/status/2092461819617333592) | **Yayınlandı:** Aug 26, 2026
-
----
-### Bilim Kurgu Kısa Filmi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Birbirine bağlı dört adet 30 saniyelik çekimden oluşan, 2 dakikalık Hollywood tarzı bir bilim kurgu filmi için kapsamlı bir istem.
-
-#### 📝 İstem
-
-```
-TOPLAM SÜRE: 2 DAKİKA
-YAPI: 4 BAĞLANTILI ÇEKİM, HER BİRİ 30 SANİYE
-EN-BOY ORANI: 16:9
-STİL: PREMIUM FOTOREALİSTİK HOLLYWOOD BİLİM KURGU
-
-İki kişi hakkında 2 dakikalık eksiksiz bir sinematik kısa film oluşturun
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092449384080576512/img/wEBevemlVAq5GgV2.jpg" width="600" alt="Bilim Kurgu Kısa Filmi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=9838)**
-
-**Yazar:** [Caden Flux](https://x.com/Caden_Flux) | **Kaynak:** [Link](https://x.com/Caden_Flux/status/2092450306546094558) | **Yayınlandı:** Aug 26, 2026
-
----
-### Dağ Manastırı 2.5D Animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Alacakaranlıkta bir manastır avlusunun 2.5D animasyonu için, belirli bir CGI dışı estetiğe odaklanan detaylı bir istem.
-
-#### 📝 İstem
-
-```
-Sinematik 2.5D animasyon. Düz 2D çizgi film DEĞİL, kalın siyah ana hatlar YOK, cel-shading YOK, parlak CGI DEĞİL, Unreal Engine DEĞİL, fotorealizm YOK, plastik cilt dokusu YOK.
-
-DÜNYA: alacakaranlıkta yıkık dökük dağ manastırı avlusu, kırık taş sütunların arasından süzülen sis,
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092438049468846081/img/_xHl0qj1jGSHVj1c.jpg" width="600" alt="Dağ Manastırı 2.5D Animasyonu">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=9827)**
-
-**Yazar:** [PixieVerse](https://x.com/itsPixieVerse) | **Kaynak:** [Link](https://x.com/itsPixieVerse/status/2092439850184249474) | **Yayınlandı:** Aug 26, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -3598,6 +3663,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-06T03:29:03.266Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-07T09:16:50.541Z</sub>
 
 </div>
