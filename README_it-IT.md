@@ -68,9 +68,9 @@ Perché usare la nostra galleria?
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **6334** |
+| 📝 Totale prompt | **6358** |
 | ⭐ Prompt in evidenza | **6** |
-| 🔄 Ultimo aggiornamento | **2026-09-10** |
+| 🔄 Ultimo aggiornamento | **2026-09-11** |
 
 ---
 
@@ -361,6 +361,560 @@ Ultra realistico, energia ispirata a Fast and Furious, illuminazione fotorealist
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Scena nel deserto con gigantesca balena bianca
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt surreale e cinematografico per generare un video verticale che ritrae un minuscolo essere umano di fronte a una gigantesca balena bianca mitologica in un paesaggio desertico crepato.
+
+#### 📝 Prompt
+
+```
+Scena cinematografica ultra-realistica di una minuscola figura umana che cammina attraverso un infinito paesaggio desertico pallido e crepato verso una gigantesca creatura mitologica simile a una balena, che riposa pacificamente al suolo. L'enorme creatura presenta una pelle dettagliata e strutturata, pinne massicce, occhi sottili e una presenza surreale e onirica. Una nebbia soffusa circonda la scena, creando un'atmosfera misteriosa. Composizione grandangolare che enfatizza l'estrema differenza di scala tra l'umano e la creatura, toni monocromatici tenui, illuminazione soffusa e diffusa, ombre realistiche, profondità atmosferica, texture altamente dettagliate, fotografia cinematografica, 8K, HDR, fotorealistico, realismo fantasy epico, composizione verticale 9:16.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098284251066351616/img/dwKKtUnS3ueYNewb.jpg" width="600" alt="Scena nel deserto con gigantesca balena bianca">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10698)**
+
+**Autore:** [AIwithMinal](https://x.com/AIwithMinal) | **Fonte:** [Link](https://x.com/AIwithMinal/status/2098284373372018792) | **Pubblicato:** Sep 11, 2026
+
+---
+### Spot pubblicitario per un profumo di lusso
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt per uno spot pubblicitario di un profumo di alta gamma, elegante e raffinato, con una donna affascinante in un completo rosso acceso su sfondi architettonici surreali rosa e magenta.
+
+#### 📝 Prompt
+
+```
+Uno spot pubblicitario elegante e di alta gamma per un profumo, con una donna affascinante in un completo rosso acceso.
+Scena 1: La modella cammina con sicurezza lungo un corridoio surreale e infinito di archi concentrici nelle tonalità del rosa, del rosa antico e del magenta. Il pavimento è una superficie riflettente a specchio, cosparsa di ciliegie scure e lucide.
+Scena 2: Primo piano della donna che vaporizza un profumo di lusso ("La Vie Est Belle L'Elixir Very Cherry") sul collo; la nebbiolina cattura l'illuminazione drammatica su uno sfondo scuro.
+Scena 3: La modella siede a un bancone elegante sorseggiando un martini rosso scuro guarnito con ciliegie, incorniciata da una calda illuminazione d'ambiente.
+Scena 4: Ripresa macro di un tacco a spillo rosso affilato che schiaccia una ciliegia fresca su una superficie bianca immacolata, rilasciando un vivido schizzo di succo rosso intenso accanto alla boccetta di profumo.
+Scena 5: Inquadratura finale della modella che tiene la boccetta di profumo in vetro di lusso con entrambe le mani davanti al petto, fissando direttamente l'obiettivo, con l'aggiunta di una scritta elegante del brand ("LANCÔME LA VIE EST BELLE L'ELIXIR VERY CHERRY").
+Stile visivo: Illuminazione cinematografica, palette cromatica ricca di rosso cremisi e bacche scure, messa a fuoco ultra-nitida, estetica di lusso moderno, risoluzione 4K, 30fps, dettagli in slow-motion.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098262530405928960/img/YDEF0WgIpRBmoObg.jpg" width="600" alt="Spot pubblicitario per un profumo di lusso">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10692)**
+
+**Autore:** [Zarnish](https://x.com/ZarnishNael) | **Fonte:** [Link](https://x.com/ZarnishNael/status/2098262604267577783) | **Pubblicato:** Sep 11, 2026
+
+---
+### Mattina piovosa a Seoul in stile vintage MiniDV
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt completo per creare un'estetica nostalgica da video amatoriale MiniDV dei primi anni 2000, che ritrae una scena spontanea in un appartamento di Seoul.
+
+#### 📝 Prompt
+
+```
+Soggetto principale: Giovane donna coreana, 24 anni, naturalmente attraente, pelle realistica, trucco minimo, lunghi capelli scuri sciolti. Indossa una semplice t-shirt casual oversize e pantaloni da casa comodi. Mantieni la sua identità esatta, i tratti del viso, l'acconciatura, le proporzioni corporee e l'aspetto in tutta la sequenza.
+
+Luogo: Camera da letto di un vecchio e piccolo appartamento di Seoul in una tranquilla mattina di pioggia. Mobili in legno semplici, letto sfatto, una piccola scrivania, vestiti appoggiati casualmente nella stanza e una finestra bagnata dalla pioggia che si affaccia su palazzi sfocati. Pioggia costante all'esterno.
+
+Illuminazione e atmosfera: Accogliente, atmosfera da ora blu soffusa. Luce fredda blu-grigia proveniente dalla finestra piovosa mescolata a una debole lampada da comodino calda. Cielo nuvoloso scuro, colori tenui, ombre morbide e interni leggermente sottoesposti. Atmosfera sonnolenta e intima di una mattina di pioggia.
+
+Stile: Video amatoriale Sony MiniDV ultra-realistico dei primi anni 2000. Completamente spontaneo e non in posa. Movimento naturale a mano libera, leggero tremolio della fotocamera, inquadratura imperfetta, occasionale ricerca dell'autofocus, lievi variazioni di esposizione, colori sbiaditi, contrasto morbido, autentica compressione DV, sottile rumore digitale in condizioni di scarsa illuminazione e rumore del microfono. Movimento fluido e continuo in tempo reale. Nessun rallentamento, scatto, salto di fotogrammi, fotogrammi duplicati, effetto stop-motion, eccessiva sfocatura da movimento, cambi di velocità o aspetto a basso frame rate. Nessuna stabilizzazione o movimento cinematografico moderno.
+
+00:00–00:04: Lei è in piedi accanto alla scrivania mentre organizza casualmente alcune piccole cose, lanciando di tanto in tanto uno sguardo verso la finestra piovosa. La videocamera osserva da un'angolazione leggermente imperfetta.
+
+00:04–00:07: Sente improvvisamente arrivare uno starnuto. Si ferma, arriccia leggermente il viso e porta la mano verso il naso.
+
+00:07–00:10: Starnutisce naturalmente nella mano. Per un momento sembra un po' sorpresa dall'improvvisazione del gesto.
+
+00:10–00:13: Abbassa la mano e guarda direttamente verso la videocamera con un'espressione leggermente imbarazzata, rendendosi conto di essere ripresa.
+
+00:13–00:15: Accenna un piccolo sorriso divertito e ride piano di se stessa prima di voltarsi di nuovo verso la finestra.
+
+Audio: Solo suoni ambientali naturali: pioggia costante contro il vetro, lieve rumore della stanza, fruscio dei tessuti, traffico in lontananza, suoni tenui dell'appartamento e lo starnuto naturale. Niente musica, narrazione o effetti sonori aggiunti.
+
+Obiettivo: Far sembrare il tutto un piccolo momento accidentale catturato da un familiare con una vecchia videocamera MiniDV. Carino, naturale e sobrio. La sua reazione successiva deve sembrare genuina piuttosto che recitata.
+
+Qualità del movimento: Mantieni tutti i movimenti del corpo e della fotocamera fluidi e continui. Lo starnuto deve essere un movimento naturale e fluido, non esagerato o ripetuto. Il look vintage deriva dalle autentiche caratteristiche dell'immagine MiniDV, non da un frame rate basso o incoerente.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098085864387821568/img/IhFaLi3jiQcHWCN2.jpg" width="600" alt="Mattina piovosa a Seoul in stile vintage MiniDV">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10695)**
+
+**Autore:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Fonte:** [Link](https://x.com/iamahmedfaraz66/status/2098257726145171832) | **Pubblicato:** Sep 11, 2026
+
+---
+### Da griglia di immagini ad animazione MV di apertura
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt progettato per animare una griglia di 16 immagini in un video musicale in stile apertura di 30 secondi con una tempistica specifica dei segmenti.
+
+#### 📝 Prompt
+
+```
+Trasforma questa immagine in un MV in stile OP animandola in ordine dall'angolo in alto a sinistra come ①, poi ② alla sua destra, fino al 16 nell'angolo in basso a destra, per 2 secondi ciascuna.
+
+Seedance 2.5, 30 secondi, formato 16:9.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098063643548307456/img/ZolvCiAtP2xQyNHK.jpg" width="600" alt="Da griglia di immagini ad animazione MV di apertura">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10705)**
+
+**Autore:** [咲山(AIイラスト・AI動画垢)](https://x.com/z933TfmXkaISSVc) | **Fonte:** [Link](https://x.com/z933TfmXkaISSVc/status/2098063747470565699) | **Pubblicato:** Sep 10, 2026
+
+---
+### Video 4K di decorazioni lussuose per addio al nubilato
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt sofisticato per generare riprese cinematografiche di eventi di alta qualità, focalizzato specificamente su eleganti decorazioni per addio al nubilato con movimenti di camera fluidi e texture dettagliate.
+
+#### 📝 Prompt
+
+```
+Un video cinematografico di 15 secondi che mostra lussuose decorazioni per addio al nubilato in qualità 4K fotorealistica. Un movimento di camera ultra-fluido e stabilizzato scivola attraverso uno spazio per eventi elegante e di alto livello.
+
+0:00–0:05: Panoramica fluida ad altezza occhi che rivela un allestimento raffinato con stoviglie in porcellana pregiata, bicchieri con bordi dorati, composizioni floreali color pastello e candele affusolate tremolanti sopra un runner in seta trasparente.
+
+0:05–0:10: Macro dinamica che segue segnaposti in acrilico personalizzati, delicati nastri su tovaglioli di lino e bollicine di champagne che salgono in flûte di cristallo.
+
+0:10–0:15: Lento movimento in avanti verso un opulento sfondo floreale con eucalipto, rose bianche e peonie rosa pallido che circondano un'insegna al neon personalizzata, immersa in una luce ambientale calda e soffusa con un effetto bokeh cremoso.
+
+Stile e parametri: Rendering 3D fotorealistico, estetica elegante, color grading dai toni pastello tenui, illuminazione calda dell'ora d'oro, profondità di campo ridotta, 60fps, texture di vetro e tessuto ultra-dettagliate.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098040044149964800/img/G7tYESAln04L5nRC.jpg" width="600" alt="Video 4K di decorazioni lussuose per addio al nubilato">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10694)**
+
+**Autore:** [Maya](https://x.com/MayaAiCreator) | **Fonte:** [Link](https://x.com/MayaAiCreator/status/2098040077284745362) | **Pubblicato:** Sep 10, 2026
+
+---
+### Interazione di coppia in POV con iPhone a mano
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt seedance 2.0 altamente dettagliato per un video di 15 secondi in prima persona in stile iPhone che mostra una coppia che interagisce in un soggiorno, concentrandosi sulla coerenza dei personaggi e su oggetti di scena naturali come un bastoncino di biscotto.
+
+#### 📝 Prompt
+
+```
+15 secondi, formato verticale 9:16, riprese non elaborate con iPhone a mano. Un amante maschio siede accanto alla protagonista femminile, riprendendola con la fotocamera posteriore usando la mano destra mentre la sinistra interagisce con lei. Il telefono è tenuto leggermente sopra il livello del petto, vicino all'altezza degli occhi; lei sa di essere ripresa. Le sei sezioni seguenti sono segmenti di un'unica ripresa continua senza tagli cinematografici. I cambi di inquadratura derivano da sottili movimenti del polso, dal protendersi in avanti e dall'avvicinarsi della protagonista femminile. [Blocco Personaggio e Abbigliamento] La protagonista femminile è il Personaggio Femminile Asiatico Adulto #2 (ID: hf_20260617_232600_51d878a7-0e46-47e1-969e-b9d76667762e) con occhiali decorativi, che segue rigorosamente i preset del personaggio per viso, capelli e fisico. Indossa l'Abbigliamento Preset #1 con calze per tutta la durata. Il maschio è il suo amante, appaiono solo la voce fuori campo e la mano sinistra. [Scena] Soggiorno di un appartamento contemporaneo con arredi retrò: divano in pelle marrone, mobile TV in legno, pavimento in piastrelle, lampada a luce gialla calda, TV accesa a basso volume. [Qualità] Impostazioni automatiche, colori naturali, texture della pelle, rumore in condizioni di scarsa illuminazione, tremolio tipico delle riprese a mano. [Oggetti di scena] Un pacchetto di bastoncini di biscotto lunghi e sottili. [La sequenza d'azione include: 0-3s Routine di una giornata pigra, 3-5s Interazione giocosa, 5-7s Reazione timida, 7-10s Offrire un biscotto, 10-12s Chiederle di imboccarlo, 12-15s Imboccarlo con la bocca]. Audio naturale in cinese, sincronizzato con il labiale. Nessuna musica di sottofondo o voce fuori campo. Vincoli negativi: nessuna inquadratura in terza persona, nessun filtro di bellezza, nessuna moviola, nessuna sovrimpressione di testo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097711267511255041/img/GbK-oxFoJ7cDtxOb.jpg" width="600" alt="Interazione di coppia in POV con iPhone a mano">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10703)**
+
+**Autore:** [John](https://x.com/john87445528) | **Fonte:** [Link](https://x.com/john87445528/status/2098018656076845291) | **Pubblicato:** Sep 10, 2026
+
+---
+### Video Anime di una bancarella di Pho Cyberpunk
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt strutturato e dettagliato per generare una scena anime cinematografica di alta qualità raffigurante una futuristica bancarella di street food cyberpunk in un contesto del Sud-est asiatico.
+
+#### 📝 Prompt
+
+```
+[Definizione del Ruolo del Materiale] @Image1 definisce i tratti del viso, l'acconciatura, il colore dei capelli e l'abbigliamento della <Owner>. Lo sfondo, gli oggetti di scena, la composizione e la posa dell'immagine non vengono utilizzati. [Impostazioni Generali] Definizione del personaggio: La proprietaria è l'unica persona mostrata sullo schermo. Non mostrare clienti, passanti, mani, volti o spalle di altre persone. Il lato della bancarella riservato ai clienti rimane vuoto per tutta la durata, e gli sgabelli rotondi in legno sono liberi. La proprietaria sta sempre dietro il bancone e non si sposta mai davanti. Definizione del movimento: Tutti gli oggetti vengono spostati dalle mani della proprietaria. Ingredienti, ciotole, mestoli, pinze e bacchette non si muovono da soli, non cadono da fuori campo e non appaiono sospesi a mezz'aria. Quando aggiunge qualcosa alla ciotola, la mano della proprietaria deve portarlo nell'inquadratura, posizionarlo direttamente sopra la ciotola e poi rilasciarlo. La mano rimane nell'inquadratura finché l'oggetto non viene rilasciato. Linea di ripresa: In linea di principio, la telecamera si trova all'esterno, sul lato strada del bancone. L'unica eccezione è lo Stage 4, dove la telecamera viene posizionata all'interno attraverso un'apertura sul lato della bancarella vicino al pavimento, inquadrando la proprietaria da dietro. Negli altri stage, la telecamera non entra all'interno della bancarella; quando mostra la schiena o il collo della proprietaria, la telecamera non gira intorno, ma è la proprietaria a voltarsi verso la pentola. Seguire questa linea e, all'interno di tale raggio, variare significativamente l'angolazione, l'altezza e l'obiettivo in ogni stage per evitare di creare inquadrature simili. Utilizzare attivamente riprese dall'alto, dal basso vicino al pavimento, macro primi piani e medie inquadrature frontali. Definizione del Bokeh in Primo Piano: In ogni stage, posizionare qualcosa nella posizione più vicina alla telecamera e sfocarlo significativamente. Utilizzare solo questi 7 elementi per il bokeh in primo piano e non aggiungerne di nuovi: scie di vapore, fasci di spaghetti essiccati e strisce di vinile appese alle grondaie, bokeh di globi luminosi sospesi, il bordo anteriore del bancone, scie di gocce di pioggia che cadono dalle grondaie, piccole ciotole per condimenti, l'arco del bordo della ciotola. Posizionare il bokeh in primo piano ai bordi o nella metà inferiore dello schermo, senza coprire il soggetto. La messa a fuoco è sempre sulla proprietaria nel piano intermedio e sulle sue mani; il bokeh in primo piano è sfocato fino a perdere il contorno. Definizione della Parallasse: Il primo piano, il piano intermedio e lo sfondo si muovono a velocità diverse. Il vapore in primo piano e gli oggetti appesi scorrono e oscillano più velocemente e lentamente, la proprietaria e la bancarella nel piano intermedio non cambiano posizione, e le luci della città sullo sfondo si muovono a malapena. Negli stage in cui la telecamera si muove, il primo piano scorre rapidamente sullo schermo, il piano intermedio si sposta leggermente a causa della parallasse e lo sfondo appare stazionario. Ambiente: Una piccola bancarella di pho che si affaccia su un vicolo in una zona centrale del Sud-est asiatico in una notte del prossimo futuro. Una pioggia leggera continua a cadere e la superficie stradale riflette la luce. Dare priorità alla rappresentazione realistica di vapore, gocce d'acqua, il luccichio dell'olio nella zuppa, graffi sottili sull'acciaio inossidabile e vecchie macchie sul bancone di legno. La bancarella è una vecchia struttura artigianale in legno e metallo, con un lato aperto senza parete, che permette di vedere fino ai piedi della proprietaria. Fasci di spaghetti essiccati e strisce di vinile sbiadite pendono dalle grondaie, con nuova tecnologia innestata rozzamente in seguito. Stile: Anime teatrale giapponese a colori. Disegno cinematografico di alta qualità. Profondità di campo estremamente ridotta equivalente a un full-frame 35mm F1.4, con una sottile grana cinematografica. Color grading a due colori con teal freddo per la notte in città e ambra per la bancarella. Le ombre non sono schiacciate sul nero ma affondano in un grigio-bluastro. Solo l'ambra della bancarella e le luci artificiali dello sfondo hanno saturazione. Layout: La pentola fluttuante è sulla sinistra dello schermo, il vassoio in acciaio inossidabile con fette di manzo stufato è al centro, e la ciotola bianca profonda e le piccole ciotole per condimenti sono sulla destra. Il lavoro si muove da sinistra a destra. Mantenere questa relazione sinistra-destra. Tuttavia, solo nello Stage 4, poiché la telecamera è dietro la proprietaria, la sinistra e la destra sullo schermo sono invertite: la pentola appare sulla destra e la ciotola profonda sulla sinistra. Questo è corretto; in tutti gli stage tranne lo Stage 4, la pentola è a sinistra e la ciotola profonda a destra. Luce: La fonte di luce principale è un globo luminoso color ambra caldo appeso alla grondaia. Non ha filamenti; una sfera grande quanto un pugno fluttua e brilla all'estremità di un supporto. La luce ausiliaria è il blu freddo della notte cittadina. Mantenere l'illuminazione e l'ora del giorno coerenti per tutta la durata. Elementi del prossimo futuro: Solo i seguenti 6 elementi; tutti gli altri strumenti, ingredienti e azioni sono lo stesso lavoro manuale delle bancarelle moderne. 1. La pioggia si infrange in una nebbia sottile su un confine invisibile fuori dalle grondaie, scorrendo lateralmente invece di cadere. Il contorno del confine sfuma in colori iridescenti e l'interno della bancarella rimane asciutto. 2. Una linea di veicoli a levitazione magnetica passa silenziosamente sopra la testa e una striscia di luce bianca lambisce il bancone da dietro in avanti e scompare. 3. La pentola fluttua a pochi centimetri dal supporto, con un sottile strato di luce blu tra essa e la base. 4. Il vapore viene risucchiato in una sottile fessura dietro la grondaia, vorticando appena prima. 5. Sottili telai esoscheletrici nero opaco su entrambi gli avambracci della proprietaria. Dai polsi in giù ci sono mani nude, con pelle umana su dita e palmi. 6. Un piccolo terminale di connessione è incorporato all'attaccatura dei capelli della proprietaria sulla nuca, lampeggiando di un tenue blu a ritmo con il suo respiro. Cibo: Solo una ciotola di pho di manzo. Tutto il manzo è ben cotto dopo una lunga stufatura, apparendo di un marrone-abbronzato calmo con una striscia bianca di grasso ai bordi. Non mostrare mai carne rossa cruda, il colore del sangue o ingredienti che cambiano colore durante la cottura. La ciotola contiene spaghetti piatti bianchi, sottili fette di manzo stufato, polpette di manzo rotonde, zuppa ambrata limpida, cipollotti tritati, cipolle affettate e coriandolo. Le ciotoline contengono germogli di soia, basilico thailandese, spicchi di lime e rondelle di peperoncino rosso. Tutti gli ingredienti sono già tagliati e cotti, disposti su vassoi e ciotoline. La ciotola è in vecchia porcellana bianca con scheggiature e crepe; ne viene mostrata solo una fino alla fine. [Design del Personaggio] <Owner> Una donna del Sud-est asiatico sulla ventina avanzata. Fare riferimento rigorosamente a @Image1 per i tratti del viso, l'acconciatura, il colore dei capelli e l'abbigliamento; quanto segue è aggiunto per elementi non mostrati nell'immagine. La pelle è color miele caldo, con un sottile velo di sudore che appare sul collo e sulla clavicola a causa del calore della pentola, brillando leggermente alla luce. Mantenere pori e texture della pelle reali. Alcune ciocche di capelli ribelli si attaccano all'attaccatura sulla fronte e sulla nuca a causa dell'umidità. Il tessuto sottile segue la pelle a causa del calore e dell'umidità, tracciando silenziosamente le linee naturali del corpo a ogni movimento. Un grembiule di cotone in vita. Una struttura scheletrica snella e flessibile. Gli occhi sono sempre rivolti verso le mani e non guardano mai la telecamera; l'espressione cambia a malapena, uno sguardo leggermente svogliato. Azioni vulnerabili durante il lavoro, senza la consapevolezza di essere osservata da altri. [Nucleo della Recitazione] Raccontare la storia attraverso la punta delle dita, il dorso delle mani, i polsi, il collo, la nuca, la clavicola, la linea del petto, le scapole, la linea della coscia, il profilo e la schiena, piuttosto che l'intero volto. Negli stage che mostrano una parte del corpo, zoomare come un primo piano di quella parte, raffigurando anche la fisica del tessuto che segue, oscilla, si stacca e ritorna sulla pelle. Mostrare il contrasto tra la pelle umana e i telai neri sugli avambracci. Tutti i movimenti sono lenti, senza omettere passaggi intermedi. [Stage 1] 0-3 secondi Bancarella Vuota. Telecamera: Ripresa ampia, posizione bassa vicino al manto stradale. Avvicinarsi lentamente alla bancarella mantenendo micro-vibrazioni a mano libera. Il bokeh in primo piano è la superficie stradale bagnata che occupa il terzo inferiore dello schermo, dove anelli di luce riflessa scorrono rapidamente verso sinistra. La bancarella nel piano intermedio diventa lentamente più grande e le luci della città sullo sfondo sono stazionarie. La proprietaria sta dietro il bancone al centro-dietro, guardando la pentola. Il viso è piccolo e l'espressione è indecifrabile. Eventi principali: Inizia una pioggia leggera, le gocce di pioggia si infrangono in nebbia su un confine invisibile fuori dalle grondaie, creando un contorno scintillante iridescente che scorre lateralmente e scompare. Una linea di veicoli passa sopra la testa e una striscia di luce bianca lambisce il bancone da dietro in avanti una volta e scompare. Stato finale: La telecamera si ferma davanti al bancone. La proprietaria è al centro-dietro, pentola a sinistra, vassoio al centro, ciotola a destra. Tutti e tre gli sgabelli rotondi in legno sono vuoti. La pioggia continua da questo punto in poi. Suono: Pioggia leggera, il suono secco e sottile delle gocce di pioggia che si infrangono al confine, basso ronzio elettromagnetico, la pentola che sobbolle. [Stage 2] 3-7 secondi Pulizia del Bancone. Telecamera: Vista dall'alto, fissa. I quattro angoli sono scuri e solo il bancone centrale è illuminato in ambra. Il bokeh in primo piano è un globo luminoso appeso in gran parte nell'angolo in alto a destra, che diventa un globo dorato sfocato che oscilla leggermente. Il viso della proprietaria non è nell'inquadratura. Eventi principali: La proprietaria si sporge in avanti e pulisce lentamente il bancone di legno con un panno umido nella mano destra. Il tessuto sottile segue la sua schiena e le scapole si alzano alternativamente sotto il panno. Attraverso le fessure tra i capelli ribelli attaccati alla nuca, si può vedere il tenue blu del terminale incorporato lampeggiare a ritmo con il suo respiro. Il telaio nero sull'avambraccio scivola leggermente sulla pelle. Stato finale: La metà anteriore del bancone è bagnata e riflette la luce. La proprietaria piega il panno con la mano destra, lo posiziona sull'estremità destra del bancone, si raddrizza e si volta verso la pentola a sinistra. Suono: Il suono basso di un panno umido che sfrega il legno vecchio, la pentola che sobbolle, pioggia. [Stage 3] 7-12 secondi Controllo dell'Aroma della Zuppa. Telecamera: Zoom in tre passaggi. Primo, un primo piano estremo della pentola dal basso in diagonale. Un sottile strato di luce blu riempie lo spazio tra il fondo della pentola e il supporto nella parte inferiore dello schermo; sopra di esso, la zuppa ambrata sobbolle silenziosamente, anice stellato e zenzero bruciato vorticano lentamente, e minuscole stelle d'olio scintillano sulla superficie. Il bokeh in primo piano è una scia di vapore che attraversa la parte anteriore. Successivamente, la telecamera scende al livello del bordo della pentola e si inclina verso l'alto in diagonale. Il terzo inferiore dello schermo è riempito di vapore che sale. Sopra quel vapore, al centro dello schermo, la linea dal collo della proprietaria alla clavicola e al petto è visibile attraverso il vapore. Il tessuto sottile pende leggermente lontano dal corpo nella postura inclinata e ritorna a seguire la pelle umida di sudore. Il velo di sudore brilla leggermente alla luce. Il viso è visto sfocato al bordo superiore dell'inquadratura attraverso il vapore. Infine, un mezzo busto, tornando a una leggera angolazione dal basso da oltre il bancone, con il viso della proprietaria al centro della metà superiore dello schermo. Eventi principali: La proprietaria si sporge lentamente sopra la pentola, portando il viso vicino al vapore che sale per controllare l'aroma. Socchiude gli occhi e inspira silenziosamente. Poi si raddrizza, prende un mestolo con la mano destra, raccoglie la zuppa, alza il braccio in alto e la versa di nuovo nella pentola in un arco sottile. Il liquido brilla nel vapore. Successivamente, la proprietaria tocca il bordo del mestolo con le labbra, prende un sorso della zuppa, la gola si muove lentamente, chiude gli occhi e annuisce leggermente. In quel momento, una linea di veicoli passa sopra la testa e una striscia di luce bianca delinea momentaneamente l'incavo della clavicola e la mascella prima di scomparire. Stato finale: La proprietaria appende il mestolo al bordo della pentola con la mano destra. Il suo corpo è eretto, gli occhi sono aperti e lo sguardo è tornato sulle mani. Suono: Il suono del liquido che cade, la pentola che sobbolle, respiro silenzioso, il basso suono di taglio del vento della linea di veicoli. [Stage 4] 12-17 secondi Sbollentare gli Spaghetti. Telecamera: Solo per questo stage, posizionare la telecamera all'interno attraverso l'apertura sul lato della bancarella, impostata a un'altezza di 30 cm dal pavimento. Una composizione in primo piano che cattura la proprietaria da dietro in diagonale. La telecamera rimane vicina alla proprietaria, puntando verso la sua schiena, e sale dritta per circa 60 cm fino all'altezza della vita in cinque secondi, con l'angolo di inclinazione verso l'alto che diventa più superficiale man mano che sale. L'ascesa è un'unica ripresa continua. All'inizio dell'ascesa, il pavimento bagnato e i tacchi dei sandali sono nella parte inferiore dello schermo, la linea delle cosce dall'orlo del grembiule fin sopra le ginocchia è al centro, e il vapore è in alto. Mentre la telecamera sale, lo schermo si sposta verso il nodo del grembiule e la linea dei fianchi che sale dalla vita, fermandosi infine appena sopra la vita. Il bokeh in primo piano è vapore che striscia lungo il pavimento, coprendo dolcemente il bordo inferiore dello schermo. Il vapore retroilluminato delinea il corpo in bianco e le luci della città dallo sfondo fanno capolino attraverso il lato del corpo come piccoli cerchi di bokeh. Il viso della proprietaria e la parte posteriore della sua testa non sono nell'inquadratura. Eventi principali: La proprietaria sta in piedi con le gambe leggermente divaricate di fronte alla pentola degli spaghetti sul retro della bancarella, dando le spalle alla telecamera. La posizione dei suoi piedi e l'altezza della vita non cambiano affatto dall'inizio alla fine; solo le sue braccia, la parte superiore del corpo e la telecamera si muovono. La proprietaria tiene un colino per spaghetti in metallo con spaghetti piatti bianchi in entrambe le mani, lo immerge lentamente nell'acqua bollente e lo scuote silenziosamente due o tre volte. I lacci del grembiule sul retro della vita oscillano lentamente con il movimento delle sue braccia e il tessuto sottile si muove lungo le linee del suo corpo. Il vapore sale vigorosamente, sfocando la parte superiore dello schermo, e vortica appena prima di essere risucchiato nella fessura della grondaia. Poi solleva il colino con entrambe le mani, scola l'acqua, lo porta direttamente sopra la ciotola profonda sul lato destro del suo corpo e inclina il colino per far scivolare gli spaghetti sul fondo della ciotola. Stato finale: Solo spaghetti bianchi sono sul fondo della ciotola profonda. La proprietaria sta nella stessa posizione alla stessa altezza voltata di spalle, posizionando il colino vuoto accanto all'acqua calda. La telecamera si è fermata appena sopra la vita. Suono: L'acqua bollente, il suono del colino che colpisce la superficie, gocce d'acqua che cadono, il suono di una sottile corrente d'aria. [Stage 5] 17-21 secondi Disporre la Carne. Telecamera: Medio primo piano da sopra in diagonale oltre il bancone, catturando dal petto della proprietaria alla ciotola. Il viso della proprietaria è tagliato al bordo superiore dell'inquadratura e non è sullo schermo. Solo durante questo stage, la telecamera si muove orizzontalmente di circa 30 cm verso destra molto lentamente. Il bokeh in primo piano consiste in fasci di spaghetti essiccati e strisce di vinile sbiadite appese alle grondaie, che occupano il bordo sinistro dello schermo e scorrono rapidamente verso sinistra. La proprietaria e la ciotola nel piano intermedio si spostano solo leggermente a causa della parallasse, mentre le luci della città sullo sfondo appaiono stazionarie. Eventi principali: La proprietaria prende delle pinze in metallo nella mano destra e raccoglie una sottile fetta di manzo stufato color marrone-abbronzato dal vassoio centrale. La mano sinistra tiene il bordo della ciotola. La mano destra porta la fetta direttamente sopra la ciotola, la posiziona silenziosamente sugli spaghetti e apre le pinze. Ripetere la stessa azione tre volte, con la carne che si sovrappone leggermente a ventaglio. Successivamente, la mano destra posiziona le pinze sul bordo del vassoio, prende invece un grande mestolo forato, raccoglie tre polpette di manzo rotonde, le porta direttamente sopra la ciotola e inclina il mestolo per far rotolare delicatamente le polpette dentro. Stato finale: Spaghetti bianchi nella ciotola, guarniti con carne color marrone-abbronzato sovrapposta a ventaglio e tre polpette rotonde davanti. La mano destra della proprietaria è nell'inquadratura mentre tiene il mestolo forato. La sua mano sinistra tiene ancora il bordo della ciotola. Il movimento orizzontale della telecamera si ferma qui. Suono: Il suono duro delle pinze che toccano il vassoio di metallo, il suono umido della carne che tocca gli spaghetti, il suono sordo delle polpette che toccano il fondo della ciotola. [Stage 6] 21-26 secondi Versare voltata di spalle, Rilasciare il Calore. Telecamera: Discesa in due passaggi. Primo, un medio primo piano oltre il bancone all'altezza degli occhi in piedi, fisso. Il bokeh in primo piano sono scie di vapore che scorrono costantemente davanti, coprendo dolcemente la metà inferiore dello schermo. Successivamente, la telecamera scende al livello del bordo della ciotola e si inclina verso l'alto in diagonale proprio accanto alla ciotola. Il bokeh in primo piano è l'arco del bordo della ciotola e vapore denso che sale direttamente sopra di essa. Attraverso quel vapore, nella metà superiore dello schermo, c'è la linea dal collo della proprietaria alla clavicola e al petto mentre si sporge sulla ciotola. Il tessuto sottile pende leggermente lontano dal corpo nella postura inclinata. Il viso è tagliato al bordo superiore dell'inquadratura e non è sullo schermo. Eventi principali: La proprietaria si volta verso la pentola sulla sinistra dello schermo, mostrando la schiena e la spalla sinistra alla telecamera. Una ciocca di capelli umida si attacca alla nuca, il blu del terminale lampeggia a ritmo con il suo respiro nello spazio, e le linee delle scapole si alzano alternativamente attraverso il tessuto sottile. La proprietaria raccoglie la zuppa nel mestolo con la mano destra, riporta lentamente il corpo a sporgersi sulla ciotola, abbassa il mestolo dritto all'altezza del bordo della ciotola e lo inclina per versare la zuppa ambrata calda. Il vapore sale particolarmente denso. Quando ha finito di versare, la mano destra riporta il mestolo al bordo della pentola e la mano sinistra libera pizzica delicatamente il colletto, tirando lentamente il tessuto lontano dalla pelle. Il calore fuoriesce dal collo, disturbando il vapore, e quando le dita rilasciano, il tessuto ritorna silenziosamente a seguire la pelle umida. Successivamente, la mano sinistra solleva un piccolo contenitore in acciaio inossidabile con cipollotti tritati e cipolle affettate, portandolo direttamente sopra la ciotola. Il contenitore è sempre sullo schermo. Le dita della mano destra pizzicano le cipolle e i cipollotti dal contenitore, lasciandoli cadere silenziosamente sulla zuppa nella ciotola, e infine posizionano due foglie di coriandolo allo stesso modo con le dita. La mano sinistra riporta il contenitore sul bancone. Stato finale: La ciotola è piena di zuppa, con carne color marrone-abbronzato, polpette rotonde e foglie verdi che galleggiano dentro. Il mestolo è sul bordo della pentola, il contenitore è al centro del bancone. La proprietaria si raddrizza per affrontare la parte anteriore del bancone, con entrambe le mani ai lati della ciotola. Suono: Il suono della zuppa che cade nella ciotola, il suono tenue delle foglie che toccano la superficie della zuppa, il suono del contenitore che tocca il legno, pioggia. [Stage 7] 26-30 secondi Posizionare e Sistemare i Capelli. Telecamera: Ripresa media da oltre il bancone di fronte alla proprietaria. L'altezza della telecamera è all'altezza degli occhi di una persona seduta. La parte superiore del corpo della proprietaria dalla vita in su è nell'inquadratura e il suo viso è al centro della metà superiore dello schermo. Il bokeh in primo piano è la piccola ciotola per condimenti nell'angolo in basso a destra e scie di vapore che salgono davanti. Il bordo anteriore del bancone attraversa il bordo inferiore dello schermo; l'altro lato è vuoto, con solo lo schienale di uno sgabello rotondo in legno visibile leggermente nell'angolo. Eventi principali: La proprietaria solleva la ciotola con entrambe le mani, la porta dritta davanti a sé fino al bordo anteriore del bancone e la posiziona lentamente. Toglie le mani dalla ciotola, prende un paio di bacchette con la mano destra e le posiziona orizzontalmente davanti alla ciotola sulla destra. Poi sta in piedi con la schiena dritta, alza la mano destra e sistema lentamente una ciocca di capelli umida che era caduta sulla guancia dietro l'orecchio. Proprio mentre il collo è esposto, una linea di veicoli passa sopra la testa e una striscia di luce bianca scivola dal collo alla clavicola e scompare. La proprietaria abbassa lo sguardo e fa un passo indietro. Stato finale: La ciotola è al bordo anteriore del bancone, una scia di vapore sale e viene risucchiata nella fessura della grondaia. Le bacchette sono orizzontali davanti alla ciotola verso destra. La proprietaria sta dietro il bancone, con le mani lungo i fianchi. I posti dei clienti rimangono vuoti fino alla fine. Suono: Il suono basso della ciotola che tocca il legno vecchio, il suono leggero delle bacchette che si toccano, i suoni del lavoro si placano nel silenzio, lasciando solo il suono della pioggia e della nebbia che si infrange. [Proibizioni] Non mostrare nessuno oltre alla proprietaria sullo schermo. Niente clienti, passanti, mani, volti, spalle o ombre di altre persone. Mantenere gli sgabelli dei clienti vuoti fino alla fine. Ingredienti e strumenti non dovrebbero cadere da fuori campo, fluttuare nell'aria o muoversi da soli. Quando qualcosa si muove, la mano della proprietaria deve tenerlo. Non mostrare mai carne rossa cruda, il colore del sangue o ingredienti che cambiano colore durante la cottura. Il manzo deve essere color marrone-abbronzato e stufato dall'inizio alla fine. Non rappresentare mai l'azione di tagliare gli ingredienti. Non mostrare coltelli, taglieri o lame sullo schermo. Non mostrare il momento in cui un ingrediente si divide in due. Tranne che per lo Stage 4, non lasciare che la telecamera giri intorno all'interno del bancone. Non spostare il punto di vista sul lato della cucina per riprendere la proprietaria da dietro, tranne che nello Stage 4. Non lasciare che il viso e il corpo della proprietaria intralcino i primi piani delle mani. Non mostrare il viso negli stage in cui è specificato di non essere nell'inquadratura. Non posizionare nient'altro che i 7 elementi specificati nel bokeh in primo piano. Non nascondere completamente il soggetto con il bokeh in primo piano. Non mettere a fuoco il bokeh in primo piano. La proprietaria non dovrebbe mettersi in posa. Non assumere una postura per mostrare il corpo alla telecamera. Tutti i movimenti dovrebbero fluire naturalmente come procedure di cottura. La proprietaria non dovrebbe accovacciarsi. Non piegare le ginocchia per abbassare la vita. Non fare squat o muovere il corpo su e giù. La posizione dei piedi e l'altezza della vita della proprietaria sono costanti per tutta la durata. Il movimento di sporgersi in avanti dovrebbe essere fatto solo una volta in ogni stage; non muovere la parte superiore del corpo su e giù ripetutamente. Non generare BGM, musica, dialoghi, narrazione, sottotitoli o sovrapposizioni di testo. Non visualizzare caratteri, numeri, loghi o testo di insegne sullo schermo. Sfocare insegne e ologrammi come blocchi di colore senza testo. Le uniche cose che brillano sono i globi luminosi fluttuanti, lo strato blu sul fondo della pentola, le articolazioni del telaio dell'avambraccio, il terminale sulla nuca e la linea dei veicoli di passaggio. Non aggiungere altri bagliori o contorni luminosi. Non rompere il numero di dita o articolazioni. Non rendere la proprietaria un cyborg completo. Viso, collo, spalle, gambe e dita rimangono pelle umana. La proprietaria non dovrebbe sorridere e mostrare i denti. Non guardare la telecamera. Non usare dissolvenze o incroci. Non disegnare creature nella zuppa. Non tirare fuori ingredienti non richiesti o ciotole extra. Robot ar.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098015222951030784/img/FwhLFzzrkhLsEjW4.jpg" width="600" alt="Video Anime di una bancarella di Pho Cyberpunk">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10704)**
+
+**Autore:** [AIスタジオワンルーム（AIアニメ、動画、漫画）](https://x.com/studio_oneroom) | **Fonte:** [Link](https://x.com/studio_oneroom/status/2098015859839234473) | **Pubblicato:** Sep 10, 2026
+
+---
+### Battaglia tra guerriero e mostro demoniaco
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinematografico fantasy epico che ritrae un coraggioso guerriero che affronta un terrificante mostro demoniaco oscuro e gigantesco in un contesto industriale abbandonato.
+
+#### 📝 Prompt
+
+```
+Crea una scena cinematografica ultra-realistica di un terrificante mostro demoniaco oscuro e gigantesco, con arti muscolosi massicci, corna ricurve affilate e occhi rossi luminosi, che ruggisce in modo aggressivo sovrastando un guerriero solitario. Il guerriero si erge senza paura di fronte alla creatura, impugnando un'arma e preparandosi alla battaglia. Ambienta la scena in un campo sportivo industriale abbandonato sotto un cielo scuro e coperto, con nebbia, polvere, illuminazione atmosferica drammatica, ombre realistiche, pelle e texture della creatura dettagliate, composizione d'azione intensa, inquadratura dal basso, profondità di campo cinematografica, CGI fotorealistica, 8K, HDR, altamente dettagliato, estetica da film fantasy epico, composizione verticale 9:16.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097981027507736576/img/p61gt_Mq6dI8OXEv.jpg" width="600" alt="Battaglia tra guerriero e mostro demoniaco">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10699)**
+
+**Autore:** [AIwithMinal](https://x.com/AIwithMinal) | **Fonte:** [Link](https://x.com/AIwithMinal/status/2097981077029863798) | **Pubblicato:** Sep 10, 2026
+
+---
+### Vlog di una passeggiata in un quartiere coreano
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video dettagliato in stile vlog che utilizza un'immagine di riferimento per mantenere la coerenza del personaggio, ritraendo una passeggiata naturale in un quartiere residenziale coreano.
+
+#### 📝 Prompt
+
+```
+REGOLA DI RIFERIMENTO: @image è solo il riferimento per l'identità del personaggio. Usa @image ogni volta che la ragazza è visibile. Preserva l'esatta identità del volto, la struttura facciale, gli occhi, il naso, le labbra, il tono della pelle, le proporzioni naturali del viso e le caratteristiche riconoscibili dell'acconciatura. Non copiare la posa originale, l'abbigliamento, lo sfondo, la composizione o l'illuminazione dell'immagine di riferimento. Genera tutti gli ambienti, le azioni, il guardaroba e la cinematografia a partire da questo prompt. STILE Vlog di vita quotidiana coreana ultra-realistico, realismo documentaristico cinematografico, verticale 9:16, 4K, 24fps. Fotocamera da smartphone a mano naturale, leggero tremolio realistico, autentica atmosfera di un quartiere coreano, profondità di campo realistica, texture della pelle naturale, sottile grana cinematografica. Quotidiano e spontaneo, mai patinato o commerciale. PERSONAGGIO Giovane donna coreana basata su @image. Capelli castano scuro naturalmente scompigliati sulle spalle con una texture morbida e alcune ciocche libere, trucco naturale minimo, pelle realistica. Outfit: camicia oversize azzurro pallido, t-shirt bianca pulita, pantaloni beige dal taglio rilassato, sneakers bianche, piccola borsa a tracolla scura. Mantieni lo stesso viso, capelli, outfit, accessori, proporzioni corporee e aspetto dell'età per tutti i 30 secondi. TIMELINE 00–02s @image apre l'ingresso del suo appartamento ed esce in un tranquillo quartiere residenziale coreano. Si sistema la borsa a tracolla e inizia a camminare. Una morbida luce pomeridiana filtra tra gli edifici vicini. 02–04s Ripresa a mano con inseguimento laterale. @image cammina lungo uno stretto vicolo residenziale con muri in mattoni, condomini, piante in vaso, balconi, pali della luce, biciclette parcheggiate e piccoli cartelli del quartiere coreano. 04–06s Passa davanti a un piccolo negozio locale. Gira brevemente la testa verso la vetrina, nota qualcosa di interessante all'interno, poi guarda avanti e continua a camminare naturalmente. 06–08s Angolazione cinematografica bassa focalizzata sulle sue sneakers bianche che si muovono sul marciapiede. I rami degli alberi proiettano macchie di luce e ombra in movimento. La sua ombra si muove correttamente con il corpo. 08–10s Nota un vicino che annaffia le piante in vaso fuori dall'ingresso di un appartamento. Rallenta leggermente, scambia un sorriso gentile e un cenno col capo, poi continua a camminare. Mantieni l'interazione informale e sobria. 10–12s Arriva a un distributore automatico. Primo piano della sua mano che seleziona una bevanda fredda in bottiglia. Il distributore eroga la bottiglia naturalmente. Lei la prende e controlla la condensa sulla superficie. 12–15s Ripresa media in movimento mentre si allontana dal distributore tenendo la bevanda. Ruota delicatamente la bottiglia tra le mani mentre cammina, con la luce del sole che si riflette naturalmente attraverso la plastica trasparente. 15–17s Guarda la bevanda, poi la porta naturalmente verso le labbra e ne beve un piccolo sorso rinfrescante continuando ad avanzare allo stesso ritmo. 17–19s Ripresa ravvicinata di profilo. Abbassa la bottiglia, espira dolcemente e accenna un piccolo sorriso soddisfatto. Una leggera brezza pomeridiana muove le ciocche di capelli e l'orlo della camicia. 19–21s Passa davanti a una piccola panetteria-caffetteria di quartiere. Attraverso la vetrata si vedono semplici pasticcini, bevande in bottiglia e clienti abituali. Guarda brevemente all'interno senza fermarsi. 21–23s Nota una piccola panchina pubblica in legno sotto un albero frondoso. Rallenta e si dirige verso di essa, sistemandosi casualmente la tracolla della borsa. 23–25s Si siede naturalmente sulla panchina sotto l'albero. Appoggia la bevanda accanto a sé per un momento, rilassa le spalle e guarda tranquillamente verso la strada. 25–27s Riprende la bottiglia e ne beve un altro breve sorso. Il primo piano cattura la condensa realistica, le dita, la presa sulla bottiglia, il leggero movimento di deglutizione e il movimento naturale del viso. 27–29s Guarda dall'altra parte della strada le auto e i pedoni che passano, poi sorride dolcemente tra sé. La luce del sole si muove dolcemente tra le foglie sopra di lei. 29–30s Si alza, prende la borsa a tracolla e riprende a camminare addentrandosi nel quartiere alberato. La telecamera segue lentamente da dietro e leggermente di lato, terminando naturalmente mentre lei si allontana lungo la strada. FOTOCAMERA E MOVIMENTO Cinematografia naturale da smartphone a mano/documentaristica. Micro-tremolio sottile, movimento dell'operatore credibile, fluido inseguimento laterale, occasionali angolazioni dal basso, primo piano medio e delicata ripresa posteriore. Fuochi naturali e comportamento realistico dell'obiettivo. Nessun movimento di macchina impossibile, stabilizzazione eccessiva, movimento simile a un drone o bruschi cambi geografici. ILLUMINAZIONE E COLORE Solo pomeriggio. Luce diurna neutra e morbida, ombre leggermente fredde, riflessi caldi delicati, tonalità della pelle realistiche, verdi tenui, colori naturali del cemento e dei mattoni, contrasto cinematografico moderato, sottile grana cinematografica. Niente luce del mattino, alba, tramonto, ora d'oro intensa, tonalità arancione, HDR, sovrasaturazione, bagliore artificiale o luminosità eccessiva. REALISMO FISICO Ritmo di camminata accurato e contatto del piede, oscillazione realistica delle braccia, corretta interazione mano-bottiglia, peso realistico della bottiglia, condensa, deglutizione, movimento dei capelli, movimento del tessuto, ombre, riflessi e permanenza degli oggetti. Gli elementi ambientali rimangono spazialmente coerenti da un'inquadratura all'altra. AUDIO Solo suono naturale del luogo: passi sul marciapiede, traffico coreano in lontananza, campanello di bicicletta, fruscio delle foglie, tubo dell'acqua, segnale acustico del distributore, suono dell'erogazione della bottiglia, clic del tappo, sorseggiata/deglutizione sottile, atmosfera da caffè, suoni soffusi del quartiere. Niente musica di sottofondo, niente narrazione, niente dialoghi.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097965463355756545/img/4Qu76GlINJHuYu0R.jpg" width="600" alt="Vlog di una passeggiata in un quartiere coreano">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10697)**
+
+**Autore:** [𝑨𝒇𝒓𝒊𝒏](https://x.com/afrinxai) | **Fonte:** [Link](https://x.com/afrinxai/status/2097966053116752181) | **Pubblicato:** Sep 10, 2026
+
+---
+### Modello per trailer di anime horror
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un modello di prompt strutturato per Seedance 2.0 per creare un trailer anime horror 2D di alta qualità con liste di inquadrature specifiche.
+
+#### 📝 Prompt
+
+```
+[Main Character] = Ragazza con capelli neri
+[Partner/Target] = Madre con coda di cavallo
+[Setting] = All'interno di una casa
+[Anomaly Gimmick] = Schermo TV
+
+[Video Style]
+15 secondi. Anime giapponese a colori. Animazione 2D ad alta densità con un budget di 500 milioni di yen. Tagli rapidi come in un trailer cinematografico. Alternanza tra occhi, mani, piedi, schiena, riflessi, campi lunghi e rapidi push-in. Senza sottotitoli, senza watermark, senza musica di sottofondo. I suoni includono respiro, rumore ambientale, brevi effetti sonori per ogni taglio e una battuta finale.
+
+[Visual Composition]
+Il significato di [Setting] e [Target] cambia esclusivamente attraverso la prospettiva del [Main Character]. L'[Anomaly Gimmick] viene utilizzato per collegare ogni inquadratura e, infine, i ruoli di 'osservatore' e 'osservato' si invertono.
+
+[Shot 1: One-Eye Hook]
+Primo piano di un occhio del [Main Character] che riempie lo schermo. Il [Setting] si riflette nella pupilla. L'[Anomaly Gimmick] attraversa le profondità dell'occhio.
+
+[Shot 2: Feet]
+Il pavimento del [Setting]. Un singolo passo. I piedi calpestano luci e ombre.
+
+[Shot 3: Hands]
+La mano del [Main Character] si muove leggermente. Si ferma appena prima di afferrare qualcosa.
+
+[Shot 4: Target]
+Il [Target] viene mostrato solo per un istante. Messa a fuoco ridotta, senza mostrare chiaramente il volto o l'intero corpo.
+
+[Shot 5: Reflection]
+Il [Main Character] è riflesso in uno specchio, una finestra, uno smartphone, del metallo o nel riflesso dell'occhio. La posizione nella realtà e quella nel riflesso sono leggermente diverse.
+
+[Shot 6: Wide Shot]
+Una breve inquadratura dell'intero [Setting]. Una composizione in cui non è chiaro dove si trovi il [Main Character].
+
+[Shot 7: Approach]
+Rapido push-in. L'[Anomaly Gimmick] appare proprio accanto al [Target].
+
+[Shot 8: Reversal]
+Una panoramica ad alta velocità come se la telecamera si stesse voltando. Il [Main Character] è lì, in piedi, silenzioso.
+
+[Shot 9: Fixed Gaze]
+Il [Main Character] fissa la telecamera. Non si muove. Solo lo sfondo trema leggermente.
+
+[Shot 10: Final Line]
+Il [Main Character] dice brevemente: 'Ti stavo guardando fin dall'inizio'. L'ultimo fotogramma torna al primo piano di un occhio e termina.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094091613106757632/img/EOm3U04viJUVt5D5.jpg" width="600" alt="Modello per trailer di anime horror">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10639)**
+
+**Autore:** [妖精アーヤ](https://x.com/aiehon_aya) | **Fonte:** [Link](https://x.com/aiehon_aya/status/2097882765026840629) | **Pubblicato:** Sep 10, 2026
+
+---
+### Regina guerriera dark fantasy cinematografica
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt per una sequenza dark fantasy cinematografica di 11 secondi che segue una regina guerriera medievale in caduta accanto a un maestoso corvo.
+
+#### 📝 Prompt
+
+```
+Crea una scena dark fantasy cinematografica di 11 secondi con una bellissima regina guerriera bionda che indossa un'intricata armatura metallica medievale argento e nera e una delicata corona scura.
+
+SCENA 1 — 0–3 secondi:
+Inizia con una drammatica ripresa aerea dall'alto. La guerriera sta volando/cadendo attraverso fitte nuvole tempestose con le braccia tese verso l'esterno, come se si stesse tuffando nel cielo. I suoi lunghi capelli biondi e parti del suo abbigliamento si muovono naturalmente nel vento potente. Molto più in basso, un vasto paesaggio fantasy è appena visibile attraverso la nebbia. La telecamera si muove rapidamente verso il basso verso di lei mantenendo una potente prospettiva cinematografica.
+
+SCENA 2 — 3–5 secondi:
+Transizione fluida verso un'inquadratura frontale in movimento mentre attraversa le nuvole. Le sue spalle e braccia corazzate rimangono estese. La sua espressione è seria, impavida ed emotivamente intensa. Una luce solare soffusa filtra attraverso le nuvole dietro di lei, creando un alone drammatico attorno alla sua silhouette. Piccole particelle e nebbia passano rapidamente davanti all'obiettivo della telecamera.
+
+SCENA 3 — 5–9 secondi:
+Taglio su un primissimo piano cinematografico del suo volto. Un enorme e maestoso corvo/aquila vola improvvisamente accanto al suo viso, le sue piume scure contrastano con la sua pelle pallida e i capelli biondi. L'uccello si muove estremamente vicino a lei, sfiorandole quasi la guancia. Le piume si liberano nell'aria e fluttuano drammaticamente attorno a loro. Lei guarda dritto davanti a sé con un'espressione intensa e misteriosa.
+
+SCENA 4 — 9–11 secondi:
+L'uccello si allontana lentamente mentre lei gira la testa verso di esso. La sua espressione cambia sottilmente da determinazione a curiosità ed emozione. Il vento continua a muovere i suoi capelli e l'armatura in modo naturale. Lo sfondo rimane pieno di nuvole luminose e nebbia atmosferica.
+
+STILE VISIVO:
+Film fantasy epico ad alto budget, CGI fotorealistica, dark fantasy medievale, illuminazione naturale drammatica, armatura metallica realistica, pelle e capelli altamente dettagliati, nuvole volumetriche, nebbia atmosferica, piume fluttuanti, movimento realistico dell'uccello, profondità di campo cinematografica, sottile grana della pellicola, caratteristiche dell'obiettivo anamorfico, ombre ricche, contrasto drammatico, color grading sofisticato.
+
+TELECAMERA:
+Ripresa aerea fluida, veloce push-in cinematografico, transizione graduale verso un primissimo piano, profondità di campo ridotta, realistico micro-movimento a mano durante il primo piano, cambi di fuoco controllati con cura, composizione cinematografica.
+
+MOVIMENTO:
+Fisica del vento naturale, movimento realistico dei capelli, piume fisicamente accurate, volo dell'uccello credibile, tessuto fluente, espressioni facciali e movimento degli occhi sottili. Nessun movimento esagerato o cartoonesco.
+
+ATMOSFERA:
+Misteriosa, potente, emotiva, maestosa, soprannaturale ed epica — come una scena tratta da un film dark fantasy di alta qualità.
+
+Mantieni un'identità facciale, un'anatomia e un'armatura coerenti durante l'intero video. Nessuna distorsione del volto, nessun arto extra, nessun uccello duplicato, nessun movimento corporeo innaturale, nessun testo, nessuna s
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097879278163771392/img/x_juLXYEPw4We8oN.jpg" width="600" alt="Regina guerriera dark fantasy cinematografica">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10626)**
+
+**Autore:** [Noor 🌸](https://x.com/Noor_ul_ain43) | **Fonte:** [Link](https://x.com/Noor_ul_ain43/status/2097879315912552864) | **Pubblicato:** Sep 10, 2026
+
+---
+### Trasformazione ragazza in Qipao - Corto Wuxia
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un complesso prompt video cinematografico di 11 secondi per Seedance 2.0, caratterizzato da una trasformazione fluida del personaggio da uno stile casual a uno di arti marziali tramite match cut.
+
+#### 📝 Prompt
+
+```
+Genera un video breve live-action cinematografico di 11 secondi in formato verticale 9:16. I tratti del personaggio, l'acconciatura, le proporzioni corporee e il costume prima della trasformazione devono fare rigoroso riferimento a @BeforeTransformationCharacterImage. I tratti del personaggio, l'acconciatura, le proporzioni corporee e il costume dopo la trasformazione devono fare rigoroso riferimento a @AfterTransformationCharacterImage. La persona prima e dopo deve essere chiaramente lo stesso individuo in due diversi stati di stile. Mantieni la coerenza nei tratti del viso, nella forma del volto, nell'età e nell'identità. La spada, l'elsa, il fodero, la lunghezza della lama, il materiale e i motivi dopo la trasformazione devono fare rigoroso riferimento a @SwordReferenceImage. La spada deve rimanere coerente nella seconda metà, senza cambiamenti nella lunghezza, nell'elsa o nell'aspetto del fodero. Nessuna musica di sottofondo; tutti i suoni ambientali, d'azione e delle armi devono essere sincronizzati con i movimenti. Direzione generale: Il video segue una struttura continua: movimento quotidiano -> oscillazione della scopa -> stabilizzazione del movimento -> corrispondenza della posa -> trasformazione istantanea -> estrazione della spada -> posa eroica del personaggio. La prima metà ha un'atmosfera da video amatoriale, mentre la seconda metà è una rappresentazione cinematografica di arti marziali. Il climax è guidato da un Match Cut e dal suono dell'estrazione della spada. Nessun effetto di fusione corporea, crescita di particelle, fulmini o morphing lento durante la trasformazione. 0.0–0.7s: Inizio con angolazione dal basso che mostra il terreno, le gambe, le scarpe e una scopa lunga in primo piano. Il personaggio afferra il manico della scopa. La telecamera si inclina verso l'alto e si ritrae leggermente con un realistico tremolio a mano. I suoni ambientali includono vento, uccelli e la scopa che striscia sulla ghiaia. 0.7–1.4s: Il personaggio fa un passo avanti, facendo oscillare la scopa come un bastone. La telecamera si ritrae leggermente, stabilizzandosi su una vista all'altezza della vita. Suono: la scopa che taglia l'aria (whoosh) e passi. 1.4–2.1s: Il personaggio ruota la scopa attorno al corpo. La telecamera si regola leggermente per mantenere l'azione centrata. Suono: suoni intensificati di taglio dell'aria (whoosh, fwoosh). 2.1–2.9s: Rotazione alta della scopa sopra la testa con realistica inerzia umana. Nessuna compenetrazione della scopa nel corpo. Segui telecamera orizzontale. Suono: suoni spazializzati di taglio dell'aria. 2.9–3.7s: Il movimento rallenta. Il personaggio porta la scopa al fianco e solleva un ginocchio per bilanciarsi. Suono: attrito del tessuto e suoni di scivolamento della mano. 3.7–4.7s: La gamba sollevata si estende lateralmente in una posa giocosa. La scopa è tenuta quasi verticalmente. Movimento della telecamera ridotto. Suono: scricchiolii del manico e fruscii dei vestiti. 4.7–5.6s: Stabilizzazione in una posa di profilo 3/4, stabilendo una silhouette chiara per il Match Cut. Ripresa quasi fissa con respiro a mano. 5.6–6.30s: Ulteriore stabilizzazione. Il personaggio rimane nella posa @BeforeTransformation. I suoni ambientali sfumano in un breve silenzio prima del climax. 6.30–6.45s: Trasformazione tramite Hard Match Cut allo stile @AfterTransformation. L'ambiente cambia in un sentiero forestale/montano cinematografico. La posizione e la postura rimangono coerenti tra i fotogrammi. Suono: breve colpo a bassa frequenza (THUMP/BOOM), shock d'aria (WHOOMP) e scatto del tessuto (FLAP). 6.45–6.65s: Trasformazione completata. Il personaggio regola il proprio centro di gravità e abbassa la gamba in una posizione potente. Una mano si avvicina all'elsa della spada. 6.65–7.35s: L'azione principale dell'estrazione della spada. La mano afferra l'elsa, la lama scivola fuori dal fodero realisticamente lungo il suo asse. Nessuna apparizione magica o compenetrazione. Suono: scricchiolio -> shrrrk -> SHHHHK -> SHING! Il suono dell'estrazione è perfettamente sincronizzato con il movimento. 7.35–7.60s: Breve silenzio dopo l'estrazione della lama, mantenendo la risonanza metallica (SHING—). 7.6–8.3s: Il personaggio sposta la spada in una posizione di esposizione finale con un arco netto. Il personaggio guarda verso la telecamera. Suono: vento tagliente della spada (SWISH—) e fruscii dei vestiti. 8.3–9.3s: Fase di esposizione eroica. La telecamera inizia un push-in molto lento. Lo sguardo diventa freddo. Riprendono i suoni naturali della foresta. 9.3–10.2s: Posa eroica finale con sguardo calmo e imponente. Sguardo diretto o lontano. Push-in continuo e lento della telecamera con respiro a mano. 10.2–10.93s: Posa finale congelata con respirazione realistica e lievi effetti del vento su vestiti/capelli. Il fotogramma termina direttamente. Suono finale: vento leggero e vibrazioni metalliche residue. Piano telecamera: 0-1.4s inclinazione/ritirata dal basso; 1.4-3s tracking a figura intera; 3-6.3s stabilizzazione per Match Cut; 6.3s Hard Cut; 6.4-7.4s estrazione stabilizzata; 7.5-10.93s slow push-in verso l'inquadratura eroica. Vincoli di continuità: Separare rigorosamente lo stile pre e post-trasformazione con un chiaro punto di taglio. La scopa e la spada devono mantenere la logica fisica e le immagini di riferimento per tutta la durata. Il suono deve essere sincronizzato e realistico, evitando BGM o effetti anime.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097875036015304704/img/PmGkesdMm5p3G4s-.jpg" width="600" alt="Trasformazione ragazza in Qipao - Corto Wuxia">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10637)**
+
+**Autore:** [古一](https://x.com/MANISH1027512) | **Fonte:** [Link](https://x.com/MANISH1027512/status/2097875223827857528) | **Pubblicato:** Sep 10, 2026
+
+---
+### Volo fantasy sul drago di ghiaccio tra le montagne
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un epico prompt fantasy che mostra una donna in sella a un gigantesco drago di ghiaccio bianco mentre sorvola vette innevate verso un antico rifugio.
+
+#### 📝 Prompt
+
+```
+Utilizza l'immagine di riferimento caricata come riferimento esatto per il personaggio. Mantieni lo stesso volto, i capelli, l'abbigliamento e l'aspetto per tutta la durata. La donna si trova accanto al gigantesco drago di ghiaccio bianco, poi sale sul suo dorso mentre vola sopra montagne innevate e un fiume ghiacciato. Raggiungono un antico rifugio in pietra dove lei esplora mentre il drago la protegge. Movimenti di camera cinematografici, ampie inquadrature epiche, movimento realistico, occhi blu luminosi, nevicata, atmosfera blu con calda luce di fuoco, qualità cinematografica fantasy fotorealistica, 16:9, nessuna musica di sottofondo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097855095253950464/img/ye1VdcvdidOgZsAF.jpg" width="600" alt="Volo fantasy sul drago di ghiaccio tra le montagne">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10632)**
+
+**Autore:** [Sᴀɪʀᴀ](https://x.com/itsSaira_1) | **Fonte:** [Link](https://x.com/itsSaira_1/status/2097855229295505816) | **Pubblicato:** Sep 10, 2026
+
+---
+### Nostalgica vacanza estiva anni '80
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt in stile documentaristico incredibilmente dettagliato per Seedance 2.5, volto a ricreare una nostalgica giornata estiva giapponese del 1985 attraverso l'obiettivo di una videocamera amatoriale.
+
+#### 📝 Prompt
+
+```
+[Panoramica] Una giornata nella vita di un bambino di 10 anni che trascorre le vacanze estive nella casa rurale dei nonni nel 1985. Un giovane zio in visita riprende con una videocamera portatile a distanza, senza parlare. 480p, 16:9, 15 secondi. 7 inquadrature (circa 2s ciascuna) con tagli netti; tutte le 7 location sono diverse. Nessuna transizione o dissolvenza. Il soggetto non interagisce con la telecamera: niente contatto visivo, niente oggetti mostrati, niente saluti, niente pose. Immerso nel gioco. Frammenti tratti dalla quotidianità, non recitati. Nessun dialogo, battuta o narrazione.
+
+[Soggetto] Definizione di bellezza: un bambino giapponese con il potenziale da attore che tutti definirebbero un futuro bel ragazzo. Il viso di un bambino nel momento in cui entra in acqua è l'ideale. Viso: capelli neri corti e spettinati, sopracciglia folte, occhi a mandorla con doppia palpebra, pelle che si squama sul ponte del naso a causa della scottatura (texture della pelle realistica), denti bianchi, una piccola crosticina sul mento. Abbigliamento (quotidiano): canottiera bianca (leggermente ingiallita dal lavaggio), pantaloncini verdi, cappello di paglia (tesa sfilacciata), asciugamano bianco intorno al collo, piedi nudi in sandali di gomma. Abitudini: spingere indietro il cappello, dare un'occhiata al fratello minore. Viso, capelli e abbigliamento sono identici in tutte le inquadrature.
+
+[Personaggi] Fratello minore (6 anni): viso rotondo, capelli rasati, canottiera bianca e pantaloncini rossi. Imita tutto ciò che fa il fratello maggiore. Si spaventa facilmente. Nessuno guarda verso la telecamera.
+
+[Epoca, Luogo, Luce] Campagna rurale nell'agosto 1985. 1) Veranda di una vecchia casa giapponese (luce del mattino, fumo sottile di un repellente per zanzare a spirale, riso con uovo crudo) 2) Sentiero tra le risaie (luce bianca di piena estate, bicicletta) 3) Fiume basso (superficie dell'acqua scintillante) 4) Rocce del fiume (salto da una piccola roccia verso l'acqua bassa) 5) Su una pietra della riva (anguria, luce solare intensa) 6) Albero nel recinto di un santuario (luce filtrata, cicale) 7) Veranda di sera (scintilla: una piccola palla di fuoco che brilla all'estremità di un sottile filo di carta. Crepuscolo blu). Nessun cartello o testo nell'inquadratura.
+
+[Fotocamera] Texture da videocamera amatoriale del 1985: colori che sbavano, bassa risoluzione, luci bruciate sui riflessi dell'acqua, contorni morbidi. Nessuna data visualizzata. A mano, tremolio naturale, composizione imperfetta, zoom che cerca la messa a fuoco, fluttuazioni di esposizione. Distanza di 3-6m dal soggetto. Il soggetto ignora la telecamera. Niente stabilizzazione, gimbal, droni, slow motion, illuminazione cinematografica o color grading commerciale. La telecamera è sempre all'altezza di una persona che la tiene in mano (in piedi, seduta, accovacciata, camminando, seduta accanto). Nessuna angolazione da posizioni in cui una persona non potrebbe trovarsi. Chi riprende è chiaramente nello stesso spazio, segue il soggetto con un leggero ritardo quando si muove, occasionalmente con un'inquadratura morbida.
+
+[Inquadrature] (Circa 2s ciascuna. Ogni riga = Location & Luce / Attività / Emozione interiore e piccoli gesti / Posizione della telecamera)
+1. Veranda/Mattina. Mangia frettolosamente riso con uovo. Occhi già rivolti al giardino. Emozione: Voler arrivare presto al fiume. Il fumo della spirale antizanzare si disperde lateralmente. Telecamera: Dall'esterno della veranda.
+2. Sentiero/Bicicletta. Pedala in piedi con il fratello sul retro. Bocca serrata guardando avanti. Emozione: Atmosfera da fratello maggiore affidabile. Il cappello scivola indietro per il vento. Telecamera: Segue da dietro, tremolante.
+3. Acqua bassa. Immerso fino alla vita con un retino, trattiene il respiro fissando i pesci. Emozione: Concentrazione. Fratello ancora dietro. Telecamera: Dalla riva, riflessi sull'acqua bruciati.
+4. Rocce. Tuffo da una piccola roccia nell'acqua bassa, ride rumorosamente mentre emerge dall'acqua che schizza. Emozione: Senso di liberazione, freschezza. Telecamera: Leggermente lontano dalla riva, gli schizzi colpiscono lo schermo.
+5. Pietra della riva/Anguria. Morde, sputa i semi lontano, guarda il fratello con un sorrisetto. Emozione: Competitività. Telecamera: Di lato, luce solare intensa.
+6. Albero del santuario/Luce filtrata. Spinge una cicala catturata nel retino davanti al fratello, ridendo mentre lui si ritrae. Emozione: Dispettosità. Telecamera: Da dietro il fratello.
+7. Veranda/Sera. Fissa seriamente la palla di fuoco di una scintilla, osservando il punto in cui svanisce dopo essere caduta. Emozione: Piccola malinconia di fine giornata. Telecamera: Seduto sul bordo della veranda di lato. Durante questo, a circa 00:14, la registrazione diventa improvvisamente nera. Nessuna dissolvenza.
+
+[Dettagli oggetti] Il retino ha un manico di bambù con rete verde. La bicicletta è un modello utilitario nero con portapacchi. La tesa del cappello di paglia è sfilacciata. L'anguria è striata, mangiata fino alla scorza. Il repellente è una spirale verde in un porta-zampirone di ceramica a forma di maialino. La scintilla ha carta rossa sulla punta.
+
+[Divieto di testo] Nessun testo leggibile, logo, cartello, etichetta o numero sullo schermo.
+
+[Fisica e coerenza] Fisica del mondo reale. Niente dita extra, mani fuse, anatomia distorta, oggetti fluttuanti, elementi che svaniscono o deformazioni improvvise. Schizzi, capelli/vestiti bagnati e scintille devono essere realistici. Piedi ben piantati a terra. Cappello, asciugamano e vestiti del fratello uguali in tutte le inquadrature.
+
+[Suono] Solo suoni ambientali naturali (cambiano per inquadratura): tintinnio di una ciotola di riso, catena della bicicletta e vento, scorrere del fiume, schizzi del tuffo, morso dell'anguria, coro di cicale, crepitio delle scintille. Nessuna parola. Occasionali piccole risate/respiri di chi riprende e del soggetto sono ammessi. Niente musica, niente narrazione, niente effetti sonori artificiali.
+
+[Atmosfera] Una testimonianza di una giornata qualunque di un ragazzo nella campagna dell'era Showa che fa sentire agli adulti: 'Ho vissuto un'estate così'. Frammenti di gioco, non recitazione. Nostalgico, luminoso, profondamente umano. Dare priorità alla sensazione che una telecamera si trovasse lì per caso.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094096157031174144/img/qxmLKSPESFCHWoaG.jpg" width="600" alt="Nostalgica vacanza estiva anni '80">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10640)**
+
+**Autore:** [妖精アーヤ](https://x.com/aiehon_aya) | **Fonte:** [Link](https://x.com/aiehon_aya/status/2097807267483553837) | **Pubblicato:** Sep 9, 2026
+
+---
+### Vlog selfie skincare UGC
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt realistico per contenuti generati dagli utenti (UGC) dedicato a una routine di skincare, focalizzato sull'interazione con il prodotto e su un'intima ambientazione in camera da letto.
+
+#### 📝 Prompt
+
+```
+Crea un video selfie UGC di skincare ultra-fotorealistico di 15 secondi, 16:9, 24fps. PRIORITÀ DI RIFERIMENTO Immagine 1 = identità esatta del personaggio. Immagine 2 = aspetto esatto del prodotto. Immagini aggiuntive dello storyboard = solo per composizione, tempismo e movimento. Mantieni costanti per tutta la durata del video il viso della donna, le lentiggini, il tono della pelle, gli occhi blu-verdi, i lunghi capelli castano chiaro caramello, gli orecchini a cerchio blu, la collana di perle, la camicia di lino bianca, le proporzioni del corpo e l'identità. Usa l'Immagine 2 come riferimento esatto per la Crème de la Mer Moisturizing Cream. Preserva sempre lo stesso vasetto bianco crema, il coperchio, la forma, le proporzioni, il materiale, il layout dell'etichetta e i colori della confezione. Non renderlo mai blu, traslucido, simile a un gel, né sostituirlo con un altro prodotto. STILE Vlog di skincare autentico di fine giornata, filmato dalla donna stessa con uno smartphone. Rilassato, intimo, leggermente stanco, a bassa energia e non recitato. Non deve sembrare una pubblicità di bellezza patinata. Niente atteggiamenti da presentatrice, reazioni esagerate, gesti di vendita del prodotto o luci da studio televisivo. LOCATION Camera da letto di una villa in stile mediterraneo durante l'ora d'oro. Pareti in stucco bianco, biancheria da letto bianca stropicciata, porta aperta, bouganville e foglie d'ulivo sullo sfondo. La calda luce solare naturale entra da sinistra, creando morbidi riflessi dorati sui capelli, sulla guancia e sulla mascella. Niente ring light o luci da studio. FOTOCAMERA Composizione selfie orizzontale 16:9. Mantieni il suo viso visivamente dominante, solitamente al 40–60% della larghezza dell'inquadratura. Usa un'inquadratura asimmetrica con il prodotto, posizionando la mano o l'ambiente sul lato opposto. Inquadratura prevalentemente a mezzo busto o primo piano stretto. Filmato autentico da smartphone: ripresa a mano libera a distanza di braccio, piccolo tremolio, leggera deriva orizzontale, minime correzioni di inquadratura, occasionali cambi di autofocus, lieve distorsione grandangolare, naturale motion blur, leggero effetto rolling shutter, sottile rumore del sensore. Non deve mai sembrare stabilizzato da un gimbal o girato professionalmente. SHOT 1 — 0:00–0:04 Primo piano selfie orizzontale. Il suo viso è leggermente a destra rispetto al centro. Sposta i capelli sciolti con il dorso del polso e controlla brevemente se stessa sullo schermo del telefono. Il vasetto bianco La Mer APERTO entra casualmente in basso a sinistra accanto alla sua guancia. Cambio di autofocus naturale tra viso e vasetto. Espira dolcemente. Dialogo: “Okay. Ultima cosa, poi a letto.” SHOT 2 — 0:04–0:07 Ripresa di dettaglio orizzontale. Vasetto a sinistra, parte del viso leggermente sfocata a destra. Preme delicatamente un polpastrello nella crema bianca densa. Mostra una deformazione realistica: la crema densa, setosa e opaca si piega sotto il dito e forma una morbida punta quando viene sollevata. Mostra brevemente l'etichetta frontale in modo chiaro: “CRÈME DE LA MER™” “LA MER” “moisturizing cream”. Poi ne strofina una piccola quantità tra due polpastrelli. Rack focus naturale: etichetta → crema → polpastrelli. Dialogo: “È così ricca.” SHOT 3 — 0:07–0:11 Ritorno al primo piano orizzontale del viso. Viso leggermente a sinistra rispetto al centro, mano che applica il prodotto a destra. Riscalda la crema e la preme delicatamente su entrambe le guance, sulla fronte e sul mento. Non creare una spessa maschera bianca. La crema appare brevemente, poi si assorbe gradualmente. Lentiggini, pori, occhiaie e la grana fine della pelle rimangono visibili. Si sviluppa solo un sottile velo idratato. Dialogo: “La riscaldo solo un po' e la faccio assorbire.” SHOT 4 — 0:11–0:15 Inquadratura selfie stretta di tre quarti. Preme due polpastrelli sulla guancia, li solleva, poi si gira lentamente verso la calda luce del sole. Un sottile velo idratato cattura la luce sullo zigomo mentre lentiggini e pori rimangono visibili. Guarda principalmente lo schermo del telefono, accenna un piccolo mezzo sorriso ritardato e un leggero cenno del capo. Il vasetto bianco La Mer appare naturalmente fuori fuoco vicino al bordo inferiore dell'inquadratura. Allunga la mano verso il telefono per interrompere la registrazione, causando una leggera inclinazione laterale naturale. Dialogo: “La me di domani mattina sarà così felice.” PERFORMANCE Energia di fine giornata: rilassata, leggermente stanca, informale e naturale. Includi sottili micro-comportamenti: battito di ciglia lento, piccolo respiro, deglutizione naturale, leggera inclinazione della testa, occhi che controllano lo schermo, ciocche di capelli che cadono sulla guancia, piccoli spostamenti di postura, mezzo sorriso ritardato. VOCE Voce femminile morbida, leggermente stanca e piatta. Suono ravvicinato del microfono dello smartphone. Respirazione naturale. Nessuna voce fuori campo da studio. REALISMO DELLA PELLE Realismo a livello dei pori. Lentiggini visibili, pori, grana fine della fronte, lievi occhiaie, piccole imperfezioni, peluria facciale, occhi umidi, riflessi naturali, texture reale delle labbra. La crema idratante deve comportarsi come una vera crema densa prima di assorbirsi. Niente pelle di plastica, levigatura da filtro di bellezza, bagliore artificiale o viso ceroso. NEGATIVO RIGOROSO Nessuna deriva del viso. Nessuna sostituzione del personaggio. Nessun cambio di acconciatura o outfit. Nessun cambio di confezione. Niente vasetto blu, coperchio blu, crema blu o gel traslucido. Nessun prodotto Laneige o altro prodotto di skincare. Nessuna duplicazione del prodotto. Nessuna etichetta falsa. Nessuna posa da presentatrice commerciale. Niente ring light. Niente luci pubblicitarie patinate. Nessun ritocco estetico estremo. Niente pelle di plastica. Niente filigrana, sottotitoli, UI o testo casuale.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097633460424953856/img/kifqcTIqms9-6nJ4.jpg" width="600" alt="Vlog selfie skincare UGC">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10633)**
+
+**Autore:** [Ima Studio](https://x.com/ImaStudio_ai) | **Fonte:** [Link](https://x.com/ImaStudio_ai/status/2097633693791846838) | **Pubblicato:** Sep 9, 2026
+
+---
+### Vlog in stile found-footage su un pianeta alieno
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt in stile found-footage che ritrae una donna intenta a esplorare una costa aliena, con battute riprese in camera e immagini grezze e suggestive.
+
+#### 📝 Prompt
+
+```
+[STILE + FOTOCAMERA + ATMOSFERA] Vero vlog da telefono in stile found-footage su un pianeta alieno. Lei si riprende mentre cammina, come qualcuno che registra un viaggio per un amico: clip irregolari, tagli netti, telefono troppo vicino, poi spostato bruscamente verso qualcosa che si è appena mosso. Leggera vibrazione, esposizione scadente, messa a fuoco morbida, sporcizia sull'obiettivo, vento che sbatte sul microfono, poi creature e piante che riempiono l'inquadratura. Quando parla verso l'obiettivo, pronuncia le brevi battute scritte qui sotto, in modo chiaro e semplice, con un tono di voce naturale. Il vento può sentirsi sotto le parole, senza coprirle. Niente transizioni, niente slow-motion, niente color grading, niente testo, niente adesivi. Sembra grezzo perché il pianeta è troppo imponente per un telefono. Una luna gigante resta sospesa nel cielo tutto il giorno, pallida e immensa, anche con i soli alti. [SOGGETTO] Una donna di circa 27 anni in anni alieni, viaggiatrice interstellare che registra il proprio vlog. Carnagione lilla-grigio, lentiggini color menta tenue, una corta cresta di capelli vitrei spettinata dal vento, occhi dorati. Abbigliamento da campo semplice per tutta la durata: un drappeggio di lino polveroso, camicia da viaggio, stivali, un piccolo zaino. Sempre completamente vestita in ogni clip. Parla verso l'obiettivo solo nei momenti indicati di seguito, poi dimentica la fotocamera e la punta verso il pianeta. Stesso volto in ogni taglio. Calma, curiosa, un po' stanca. Non sta recitando. [LUOGO] Una costa aliena selvaggia, vissuta e troppo vasta per il telefono. Scogliere di gesso, foreste di piante alte e costolate che si piegano e scricchiolano, vegetazione che si ritrae al calpestio, un fiume di gel color vetro di bottiglia, mandrie che attraversano distese ambrate, un sentiero sulla scogliera sotto la luna gigante. Due piccoli soli. Vento, granelli di polvere, coro di insetti, richiami di animali in lontananza. Niente cartoline turistiche. Lo straordinario è appena fuori dall'inquadratura. [BATTUTE IN CAMERA] Pronuncia solo queste battute, in quest'ordine, con una voce chiara e quotidiana: 1. “Secondo giorno. Quella luna non si è ancora mossa.” 2. “Va bene. Sta solo mangiando.” 3. “Passano di qui ogni giorno. Guarda le zampe.” 4. “Sì. Non ci entro.” 5. “Due soli. La luna è ancora alta.” 6. “Mi fermo qui. Lo invierò più tardi.” [TIMELINE — VLOG DA TELEFONO, TAGLI NETTI] 0-4s: HOOK — sta camminando su una scogliera di gesso, telefono in mano, luna gigante che riempie la parte superiore dell'inquadratura dietro di lei. Gira l'obiettivo verso di sé e dice, chiaramente: “Secondo giorno. Quella luna non si è ancora mossa.” Poi sposta il telefono: un gruppo di piante costolate alte come torri, che ondeggiano, baccelli che battono tra loro. Grezzo, immediato. 4-9s: Si fa strada attraverso un corridoio di vegetazione. Foglie grandi come porte si ripiegano e si sistemano dietro di lei. Taglio sul telefono tenuto basso: la vegetazione che si ritrae sotto i suoi stivali, radici pallide che scricchiolano. Taglio su di lei che si ferma, tenendo il telefono fermo, filmando un pascolatore a sei zampe grande come un carro che mastica un baccello. Guarda verso l'obiettivo. Lei non si avvicina. Dice, chiaramente, di lato rispetto all'inquadratura: “Va bene. Sta solo mangiando.” Vento sotto la battuta, parole intatte. 9-15s: Raggiunge una cresta. La luna gigante è all'orizzonte, enorme, con i crateri ben visibili. La riprende, poi il telefono si abbassa e inquadra una mandria di pascolatori dal collo lungo che attraversa la distesa ambrata, troppe zampe, che si muovono come un lento ingorgo stradale. Taglio su un primo piano di una pianta che si apre al passaggio della mandria, poi si chiude. Taglio sul suo volto per un secondo, mentre socchiude gli occhi. Dice, chiaramente: “Passano di qui ogni giorno. Guarda le zampe.” Poi il telefono torna sugli animali. Sovraesposto, polveroso, reale. 15-21s: Fiume di gel. Sta sulla riva e riprende la superficie che forma perle e scorre controcorrente. Qualcosa di grande si muove sotto, una sagoma scura, poi una pinna di guscio emerge e affonda. Fa un passo indietro, ride una volta e dice, chiaramente: “Sì. Non ci entro.” Taglio su di lei accovacciata, mentre riprende un gruppo di uccelli di fiume dal corpo cubico che beccano il fango. Uno salta su una roccia e fissa. Lei resta in silenzio. Taglio sulla luna riflessa, spezzata, nel gel. Il telefono quasi scivola. Lo afferra. 21-26s: Vento pomeridiano. Segue un sentiero sterrato tra massi a forma di conchiglia che sembrano respirare. Uno scarabeo grande come una porta attraversa davanti a lei e lei aspetta, filmando le sue zampe, poi l'occhio, poi le piante che sfiora. Resta in silenzio. Taglio su di lei che pulisce l'obiettivo con la manica. Taglio su una scogliera alta: due soli, la luna gigante ancora alta, una valle di foresta in movimento sotto. Gira l'obiettivo verso di sé e dice, chiaramente: “Due soli. La luna è ancora alta.” Poi mantiene l'inquadratura ampia. L'audio è vento, richiami lontani e quella battuta. 26-30s: La luce cala. La luna si illumina finché non diventa la fonte principale. Riprende un boschetto che si apre di notte, baccelli che brillano di un tenue color menta, piccoli volatili che sfrecciano tra loro. Taglio sul suo volto, stanca, cresta di capelli piatta per il vento, la luna sopra la sua spalla. Dice, chiaramente: “Mi fermo qui. Lo invierò più tardi.” Ultima ripresa: telefono puntato dalla scogliera verso la luna gigante e il fiume di gel scuro, una mandria che si muove ancora come piccole sagome, il suo respiro sul microfono, poi la registrazione termina a metà passo, come un vero file di vlog. [REALISMO] Solo vlog alieno found-footage. Telefono a mano, tagli netti, obiettivo sporco, vento, esposizione scadente. Stessa donna, completamente vestita, stesso volto. Parla solo le sei battute scritte, in ordine, inglese quotidiano comprensibile. Luna gigante nel cielo tutto il giorno. Creature e vegetazione guidano le clip: foresta costolata, vegetazione che si ritrae, pascolatore a sei zampe, mandria dalle molte zampe, uccelli di fiume cubici, sagoma sotto il gel, scarabeo grande come una porta. Grezzo, specifico, straordinario e, per lei, ordinario.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097628173655748608/img/DAZ6s9OmniX9fO7O.jpg" width="600" alt="Vlog in stile found-footage su un pianeta alieno">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10631)**
+
+**Autore:** [ImPaul](https://x.com/impaulxyz) | **Fonte:** [Link](https://x.com/impaulxyz/status/2097630235067920884) | **Pubblicato:** Sep 9, 2026
+
+---
+### Contrasto tra K-Drama e realtà
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt video cinematografico dettagliato per Seedance che mette a confronto l'estetica romanzata dei drama coreani con l'aspetto crudo e diretto di una ripresa da cellulare, utilizzando il character binding.
+
+#### 📝 Prompt
+
+```
+Durata: 20 secondi
+Formato: Schermo verticale 9:16
+Tema: Il contrasto tra la stessa frase coreana nei K-drama e nella realtà.
+Formato: Personaggio singolo, due stati, cinque serie di confronti A/B con taglio netto.
+
+[Character Binding]
+Scheda personaggio univoca. Mantieni la stessa identità del personaggio per tutta la durata, utilizzando volto, acconciatura e abbigliamento dell'immagine di riferimento senza ridisegnare l'aspetto.
+A e B sono due interpretazioni della stessa persona, non un dialogo tra due persone, niente inquadrature a due o split screen.
+
+[Stato A | Film romantico coreano]
+Primo piano dei personaggi in un film romantico coreano, raffinato, delicato, sottile, con una leggera atmosfera romantica.
+
+Illuminazione:
+Una grande luce soffusa proveniente dal lato della finestra illumina il volto, con delicate transizioni luce-ombra; un raggio di morbida retroilluminazione calda dal retro-laterale delinea delicatamente i capelli e la spalla. Gli occhi hanno riflessi naturali, il volto è tridimensionale, senza luci piatte di abbellimento.
+
+Color Grading:
+Bianchi cremosi, tonalità della pelle calde a bassa saturazione, leggere ombre blu-grigie fredde. Aspetto generale nitido, livelli di nero leggermente morbidi, transizione fluida nelle aree luminose. Lo sfondo tende al bianco sporco, grigio chiaro e colori caldi tenui.
+
+Texture cinematografica:
+Look da obiettivo ritrattistico medio-teleobiettivo, profondità di campo ridotta, occhi e bocca nitidi, tende e luci distanti ammorbidite in un delicato bokeh. Luci ad alta intensità con un alone morbido estremamente leggero, mantenendo la texture della pelle e una sottile grana cinematografica.
+Ogni inquadratura A presenta solo uno zoom in avanti molto leggero, quasi impercettibile.
+
+Interpretazione:
+Sguardo dolce, respiro naturale, movimenti limitati. Breve pausa emotiva prima di parlare, voce morbida, la frase termina con un tono leggero, come se si parlasse a qualcuno di caro in un K-drama.
+
+[Stato B | Ripresa amatoriale da cellulare]
+Ripresa frontale reale da interno con cellulare, sfondo semplice con parete grigia, illuminazione frontale diretta. Bilanciamento del bianco neutro, contrasto e nitidezza più diretti rispetto ad A, sfondo più definito.
+Eliminare la retroilluminazione di A, il bokeh a profondità di campo ridotta, l'alone morbido e il grading cinematografico, mantenendo però un'esposizione normale e una texture della pelle realistica.
+Fotocamera fissa, inquadratura leggermente più stretta di A, mantenendo una sensazione di ripresa ravvicinata con grandangolo da cellulare, senza distorsioni facciali esagerate.
+
+Interpretazione:
+Sguardo fisso direttamente in camera, occhi e sopracciglia visibilmente tesi, corpo leggermente proteso in avanti, tono breve, diretto e impaziente. L'effetto comico deriva dal repentino cambio di espressione e dallo stile di conversazione, non da una recitazione sopra le righe.
+
+[Composizione e montaggio]
+Inquadratura verticale unificata dal busto in su, posizione degli occhi mantenuta alla stessa altezza.
+Taglio netto su B immediatamente dopo la fine di A; texture, espressione e suono cambiano simultaneamente.
+Lo stesso volto deve rimanere riconoscibile a ogni taglio, senza distorsioni, flash bianchi, fotogrammi neri o cambi di costume.
+
+SHOT 1 | 00–04s | Non guardare
+
+Soggetto:
+Stessa persona, contrasto tra dolcezza sottile e rimprovero diretto.
+
+Azione / Interpretazione:
+00–02s, Stato A:
+Il personaggio guarda prima verso il basso, poi gira dolcemente gli occhi verso la telecamera con un accenno di sorriso sottile, dicendo dolcemente 'Non guardare'. Finisce e ritrae leggermente lo sguardo, mantenendo una naturale timidezza.
+La telecamera zooma in avanti molto lentamente, una morbida retroilluminazione calda illumina una piccola ciocca di capelli.
+
+02–04s, Taglio netto Stato B:
+Il personaggio fissa direttamente la telecamera, sopracciglia contratte, testa leggermente in avanti, ripete 'Non guardare' con un tono significativamente più pesante, seguito da un'imprecazione.
+All'ultima parola, lo sguardo resta fisso in camera, con un accenno di immobilità infastidita.
+
+Dialogo:
+A: '보지 마.'
+B: '보지 마, 이 개새끼야.'
+
+Ambiente / Telecamera / Stile:
+A presenta tende con luce soffusa e bokeh cremoso, texture cinematografica da K-drama.
+B presenta parete grigia, luce diretta e ripresa fissa da cellulare.
+
+Vincoli:
+Entrambe le frasi sono pronunciate dalla persona nell'inquadratura, finire A poi tagliare su B, sincronizzazione labiale accurata.
+
+(I segmenti rimanenti seguono lo stesso schema di contrasto...)
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097609259991416832/img/LLUBe5snd8pddPgW.jpg" width="600" alt="Contrasto tra K-Drama e realtà">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10635)**
+
+**Autore:** [John](https://x.com/johnAGI168) | **Fonte:** [Link](https://x.com/johnAGI168/status/2097609548357927333) | **Pubblicato:** Sep 9, 2026
+
+---
+### Scena dello specchio: horror psicologico gotico oscuro
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt narrativo dettagliato per Seedance 2.5 che descrive un incontro horror psicologico tra un giullare e il suo riflesso, con coreografia precisa e dettagli atmosferici.
+
+#### 📝 Prompt
+
+```
+MEZZO BATTITO IN RITARDO — 15 secondi. Horror psicologico gotico oscuro. 16:9. Azione in tempo reale, tagli controllati, progressione spaziale ed emotiva continua. RIFERIMENTI L'Immagine 1 definisce la giullare adulta Sin e il suo identico doppio malvagio nello specchio: volto esatto, trucco bianco, naso rosso, trucco scuro intorno agli occhi, lacrime dipinte, capelli rossi a due corna, corona d'oro con campanelli, gorgiera color avorio, costume da corte rosso e blu, scarpe a punta. L'Immagine 2 definisce la stanza e l'inquadratura iniziale: tenda bordeaux e calda applique da parete a sinistra, pareti color carbone, pavimento in legno, grande specchio antico dorato sulla destra. Preservare la stanza, la cornice dello specchio e la direzione della luce. IDENTITÀ E MESSA IN SCENA SIN inizia fuori dallo specchio: sempre più spaventata, resiste alla cattura. IL DOPPIO inizia dentro lo specchio: divertito, disobbediente, sorridente, fisicamente assertivo. Dopo lo scambio, il DOPPIO è fuori nella stanza e SIN è intrappolata dietro il vetro intatto. Iniziare con la composizione della stanza vuota dell'Immagine 2. Sin entra dal basso a sinistra, cammina in diagonale verso lo specchio e si ferma a circa 55 cm dal vetro, con il busto rivolto verso di esso, la schiena e il profilo parziale verso la telecamera. Tenerla leggermente decentrata rispetto allo specchio in modo che sia il volto reale che quello riflesso rimangano visibili. La telecamera rimane sul lato anteriore sinistro dello specchio; il vetro rimane ampiamente visibile, non di taglio. Prospettiva naturale, dettagli facciali leggibili, profondità di campo sufficiente per entrambi i volti. Durante lo scambio, Sin passa verso l'interno attraverso la metà sinistra dello schermo dello specchio, mentre il Doppio esce attraverso la metà destra. I loro percorsi rimangono separati. Successivamente, il Doppio fa un breve passo di assestamento verso sinistra, finendo in primo piano a sinistra mentre la Sin intrappolata rimane visibile dentro lo specchio sulla destra. BLOCCO DELLA PERFORMANCE Sin smette di sorridere non appena nota l'anomalia e non sorride mai più. Il Doppio continua a sorridere e non copia mai la paura di Sin. Sin scuote la testa, indietreggia, ansima, perde l'equilibrio, resiste. Il Doppio si rifiuta di seguire, avanza, afferra, tira, pianta i piedi. Dopo lo scambio, Sin va nel panico dentro lo specchio mentre il Doppio si gira verso la telecamera, sorride in modo malvagio, poi sussurra. Entrambi i volti rimangono vivi e naturali, mai congelati o deformati. 0-3 SECONDI — IL SORRISO RIMANE Un tacco clicca fuori campo. Sin entra immediatamente, fa due o tre brevi passi decisi verso lo specchio, postura rilassata, mento leggermente sollevato, piccolo sorriso abituale. Il peso si trasferisce naturalmente attraverso ogni piede; la gonna e i campanelli della corona seguono con movimento e suono morbidi. Il suo riflesso appare normale all'inizio. Sin sistema brevemente il lato della corona con la mano destra, la abbassa, espira e la sua bocca diventa neutra. La mano riflessa si abbassa con circa mezzo secondo di ritardo. Il Doppio continua a sorridere e mostra lentamente i denti. Un leggero zoom in avanti mantiene entrambi i volti leggibili: Sin neutra e senza sorriso, il Doppio ancora sorridente. 3-5,5 SECONDI — DISOBBEDIENZA APERTA Sin guarda dalla bocca del Doppio ai suoi occhi, la fronte si contrae, poi scuote lentamente la testa una volta. Il Doppio non scuote la testa. Inclina leggermente il capo e allarga il suo sorriso divertito. Sin riprende fiato, ritrae il mento, indietreggia di circa 20 cm e solleva la mano destra all'altezza del petto, con il palmo verso lo specchio. Il Doppio si sporge più vicino al vetro mentre Sin aumenta la sua distanza reale. Mantenere entrambi i movimenti opposti visibili nella stessa inquadratura obliqua. 5,5-8 SECONDI — PRESA, POI TIRO Taglio netto su un piano medio dallo stesso lato che inquadra entrambi i volti, il polso destro sollevato di Sin e il bordo sinistro dello specchio. Una porzione localizzata di vetro si trasforma in una membrana elastica scura. La mano sinistra del Doppio attraversa la stanza e afferra saldamente il polso destro di Sin. Il Doppio tira verso l'interno. Gli occhi di Sin scattano verso il polso catturato; le sue labbra si schiudono in un respiro affannoso. La sua mano sinistra afferra la cornice sinistra dello specchio, il piede posteriore fa leva sul pavimento di legno, le ginocchia si piegano mentre tira all'indietro. Il Doppio mantiene il suo sorriso freddo e ritrae con forza costante. Sin perde la presa sulla cornice. La sua spalla destra viene tirata in avanti per prima, poi il busto; la sua scarpa posteriore inizia a scivolare. Resiste per tutto il tempo e non cammina mai volontariamente dentro lo specchio. 8-11,5 SECONDI — UNA DENTRO, UNA FUORI La telecamera si ritrae leggermente per rivelare il confine dello specchio e il piede che tocca terra. Il Doppio esce attraverso la metà destra dello specchio e pianta saldamente una scarpa a punta sul pavimento di legno prima di caricare il peso. Sin viene tirata verso l'interno attraverso la metà sinistra. Il Doppio mantiene la presa finché Sin non attraversa la superficie, poi rilascia il polso. I loro volti identici passano su percorsi separati: Sin terrorizzata, tremante, respiro affannoso; il Doppio composto con un piccolo sorriso vittorioso. I capelli rossi e il tessuto in movimento oscurano brevemente il punto di passaggio. Usare un taglio di continuità nascosto solo all'interno di quell'occlusione. Quando l'occlusione svanisce, lo scambio è completo: dentro lo specchio Sin inciampa facendo un passo indietro, poi si gira e si scaglia di nuovo verso il vetro; fuori, il Doppio completa il suo passo di assestamento verso sinistra. La membrana si richiude in uno specchio riflettente intatto prima che Sin possa raggiungerlo. I suoi palmi colpiscono la superficie interna e si fermano. La cornice dorata rimane rigida. Nessuna rottura. 11,5-13 SECONDI — GIRARSI PER PRIMA Taglio netto su un piano medio-stretto dallo stesso lato che contiene chiaramente entrambi i volti. Il Doppio inizia rivolto verso lo specchio, poi le spalle e il busto si girano verso la telecamera finché il suo volto non è completamente visibile. Mostrare la rotazione completa del corpo prima di qualsiasi sorriso frontale. Dietro di esso, la Sin intrappolata guarda verso l'esterno dall'interno dello specchio. Guarda i suoi palmi bloccati, scansiona urgentemente i bordi della cornice, poi guarda il Doppio. Colpisce il vetro una volta e apre la bocca per chiamare, senza essere udita. Sin rimane una persona intrappolata indipendente, non un riflesso sincronizzato. 13-14 SECONDI — POI IL SORRISO MALVAGIO Il Doppio finisce di girarsi e rimane immobile, spalle rilassate, occhi sull'obiettivo. Solo ora un angolo della sua bocca si solleva in un sorriso chiaramente malvagio e soddisfatto con un po' di dente visibile. Mantenere Sin chiaramente leggibile dietro di esso: sopracciglia interne sollevate, palpebre inferiori tese, bocca rivolta verso il basso, movimento rapido del torace, palmi premuti contro il vetro. La sua paura continua durante tutto il sorriso del Doppio. 14-15 SECONDI — INFINE, "SHH" Il Doppio solleva l'indice destro verso le labbra, smorza leggermente il sorriso e sussurra direttamente alla telecamera: "Shh". La voce è bassa, intima, ferma. Sin colpisce di nuovo il vetro con una mano mentre l'altra rimane ferma, bocca aperta in una supplica silenziosa. Non imita mai il gesto del dito, il sorriso o lo sguardo. Taglio netto al nero esattamente a 15 secondi. COLORE E LUCE Tavolozza singola coerente: marrone carbone #211E1B per pareti e ombre profonde, bordeaux scuro #4B171A per tenda e ombra del costume rosso, ottone invecchiato #9C7544 per cornice dello specchio, corona e campanelli, grigio avorio #D8D0C1 per trucco e gorgiera, blu-grigio profondo #29313B per tessuto del costume blu e ombra fredda. Preservare la calda applique sinistra dell'Immagine 2 a circa 2700-3000K. Riflessi oro antico localizzati, ombre sottilmente fredde, mezzitoni neutri, saturazione contenuta, neri densi e strutturati. Proteggere il trucco bianco da contaminazioni arancioni o blu. Il bagliore dello specchio non nasconde mai il volto riflesso. Nessun ripristino di colore, esposizione o illuminazione durante lo scambio. AUDIO Clic di tacchi, movimento del tessuto e campanelli delicati definiscono la stanza. Il respiro interrotto di Sin si trasforma in ansimi durante la resistenza. Aggiungere attrito della presa al polso, stridore di scarpe, contatto con la cornice e tensione della membrana. Dopo che lo specchio si sigilla, la voce e il respiro di Sin sono impercettibili dalla stanza; i suoi impatti diventano deboli colpi attutiti. Il "Shh" finale del Doppio è l'unica battuta parlata. Niente musica, narrazione o sottotitoli. BLOCCHI DI CONTINUITÀ Esattamente una Sin originale e un Doppio malvagio. Preservare identità separate, corretta appartenenza del polso, contatto della presa, resistenza e percorsi di viaggio verso l'interno/esterno attraverso i tagli. Niente corpi fusi, occupanti duplicati, mani extra o salti di posizione. Prima dell'anomalia, il riflesso si comporta naturalmente. Dopo lo scambio, entrambe le performance rimangono indipendenti. Il contrasto dell'immagine finale deve rimanere chiaro: Doppio o
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097589699774984192/img/KZb7Kt9cLbzjDjQt.jpg" width="600" alt="Scena dello specchio: horror psicologico gotico oscuro">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10623)**
+
+**Autore:** [Loriel.AI](https://x.com/ou_zhen599) | **Fonte:** [Link](https://x.com/ou_zhen599/status/2097590757641375794) | **Pubblicato:** Sep 9, 2026
+
+---
+### Montaggio Vlog Invernale Alpino
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt per un diario di viaggio di lusso cinematografico di 30 secondi che mostra una giovane donna in un villaggio di montagna alpino, con scene di sci, passeggiate nel bosco e momenti accoglienti in un caffè.
+
+#### 📝 Prompt
+
+```
+Un montaggio vlog invernale alpino cinematografico di 30 secondi con la stessa giovane donna che esplora un villaggio di montagna innevato durante una vacanza invernale accogliente. Girato come un autentico diario di viaggio di lusso con movimento di camera a mano, momenti spontanei, luce diurna soffusa che sfuma in una calda luce di fuoco, estetica da film 35mm da sogno, color grading dai toni freddi con accenti ambrati caldi, profondità di campo ridotta, texture della pelle naturale, illuminazione d'atmosfera e narrazione cinematografica. Mantieni la stessa donna in ogni scena: capelli scuri, aspetto giovanile, trucco naturale, espressione felice e rilassata — identità bloccata sull'immagine di riferimento. Formato: video cinematografico 4K, 24fps, grana pellicola 35mm, camera a mano realistica, messa a fuoco morbida, palette a contrasto freddo-caldo, stile documentario di viaggio. Scena 1 (0-4s) — Arrivo al villaggio degli chalet: Una frizzante mattina d'inverno, neve leggera che cade. Esce dalla porta di uno chalet in legno indossando un maglione a trecce color crema, un parka con bordo in pelliccia sintetica e un berretto di lana, il respiro visibile nell'aria fredda. La telecamera la segue da dietro lungo un sentiero acciottolato innevato fiancheggiato da cottage in legno, poi ruota in un primo piano mentre lei si gira e sorride, dicendo dolcemente: "Ok, sembra già di essere in un film". Scena 2 (4-8s) — Prima sciata: Scivola lungo una pista facile per principianti, la neve che spruzza leggermente sotto gli sci, i pini che sfocano ai lati. Riprese a inseguimento dal basso da dietro, poi un'angolazione frontale stile GoPro che la cattura mentre ride, barcolla leggermente e si riequilibra. Scena 3 (8-12s) — Passeggiata nella foresta di pini innevata: Vista dal basso verso l'alto tra i rami di pino gelati, luce solare pallida che filtra con morbidi lens flare sui cristalli di ghiaccio. Taglio su un primo piano di lei che cammina nella neve fresca, la mano guantata che sfiora un ramo basso, mormorando: "È così silenzioso qui che sembra irreale". Scena 4 (12-16s) — Pausa in un caffè accogliente: Si siede vicino a una finestra gelata all'interno di un piccolo caffè in legno, le mani avvolte attorno a una tazza fumante di cioccolata calda con panna montata. La calda luce interna contrasta con il mondo blu-bianco esterno. Primo piano sui marshmallow che si sciolgono, il suo mezzo sorriso soddisfatto mentre guarda la neve scendere oltre il vetro. Scena 5 (16-20s) — Avventura in slitta: Si siede su una slitta di legno in cima a una collina dolce, si spinge e scende veloce ridendo, i capelli che volano liberi da sotto il berretto. La telecamera segue lateralmente all'altezza della slitta. Cade dolcemente in un banco di neve in fondo, ridendo, e chiama verso la telecamera: "Non filmare questa parte... ok, continua a filmare". Scena 6 (20-24s) — Esplorazione del mercatino di Natale: Un mercatino serale luminoso decorato con calde lucine, neve che si deposita sulle bancarelle di legno, il profumo di castagne arrosto suggerito dal vapore che sale dai carretti dei venditori. Si fa strada tra la folla assaggiando sidro caldo e pan di zenzero, il viso illuminato dalle luci e dal bagliore delle lanterne. Primi piani cinematografici dei suoi occhi che si spalancano all'assaggio, luci sfocate in un morbido bokeh dietro di lei. Scena 7 (24-27s) — Tramonto dorato sulle vette: Un'ampia inquadratura in silhouette di lei in piedi su un belvedere innevato mentre il sole scende dietro la catena montuosa, il cielo che passa dall'oro pallido al viola tenue, la sciarpa che ondeggia al vento. Inclina il viso verso la luce che svanisce, una mano tiene fermo il berretto. Scena 8 (27-30s) — Riflessione notturna davanti al camino: Interno di una baita di notte, camino acceso, neve visibile attraverso una finestra gelata dietro di lei. Si siede raggomitolata su una coperta di lana, tazza in mano, la luce del fuoco che tremola sul suo viso. Ultimo primo piano intimo mentre guarda direttamente nell'obiettivo con un sorriso dolce e caldo, dicendo: "Buonanotte dalle montagne". Stile della telecamera: Cinematografia autentica da vlog di viaggio, tremolio della telecamera a mano, transizioni cinematografiche fluide, lenti push-in, movimento naturale, riprese POV occasionali, autofocus realistico, leggero motion blur. Stile visivo: Inverno alpino accogliente, estetica da brand di viaggi boutique, luce diurna soffusa con interni caldi illuminati dal fuoco, texture della pelle realistica, profondità di campo cinematografica ridotta, look nostalgico da pellicola 35mm, toni a contrasto freddo-caldo, espressioni naturali non sceneggiate, narrazione emotiva. Evitare: stile cartone animato, look CGI, pelle di plastica, viso irrealistico, aspetto del personaggio incoerente, cambio di acconciatura, dita extra, corpo distorto, illuminazione artificiale, colori troppo saturi, viso sfocato, movimenti innaturali, persone duplicate.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097564485687078912/img/7ipIBQnIKiw4wiTt.jpg" width="600" alt="Montaggio Vlog Invernale Alpino">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10584)**
+
+**Autore:** [Eshal](https://x.com/eshal__ai) | **Fonte:** [Link](https://x.com/eshal__ai/status/2097564912851759244) | **Pubblicato:** Sep 9, 2026
+
+---
 ### Video educativo di laboratorio di fisica
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -706,6 +1260,170 @@ Xianxia, Commedia Deadpan, Scontro tra maestri, Tre tempi
 **Autore:** [Soran](https://x.com/Soranlan) | **Fonte:** [Link](https://x.com/Soranlan/status/2097549763143221433) | **Pubblicato:** Sep 9, 2026
 
 ---
+### Trasformazione di una mappa del mondo in miniatura
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinematografico che visualizza una mappa cartacea antica che si trasforma fisicamente in un mondo in miniatura dettagliato, completo di montagne, fiumi e minuscole città.
+
+#### 📝 Prompt
+
+```
+FORMATO:
+Verticale 16:9, 4K HDR, cinematografia live-action in miniatura fotorealistica, qualità commerciale cinematografica premium, fisica realistica, motion blur naturale, obiettivo macro, profondità di campo ridotta, 24fps.
+
+CONCETTO PRINCIPALE:
+Una comune mappa cartacea antica su una scrivania di legno si trasforma fisicamente in un mondo in miniatura completo. La telecamera entra nel mondo e termina con uno spettacolare reveal aereo.
+
+SCENA 1 — 0–3 SECONDI | HOOK
+
+Primo piano macro estremo di una vecchia mappa cartacea dalla texture meravigliosa, distesa su una scrivania di legno scuro.
+
+Inizialmente la mappa sembra del tutto normale: coste, fiumi, montagne e strade dettagliate stampate sulla carta.
+
+Un'unica minuscola increspatura attraversa improvvisamente la mappa.
+
+La catena montuosa stampata inizia a sollevarsi fisicamente dalla carta.
+
+Nessun bagliore magico. La trasformazione deve apparire fisica e credibile, come se la mappa piatta si stesse trasformando in un vero paesaggio in miniatura.
+
+SCENA 2 — 3–7 SECONDI | TRASFORMAZIONE
+
+La telecamera si allontana lentamente mentre l'intera mappa si trasforma.
+
+Le catene montuose si sollevano diventando montagne in miniatura dettagliate.
+
+I fiumi si scavano nel terreno e iniziano a scorrere con acqua realistica.
+
+Minuscole foreste crescono lungo il paesaggio.
+
+Piccole strade emergono fisicamente dalla mappa e collegano le città in miniatura.
+
+Minuscole case ed edifici si alzano naturalmente lungo le strade.
+
+Tutto rimane perfettamente collegato al layout originale della mappa.
+
+SCENA 3 — 7–11 SECONDI | ENTRA NEL MONDO
+
+La telecamera si immerge dolcemente verso una strada in miniatura e passa dalla fotografia macro da tavolo a una ripresa in tracking immersiva nel mondo in miniatura.
+
+Una minuscola auto d'epoca percorre la strada tortuosa.
+
+La telecamera la segue attraverso un villaggio di montagna in miniatura.
+
+Le minuscole case hanno muri in pietra realistici, porte in legno, tegole sui tetti e finestre calde e luminose.
+
+Minuscoli pedoni camminano naturalmente lungo il ciglio della strada.
+
+Un piccolo ponte attraversa un fiume che scorre.
+
+SCENA 4 — 11–15 SECONDI | GRANDE REVEAL FINALE
+
+La telecamera segue la strada verso la cima di una montagna in miniatura, poi si alza dolcemente sopra il paesaggio.
+
+L'intera mappa è ora un continente in miniatura mozzafiato.
+
+Enormi catene montuose, foreste, fiumi, villaggi, autostrade, ponti e città lontane sono visibili sulla superficie.
+
+La luce dorata del tramonto spazza il paesaggio in miniatura.
+
+Inquadratura finale: la telecamera continua a salire finché non diventa chiaro che questo intero mondo vivente è ancora appoggiato sul pezzo di carta originale sulla scrivania di legno.
+
+STILE VISIVO:
+Fotografia in miniatura artigianale ultra-realistica.
+Fibre della carta estremamente dettagliate.
+Terreno, rocce, vegetazione e acqua realistici.
+Minuscoli dettagli architettonici.
+Prospettiva atmosferica naturale.
+Illuminazione cinematografica dell'ora d'oro.
+Sottili transizioni della profondità di campo.
+Riflessi e ombre realistici.
+Estetica premium da spot di viaggio di alta gamma.
+
+TELECAMERA:
+Iniziare con una macro estrema.
+Movimento di dolly lento e controllato.
+Transizione fluida verso il
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097546953848692736/img/OSsf_7i8D8jTY2SE.jpg" width="600" alt="Trasformazione di una mappa del mondo in miniatura">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10628)**
+
+**Autore:** [Maverick | AI](https://x.com/RizwanAly07) | **Fonte:** [Link](https://x.com/RizwanAly07/status/2097547054189027792) | **Pubblicato:** Sep 9, 2026
+
+---
+### Pubblicità di moda retro rosa da sogno
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Uno spot di moda dall'estetica vintage anni '90 con una camera da letto rosa, luce del mattino e la trasformazione di un personaggio.
+
+#### 📝 Prompt
+
+```
+Crea uno spot di moda cinematografico di 25 secondi dai toni rosa retro e sognanti, ambientato in un'accogliente camera da letto femminile. Tutto presenta una palette di colori pastello tenui, calda luce solare del mattino, estetica vintage anni '90, carta da parati floreale, letto rosa, specchiera, grazioso telefono retro, accessori rosa e tende leggere.
+
+Scena 1: Ripresa grandangolare dall'alto di una bellissima camera da letto rosa illuminata dalla calda luce del sole, ombre soffuse che si allungano sul letto, atmosfera nostalgica e sognante.
+
+Scena 2: Una giovane donna con un grazioso pigiama rosa pastello è sdraiata comodamente sul letto con una mascherina per dormire rosa, mentre tiene in mano un telefono vintage rosa. Un bicchiere rosa è appoggiato accanto a lei. Movimento di macchina cinematografico lento.
+
+Scena 3: Primo piano del suo viso mentre solleva leggermente la mascherina e parla al telefono; pelle luminosa, trucco naturale, espressioni delicate, profondità di campo ridotta.
+
+Scena 4: Si alza dal letto e cammina verso la specchiera. Ripresa in movimento fluido che la segue attraverso la camera da letto illuminata dal sole.
+
+Scena 5: Alla specchiera vintage, si siede davanti a un grande specchio ovale e si prepara, circondata da profumi, trucchi, accessori per capelli e gioielli. Mostra eleganti primi piani di lei che si spazzola i capelli e si trucca.
+
+Scena 6: Guarda verso la porta della camera da letto, si avvicina e sbircia lentamente fuori con un'espressione giocosa.
+
+Scena 7: Inquadratura finale glamour allo specchio: ora è completamente vestita con un elegante outfit rosa pastello, in piedi con sicurezza davanti alla specchiera. Luce solare soffusa, posa elegante, atmosfera da spot pubblicitario romantico e sognante.
+
+Stile visivo: fotografia cinematografica ultra-realistica, toni rosa pastello, calda luce solare naturale, estetica nostalgica anni '90, leggera grana della pellicola, bagliore sognante, texture della pelle realistica, profondità di campo ridotta, movimenti di macchina fluidi, sottile lens flare, spot di moda premium, altamente dettagliato, 4K, personaggio e guardaroba coerenti, nessun testo, nessuna filigrana.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097545078915129344/img/wt5xjifGTW9sdyBu.jpg" width="600" alt="Pubblicità di moda retro rosa da sogno">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10547)**
+
+**Autore:** [Noor](https://x.com/noorlewisx) | **Fonte:** [Link](https://x.com/noorlewisx/status/2097545178013950280) | **Pubblicato:** Sep 9, 2026
+
+---
+### Horror cinematografico di sopravvivenza nella foresta
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un terrificante cortometraggio horror di 30 secondi che segue tre amici in una foresta mentre incontrano un'orda di zombie, caratterizzato da gore realistico e intense sequenze di inseguimento.
+
+#### 📝 Prompt
+
+```
+Utilizza l'immagine dello storyboard caricata come riferimento visivo esatto. Mantieni gli stessi tre personaggi, gli stessi abiti, lo stesso ambiente forestale, la stessa atmosfera horror e lo stesso stile cinematografico per l'intero video. Fai in modo che i personaggi sembrino veri attori umani, con espressioni facciali naturali, movimenti realistici e una qualità da film live-action.
+Crea un cortometraggio horror cinematografico ultra-realistico di 30 secondi con una progressione narrativa continua.
+Scena 1 (0–5s): Inizio tranquillo
+Una giovane coppia siede vicino a un grande albero in una zona boschiva buia e abbandonata, mentre il loro amico esplora i dintorni con una torcia. L'atmosfera sembra quella di un viaggio avventuroso. Illuminazione notturna fredda, nebbia leggera, vento realistico che muove foglie e capelli. La telecamera si avvicina lentamente alla coppia mantenendo l'aspetto esatto dei personaggi del riferimento.
+Scena 2 (5–8s): Avvertimento con goccia di sangue
+La ragazza sente improvvisamente qualcosa cadere dall'alto. Una piccola goccia di sangue cade da un ramo d'albero e le finisce sul viso. Si tocca lentamente la guancia confusa. Il ragazzo se ne accorge, guarda verso l'alto e la sua espressione cambia da calma a terrorizzata. Aggiungi un suono horror teso, movimento lento della telecamera, reazioni realistiche.
+Scena 3 (8–12s): Rivelazione dell'orda di zombie
+Il ragazzo si gira lentamente e guarda dietro la ragazza. La telecamera si sposta sopra la sua spalla e rivela un folto gruppo di zombie che emerge dalla nebbia della foresta oscura. Decine di zombie si avvicinano lentamente. Il ragazzo appare scioccato e nel panico. La ragazza e l'altro amico realizzano il pericolo.
+Scena 4 (12–17s): Inizia l'attacco
+Gli zombie iniziano improvvisamente a inseguirli. I tre personaggi corrono attraverso la foresta nel panico. L'amico rimuove gli ostacoli dal loro percorso mentre corre. La ragazza fatica a tenere il passo, respirando affannosamente, con un'espressione terrorizzata. Usa uno stile di ripresa a mano tremolante come in un vero film horror di sopravvivenza.
+Scena 5 (17–22s): Rifugio in una vecchia capanna
+Raggiungono una capanna di legno abbandonata e vi si precipitano dentro. Spingono una pesante porta di legno e cercano di bloccarla mentre gli zombie colpiscono dall'esterno. Mostra la loro paura, l'esaurimento e la lotta. Illuminazione della torcia, interno buio, ombre realistiche.
+Scena 6 (22–27s): Attacco dalla finestra
+Improvvisamente uno zombie irrompe attraverso la finestra laterale. Il vetro si rompe e cade. I tre personaggi indietreggiano per la paura. Cercano disperatamente un'altra via di fuga. Mostra panico realistico, movimenti veloci e un'intensa atmosfera horror.
+Scena 7 (27–30s): Fuga finale
+I tre corrono fuori dalla capanna verso un vecchio tunnel buio nella foresta. L'orda di zombie li segue da vicino. La telecamera segue da dietro con un movimento di inseguimento cinematografico. Entrano nel tunnel mentre gli zombie si avvicinano. Concludi con un finale oscuro e pieno di suspense.
+Stile visivo:
+Film horror live-action ultra-realistico, volti umani naturali, movimento del corpo realistico, illuminazione cinematografica, color grading blu-verde scuro, foresta nebbiosa, fisica realistica, telecamera a mano
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097544557995208705/img/TDNH3OaWVPAIfIGw.jpg" width="600" alt="Horror cinematografico di sopravvivenza nella foresta">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10552)**
+
+**Autore:** [shah_zadii](https://x.com/sha_zdiii) | **Fonte:** [Link](https://x.com/sha_zdiii/status/2097544751318991209) | **Pubblicato:** Sep 9, 2026
+
+---
 ### Rituale folk horror coreano
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -734,6 +1452,52 @@ Stile: folk horror coreano cinematico, interni in legno scuro, calda luce di can
 **[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10549)**
 
 **Autore:** [WasifAI](https://x.com/doctorwasif) | **Fonte:** [Link](https://x.com/doctorwasif/status/2097533759944090052) | **Pubblicato:** Sep 9, 2026
+
+---
+### Scena di commedia d'azione in un quartiere coreano
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt dettagliato per una scena comica ambientata in un'area residenziale coreana, incentrato sulla coerenza dei personaggi e sull'estetica da videocamera a mano.
+
+#### 📝 Prompt
+
+```
+Crea una scena di commedia d'azione coreana di 30 secondi, 1080p, ultra-realistica, utilizzando le immagini caricate come riferimenti visivi esatti. Mantieni la coerenza di personaggi, volti, capelli, abbigliamento e ambiente per tutta la durata.
+PERSONAGGI:
+Giovane donna coreana, poco più che ventenne, lunghi capelli neri lisci, top corto a maniche lunghe verde, jeans larghi blu e gioielli argentati; sicura di sé, espressiva e senza paura.
+Giovane uomo coreano, poco più che ventenne, capelli neri corti, camicia grigia abbottonata, pantaloni scuri e scarpe da ginnastica bianche; inizialmente spavaldo, poi sempre più nervoso.
+INQUADRATURA 1
+La donna cammina lungo una tranquilla strada residenziale portando una piccola busta della spesa. Nota l'uomo che guida un minuscolo monopattino elettrico verso di lei a una velocità eccessiva.
+INQUADRATURA 2
+Lui suona improvvisamente il campanello ripetutamente e le fa segno di spostarsi. Lei si scosta con calma, guardandolo passare con un'espressione infastidita.
+INQUADRATURA 3
+Pochi secondi dopo, il monopattino torna nell'inquadratura da solo. L'uomo corre dietro di esso, cercando disperatamente di prenderlo.
+INQUADRATURA 4
+La donna lo guarda correre oltre lei. Allunga casualmente un piede e ferma il monopattino prima che finisca in strada.
+INQUADRATURA 5
+Lui finalmente la raggiunge, senza fiato, e dice: "Aspetta... l'hai fermato tu?". Lei lo guarda semplicemente e dice: "Prego".
+INQUADRATURA 6
+Lui afferra il monopattino e prova ad allontanarsi di nuovo, ma la donna nota che la sua busta della spesa si è aperta e le verdure stanno rotolando lungo il marciapiede.
+INQUADRATURA 7
+Lei recupera rapidamente diverse verdure prima che raggiungano la strada. L'uomo resta lì imbarazzato mentre un vicino anziano osserva e ride sommessamente.
+INQUADRATURA 8
+La donna gli restituisce tutto, gli rivolge uno sguardo scherzoso del tipo "seriamente?" e si allontana.
+INQUADRATURA 9 — FINALE
+L'uomo inizia ad allontanarsi, poi si rende conto che il suo casco è ancora in mano a lei. Lei lo solleva sopra la testa con un piccolo sorriso soddisfatto. Lui si ferma, si gira e torna indietro verso di lei mentre lei ride.
+STILE VISIVO:
+Quartiere residenziale coreano ultra-realistico, estetica MiniDV/videocamera dei primi anni 2000, camera a mano, inquadrature imperfette, leggera ricerca dell'autofocus, variazioni naturali dell'esposizione, sottile motion blur, dettagli digitali morbidi, calda luce solare pomeridiana, case coreane realistiche, monopattini parcheggiati, pali della luce, strade strette e un'autentica atmosfera quotidiana. Tempismo comico veloce, linguaggio del corpo naturale e tagli netti tra le inquadrature.
+AUDIO:
+Solo suoni diegetici naturali: passi, motore del monopattino, campanello, traffico in lontananza, uccelli, ambiente del quartiere, verdure che colpiscono il marciapiede, dialoghi naturali e risate. Assolutamente nessuna musica o colonna sonora.
+PROMPT NEGATIVO:
+Niente sangue, ferite gravi, alterazione dell'identità, cambi di abbigliamento, persone duplicate, arti extra, mani distorte, teletrasporto, fisica impossibile, reazioni da cartone animato, aspetto CGI, sottotitoli, didascalie, testo, loghi o filigrane.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097532301538394112/img/IRE7C5Mf6hyBG4qM.jpg" width="600" alt="Scena di commedia d'azione in un quartiere coreano">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10629)**
+
+**Autore:** [Synthia](https://x.com/AIwithSynthia) | **Fonte:** [Link](https://x.com/AIwithSynthia/status/2097532372921229702) | **Pubblicato:** Sep 9, 2026
 
 ---
 ### Prompt per sequenza di personaggi multi-shot
@@ -1523,6 +2287,25 @@ Utilizza l'immagine di riferimento per il personaggio. Un'idol femminile si trov
 **[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10512)**
 
 **Autore:** [妖精アーヤ](https://x.com/aiehon_aya) | **Fonte:** [Link](https://x.com/aiehon_aya/status/2097082482306720232) | **Pubblicato:** Sep 7, 2026
+
+---
+### Documentario: Caduta di ghiaccio nel cratere vulcanico
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un dettagliato prompt cinematografico a più fasi per Seedance 2.0 che mostra una donna che lancia un enorme blocco di ghiaccio in una pozza di lava vulcanica da un elicottero.
+
+#### 📝 Prompt
+
+```
+[Stile] Documentario d'avventura estrema in live-action realistico, video breve in formato verticale, texture da obiettivo grandangolare di smartphone a mano. Personaggi reali, interni dell'abitacolo reali, rifrazione e crepe interne dei cubetti di ghiaccio trasparenti, roccia vulcanica nera e lava rosso-arancio. Preserva il leggero tremolio della ripresa a mano, le vibrazioni del volo, il motion blur naturale e i cambi di esposizione. L'interno è buio, il cielo esterno è luminoso e la lava proietta riflessi rosso-arancio sul braccio del personaggio, sul blocco di ghiaccio e sulla soglia. L'eruzione finale utilizza effetti speciali cinematografici realistici, una colonna di gas bianco con strati volumetrici e dettagli in movimento. [Durata] 15 secondi, 9:16 verticale, ripresa singola continua. Azione in tempo reale, nessun taglio, nessuna moviola, nessun'altra angolazione di ripresa. [Scena] Un elicottero sorvola un'area di lava vulcanica, con la porta laterale completamente aperta. La telecamera è all'interno e guarda verso l'esterno. Cornice della porta scura visibile a sinistra e in alto, pavimento antiscivolo in basso. Sotto si trova una vasta area di lava solidificata grigio-nera con tortuose crepe rosso-arancio luminescenti che circondano una pozza di lava quasi circolare dove il materiale fuso ribolle. La pozza è il punto di caduta per il ghiaccio e la successiva eruzione. [Personaggio] Una donna adulta dell'Asia orientale, coda di cavallo castana, indossa una giacca tecnica e pantaloni da lavoro, cuffie da aviazione. Capelli mossi dal forte vento. Inizialmente sorride alla telecamera, poi si concentra sull'esterno; termina ritraendosi dall'eruzione. Il personaggio rimane all'interno della cabina, solo le braccia e il ghiaccio si sporgono all'esterno. [Oggetto principale] Un singolo blocco di ghiaccio rettangolare trasparente gigante, lungo dal petto alle ginocchia, largo quanto un tronco. Pesante, con superficie bagnata e bolle/crepe interne. La donna lo tiene con entrambe le braccia mostrandone il peso. Si inclina verso il basso dopo il rilascio come un blocco unico. [Fotocamera] Inizia come una ripresa media a mano della donna e del ghiaccio. Dopo il rilascio, la telecamera si inclina verso il basso e segue la caduta, rimanendo sulla soglia. Mantiene una vista dall'alto della pozza di lava, poi si ritrae rapidamente mentre la colonna di gas si avvicina. [Timeline] 00:00-01:30: Tiene il ghiaccio e sorride. 01:30-02:30: Si gira verso il punto di caduta e abbassa il baricentro per spingere fuori il ghiaccio. 02:30-03:10: Rilascio del ghiaccio oltre la soglia. 03:10-04:60: Ripresa aerea del ghiaccio in caduta. 04:60-08:20: Attesa sopra la pozza di lava ribollente. 08:20-11:50: Appare un piccolo vapore bianco che accumula forza. 11:50-12:40: Espansione improvvisa della colonna di gas bianco che spara verso l'alto. 12:40-13:60: La colonna di gas si avvicina all'obiettivo, la telecamera si ritrae nel panico.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096984251615047680/img/AOaEmhICg-dW96A8.jpg" width="600" alt="Documentario: Caduta di ghiaccio nel cratere vulcanico">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10702)**
+
+**Autore:** [探路AI](https://x.com/TanLuAI) | **Fonte:** [Link](https://x.com/TanLuAI/status/2096984350055436729) | **Pubblicato:** Sep 7, 2026
 
 ---
 ### Scena di vicolo nell'ora d'oro
@@ -3104,1085 +3887,6 @@ Stile generale: Spot pubblicitario per orologi di lusso, illuminazione cinematog
 **Autore:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Fonte:** [Link](https://x.com/ayzalnooor24521/status/2094641418174361694) | **Pubblicato:** Sep 1, 2026
 
 ---
-### Trasformazione di uno scarabeo biomeccanico in stile Transformers
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt di trasformazione video che converte un umanoide scarabeo biomeccanico in uno scarabeo robotico nello stile cinematografico dei film Transformers.
-
-#### 📝 Prompt
-
-```
-Nello stile dei film Transformers, puoi trasformare l'umanoide scarabeo biomeccanico dell'Immagine 1 in uno scarabeo robotico biomeccanico nell'Immagine 2.
-```
-
-<img src="https://cms-assets.youmind.com/media/1788331415724_9dfin8_HRGI13cbIAAdhHY.jpg" width="600" alt="Trasformazione di uno scarabeo biomeccanico in stile Transformers">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10206)**
-
-**Autore:** [Zidan 子丹](https://x.com/liluocheng13) | **Fonte:** [Link](https://x.com/liluocheng13/status/2094605823741919530) | **Pubblicato:** Sep 1, 2026
-
----
-### Montaggio Vlog: Ragazza in una tavola calda giapponese
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un nostalgico montaggio in stile Vlog di 15 secondi che ritrae una studentessa liceale giapponese mentre aiuta nella tavola calda di famiglia in campagna, catturato con l'estetica di una videocamera digitale portatile.
-
-#### 📝 Prompt
-
-```
-Crea un video amatoriale in stile Vlog di 15 secondi che ritrae una studentessa liceale mentre aiuta nella tavola calda di famiglia, filmata da un amico d'infanzia seduto al bancone. I 15 secondi devono consistere in un montaggio a tagli netti di 7 brevi inquadrature (circa 2 secondi ciascuna). Ogni inquadratura rappresenta un momento diverso, dove 1 inquadratura = 1 piccolo evento. Non utilizzare transizioni o dissolvenze. Poiché è filmata da un amico, mostra un'espressione rilassata e naturale.
-
-Soggetto principale:
-La stessa studentessa liceale giapponese in tutte le inquadrature. Una bellezza dai tratti decisi con sopracciglia dritte e volitive, grandi occhi a mandorla con palpebre doppie ben definite, naso dritto, labbra ben delineate, texture della pelle sana e realistica, senza trucco. Una coda di cavallo alta e nera che scopre la fronte ne enfatizza i lineamenti. Indossa una bandana bianca, un grembiule blu navy e una maglietta bianca. È efficiente ma leggermente brusca. Mantieni i tratti del viso, la corporatura, l'acconciatura e l'abbigliamento completamente coerenti dall'inizio alla fine.
-
-Luogo:
-Una piccola tavola calda rurale durante un mezzogiorno estivo. Una cucina fumante, un bancone, piccoli tavoli per i clienti abituali e luce che filtra attraverso la tenda noren. Un locale reale con un'atmosfera vissuta. Nessuna pubblicità o marchio riconoscibile.
-
-Stile visivo / Fotocamera:
-Comune a tutte le inquadrature: Una vecchia videocamera digitale portatile. Vibrazioni naturali della fotocamera, inquadrature imperfette, occasionale ricerca della messa a fuoco, appannamento dell'obiettivo dovuto al vapore, fluttuazioni dell'esposizione, leggero motion blur, rumore sottile e colori leggermente tenui. Nessuna stabilizzazione, gimbal, droni, slow motion o illuminazione cinematografica.
-
-Elenco delle inquadrature (In ordine, circa 2s ciascuna, tutti tagli netti):
-1. Emerge dal vapore portando un vassoio, nota la telecamera e trattiene un sorriso lanciando uno sguardo del tipo 'non riprendermi'.
-2. Mani efficienti che sistemano i piatti della tavola calda su un tavolo.
-3. Profilo netto mentre chiama un ordine al padre in cucina (parole incomprensibili).
-4. Al tavolo di un anziano cliente abituale, sposta delicatamente un contorno in una posizione facile da raggiungere e riempie la sua tazza di tè.
-5. Reagisce a qualcosa che dice l'anziano con un sorriso dolce e spontaneo, adatto alla sua età.
-6. Nel pomeriggio, dopo che i clienti se ne sono andati, si appisola con il mento tra le mani dietro il bancone.
-7. Si sveglia di soprassalto, si rende conto di essere ripresa e finge di lanciare un panno. Durante questo, la registrazione si interrompe bruscamente verso 00:14. Nessuna dissolvenza in uscita.
-
-Realismo fisico:
-Mantieni un'autentica fisica del mondo reale. Mani, dita, capelli, vestiti, vassoi, piatti, ciotole, tazze da tè e vapore si comportano in modo naturale. Niente dita extra, mani fuse, corpi distorti, oggetti fluttuanti, oggetti che scompaiono o deformazioni improvvise. Piatti e posate rimangono oggetti indipendenti. Mantieni il soggetto coerente in tutte le inquadrature.
-
-Audio:
-Solo suoni ambientali naturali. Suoni di frittura dalla cucina, tintinnio di piatti, il fruscio del noren, un ventilatore e le voci dei clienti abituali (parole incomprensibili). Niente musica, narrazione o effetti sonori artificiali.
-
-Atmosfera finale:
-Il ricordo dell'ora di pranzo di una ragazza che è brusca ma non dimentica mai piccoli gesti di gentilezza verso i clienti abituali. Non è un lavoro commerciale o un programma gastronomico. Sia il suo profilo mentre lavora che il suo viso mentre dorme sono accattivanti. Vivace, calda, nostalgica, improvvisata e profondamente umana. Dai priorità alla sensazione che la telecamera si trovasse lì per puro caso.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094081597452783616/img/8EAuyuM2l6gKdfuR.jpg" width="600" alt="Montaggio Vlog: Ragazza in una tavola calda giapponese">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10219)**
-
-**Autore:** [妖精アーヤ](https://x.com/aiehon_aya) | **Fonte:** [Link](https://x.com/aiehon_aya/status/2094545769810592006) | **Pubblicato:** Aug 31, 2026
-
----
-### Cinematica di un disastro sismico
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un drammatico prompt cinematografico verticale che ritrae una donna di fronte a un terremoto in una città moderna, con detriti fluttuanti e l'illuminazione dell'ora d'oro.
-
-#### 📝 Prompt
-
-```
-Scena di disastro cinematografico ultra-realistico in una città moderna; una giovane donna coraggiosa con un cappotto marrone scuro si trova in primo piano con una mano alzata, di fronte a enormi blocchi di cemento e detriti che fluttuano nell'aria dopo un devastante terremoto. Grattacieli danneggiati, autobus urbani, vetri in frantumi, nuvole di polvere, drammatica luce solare dell'ora d'oro, illuminazione volumetrica, atmosfera intensa, texture realistiche, composizione dinamica, profondità di campo ridotta, fotorealismo 8K, color grading cinematografico, fotogramma di film altamente dettagliato, verticale.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094289336078675969/img/ZlzN5MVFBG4fwt0e.jpg" width="600" alt="Cinematica di un disastro sismico">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10103)**
-
-**Autore:** [AIwithMinal](https://x.com/AIwithMinal) | **Fonte:** [Link](https://x.com/AIwithMinal/status/2094289381049659440) | **Pubblicato:** Aug 31, 2026
-
----
-### Azione cinematografica di snowboard
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video verticale ad alta energia per un'estetica da film di sci professionale, con uno snowboarder che esegue rail grind e rotazioni aeree.
-
-#### 📝 Prompt
-
-```
-Video verticale cinematografico di una giovane donna dell'Asia orientale con lunghi capelli neri lisci che fa snowboard in una stazione sciistica d'alta quota in una luminosa giornata di sole. Indossa una vivace giacca da sci blu turchese, pantaloni da neve neri, casco bianco, occhiali riflettenti con lenti arancioni e guanti neri.
-Inquadratura iniziale: primo piano medio di lei in piedi su una pista da sci battuta con spettacolari cime innevate e un cielo azzurro limpido sullo sfondo. Sorride raggiante, si sistema il casco bianco e gli occhiali con entrambe le mani guantate, poi unisce le mani con entusiasmo davanti al petto dicendo: “Sono così emozionata!”
-Transizione fluida verso un'azione dinamica: riprese in prima persona e in movimento di lei che scende lungo ampie piste di neve fresca battuta con tracce di sci visibili. Si avvicina a un lungo rail giallo e nero, lo percorre in grind con perfetto equilibrio, braccia aperte per uno stile impeccabile.
-Successivamente affronta un grande salto sulla neve, lanciandosi in un'alta evoluzione aerea con un elegante grab in volo e una rotazione, lo snowboard ben visibile contro il cielo blu intenso e le catene montuose in lontananza. Particelle di neve e spruzzi di polvere si sollevano dietro di lei mentre vola. La luce solare intensa crea bagliori (lens flare) e ombre nette sulla neve bianca incontaminata.
-Estetica da film di sci professionale ad alta energia, movimento di camera fluido, dettagli nitidi, colori vivaci, durata di 15 secondi.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094243122134016000/img/lmi8jqber59zu-Ee.jpg" width="600" alt="Azione cinematografica di snowboard">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10100)**
-
-**Autore:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Fonte:** [Link](https://x.com/ayzalnooor24521/status/2094243156225315270) | **Pubblicato:** Aug 31, 2026
-
----
-### Astronauta e megastruttura aliena
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un grandioso prompt cinematografico sci-fi che vede un astronauta esplorare un'imponente struttura aliena sopra un pianeta in frantumi, con complessi movimenti di camera.
-
-#### 📝 Prompt
-
-```
-Cinematografico Sci-Fi di 15 secondi
-Un astronauta solitario si trova sul bordo di una colossale megastruttura aliena che fluttua sopra un pianeta in frantumi, mentre un misterioso segnale blu pulsa attraverso il cielo. Enormi mondi ad anello ruotano lentamente in lontananza, mentre sciami di minuscoli droni si risvegliano dall'oscurità. L'astronauta avanza con cautela mentre la gravità si piega attorno a lui, frammenti di roccia levitano e glifi alieni luminosi si illuminano sotto i suoi stivali. Improvvisamente, un'enorme entità biomeccanica emerge dalla struttura, i suoi occhi si accendono di energia celestiale.
-
-La telecamera esegue un lento push-in cinematografico, passa a un'inquadratura orbitale attorno all'astronauta, per poi accelerare in una drammatica panoramica che rivela la colossale macchina aliena che sovrasta il paesaggio.
-
-Fantascienza iper-realistica, ultra-dettagliato, fotorealistico, illuminazione volumetrica, nebbia atmosferica, effetti di energia blu e oro, color grading cinematografico, qualità Unreal Engine 5, composizione IMAX, scala epica, movimento di camera fluido, profondità di campo ridotta, alto contrasto, riflessi ray-traced, 16:9, capolavoro, senza testo, senza watermark. Negative Prompt: bassa qualità, sfocato, rumoroso, bassa risoluzione, cartone animato, anime, sovrasaturato, illuminazione piatta, telecamera tremolante, jitter, sfarfallio, oggetti duplicati, anatomia distorta, arti extra, artefatti fluttuanti, artefatti di compressione, testo, sottotitoli, watermark, logo, fotogramma ritagliato, composizione scadente.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094228852042043392/img/mFJ5X7vyu7LAGQY6.jpg" width="600" alt="Astronauta e megastruttura aliena">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10102)**
-
-**Autore:** [DeCat](https://x.com/DeCat2025) | **Fonte:** [Link](https://x.com/DeCat2025/status/2094229194653733265) | **Pubblicato:** Aug 31, 2026
-
----
-### Vlog: Il ragazzo dal look ribelle salva un gattino
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt giapponese completo per un video in stile vlog di 15 secondi che ritrae uno studente delle superiori dall'aspetto da teppistello che mostra gentilezza verso un gattino in una giornata di pioggia.
-
-#### 📝 Prompt
-
-```
-Crea un video amatoriale in stile Vlog di 15 secondi che ritrae uno studente giapponese delle superiori, dal look 'mild yankee', che incontra un gattino in una scatola di cartone durante una giornata di pioggia, ripreso casualmente da un amico sotto una tettoia. 480p. I 15 secondi consistono in un montaggio a tagli netti di 7 brevi inquadrature (circa 2 secondi ciascuna). Ogni inquadratura è un momento diverso, 1 inquadratura = 1 piccolo evento. Nessuna transizione o dissolvenza. Poiché a riprendere è un amico intimo, il ragazzo rimane se stesso, naturale e incurante di essere filmato.
-
-Soggetto principale:
-Lo stesso studente giapponese delle superiori in tutte le inquadrature. Capelli corti tinti di un biondo-castano acceso, un piccolo orecchino d'argento in un orecchio. Sopracciglia sottili e curate, occhi affilati e leggermente a mandorla con palpebre nascoste, ma a uno sguardo più attento, ciglia lunghe, naso dritto e un viso dolce con labbra sottili ben disegnate che appare molto più giovane quando sorride. Texture della pelle abbronzata realistica, mascella sottile. Indossa una T-shirt nera oversize, pantaloni neri larghi, sandali e un ombrello trasparente in vinile. Viso, fisico, acconciatura, abbigliamento e ombrello completamente coerenti dall'inizio alla fine.
-Gattino: Un minuscolo gattino bianco in una scatola di cartone che si bagna parzialmente sotto la pioggia.
-
-Luogo:
-Un vicolo ai margini di una via commerciale rurale in una serata piovosa. Vetrine chiuse, asfalto bagnato, tettoie, scatole di cartone. Nessuna pubblicità o marchio riconoscibile.
-
-Fotocamera / Stile visivo:
-Comune a tutte le inquadrature: Videocamera digitale amatoriale tenuta a mano da un amico sotto la tettoia. Vibrazioni naturali, inquadrature imperfette, occasionale ricerca della messa a fuoco, fluttuazioni dell'esposizione dovute al buio della pioggia, leggero motion blur, rumore sottile, colori leggermente tenui. Nessuna stabilizzazione, gimbal, drone, slow motion o illuminazione cinematografica.
-
-Elenco delle inquadrature (In ordine, circa 2 secondi ciascuna, tutti tagli netti):
-1. Sotto la tettoia della via commerciale piovosa. Parlando con l'ombrello sulla spalla, nota improvvisamente qualcosa in fondo al vicolo.
-2. Un gattino in una scatola di cartone che si bagna nell'angolo del vicolo. Si accovaccia davanti alla scatola.
-3. Mantenendo lo sguardo affilato, fissa intensamente il gattino. Il gattino miagola dolcemente.
-4. Con la sua mano ruvida, lo accarezza timidamente e delicatamente. Il gattino strofina la testa contro il suo palmo.
-5. Dopo averlo accarezzato per un po', il suo sguardo affilato si addolcisce e sorride leggermente.
-6. Alzandosi in piedi, apre il suo ombrello in vinile e lo sistema sopra la scatola di cartone come protezione dalla pioggia.
-7. Lasciando l'ombrello, un'inquadratura della sua schiena mentre corre via sotto la pioggia. A metà, intorno al secondo 00:14, la registrazione si interrompe improvvisamente diventando nera. Nessuna dissolvenza in uscita.
-
-Realismo fisico:
-Mantenere una fisica realistica. Mani, dita, capelli, vestiti, pioggia, ombrello, cartone e gattino si comportano in modo naturale. Niente dita extra, mani fuse, corpi distorti, oggetti fluttuanti, elementi che scompaiono o deformazioni improvvise. Il gattino si muove naturalmente su quattro zampe. L'ombrello rimane dove è stato posizionato. Mantenere vestiti e capelli bagnati, riflessi sulla strada e piedi ben piantati a terra. Mantenere il soggetto coerente in tutte le inquadrature.
-
-Audio:
-Solo suoni ambientali naturali. Suono della pioggia, acqua che gocciola dalle tettoie, il miagolio dolce del gattino, passi dei sandali, suoni di auto in lontananza. Niente musica. Nessuna narrazione. Nessun effetto sonoro artificiale.
-
-Atmosfera finale:
-La testimonianza della gentilezza di un ragazzo dall'aspetto temibile, che non doveva essere vista da nessuno, colta per caso. Non è un lavoro commerciale. Non è una scena di un film. Il fatto che scappi via rappresenta la sua timidezza. Ruvido, impacciato, profumante di pioggia, caldo e profondamente umano. Dai priorità alla sensazione che la telecamera si trovasse lì per puro caso.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094093239565565952/img/B51Y4_MT5YugzwTt.jpg" width="600" alt="Vlog: Il ragazzo dal look ribelle salva un gattino">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10108)**
-
-**Autore:** [妖精アーヤ](https://x.com/aiehon_aya) | **Fonte:** [Link](https://x.com/aiehon_aya/status/2094183382599311369) | **Pubblicato:** Aug 30, 2026
-
----
-### Mercato anime nella Parigi del XIX secolo
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt in stile anime ad alta energia per Seedance 2.5 che ritrae il mercato di Les Halles a Parigi con movimenti di camera dinamici.
-
-#### 📝 Prompt
-
-```
-Animazione giapponese a colori. Un whip-pan shot ad alta velocità che attraversa il mercato centrale di Les Halles nella Parigi di fine XIX secolo, movimenti di camera rapidi ed energici mentre i mercanti aprono le loro botteghe, formaggi colorati, vino, pane, fiori e prodotti freschi che sfrecciano accanto, carrozze trainate da cavalli e prime automobili che passano in fretta, alta energia unita a una bellezza cruda e raggi di calda luce solare mattutina.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094183004835131392/img/1cMsWjzpD9S5gXHu.jpg" width="600" alt="Mercato anime nella Parigi del XIX secolo">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10106)**
-
-**Autore:** [雨雲(Amagumo)806 ｜ AI Animer](https://x.com/ai_animer) | **Fonte:** [Link](https://x.com/ai_animer/status/2094183024355410033) | **Pubblicato:** Aug 30, 2026
-
----
-### Foresta di mezzanotte con finestre luminose
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video onirico che raffigura una foresta silenziosa con finestre luminose nei tronchi degli alberi e un antico treno sotterraneo che emerge silenziosamente dalla terra.
-
-#### 📝 Prompt
-
-```
-La telecamera avanza lentamente attraverso una silenziosa foresta di mezzanotte dove ogni albero è ricoperto da migliaia di minuscole finestre luminose, come se all'interno dei tronchi esistessero intere case in miniatura. Mentre la telecamera si avvicina, le finestre iniziano gradualmente a spegnersi una dopo l'altra, rivelando che la foresta si sta lentamente svegliando. Il terreno si separa delicatamente sotto gli alberi, esponendo un'enorme ferrovia antica sepolta nel sottosuolo. Un singolo treno vuoto emerge silenziosamente dalla terra, le sue finestre brillano di una luce calda nonostante l'assenza di un conducente visibile. Il treno passa direttamente attraverso la foresta senza disturbare un solo albero e, mentre scompare nella nebbia, gli alberi chiudono lentamente le loro finestre luminose. La persona in piedi accanto alla ferrovia rimane completamente immobile per tutto il tempo. Movimento fluido e continuo della telecamera, movimento ambientale fisicamente credibile, vento sottile e nebbia che si dirada, illuminazione realistica, luce lunare cinematografica, ombre atmosferiche profonde, fotorealistico, misterioso e onirico, nessun taglio, nessun salto, nessun cambiamento improvviso.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093816392071974912/img/cPW8b7Gs8IeKRdyh.jpg" width="600" alt="Foresta di mezzanotte con finestre luminose">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10099)**
-
-**Autore:** [H A J R A](https://x.com/codewithhajra) | **Fonte:** [Link](https://x.com/codewithhajra/status/2094099803407835369) | **Pubblicato:** Aug 30, 2026
-
----
-### Rituale della Fenice di Fuoco Dark Fantasy
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un epico prompt di 20 secondi per un film dark fantasy su Seedance, che vede una guerriera evocare una massiccia fenice di fuoco. Il prompt enfatizza la fisica realistica del fuoco fluido, movimenti di camera cinematografici e una composizione epica simmetrica.
-
-#### 📝 Prompt
-
-```
-Durata: 20 secondi
-Aspect ratio: 16:9
-Audio: Battiti di tamburi epici, musica atmosferica cupa, suoni di fiamme che bruciano, suoni di aria che si infrange, suoni di esplosioni; nessun dialogo, nessuna narrazione, nessun sottotitolo
-Stile generale: Film dark fantasy orientale realistico, texture da ripresa live-action, scena notturna ad alto contrasto, luce di fuoco arancione-rossa, movimento di camera cinematografico intenso
-
-PERSONAGGIO GLOBALE
-
-Protagonista femminile adulta originale:
-Donna orientale alta e agile, tratti freddi, lunghi capelli neri con alcune ciocche rosso scuro. Indossa una veste da battaglia fantasy orientale nera e rossa, spallacci a scaglie dorate, fascia in vita, ampio mantello rosso e maniche lunghe, indossa un fermaglio dorato a forma di fenice. Tiene in mano una maschera di fenice in bronzo.
-
-Mantenere coerenti il volto, l'acconciatura, l'abbigliamento e la corporatura della protagonista per tutta la durata. L'abbigliamento può solo ondeggiare con il movimento e non può cambiare automaticamente.
-
-Scena:
-Grande altare circolare nel mezzo della notte, il terreno è di pietra scura, l'ambiente circostante è nero pece e vuoto. Un cerchio di fiamme reali brucia sul bordo dell'altare, con scintille e fumo sottile che fluttuano nell'aria.
-
-SHOT 1 (00:00-00:03.00) Indossare la maschera, evocare la fenice
-
-00:00-00:00.80:
-Primissimo piano. La protagonista tiene la maschera di fenice in bronzo verso la camera, la maschera occupa inizialmente il primo piano, la messa a fuoco passa lentamente dalla maschera ai suoi occhi calmi. Lo sfondo presenta solo un gruppo di fiamme ondeggianti.
-
-00:00.80-00:01.50:
-La camera arretra rapidamente in un'inquadratura media dal basso. La protagonista indossa la maschera, la mano destra ondeggia orizzontalmente sul petto; una palla di fuoco grande quanto un pugno si accende improvvisamente nel palmo sinistro.
-
-00:01.50-00:03.00:
-La protagonista spalanca improvvisamente le braccia. La camera arretra ad alta velocità in un campo lunghissimo simmetrico; la palla di fuoco esplode dietro di lei, formando un'enorme fenice di fuoco larga oltre dieci metri. La fenice è composta da innumerevoli fiamme a forma di piuma, con le ali che si spiegano strato dopo strato dal centro verso i lati.
-
-Fuoco:
-Le fiamme hanno un nucleo ad alta temperatura bianco-giallo, una fiamma esterna arancione-rossa, fumo reale, scintille volanti e distorsione da ondata di calore. La luce del fuoco deve illuminare la maschera della protagonista, gli spallacci dorati, il mantello e il terreno.
-
-SHOT 2 (00:03.00-00:06.00) Anello di fiamme
-
-00:03.00-00:04.30:
-La protagonista ruota rapidamente in senso orario usando il piede sinistro come perno, il mantello rosso si apre. La mano destra spazza dal basso verso l'alto, un denso nastro di fiamma segue la traiettoria del braccio, formando un anello quasi completo attorno al corpo.
-
-Camera:
-La camera ruota in senso antiorario attorno alla protagonista con un'angolazione dal basso, opposta alla sua direzione di rotazione, creando un forte senso di velocità; le fiamme spazzano davanti all'obiettivo formando un breve effetto di transizione a fiamma.
-
-00:04.30-00:06.00:
-La camera usa l'ostruzione delle fiamme per staccare su un'inquadratura zenitale verticale. La protagonista è al centro dell'altare, l'anello di fiamme si chiude attorno a lei; cerchi magici geometrici rosso-oro si illuminano uno dopo l'altro dal centro verso l'esterno sul terreno, i motivi luminosi si estendono rapidamente lungo le crepe della pietra come lava.
-
-SHOT 3 (00:06.00-00:09.50) Tuffo attraverso il muro di fuoco
-
-00:06.00-00:07.20:
-L'inquadratura zenitale verticale continua a ruotare in senso orario. La protagonista agita le maniche, l'anello di fuoco a terra ruota ad alta velocità, le scintille volano lungo la circonferenza; la formazione magica del cerchio esterno continua ad espandersi.
-
-00:07.20-00:08.20:
-La camera scende rapidamente dall'alto, passando attraverso le scintille volanti fino a un'inquadratura dal basso a livello del suolo. La protagonista si inginocchia simultaneamente, il palmo destro colpisce la superficie di pietra, un muro di fuoco si alza orizzontalmente davanti a lei.
-
-00:08.20-00:09.50:
-La camera attraversa rapidamente il muro di fuoco fino a un primo piano del volto. La protagonista solleva la mano sinistra, le dita scivolano lentamente sulla maschera di fenice, spostando leggermente la maschera di lato, rivelando solo un occhio affilato. Le fiamme spazzano costantemente in primo piano, ma non devono coprire lo sguardo.
-
-SHOT 4 (00:09.50-00:13.00) Ingoiare fuoco e soffiare fuoco
-
-00:09.50-00:10.70:
-Stacco su un'inquadratura media laterale. La protagonista si alza, la mano sinistra afferra una palla di fuoco rotante dal muro di fuoco accanto a lei, il palmo trattiene la palla di fuoco, portandola lentamente alla bocca.
-
-00:10.70-00:12.30:
-Avvicinamento rapido dal basso. La protagonista inclina la testa all'indietro, spalanca le braccia, espelle un denso pilastro di fuoco dalla bocca verso l'alto. Il pilastro di fuoco si scaglia verso il cielo, il mantello e i lunghi capelli sono sollevati dal flusso di calore ascendente.
-
-00:12.30-00:13.00:
-La camera ruota rapidamente di mezzo giro attorno alla protagonista. Il pilastro di fuoco si divide in due flussi ad arco, a sinistra e a destra, per la transizione del clone speculare nello shot successivo.
-
-Vincoli:
-Il soffio di fuoco è un puro effetto magico, il personaggio non subisce ustioni, dolore o soffocamento; il pilastro di fuoco deve connettersi accuratamente con la direzione della bocca.
-
-SHOT 5 (00:13.00-00:16.20) Clone speculare ed esplosione
-
-00:13.00-00:13.80:
-Una superficie a specchio di fiamme verticali appare al centro dello schermo. La protagonista viene specchiata in due cloni identici a sinistra e a destra, le due si fronteggiano attraverso la linea di fuoco centrale, spalancando le braccia simultaneamente.
-
-00:13.80-00:15.00:
-I due cloni saltano e ruotano verso l'esterno simultaneamente, le maniche larghe e i mantelli disegnano due traiettorie di fiamma a forma di S simmetriche. La camera mantiene un campo lunghissimo frontale, presentando una composizione completamente simmetrica.
-
-00:15.00-00:16.20:
-Le due traiettorie di fiamma si scontrano violentemente al centro dello schermo, producendo un'enorme esplosione con un nucleo bianco-giallo. L'onda d'urto spinge scintille, polvere e onde d'aria circolari verso l'esterno, riempiendo brevemente l'intero fotogramma.
-
-SHOT 6 (00:16.20-00:20.00) Vortice di fuoco e finale della fenice
-
-00:16.20-00:17.30:
-Dopo che il fumo dell'esplosione si dirada, stacco su un'inquadratura dall'alto. I cloni speculari scompaiono, rimane solo la protagonista originale. Ruota ad alta velocità al centro dell'altare, il mantello spinge le fiamme a formare un vortice di fuoco a spirale verso l'alto.
-
-00:17.30-00:18.40:
-La protagonista smette improvvisamente di ruotare, inclina la testa all'indietro e solleva entrambe le braccia. Il vortice di fuoco esplode verso l'esterno, tutti i cerchi magici a terra si illuminano simultaneamente; il suo corpo fluttua lentamente a circa mezzo metro da terra.
-
-00:18.40-00:20.00:
-La camera si alza rapidamente dall'inquadratura dall'alto e arretra. L'enorme fenice di fuoco si ricondensa dietro la protagonista, le ali della fenice sono completamente spiegate, le piume della coda si collegano ai cerchi magici a terra; la protagonista fluttua al centro della fenice, con il mantello spiegato. Gli ultimi 0,5 secondi mantengono un fermo immagine epico simmetrico, con scintille che fluttuano lentamente verso la camera.
-
-REGOLE PER FUOCO E VFX
-
-- Le fiamme devono avere un movimento fluido reale, inerzia, fumo, scintille, onde di calore e riflessi ambientali.
-- Le traiettorie delle fiamme seguono rigorosamente la direzione di rotazione del braccio, del mantello e del corpo, non possono fluttuare staccate dall'azione.
-- La fenice di fuoco deve essere composta da fiamme indipendenti a forma di piuma, con le ali che mostrano un processo di apertura e leggero battito.
-- I cerchi magici a terra usano motivi geometrici astratti di fuoco, non devono apparire testi, codici confusi o simboli religiosi del mondo reale.
-- I cloni speculari possono apparire solo tra i 13 e i 16,2 secondi e devono scomparire dopo l'esplosione.
-- Movimenti di camera in ordine: zoom in primissimo piano, arretramento dal basso, rotazione inversa, inquadratura zenitale verticale, tuffo, avvicinamento attraverso il muro di fuoco, ripresa dal basso in avvicinamento, campo lunghissimo frontale con cloni, allontanamento aereo finale.
-
-NEGATIVO
-
-Cambio di genere del personaggio, personaggi extra, cloni speculari che appaiono in anticipo, cloni ancora esistenti dopo l'esplosione,
-texture di fiamme scadenti, fiamme 2D, fiamme che non emettono luce, fiamme che attraversano il corpo, fiamme non sincronizzate con l'azione,
-la fenice di fuoco si trasforma in un uccello comune, ali della fenice asimmetriche, forma della fenice tremolante, codice confuso nel cerchio magico,
-posizione errata del soffio di fuoco, fuoco dal naso, personaggio che brucia, espressione di dolore, deformazione corporea terrificante,
-cambio improvviso di abbigliamento, maschera incollata al viso, compenetrazione del mantello, capelli che diventano corti, deriva del volto,
-volti distorti, tratti che si sciolgono, arti extra, dita fuse,
-pelle in CGI plastica, rendering da cartone animato, stile anime, deriva dell'angolazione della camera,
-scuotimento della camera immotivato, teletrasporto brusco, fumo congelato,
-sottotitoli, watermark, loghi, testo cinese, testo inglese
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094060852773027840/img/5J8_t3bEn3fbCBQS.jpg" width="600" alt="Rituale della Fenice di Fuoco Dark Fantasy">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10105)**
-
-**Autore:** [John](https://x.com/johnAGI168) | **Fonte:** [Link](https://x.com/johnAGI168/status/2094061058776342862) | **Pubblicato:** Aug 30, 2026
-
----
-### Narrazione di un Vlog sullo stile di vita coreano
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un complesso prompt video multi-scena per un vlog sullo stile di vita coreano fotorealistico, che mantiene una rigorosa coerenza del personaggio durante una routine mattutina a Seoul.
-
-#### 📝 Prompt
-
-```
-Crea un vlog cinematografico ultra-fotorealistico di 30 secondi sullo stile di vita coreano utilizzando l'IMMAGINE DI RIFERIMENTO MASTER DELLO STORYBOARD caricata come RIFERIMENTO VISIVO PRIMARIO. IMPORTANTE: Segui i pannelli dello storyboard in ordine cronologico. La STESSA protagonista femminile mostrata nello storyboard deve apparire durante l'intero video. COERENZA DEL PERSONAGGIO: Usa il riferimento master dello storyboard come identità e riferimento visivo RIGOROSO. Preserva esattamente: viso, tratti somatici, occhi, sopracciglia, naso, labbra, linea della mascella, tonalità della pelle, capelli, acconciatura, colore dei capelli, proporzioni corporee, outfit, accessori e identità generale. NON creare una donna diversa. NON cambiare il suo viso, l'acconciatura o l'outfit tra le scene. Tutte le scene devono trasmettere la sensazione di UN'UNICA giornata continua a Seoul. ================================================== 0–4 SECONDI — RISVEGLIO ================================================== Segui il PANNELLO 1 DELLO STORYBOARD. Primo mattino all'interno della stessa moderna camera da letto di un appartamento coreano. La ragazza si sveglia naturalmente. Si mette a sedere sul letto, apre delicatamente le tende e guarda verso la vista della città di Seoul all'esterno. Una soffusa luce mattutina entra nella stanza. Usa un lento movimento di camera cinematografico in avvicinamento (push-in). Espressione mattutina naturale e assonnata. Parla dolcemente in coreano: "Buongiorno." Sincronizzazione labiale coreana accurata. ================================================== 4–7 SECONDI — ROUTINE MATTUTINA ================================================== Segui il PANNELLO 2 DELLO STORYBOARD. La STESSA ragazza entra in bagno. Si lava il viso. Applica una piccola quantità di prodotti per la cura della pelle. Mostra acqua realistica, riflessi nello specchio e prodotti per la skincare. Usa tagli rapidi e naturali tipici dei vlog di lifestyle. Nessun cambio d'abito. Atmosfera naturale da bagno. Nessun dialogo richiesto. ================================================== 7–11 SECONDI — COLAZIONE COREANA ================================================== Segui il PANNELLO 3 DELLO STORYBOARD. La STESSA ragazza entra in cucina. Mostrala mentre prepara una semplice colazione coreana. Mostra chiaramente: riso bianco al vapore, uovo fritto, kimchi, alghe coreane, piccoli contorni coreani, ciotole in ceramica, bacchette. Dispone il cibo ordinatamente sul tavolo da pranzo. Usa bellissimi primi piani sul cibo. Mostra il vapore che sale naturalmente dal riso caldo. Calda luce mattutina. ================================================== 11–14 SECONDI — DIALOGO DURANTE LA COLAZIONE ================================================== Segui il PANNELLO 4 DELLO STORYBOARD. La STESSA ragazza siede al tavolo da pranzo. Prende le bacchette. Guarda naturalmente verso la telecamera. Sorride dolcemente e dice in coreano: "Questa colazione sembra davvero deliziosa." Sincronizzazione labiale coreana accurata. Voce femminile coreana naturale. Nessuna recitazione esagerata. ================================================== 14–18 SECONDI — STRADA DI SEOUL ================================================== Segui il PANNELLO 5 DELLO STORYBOARD. La STESSA ragazza esce dal suo appartamento. Cammina attraverso un bellissimo e realistico quartiere di Seoul. Mostra: vetrine coreane, insegne in Hangul, pedoni, alberi lungo la strada, edifici moderni, piccoli caffè, dettagli realistici della strada di Seoul. Porta la STESSA borsa a tracolla. Usa una ripresa in movimento fluido che la segue da dietro, poi passa a una ripresa frontale mentre cammina. Illuminazione diurna naturale. ================================================== 18–21 SECONDI — METROPOLITANA DI SEOUL ================================================== Segui il PANNELLO 6 DELLO STORYBOARD. La STESSA ragazza entra in una moderna stazione della metropolitana di Seoul. Cammina attraverso la stazione. Usa naturalmente la sua carta per i trasporti. Mostra la segnaletica realistica della metropolitana coreana in Hangul. Cammina verso la banchina. Usa tagli cinematografici rapidi. Mantieni il viso e l'outfit coerenti. ================================================== 21–26 SECONDI — CAFFÈ COREANO ================================================== Segui il PANNELLO 7 DELLO STORYBOARD. La STESSA ragazza entra in un elegante caffè coreano. Si avvicina al bancone e ordina naturalmente un caffè freddo. Parla in coreano: "Un Americano freddo, per favore." Il barista prepara la bevanda. Mostra una preparazione del caffè realistica. La ragazza riceve il caffè freddo. Cammina verso il posto vicino alla finestra. Illuminazione calda del caffè. ================================================== 26–30 SECONDI — FINALE SERALE A SEOUL ================================================== Segui il PANNELLO 8 DELLO STORYBOARD. La STESSA ragazza siede accanto alla finestra del caffè. Fuori, le luci della città di Seoul iniziano a brillare nella sera. Tiene in mano il suo caffè freddo. Guarda fuori con serenità. Poi si gira lentamente verso la telecamera. Sorride naturalmente e dice in coreano: "Passa una splendida giornata anche oggi." Sincronizzazione labiale coreana accurata. Mantieni un bellissimo primo piano del suo viso. Le luci di Seoul creano un morbido bokeh cinematografico dietro di lei. Termina con una delicata dissolvenza cinematografica al nero. ================================================== VOCE E LINGUA ================================================== TUTTI i dialoghi parlati devono essere in COREANO NATURALE. Usa una voce femminile coreana giovane e coerente per il personaggio principale. Pronuncia coreana naturale di Seoul. Consegna calda, amichevole e colloquiale. Perfetta sincronizzazione labiale coreana. Nessun dialogo in inglese. Nessun dialogo in urdu. Nessuna voce robotica. Nessuna recitazione esagerata. ================================================== STILE DELLA TELECAMERA ================================================== Vlog di lifestyle coreano cinematografico premium. Movimenti di camera naturali a mano. Riprese in movimento fluide. Riprese medie. Riprese panoramiche. Primi piani. Riprese macro del cibo. Riprese sopra la spalla. Transizioni naturali. Tagli veloci per le scene di routine/metropolitana. Riprese cinematografiche più lente per la colazione e la scena finale al caffè. Estetica da obiettivo cinematografico 35mm. Profondità di campo realistica. Motion blur naturale. ================================================== STILE VISIVO ================================================== Live-action ultra-fotorealistico. Autentica atmosfera moderna di Seoul. Estetica premium dello stile di vita coreano. Appartamento coreano realistico. Strade di Seoul realistiche. Metropolitana realistica. Caffè coreano realistico. Texture della pelle naturale. Capelli realistici. Abbigliamento realistico. Movimento umano naturale. Color grading cinematografico di alta qualità. Grana della pellicola sottile. ================================================== CONTINUITÀ — CRITICA ================================================== Lo storyboard è il RIFERIMENTO MASTER. Segui tutti gli 8 pannelli in ordine. Stessa donna ovunque. Stesso viso. Stessa acconciatura. Stesso colore di capelli. Stesso outfit. Stessi accessori. Stesse proporzioni corporee. Non cambiare la sua identità. Non generare una donna diversa in nessuna scena. Non cambiare l'outfit tra le scene. Mantieni il video visivamente collegato come un'unica giornata continua. Nessun morphing del viso. Nessuno scambio di identità. Nessun cambiamento casuale del personaggio. Nessuna mano distorta. Nessun dito extra. Nessuna persona duplicata. Niente cartoni animati. Niente anime. Niente umani dall'aspetto CGI. Nessuna sovrapposizione di testo. Nessun sottotitolo. Nessun logo. Nessuna filigrana. STORIA FINALE: RISVEGLIO → ROUTINE MATTUTINA → COLAZIONE COREANA → DIALOGO COREANO → STRADA DI SEOUL → METROPOLITANA → CAFFÈ COREANO → VISTA NOTTURNA DI SEOUL → MESSAGGIO FINALE IN COREANO Rendi il risultato finale simile a un vlog sullo stile di vita coreano filmato professionalmente piuttosto che a un montaggio generato dall'IA.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094017991470166016/img/yvvmcO9MdVR3PYmN.jpg" width="600" alt="Narrazione di un Vlog sullo stile di vita coreano">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10094)**
-
-**Autore:** [Elsa Ai](https://x.com/ElsaSofia__AI) | **Fonte:** [Link](https://x.com/ElsaSofia__AI/status/2094018143144513567) | **Pubblicato:** Aug 30, 2026
-
----
-### Video in stile vlog di un allenamento di baseball
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt dettagliato per generare un nostalgico video amatoriale di 15 secondi in stile vlog di uno studente giapponese che si allena a baseball, concentrandosi sul passaggio tra la giocosità e la concentrazione seria.
-
-#### 📝 Prompt
-
-```
-Crea un video amatoriale di 15 secondi in stile vlog di uno studente delle medie giapponese, solitamente giocoso ma che diventa serio solo durante l'allenamento di baseball, come se fosse ripreso da un compagno di squadra. 480p. I 15 secondi consistono in un montaggio a tagli netti di 7 brevi riprese (circa 2 secondi ciascuna). Ogni ripresa è un momento diverso, 1 ripresa = 1 piccolo evento. Nessuna transizione o dissolvenza. Poiché a riprendere è un compagno di squadra, il ragazzo appare rilassato e naturale.
-
-Soggetto principale:
-Lo stesso studente delle medie giapponese in tutte le riprese. Un ragazzo fresco e di bell'aspetto. Sopracciglia folte e definite, grandi occhi con doppia palpebra, naso dritto, bocca grande con angoli rivolti all'insù, mascella definita. Texture della pelle realistica e abbronzata dal sole, denti bianchi visibili quando ride. Capelli neri corti. Indossa una maglia intima da allenamento bianca, pantaloni della divisa da baseball sporchi di fango, cappellino da baseball e un guantone ben usato. Volto, fisico, acconciatura e abbigliamento completamente coerenti in tutto il video.
-
-Luogo:
-Campo di una scuola media in campagna in una sera d'estate. Recinzione, panchine, polvere bianca, montagne in lontananza e tramonto. Nessuna pubblicità o marchio riconoscibile.
-
-Stile della fotocamera / visivo:
-Comune a tutte le riprese: vecchia fotocamera digitale consumer tenuta in mano. Vibrazioni naturali, inquadrature imperfette, occasionale ricerca della messa a fuoco, fluttuazioni dell'esposizione, leggero motion blur, rumore sottile, colori leggermente tenui. Nessuna stabilizzazione, gimbal, drone, slow motion o illuminazione cinematografica.
-
-Elenco delle riprese (in ordine, circa 2 secondi ciascuna, tutti tagli netti):
-1. Davanti alla panchina, posa in modo strano con una mazza come se fosse una spada, cercando di far ridere la fotocamera.
-2. Beve tè d'orzo tutto d'un fiato con il cappellino girato all'indietro, facendo una faccia esagerata.
-3. Esce sul campo e si sistema il cappellino in avanti. La sua espressione cambia istantaneamente.
-4. Swing di prova. Sguardo serio nella luce della sera. Si ferma perfettamente nella posa di follow-through.
-5. Un altro swing. Il sudore dalla fronte cade sul terreno. Silenzio.
-6. Insegue una palla a terra, scivolata in presa nella polvere. Nemmeno un sorriso.
-7. Fine dell'allenamento, torna al suo solito sorriso e mostra scherzosamente la palla nel guantone alla fotocamera. A metà, intorno a 00:14, la registrazione si interrompe improvvisamente diventando nera. Nessuna dissolvenza in chiusura.
-
-Realismo fisico:
-Mantieni una fisica realistica. Mani, dita, piedi, capelli, sudore, mazza, palla, guantone e polvere si comportano in modo naturale. Niente dita extra, mani fuse, corpi distorti, oggetti fluttuanti, elementi che scompaiono o deformazioni improvvise. Gli swing della mazza e le traiettorie della palla rimangono realistici. Mantieni il soggetto coerente in tutte le riprese.
-
-Audio:
-Solo suoni ambientali naturali. Il rumore della mazza che fende l'aria, la palla che colpisce il guantone, passi che scalciano la terra, cicale, grida in lontananza. Nessuna musica. Nessuna narrazione. Nessun effetto sonoro artificiale.
-
-Atmosfera finale:
-Il passaggio tra il suo volto giocoso e lo sguardo serio è la parte più bella; il ricordo di una giornata ordinaria di attività di club. Non un lavoro commerciale. Non uno spot sportivo. Dedicato, giovanile, nostalgico, caldo, improvvisato e profondamente umano. Dai priorità alla sensazione che la fotocamera si trovasse lì per caso.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093779981692502016/img/--P9515r8LfJuIix.jpg" width="600" alt="Video in stile vlog di un allenamento di baseball">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10107)**
-
-**Autore:** [妖精アーヤ](https://x.com/aiehon_aya) | **Fonte:** [Link](https://x.com/aiehon_aya/status/2094002185176785012) | **Pubblicato:** Aug 30, 2026
-
----
-### Magia da tè nella cucina incantata
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Una scena fantasy di vita quotidiana in cui un personaggio usa la magia per recuperare una teiera che versa il tè automaticamente in un'accogliente cucina rustica.
-
-#### 📝 Prompt
-
-```
-Durata: 15s | 16:9 Orizzontale | 4K UHD nativo | 24fps
-Genere: Commedia fantasy cinematografica di vita quotidiana
-Obiettivo: Cinema fantasy live-action ultra-realistico di alta qualità
-
-BLOCCO RIFERIMENTO — @<image1
-
-Usa @<image1 come unico riferimento di identità. Preserva il Personaggio A esattamente come mostrato. Esattamente un Personaggio A. Nessuna riprogettazione, duplicazione, trasformazione, deriva dell'identità, cambio di abbigliamento o cambio di acconciatura.
-
-CONCETTO FONDAMENTALE
-
-All'interno dell'accogliente cucina di una vecchia strega, il Personaggio A cerca di versare il tè da una teiera d'argento incantata. La teiera è troppo lontana, su un bancone di legno. Il Personaggio A usa una bacchetta per avvicinarla magicamente, ma l'incantesimo è troppo potente. La teiera schizza attraverso la cucina, vola direttamente verso il Personaggio A, poi si ferma a pochi centimetri dall'impatto e versa delicatamente il tè in una tazza da sola.
-
-INQUADRATURA 1 — 0s–4s | IL PROBLEMA
-
-Ripresa cinematografica ampia della cucina. Il Personaggio A si protende verso una teiera d'argento posizionata lontano sul bancone di legno. La mano chiaramente non riesce a raggiungerla. Il Personaggio A ci prova una volta, fallisce, poi lancia uno sguardo stanco e infastidito verso la teiera.
-
-Lento movimento in avanti. Calda luce mattutina attraverso finestre polverose. Vapore da un vecchio bollitore. Movimento naturale dei tessuti e anatomia realistica delle mani.
-
-INQUADRATURA 2 — 4s–7s | L'INCANTESIMO
-
-Ripresa di profilo media. Il Personaggio A solleva lentamente una bacchetta.
-
-Primo piano estremo della punta della bacchetta. La magia blu-argento si attiva con un bagliore contenuto.
-
-Taglio su un'angolazione laterale allineata che mostra:
-
-BACCHETTA → SPAZIO APERTO DELLA CUCINA → TEIERA
-
-Al secondo 6, un sottile legame magico blu-bianco si collega direttamente al manico della teiera.
-
-Scintilla di contatto.
-
-La teiera inizia immediatamente a muoversi.
-
-INQUADRATURA 3 — 7s–11s | TROPPA POTENZA
-
-La teiera viene improvvisamente lanciata attraverso il bancone con un'inerzia realistica.
-
-Una telecamera in movimento basso la segue.
-
-Il tè all'interno si agita visibilmente in modo naturale.
-
-Gli occhi del Personaggio A si spalancano leggermente, ma l'espressione rimane composta.
-
-Al secondo 9.5, la teiera entra rapidamente in primo piano.
-
-Il Personaggio A si sporge istintivamente all'indietro.
-
-Al secondo 10, la teiera si ferma improvvisamente a pochi centimetri dal viso del Personaggio A.
-
-Nessuna collisione.
-
-Un breve silenzio.
-
-INQUADRATURA 4 — 11s–15s | MAGIA PERFETTAMENTE INUTILE
-
-Il Personaggio A guarda lentamente la teiera fluttuante.
-
-La teiera ruota delicatamente da sola.
-
-Il tè si versa perfettamente in una tazza in attesa.
-
-Il Personaggio A osserva in silenzio.
-
-Un minuscolo battito di ciglia esausto.
-
-Il Personaggio A prende la tazza e si allontana.
-
-Fine mentre è in movimento.
-
-Nessun sorriso, nessuno sguardo in camera, nessuna posa di vittoria.
-
-AUDIO + MUSICA
-
-Ambiente accogliente, scricchiolii del legno, movimento della ceramica, accensione della bacchetta, ronzio magico, aria che sibila, tè che si agita, tè che viene versato e passi.
-
-Musica: chitarra acustica, pianoforte smorzato, archi in pizzicato morbido, clarinetto giocoso e percussioni con spazzole.
-
-La musica rimane sotto gli effetti sonori.
-
-Nessun dialogo, voce, effetti "boing", musica da circo, risate registrate o suoni da meme.
-
-CAUSALITÀ
-
-TEIERA TROPPO LONTANA → MANO FALLISCE → BACCHETTA SI SOLLEVA → MAGIA SI COLLEGA → TEIERA VIENE LANCIATA → AVVICINAMENTO RAPIDO → ARRESTO IMPROVVISO → TÈ VERSATO → PERSONAGGIO A SE NE VA.
-
-PROMPT NEGATIVO
-
-Personaggi extra, teiera duplicata, bacchetta duplicata, oggetti fluttuanti
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093962339556986880/img/U2TVBd_8dHn0Zfse.jpg" width="600" alt="Magia da tè nella cucina incantata">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10093)**
-
-**Autore:** [𝐌](https://x.com/Strength04_X) | **Fonte:** [Link](https://x.com/Strength04_X/status/2093962802637504916) | **Pubblicato:** Aug 30, 2026
-
----
-### Spot pubblicitario Mountain Dew Spark con Doodle
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt per uno spot pubblicitario di una bevanda ad alta energia, rivolto a un pubblico giovane, che fonde live-action cinematografico in 4K con giocose animazioni doodle 2D disegnate a mano.
-
-#### 📝 Prompt
-
-```
-MOUNTAIN DEW SPARK — “TOO MUCH SPARK” Durata: 15 secondi Rapporto d'aspetto: 16:9 Stile: Spot pubblicitario premium in live-action + giocosa animazione doodle 2D disegnata a mano, funky, energico, giovanile, colorato, dal ritmo serrato. Qualità visiva: 4K cinematografico ultra-realistico, fotografia di prodotto nitida, texture della pelle naturale, illuminazione pubblicitaria vibrante, movimento fluido, riprese dinamiche. PERSONAGGIO: Un giovane ragazzo cool di circa 20 anni, sicuro di sé e giocoso, capelli scuri corti leggermente spettinati, volto espressivo, t-shirt grafica oversize alla moda, pantaloni cargo larghi e comodi, sneakers pulite. Mantenere una STRETTA coerenza di volto, acconciatura, abbigliamento e identità per tutto il video. 0–4s — LA SCINTILLA (THE SPARK) Inizia con un elegante tracking shot dal basso del ragazzo che cammina con disinvoltura per una strada cittadina moderna e colorata, tenendo in mano una lattina fredda di Mountain Dew Spark. Piccoli e graziosi doodle disegnati a mano appaiono sottilmente intorno a lui: stelle, fulmini, cuori e limoni. Si ferma. Stacco su un primo piano macro della lattina fredda coperta di condensa. La apre. PSHHHH! Un minuscolo fulmine disegnato a mano appare sopra la lattina e vibra con il suono. 4–8s — TROPPA SCINTILLA (TOO MUCH SPARK) Beve un lungo sorso. Immediatamente, colorati doodle 2D esplodono dietro di lui. Fulmini sfrecciano sullo schermo, limoni graziosi rimbalzano oltre la telecamera, stelle appaiono intorno alla sua testa e linee di velocità da cartone animato circondano il suo corpo. Sembra sorpreso, poi sorride. Usa un movimento di telecamera rapido in avanti (punch-in). 8–15s — LA SPINTA (THE BOOST) Improvvisamente, scatta in avanti a una velocità incredibile. Usa rapidi whip pan, tracking shot dal basso, riprese dinamiche a mano e speed ramp energici mentre corre per la città. Ogni movimento innesca un doodle: Passo → esplosione di stelle Braccio che oscilla → fulmine Salto → esplosione da fumetto Svolta → linee di velocità curve disegnate a mano Sorriso → minuscoli cuori fluttuanti I doodle interagiscono fisicamente con l'ambiente live-action, avvolgendosi attorno ai pali, rimbalzando sui muri e seguendo il suo movimento. A 15 secondi, corre verso una scalinata cittadina, preparandosi a saltarvi sopra. Termina con una transizione di telecamera veloce in avanti che continua naturalmente nella Parte 2. CAMERA & MONTAGGIO: Montaggio pubblicitario veloce con movimento continuo e fluido. Usa whip pan, crash zoom, riprese dal basso, speed ramp e match cut. Mantieni il movimento fluido in modo che il video sembri un'unica sequenza continua, non clip separate. ANIMAZIONE DOODLE: Graziosi doodle 2D disegnati a mano con linee di schizzo imperfette, espressioni giocose e animazione vivace. Giocoso e carino, mai infantile. I doodle devono interagire naturalmente con l'ambiente live-action. PARTE 2: MOUNTAIN DEW SPARK — “TOO MUCH SPARK” Durata: 15 secondi Rapporto d'aspetto: 16:9 Stile: Spot pubblicitario premium in live-action + giocosa animazione doodle 2D disegnata a mano, funky, energico, giovanile, colorato, dal ritmo serrato. Qualità visiva: 4K cinematografico ultra-realistico, fotografia di prodotto nitida, texture della pelle naturale, illuminazione pubblicitaria vibrante, movimento fluido, riprese dinamiche. PERSONAGGIO: Continuare ESATTAMENTE con lo stesso giovane ragazzo della Parte 1. Stesso volto, acconciatura, t-shirt grafica oversize, pantaloni cargo larghi, sneakers e identità generale. STRETTO BLOCCO DI IDENTITÀ E OUTFIT. 0–6s — CAOS DOODLE Continua direttamente dalla Parte 1 mentre il ragazzo salta su una scalinata cittadina e corre verso l'alto. Centinaia di graziosi doodle disegnati a mano lo inseguono. Limoni animati rimbalzano giù per le scale. Fulmini zigzagano accanto a lui. Minuscole stelle ruotano nell'aria. Fiamme da cartone animato appaiono brevemente dietro le sue sneakers. Alterna rapidamente tra: Ripresa dal basso in corsa Tracking shot laterale Primo piano delle sneakers Primo piano della sua espressione entusiasta Ripresa dall'alto mentre i doodle spiraleggiano attorno a lui Usa transizioni energiche a frusta sincronizzate con la musica. 6–11s — IL PRODOTTO PROTAGONISTA Il ragazzo si ferma improvvisamente. Tutto si congela. I doodle si bloccano a mezz'aria attorno a lui. Fa ruotare con disinvoltura la lattina di Mountain Dew Spark verso la telecamera. Transizione in un primo piano macro premium del prodotto: condensa fredda, dettagli nitidi dell'etichetta, illuminazione pubblicitaria vibrante ed energia frizzante. Limoni e fulmini disegnati a mano iniziano a orbitare attorno alla lattina. La telecamera si avvicina lentamente al prodotto mentre lo sfondo rimane dolcemente sfocato. 11–15s — ESPLOSIONE FINALE Beve un ultimo sorso e fa un sorrisetto direttamente in camera. A tempo di musica, ogni doodle nella scena corre verso di lui: ⭐ ⚡ 🍋 ❤️ 💥 Esplodono verso l'esterno in un gigantesco scoppio colorato disegnato a mano dietro di lui. Rimane in piedi con sicurezza al centro, tenendo la lattina di Mountain Dew Spark verso la telecamera. Termina con un'inquadratura pulita e premium della lattina di Mountain Dew Spark circondata da giocosi fulmini, stelle e frutta disegnati a mano. Sensazione finale: rinfrescante, energica, maliziosa, funky e irresistibilmente divertente. CAMERA & MONTAGGIO: Montaggio pubblicitario veloce con movimento continuo e fluido. Usa whip pan, speed ramp, fotografia macro di prodotto, movimento di telecamera orbitante, crash zoom e match cut. Le transizioni devono essere motivate dal movimento del personaggio e preservare la continuità visiva dalla Parte 1. ANIMAZIONE DOODLE: Graziosi doodle 2D disegnati a mano con linee di schizzo imperfette, espressioni giocose e animazione vivace. I doodle dovrebbero interagire fisicamente con il mondo live-action invece di apparire come sovrapposizioni statiche. Mantienili giocosi ed eleganti, mai infantili. PROMPT NEGATIVO: Nessun cambiamento di identità del personaggio, nessun cambio di outfit, nessun volto incoerente, niente dita extra, niente mani distorte, nessun prodotto deformato, nessuna forma della lattina errata, nessun logo illeggibile, nessuna lattina duplicata, nessun personaggio fluttuante, nessun movimento rigido, nessun cambio di scena casuale, nessuna clip sconnessa, nessun eccessivo motion blur, nessuna illuminazione spenta, nessun ambiente da cartone animato infantile, nessun doodle fotorealistico, nessun compositing disordinato, nessun tratto facciale deformato, nessun artefatto di testo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093959538731040768/img/Cq93sfpHe8JI1hz2.jpg" width="600" alt="Spot pubblicitario Mountain Dew Spark con Doodle">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10098)**
-
-**Autore:** [Caden Flux](https://x.com/Caden_Flux) | **Fonte:** [Link](https://x.com/Caden_Flux/status/2093959770579554517) | **Pubblicato:** Aug 30, 2026
-
----
-### Video di cucina casalinga accogliente
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt in stile video amatoriale realistico di 15 secondi che mostra una giovane donna che prepara e assaggia del cibo in una cucina calda e accogliente.
-
-#### 📝 Prompt
-
-```
-Utilizza esattamente un'immagine di riferimento per la donna. Mantieni la sua identità, il viso, il tono della pelle, l'acconciatura, le proporzioni del corpo e l'abbigliamento coerenti per tutta la durata.
-
-Formato: 15s, 1080p, 16:9
-Stile: Riprese di cucina casalinga ultra-realistiche e spontanee, stile smartphone o fotocamera consumer, come se fossero state girate casualmente da qualcuno in cucina. Inquadratura naturale e imperfetta, lievi spostamenti dell'autofocus, grana realistica e morbida, leggero movimento a mano. Niente CGI, filtri bellezza o look commerciale eccessivamente patinato. Illuminazione naturale e calda della cucina: luce diurna soffusa proveniente da una finestra mescolata a una calda luce interna, esposizione realistica.
-
-Personaggio: Giovane donna coreana, venticinquenne, abbigliamento casual da casa (t-shirt oversize o felpa semplice, grembiule allacciato in modo lento), capelli raccolti in uno chignon morbido o una coda di cavallo, look naturale senza trucco. Espressione rilassata e concentrata, sorriso dolce, movimenti facili e senza fretta.
-
-Ambientazione: Una cucina domestica accogliente — piano di lavoro in legno, alcune pentole e ingredienti disposti, luce diurna soffusa che entra da una finestra vicina, lievi suoni ambientali di taglio, sfrigolio e rumore di fondo della cucina.
-
-00:00–00:03 — Inizio della preparazione
-
-È in piedi al bancone, si allaccia il grembiule dietro la schiena, guardando gli ingredienti disposti davanti a lei: verdure, un tagliere, una ciotola.
-
-00:03–00:06 — Tagliare
-
-Prende un coltello e inizia a tagliare le verdure con movimenti calmi e pratici, guardando di tanto in tanto verso l'alto con un piccolo sorriso soddisfatto, suoni naturali della cucina in sottofondo.
-
-00:06–00:09 — Mescolare in padella
-
-Si sposta verso i fornelli, mescolando qualcosa in una padella, il vapore sale dolcemente. Si sporge leggermente per sentire l'aroma, chiudendo brevemente gli occhi con un'espressione soddisfatta.
-
-00:09–00:12 — Assaggio
-
-Immerge un cucchiaino nella pentola, assaggia e reagisce con un cenno di approvazione e un sorriso dolce, pulendosi le mani sul grembiule.
-
-00:12–00:15 — Impiattamento
-
-Versa il piatto finito su un piatto, lo appoggia sul bancone, facendo un piccolo passo indietro per ammirare il suo lavoro con un sorriso caldo e soddisfatto mentre la luce naturale cattura il vapore che sale dal cibo.
-
-ora genera il volto della ragazza coreana di queste immagini per abbinarlo alla scena iniziale di questo prompt
-modifica l'abito mantieni i volti
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093932768392806400/img/ie8Z8vvHYuChlAu2.jpg" width="600" alt="Video di cucina casalinga accogliente">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10101)**
-
-**Autore:** [𝑨𝒇𝒓𝒊𝒏](https://x.com/afrinxai) | **Fonte:** [Link](https://x.com/afrinxai/status/2093941789983908269) | **Pubblicato:** Aug 30, 2026
-
----
-### Evocazione del grimorio nella biblioteca della strega
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt fantasy comico che vede protagonista un personaggio che, dopo aver tentato invano di raggiungere un libro in biblioteca, lo evoca magicamente in modo fin troppo energico.
-
-#### 📝 Prompt
-
-```
-Durata: 15s | 16:9 Orizzontale | Nativo 4K UHD | 24fps
-Genere: Fantasy comico cinematografico
-Target: Cinema fantasy live-action premium ultra-realistico
-
-BLOCCO RIFERIMENTO — @image1
-
-Usa @image1 come unico riferimento per l'identità. Preserva il Personaggio A esattamente come mostrato. Esattamente un Personaggio A. Nessuna variazione di identità, duplicazione, restyling, cambio di acconciatura o cambio di abbigliamento.
-
-CONCETTO FONDAMENTALE
-
-All'interno dell'antica biblioteca di una strega, il Personaggio A desidera un grosso grimorio riposto sullo scaffale più alto. Il libro è completamente fuori portata. Il Personaggio A usa una bacchetta per evocarlo. Il libro risponde in modo troppo aggressivo, vola via dallo scaffale, ruota attraverso la stanza e atterra direttamente tra le mani del Personaggio A con una forza tale da farlo indietreggiare.
-
-INQUADRATURA 1 — 0s–4s | TROPPO IN ALTO
-
-Campo lungo della biblioteca.
-
-Un'enorme libreria in legno riempie lo sfondo.
-
-Il Personaggio A sta sotto lo scaffale più alto e si allunga verso l'alto.
-
-La punta delle dita rimane chiaramente sotto il libro.
-
-Il Personaggio A prova a saltare una volta.
-
-Ancora impossibile.
-
-Il Personaggio A atterra e guarda il libro con aria stanca.
-
-La telecamera inclina lentamente dal Personaggio A verso il libro in lontananza.
-
-Particelle di polvere fluttuano naturalmente nella calda luce della finestra.
-
-INQUADRATURA 2 — 4s–7s | EVOCAZIONE
-
-Primo piano stretto di tre quarti.
-
-Il Personaggio A solleva la bacchetta.
-
-Macro estrema della punta della bacchetta.
-
-Si attiva un sottile bagliore viola-blu.
-
-Stacco su un'inquadratura dal basso OTS (oltre la spalla) allineata direttamente verso il libro.
-
-Al secondo 6, un sottile raggio magico collega la punta della bacchetta al centro del libro.
-
-Piccola scintilla di contatto.
-
-Il libro rimane immobile per 0,2s.
-
-Poi improvvisamente si libera.
-
-INQUADRATURA 3 — 7s–11s | L'ATTACCO DEL LIBRO
-
-Ripresa in movimento ultra-bassa (tracking shot).
-
-Il pesante libro schizza via dallo scaffale.
-
-Le pagine sbattono violentemente a causa della resistenza dell'aria.
-
-Il libro attraversa la stanza con un peso credibile.
-
-La telecamera segue il movimento all'indietro.
-
-Al secondo 9,5, il libro raggiunge il Personaggio A.
-
-Il Personaggio A lo afferra contro il petto.
-
-L'impatto costringe a fare un passo indietro realistico.
-
-Alcune pagine sciolte cadono verso il basso.
-
-Il Personaggio A guarda il libro.
-
-Poi guarda lentamente verso lo scaffale.
-
-INQUADRATURA 4 — 11s–15s | SUL SERIO?
-
-Primo piano stretto.
-
-Il Personaggio A apre con calma il libro.
-
-Una piccola nuvola di polvere antica si solleva direttamente sul viso.
-
-Il Personaggio A chiude gli occhi per un secondo.
-
-Spazza lentamente la polvere dal viso.
-
-Espressione impassibile (deadpan).
-
-Il Personaggio A si allontana portando il libro con sé.
-
-Termina naturalmente mentre è in movimento.
-
-AUDIO + MUSICA
-
-Ambiente da vecchia biblioteca, scricchiolii del legno, vento leggero, accensione della bacchetta, ronzio magico, vibrazione dello scaffale, libro che raschia il legno, aria che sibila, impatto pesante del libro, pagine che sbattono e passi.
-
-Musica: pianoforte smorzato, archi in pizzicato, clarinetto dolce e chitarra acustica.
-
-La musica si interrompe brevemente prima dell'impatto del libro.
-
-Nessun dialogo, voce, suoni da circo, effetti "boing" o risate registrate.
-
-CAUSALITÀ
-
-LIBRO FUORI PORTATA → IL TENTATIVO FALLISCE → ATTIVAZIONE BACCHETTA → CONNESSIONE RAGGIO → IL LIBRO SI LIBERA → IL LIBRO ACCELERA → IL PERSONAGGIO A LO AFFERRA → NUVOLA DI POLVERE → USCITA.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093933157406109696/img/Zwge8xL0R13iHaF4.jpg" width="600" alt="Evocazione del grimorio nella biblioteca della strega">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10043)**
-
-**Autore:** [𝐌](https://x.com/Strength04_X) | **Fonte:** [Link](https://x.com/Strength04_X/status/2093933282480312736) | **Pubblicato:** Aug 30, 2026
-
----
-### Blocco multi-asset dei personaggi in Seedance 2.0
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Una configurazione complessa di generazione video che utilizza più immagini di riferimento per bloccare la coerenza dei personaggi e i dettagli della scena.
-
-#### 📝 Prompt
-
-```
-@Image1 blocca il volto della ragazza e la qualità di questo doppio primo piano, @Image2 blocca il volume dello stesso abito bianco argento chiaro. Nessuna delle due immagini viene utilizzata come primo fotogramma; non iniziare con la posa presente nelle immagini di riferimento.
-Testo personaggio maschile: Giovane uomo dell'Asia orientale, capelli corti scuri, sottili occhiali con montatura argento, camicia bianca, vista di profilo, quasi passivo.
-Testo scena: Ambiente interno con luce calda dorata e soffusa, sfondo sfocato con effetto bokeh, mobili non chiaramente visibili.
-Musica: Musica d'ambiente originale a bassa frequenza simile, BPM
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093912569149050880/img/NCSLhegLmWGsUVgP.jpg" width="600" alt="Blocco multi-asset dei personaggi in Seedance 2.0">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10052)**
-
-**Autore:** [MapleShaw](https://x.com/msjiaozhu) | **Fonte:** [Link](https://x.com/msjiaozhu/status/2093912672127615430) | **Pubblicato:** Aug 30, 2026
-
----
-### Balena che emerge attraverso la marea crescente
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un dettagliato prompt cinematografico multistadio per una sequenza che coinvolge una nave pirata, una balena antica e un'imponente parete d'acqua in ascesa al crepuscolo.
-
-#### 📝 Prompt
-
-```
-Genera una scena cinematografica di 15 secondi.
-
-Soggetto principale: mare profondo, atmosfera cinematografica pura — luce soffusa del crepuscolo dorato-blu che filtra tra le nuvole in diradamento, nebbia che aleggia sulla superficie, atmosfera calma dopo la tempesta. Effetti visivi oceanici iper-realistici, dettagli di qualità IMAX, nessun clipping, nessun morphing, nessuna distorsione, nessuno scatto nei fotogrammi, nessun errore visivo. Tono: stupore, scala, meraviglia silenziosa — non azione.
-
-0:00–0:02 — Inquadratura iniziale
-
-Ripresa aerea ampia, telecamera alta sopra l'oceano. Nuvole temporalesche nel terzo superiore, che iniziano a diradarsi. Acqua color indaco profondo sotto, primo raggio di luce dorata che filtra dal centro-destra. Piccola nave pirata in legno come silhouette distante, nel terzo inferiore dell'inquadratura. Telecamera statica. Texture a increspature sottili, riflesso della luce realistico.
-
-0:02–0:04 — Inizia la discesa
-
-La telecamera scende lentamente e avanza verso la nave. La luce dorata si diffonde su gran parte della superficie. La nave è ora più nitida — vele leggermente umide, scafo che oscilla dolcemente su un moto ondoso basso. Nebbia bassa all'orizzonte. Scivolamento fluido e continuo, senza tagli.
-
-0:04–0:06 — La balena passa sotto
-
-La telecamera passa a un'angolazione semi-subacquea al livello dell'acqua. Appena sotto la superficie, una colossale sagoma grigio-blu scivola sotto la nave — ricoperta di cirripedi, antica, che si muove lentamente. I raggi del sole penetrano nell'acqua, illuminandone la silhouette. La superficie rimane calma per ora, solo una lieve increspatura tradisce la sagoma sottostante.
-
-0:06–0:08 — La marea inizia a salire
-
-Telecamera di nuovo sul ponte della nave, grandangolo. Dietro la nave, la superficie dell'oceano inizia a gonfiarsi verso l'alto — non un'onda che si infrange, ma una parete d'acqua massiccia e fluida che sale come una marea in movimento, vitrea e illuminata dall'oro. L'equipaggio si volta a guardare, calmo e immobile, le mani appoggiate leggermente sulla ringhiera. La marea crescente riempie sempre più l'inquadratura a ogni istante, facendo apparire la nave minuscola.
-
-0:08–0:10 — La parete di marea si forma completamente
-
-La marea è ora una torreggiante e liscia parete d'acqua color ambra-oro che si estende lungo l'orizzonte dietro la nave, che si inarca lentamente senza mai infrangersi violentemente. Increspature di luce attraversano la sua superficie vitrea. La nebbia si sposta lungo la base. La nave appare piccola e stabile in primo piano, le vele catturano una leggera folata mentre il moto ondoso inizia a sollevarla.
-
-0:10–0:12 — La balena emerge attraverso la marea
-
-Mentre la marea raggiunge il culmine, la balena blu emerge direttamente attraverso la parete d'acqua in ascesa al rallentatore — l'acqua scivola via dal suo dorso in cortine argentee, lo sfiatatoio rilascia un alto pennacchio di nebbia che cattura la luce dorata. La marea e la balena si muovono come un unico flusso continuo. La nave si solleva dolcemente sull'onda, cullata, non scagliata.
-
-0:12–0:14 — La marea si inarca attorno alla nave
-
-La telecamera ruota lentamente mentre la marea raggiunge la sua altezza massima attorno alla nave, il corpo della balena si inarca tornando nell'acqua. La nave cavalca il fronte della marea, vele spiegate, equipaggio in silhouette contro l'imponente parete d'acqua. Sereno e maestoso — nessun fragore, nessuno spruzzo, solo un movimento fluido e immenso.
-
-0:14–0:15 — Assestamento e dissolvenza
-
-La marea inizia a placarsi
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093666176236998656/img/vBymqeqCHEyxOZH2.jpg" width="600" alt="Balena che emerge attraverso la marea crescente">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10097)**
-
-**Autore:** [𝑨𝒇𝒓𝒊𝒏](https://x.com/afrinxai) | **Fonte:** [Link](https://x.com/afrinxai/status/2093896496483651852) | **Pubblicato:** Aug 30, 2026
-
----
-### Performance di dialogo anime emozionale
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt progettato per replicare il dialogo emozionale di un personaggio specifico, concentrandosi su espressioni facciali sottili, battito di ciglia e istruzioni dettagliate sulla qualità vocale per Seedance 2.5.
-
-#### 📝 Prompt
-
-```
-Un personaggio femminile che guarda l'altra persona con un'espressione fugace, apparendo come se stesse reprimendo le emozioni mentre batte le palpebre. (Con voce sospirante) 'Una cosa del genere...' (Con tono deciso) 'Non credo sia una buona idea!' La voce del personaggio femminile è un mezzosoprano morbido, con respiri e una pronuncia giovanile.
-```
-
-<img src="https://cms-assets.youmind.com/media/1788159883634_izjxbf_HQ7F8kga0AAueCN.jpg" width="600" alt="Performance di dialogo anime emozionale">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10055)**
-
-**Autore:** [真坂参志郎](https://x.com/SanShiroH_X) | **Fonte:** [Link](https://x.com/SanShiroH_X/status/2093836992056573994) | **Pubblicato:** Aug 29, 2026
-
----
-### Video promozionale per sito web
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un semplice prompt per generare un video promozionale per i social media basato sull'URL di un sito web.
-
-#### 📝 Prompt
-
-```
-Crea un video pubblicitario da pubblicare sui social media per questo sito web: https://t.co/obHwoiAkXu
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093759622314405888/img/AzMYHT5pvDCIso5d.jpg" width="600" alt="Video promozionale per sito web">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10047)**
-
-**Autore:** [Simin Tan](https://x.com/tansiminnn) | **Fonte:** [Link](https://x.com/tansiminnn/status/2093760572722692299) | **Pubblicato:** Aug 29, 2026
-
----
-### Sequenza di combattimento dello sciamano d'inverno
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un'intensa sequenza d'azione cinematografica in 4K di uno sciamano che combatte su un crinale montuoso ghiacciato.
-
-#### 📝 Prompt
-
-```
-Sequenza d'azione cinematografica in 4K lungo un crinale montuoso affilato nel pieno dell'inverno. Una sciamana snella avvolta in strati di pelli di lupo, con la brina pallida incrostata tra le trecce e ciondoli d'osso che tintinnano alla cintura, combatte con una lancia incisa di rune e un coltello da scuoiatore ricurvo. Corre lungo lo stretto crinale, pianta la lancia per superare un varco, la trafigge nel petto di un razziatore, si libera con una torsione, sferra un fendente basso contro un secondo avversario, si lascia andare in una Slides controllata lungo il pendio ghiacciato, per poi rialzarsi con la lancia in avanti contro un terzo. Neve soffiata e cristalli di ghiaccio, luce alpina blu tenue con il sole basso e tagliente, cornici di neve che si incrinano e si staccano a ogni passo, riprese con camera a inseguimento, fisica realistica, motion blur, atmosfera selvaggia ed elementale.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093525737462435840/img/wNlruzAVXJdtDUZb.jpg" width="600" alt="Sequenza di combattimento dello sciamano d'inverno">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10048)**
-
-**Autore:** [Alexandra Aisling](https://x.com/AllaAisling) | **Fonte:** [Link](https://x.com/AllaAisling/status/2093752288544276962) | **Pubblicato:** Aug 29, 2026
-
----
-### Battaglia biomeccanica post-apocalittica
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un dettagliato prompt d'azione fantasy per una battaglia cinematografica di 15 secondi in una città in rovina, con una guerriera biomeccanica che combatte contro uno sciame di creature.
-
-#### 📝 Prompt
-
-```
-15s, verticale 16:9 con un frame cinematografico orizzontale integrato e barre nere sopra e sotto. Azione fantasy post-apocalittica ultra-realistica in una città in rovina. Strade distrutte, edifici crollati, auto rottamate, fumo, polvere, scintille, detriti volanti, forte motion blur, VFX cinematografici live-action. Niente testo, niente watermark, niente cartoni animati, niente interfaccia di gioco.
-
-Usa l'Immagine 1 come unico riferimento per Alin: volto esatto, lunghi capelli biondo pallido, armatura biomeccanica femminile argento-nera, dettagli arancioni luminosi, giunture metalliche realistiche, silhouette femminile forte. Non modificare il suo design.
-
-Usa l'Immagine 2 come unico riferimento per il nemico: molte creature dello stesso tipo, non un singolo mostro. Mantieni l'esatto corpo emaciato, la postura strisciante bassa, gli arti anteriori lunghi, gli artigli giganti, la coda lunga, la testa stretta, i denti affilati, la pelle scura e umida, la colonna vertebrale ossuta. Niente soldati umanoidi, niente tentacoli, niente altre creature.
-
-La spada energetica arancione-oro di Alin deve estendersi dall'armatura dell'avambraccio: l'armatura si apre, il telaio della lama si estende, l'energia lo riempie. Le sue spade fluttuanti arancione-oro dietro di lei sono armi reali e devono essere lanciate verso l'esterno alla fine.
-
-Ritmo: discesa rapida dall'alto nella battaglia, poi 0-6s di combattimento ravvicinato ultra-veloce contro uno sciame di mostri, poi una breve pausa verso l'alto, poi formazione completa delle spade, infine esplosione della raffica di spade.
-
-0.0-1.0s: discesa dall'alto in un incrocio di una città in rovina, Alin al centro, mostri che si avvicinano dalle macerie, dai tetti, dalle auto e dal fumo.
-1.0-6.0s: montaggio di combattimento molto veloce. Due mostri si lanciano, la lama dell'avambraccio di Alin si dispiega, lei ne colpisce uno, taglia basso su un altro, schiva un terzo da dietro, scatta lateralmente attraverso lo sciame, scintille contro artigli e metallo rottamato, scivola sotto una carica frontale, ruota, colpisce ancora, salta su un mostro e su un'auto ribaltata, poi si lancia verso l'alto fuori dal primo cerchio di aggressori.
-6.0-8.2s: ascesa dal basso sopra la strada in rovina, le spade arancione-oro iniziano a formarsi dietro di lei mentre i mostri saltano e si arrampicano sotto.
-8.2-12.8s: lei ricade al centro, di nuovo circondata, blocca un morso frontale con la lama principale mentre le spade fluttuanti si agganciano a molteplici mostri in arrivo.
-12.8-15.0s: esplosione finale. Tutte le spade arancione-oro sparano verso l'esterno ad alta velocità come una tempesta di frecce solari a ventaglio nel branco di mostri, mentre un'onda d'urto circolare arancione-oro esplode da Alin, facendo saltare polvere, scintille e detriti attraverso la città in rovina. Termina con i mostri respinti e la battaglia ancora in corso.
-
-Illuminazione: dura luce solare post-apocalittica attraverso fumo e polvere, forte controluce, alto contrasto, riflessi arancione-oro sull'armatura, sulle macerie e sulla pelle dei mostri.
-
-Negativo: niente praterie, nessuna sensazione di duello con un singolo boss, niente ritmo lento, niente pose statiche, niente sangue o violenza, niente tipi di creature extra, nessuna arma che appare dal nulla.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093728760285876224/img/4BjLQloQBZfmDSZ2.jpg" width="600" alt="Battaglia biomeccanica post-apocalittica">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10049)**
-
-**Autore:** [Loriel.AI](https://x.com/ou_zhen599) | **Fonte:** [Link](https://x.com/ou_zhen599/status/2093729402978996361) | **Pubblicato:** Aug 29, 2026
-
----
-### Trasformazione meccanica del Merlion in ASMR
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt one-shot estremamente dettagliato per la trasformazione meccanica di una capsula in un gadget a forma di Merlion, con enfasi sul realismo della macrofotografia, la coerenza fisica e gli effetti sonori ASMR.
-
-#### 📝 Prompt
-
-```
-Regole: - Qualità fotografica macro di prodotto fotorealistico. Deve sembrare un filmato live-action reale (evitare l'effetto anime/render CG). - Un unico piano sequenza ininterrotto. Nessun taglio, transizione di scena o jump cut. Mantiene la stessa posizione della telecamera, lo sfondo e l'illuminazione dall'inizio alla fine. - La telecamera è completamente bloccata in una posizione fissa; nessuna panoramica, zoom o inclinazione. È consentito solo un leggerissimo tremolio a mano. - Niente musica di sottofondo, niente narrazione, niente dialoghi. I suoni sono solo effetti sonori ASMR. - Niente sottotitoli. - Niente slow motion; tempo reale a velocità costante. [Coerenza/Osservanza rigorosa] - La scrivania mostrata deve essere identica per colore, materiale, venature e illuminazione dal primo all'ultimo fotogramma. - Solo una fonte di luce, luce naturale soffusa proveniente dall'alto a destra. La direzione e l'intensità dell'ombra non cambiano. - Il macchinario di precisione è sempre un'unica struttura continua; le parti non volano via, non scompaiono e non si scambiano istantaneamente. - La trasformazione avviene solo tramite lo scorrimento di pannelli rigidi, piegature, movimento di cerniere e bloccaggi. Cambiamenti non meccanici come fusione, liquefazione o decomposizione in particelle sono severamente vietati. - Non viene rappresentata acqua. Le fontane devono essere espresse come anelli metallici telescopici. [Obiettivo della generazione] Trasformazione di un gadget di precisione: da una capsula chiusa a un Merlion meccanico (one-shot, ASMR). (9:16 verticale. 8 secondi totali. Telecamera bloccata su un tavolo di marmo bianco/grigio con un'angolazione di 60 gradi.) 0.0-1.5s: Entrano le mani umane, tenendo una capsula in acciaio inossidabile a forma di uovo con motivi floreali turchesi/rosa e una cupola con luna/stella rossa. Un pollice preme un pulsante laterale con un clic meccanico. 1.5-2.2s: Le mani posano il gadget sul tavolo. 2.2-3.0s: Le mani escono verso l'alto, lasciando il gadget da solo. 3.0-4.2s: Il gadget inizia ad attivarsi internamente con suoni di ingranaggi che scattano. Il guscio esterno si divide in pannelli curvi che si aprono come un bocciolo di fiore, rivelando ingranaggi interni e giunti servoassistiti. 4.2-5.5s: I pannelli si riorganizzano; quelli superiori formano una criniera di leone fatta di alette metalliche, quelli centrali si ripiegano in scaglie di pesce smaltate di perla e quelli inferiori si arricciano in una pinna caudale. 5.5-6.6s: Blocco della forma finale. Le parti del volto scattano in posizione, le zampe si posizionano sul piedistallo. 6.6-7.6s: La bocca si apre e gli anelli cromati si estendono telescopicamente per formare l'arco di una fontana con delicati suoni metallici. 7.6-8.0s: L'anello finale si blocca. Il Merlion completato rimane immobile. Audio: Completo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093692280754544640/img/R8gK3RPeZ2SELLgu.jpg" width="600" alt="Trasformazione meccanica del Merlion in ASMR">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10056)**
-
-**Autore:** [妖精アーヤ](https://x.com/aiehon_aya) | **Fonte:** [Link](https://x.com/aiehon_aya/status/2093693559337779202) | **Pubblicato:** Aug 29, 2026
-
----
-### Cortometraggio d'azione soprannaturale Seedance 2.5
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un esteso prompt video cinematografico per Seedance 2.5 con protagonista un personaggio di nome PYONA in una sequenza di combattimento ad alta intensità con effetti visivi d'acqua in un bagno scolastico.
-
-#### 📝 Prompt
-
-```
-SEEDANCE 2.5 — PYONA Combattimento con sistema idrico / Bagno di una scuola coreana 4V1 FINALE
-
-Utilizzare esattamente 1 immagine caricata come risorsa.
-image1 = Identità del personaggio e riferimento per l'abbigliamento di PYONA, priorità assoluta. Mantenere rigorosamente il suo volto riconoscibile, le proporzioni facciali, il tono della pelle, la corporatura, i capelli corti biondo-azzurro chiaro, la frangia naturale, la forcina a nuvola bianca, la forcina a pesce blu e la bellissima uniforme scolastica coreana presente in image1. Deve sembrare la stessa vera donna coreana adulta ripresa in un ambiente reale. Scambio di volti, pelle di plastica AI, 3D e CG di gioco sono proibiti. Può esistere una sola PYONA nell'intero video.
-
-Generare un cortometraggio d'azione soprannaturale in un campus coreano, rigorosamente di 30 secondi, 16:9 orizzontale, 4K nativo, 24fps, in una singola generazione continua, ultra-realistico e dal vivo. VERA AZIONE DAL VIVO + AZIONE CINEMATOGRAFICA VELOCE E AGGRESSIVA + potenti effetti visivi di acqua trasparente fisicamente credibili. Niente musica di sottofondo, niente sottotitoli, niente narrazione; tutti i personaggi sono adulti.
-
-[Personaggi e Scena]
-
-Bagno notturno per ragazze di una scuola coreana. Uno spazio lungo con un ingresso, porte dei bagni di colore chiaro, una fila di lavandini bianchi, rubinetti in metallo, uno specchio lungo e un pavimento piastrellato bagnato. Le luci fluorescenti bianco freddo sfarfallano leggermente.
-
-Il lavandino più vicino a PYONA deve contenere chiaramente il 70–80% di acqua pulita fin dal primo fotogramma: il tappo dello scarico è chiuso, il rubinetto continua a scorrere, la superficie dell'acqua è chiaramente visibile e una piccola quantità d'acqua trabocca dal bordo. È vietato generare lavandini vuoti.
-
-4 studentesse coreane adulte, bulle, tutte con volti, acconciature, altezze, corporature e temperamenti diversi, che indossano uniformi scolastiche coreane disordinate ma pertinenti. E è la LEADER, e le altre tre sono A, B e C. NESSUN VOLTO DUPLICATO. I riflessi nello specchio devono essere sincronizzati con le persone reali; è vietato generare persone extra, volti errati o una seconda PYONA.
-
-Solo due battute di dialogo:
-
-E: "Laviamoci la faccia."
-A: "Prendetela!"
-
-PYONA non ha dialoghi per tutto il tempo.
-
-[Possesso dell'abilità idrica di PYONA — Priorità massima]
-
-PYONA è l'unica persona nell'intero video con abilità soprannaturali. A, B, C ed E non hanno abilità.
-
-PYONA può generare attivamente e controllare liberamente grandi quantità di acqua trasparente, senza dipendere da rubinetti, lavandini o pozzanghere. L'acqua nell'ambiente è influenzata solo dal suo potere, non ne è assolutamente la fonte.
-
-Tutti gli effetti visivi dell'acqua devono essere chiaramente generati dai palmi, dalle dita, dagli avambracci, dai piedi o dalla parte anteriore del corpo di PYONA, per poi muoversi lungo un percorso continuo visibile al pubblico e entrare in contatto con il nemico.
-
-ORIGINE DI PYONA
-→ PERCORSO DELL'ACQUA VISIBILE
-→ CONTATTO CON L'ACQUA
-→ REAZIONE DEL NEMICO.
-
-È severamente vietato che l'acqua venga generata direttamente dalle mani, dal corpo, dai piedi, dalla schiena o dall'interno del corpo del nemico. È vietato attribuire erroneamente le abilità di PYONA ai nemici. I nemici devono reagire solo dopo che l'acqua o gli attacchi fisici sono entrati realmente in contatto.
-
-[Principi di Azione]
-
-COMBATTERE AGGRESSIVAMENTE. ZERO COREOGRAFIE CAUTE.
-
-Tutte le azioni sono veloci, improvvise, forti e senza esitazione. È vietato spingere delicatamente, agitare lentamente, caricare a lungo, lanciare incantesimi eleganti, aspettare la cooperazione o fermarsi dopo un attacco.
-
-PYONA deve utilizzare abilità idriche potenti e chiaramente identificabili insieme a un vero combattimento ravvicinato. Affrontare un avversario principale alla volta a distanza ravvicinata; quando l'avversario attuale esce, il successivo entra rapidamente. E → A → B → C → A/B → E. È vietato che quattro persone si accalchino o aspettino in fila.
-
-Ogni colpo fisico deve essere chiaramente espresso:
-
-BERSAGLIO VISIBILE
-→ ATTACCO
-→ CONTATTO REALE
-→ COMPRESSIONE DEL CORPO / ABBIGLIAMENTO
-→ PERDITA DI EQUILIBRIO
-→ RITARDO DI RECUPERO CREDIBILE.
-
-[00:00–00:06 — E / Ginocchiata all'addome → Sommersione reale]
-
-Vedere chiaramente il volto o il 3/4 del volto di PYONA nel primo fotogramma, accanto al lavandino già pieno al 70–80% di acqua pulita. È vietato iniziare solo dalla schiena.
-
-E afferra il colletto di PYONA e dice: "Laviamoci la faccia", poi senza preavviso sbatte violentemente il ginocchio nell'addome di PYONA.
-
-GINOCCHIO
-→ CONTATTO REALE CON L'ADDOME
-→ COMPRESSIONE DELL'UNIFORME E DEL CORPO
-→ IL CORPO DI PYONA SI PIEGA
-→ RESPIRO MOZZATO.
-
-La parte superiore del corpo di PYONA si piega bruscamente, la sua espressione è istantaneamente sofferente, le sue gambe si indeboliscono. E le afferra immediatamente i capelli e la nuca, premendo il suo viso realmente nel lavandino pieno d'acqua.
-
-Deve essere chiaramente visibile:
-
-IL VISO TOCCA LA SUPERFICIE DELL'ACQUA
-→ NASO E BOCCA COMPLETAMENTE SOMMERSI
-→ L'ACQUA SCHIZZA OLTRE IL BORDO DEL LAVANDINO
-→ BOLLE CHE FUORIESCONO SOTT'ACQUA
-→ PYONA LOTTA.
-
-PYONA non può tossire o parlare sott'acqua, solo trattenere il respiro, lottare e generare bolle. Le altre tre ridono ma non la afferrano contemporaneamente.
-
-[00:06–00:10 — Distacco fisico → ESPLOSIONE D'ACQUA DAL PALMO frontale]
-
-PYONA sbatte una mano sul lavandino, abbassa il baricentro e usa una vera rotazione spalla-anca per colpire all'indietro con una gomitata corta e pesante. Lo specchio deve mostrare prima l'addome di E nel punto finale della gomitata.
-
-CONTATTO REALE CON IL GOMITO
-→ L'ADDOME DI E SI COMPRIME
-→ LA PRESA DI E SI LASCIA.
-
-Questa è una pura gomitata fisica; l'acqua non può eruttare dalla schiena di PYONA.
-
-PYONA tira immediatamente il viso fuori dall'acqua. Solo dopo aver lasciato completamente l'acqua può ansimare e tossire 1-2 volte. I capelli bagnati si attaccano alle guance, i suoi occhi per un breve momento non riescono ad aprirsi a causa dell'acqua, ma non riposa a lungo.
-
-Si gira immediatamente per affrontare E, con il palmo destro chiaramente puntato verso la parte superiore del corpo di E. Un nucleo d'acqua trasparente ad alta densità viene generato solo davanti al palmo destro di PYONA.
-
-ESPLOSIONE D'ACQUA DAL PALMO.
-
-Un getto d'acqua trasparente ad alta densità viene sparato in avanti dal palmo di PYONA, attraversando una distanza chiaramente visibile tra le due, colpendo realmente la parte superiore del torace di E.
-
-PALMO DI PYONA
-→ GETTO D'ACQUA IN AVANTI VISIBILE
-→ CONTATTO CON IL TORACE DI E
-→ E SCAGLIATA INDIETRO.
-
-È vietato che l'acqua venga generata dal corpo di E, dalla schiena di PYONA o fuori dallo schermo. PYONA non sta a guardare il risultato.
-
-[00:10–00:14 — A / LEGAME D'ACQUA → GOMITO → GINOCCHIO]
-
-A grida: "Prendetela!" e sferra un pugno dal davanti.
-
-PYONA punta la mano sinistra verso il polso che attacca di A. Una fascia d'acqua trasparente viene sparata dal palmo sinistro di PYONA, attraversando chiaramente lo spazio tra loro prima di legare il polso e l'avambraccio di A.
-
-LEGAME D'ACQUA DAL PALMO DI PYONA
-→ VIAGGIO VISIBILE
-→ CONTATTO CON IL POLSO
-→ AVVOLGIMENTO STRETTO.
-
-PYONA tira violentemente la fascia d'acqua verso il basso e di lato, forzando il pugno di A fuori traiettoria, entra immediatamente, colpisce la parte superiore del corpo di A con una gomitata corta, poi una pesante ginocchiata all'addome. Il corpo di A si piega e inciampa all'indietro. È vietato che l'acqua appaia dal nulla direttamente sul polso di A.
-
-[00:14–00:18 — B / PROTEZIONE D'ACQUA → CALCIO LATERALE IDRAULICO]
-
-B sferra rapidamente un pugno pesante dal lato anteriore. Una pellicola d'acqua trasparente rotante ad alta velocità si genera attivamente all'esterno dell'avambraccio di PYONA. La PROTEZIONE D'ACQUA è attaccata solo all'avambraccio di PYONA; è vietato che appaia sul braccio di B.
-
-Il pugno di B colpisce realmente la pellicola d'acqua, l'acqua esplode violentemente, l'avambraccio di PYONA viene respinto di mezzo tempo, ma il pugno viene forzato fuori traiettoria.
-
-PYONA si spinge immediatamente via da terra, l'acqua generata da lei stessa sui suoi talloni esplode all'indietro ad alta velocità. L'IDRO PASSO la spinge attivamente nella distanza di attacco, senza scivolare o teletrasportarsi.
-
-Si aggancia al busto di B e sferra un potente CALCIO LATERALE.
-CONTATTO CON IL PIEDE
-→
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093684997916168193/img/UCCdpYcZBFrGpynd.jpg" width="600" alt="Cortometraggio d'azione soprannaturale Seedance 2.5">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10051)**
-
-**Autore:** [Pyona](https://x.com/pyona_ai) | **Fonte:** [Link](https://x.com/pyona_ai/status/2093685191466484198) | **Pubblicato:** Aug 29, 2026
-
----
-### Cortometraggio cinematografico mecha sci-fi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt multi-inquadratura per un cortometraggio sci-fi fotorealistico con una pilota e un enorme mech da combattimento bipede in un bunker.
-
-#### 📝 Prompt
-
-```
-Seedance 2.5 — Cortometraggio cinematografico mecha sci-fi, CGI fotorealistica, stile blockbuster VFX di Hollywood, color grading suggestivo teal-and-orange, luce volumetrica, 16:9, fluidità di movimento a 60fps, lens flare anamorfici.
-
-INQUADRATURA 1 (0-3s): Primissimo piano, angolazione dal basso, profondità di campo ridotta. Stivali da lavoro in pelle gialla usurata camminano lentamente in un corridoio meccanico buio e gocciolante. Spessi cavi arrugginiti e tubi idraulici coprono le pareti. Luce fredda blu sul bordo, pavimento bagnato e riflettente, particelle di polvere che fluttuano nell'aria.
-
-INQUADRATURA 2 (3-9s): Lento dolly-back che rivela un tunnel circolare con porta blindata, pareti in metallo scanalato coperte da cavi sospesi che convergono verso un'uscita luminosa. Estetica da bunker sci-fi abbandonato e suggestivo. Mantenere l'inquadratura abbastanza a lungo da creare tensione prima della rivelazione.
-
-INQUADRATURA 3 (9-15s): Un enorme mech da combattimento bipede bianco e nero si accende, il suo unico occhio a visiera arancione inizia a lampeggiare e avanza attraverso l'apertura del tunnel verso la telecamera, retroilluminato dalla luce diurna accecante. Vapore fuoriesce dalle articolazioni a ogni passo. Inquadratura eroica dal basso, slow motion enfatizzato sul terzo passo.
-
-INQUADRATURA 4 (15-18s): POV in primo piano di una giovane pilota, capelli corti bianchi/argento, giacca da volo blu, auricolare tattico, che guarda in alto con determinata meraviglia il gigantesco mech sopra di lei, la luce del tunnel riflessa nei suoi occhi.
-
-INQUADRATURA 5 (18-21s): Primissimo piano macro sulla mano meccanica del mech — piastre di armatura articolate bianche e nere, un nucleo reattore rosso che si accende e pulsa di luce tra le dita, scintille e lens flare.
-
-INQUADRATURA 6 (21-24s): Ripresa in movimento da dietro la pilota mentre cammina verso il mech, che abbassa una mano per accoglierla, silhouette retroilluminata contro il cielo luminoso.
-
-INQUADRATURA 7 (24-33s): Ripresa dinamica in movimento laterale — il mech scatta in una corsa sfrenata lungo una strada cittadina devastata e piena di macerie, forte motion blur, vibrazioni della telecamera, detriti sollevati a ogni passo pesante, edifici crollati su entrambi i lati. Questa è l'inquadratura più lunga e ad alta energia — che crea slancio verso il climax.
-
-INQUADRATURA 8 (33-38s): POV in prima persona dall'abitacolo — all'interno della testa del mech, HUD olografico rosso-arancio con mirino, barre della salute/munizioni, indicatori di puntamento che si bloccano su un nemico umanoide lontano in piedi tra le macerie alla fine di una strada in rovina, debole linea di puntamento laser, sfarfallio glitch dell'HUD.
-
-INQUADRATURA 9 (38-42s): Finale con inquadratura dal basso (worm's-eye-view) — il mech atterra pesantemente dopo un salto, la telecamera ruota rapidamente verso l'alto oltre le sue gambe mentre un'enorme onda d'urto di polvere, fumo e detriti esplode in tutte le direzioni, minuscola silhouette umana visibile in lontananza per dare il senso della scala. Bagliore arancione dell'abitacolo visibile attraverso il fumo. Taglio netto al nero all'impatto per un finale d'impatto.
-
-Audio: bassi profondi, ronzii meccanici/servo, vento in lontananza, crescendo orchestrale teso che culmina in un colpo percussivo sull'atterraggio finale, silenzio improvviso al taglio sul nero.
-Telecamera: mix di primi piani statici, rivelazioni lente e movimenti veloci.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093615651000836096/img/DFO3gHTJ5_2ZshtB.jpg" width="600" alt="Cortometraggio cinematografico mecha sci-fi">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10045)**
-
-**Autore:** [𝑨𝒇𝒓𝒊𝒏](https://x.com/afrinxai) | **Fonte:** [Link](https://x.com/afrinxai/status/2093654905525621072) | **Pubblicato:** Aug 29, 2026
-
----
 ---
 
 ## 📚 Altri prompt disponibili
@@ -4244,6 +3948,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-09-10T03:37:43.861Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-09-11T08:55:27.160Z</sub>
 
 </div>
