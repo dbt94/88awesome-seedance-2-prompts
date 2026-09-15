@@ -68,9 +68,9 @@ Perché usare la nostra galleria?
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **6365** |
+| 📝 Totale prompt | **6379** |
 | ⭐ Prompt in evidenza | **6** |
-| 🔄 Ultimo aggiornamento | **2026-09-14** |
+| 🔄 Ultimo aggiornamento | **2026-09-15** |
 
 ---
 
@@ -361,6 +361,1652 @@ Ultra realistico, energia ispirata a Fast and Furious, illuminazione fotorealist
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Prompt di Combattimento Cinematografico Xianxia Seedance 2.0
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt dettagliato per generare un video di combattimento wuxia cinematografico di 15 secondi, con angoli di ripresa specifici, coerenza dei personaggi e coreografia d'azione basata sulla fisica.
+
+#### 📝 Prompt
+
+```
+I. Posizionamento Principale
+
+Genera un cortometraggio di combattimento hardcore cinese Xianxia, realistico e cinematografico, rigorosamente di 15 secondi, formato orizzontale 16:9, a 24fps.
+
+Stile Generale:
+
+Estetica pura del combattimento hardcore Xianxia dell'antica Cina
+Alta tensione, ritmo forte, relazioni spaziali estremamente chiare
+Esplosioni improvvise, collisioni violente, arresti istantanei
+Il pubblico riesce a cogliere l'azione solo in momenti fugaci ma non perde mai l'orientamento
+Assimilare l'essenza dello spazio marziale e del montaggio di King Hu senza replicare alcun film specifico
+Texture della cinepresa cinema Arri Alexa
+Micro-dettagli facciali stabili e nitidi
+Grana fine del film
+Illuminazione volumetrica naturale
+Motion blur realistico
+Effetti sobri, nessun inquinamento luminoso
+
+L'emozione centrale di questo corto deriva da:
+
+Suppressione delle distanze tra armi lunghe e corte
+La minaccia multifunzionale dell'alabarda: 'pugnalata, gancio, controllo della linea, impatto corporeo'
+La sorella maggiore è sotto pressione nei primi due segmenti
+Il terzo segmento completa il contrattacco prendendo lo slancio, chiudendo attivamente la distanza e smontando l'asse di attacco efficace della testa dell'alabarda
+Orientamento geografico leggibile e attribuzione delle armi chiara anche durante i tagli ad alta velocità
+
+Non girare il combattimento come:
+
+Routine di danza morbida
+Accumulo di effetti speciali
+Teletrasporto casuale
+Combattimento caotico illeggibile
+Tagti meccanici frammentati
+
+II. Ancoraggi dell'Identità dei Personaggi
+
+Blocca le identità dei personaggi in base al 1° e 2° riferimento caricato, nell'ordine.
+
+ID Personaggio A | 1° Immagine di Riferimento | Sorella Maggiore Immortale della Spada
+Mantenere sempre la stessa persona:
+Donna dell'Asia orientale, 25-30 anni
+Viso ovale
+Tono della pelle chiaro e naturale
+Occhi color albicocca scuro
+Capelli neri raccolti a metà
+Fissati con una forcina di giada bianca
+Corpo alto e snello
+Stesso set di Hanfu in seta bianca ricamata
+Maniche larghe stratificate semi-trasparenti
+Cintura d'argento
+Pendente di giada
+Stivali in tela bianca
+Una spada diritta d'argento
+Guaina mantenuta per tutta la durata e può partecipare alle azioni
+Personalità:
+Calma
+Giudizio rapido
+Movimenti puliti
+Nessuna ostentazione
+Ogni cambiamento ha uno scopo tattico chiaro
+
+ID Personaggio B | 2° Immagine di Riferimento | Sorella Minore
+Mantenere sempre la stessa persona:
+Donna dell'Asia orientale, 20-25 anni
+Viso rotondo e vivace
+Capelli neri intrecciati
+Corpo minuto
+Stesso set di Hanfu in lino verde ciano
+Cintura scura
+Forcina di legno
+Scarpe nere in tela
+Una spada d'acciaio scuro
+Funzione:
+Non entra mai nella lotta
+Testimone da lontano
+Scossa dalla battaglia
+Finisce con un respiro trattenuto, nessun dialogo esplicativo
+
+ID Personaggio C | Nemico Alabardiere
+Stesso uomo adulto dell'Asia orientale
+Indossa antichi abiti marziali grigio ferro scuro
+Esperienza, stabilità, reazioni rapide
+Chiaramente ha esperienza reale di combattimento
+Può giudicare, imparare e correggere al volo
+In realtà sopprime la sorella maggiore nei primi due segmenti
+Non è un manichino che sta fermo a prendere colpi
+
+ID Personaggio D | Maestro Anziano
+Stesso maestro anziano
+Sempre testimone da lontano
+Non interviene mai
+Consegna solo un commento calmo alla fine
+
+III. Design dell'Arma del Nemico | Alabarda a Manico Lungo
+L'arma del nemico è un'alabarda a manico lungo progettata cinematograficamente basata sulla struttura antica dell'alabarda.
+Deve mantenere le caratteristiche:
+Punta frontale
+Lama laterale ramificata
+Struttura del manico lungo chiara
+Pugnalata diretta possibile
+Gancio orizzontale possibile
+Controllo delle linee dell'arma dell'avversario possibile
+Uso del manico per impatti brevi, pesanti e corporei
+Focus delle Prestazioni:
+Segmento 1: Usa la pugnalata diretta della punta frontale per stabilire la minaccia a lunga distanza
+Fine Segmento 1: Usa il ramo laterale per agganciare la linea della spada d'argento, trascinando via il percorso della sorella maggiore
+Fine Segmento 1: Usa altezza/peso del manico per un impatto ravvicinato
+Segmento 2: Completa continuamente pugnalate, ganci bassi, impatti inversi, controllo delle linee ravvicinate
+Fine Segmento 2: Il ramo laterale dell'alabarda si aggancia alla bocca della guaina offerta deliberatamente dalla sorella maggiore
+Segmento 3: La sorella maggiore prende forza da questo 'gancio', smontando l'asse efficace della testa dell'alabarda
+Solo un'alabarda in tutto il film; design, dimensione, direzione, presa stabili dall'inizio alla fine.
+
+IV. DNA dell'Ambiente
+Tutte le nuove immagini di sfondo/luogo caricate sono usate SOLO come riferimenti di sfondo/luogo.
+Prima della composizione formale, integra silenziosamente gli elementi compatibili:
+Terreno reale
+Linguaggio architettonico
+Scala spaziale
+Età dei materiali
+Vegetazione
+Corpi d'acqua
+Meteo
+Nebbia di montagna
+Direzione principale della luce
+Relazioni di riflessione
+Profondità atmosferica
+Rotte di combattimento ragionevoli
+Ricombina in un nuovo spazio unico per questo round ma coerente e credibile con tutti i riferimenti.
+Regole dell'Ambiente
+Deve mantenere:
+Luogo reale
+Spazio percorribile
+Rotte di combattimento ragionevoli
+Direzione principale della luce stabile
+Relazioni geografiche stabili
+Livelli chiari primo piano/mezzopiano/sfondo
+Lo sfondo è sempre naturalmente vivo:
+Il vento muove continuamente orli, capelli, vegetazione
+L'acqua scorre naturalmente
+La nebbia di montagna deriva lentamente
+Riflessioni/evidenze sulle superfici bagnate cambiano sottilmente
+Figure lontane hanno leggera attività naturale
+Lo sfondo è sempre narrativamente neutrale:
+Non crea opportunità attivamente
+Non crolla o fa inciampare le persone improvvisamente
+Non blocca nessuna delle due parti
+Non decide vittoria/sconfitta
+Solo quando i personaggi realmente:
+Poggiano i piedi
+Collidono
+Sfiorano l'ambiente
+Muovono terreno o oggetti
+Allora appaiono effetti locali:
+Polvere
+Onde
+Detriti
+Spostamento di foglie
+Movimento passivo dei tessuti
+
+V. Principi della Macchina da Presa
+Linguaggio Generale
+Tre segmenti narrativi chiari: 0-5s, 5-10s, 10-15s
+Circa 6-7 tagli interni funzionali totali
+Ogni taglio innescato SOLO da:
+Impatto reale
+Inversione improvvisa della direzione del movimento
+Arma che blocca la lente
+Squilibrio corporeo
+Testa dell'alabarda o lama della spada che passa davanti alla lente
+Proibito:
+Taglio medio meccanico
+Tagti frammentati senza causa
+Tremolio handheld per tutto il tempo
+Orbitature vistose
+Slow motion eccessivo
+Voli rapidi della camera
+Camere gamificate
+Principi del Movimento
+Le azioni devono avere:
+Peso chiaro
+Inerzia chiara
+Iniziazione chiara
+Impatto chiaro
+Arresto chiaro
+Permetti un brevissimo silenzio dopo ogni esplosione per far atterrare il pericolo.
+
+VI. Struttura del Combattimento in Tre Segmenti da 15 Secondi
+Shot 1 | 0-5s | Prima Soppressione con Alabarda Lunga
+Inquadratura & Fotografia
+Campo Lunghissimo/Ampio
+0.0-1.0s Usa campo lunghissimo estremo fisso 24mm
+Mostra chiaramente distanza, direzione, vie di fuga
+Sorella minore e maestro visibili in lontananza ma non distraenti
+Contenuto Visivo
+La stessa Sorella Maggiore Immortale vestita di bianco sta avanti.
+Solo un Alabardiere grigio ferro scuro direttamente davanti.
+La stessa Sorella Minore vestita di ciano e lo stesso Maestro Anziano restano testimoni distanti.
+0.0-1.0s Tutti statici, formando pressione.
+Poi il nemico pugnala improvvisamente lungo la linea centrale senza preavviso.
+Immediato taglio duro a angolo basso 28mm, la punta dell'alabarda perfora violentemente il primo piano.
+La stessa immortale vestita di bianco schiva con un passo diagonale esplosivo all'ultimo momento.
+Ma il nemico non si ferma.
+Il ramo laterale dell'alabarda si aggancia immediatamente orizzontalmente alla linea di movimento della sua spada d'argento, trascinando forzatamente via il percorso della spada.
+Successivamente, il nemico usa il manico lungo per un impatto corporeo estremamente breve ed estremamente pesante, sbilanciandola completamente di una posizione piena.
+Entrambi si fermano bruscamente.
+Nessuna posa.
+Nessuna performance extra.
+Obiettivo del Segmento
+Far sapere chiaramente al pubblico:
+Il nemico è forte
+La minaccia dell'alabarda è reale
+La sorella maggiore non ha guadagnato vantaggio nel segmento precedente
+Relazione spaziale pienamente comprensibile
+
+Shot 2 | 5-10s | Ri-soppressione con Blocco dell'Alabarda, la Sorella Maggiore Prepara le Condizioni per il Contrattacco
+Inquadratura & Fotografia
+Mezza figura/Cowboy shot
+Fotografia ravvicinata 35mm
+Mantenere la pressione continua il più possibile
+Nessun taglio frammentato frenetico
+Contenuto Azione
+Mantenere:
+Stessa Sorella Immortale vestita di bianco
+Stesso Alabardiere
+Stessa spada d'argento
+Stessa alabarda lunga
+Relazione spaziale pienamente continua
+Il nemico continua la pressione continua:
+Pugnalata superiore
+Ritira il corpo dell'alabarda per un gancio basso
+Usa immediatamente il manico per un impatto inverso
+La Sorella Maggiore chiude improvvisamente la distanza in modo esplosivo per la prima volta.
+Il nemico legge la sua tattica.
+Lui accorcia immediatamente la presa, trasformando l'arma lunga in un controllo compatto ravvicinato, sigillando di nuovo il suo ingresso, provando che giudica e si adatta.
+Poi il nemico lancia di nuovo un blocco abile con il ramo laterale.
+Questa volta, la Sorella Maggiore NON invia la spada d'argento.
+Offre deliberatamente la GUAINA VUOTA nella linea di attacco.
+Il ramo laterale dell'alabarda aggancia accuratamente la bocca della guaina.
+Mantieni un mezzo battito molto breve.
+Il nemico crede erroneamente di averla controllata con successo la seconda volta, tira indietro violentemente.
+Obiettivo del Segmento
+Completare la premessa necessaria per il contrattacco del terzo segmento:
+Il nemico crede di averla bloccata di nuovo
+Relazione di aggancio chiara tra alabarda e guaina
+La Sorella Maggiore ha preparato attivamente le condizioni per 'prendere lo slancio'
+
+Shot 3 | 10-15s | Prendere Slancio, Chiudere Distanza, Sigillo alla Gola
+Inquadratura & Fotografia
+Inizia con Primo Piano Estremo
+Entra nello shot d'impatto 50mm dopo l'azione
+Finalizza con primo piano estremo 85mm
+Contenuto Azione
+La stessa Sorella Immortale vestita di bianco NON affronta frontalmente la forza di trazione del nemico.
+Invece, esplode in avanti con lo slancio.
+Mentre chiude la distanza verso il nemico, ruota la guaina agganciata, cambiando angolo attorno al ramo laterale dell'alabarda.
+L'azione deve essere chiaramente leggibile:
+Non afferra l'alabarda con forza bruta
+Sta cambiando l'asse di attacco efficace della testa dell'alabarda
+Facendo perdere temporaneamente allo spazio della testa dell'alabarda per continuare pugnalata/gancio
+Il manico lungo attraversa tutta la lente, creando un taglio naturale di blocco dell'arma.
+Successivo shot d'impatto 50mm:
+Lei ha chiuso nello spazio personale del nemico,
+Usando la spalla per un impatto breve e violento, disturbando l'asse corporeo dell'avversario.
+Nel frattempo, la stessa spada diritta d'argento rimane liberamente tenuta nell'altra mano.
+Ruota sopra la spalla anteriore del nemico seguendo la direzione dello squilibrio.
+La spada d'argento non fa rotazioni fantasiose.
+Completa direttamente una spinta in avanti estremamente breve
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099446280883998720/img/lKBEzEUGHqvQXWtZ.jpg" width="600" alt="Prompt di Combattimento Cinematografico Xianxia Seedance 2.0">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10865)**
+
+**Autore:** [Soran](https://x.com/Soranlan) | **Fonte:** [Link](https://x.com/Soranlan/status/2099446391437488585) | **Pubblicato:** Sep 14, 2026
+
+---
+### Prompt per Cortometraggio Xianxia Seedance 2.0 Mini
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt altamente dettagliato per generare un cortometraggio cinematografico cinese Xianxia di 15 secondi utilizzando Seedance 2.0 Mini. Include istruzioni specifiche per la coerenza dei personaggi, i movimenti della camera, la tempistica dei dialoghi e l'estetica visiva, come la qualità Arri Alexa.
+
+#### 📝 Prompt
+
+```
+I. Obiettivo del Task
+
+Genera un cortometraggio cinese Xianxia realistico e cinematografico, rigorosamente di 15 secondi, formato landscape 16:9.
+
+Stile Generale:
+
+Estetica pura Xianxia antica cinese
+Texture da cinepresa Arri Alexa
+Micro-dettagli facciali stabili e nitidi
+Grana filmica delicata
+Luce volumetrica naturale
+Suspense tattica matura
+Potere emotivo trattenuto ma continuamente teso
+Dialoghi in stile sceneggiatore senior, guidati da depistaggio e sottotesto
+Design dell'azione semplice, chiaro, leggibile, con vera logica corporea delle arti marziali
+
+Colpo di Scena Centrale (Core Twist):
+
+Inizialmente tutti presumono che la Sorella Maggiore Immortale della Spada abbia spinto fuori la Sorella Minore per bloccare la spada e sfuggire al duello. Man mano che la trama procede, il pubblico si rende conto che è il nemico a essere davvero intrappolato. Ha passato dieci anni a studiare come sconfiggere la più famosa Immortale della Spada Vestita di Bianco, ma non ha mai guardato seriamente la Sorella Minore che stava sempre accanto a lei ed era disprezzata da tutti.
+
+Utilizzo del Modello:
+
+Seedance 2.0 Mini
+
+II. Regole di Utilizzo dei Riferimenti
+
+Riferimenti dei Personaggi
+
+Usa la 1ª immagine di riferimento del personaggio caricata e la 2ª immagine di riferimento del personaggio caricata come ancore di identità fisse per i due protagonisti.
+
+Riferimenti dello Sfondo
+
+Tutte le nuove immagini di riferimento dell'ambiente e della posizione caricate in questo round determinano congiuntamente un nuovo DNA ambientale unificato.
+
+Prima della composizione formale, riorganizza silenziosamente e unifica quanto segue:
+
+Terreno reale
+
+Linguaggio architettonico
+Scala spaziale
+Materiali
+Vegetazione
+Corpi d'acqua
+Meteo
+Nebbia di montagna
+Riflessi
+Direzione della luce principale
+Profondità atmosferica
+Forma uno spazio unico, completo, unificato e credibile per questo round.
+
+Principio Ambientale Generale
+
+Lo sfondo rimane continuamente vivo ma narrativamente assolutamente neutrale.
+
+Gli elementi che persistono naturalmente e mantengono la continuità includono:
+
+Vento
+
+Corpi d'acqua
+Nebbia di montagna
+Vegetazione
+Leggero ondeggiamento degli abiti
+Riflessi
+Figure distanti
+Suoni ambientali spaziali
+Questi elementi sono responsabili solo di stabilire un senso di mondo reale, non creano attivamente conflitto, non aiutano nessuna delle parti e non decidono vittoria/sconfitta.
+
+III. Impostazioni dei Personaggi
+
+ID Personaggio A | Sorella Maggiore Immortale della Spada | Corrisponde alla 1ª Immagine di Riferimento del Personaggio
+
+Mantieni sempre la stessa persona, non cambiare volto, costume o arma:
+
+Donna dell'Asia orientale di 25-30 anni
+
+Volto ovale dalla pelle chiara
+
+Occhi color albicocca scuro
+Capelli lunghi neri raccolti a metà
+Fissati con una forcina di giada bianca
+Figura alta e snella
+Hanfu di seta bianca ricamata
+Cintura argentata
+Pendaglio di giada
+Stivali di tela bianca
+Una singola spada lunga d'argento
+Temperamento del Personaggio:
+Calma
+
+Trattenuta
+
+Forte autorità
+Giudizio più profondo sulla situazione
+Espressione emotiva minima, ma impatto pesante
+ID Personaggio B | Sorella Minore | Corrisponde alla 2ª Immagine di Riferimento del Personaggio
+Mantieni sempre la stessa persona, non cambiare volto, costume o arma:
+
+Donna dell'Asia orientale di 20-25 anni
+
+Volto rotondo e vivace
+
+Capelli neri intrecciati
+Figura minuta
+Hanfu di lino verde-bluastro
+Cintura scura
+Forcina di legno
+Scarpe di tela nera
+Una singola spada d'acciaio scuro
+Temperamento del Personaggio:
+Solitamente sottovalutata
+
+Reazioni acute
+
+Semplice e diretta quando combatte realmente
+Inizialmente leggermente esitante, poi si fa rapidamente ferma
+Altri Personaggi
+Un vero spadaccino nemico potente
+
+Un maestro anziano
+
+Due discepoli della setta
+Diversi testimoni distanti
+Gli altri personaggi hanno solo il compito di evidenziare la linea principale, non rubare il centro emotivo.
+IV. Struttura delle Riprese
+
+Ripresa 1 | 0-5s | "Lei sta arrivando"
+
+Dimensione della Ripresa & Movimento della Camera
+
+Campo lungo o piano americano
+
+Movimento della camera trattenuto e stabile
+
+Stabilisci chiaramente il posizionamento dei personaggi e le relazioni spaziali
+
+Mantieni una parallasse reale
+Contenuto Visivo
+Lo stesso spadaccino nemico si trova direttamente davanti alle due donne
+Lo stesso maestro anziano, i due discepoli della setta e i diversi testimoni distanti esistono solo come figure secondarie
+
+Il quadro stabilisce chiaramente una relazione di stallo a tre vie
+
+Dialoghi & Recitazione
+Il nemico grida direttamente:
+"Immortale della Spada Vestita di Bianco, esci fuori."
+
+La stessa Sorella Maggiore resta immobile, non si muove, dice con calma:
+
+"Lei sta arrivando."
+
+La stessa Sorella Minore gira istantaneamente la testa:
+
+"Io?"
+
+Il nemico non può fare a meno di ghignare:
+
+"Usare la sorella minore per bloccare la spada?"
+
+Focus della Recitazione
+
+La Sorella Maggiore non offre spiegazioni, nessun movimento extra
+
+La prima reazione della Sorella Minore dovrebbe essere naturale, breve, con un accenno di sorpresa
+
+Il tono del nemico contiene genuino disprezzo
+
+Il pubblico deve essere tratto in inganno in questa ripresa, pensando che la Sorella Maggiore l'abbia davvero spinta fuori
+Ripresa 2 | 5-10s | "Quindi batterà solo me"
+Dimensione della Ripresa & Movimento della Camera
+Piano medio o piano cowboy
+
+Mantieni esattamente lo stesso spazio geografico della ripresa precedente
+
+Le azioni e i dialoghi devono essere chiari e leggibili
+
+Dialoghi & Recitazione
+
+La Sorella Minore fissa la Sorella Maggiore:
+"Mi stai davvero facendo combattere?"
+La Sorella Maggiore risponde con calma:
+
+"Ha decostruito il mio manuale di spada per dieci anni."
+
+Mantieni una pausa di mezzo battito.
+
+La Sorella Minore abbassa la voce:
+
+"Quindi usi me per testarlo?"
+
+Solo allora la Sorella Maggiore la guarda davvero:
+
+"Quindi batterà solo me."
+
+La scena cade istantaneamente nel silenzio.
+
+Design dell'Azione
+
+Immediatamente dopo, il nemico estrae improvvisamente la sua spada.
+
+Il nemico usa un set di contro-azioni mature chiaramente preparate negli anni, specificamente progettate per contrastare gli abituali percorsi di spada della Sorella Maggiore.
+
+La Sorella Minore non usa mosse finali complesse, completa solo una serie di azioni semplici, veloci e chiare:
+
+Avanzata diagonale
+
+Taglio nel punto cieco del nemico
+
+Un chiaro contatto della lama
+
+Deviazione dell'arma del nemico fuori dalla linea centrale
+
+Requisiti dell'Azione
+Tutte le azioni devono essere semplici, rapide, fisicamente ragionevoli
+Niente flashiness
+Nessuno stacking di mosse
+
+Le traiettorie delle armi devono essere comprensibili al pubblico
+
+La chiave della vittoria deriva dal fatto che il nemico è completamente ignaro di lei
+Ripresa 3 | 10-15s | "Non ha mai calcolato per lei nemmeno una volta"
+Dimensione della Ripresa & Movimento della Camera
+Primo piano o primissimo piano
+Espressioni, pause, relazioni dello sguardo sono il nucleo
+
+Mantieni il quadro stabile, niente push/pull esagerati
+
+Contenuto Visivo
+
+Il nemico perde l'equilibrio, cade su un ginocchio
+
+Il soggetto rimane la relazione tra le tre persone
+Il maestro distante e gli altri mantengono una presenza a profondità di campo ridotta
+Dialoghi & Recitazione
+
+Il nemico mostra genuino shock per la prima volta:
+
+"Che tecnica di spada è questa?"
+La Sorella Minore istintivamente si volta verso la Sorella Maggiore, aspettandosi una risposta come faceva in passato.
+La Sorella Maggiore non dice nulla.
+
+La Sorella Minore fa una breve pausa, si volta di nuovo verso il nemico:
+
+"Non lo so."
+
+Il nemico si blocca:
+
+"Non lo sai?"
+
+La Sorella Minore stabilizza la sua postura, risponde solo:
+
+"L'ho appena pensato."
+
+Nel primissimo piano, l'espressione trattenuta della Sorella Maggiore rivela finalmente un piccolo sorriso genuinamente orgoglioso.
+
+Il nemico guarda oltre la Sorella Minore verso la Sorella Maggiore:
+
+"Hai calcolato tutto questo in anticipo?"
+
+La Sorella Maggiore risponde direttamente:
+
+"No."
+
+Mantieni una pausa di mezzo battito.
+
+Poi rifocalizza sulla Sorella Minore, dicendo la battuta finale:
+
+"Ma lui ha calcolato contro di me per dieci anni, e non ha mai calcolato per lei nemmeno una volta."
+
+Focus della Recitazione
+
+Quando la Sorella Minore dice "L'ho appena pensato", dovrebbe essere naturale, diretto, senza ostentazione
+
+L'ultima battuta della Sorella Maggiore dovrebbe essere calma ma estremamente potente
+
+Il nemico comprende davvero dove ha perso in questo momento
+
+Il finale si concentra sulle relazioni tra i personaggi e sull'inversione cognitiva, nessuna azione extra
+
+V. Principi di Controllo Visivo e dell'Azione
+
+Cinematografia
+Realismo cinematografico
+Texture Arri Alexa
+Dettagli facciali chiari e stabili
+
+Grana filmica trattenuta e naturale
+
+Direzione della luce stabile
+
+Movimento della camera pulito, continuo, credibile
+
+Azione
+Poche e precise
+Semplici e chiare
+Veloci e leggibili
+Ogni azione serve al colpo di scena
+Non sono ammessi complessi virtuosismi
+
+Non sono ammesse potenti magie immortali esagerate
+
+Non sono ammessi qi della spada illogici
+Blocco dei Personaggi
+La Sorella Maggiore controlla sempre la situazione ma non ruba il completamento della battaglia alla Sorella Minore
+La Sorella Minore si erge gradualmente come la vera protagonista dall'illusione di essere stata spinta fuori
+Il nemico passa dal disprezzo, allo shock, alla piena comprensione del proprio punto cieco
+Il maestro e i discepoli hanno solo il compito di evidenziare, non interferiscono nel combattimento
+VI. Sound Design
+
+Dialoghi nativi sincronizzati in mandarino.
+
+Concentrati sul potenziamento dei seguenti suoni:
+Suono della spada che taglia il vento
+Suono di collisione metallica
+Passi
+
+Fruscio degli abiti
+
+Suoni ambientali naturali
+
+Suoni del respiro
+
+Requisiti Audio:
+Sincronizzazione labiale precisa
+Sincronizzazione audio-video stabile
+I nodi dell'azione devono avere un supporto sonoro chiaro
+Le pause emotive devono osare lasciare il silenzio
+Non usare una colonna sonora troppo ricca che sopprima i dialoghi e i suoni delle armi
+VII. Requisiti di Continuità
+
+Mantieni rigorosamente la stabilità durante tutto:
+
+Identità della Sorella Maggiore stabile
+Identità della Sorella Minore stabile
+Identità del nemico stabile
+Logica della posizione del maestro e dei discepoli stabile
+Costumi dei personaggi stabili
+
+Spada lunga stabile
+
+Spazio geografico stabile
+
+Direzione della luce stabile
+
+Meteo stabile
+Il volto non cambia forma
+L'acconciatura non cambia
+La causa-effetto dell'azione è chiara
+VIII. Da Evitare Rigorosamente
+Problemi Visivi
+sfocato
+cattiva qualità
+bassa qualità
+bassa risoluzione
+rumoroso
+artefatti jpeg
+
+filigrana
+
+testo
+
+errore
+
+fuori inquadratura
+cattiva composizione
+Problemi del Corpo Umano
+deformato
+anatomia errata
+mani disegnate male
+sfigurato
+mutato
+morphing del volto
+personaggio incoerente
+vestiti che cambiano
+
+Problemi di Continuità
+
+spostamento dello sfondo
+tag glitchati
+oggetti di scena che scompaiono
+geografia instabile
+incoerenza delle armi
+Problemi di Stile
+Qi della spada casuale
+Inquinamento luminoso
+
+Effetti eccessivi
+Azioni molli e deboli
+Combattimento illeggibile
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099430343053115392/img/BK75r_SM3mS9PwdT.jpg" width="600" alt="Prompt per Cortometraggio Xianxia Seedance 2.0 Mini">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10868)**
+
+**Autore:** [Soran](https://x.com/Soranlan) | **Fonte:** [Link](https://x.com/Soranlan/status/2099430859480895816) | **Pubblicato:** Sep 14, 2026
+
+---
+### Prompt Video: Orsetto alla Guida di un'Auto Vintage
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt per generare un video cinematografico e affascinante di un orsetto che interagisce con e guida un'auto vintage in un contesto rurale.
+
+#### 📝 Prompt
+
+```
+Crea un video in uno stile narrativo cinematografico e ultra-realistico: un adorabile cucciolo di orso marrone attraversa una tranquilla fattoria di campagna dirigendosi verso una vecchia auto vintage blu parcheggiata accanto a un rustico fienile in legno. L'orso si avvicina curioso al veicolo, vi sale dentro e si siede naturalmente sul sedile del conducente, con le zampe appoggiate sul volante. La telecamera cattura dettagli ravvicinati del pelo realistico dell'orso, dei suoi occhi espressivi, delle piccole zampe e degli interni invecchiati dell'auto classica. Il veicolo inizia poi a muoversi lentamente lungo una strada rurale bagnata, creando riflessi sottili e un movimento naturale. Ampie inquadrature cinematografiche rivelano campi verdi, balle di fieno, una piccola casa colonica e la calda luce dorata dell'ora magica sullo sfondo. Utilizza movimenti fluidi della telecamera, profondità di campo realistica, soft lens flare, ombre naturali, texture dettagliate e illuminazione ambientale autentica. L'atmosfera generale deve risultare affascinante, avventurosa, cinematografica e leggermente giocosa, con movimenti animali realistici e un'interazione credibile con l'auto, ripresa come un film documentario sulla fauna selvatica ad alto budget.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099404139952570368/img/uRDYCVtTU7Szshi1.jpg" width="600" alt="Prompt Video: Orsetto alla Guida di un'Auto Vintage">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10859)**
+
+**Autore:** [liana](https://x.com/Lianaalane) | **Fonte:** [Link](https://x.com/Lianaalane/status/2099404551199809774) | **Pubblicato:** Sep 14, 2026
+
+---
+### Prompt Video Vita Quotidiana Studentessa Universitaria Coreana
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt per generare un video lifestyle cinematografico e realistico che segue una giovane studentessa universitaria coreana attraverso una giornata serena, dagli spostamenti allo studio e alla socializzazione.
+
+#### 📝 Prompt
+
+```
+Crea un video lifestyle cinematografico e realistico che segue una giovane studentessa universitaria coreana attraverso una giornata serena e produttiva.
+
+Inizia con il suo tragitto verso il campus in autobus urbano al mattino. Poi mostrala mentre studia in un'aula universitaria luminosa con laptop, quaderno e libri. Continua con lei intenta a lavorare sui compiti in una biblioteca accogliente o in un caffè mentre beve un caffè.
+
+Successivamente, mostrala mentre cammina nel campus sotto la pioggia con un ombrello trasparente, sorridendo naturalmente. Quindi passa a lei che gusta una ciotola fumante di zuppa in stile coreano in un piccolo ristorante locale.
+
+Al tramonto, mostrala in piedi su un bellissimo tetto con vista sulla città, mentre ammira il cielo color oro-arancio. Poi mostrala mentre incontra tre amiche coreane e scattano insieme un selfie divertente.
+
+Termina con la protagonista che torna a casa su un treno moderno di notte, guardando fuori dal finestrino le luci brillanti della città, seguito da un primo piano caldo di lei che sorride serenamente.
+
+Stile: lifestyle coreano fotorealistico, narrazione cinematografica, qualità commerciale premium, espressioni naturali, pelle e capelli realistici, illuminazione morbida, movimenti di camera fluidi, profondità di campo ridotta, ambienti dettagliati, atmosfera emotiva e accogliente, 4K, no testo, no loghi, no filigrana.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099369815244939265/img/zsMWACbztck3PCf6.jpg" width="600" alt="Prompt Video Vita Quotidiana Studentessa Universitaria Coreana">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10857)**
+
+**Autore:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Fonte:** [Link](https://x.com/ayzalnooor24521/status/2099369971206013374) | **Pubblicato:** Sep 14, 2026
+
+---
+### Prompt per Video Commerciale di Prodotti Skincare
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt per generare un video commerciale beauty pulito e luminoso, con una donna del Sud-est asiatico che dimostra una routine skincare con prodotti specifici.
+
+#### 📝 Prompt
+
+```
+Un video commerciale beauty luminoso e pulito che mostra una giovane donna del Sud-est asiatico dalla pelle chiara e radiosa, con i capelli scuri raccolti ordinatamente all'indietro, indossa una semplice canottiera bianca. Si trova in un bagno moderno con pareti piastrellate in tonalità pastello menta e pesca, uno specchio rotondo con cornice dorata e un piano d'appoggio in marmo bianco. Illuminazione naturale soffusa, estetica fresca e ariosa, look da pubblicità skincare di fascia alta.
+Sorride alla telecamera mentre tiene in mano un tubetto di Wardah Lightening Gentle Wash color azzurro chiaro. Stacco su un primo piano delle sue mani sul piano in marmo mentre prende il flacone contagocce di Wardah Lightening Serum tra altri tubetti coordinati azzurro chiaro e un vasetto di crema. Estrae il contagocce con una goccia di siero che cade. Poi applica delicatamente il siero leggero sulla guancia con la punta delle dita, la pelle appare idratata e luminosa. Successivamente tiene in mano il vasetto di Wardah Lightening Day Cream, svita il tappo bianco e applica una piccola quantità di crema bianca sul viso, ottenendo un finish luminoso. Scena finale: si trova dietro la gamma completa dei prodotti disposti ordinatamente sul piano (tubetti di Gentle Wash, sieri, vasetto di day cream, toner), con le mani incorniciate sotto il mento, sorridendo dolcemente.
+Stile cinematografico da spot beauty, profondità di campo ridotta, riflessi morbidi sulla pelle, packaging dei prodotti pulito nelle tonalità coordinate azzurro polvere e bianco, nessun testo sovrapposto, fotorealistico, verticale 9:16.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099360549931012096/img/6rNUosGMUb-EJ-mt.jpg" width="600" alt="Prompt per Video Commerciale di Prodotti Skincare">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10861)**
+
+**Autore:** [Noor](https://x.com/noorlewisx) | **Fonte:** [Link](https://x.com/noorlewisx/status/2099360578741354744) | **Pubblicato:** Sep 14, 2026
+
+---
+### Prompt Video: Donna Orientale Gotica in Rovine Piovose
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt dettagliato per lo storyboard di un video musicale che ritrae una donna orientale in un abito da sposa strappato tra rovine sotto la pioggia, utilizzato per confrontare Seedance 2.0 e Kling 3.0.
+
+#### 📝 Prompt
+
+```
+Soggetto principale: Una donna orientale di bellezza inquietante, avvolta in un abito da sposa cremisi logoro e un velo rosso, con i capelli argentati spettinati. Lo sfondo sono le rovine di un antico edificio cinese crollato, sotto un cielo grigio con una leggera pioggia.
+Storyboard narrativo (0–15 secondi):
+0–5s — Primo piano e lotta interiore: La camera si avvicina lentamente al volto della donna in primo piano. I suoi occhi sono fuori fuoco, le lacrime si mescolano alla pioggia mentre scivolano sulle guance, ma un sorriso sinistro le increspa l'angolo della bocca — la sua espressione oscilla tra angoscia e follia.
+5–10s — Barcollare e frantumarsi: La camera segue i suoi passi mentre vacilla instabile attraverso le rovine, l'orlo dell'abito da sposa trascina macerie e rami secchi producendo un leggero fruscio.
+10–15s — Disperazione e caduta: Un'inquadratura grandangolare si allarga mentre lei collassa in posizione seduta tra le rovine, il velo rosso scivola via rivelando il suo viso pallido. Inclina la testa all'indietro verso il cielo grigio, la sua risata svanisce mentre le lacrime continuano a cadere.
+Stile e atmosfera: Qualità cinematografica, stile gotico oscuro, alto contrasto, impatto visivo striking rosso e nero, opprimente, disperato, surrealista, risoluzione 8K, dettaglio squisito.
+Negativo: Bassa qualità, scatti, deformazioni del volto/corpo, eccessiva luminosità, gore eccessivo, movimenti rigidi, filigrana, T-pose, palette luminosa, VFX appariscenti, camera rigida, mancanza di velocità/sfocatura, uccisioni deboli.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099327320666648576/img/IhX88LYqnukZgLDA.jpg" width="600" alt="Prompt Video: Donna Orientale Gotica in Rovine Piovose">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10862)**
+
+**Autore:** [Zidan 子丹](https://x.com/liluocheng13) | **Fonte:** [Link](https://x.com/liluocheng13/status/2099327675244720565) | **Pubblicato:** Sep 14, 2026
+
+---
+### Prompt Video Cinematografico: Battaglia dei Tre Regni
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt per generare un video epico della battaglia dei Tre Regni con estetica da blockbuster hollywoodiano, caratterizzato da armature iperrealistiche e movimenti di camera dinamici.
+
+#### 📝 Prompt
+
+```
+Stile generale: blockbuster hollywoodiano, ultra cinematografico, realismo epico dei Tre Regni, stile cinematografico iperrealistico, campo di battaglia epico a livello IMAX, scala bellica in stile Ridley Scott, slow motion in stile Zack Snyder, atmosfera autentica di guerra dei Tre Regni. Cielo dai toni blu freddi, polvere e fumo che riempiono l'aria, riflessi metallici freddi, scintille volanti, campo di battaglia dai toni ocra. Colonna sonora percussiva di Hans Zimmer, polvere volumetrica, camera dinamica, armature iperrealistiche, campo di battaglia al tramonto drammatico, scala IMAX, 8K, alto contrasto, detriti in movimento, atmosfera di guerra.
+[Estetica principale e ambiente] Qualità d'azione da film blockbuster hollywoodiano di fascia alta, frame rate elevato a 60fps. Un campo di battaglia dei Tre Regni, con soldati di entrambi gli schieramenti impegnati in un combattimento feroce. La telecamera alterna riprese dall'alto (high-angle) e riprese dal basso (low-angle), enfatizzando le immagini epiche del campo di battaglia e la brutalità della guerra, insieme all'intensità di una battaglia decisiva tra la vita e la morte — come la sequenza culminante di un vero film di guerra sui Tre Regni. Forte gancio visivo nei primi 2 secondi, soggetto stabile, azione fluida, composizione cinematografica, illuminazione e ombre realistiche, sensazione epica, forte emozione, dettagli elevati.
+Nessun sottotitolo, nessun dialogo, nessuna narrazione per tutta la durata.
+🚫 Prompt negativi (per evitare risultati di bassa qualità): cartoon, anime, armature false, armi fluttuanti, anatomia errata, volti sfocati, CGI economica, cavalli poco dettagliati, arti duplicati, impatto debole, azione morbida.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099316383633051648/img/v5mB87o4C-_Ojcoe.jpg" width="600" alt="Prompt Video Cinematografico: Battaglia dei Tre Regni">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10856)**
+
+**Autore:** [Zidan 子丹](https://x.com/liluocheng13) | **Fonte:** [Link](https://x.com/liluocheng13/status/2099316581549658547) | **Pubblicato:** Sep 14, 2026
+
+---
+### Prompt per Annuncio Skincare Fotorealistico Seedance 2.0
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt dettagliato per la generazione video con Seedance 2.0, progettato per creare uno spot skincare fotorealistico verticale di 10 secondi. Include uno storyboard multi-scena con unboxing, scatti eroe del prodotto, primi piani sulla texture e movimenti delle mani, enfatizzando illuminazione cinematografica e coerenza del brand.
+
+#### 📝 Prompt
+
+```
+Crea uno spot skincare verticale 9:16 fotorealistico di alta qualità della durata di 10 secondi, utilizzando l'immagine caricata come riferimento visivo esatto. Preserva accuratamente il design della bottiglia fittizia "Cheng Guang Cocoa Soft Glow", l'etichetta, i colori, il packaging e la composizione complessiva. Non copiare marchi reali di Vaseline.
+
+Scena 1 (0–2s): Movimentazione cinematografica fluida della camera verso la scatola regalo aperta. La bottiglia Cheng Guang Cocoa Soft Glow viene rivelata splendidamente tra carta velina rosa tenue ed elementi decorativi. Illuminazione calda e accogliente, scintillii sottili.
+
+Scena 2 (2–4s): Le mani di una donna prendono delicatamente la bottiglia Cheng Guang dalla scatola. Movimento naturale lento delle mani, texture della pelle realistica, illuminazione morbida e calda, sensazione premium di unboxing.
+
+Scena 3 (4–6s): Scatto eroe del prodotto. La bottiglia è in piedi circondata da semi di cacao, burro di cacao e foglie verdi fresche. La camera si muove lentamente da sinistra a destra con elegante profondità di campo cinematografica.
+
+Scena 4 (6–7s): Primo piano estremo di una texture di lozione liscia che viene spalmata delicatamente sulla pelle. Mostra la texture cremosa e leggera e la finitura idratante lucida in dettaglio macro realistico.
+
+Scena 5 (7–9s): La bottiglia è tenuta elegantemente in una mano e ruotata lentamente verso la camera. Evidenzia il concetto di Burro di Cacao e Siero nella Lozione con illuminazione pubblicitaria beauty premium.
+
+Scena 6 (9–10s): Scatto eroe finale della bottiglia Cheng Guang Cocoa Soft Glow circondata da semi di cacao e foglie. La camera avanza lentamente, effetti scintillanti sottili, sfondo caldo lussuoso, composizione pulita focalizzata sul prodotto.
+
+Stile: fotorealistico, pubblicità beauty premium, illuminazione cinematografica, movimenti delle mani realistici, transizioni fluide della camera, profondità di campo ridotta, bokeh morbido, toni dorati caldi, 4K, altamente dettagliato, movimento naturale, nessuna distorsione, nessun prodotto extra, nessuna modifica all'etichetta o al branding della bottiglia.
+```
+
+<img src="https://cms-assets.youmind.com/media/1789393197676_yblwly_HSHNVxCbgAIJgvD.jpg" width="600" alt="Prompt per Annuncio Skincare Fotorealistico Seedance 2.0">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10866)**
+
+**Autore:** [Andy](https://x.com/Andy4aicreate) | **Fonte:** [Link](https://x.com/Andy4aicreate/status/2099184782538395709) | **Pubblicato:** Sep 13, 2026
+
+---
+### Seedance 2.0 Mini: Scena di colloquio Excel
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Prompt dettagliato per la generazione video con Seedance 2.0 Mini, che raffigura un surreale scenario tra un immortale antico e un moderno colloquio di lavoro.
+
+#### 📝 Prompt
+
+```
+I. Obiettivo del Task
+
+Generare un breve video della durata esatta di 15 secondi, formato 16:9 orizzontale, con texture fotorealistica cinematografica.
+
+Il concetto generale è:
+
+Rappresentare l'ansia del luogo di lavoro moderno come una prova di setta di immortali antichi.
+
+Non si tratta di semplice commedia, né di far ridere tramite cadute o bruttezza, ma di utilizzare un senso di confronto solenne, una recitazione deadpan (espressiva ma impassibile) controllata e un contrasto ritmico dato dall'interruzione improvvisa della musica, per filmare un ordinario colloquio video come una scena solenne quanto una sentenza di vita o di morte.
+
+Utilizzo del Modello:
+
+Seedance 2.0 Mini
+
+Concentrarsi sullo sfruttamento delle sue capacità:
+
+Riferimento multimodale
+Narrativa multi-shot di 15 secondi
+Interazione complessa tra personaggi
+Controllo stabile della camera
+Sincronizzazione nativa audio-visiva
+
+II. Regole di Utilizzo dei Riferimenti
+
+Riferimento Personaggio
+
+Le figure nell'Immagine 1 e nell'Immagine 2 mantengono le impostazioni precedenti come ancoraggi di identità fissi.
+
+Riferimento Sfondo
+
+Tutte le nuove immagini caricate devono essere utilizzate strettamente solo come riferimenti per sfondo e location.
+
+Deve preservare dalle immagini di riferimento:
+
+Struttura architettonica
+Layout spaziale
+Materiale del pavimento
+Direzione della luce
+Tono cromatico principale
+Profondità spaziale
+Stato meteorologico
+Arredamento ambientale
+Non sostituire arbitrariamente le locations, non cambiare lo sfondo in altri spazi, non sfocare in scene generalizzate.
+
+III. Impostazioni dei Personaggi
+
+ID Personaggio A | Sword Immortal Sister (Fratellanza dell'Immortale della Spada) | Segue Immagine 1
+
+Mantenere sempre la stessa persona, senza cambi di volto o vestiti:
+
+Donna est-asiatica di 25–30 anni
+Volto ovale
+Pelle chiara naturale
+Occhi scuri marroni penetranti
+Capelli neri lunghi e lisci
+Figura alta e snella
+Spilla per capelli in giada
+Hanfu bianco in seta ricamata
+Maniche larghe stratificate semi-trasparenti
+Ornamento in argento alla vita
+Stivali in tela bianca
+Stessa spada lunga d'argento
+Temperamento del personaggio:
+Calmo
+Di alto rango
+Forte presenza oppressiva
+Dignitoso e controllato, come se affrontasse una prova di setta
+
+ID Personaggio B | Bicycle Sister (Fratellanza della Bicicletta) | Segue Immagine 2
+
+Mantenere sempre la stessa persona, senza cambi di volto o vestiti:
+
+Donna est-asiatica di 25–30 anni
+Volto espressivo
+Coda di cavallo marrone
+Proporzioni corporee fisse
+Giacca gialla
+Jeans blu
+Scarpe da ginnastica bianche
+Accessori fissi
+Stessa bicicletta
+Temperamento del personaggio:
+Familiare con il ritmo della vita moderna
+Responsabile di far avanzare la situazione
+Ha una leggera funzione comica ausiliaria
+Ma la performance rimane controllata, non esagerata
+
+IV. Stile Generale e Atmosfera
+
+Stile visivo generale:
+
+Texture fotorealistica cinematografica
+Personaggi Xianxia antichi che entrano in scene di lavoro moderne
+Luce ambientale blu fredda che contrasta con luci reali calde e la luce dello schermo del computer
+Aria umida e strati di luce realistici
+Movimento naturale dei capelli e della seta
+Composizione solenne di fascia alta
+Commedia deadpan controllata
+La commedia non si basa su cadute, bruttezza o performance esagerate
+
+Parole chiave emotive generali:
+Senso di prova
+Tensione
+Oppressione
+Serietà
+Assurdo ma non caotico
+Ansia moderna tradotta in stile antico
+
+V. Struttura degli Shot
+
+Shot 1 | 0–5s | Apertura della Prova
+Dimensione Shot & Movimento Camera
+
+Inquadratura larga a basso angolo
+Camera traccia lentamente verso l'interno
+Movimento stabile e controllato
+Nessuna ostentazione, nessun tremolio
+
+Contenuto Visivo
+La location di sfondo caricata deve essere pienamente riconoscibile
+La stessa Sword Immortal Sister sta al centro dell'inquadratura, immobile
+Espressione come se affrontasse una prova di immortalità mortale
+La stessa Bicycle Sister sta dietro di lei
+Bicycle Sister posiziona un sottile laptop moderno nel cestino anteriore della stessa bicicletta
+Le relazioni spaziali tra bicicletta, computer, personaggi e sfondo devono essere stabili e chiare
+
+Azione & Performance
+Sword Immortal Sister mantiene assoluta compostezza, non guardandosi intorno
+Bicycle Sister si muove in modo netto e naturale, non esagerato
+Capelli e tessuto di seta si muovono leggermente e naturalmente
+La luce ambientale mantiene il tono principale blu freddo, le luci reali calde e la luce dello schermo formano un contrasto stratificato
+
+Audio
+Suono ambientale spaziale naturale presente
+Improvvisamente suona una notifica di connessione videoconferenza
+Questo suono agisce come segnale per "l'inizio ufficiale della prova"
+
+Shot 2 | 5–10s | Abilità Eroe e Interrogatorio Moderno
+Dimensione Shot & Movimento Camera
+Cowboy shot o inquadratura media
+Camera esegue lentamente un'orbita semicircolare
+Mantenere la continuità di personaggi, computer, bicicletta e spazio di sfondo
+
+Contenuto Visivo
+La stessa Sword Immortal Sister si gira verso lo stesso laptop
+Lo sfondo mantiene sempre la stessa location caricata
+Mantenere la stessa bicicletta, stessa illuminazione, stesso meteo
+
+Performance & Dialoghi
+Solo un intervistatore fuori campo appare nel computer, non è necessaria una persona dal vivo.
+L'intervistatore chiede:
+"Per favore, presenta le tue competenze principali."
+Sword Immortal Sister risponde con un tono estremamente solenne, come se stesse rivelando segreti di setta nella sala principale:
+
+"Controllo la spada per cento miglia, proteggo la formazione e spezzo il male."
+
+L'intervistatore non mostra emozioni, incalza immediatamente:
+
+"Esperto in Excel?"
+
+Contrasto Ritmico
+Nel momento in cui questa frase esce, deve completarsi un chiaro ribaltamento ritmico comico:
+
+La musica originale di archi eroici si interrompe bruscamente istantaneamente
+L'atmosfera estremamente tenue e controllata del qi della spada attorno a Sword Immortal Sister scompare simultaneamente
+Non una performance di risata esplosiva, ma una commedia deadpan formata dalla perdita improvvisa del senso epico
+
+Shot 3 | 10–15s | Formazione Foglio di Calcolo
+Dimensione Shot & Movimento Camera
+Primo piano a grandissimo primo piano
+La camera si avvicina alle espressioni facciali
+Mantenere l'inquadratura controllata, stabile e leggibile
+
+Contenuto Visivo
+La stessa Bicycle Sister si sporge dal bordo dell'inquadratura
+Piccola ampiezza di azione, non divertente
+Lei sussurra:
+"Dì sì."
+
+Performance & Dialoghi
+Sword Immortal Sister si gira lentamente verso la webcam del computer, mantenendo ancora la dignità e la calma di un esperto impareggiabile, rispondendo seriamente:
+
+"Sì. Esperto... nelle formazioni foglio di calcolo."
+
+La scena è silenziosa per mezzo secondo.
+L'intervistatore nel computer risponde calmo:
+
+"Okay."
+
+In questo momento, la campanella della stessa bicicletta "suona" leggermente, come il martelletto finale della sentenza che cade.
+
+Frame Finale
+Grandissimo primo piano sugli occhi ancora seri di Sword Immortal Sister
+La stessa Bicycle Sister accanto a lei si morde il labbro stretto per trattenere la risata
+Non ridere ad alta voce in modo esagerato
+Lasciare che l'assurdità si fermi nel momento della compostezza
+
+VI. Regole Ambientali e di Continuità
+
+Lo sfondo deve essere sempre vivido, ma assolutamente neutro narrativamente.
+
+Contenuti che devono persistere naturalmente:
+Vento
+Cambiamenti di luce ambientale
+Leggero movimento dei capelli
+Oscillazione naturale del tessuto di seta
+Profondità spaziale
+Atmosfera realistica nella scena
+Se lo sfondo contiene altri elementi ambientali visibili, devono anche esistere naturalmente secondo la logica dell'immagine di riferimento, ma non devono oscurare il soggetto.
+
+Requisiti di Continuità
+Mantenere rigorosamente la seguente stabilità durante tutto:
+Identità Sword Immortal Sister stabile
+Identità Bicycle Sister stabile
+Bicicletta stabile
+Laptop stabile
+Spada lunga stabile
+Location stabile
+Direzione della luce stabile
+Meteo stabile
+Tono cromatico principale stabile
+Cambiamenti di posizione della camera ragionevoli
+I volti dei personaggi non possono deformarsi
+Gli abiti non possono cambiare
+
+VII. Sound Design
+
+Deve sincronizzare nativamente l'audio generato e i visual.
+Concentrarsi sul rafforzamento di questi suoni:
+Suono di notifica connessione videoconferenza
+Voce fuori campo dell'intervistatore
+Dialoghi in mandarino di Sword Immortal Sister
+Sussurro basso di Bicycle Sister
+Leggero suono della campanella della bicicletta
+Leggero rumore di fondo ambientale
+Fruscio del tessuto
+Necessaria sensazione del respiro
+
+Focus Ritmo Audio
+Il primo suono di notifica è come "apertura della prova"
+Quando appare "Esperto in Excel?", la musica deve tagliarsi improvvisamente
+L'ultimo suono della campanella è come il martelletto di chiusura del caso
+Il suono deve servire il contrasto comico, non essere rumoroso
+
+VIII. Focus Esecutivo Seedance 2.0 Mini
+
+Si prega di concentrare le capacità del modello su queste cose:
+Coerenza Identitaria Personaggio
+Sword Immortal Sister dell'Immagine 1 e Bicycle Sister dell'Immagine 2 non cambiano mai volti o vestiti
+
+Atterraggio Rigido del Riferimento Sfondo
+Le nuove immagini caricate sono responsabili solo della location di sfondo
+Non cambiare location, non scambiare spazi, non sfocare l'ambiente
+
+Ritmo Comico Preciso
+Stabilito dal divario tra tono solenne e vere domande di colloquio
+Completato dal ritiro della musica e dalla compostezza facciale
+Sincronizzazione Audio-Visiva Affidabile
+Suono di connessione, voce fuori campo, dialoghi, campanella devono corrispondere strettamente ad azioni ed espressioni
+Coesistenza di oggetti moderni e personaggi antichi naturale
+Laptop, bicicletta, cestino anteriore devono essere realistici e credibili
+Nessun effetto collage economico
+
+IX. Da Evitare Rigorosamente
+
+Problemi Visivi
+sfocato
+qualità scadente
+bassa qualità
+bassa risoluzione
+rumoroso
+artefatti jpeg
+filigrana
+testo
+errore
+composizione sbagliata
+fuori inquadratura
+sfigurato
+
+Problemi Personaggio
+deformato
+mutato
+anatomia sbagliata
+mani disegnate male
+morphing del volto
+cambio vestiti
+personaggio incoerente
+espressione imbarazzante
+recitazione comica esagerata
+
+Problemi di Continuità
+spostamento sfondo
+oggetti di scena che scompaiono
+tag glitchati
+bicicletta che cambia forma
+laptop che cambia dimensione o posizione
+incoerenza della spada
+
+Problemi di Stile
+Nessuna commedia slapstick
+Nessuna bruttezza deliberata
+Nessuna reazione glitch esagerata
+Nessuna sensazione di animazione
+Nessuna sensazione di CG videogioco
+Nessun effetto privo di significato
+Nessun sottotitolo
+Nessuna sensazione di filtro短视频 economico
+
+X. Obiettivo Effetto Finale
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099106061093650433/img/ZFGPQlxs2eH6_3g-.jpg" width="600" alt="Seedance 2.0 Mini: Scena di colloquio Excel">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10864)**
+
+**Autore:** [Soran](https://x.com/Soranlan) | **Fonte:** [Link](https://x.com/Soranlan/status/2099106759164268579) | **Pubblicato:** Sep 13, 2026
+
+---
+### Prompt per Cortometraggio Xianxia Seedance 2.0 Mini
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt completo per generare un cortometraggio Xianxia di 15 secondi in tre inquadrature intitolato 'Scrivere la Sconfitta' utilizzando Seedance 2.0 Mini, caratterizzato da complesse interazioni tra personaggi e tensione morale.
+
+#### 📝 Prompt
+
+```
+Seedance 2.0 Mini | Prompt per cortometraggio Xianxia di 15 secondi in tre inquadrature | "Scrivere la Sconfitta"
+
+I. Obiettivo del Task
+
+Genera un cortometraggio cinese Xianxia continuo e completo di 15 secondi, formato orizzontale 16:9, con una struttura rigorosa in tre inquadrature, ciascuna della durata di circa 5 secondi.
+
+Tono Generale:
+
+Texture cinematografica realistica
+Estetica pura Xianxia dell'antica Cina
+Tensione morale matura tipica dei tempi di guerra
+Potere emotivo contenuto ma costantemente teso
+Dialoghi nello stile di sceneggiatori veterani, guidati dal sottotesto e dalle conseguenze
+Coreografia avanzata dei personaggi wuxia
+Texture della cinepresa cinema Arri Alexa
+Micro-dettagli facciali stabili e nitidi
+Luce volumetrica naturale
+Grana fine del film
+
+La svolta narrativa centrale ruota attorno a un coraggio più difficile:
+
+Quando continuare a combattere per la parola "vittoria" causerà la morte di più persone comuni, una persona davvero responsabile osa scrivere personalmente "sconfitta" sotto lo sguardo di tutti?
+
+II. Immagini di Riferimento e Ancore dei Personaggi
+
+Ancore dell'Identità dei Personaggi
+
+Usa rigorosamente la 1ª immagine nell'ordine di caricamento e la 2ª immagine nell'ordine di caricamento come ancore dell'identità dei personaggi per i due protagonisti.
+
+ID Personaggio A | 1ª Immagine | Sorella Maggiore Immortale della Spada
+
+Mantieni sempre la stessa persona:
+
+Donna dell'Asia orientale di 25–30 anni
+
+Viso ovale dalla pelle chiara
+Occhi a mandorla scuri
+Capelli neri raccolti a metà
+Fissati con una forcina di giada bianca
+Figura alta e snella
+Stesso set di Hanfu in seta bianca ricamata
+Sigillo d'argento alla vita
+Ciondolo di giada
+Stivali in tela bianca
+Impugna la stessa spada lunga d'argento
+ID Personaggio B | 2ª Immagine | Sorella Minore
+
+Mantieni sempre la stessa persona:
+
+Donna dell'Asia orientale di 20–25 anni
+
+Viso rotondo e vivace
+Capelli neri intrecciati
+Figura minuta
+Stesso set di Hanfu in lino verde
+Cintura scura
+Forcina di legno
+Scarpe nere in tela
+Impugna la stessa spada d'acciaio scuro
+III. DNA Ambientale e Principi Spaziali
+
+Tutte le immagini di riferimento dello sfondo e della location caricate in questo round determinano congiuntamente lo stesso DNA Ambientale.
+
+Prima della composizione formale, riorganizza silenziosamente e unifica i seguenti contenuti:
+
+Terreno reale
+
+Linguaggio architettonico
+
+Scala spaziale
+Materiali
+Vegetazione
+Corpi d'acqua
+Meteo
+Nebbia di montagna
+Strati di nuvole
+Riflessi
+Direzione della luce principale
+Profondità atmosferica
+Quindi riprogetta una nuova location unica per questo round, completamente unificata, reale e credibile.
+Regole Generali dell'Ambiente
+
+Lo sfondo deve essere sempre vibrante, ma narrativamente assolutamente neutrale:
+
+Il vento esiste naturalmente in modo continuo
+
+L'acqua scorre continuamente
+
+La nebbia di montagna vaga secondo il terreno
+La vegetazione risponde naturalmente al vento
+Vesti e capelli influenzati naturalmente dal vento
+Riflessi e vedute lontane cambiano sottilmente e continuamente
+Personaggi distanti e suoni ambientali esistono continuamente
+Ma questi elementi ambientali:
+Non possono creare attivamente la trama
+
+Non possono aiutare nessuno a prendere decisioni
+
+Non possono guidare la risoluzione del conflitto
+Non possono rubare il focus drammatico
+IV. Struttura della Trama
+Inquadratura 1 | 0–5s
+
+Dimensione Inquadratura
+
+Campo lungo o campo lunghissimo
+
+Scheduling Schermico
+
+La Sorella Maggiore Immortale della Spada e la Sorella Minore sono posizionate nell'area principale in primo piano
+
+Un comandante nemico direttamente davanti a loro
+
+Un maestro anziano, due discepoli della setta, diversi civili feriti, un piccolo numero di soldati nemici distribuiti in diversi strati di profondità
+
+Relazione geografica chiara e stabile
+Camera contenuta e stabile, stabilisce chiaramente tutte le relazioni tra i personaggi e le posizioni degli oggetti di scena
+Oggetti di Scena Chiave
+Un documento di cessate il fuoco
+Un pennello da calligrafia
+
+Tavolo o equivalente superficie antica di scrittura
+
+Trama e Dialoghi
+Il comandante nemico dispiega pubblicamente il documento di cessate il fuoco e dice:
+"Ammettete la sconfitta, le truppe si ritirano stanotte. Non ammettetela, combattiamo di nuovo al tramonto."
+
+Il Maestro risponde freddamente:
+
+"Non c'è il carattere 'arrendersi' sotto la mia guida."
+
+La stessa Sorella Minore non discute, allunga semplicemente la mano in silenzio per prendere il pennello sul tavolo.
+
+Punto Chiave di Questa Inquadratura
+
+Primo livello di conflitto stabilito tra "ammettere la sconfitta" e "dignità della setta"
+
+L'azione della Sorella Minore che prende il pennello deve essere ferma, lenta, chiara
+
+Permettere al pubblico di iniziare ad anticipare che prenderà una decisione contraria alle aspettative
+
+Inquadratura 2 | 5–10s
+Dimensione Inquadratura
+Mezza figura o inquadratura cowboy
+
+Requisiti di Continuità
+
+Mantieni stabili durante tutta la sequenza i seguenti contenuti:
+
+Stessi due protagonisti
+
+Stessi vestiti
+
+Stesso documento di cessate il fuoco
+
+Stesso pennello
+
+Spazio geografico completamente coerente
+Posizioni dei personaggi secondari continue
+Trama e Azioni
+La Sorella Minore scrive il proprio nome sul documento di cessate il fuoco davanti a tutti.
+Il Maestro grida improvvisamente:
+"Con questa riga, sai cosa stai lasciando indietro?"
+
+La Sorella Minore non alza lo sguardo, risponde solo:
+
+"Lo so."
+
+Pausa completa per mezzo battito, poi lascia cadere una frase:
+
+"Lasciando domani."
+
+La stessa Sorella Maggiore Immortale della Spada allunga improvvisamente la mano, prendendo il pennello dalla sua mano.
+
+In questo momento, lo schermo deve causare un chiaro malinteso nel pubblico, pensando che la Sorella Maggiore voglia fermarla, o persino cancellare il nome.
+
+Il secondo successivo, la Sorella Maggiore scrive estremamente calma il proprio nome sotto quello della Sorella Minore.
+
+Il Maestro è davvero sbalordito, chiede:
+
+"Anche tu ammetti la sconfitta?"
+
+La Sorella Maggiore risponde:
+
+"La sconfitta è nostra."
+
+Pausa un altro battito, poi dice di nuovo:
+
+"Il nome non può lasciarla sola."
+
+Dietro una profondità di campo ridotta, l'espressione originariamente fredda e dura del comandante nemico cambia visibilmente per la prima volta.
+
+Punto Chiave di Questa Inquadratura
+
+La scrittura della Sorella Minore deve essere decisiva, non esitare troppo nella performance
+
+L'azione della Sorella Maggiore che afferra il pennello deve essere contenuta, creando un momento pulito di fuorviamento
+
+La doppia firma è il punto di stabilizzazione visivo della svolta centrale di questo film
+
+Focus drammatico sulla "responsabilità congiunta", non sul "fermare" o sul "sentimentalismo"
+
+Inquadratura 3 | 10–15s
+Dimensione Inquadratura
+Primo piano o grandangolo estremo
+Requisiti di Continuità
+
+Mantieni stabili durante tutta la sequenza i seguenti contenuti:
+
+Stessa Sorella Maggiore
+
+Stessa Sorella Minore
+
+Stesso documento di cessate il fuoco
+
+Pennello, tracce di inchiostro, spada lunga e vestiti coerenti
+
+Posizioni dei personaggi secondari e relazioni spaziali continue
+
+Trama e Dialoghi
+La stessa Sorella Minore guarda la Sorella Maggiore, abbassa la voce chiedendo:
+"Sorella Maggiore, non hai paura di essere derisa dai posteri?"
+La vera Sorella Maggiore Immortale della Spada incontra il suo sguardo, risponde solo:
+"Ho paura."
+
+Mantieni completamente una pausa pulita e pesante.
+
+Poi sposta lo sguardo su quei civili comuni feriti, dice solo:
+
+"Prima lasciamo che le persone di oggi vivano fino ai posteri."
+
+Azioni Finali e Conseguenze
+
+L'espressione originariamente sempre tesa della Sorella Minore finalmente si rilassa estremamente leggermente
+
+Il comandante nemico raccoglie silenziosamente il documento di cessate il fuoco firmato
+
+Si gira e ordina ai soldati di abbassare le armi
+
+Lo stesso maestro anziano non è facilmente persuaso, né fa riassunti
+
+Solo dopo un lungo silenzio, si fa lentamente da parte di un passo
+
+Emozione Finale dell'Inquadratura
+Infine le due donne stanno fianco a fianco:
+Nessuna postura di vittoria
+Nessuna espressione di vergogna
+Hanno perso una vittoria/sconfitta nominale
+
+Hanno preservato attivamente il giorno successivo
+
+V. Principi di Performance
+
+Sorella Maggiore Immortale della Spada
+Contenuta
+Sobria
+Non urla slogan
+
+Emozioni tenute molto ferme
+
+Vera forza riflessa nel "condividere attivamente il nome della sconfitta"
+
+Sorella Minore
+
+Sezione frontale sopporta silenziosamente la pressione
+Sezione centrale ferma quando scrive
+Sezione posteriore rilassamento emotivo estremamente leggero
+Nessun pianto/urla, nessun sentimentalismo, non recitare fragilità
+Maestro
+
+Intenso ma contenuto
+
+Non puro villain, né immediatamente persuaso
+Il suo silenzio e la concessione finale devono portare un senso di costo
+Comandante Nemico
+Prima metà tratta "ammettere la sconfitta" come umiliazione
+
+Seconda metà realizza per la prima volta che l'avversario sta salvando vite per più persone
+
+Cambiamenti di espressione chiari, ma non possono rubare la ribalta ai protagonisti
+Cast Secondario di Gruppo
+Solo testimoni
+
+Mantengono esistenza naturale in diversi strati di profondità
+
+Non rubano dialoghi, non dominano la camera
+VI. Requisiti di Camera e Fotografia
+Orizzontale 16:9
+
+Tre inquadrature continue rigorosamente chiare
+
+Movimento della camera stabile, contenuto, chiaro
+Nessuna ostentazione tecnica
+La camera serve le relazioni tra i personaggi e la logica degli oggetti di scena
+
+Primo piano, piano medio, sfondo mantengono parallasse reale
+
+Permettere al pubblico di vedere chiaramente il pennello, il documento di cessate il fuoco, la scrittura, la doppia firma, le reazioni dei personaggi secondari
+
+Illuminazione e Texture
+Luce volumetrica naturale
+Grana fine del film
+Micro-dettagli facciali stabili e nitidi
+Tracce di inchiostro, carta, vestiti di seta, armi metalliche devono avere texture reale
+VII. Suono e Sincronizzazione Audio-Video
+Deve sincronizzare nativamente i dialoghi in mandarino e abbinare precisamente i movimenti delle labbra.
+
+Suoni chiave includono:
+
+Suono della scrittura con il pennello
+Fruscio della carta
+Suono del documento di cessate il fuoco toccato e raccolto
+Suono fine del tessuto
+
+Leggero suono metallico della spada lunga e del fodero
+
+Suono ambientale del vento, dell'acqua, lieve movimento della folla distante
+
+Principi del Suono:
+
+Il suono ambientale esiste continuamente in modo naturale
+
+Non sovrasta i dialoghi
+Le pause devono avere vero peso drammatico
+Quando si firma e si raccoglie il documento di cessate il fuoco, il suono dovrebbe essere chiaro ma contenuto
+VIII. Focus di Esecuzione Seedance 2.0 Mini
+Per Seedance 2.0 Mini, concentrati sul migliorare le seguenti quattro capacità:
+Primarietà/secondarietà visiva multi-persona chiara
+Soggetti sempre la Sorella Maggiore e la Sorella Minore
+Il cast di gruppo solo testimoni e fonti di pressione
+
+Design delle azioni semplice e chiaro
+Prendere il pennello, scrivere, afferrare il pennello, firmare di nuovo, raccogliere il documento, concedersi
+Ogni azione deve essere leggibile, non ambigua
+
+Continuità dell'identità del personaggio e degli oggetti di scena chiave
+Identità dei due protagonisti stabili
+Documento di cessate il fuoco, pennello, tracce di inchiostro, spada lunga continua e stabile
+Posizioni dei personaggi secondari il più stabili possibile
+Micro-performance contenuta e continuità dell'illuminazione
+Emozioni complete tramite contatto visivo, pause, respirazione, sottili cambiamenti delle dita
+Non fare affidamento su performance esagerate
+IX. Evitare Rigorosamente
+Problemi dello Schermo
+
+sfocato
+
+qualità scadente
+
+bassa qualità
+
+bassa risoluzione
+
+rumore
+
+artefatti jpeg
+
+filigrana
+
+testo
+errore
+
+deformato
+
+mutato
+anatomia errata
+mani disegnate male
+
+composizione scadente
+
+fuori campo
+disfigurato
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099037220523126784/img/E9gfiTBYF99IVjlW.jpg" width="600" alt="Prompt per Cortometraggio Xianxia Seedance 2.0 Mini">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10867)**
+
+**Autore:** [Soran](https://x.com/Soranlan) | **Fonte:** [Link](https://x.com/Soranlan/status/2099037374751862845) | **Pubblicato:** Sep 13, 2026
+
+---
+### Prompt Video Combattimento Guerriero Fantasy Cinese
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt dettagliato per generare un video d'azione fantasy che vede protagonista una donna cinese con artigli affilati combattere contro nemici in un palazzo, enfatizzando combattimenti cinematografici ed effetti mistici.
+
+#### 📝 Prompt
+
+```
+Una misteriosa guerriera fantasy cinese vestita con sontuose vesti nere e cremisi, indossa un intricato copricapo dorato a forma di fenice con ornamenti rossi pendenti, lunghi capelli neri le scendono lungo la schiena, pelle pallida e uno sguardo freddo e ipnotico, se ne sta immobile al centro di una maestosa sala del palazzo antico cinese riempita da fumo di incenso fluttuante. La sua arma non è una lama ma le sue mani — dita lunghe e sottili con unghie affilate come rasoi simili ad artigli che brillano di energia oscura, una debole luce cremisi pulsa attorno alle punte delle sue dita. Improvvisamente scompare e si lancia in avanti a velocità impossibile attraverso decine di nemici, squarciandoli con movimenti fluidi delle mani, ogni colpo lascia dietro di sé scie luminose di energia cremisi come nastri di seta nell'aria. Un vasto interno di un antico palazzo cinese, alte colonne rosse, intagli dorati, lanterne appese tremolano calde attraverso il fumo denso, l'atmosfera è densa di energia mistica invece di condizioni meteorologiche, niente pioggia, niente tempesta, solo lenta nebbia di incenso vorticosa e braci che fluttuano nell'aria. Inizia con una lenta carrellata cinematografica attraverso la sala fumosa, una sottile orbita attorno alla donna mentre i suoi occhi si spostano leggermente, poi un improvviso cambio di velocità nel combattimento, whip pan che collegano i suoi colpi ad artiglio, momenti in slow motion dove il fumo e le particelle luminose si congelano a mezz'aria durante gli impatti, la calda luce delle lanterne contrasta con i lampi di energia cremisi scura. Finisce con lei ancora immobile, con la schiena leggermente voltata come prima, i capelli che si assestano, mentre tutti i nemici crollano silenziosamente dietro di lei all'unisono, il fumo si infittisce e la camera si ritrae lentamente, rivelando la vasta, sacra ma inquietante sala del palazzo (Nessun sottotitolo, nessun dialogo, nessuna narrazione per tutto il tempo; sincronizzato con le immagini, la risata fredda della donna appare con un eco)
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099037033692061696/img/lnCVrVm1s4sWG9fN.jpg" width="600" alt="Prompt Video Combattimento Guerriero Fantasy Cinese">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10860)**
+
+**Autore:** [Zidan 子丹](https://x.com/liluocheng13) | **Fonte:** [Link](https://x.com/liluocheng13/status/2099037301590643099) | **Pubblicato:** Sep 13, 2026
+
+---
+### Prompt Video Cinematografico per Pit Lane Motorsport
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt per creare una scena motorsport cinematografica ultra-realistica con una donna circondata dalla crew di pit lane, focalizzata su movimento dinamico e illuminazione ad alto contrasto.
+
+#### 📝 Prompt
+
+```
+Scena cinematografica ultra-realistica di pit lane motorsport, una giovane donna sicura di sé al centro circondata da un grande gruppo di membri professionisti della crew di pit racing che indossano tute da corsa bianche coordinate con dettagli neri e rossi, caschi riflettenti con visiera dorata e guanti rossi. La donna indossa un elegante outfit professionale del team racing nero con patch sottili in stile sponsor, tiene in mano un bicchiere di caffè da asporto, ha lunghi capelli scuri, trucco naturale ed espressione calma e sicura. Movimento sincronizzato e dinamico della crew di pit attorno a lei, profondità di campo ridotta, motion blur drammatico sulle figure in primo piano, messa a fuoco nitida sulla donna centrale, texture realistiche di tessuto e casco, luce diurna cinematografica, alto contrasto, fotografia motorsport professionale, obiettivo 85mm, f/1.8, HDR, ultra-dettagliato, fotorealistico, 8K, composizione verticale.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099001705673494528/img/8PnDL5gwhZf9rmh5.jpg" width="600" alt="Prompt Video Cinematografico per Pit Lane Motorsport">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10858)**
+
+**Autore:** [AIwithMinal](https://x.com/AIwithMinal) | **Fonte:** [Link](https://x.com/AIwithMinal/status/2099001770680684572) | **Pubblicato:** Sep 13, 2026
+
+---
+### Animazione dei Personaggi con Timecode Seedance
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt per Seedance che utilizza i timecode per controllare il battito delle palpebre e l'esitazione del personaggio in un video.
+
+#### 📝 Prompt
+
+```
+0:00 – 0:02 
+Visuale: Un personaggio è seduto alla scrivania, appare coinvolto e vigile, mentre ascolta un dialogo fuori campo.  
+Audio: Conversazione vivace o audio di sottofondo allegro.
+
+0:02 – 0:04.5
+Visuale: Immobilità completa. Non una pausa video fluttuante, ma un fermo immagine rigido (hard keyframe hold). Le pupille del personaggio si spostano leggermente di lato mentre una frase imbarazzante termina.  
+Audio: Il dialogo si interrompe bruscamente. Silenzio totale, a parte un sottile ronzio ambientale della stanza.
+
+0:04.5 – 0:05
+Visuale: Un battito di ciglia netto e preciso di 2 fotogrammi—occhi chiusi completamente, poi riaperti immediatamente. Pulito, intenzionale, zero morphing.  
+Audio: Un clic comico secco e sottile o un effetto sonoro morbido di "battito di ciglia".
+
+0:05 – 0:07
+Visuale: Il personaggio muove leggermente la mascella e fissa lo sguardo nel vuoto, dritto verso l'obiettivo della telecamera, con accettazione impassibile.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098891773561176064/img/CO0C0X4f-ApyyKKq.jpg" width="600" alt="Animazione dei Personaggi con Timecode Seedance">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10855)**
+
+**Autore:** [Creo AI](https://x.com/withcreo) | **Fonte:** [Link](https://x.com/withcreo/status/2098932170718941563) | **Pubblicato:** Sep 13, 2026
+
+---
+### Prompt per Video Tour di Suite d'Hotel di Lusso
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt per generare un tour cinematografico e continuo di una suite da letto in un hotel di lusso, con illuminazione dell'ora dorata e viste panoramiche sulla città.
+
+#### 📝 Prompt
+
+```
+Un'inquadratura continua, cinematografica e fotorealistica di una moderna suite di lusso in un grattacielo, con vista panoramica sullo skyline della città. La telecamera è posizionata su una porta, avanza leggermente prima di eseguire una panoramica fluida e continua verso destra. Il ritmo è lento, elegante e sereno, imitando la videografia architettonica di alto livello. Una splendida luce solare dell'ora dorata filtra attraverso ampie finestre dal pavimento al soffitto, proiettando lunghe ombre distinte e calde su un letto bianco immacolato e sul pavimento in marmo. La camera da letto presenta due poltrone contemporanee e una scrivania raffinata, che si integra perfettamente in un bagno a concetto aperto con doccia a pioggia in vetro e vasca autoportante. La vista esterna mostra uno skyline metropolitano nitido che ricorda il Lower Manhattan visto dall'acqua. Risoluzione 4K, iperdettagliato, estetica di viaggio di lusso.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098931095010164736/img/Q4GSRMTk9ZvAXIhF.jpg" width="600" alt="Prompt per Video Tour di Suite d'Hotel di Lusso">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10863)**
+
+**Autore:** [Dan | AI Automator](https://x.com/thello4486) | **Fonte:** [Link](https://x.com/thello4486/status/2098931287918514655) | **Pubblicato:** Sep 13, 2026
+
+---
 ### Scena d'azione con superbike in città
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -3463,419 +5109,6 @@ Il design complessivo dovrebbe risultare luminoso, educativo, moderno, ordinato 
 **Autore:** [妖精アーヤ](https://x.com/aiehon_aya) | **Fonte:** [Link](https://x.com/aiehon_aya/status/2095632939199443237) | **Pubblicato:** Sep 3, 2026
 
 ---
-### Centro massaggi di Hong Kong in stile anime cinematografico
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video in stile anime cinematografico per una clip di 15 secondi ambientata in un centro massaggi di Hong Kong, caratterizzato da un'illuminazione calda e pannelli decorativi tradizionali.
-
-#### 📝 Prompt
-
-```
-Clip di cortometraggio in stile anime cinematografico, 15 secondi. Centro massaggi Heaven on Earth, Hong Kong, pareti color crema e beige con pannelli decorativi cinesi geometrici bianchi, file di poltrone reclinabili color crema, tavolini bassi, illuminazione calda e soffusa, pavimento lucido.
-```
-
-<img src="https://pbs.twimg.com/media/HRTD-lJbYAAz06R.jpg" width="600" alt="Centro massaggi di Hong Kong in stile anime cinematografico">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10299)**
-
-**Autore:** [TechieSA](https://x.com/TechieBySA) | **Fonte:** [Link](https://x.com/TechieBySA/status/2095515266532651349) | **Pubblicato:** Sep 3, 2026
-
----
-### Cortometraggio animato 3D in stile Pixar sulla pasticceria
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt per un'animazione 3D di alta qualità che ritrae una donna intenta a preparare una torta al cioccolato in una cucina soleggiata, con una sequenza passo dopo passo, dalla rottura delle uova alla presentazione finale.
-
-#### 📝 Prompt
-
-```
-Un cortometraggio cinematografico animato in 3D in stile Pixar che ritrae una bella giovane donna con lunghi capelli castani ondulati, grandi occhi scintillanti color blu-verde, guance rosee e un sorriso gentile, che indossa un top senza maniche color crema e un grembiule beige con la scritta "@Logolumos" stampata sul petto. Si trova in una moderna cucina luminosa e soleggiata, con caldi mobili in legno, un piano di lavoro in marmo, una finestra con piante e la luce dorata del tramonto che filtra all'interno. Illuminazione fotorealistica, profondità di campo ridotta, texture ultra dettagliate, qualità di animazione 3D di alto livello.
-
-Sequenza:
-Rompe un uovo marrone in una ciotola di vetro che contiene già diversi tuorli.
-Versa dello zucchero bianco sopra i tuorli.
-Versa contemporaneamente dell'olio dorato da un misurino e del latte bianco da una brocca di vetro nella ciotola.
-Setaccia la farina bianca attraverso un colino di metallo nel composto umido.
-Spolvera del cacao amaro in polvere sopra il mucchietto di farina.
-Monta il tutto fino a ottenere una pastella al cioccolato fondente ricca e lucida.
-Spennella del burro fuso su una teglia rettangolare di metallo.
-Versa la densa pastella al cioccolato nella teglia con una spatola.
-Infila la teglia in un forno preriscaldato.
-Guarda l'orologio da polso con un'espressione leggermente preoccupata mentre aspetta.
-La torta lievita e cuoce all'interno del forno illuminato.
-Apre il forno indossando guanti da cucina ed estrae la torta al cioccolato fondente perfettamente cotta.
-Presenta con orgoglio la torta al cioccolato rotonda finita su una gratella, sorridendo verso la telecamera.
-
-Atmosfera culinaria calda, accogliente e confortevole, movimenti di camera fluidi, qualità professionale da spot pubblicitario, 8k, altamente dettagliato.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095380971277443072/img/KvylEcPAjvIXfP2P.jpg" width="600" alt="Cortometraggio animato 3D in stile Pixar sulla pasticceria">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10252)**
-
-**Autore:** [Elisia](https://x.com/AiwithElisia) | **Fonte:** [Link](https://x.com/AiwithElisia/status/2095381006031503710) | **Pubblicato:** Sep 3, 2026
-
----
-### Drammatica battaglia d'acqua nel bagno della scuola
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video cinematografico per una scena di battaglia d'acqua tesa e caotica in un moderno bagno scolastico, con tre ragazze adolescenti, illuminazione realistica e riflessi.
-
-#### 📝 Prompt
-
-```
-Scena cinematografica realistica all'interno di un moderno bagno scolastico, tre ragazze adolescenti che indossano blazer scolastici grigi coordinati, camicie bianche, gonne a quadri e scarpe da ginnastica bianche. Una ragazza è seduta sul piano del lavabo mentre un'altra le sta di fronte con un gesto intenso della mano e una terza ragazza reagisce in modo drammatico sullo sfondo. L'acqua schizza contro il grande specchio, creando un'atmosfera caotica e tesa. Illuminazione fredda a fluorescenza, riflessi realistici, espressioni facciali dettagliate, movimento naturale del corpo, composizione cinematografica, profondità di campo ridotta, effetto camera a mano, fotorealismo ad alto dettaglio, color grading drammatico, 4K, verticale.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095380592397537280/img/j1Z5lobzSKeUwfut.jpg" width="600" alt="Drammatica battaglia d'acqua nel bagno della scuola">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10254)**
-
-**Autore:** [AIwithMinal](https://x.com/AIwithMinal) | **Fonte:** [Link](https://x.com/AIwithMinal/status/2095380638224318793) | **Pubblicato:** Sep 3, 2026
-
----
-### Gatto Silver Tabby 3D che balla la samba brasiliana
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt di generazione video preciso che utilizza molteplici asset di riferimento — un'immagine per l'identità del personaggio, un'immagine per l'impostazione della scena e un video per il movimento — per creare un gatto animato in 3D che esegue passi di samba.
-
-#### 📝 Prompt
-
-```
-Genera un video di 15 secondi, formato verticale 3:4, 720p, silenzioso, di un gatto 3D semi-realistico che balla. Inquadratura fissa frontale a figura intera, piano medio-lungo; ripresa unica, senza tagli, zoom, panoramiche o inclinazioni.
-
-@Image1 è l'unico riferimento per l'identità del personaggio: deve essere sempre lo stesso gattino Silver Tabby leggermente magro, mantenendo un viso rotondo, grandi occhi grigio-verdi, naso rosa, pelo corto bianco-argento, sfumatura grigio scuro sulla schiena, zampe corte, cuscinetti arrotondati e una coda folta. Non utilizzare lo sfondo dello studio di @Image1 e non mantenere la sua posa statica.
-
-@Image2 è l'unico riferimento per la scena, la composizione e l'illuminazione: mantenere sempre lo stesso soggiorno color crema vista mare, con finestra, tende, divano, sgabello, mobile, lampada, vista sul mare, cielo al crepuscolo, prospettiva del pavimento in legno e luce solare dorata proveniente da sinistra; i mobili e lo sfondo devono rimanere stabili per tutta la durata.
-
-@Video1 è l'unico riferimento per la timeline del movimento e l'azione. Segui rigorosamente l'intera sequenza di azioni di @Video1 da 0.00s a 15.00s, inclusi i tempi di inizio/fine, le relazioni tra gli arti, il posizionamento dei piedi, gli spostamenti del centro di gravità, l'abbassamento/rimbalzo del corpo, le traiettorie delle zampe, i movimenti della testa, l'ammiccamento, la chiusura degli occhi, l'apertura della bocca, la lingua che sporge e la posa finale. Le azioni devono avvenire in modo continuo nell'ordine originale; non ricoreografare, riorganizzare, semplificare, mediare, mettere in loop, omettere o aggiungere azioni. Prendi come riferimento solo il movimento, l'espressione, l'ampiezza, la telecamera fissa e il ritmo di @Video1; non fare mai riferimento al personaggio della rana, all'aspetto verde, alla texture della pelle, alla spiaggia, alle onde, alla sabbia o all'illuminazione.
-
-Concentrati sul mantenere i piccoli passi strascicati a terra di @Video1: piccoli incroci, rilasci, tocchi laterali e ritorni, con piccoli passi e spostamenti del peso a destra/sinistra. Le zampe anteriori devono seguire le posizioni alte/basse di @Video1; non trasformare il movimento in ginocchia alte, marcia, salti, calci o generici balli carini. L'ampiezza degli arti e i contorni della posa del gatto devono corrispondere a @Video1 in ogni momento.
-
-Il gattino rimane centrato orizzontalmente, completamente visibile, occupando circa il 52% - 58% dell'altezza dell'inquadratura e meno del 40% della larghezza; mantieni lo spazio sopra la testa, le orecchie, i piedi, le zampe, la coda e il pavimento in legno. La dimensione del personaggio è costante. La coda esiste continuamente dalla base, oscillando naturalmente in opposizione agli spostamenti di peso; non deve duplicarsi o scomparire.
-
-Solo un gatto per tutta la durata. Mantieni arti felini realistici e pelo 3D semi-realistico; le zampe non possono trasformarsi in mani umane o sviluppare dita. Ogni passo deve toccare il pavimento in modo stabile senza scivolare o fluttuare. Sono vietati rane, altri animali, persone, vestiti, collari, testo, sottotitoli, loghi, interfaccia utente, filigrane, arti extra, code duplicate, aumento di peso, distorsioni facciali, cambiamenti di colore, sfarfallio dello sfondo o movimento dei mobili. Completamente silenzioso.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095370811461029888/img/OH2zJEo-lt8_FQwT.jpg" width="600" alt="Gatto Silver Tabby 3D che balla la samba brasiliana">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10256)**
-
-**Autore:** [Mr.JI](https://x.com/jjjd77326292) | **Fonte:** [Link](https://x.com/jjjd77326292/status/2095371621385347251) | **Pubblicato:** Sep 3, 2026
-
----
-### Viaggio cinematografico tra i mercati coreani
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Una sceneggiatura video completa che genera una sequenza di una giovane ragazza coreana che fa acquisti in un mercato della moda, mantenendo la coerenza del personaggio in diverse inquadrature, tra cui una bancarella di abbigliamento e la discesa su una scala mobile.
-
-#### 📝 Prompt
-
-```
-Una giovane ragazza coreana che fa acquisti in un vivace mercato della moda coreano.
-Mantieni la STESSA ragazza coreana, STESSO volto, STESSA acconciatura, STESSO outfit, STESSE proporzioni corporee e STESSA borsa nera per l'intero video. Mantieni una forte coerenza visiva e del personaggio tra ogni inquadratura.
-
-Scena 1 — 0–2 sec:
-La ragazza coreana cammina attraverso un vivace mercato coreano e si ferma a una bancarella di abbigliamento. Esamina un grande stand pieno di bellissimi vestiti. Mostra insegne coreane colorate, acquirenti affollati, una calda illuminazione interna e un'atmosfera realistica da mercato coreano. Usa una fluida ripresa laterale in movimento (side-tracking).
-
-Scena 2 — 2–4 sec:
-Seleziona con cura un vestito dallo stand ed esamina il tessuto e i dettagli con le mani. Usa un primo piano cinematografico delle sue mani e del vestito, seguito da un sottile primo piano del suo volto che reagisce positivamente.
-
-Scena 3 — 4–6 sec:
-Accosta il vestito scelto al corpo e controlla il suo aspetto in un grande specchio all'interno del negozio. Mostra chiaramente il suo riflesso. Usa una ripresa media fluida con profondità di campo ridotta e movimenti naturali e realistici.
-
-Scena 4 — 6–8 sec:
-Decide di acquistare il vestito. Un commesso coreano piega ordinatamente il vestito e lo ripone in una borsa della spesa pulita. Mostra un primo piano del processo di confezionamento, delle mani, del vestito e della borsa.
-
-Scena 5 — 8–10 sec:
-La ragazza lascia la bancarella portando la borsa della spesa in una mano e la sua borsa nera a tracolla. Cammina naturalmente attraverso il vivace mercato coreano. Usa una fluida ripresa in movimento (tracking shot) frontale/laterale.
-
-Scena 6 — 10–12 sec:
-Raggiunge una SCALA MOBILE AUTOMATICA che scende dal mercato. Sale sulla scala mobile in movimento verso il basso e inizia a scendere tenendo la borsa della spesa. Fai in modo che sia chiaramente una scala mobile, NON scale normali. Usa una ripresa in movimento (tracking shot) di tre quarti posteriore che la segue durante la discesa.
-
-Scena 7 — 12–14 sec:
-Mentre scende sulla scala mobile, mostra un primo piano cinematografico della ragazza che guarda leggermente verso l'alto e si guarda intorno nel mercato. I suoi capelli si muovono naturalmente con il suo movimento. Mantieni la scala mobile chiaramente visibile dietro e accanto a lei.
-
-Scena 8 — 14–15 sec:
-Ripresa ampia posteriore mentre raggiunge la base della scala mobile e si allontana tra la folla del vivace mercato coreano, portando ancora la borsa della spesa. Concludi con una fluida dissolvenza cinematografica.
-
-Stile visivo: fotorealistico, atmosfera cinematografica da mercato della moda coreano, illuminazione calda e morbida, texture della pelle realistica, espressioni facciali naturali, profondità di campo ridotta, sottile grana cinematografica, movimento realistico della folla, movimento fluido della telecamera, look commerciale premium, alta definizione, qualità 4K.
-
-Importante: mantieni l'identità e l'aspetto della stessa ragazza coerenti in ogni inquadratura. La transizione dal mercato alla scala mobile deve risultare continua e realistica. La scala mobile deve essere una SCALA MOBILE AUTOMATICA IN DISCESA, non scale fisse.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095356008529076224/img/WF-JOiCeyjJxTGON.jpg" width="600" alt="Viaggio cinematografico tra i mercati coreani">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10253)**
-
-**Autore:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Fonte:** [Link](https://x.com/ayzalnooor24521/status/2095356156487127394) | **Pubblicato:** Sep 3, 2026
-
----
-### Azione cinematografica di spadaccino anime
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt dettagliato per una sequenza di combattimento con spada in stile anime di alta qualità, che enfatizza la coerenza del personaggio, gli effetti di hit-stop e la dissoluzione delle particelle in un ambiente urbano piovoso.
-
-#### 📝 Prompt
-
-```
-Video anime di alta qualità. Mostra uno spadaccino di rarità massima proveniente da un RPG d'azione urban fantasy, caratterizzato da un'eleganza silenziosa e un singolo, netto e veloce fendente di spada. C'è una sola persona reale durante l'intera sequenza: una giovane ragazza. I nemici sono due avversari ombra blu-neri simili a quelli di un videogioco. Attieniti rigorosamente ai ruoli delle immagini di riferimento. @image1 è il riferimento principale per il volto e la coerenza del personaggio. Fissa un viso corto, guance morbide, un mento piccolo e arrotondato, naso e bocca piccoli, grandi occhi color blu cobalto simili a gioielli, aperti verticalmente, con un'elevata occupazione dell'iride, minimo bianco visibile, angoli esterni degli occhi calmi, un senso di età giovane e limpido, frangia bianco-argento e capelli lunghi. @image2 è il riferimento principale per costume, decorazioni, design a figura intera, corporatura, silhouette e la katana. Fissa un elaborato abito in pizzo gotico dal nero al blu navy profondo, maniche in pizzo trasparente, raso blu, gonna a strati, un gioiello blu sul petto, una catena metallica in vita, stivali decorativi neri, ornamenti per capelli con rose blu scuro e farfalle nero-blu, catene di cristallo blu pendenti, un fodero blu navy profondo, finiture in argento e una katana con un gioiello blu. In caso di conflitto tra i riferimenti, @image1 ha la priorità per viso, occhi, guance, mento, età, espressione, colore dei capelli, frangia e capelli lunghi; @image2 ha la priorità per i dettagli degli ornamenti, costume, gioielli, figura intera, corporatura e la katana. Le immagini di riferimento servono solo per la coerenza e il design, non per schermate iniziali o storyboard. Non riprodurre sfondi bianchi, testo, UI, fotogrammi divisi, viste frontali/posteriori, variazioni di espressione facciale, diagrammi esplicativi o schemi delle armi. Correzione del personaggio: La stessa singola ragazza per tutta la durata. Non cambiare il suo viso, gli occhi blu e il rapporto dell'iride, i lunghi capelli bianco-argento, il costume nero-blu, gli ornamenti, il gioiello sul petto o la corporatura snella e giovanile. I cambiamenti riguardano solo lo sguardo, le espressioni sottili, la postura di combattimento, il respiro e l'oscillazione naturale di capelli, pizzo e catene. Anche nei riflessi, sono ammesse solo immagini locali della stessa persona; non creare altre persone o cloni a figura intera. Correzione del rendering: Stile toon/cel-look 3D di alta qualità completamente unificato. Un senso completo di modello 3D, contorni anime blu navy profondi, sottili e puliti, ombre toon traslucide a 2-3 strati in indaco, cobalto e blu-violetto, morbidi riflessi lunari sui capelli bianco-argento, catchlight multistrato negli occhi e riflessi nitidi ed eleganti su gioielli e metallo. Differenzia le texture per pizzo, raso, metallo, gioielli e il pavimento bagnato, garantendo un'alta densità sia per il personaggio che per lo sfondo urbano. Non sostituire la coerenza del personaggio con lo stile di rendering, e viceversa. Un tetto di un grattacielo in città dopo la pioggia. Pavimento bagnato, pareti di vetro, edifici distanti a bassa saturazione, bokeh al neon leggero. La luce lunare bianco-argento è la fonte luminosa principale, il blu navy profondo e il blu cobalto specifici del personaggio sono i colori principali delle ombre, mentre il blu ghiaccio e una piccola quantità di blu-violetto sono le luci di riempimento. Mantieni i colori dello sfondo e il neon sottili, rendendo i capelli bianco-argento della ragazza, gli occhi blu, il costume nero-blu, gli ornamenti, il gioiello sul petto e la katana i protagonisti della scena. Le armi maneggiate dalla ragazza sono esattamente una katana e un fodero. La spada è un corpo rigido unico con elsa, guardia, lama e punta collegate a una lunghezza fissa. La mano destra impugna l'elsa dietro la guardia e quella forza continua attraverso l'avambraccio, la spalla, il petto e la vita, muovendo l'intera spada come un tutt'uno. Non ruotare la punta in modo indipendente. La mano sinistra gestisce solo il fodero e non tocca la lama. Non duplicare, ramificare o estendere/contrarre le armi. Posiziona il Nemico Ombra A e il Nemico Ombra B diagonalmente davanti alla ragazza, uno più vicino e uno più lontano lungo la stessa linea d'attacco. Ogni nemico è una silhouette umanoide blu-nera leggibile come dotata di testa, busto, due braccia, due gambe, piedi e una corta spada d'ombra. I nemici A e B mantengono un materiale d'ombra semi-solido con confini e densità, contorni dell'armatura d'ombra, armi, ombre sul pavimento e riflessi sul vetro fino al momento dell'impatto. Non mescolare i capelli bianco-argento, il viso, il costume, i gioielli o la katana della ragazza nei nemici, e non mescolare il materiale d'ombra blu-nero e le spade d'ombra dei nemici nella ragazza. Fissa la sequenza delle azioni visibili. Procedi nell'ordine: stato stazionario toccando l'elsa, estrazione della spada con un breve scivolamento, un singolo fendente orizzontale, contatto netto, un breve hit-stop, completa particolarizzazione dopo il contatto, occlusione da particelle, inizio dell'envainamento a livello della mano e risalita verso il viso. Non aggiungere attacchi multipli o lunghe apparizioni dei nemici. Inizia con un'inquadratura medio-stretta da una posizione leggermente dal basso e da dietro, equivalente a 50-70mm. Mostra i lunghi capelli bianco-argento, il costume nero-blu, gli ornamenti e la katana nel fodero sul fianco sinistro. La ragazza ha già le dita della mano destra sull'elsa. Inizia a estrarre la spada senza una lunga pausa. Solo le punte dei capelli, il pizzo e le catene di cristallo ondeggiano nel vento notturno, e il vetro riflette momentaneamente solo un singolo occhio blu, come in @image1. La ragazza scivola per una breve distanza diagonalmente in avanti sul pavimento bagnato mentre estrae la spada, muovendosi fuori dalle linee d'attacco dei due nemici. Mantieni la gamba di supporto, la gamba che scivola e il movimento del centro di gravità come una sequenza continua. Passa la telecamera dal riflesso lunare sulla lama al riflesso sul pavimento bagnato; dopo che l'entità al punto A lascia lo schermo, cattura la stessa persona al punto B in un'inquadratura medio-stretta diagonalmente davanti. I riflessi sono una transizione di camera che mostra lo scivolamento reale, non teletrasporto, salti, atterraggi o cloni. Senza cambiare posa, espandi la rotazione della vita dell'estrazione e dello scivolamento direttamente in un unico grande fendente orizzontale. Una singola lama attraversa i due nemici in sequenza lungo un percorso continuo alla stessa altezza. C'è solo un arco di luce della spada in bianco-argento e blu cobalto. Mostra chiaramente la superficie di contatto con il primo nemico e posiziona un singolo breve hit-stop nel momento in cui il percorso attraversa il secondo nemico. Mostra vividamente l'elsa, la guardia, la lama singola, entrambe le mani e il punto di contatto. Solo dopo l'hit-stop, inizia la particolarizzazione da davanti a dietro, seguendo la stessa direzione della luce della spada. I due corpi, le due spade d'ombra, le ombre sul pavimento, i riflessi sul vetro e i riflessi sul pavimento bagnato scompaiono completamente in una nebbia blu-nera, piccole farfalle di luce blu frantumate e fini frammenti di luce blu ghiaccio. Le particelle non devono nascondere il viso, le mani, la spada o la posizione di contatto. La ragazza transita naturalmente il movimento dopo il fendente orizzontale dalla punta della spada al polso, spalla, vita e gamba posteriore, recuperando la spada in un punto finale basso. Mostra brevemente il risultato dei nemici che scompaiono completamente mentre la spada è ancora estratta. Senza interrompere quel movimento, collega la nebbia blu-nera e la luce delle farfalle blu all'occlusione davanti all'obiettivo. Subito dopo l'occlusione, passa a un primo piano dal petto alle mani, dove inizia a rinfoderare la spada. La mano destra tiene l'elsa e la mano sinistra tiene il fodero vicino all'imboccatura. Lascia che elsa, guardia, lama e imboccatura del fodero siano lette separatamente e allinea accuratamente gli assi centrali della lama e del fodero. Fai scivolare la lama nel fodero senza toccare il bordo, senza causare penetrazione tra spada e fodero, disallineamento angolare o deformazione delle dita. La telecamera segue l'elsa, il gioiello blu sul petto, il pizzo nero e gli ornamenti per capelli durante il processo di rinfoderamento, risalendo rapidamente verso un viso naturale di 3/4 equivalente a 70-85mm. Il viso deve essere quello normale di @image1. Per prima cosa, tieni entrambi i grandi occhi blu aperti, poi rilassa leggermente la tensione nelle sopracciglia, non abbassare le palpebre, crea un piccolo sorriso a bocca chiusa usando solo gli angoli della bocca e infine dirigi uno sguardo calmo vicino alla telecamera. Il soggetto finale mostrato è la ragazza da sola. I nemici, le loro armi, ombre e riflessi sono tutti completamente scomparsi. Proprio mentre la lama continua dritta nel fodero e prima che la guardia tocchi l'imboccatura, taglia nel momento in cui gli occhi blu aperti, i capelli bianco-argento, gli ornamenti, il gioiello sul petto, l'elsa della spada e la scena notturna bagnata sono tutti simultaneamente chiari. Non restare ferma a lungo dopo aver completato il rinfoderamento e non rimpicciolire la persona in lontananza. Nessuna BGM, musica, dialogo o narrazione. Sincronizza solo il vento notturno, i brevi suoni di scivolamento delle suole degli stivali di pelle sul pavimento di pietra bagnato, il fruscio di pizzo e raso, i piccoli suoni duri delle catene metalliche e degli ornamenti di cristallo, il suono della lama d'acciaio che lascia l'imboccatura del fodero metallico, il suono della lama d'acciaio che taglia l'aria, il suono sottile del materiale d'ombra che collassa in particelle magiche, il suono della lama d'acciaio che scivola all'interno del fodero durante il rinfoderamento e il respiro naturale con le azioni visibili. Negativi forzati: Testo, sottotitoli, loghi, watermark, UI su sfondo bianco, fogli di impostazione, una seconda persona, cloni, controfigure a figura intera, riflessi di volti diversi, nemici che collassano prima del contatto, farfalle giganti, particelle che coprono il viso o la spada, spade aggiuntive, mani che afferrano la lama, penetrazione tra spada e fodero, rinfoderamento a distanza, lunghe pause, primi piani del viso con grandangolo, fisheye, volti maturi, volti lunghi, occhi piccoli, iridi piccole, occhi a mandorla, occhi socchiusi, contorni spessi, ombre cell a strato singolo, CG di plastica, semi-realistico e stili artistici misti sono proibiti.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095347586114998272/img/c7a-pehgPiGQGwwW.jpg" width="600" alt="Azione cinematografica di spadaccino anime">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10257)**
-
-**Autore:** [mayv](https://x.com/haruuraeadss) | **Fonte:** [Link](https://x.com/haruuraeadss/status/2095347991016280457) | **Pubblicato:** Sep 3, 2026
-
----
-### Film editoriale di moda in stile anime
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un sofisticato prompt video per un editoriale di moda in stile anime con protagonista un personaggio di nome Aria. Include dettagli su pose specifiche, movimenti di camera sincronizzati ai BPM e un'illuminazione precisa per un'inquadratura continua di 15 secondi.
-
-#### 📝 Prompt
-
-```
-Un film editoriale di moda in stile anime segue una donna che esegue dieci pose precise. aria definisce il suo volto, i capelli, le lentiggini e l'identità; ariaoutfit definisce il suo outfit completo, gli accessori e le proporzioni. Ignora entrambi gli sfondi di riferimento e non aggiungere nuovi accessori. Ha capelli a strati dal rosso al rosa raccolti da un fermaglio, occhi ambrati, leggere lentiggini, un sottile choker nero, tatuaggi a inchiostro sulle braccia e sulla spalla destra, una t-shirt oversize grigia indossata lasciando scoperta una spalla, pantaloncini da ciclista neri, una sottile fascia sulla coscia e piedi nudi. Renderizza come un'illustrazione anime in cel-shading con linee d'inchiostro pulite e blocchi di ombre piatte.
-
-Il film si svolge in un'unica inquadratura ininterrotta di 15 secondi a 128 BPM all'interno di un ciclorama bianco minimale con flash intensi, una leggera foschia, riflessi sul pavimento lucido, un lenzuolo di raso e fogli di prova sparsi. La camera segue un percorso fisicamente continuo, accelerando tra le pose e frenando bruscamente su ogni blocco.
-
-0:00-0:01.5: Posa 1, primo piano centrale frontale, una mano che scosta i capelli vicino all'orecchio, zoom in controllato. 0:01.5-0:03.0: Posa 2, tre quarti con mento sollevato; Posa 3, sguardo abbassato con entrambe le mani vicino al colletto e ai capelli; la camera scende con un arco veloce e si sofferma sui suoi occhi. 0:03.0-0:04.5: Posa 4, profilo sinistro rigoroso; Posa 5, una spalla ruotata in avanti mentre il bordo della t-shirt cattura una luce laterale netta; la camera sfreccia oltre la sua guancia. 0:04.5-0:06.0: Posa 6, lei raccoglie una piega della t-shirt in vita; Posa 7, sguardo sopra la spalla; la camera scende al livello del busto e risale in un passaggio ravvicinato sul volto. 0:06.0-0:07.5: Posa 8, lei si abbassa sul lenzuolo di raso con un ginocchio sollevato; Posa 9, un piede nudo esteso verso l'obiettivo che domina il primo piano; la camera scatta in avanti a livello del pavimento. 0:07.5-0:09.0: Posa 10, posizione di tre quarti, una mano sulla clavicola, l'orlo della t-shirt che sfiora la coscia; la camera scorre lungo il girovita fino a un ritratto fisso. 0:09-0:11.0: lei si ripiega verso l'interno, chiude gli occhi per un respiro, poi si apre in un lungo allungamento verso l'alto; orbita stretta. 0:11.0-0:13.0: silhouette di tre quarti posteriore, ruotando appena quanto basta affinché la mascella e lo scollo della t-shirt catturino lo stesso flash. 0:13.0-0:15.0: la camera sfiora i suoi occhi, compie un arco verso l'esterno e si abbassa mentre lei atterra in una posa a figura intera dominante guardando nell'obiettivo, terminando su un'inquadratura ampia e pulita sotto un ultimo bagliore bianco.
-
-Utilizza un effetto zoom fluido 24-85mm, flash frontali intensi, luce di contorno laterale netta, clic dell'otturatore, respiro, movimento dei capelli e fruscio del tessuto. Mantieni un personaggio continuo con identità, anatomia, acconciatura, outfit, accessori, posizionamento dei tatuaggi e stile anime stabili per tutta la durata.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095296513157349376/img/yLh-DtXC-IBKpsv6.jpg" width="600" alt="Film editoriale di moda in stile anime">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10303)**
-
-**Autore:** [Borderless 🌐](https://x.com/BorderleSint) | **Fonte:** [Link](https://x.com/BorderleSint/status/2095298275175739702) | **Pubblicato:** Sep 2, 2026
-
----
-### Cinematica di attacco speciale in stile anime
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt video ad alta energia per generare sequenze climatiche in stile anime, caratterizzate da mosse speciali coordinate, riprese drammatiche e luci spettacolari.
-
-#### 📝 Prompt
-
-```
-Una mossa speciale coordinata tra [@Character A] e [@Character B]. Include riprese dinamiche, inquadrature drammatiche, camera a mano, dolly-in estremo che penetra profondamente nello schermo, doppia esposizione, velocità 2x, velocità 4x, effetti di luce adatti a una mossa finale, effetti speciali eccessivamente appariscenti, stile anime giapponese a colori, cut-in, nessun dialogo, una sequenza di primi piani estremi e campi lunghissimi, alta qualità, una scena climatica da film anime blockbuster da 10 milioni di dollari e la tecnica suprema utilizzata una sola volta nell'intera serie.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095132605209628672/img/sGd5w9qHBm2RxgHm.jpg" width="600" alt="Cinematica di attacco speciale in stile anime">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10255)**
-
-**Autore:** [FinishFish | AI Anime](https://x.com/finishfish_ai) | **Fonte:** [Link](https://x.com/finishfish_ai/status/2095132814232395800) | **Pubblicato:** Sep 2, 2026
-
----
-### Effetti di movimento per Anime Music Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt per un anime MV dal ritmo incalzante, caratterizzato da echi visivi e rapidi cambi di composizione, progettato per movimenti dei personaggi a ritmo di musica.
-
-#### 📝 Prompt
-
-```
-Utilizza l'Immagine di Riferimento 1 come riferimento visivo esatto per l'identità della ragazza. Preserva il suo volto, l'acconciatura, il colore dei capelli, l'abbigliamento, le proporzioni corporee e il design del personaggio per l'intero video. Crea una sequenza di anime music-video stilizzata e dal ritmo serrato di 15 secondi con protagonista una ragazza unica. I duplicati temporanei sono consentiti solo come echi visivi della stessa ragazza. Il video deve risultare ritmato, giocoso, leggermente surreale e altamente grafico. ## STILE VISIVO Animazione anime pulita, sfondo grafico semplificato, tavolozza di colori limitata, contorni nitidi, montaggio ritmato, leggero motion blur. ## 0–1.5s — INIZIO IMMEDIATO La ragazza è al centro dell'inquadratura. Immediatamente, scatta leggermente con la testa verso destra. Nel momento esatto del movimento, crea un breve eco duplicato dietro di lei. ## 1.5–3s — SLIDE ECHO La ragazza scivola rapidamente da sinistra verso destra. Tre copie ritardate appaiono dietro di lei in posizioni equidistanti. ## 3–4.5s — PRIMO PIANO ESTREMO Improvviso primo piano estremo di un occhio. L'occhio si apre rapidamente. Esegui immediatamente uno zoom all'indietro dall'occhio per rivelare il volto della ragazza. ## 4.5–6s — RIPETIZIONE DELLA POSA La ragazza esegue una posa rapida e distintiva. Crea istantaneamente tre versioni identiche della stessa posa disposte orizzontalmente. ## 6–7.5s — ROTAZIONE La ragazza salta leggermente verso l'alto. Durante il salto, l'intera composizione ruota di circa 90 gradi. ## 7.5–9s — CAPOVOLTO La stessa ragazza appare capovolta. I suoi capelli cadono naturalmente seguendo la gravità. ## 9–10.5s — INGRESSI MULTIPLI La ragazza entra rapidamente nell'inquadratura dal basso. Allo stesso tempo, due echi visivi entrano leggermente più tardi dalla stessa direzione. Tre versioni identiche brevemente o
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095093137660342273/img/ycXSQfZ1ypOMC8Jm.jpg" width="600" alt="Effetti di movimento per Anime Music Video">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10258)**
-
-**Autore:** [田中勇道 | AI画像・動画生成](https://x.com/yudotanaka) | **Fonte:** [Link](https://x.com/yudotanaka/status/2095114516212109319) | **Pubblicato:** Sep 2, 2026
-
----
-### Battaglia tra la Fenice di Fuoco e il Drago d'Acqua
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un epico scontro elementale tra una fenice di fuoco e un drago d'acqua in antiche rovine, con istruzioni dettagliate su inquadrature ed effetti.
-
-#### 📝 Prompt
-
-```
-Video d'azione cinematografico fotorealistico di 15s, 5 inquadrature, 16:9. ARRI ALEXA 65, anamorfico 35mm, grana della pellicola, contrasto ricco, bokeh naturale, raggi crepuscolari volumetrici, fumo realistico, polvere, scintille, fuoco, acqua, fisica di capelli e tessuti. Nessun testo, logo, interfaccia utente o filigrana.
-
-Ambiente: Rovine di un tempio antico abbandonato, colonne spezzate, macerie, tempio in fiamme, fumo denso, scintille, tramonto drammatico. Mantenere coerenza in architettura, danni, illuminazione e atmosfera.
-
-Donna 1 – Fuoco: Capelli rosa corti, corna rosse, elaborato abito da battaglia rosso intenso/oro, catene, cintura nera, nappe, stivali con plateau. Bloccare perfettamente volto, corpo e abito.
-
-Donna 2 – Acqua: Lunghi capelli blu navy-nero con frangia dritta, fluente veste da battaglia blu-argento intenso, strati trasparenti, cintura decorativa, ornamenti argentati, nappe e stivali. Bloccare perfettamente volto, corpo e abito.
-
-0–2.5s: Ripresa circolare ampia. Le combattenti si scontrano aggressivamente. La donna di fuoco attacca con pugni/calci di fiamma; la donna d'acqua schiva e contrattacca con fruste d'acqua. Fuoco e acqua collidono in esplosioni di vapore.
-
-2.5–6s: Ripresa ravvicinata. Scambio brutale a distanza ravvicinata. Gomitata e ginocchiata di fuoco; la donna d'acqua para con uno scudo d'acqua e contrattacca con un palmo pressurizzato, scagliandola tra le macerie.
-
-6–9.5s: Ripresa dal basso. Entrambe caricano e saltano. La donna d'acqua lancia sfere d'acqua rotanti; la donna di fuoco irrompe con fiamme esplosive e attacchi ravvicinati.
-
-9.5–12.5s: Ripresa media con zoom in avanti. La donna d'acqua evoca un massiccio drago d'acqua serpentino. La donna di fuoco libera una maestosa fenice di fiamme. Entrambe caricano l'una verso l'altra.
-
-12.5–15s: Epica ripresa ampia con zoom all'indietro/movimento di gru verso l'alto. Drago e fenice collidono, creando un'enorme esplosione di vapore, fuoco, acqua, luce e detriti. Onde d'urto, scintille e goccioline riempiono l'inquadratura; l'energia si dissipa lentamente.
-
-Audio: Colonna sonora cinematografica orchestrale-elettronica, percussioni pesanti, archi in crescendo, synth, impatti, sibili, acqua, fuoco, vapore, ruggito del drago e grido della fenice.
-
-Solo movimenti di macchina cinematografici fluidi, senza tremolio a mano o tagli non necessari. Perfetta coerenza dei personaggi e fisica degli elementi realistica.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095039213813260288/img/5HtlFxZHXOEnOU5C.jpg" width="600" alt="Battaglia tra la Fenice di Fuoco e il Drago d'Acqua">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10250)**
-
-**Autore:** [Noor](https://x.com/noorlewisx) | **Fonte:** [Link](https://x.com/noorlewisx/status/2095039305555263672) | **Pubblicato:** Sep 2, 2026
-
----
-### Interazione tra un robot umanoide e un bambino
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinematografico dettagliato per una scena toccante in cui un robot umanoide aiuta un bambino con un progetto di giocattoli in una stanza accogliente e suggestiva.
-
-#### 📝 Prompt
-
-```
-Scena cinematografica ultra-realistica di un robot umanoide inginocchiato accanto a un bambino sul pavimento, che lo aiuta con cura in un piccolo progetto di giocattoli. Stanza buia e accogliente, drammatico fascio di luce calda di una torcia, luce blu fredda proveniente dalla finestra, corpo robotico realistico bianco e nero, narrazione emozionale, riflessi dettagliati, profondità di campo ridotta, illuminazione cinematografica, fotorealistico, 8K, alta definizione, estetica da fermo immagine cinematografico, composizione naturale, verticale.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095013559956832256/img/9sLw03nIwBcTBLvj.jpg" width="600" alt="Interazione tra un robot umanoide e un bambino">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10212)**
-
-**Autore:** [AIwithMinal](https://x.com/AIwithMinal) | **Fonte:** [Link](https://x.com/AIwithMinal/status/2095013621034287392) | **Pubblicato:** Sep 2, 2026
-
----
-### Parodia surreale di una televendita Samsung anni '90
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video surrealista estremamente dettagliato che evoca lo stile delle televendite di Tim and Eric del 1998, caratterizzato da una fisica distruttiva e uno smartphone con schermi pieghevoli infiniti.
-
-#### 📝 Prompt
-
-```
-(Estetica televendita Tim and Eric 1998) (Mezzo: Videocamera broadcast SD BetaSP)
-
-[INIZIO SCENA]
-INT/EST. CASA IN PERIFERIA E STRADA - GIORNO
-
-Camera:
-Ripresa a mano, zoom rapidi, sbavature di colore NTSC a bassa risoluzione, illuminazione video cruda
-
-Illuminazione:
-Luci piatte da studio miste a una dura luce solare dall'alto, leggera aberrazione cromatica
-
-SOGGETTO:
-@steve: giacca vintage oversize a quadri, tiene in mano uno smartphone pieghevole nero sottile, espressione impassibile.
-Folla: Vicino di casa che porta a spasso il cane.
-
-AZIONE:
-[Tempo 00:00-00:02]: @seeksteve estrae dalla tasca un telefono nero a forma di mattone, aprendo lo schermo due volte, VO: 'Si sono piegati due volte.' Il terzo pannello continua a espandersi all'infinito sul bancone della cucina con rapidi clic delle cerniere. Quando gli schermi si aprono, rimangono sempre uniti e non ci sono mai spazi tra loro.
-[Tempo 00:02-00:08]: @seeksteve cammina mentre lo schermo a fisarmonica si espande all'infinito attraverso il tavolo da pranzo, frantumandolo mentre assistiamo al legno che si scheggia e al tavolo che si spezza in due, sfonda la porta a vetri scorrevole con una fisica realistica di vetri in frantumi, mentre la porta si rompe, il muro inizia a crollare, il cartongesso cede e la polvere si solleva causando il caos assoluto, dispiegandosi come un tappeto di vetro nero sul vialetto con rapidi clic da mitragliatrice, VO: 'Abbiamo continuato. Galaxy Hundredfold. Telefono. Tablet. Vialetto.'
-[Tempo 00:08-00:12]: Ripresa dall'alto mostra @seeksteve in piedi alla fine della passerella di vetro nero che si estende lungo la strada, la passerella del telefono di vetro arriva fino alla casa sullo sfondo, un'auto sterza per evitare la passerella ma finisce contro la casa, la casa era già in rovina ma ora crolla completamente, VO: 'Sappi quando tenerli, sappi quando piegarli… Illimitato.' Taglio netto sul titolo del prodotto Samsung Galaxy Hundredfold, sovrapposto alla scena che mostra i vigili del fuoco che arrivano sul posto, gradiente nero leggermente sfocato in modo che il testo del prodotto rimanga a fuoco.
-
-ATMOSFERA:
-L'atmosfera è impassibile, surreale e distruttiva. Tono assurdamente commerciale con @seeksteve che mantiene l'energia di un serio presentatore di prodotti durante l'estrema impossibilità fisica e la distruzione.
-
-[MODIFICATORI DI STILE]
-Riferimento: Tim and Eric Awesome Show, videocassetta VHS, B-roll commerciale, filmati di disastri
-
-Implicazione audio: Voce fuori campo maschile impassibile, rapidi clic meccanici delle cerniere, legno del tavolo che si scheggia, vetri che si infrangono, muro che crolla, clacson attutito, stridore di pneumatici, impatto del veicolo con la casa, silenzio assoluto alla fine
-```
-
-<img src="https://pbs.twimg.com/media/HRLxej7W4AAXNJh.jpg" width="600" alt="Parodia surreale di una televendita Samsung anni '90">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10211)**
-
-**Autore:** [seeksteve](https://x.com/seeksteve) | **Fonte:** [Link](https://x.com/seeksteve/status/2095002313857380822) | **Pubblicato:** Sep 2, 2026
-
----
-### Montaggio Vlog di una bibliotecaria cool
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un montaggio in stile documentario di una tranquilla e affascinante bibliotecaria liceale dopo la scuola, caratterizzato da un'estetica realistica da video amatoriale a 480p e una coerenza del personaggio impeccabile.
-
-#### 📝 Prompt
-
-```
-Crea un video amatoriale in stile Vlog di una tranquilla e affascinante ragazza del comitato bibliotecario liceale dopo la scuola, ripreso da un amico membro del comitato. 480p. Composto da un montaggio a tagli netti di brevi inquadrature (circa 2 secondi ciascuna). Ogni inquadratura rappresenta un momento diverso, dove 1 inquadratura = 1 piccolo evento. Non utilizzare transizioni o dissolvenze. Poiché è ripreso da un amico, lei è almeno parzialmente rilassata e mostra la sua vera espressione alla fine.
-
-Soggetto principale:
-La stessa liceale giapponese in tutte le inquadrature. Una bellezza algida con occhi a mandorla, lunghe ciglia rivolte verso il basso, sopracciglia ben definite, pelle realistica color bianco traslucido, senza trucco, naso sottile, labbra sottili e mascella definita. Occhi silenziosi dietro sottili occhiali con montatura argentata. Capelli neri lisci fino alle spalle. Camicia bianca a maniche corte, gonna a pieghe blu navy e scarpe da ginnastica scolastiche. Silenziosa e poco espressiva. Mantieni i tratti del viso, la corporatura, l'acconciatura, gli occhiali e l'uniforme completamente coerenti dall'inizio alla fine.
-
-Luogo:
-La biblioteca scolastica durante l'estate dopo la scuola fino alla chiusura. File di alti scaffali, un bancone per il prestito, posti a sedere vicino alla finestra con il sole del tramonto e un angolo per i libri dei bambini. Nessuna pubblicità o marchio riconoscibile.
-
-Fotocamera / Stile visivo:
-Comune a tutte le inquadrature: Una vecchia videocamera digitale portatile. Vibrazioni naturali della fotocamera, inquadrature imperfette, occasionale ricerca della messa a fuoco, fluttuazioni dell'esposizione dovute al sole al tramonto, leggero motion blur, rumore sottile e colori leggermente tenui. Nessuna stabilizzazione, gimbal, droni, slow motion o illuminazione cinematografica.
-
-Elenco delle inquadrature (In ordine, circa 2 secondi ciascuna, tutti tagli netti):
-1. Cammina tra gli scaffali tenendo i libri restituiti al petto. Si accorge della fotocamera e si porta un dito alle labbra.
-2. Si allunga per rimettere un libro su uno scaffale alto, fallisce e va silenziosamente a prendere uno sgabello.
-3. Mani ritmiche e precise che timbrano le date di restituzione al bancone.
-4. Profilo di lei che legge vicino alla finestra sotto il sole del tramonto. Dita sottili che voltano pagina.
-5. Dopo la chiusura, apre un libro illustrato nell'angolo dei bambini deserto.
-
-Realismo fisico:
-Mantieni una fisica autentica del mondo reale. Mani, dita, capelli, occhiali, uniformi, libri, sgabelli e timbri si comportano in modo naturale. Niente dita extra, mani fuse, corpi distorti, oggetti fluttuanti, oggetti che scompaiono o deformazioni improvvise. Mantieni il testo dei libri sfocato e illeggibile. Mantieni la coerenza del soggetto in tutte le inquadrature.
-
-Audio:
-Solo suoni ambientali naturali. Il silenzio della biblioteca, il rumore delle pagine che si voltano, il suono del timbro, il rumore delle scarpe da ginnastica, voci distanti dalle attività dei club e una piccola voce che legge ad alta voce (parole inintelligibili). Niente musica, narrazione o effetti sonori artificiali.
-
-Atmosfera finale:
-Una testimonianza delle sessioni inedite di una ragazza tranquilla e affascinante, catturate per caso dalla telecamera. Non un lavoro commerciale o un dramma. Il contrasto tra il silenzio e il suo sorriso rassegnato quando viene scoperta è accattivante. Silenzioso, dedicato, colorato dal sole del tramonto, caldo e profondamente umano. Dai priorità alla sensazione che la telecamera si trovasse lì per caso.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094082195019399169/img/X6qqAxYTCpta4Vpr.jpg" width="600" alt="Montaggio Vlog di una bibliotecaria cool">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10220)**
-
-**Autore:** [妖精アーヤ](https://x.com/aiehon_aya) | **Fonte:** [Link](https://x.com/aiehon_aya/status/2094908158749610036) | **Pubblicato:** Sep 1, 2026
-
----
-### Sequenza fantasy di arti marziali
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Una scena fantasy di arti marziali cinesi ad alta intensità con una guerriera che esegue calci ed esplosioni di energia sotto la luna piena, testata su Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-Un video cinematografico di 5 secondi di arti marziali fantasy cinesi. Formato panoramico 16:9, qualità film live-action ad alta definizione, scena d'azione potente.
-
-Un cielo notturno profondo con una pallida luna piena. Lo sfondo presenta l'architettura tradizionale dei palazzi cinesi con pilastri color vermiglio, tetti di tegole e un cortile in ciottoli. Il chiaro di luna e una leggera nebbia illuminano il cortile, creando un'atmosfera grandiosa e carica di tensione.
-
-Al centro, una giovane e dignitosa artista marziale. I suoi lunghi capelli neri sono raccolti in una coda di cavallo alta, che ondeggia al vento. Indossa un abito da battaglia in stile Hanfu sui toni del rosa, con maniche lunghe e orlo che ondeggiano magnificamente con i suoi movimenti. I lineamenti del viso, l'acconciatura, l'abbigliamento e la corporatura sono coerenti per tutto il video.
-
-0.0s-1.2s: La telecamera si avvicina lentamente da una posizione leggermente diagonale rispetto a lei. Lei avanza con decisione da una posizione bassa, guardando verso la telecamera con un'espressione concentrata.
-
-1.2s-3.1s: Esegue due calci circolari consecutivi fulminei. Entrambi i calci mostrano traiettorie chiare delle gambe e una rotazione completa del corpo. La telecamera segue il suo movimento con un fluido tracciamento semicircolare, aggiungendo un leggero slow motion e motion blur solo nel momento del calcio. I suoi vestiti e la coda di cavallo ondeggiano vistosamente a causa della forte forza centrifuga.
-
-3.1s-5.0s: Subito dopo l'atterraggio, si mette in posa con entrambe le mani davanti al petto, condensando un'energia luminosa azzurro pallido dai palmi. Poi spinge entrambe le mani verso la telecamera, rilasciando un'onda energetica grande e brillante in avanti. L'onda è accompagnata da onde d'urto circolari, particelle e sottili scie di luce che si avvicinano al primo piano. La telecamera arretra leggermente mentre riceve l'onda e, infine, una luce azzurra avvolge l'intero schermo. Una performance potente, elegante e cinematografica dall'inizio alla fine.
-
-Struttura umana naturale, arti accurati, movimento continuo fluido, chiara relazione causa-effetto nell'azione, illuminazione tridimensionale, bellissimo contrasto tra il chiaro di luna pallido e l'abbigliamento rosa, scala grandiosa, cinematografia di alto livello, color grading cinematografico, altissima definizione, nessun testo o logo visualizzato sullo schermo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094845560557817856/img/UrPlQNgRjsz6qjJw.jpg" width="600" alt="Sequenza fantasy di arti marziali">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10217)**
-
-**Autore:** [おもも桃](https://x.com/omomomomo0309) | **Fonte:** [Link](https://x.com/omomomomo0309/status/2094845693227844025) | **Pubblicato:** Sep 1, 2026
-
----
 ---
 
 ## 📚 Altri prompt disponibili
@@ -3937,6 +5170,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-09-14T03:55:42.537Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-09-15T03:55:28.405Z</sub>
 
 </div>
