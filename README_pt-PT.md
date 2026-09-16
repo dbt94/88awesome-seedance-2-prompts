@@ -68,9 +68,9 @@ Por que usar nossa galeria?
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **6379** |
+| 📝 Total de prompts | **6384** |
 | ⭐ Prompts em destaque | **6** |
-| 🔄 Última atualização | **2026-09-15** |
+| 🔄 Última atualização | **2026-09-16** |
 
 ---
 
@@ -361,6 +361,558 @@ Ultra realista, energia inspirada em Velozes e Furiosos, iluminação fotorreali
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Vlog de Estilo de Vida Coreano
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt para o Seedance 2.0 gerar um vlog cinematográfico de 28 segundos, acompanhando uma garota coreana por diversos locais, mantendo a consistência do personagem.
+
+#### 📝 Prompt
+
+```
+Uma garota coreana com cabelos escuros e lisos, maquiagem natural e aparência jovem e calorosa veste um cardigã claro sobre uma camisa azul e uma saia plissada azul-marinho. Crie um vlog cinematográfico de estilo de vida coreano de 28 segundos, seguindo-a por uma sala de aula iluminada e uma vila costeira tranquila. Comece com um close-up de selfie da garota sorrindo naturalmente para a câmera dentro de uma sala de aula coreana. Mostre-a sentada em uma carteira, estudando e olhando ao redor da sala ensolarada antes de se levantar e sair. Siga-a por ruas residenciais silenciosas com casas coreanas realistas, muros de pedra, plantas e luz do dia quente. Faça uma transição para um belo caminho ferroviário à beira-mar, onde ela caminha ao lado do oceano e aprecia a paisagem serena. Use cinematografia de vlog na mão, movimento natural da câmera, expressões realistas, luz solar suave, ambientes detalhados e estética fotorealista de drama coreano. Mantenha o rosto, penteado, roupas e aparência dela consistentes durante todo o vídeo, sem legendas, logotipos ou marcas d'água.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099728884115898368/img/OXorABpg3pnT7ic_.jpg" width="600" alt="Vlog de Estilo de Vida Coreano">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=10870)**
+
+**Autor:** [liana](https://x.com/Lianaalane) | **Fonte:** [Link](https://x.com/Lianaalane/status/2099728970229203443) | **Publicado:** Sep 15, 2026
+
+---
+### Cena de Drama de Ação Coreano na Estação de Metrô
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt para gerar um vídeo cinematográfico de 20 segundos mostrando uma mulher coreana fazendo uma entrada dramática em uma estação de metrô e realizando movimentos inspirados em artes marciais.
+
+#### 📝 Prompt
+
+```
+Criei um vídeo cinematográfico de 20 segundos no estilo realista de drama de ação coreano, apresentando uma jovem coreana estilosa com cabelos longos e pretos, top branco sem mangas e jeans azuis despojados. A cena começa dentro de uma estação de metrô subterrânea coreana tranquila, com paredes revestidas de azulejos, luzes fluorescentes brilhantes, painéis publicitários e uma atmosfera urbana realista. Ela surge subitamente através de um pilar de azulejos danificado, criando uma entrada dramática com poeira e detritos quebrados ao seu redor. A câmera avança lentamente em sua direção enquanto ela fica de pé confiante e olha intensamente para frente. Em seguida, ela se move pela estação com movimentos rápidos e poderosos inspirados em artes marciais, confrontando um homem que se aproxima dela. Use movimento dinâmico de câmera na mão, close-ups, planos abertos, movimento corporal natural e desfoque de movimento cinematográfico. Mantenha o rosto, penteado, roupa e proporções corporais consistentes durante todo o vídeo, com cinematografia realista de dramas coreanos, iluminação detalhada, sombras, reflexos e profundidade atmosférica. Os momentos finais mostram ela virando as costas e caminhando mais fundo na estação de metrô, criando um final misterioso e de alto impacto, sem legendas, logotipos ou marcas d'água.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099725592577064960/img/UWgWIIeb872MWGm4.jpg" width="600" alt="Cena de Drama de Ação Coreano na Estação de Metrô">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=10871)**
+
+**Autor:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Fonte:** [Link](https://x.com/ayzalnooor24521/status/2099725642736845113) | **Publicado:** Sep 15, 2026
+
+---
+### Prompt para Videoclipe de Música Neon Rain
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> O tweet menciona explicitamente 'Made with Seedance 2.0'. Ele contém um prompt completo e detalhado para gerar um videoclipe cinematográfico com instruções específicas de personagem, estilo e letras.
+
+#### 📝 Prompt
+
+```
+Crie um videoclipe musical cinematográfico de IA de 25 segundos / MV musical com uma história musical curta e clara.
+
+ESTILO:
+Videoclipe pop cinematográfico de alta qualidade, emocional mas moderno, fotorrealista, movimento humano realista, expressões faciais naturais, iluminação dramática noturna, bela atmosfera de cidade neon, cinematografia profissional de videoclipe, movimentos de câmera suaves, física realista, identidade de personagem consistente em todo o vídeo.
+
+PERSONAGEM PRINCIPAL:
+Uma linda jovem cantora feminina com cabelos longos e escuros, olhos expressivos, rosto natural e realista, maquiagem sutil, roupa preta moderna elegante, personalidade confiante mas emocional. Mantenha exatamente o mesmo rosto, penteado, proporções corporais e roupa em todas as cenas.
+
+MÚSICA:
+Crie uma música pop moderna emocional original com uma batida cinematográfica.
+Vocal feminino, canto suave e emocional no início, construindo gradualmente até um refrão cativante e poderoso.
+Produção pop moderna com sintetizadores atmosféricos, piano suave, bateria sutil e uma queda forte da batida perto do meio.
+A música deve parecer emocional, cinematográfica e memorável.
+
+VOCAL / LETRAS:
+
+0–5 segundos:
+Canto feminino suave:
+"One more night, I call your name..."
+
+5–11 segundos:
+A batida cresce lentamente enquanto ela canta:
+"Running through the memories,
+nothing feels the same..."
+
+11–19 segundos:
+A batida fica mais forte e ela canta o refrão principal com emoção:
+"But I'm still here, I'm still alive,
+leaving yesterday behind."
+
+19–25 segundos:
+A música se torna instrumental e emocional.
+Sem letras adicionais.
+Termine com um belo encerramento musical cinematográfico.
+
+HISTÓRIA E VISUAIS:
+
+CENA 1 — 0–5 SEG:
+Cidade neon chuvosa à noite.
+A cantora feminina caminha sozinha por uma rua bonita e vazia.
+Pavimento molhado reflete luzes coloridas da cidade.
+Ela parece emocional, mas calma.
+A câmera começa com um plano aberto cinematográfico e move-se lentamente em direção ao seu rosto.
+Ela olha para a câmera e canta suavemente:
+"One more night, I call your name..."
+Lip-sync natural correspondendo às letras.
+Chuva caindo naturalmente, reflexos realistas, profundidade de campo cinematográfica.
+
+CENA 2 — 5–11 SEG:
+Ela continua caminhando pela cidade brilhante.
+Enquanto canta:
+"Running through the memories, nothing feels the same..."
+Mostre flashes rápidos de memórias cinematográficas ao redor dela:
+luz solar quente, rindo, caminhando por um local bonito, então as memórias desaparecem.
+Use transições suaves entre memórias e realidade.
+A câmera se move ao redor dela em um movimento cinematográfico lento de 180 graus.
+Sua expressão torna-se mais emocional.
+Lip-sync perfeito.
+
+CENA 3 — 11–15 SEG:
+A batida subitamente fica mais forte.
+Ela entra em uma estação de metrô vazia e caminha em direção à câmera.
+As luzes piscam sutilmente com a batida.
+A câmera recua suavemente enquanto ela canta:
+"But I'm still here..."
+Sua expressão muda de tristeza para confiança.
+Caminhada realista, movimento natural do cabelo e física realista das roupas.
+
+CENA 4 — 15–19 SEG:
+Ela chega a um terraço com vista para uma cidade massiva e brilhante.
+O vento move seu cabelo naturalmente.
+Ela executa o refrão:
+"I'm still alive,
+leaving yesterday behind."
+A câmera circula lentamente ao redor dela enquanto as luzes da cidade criam um fundo cinematográfico espetacular.
+A música atinge seu pico emocional.
+Performance forte mas natural, lip-sync preciso.
+
+CENA 5 — 19–22 SEG:
+A música cai em uma seção instrumental emocional.
+Close-up do rosto dela.
+Ela respira fundo e sorri levemente.
+A chuva para.
+A primeira luz quente do nascer do sol começa a aparecer atrás dos prédios.
+Push-in cinematográfico lento em direção ao rosto dela.
+
+CENA 6 — 22–25 SEG:
+Bela transição da noite para o nascer do sol.
+Ela vira as costas para a câmera e caminha em direção à luz quente da manhã.
+A câmera recua para um plano aéreo amplo cinematográfico.
+A cidade brilha sob o nascer do sol.
+Ela continua andando confiante para frente.
+Termine em um belo plano aberto cinematográfico enquanto a música diminui.
+
+CÂMERA:
+Cinematografia profissional de videoclipe.
+Movimentos de dolly suaves, push-ins lentos, planos de acompanhamento cinematográficos, momentos sutis de câmera na mão, aparência de lente 35mm, profundidade de campo rasa para close-ups, planos angulares largos para a cidade e o terraço, desfoque de movimento realista.
+
+QUALIDADE VISUAL:
+Fotorrealista, cinematográfico, alto detalhe, textura de pele realista, olhos realistas, cabelo realista, chuva realista, reflexos realistas, iluminação natural, movimento fisicamente preciso, qualidade premium de videoclipe, sem aparência de desenho animado.
+
+ÁUDIO:
+Somente música original.
+Vocais femininos claros.
+As letras devem ser cantadas naturalmente e ritmicamente.
+Lip-sync preciso.
+A música e os vocais devem soar como uma música pop moderna produzida profissionalmente.
+Sem diálogo falado.
+
+CONTINUIDADE:
+Mantenha exatamente a mesma personagem feminina, rosto, penteado, proporções corporais e roupas em todas as cenas.
+Sem mudanças de rosto.
+Sem mudanças de identidade.
+Sem dedos extras ou mãos distorcidas.
+Sem movimento corporal antinatural.
+Sem texto aleatório, logotipos, legendas ou marcas d'água.
+Sem mudanças súbitas de fantasia.
+
+FORMATO:
+Vertical 9:16.
+25 segundos.
+Projetado para X/Twitter e mídias sociais de formato curto.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099724933035343872/img/qNCB03bjC814Ie17.jpg" width="600" alt="Prompt para Videoclipe de Música Neon Rain">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=10869)**
+
+**Autor:** [Calira](https://x.com/CaliraVal) | **Fonte:** [Link](https://x.com/CaliraVal/status/2099725385571389852) | **Publicado:** Sep 15, 2026
+
+---
+### Prompt para Curta-Metragem de Comédia Xianxia Seedance 2.0 Mini
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Um prompt detalhado para gerar um curta-metragem cinematográfico chinês de Xianxia de 15 segundos usando o Seedance 2.0 Mini. Apresenta uma narrativa cômica onde um desafiante percebe que tem menor antiguidade no clã do que a Imortal da Espada com quem está lutando, com instruções específicas sobre consistência de personagens, ângulos de câmera, timing de diálogo e estilo visual.
+
+#### 📝 Prompt
+
+```
+Seedance 2.0 Mini | Prompt para curta-metragem Xianxia de 15 segundos
+Objetivo do Projeto
+
+Gerar um curta-metragem estritamente de 15 segundos, formato paisagem 16:9, realista e cinematográfico, com estética chinesa Xianxia.
+
+Requisitos Gerais de Estilo:
+
+Textura realista cinematográfica
+Estética pura de Xianxia em estilo antigo chinês
+Gramática visual épica para entrada do desafiante
+Comédia seca (deadpan)
+Ritmo de reação ao estilo cinema mudo
+Eficiência das comédias de ação de Hong Kong
+Estrutura progressiva clássica de três tempos
+Textura de câmera Arri Alexa
+Microdetalhes faciais estáveis e claros
+Grão de filme delicado
+Iluminação volumétrica natural
+Diálogo nativo sincronizado em mandarim
+Não gerar legendas
+Linha Central da Comédia
+
+Manter apenas uma linha cômica que seja imediatamente compreensível na primeira exibição:
+
+Um jovem espadachim inimigo vem desafiar agressivamente a Irmã Sênior Imortal da Espada, esperando que um duelo lendário comece imediatamente.
+Como resultado, através da relação mestre-discípulo que ele mesmo revela, é descoberto subitamente no local:
+Pela antiguidade nas artes marciais, ele é na verdade uma geração mais novo que a Irmã Sênior Imortal da Espada.
+
+Assim, o desafio sério de vida ou morte se transforma instantaneamente em uma cena extremamente constrangedora de etiqueta marcial de "reconhecimento de parentesco".
+
+As piadas devem vir apenas de:
+
+Inversão de status
+
+Etiqueta marcial pura de estilo antigo
+Execução estrita das regras de antiguidade
+NÃO deve depender de:
+
+Acidentes ambientais aleatórios
+
+Embaraço de baixo nível
+Atuação exageradamente boba
+Vinculação de Imagens de Referência
+Âncoras de Identidade dos Personagens
+@Image 1
+Corresponde à Irmã Sênior Imortal da Espada
+
+Manter sempre:
+
+Mulher asiática oriental de 25–30 anos
+
+Figura alta e esbelta
+Rosto oval
+Olhos amendoados escuros
+Cabelo preto longo meio preso
+Fixado com um grampo de jade branco
+Mesmo conjunto de Hanfu de seda branca bordada
+Selo de cintura prateado
+Pingente de jade
+Botas de pano branco
+Uma espada longa prateada única
+@Image 2
+Corresponde à Irmã Júnior
+
+Manter sempre:
+
+Mulher asiática oriental de 20–25 anos
+
+Baixa estatura
+Rosto redondo e vivo
+Cabelo preto trançado
+Mesmo conjunto de Hanfu de linho verde-azulado
+Cinto escuro
+Grampo de madeira
+Sapatos de pano preto
+Uma espada de aço escuro única
+Fundo e Espaço
+Todas as novas imagens de fundo e localização de referência enviadas nesta rodada determinam conjuntamente a mesma DNA ambiental.
+
+Antes da geração, integrar silenciosamente:
+
+Terreno real
+
+Linguagem arquitetônica
+Sensação de idade dos materiais
+Escala espacial
+Vegetação
+Corpos d'água
+Clima
+Névoa de montanha
+Direção principal da luz
+Relações de reflexão
+Profundidade atmosférica
+Rotas reais percorribles
+Replanejar como um espaço novo unificado, completo e crível.
+
+Regras do Ambiente
+
+Os seguintes elementos no fundo permanecem naturalmente vivos:
+
+Vento natural
+
+Corpos d'água
+Vegetação
+Camadas de nuvens
+Discípulos comuns distantes
+Som ambiente espacial
+Mas, em termos narrativos, deve ser absolutamente neutro, não pode criar gags ativamente, nem ajudar a impulsionar as piadas.
+
+Estrutura de Planos
+
+0–5s | Primeiro Plano | Entrada do Desafio
+Tamanho do Plano
+Plano aberto ou plano geral
+
+Visual
+
+A mesma Irmã Sênior Imortal da Espada e a mesma Irmã Júnior estão paradas em uma área aberta formada naturalmente com base nas imagens de referência desta rodada.
+
+Um jovem espadachim inimigo entra no quadro com passos largos, saca sua espada subitamente e anuncia com grande ímpeto:
+
+"Imortal da Espada! Fui ordenado pelo meu mestre a derrotá-la!"
+
+A mesma Imortal da Espada de Vestes Brancas não mostra nenhuma tensão, pergunta calmamente:
+
+"Quem é o seu mestre?"
+
+O inimigo responde extremamente orgulhoso:
+
+"Zhao Wuchen!"
+
+Requisitos
+
+Este plano deve primeiro estabelecer uma verdadeira sensação épica de desafio
+A entrada do inimigo deve ser séria, não engraçada
+A calma da Irmã Sênior Imortal da Espada cria o primeiro contraste
+As relações espaciais são claras, o posicionamento dos personagens é estável
+5–10s | Segundo Plano | Inversão de Antiguidade
+Tamanho do Plano
+Plano médio ou plano cowboy
+
+Visual
+
+Manter os mesmos personagens, mesmas fantasias, mesmas espadas longas e espaço geográfico completamente consistente.
+
+O mesmo Mestre idoso, que estava sentado naturalmente alguns passos atrás das duas pessoas, levanta casualmente os olhos como se ouvisse um nome familiar, e diz calmamente:
+
+"Pequeno Zhao, eu o ensinei por três anos."
+
+A cena inteira fica em silêncio.
+
+O mesmo inimigo vira muito lentamente a cabeça para olhar o Mestre, e o ímpeto em seu rosto começa a afrouxar pela primeira vez.
+
+A mesma Irmã Júnior imediatamente calcula seriamente a relação de antiguidade, então diz com extrema seriedade:
+
+"Então você tem que chamar a Irmã Sênior... Shigu (Irmã do Mestre)."
+
+O corpo inteiro do inimigo congela no lugar, repetindo em descrença:
+
+"Shigu?"
+
+A mesma Irmã Sênior Imortal da Espada mantém absoluta dignidade e seriedade durante todo o tempo.
+
+Requisitos
+
+O punchline deste plano deve chegar claramente
+"Shigu" deve se tornar o primeiro ponto de explosão real da comédia
+O tom do Mestre deve ser o mais casual possível
+A Irmã Júnior não deve estar zombando, mas sim calculando seriamente a antiguidade
+O ímpeto do inimigo deve genuinamente colapsar para a primeira camada
+10–15s | Terceiro Plano | Etiqueta Primeiro
+Tamanho do Plano
+Close-up ou extreme close-up
+
+Visual
+
+A espada longa na mão do mesmo inimigo baixou inconscientemente um pouco, ainda tentando manter a dignidade de um desafiante:
+
+"Eu vim desafiar hoje."
+
+O mesmo Mestre idoso responde com extrema seriedade:
+
+"Desafio é desafio, mas a antiguidade não pode ser bagunçada."
+
+A mesma Irmã Júnior acena extremamente séria e acrescenta:
+
+"Me chame primeiro."
+
+Deixe uma pausa completa de meio tempo que seja extremamente dolorosa para o inimigo.
+
+O inimigo tenta falar várias vezes, mas finalmente aperta para fora uma frase muito pequena:
+
+"... Shigu."
+
+A mesma Imortal da Espada de Vestes Brancas acena extremamente dignamente, respondendo com apenas uma palavra:
+
+"Bom."
+
+A mesma Irmã Júnior instantaneamente vira o rosto para o outro lado, ombros tremendo levemente, segurando desesperadamente o riso.
+
+O rosto do inimigo está prestes a quebrar, mas ele ainda ergue sua própria espada novamente:
+
+"Podemos lutar agora?"
+
+A mesma Irmã Sênior Imortal da Espada calmamente puxa a espada longa prateada cerca de meia polegada para fora da bainha, seu olhar finalmente entrando em um estado verdadeiro de especialista, mas ainda sem pressa responde:
+
+"Sim, Shizhi (Sobrinho Júnior)."
+
+A expressão do inimigo colapsa no lugar novamente.
+
+Corte precisamente para preto nesta segunda expressão mentalmente traumatizada.
+
+Requisitos
+
+"Bom" é a segunda piada óbvia
+"Sim, Shizhi" é o contra-ataque final
+A Irmã Sênior deve sempre ser digna e séria, não provocando deliberadamente
+A Irmã Júnior deve segurar o riso fortemente, mas não roubar a cena
+O inimigo não deve agir como um idiota, apenas preso pela etiqueta
+Requisitos de Atuação
+Irmã Sênior Imortal da Espada
+Calma durante todo o tempo
+Digna durante todo o tempo
+Não provoca as pessoas
+Age como se realmente estivesse seguindo a etiqueta marcial
+Quando meio-saca a espada no final, a aura de uma verdadeira especialista deve ser claramente estabelecida
+Irmã Júnior
+Responsável por deduzir seriamente as relações de antiguidade
+A comédia vem de ser excessivamente séria
+Não é palhaçada
+Segurar o riso deve ser contido
+Mestre Idoso
+Extrema seriedade
+Quanto mais casual o tom, melhor
+Como se estivesse apenas corrigindo um problema de etiqueta perfeitamente normal
+Jovem Espadachim Inimigo
+Deve realmente ser um desafiante agressivo na primeira metade
+O ímpeto colapsa aos poucos quando a antiguidade é invertida
+Não pode agir como um bobo
+As piadas vêm da dignidade sendo mantida refém pela etiqueta
+Requisitos de Fotografia e Som
+3 planos contínuos claros
+Duração total estritamente 15 segundos
+Paisagem 16:9
+Diálogo nativo sincronizado em mandarim
+Sincronia labial precisa
+Pausas cômicas claras
+Primeiro plano, plano médio e fundo mantêm paralaxe real
+O som ambiente espacial existe realisticamente
+Efeitos físicos do tecido de seda e cabelo são naturais
+A câmera é contida e estável, sem exibicionismo
+Foco Sonoro
+O som da espada sendo sacada é claro
+Vento ambiental, sons de água, sons espaciais distantes são naturais
+As pausas-chave devem permitir que o diálogo chegue bem
+"Shigu"
+"Bom"
+"Shizhi"
+Estas três palavras devem se tornar pontos de batida claros
+Requisitos de Continuidade
+Deve permanecer estável durante todo o tempo:
+Identidade do personagem
+
+Penteado
+
+Rosto
+Fantasia
+Espada longa
+Posição do Mestre
+Espaço geográfico
+Relações de olhar
+Direção da luz
+Estrutura do fundo
+Itens a Evitar
+borrado
+má qualidade
+baixa qualidade
+baixa resolução
+ruído
+artefatos jpeg
+marca d'água
+texto
+erro
+deformado
+mutado
+anatomia ruim
+mãos mal desenhadas
+composição pobre
+fora do quadro
+desfigurado
+personagem inconsistente
+roupas mudando
+morphing facial
+deslocamento de fundo
+cortes glitchados
+props desaparecendo
+Expressões bobas exageradas
+Pranks de baixo nível
+Gags de acidentes ambientais
+Palhaçada aleatória
+Legendas
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099714929926500352/img/9fXKFlrwH7-saZqG.jpg" width="600" alt="Prompt para Curta-Metragem de Comédia Xianxia Seedance 2.0 Mini">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=10872)**
+
+**Autor:** [Soran](https://x.com/Soranlan) | **Fonte:** [Link](https://x.com/Soranlan/status/2099714995458363481) | **Publicado:** Sep 15, 2026
+
+---
+### Prompt de Vídeo de Batalha de Fantasia Chinesa Seedance 2.0
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Um prompt altamente detalhado para gerar uma animação de fantasia chinesa 2D desenhada à mão de 30 segundos, apresentando uma batalha entre um espadachim macaco e uma serpente de nove cabeças, com movimentos de câmera específicos, coreografia de combate e efeitos visuais.
+
+#### 📝 Prompt
+
+```
+【Global · Definição de Estilo Artístico】 Animação de estilo chinês 2D desenhada à mão de primeira linha, textura de nível de ilustração de personagem em pé requintada (referenciando ilustrações de jogos de alta precisão). Linhas claras e nítidas, cores cheias e transparentes, camadas ricas de luz e sombra, mantendo a suavidade sedosa de alta taxa de quadros e a tensão de deformação exagerada da animação 2D. Ruínas divinas grandiosas flutuando sobre penhascos marinhos, penhascos gigantes suspensos sobre ondas furiosas, nuvens negras pressionando, relâmpagos cianos rasgando o céu, ventos selvagens levantando milhares de ondas e névoa d'água, paredes quebradas e pilares de pedra estilhaçados vagamente visíveis no vento e na chuva. Destruição encadeável: Rachaduras no penhasco → Colapso dos pilares → Explosão de luz divina → Água do mar jorrando para o céu, vestígios de destruição permanentemente retidos.
+
+【Global · Personagens e Oponente】 Protagonista: Estilo de ilustração em pé 2D requintado. Cabelo longo preto como tinta dançando selvagemente, olhos frios e arrogantes, um toque de padrão divino de gota de água azul-escura na testa, vestindo uma túnica longa de batalha danificada em cinza-azulado escuro, carregando uma espada nas costas, roupas tremulando violentamente com os movimentos. Características de ação: Extremamente flexível como um macaco, usando todos os quatro membros para saltar, rolar no ar, alavancar-se nas paredes, passos elusivos, movimento em velocidade total transformando-se em imagens residuais de fluxo de luz 2D ciano-dourado-vermelho. Oponente (Serpente Gigante de Nove Cabeças): Behemoth 2D desenhado à mão. Corpo de cobra tão grosso quanto montanhas, escamas pretas brilhando com luz tóxica verde fantasmagórica, nove enormes cabeças de cobra alongadas como pescoços de dragão, pupilas verticais carmesim. Sistema de lesões: Ser atingido respinga sangue verde-escuro e vermelho-escuro, as escamas racham, sangue jorra das cabeças cortadas, cadáveres permanecem permanentemente no penhasco marinho, finalmente colapsando após a aniquilação total, esmagando o penhasco.
+
+【Global · Regras Centrais e Leis Invioláveis】 60fps alta taxa de quadros, animação 2D desenhada à mão, ritmo acelerado durante todo o tempo, sem câmera lenta/congelamento/bullet time. Densidade de ação: Seções de combo em alta velocidade 8-12 ações/seg, seções de técnica imortal nível SSS 14-18 ações/seg. Sensação de impacto = Aumento de brilho + Push-in da câmera + Expansão de onda de choque + Alvo voando violentamente ao ser atingido. Pseudo one-shot (WHIP/PUSH/DOLLY). Destruição da cena permanentemente retida. Ambos os lados contra-atacam violentamente em cada plano. Fluxo de ação puro.
+
+【Storyboard · 30 Segundos · 2 Habilidades do Protagonista + 2 Habilidades do Oponente · Footwork Macaco Extremamente Ágil · Sangramento em Lesões · Retenção de Cadáver】
+
+Plano 1 (t0-1s) MS + Plano longo de rastreamento baixo no chão: Início em 0 frames, protagonista salta do lado esquerdo do penhasco marinho flutuante pendurado de cabeça para baixo, saltando freneticamente na parede do penhasco usando todos os quatro membros como um símio, deslizando pelo chão através da primeira onda de mordidas da serpente de nove cabeças e alavancando-se em um pilar, cortando horizontalmente o pescoço da cobra com um golpe reverso fazendo sangue verde-escuro respingar, ângulo baixo apontando para cima combinado com plano de rastreamento baixo no chão, câmera treme violentamente ao pousar.
+
+Plano 2 (t1-3s) MS + Plano de rastreamento lateral em alta velocidade: Protagonista rola continuamente no ar como um símio, usando todos os quatro membros para balançar pendularmente entre as nove cabeças da serpente, desviando de mordidas à esquerda e empurrando para cima para cortar o pescoço da cobra à direita, criando imagens residuais 2D ciano-dourado-vermelho e efeitos de explosão de tinta, a serpente de nove cabeças cospe sopro venenoso verde fantasmagórico e varre com a cauda, plano de rastreamento lateral em alta velocidade segue de perto.
+
+Plano 3 (t3-5s) MCU + Whip pan em velocidade extrema: A serpente de nove cabeças ativa a Habilidade 1 [Prisão Venenosa das Nove Cabeças], todas as nove cabeças simultaneamente cospem sopro venenoso verde fantasmagórico e trovão mágico negro formando um campo de veneno-trovão cobrindo toda a cena, o protagonista escala a parede, rola extremamente rápido para desviar dentro das lacunas do campo de veneno-trovão como um macaco espiritual, então ataca com golpe reverso, cotovelada, chute giratório e chute lateral em um combo de quatro golpes consecutivos atingindo as cabeças da cobra, cada golpe explodindo com pontos de tinta 2D ciano-dourado-vermelho e névoa de sangue verde-escuro, whip pan em velocidade extrema da esquerda para a direita.
+
+Plano 4 (t5-8s) MS + Plano Orbital 2D: Protagonista gira e forma um selo para ativar a Habilidade 1 [Corte do Macaco Espiritual Pisando no Vazio · Ciano-Dourado-Vermelho], transformando-se em imagens residuais 2D ciano-dourado-vermelho cruzando freneticamente para frente e para trás entre as nove cabeças da serpente, deixando imagens residuais de figuras simiescas a cada giro enquanto balança sincronizadamente a espada para estrangular, pescoços de cobra jorrando tinta-sangue verde-escuro, a serpente de nove cabeças sacode a cabeça freneticamente e morde de volta, plano orbital 2D seguindo continuamente a trajetória da imagem residual em velocidade extrema.
+
+Plano 5 (t8-10s) FS 0.5s → MS: O alcance do Corte do Macaco Espiritual Pisando no Vazio expande-se ao extremo, qi de espada 2D ciano-dourado-vermelho em tela cheia irrompe simultaneamente varrendo a maior parte da tela, duas cabeças da serpente de nove cabeças são decepadas, feridas jorrando grandes quantidades de sangue verde-escuro, a besta ruge para o céu em agonia, plano aberto 0.5s então whip pan em velocidade extrema de volta para MS.
+
+Plano 6 (t10-12s) MS + Back-tracking FPV: Transição sem intervalo entre segmentos, protagonista transforma-se em fluxo de luz 2D ciano-dourado-vermelho teleportando-se através do grupo para atrás da serpente de nove cabeças, pousa e varre horizontalmente, ponto de impacto explodindo com ondas de choque anelares 2D e ondas de respingo de tinta ciano-dourado-vermelho, as sete cabeças restantes da serpente de nove cabeças contra-atacam simultaneamente cuspindo trovão negro e sopro venenoso, back-tracking FPV segue, protagonista imediatamente inverte a direção e avança.
+
+Plano 7 (t12-15s) MCU + Push In em Velocidade Extrema: A serpente de nove cabeças ativa a Habilidade 2 [Mordida Devoradora do Céu das Dez Mil Cobras], sete cabeças de cobra simultaneamente transformam-se em enormes sombras negras mordendo e cercando freneticamente, o protagonista quica nas cabeças das cobras para alavancar-se, rola no ar, girando e formando um selo para ativar a Habilidade 2 [Formação Quebra-Ondas de Mil Mecanismos · Ciano-Dourado-Vermelho], acenando com a espada longa para condensar massivo qi de espada relâmpago ciano-dourado-vermelho, avançando freneticamente para frente e para trás entre as cabeças das cobras, qi de espada perfurando os pescoços das cobras ao longo do caminho como caligrafia cursiva selvagem causando explosões em cadeia, cabeças de cobra respingando sangue verde-escuro, push in em velocidade extrema travando no centro da perfuração.
+
+Plano 8 (t15-18s) FPV + Rastreamento Baixo no Chão: Formação Quebra-Ondas de Mil Mecanismos continua a expandir, protagonista desliza no chão em imagens residuais de relâmpago para desviar da varredura da cauda, salta e corta para baixo, avançando de três direções, relâmpagos ciano-dourado-vermelhos e pontos de tinta 2D explodem e rachaduras no solo do penhasco marinho são permanentemente retidas, a serpente de nove cabeças mergulha do meio do ar para morder, rastreamento baixo no chão + whip pan em velocidade extrema.
+
+Plano 9 (t18-20s) FS 0.5s → MS: Formação Quebra-Ondas de Mil Mecanismos engole a maior parte da tela, a serpente de nove cabeças tem mais três cabeças decepadas, feridas jorrando sangue como chuva, o corpo massivo da besta é perfurado por relâmpagos e empurrado para trás, plano aberto 0.5s então whip pan de volta para close-up.
+
+Plano 10 (t20-22s) MCU Pan Baixo Ângulo Apontando para Cima: Transição sem intervalo entre segmentos, protagonista salta no ar e forma um selo, as quatro cabeças restantes da serpente de nove cabeças rugem para o céu em contra-ataque mortal, cuspindo trovão negro e sopro venenoso tentando matar, protagonista cruza extremamente rápido entre o céu e a terra, MCU pan baixo ângulo apontando para cima.
+
+Plano 11 (t22-26s) FS Rotação Superior Tela Cheia: Explosão do combo de dupla habilidade do protagonista, espadas divinas 2D ciano-dourado-vermelhas e relâmpagos em tela cheia bombardeiam o corpo inteiro da serpente de nove cabeças como chuva forte, cobrindo toda a tela, cada luz de espada caindo explode com cogumelos 2D, protagonista cruza extremamente rápido ceifando entre chuvas de espadas como um macaco espiritual, o corpo massivo da serpente de nove cabeças é pregado no penhasco marinho por espadas divinas lutando freneticamente, cabeças restantes decepadas uma por uma, sangue jorrando, rotação superior tela cheia.
+
+Plano 12 (t26-28s) MS + FPV: Nos destroços, protagonista usa shuttle de espada extremo seguido de corte giratório para limpar remanescentes, poeira 2D ciano-dourado-vermelha sobe para o céu e fios de tinta tricolor densamente empacotados, o contra-ataque mortal da serpente de nove cabeças é instantaneamente despedaçado ao cortar a última cabeça, back-tracking FPV.
+
+Plano 13 (t28-29s) MCU + Whip Pan em Velocidade Extrema: Protagonista corre para a esquerda e direita em curvas pendulares, corta à esquerda e empurra à direita, trazendo imagens residuais 2D ciano-dourado-vermelhas e efeitos de explosão de tinta com sombras de espada formando lençóis, o corpo sem cabeça da serpente de nove cabeças colapsa batendo no penhasco marinho, cadáver aterrissando pesadamente nas ruínas, whip pan em velocidade extrema.
+
+Plano 14 (t29-30s) CU Quadro Final Aniquilação Total da Besta: Protagonista fica de pé no topo do penhasco marinho embainhando a espada horizontalmente à frente, explosão de luz 2D ciano-dourado-vermelha em tela cheia evapora completamente os restos da serpente de nove cabeças em partículas 2D que preenchem o céu e detritos verde-escuros, o cadáver massivo da serpente de nove cabeças é permanentemente retido nas ruínas do penhasco marinho colapsado, sangue verde-escuro continua fluindo do pescoço decepado, nenhuma besta viva permanece na imagem, protagonista levanta ligeiramente a cabeça com olhar arrogante, CU push in em velocidade extrema + congelamento 0.3-0.5s, declarando aniquilação total.
+
+【Prompt Negativo Completo】 Proibido: Renderização 3D, UE5, Lumen, estilo realista, fotorrealismo, desenho ocidental, estilo Pixar, aparência plástica, efeitos monocromáticos, texto, marca d'água, UI, legendas, LOGO, cortes secos rígidos, estático, encarada face a face, impasse de colisão de movimento, respingos de sangue descontrolados, desmembramento de membros, órgãos internos, close-ups de feridas, rasgo de pele, distorção de membros, hiperextensão articular, dedos extras, deformação ocular, colapso facial do personagem, efeitos bloqueando o rosto, falhas de câmera, erros de perspectiva, desequilíbrio de proporção, sobreposição/clipping de personagens, ações lentas, ações congeladas, combos interrompidos, saída estacionária, confronto de carregamento, posando, embainhando espada, sensação de fim de batalha, ofegante/descansando, mesma velocidade durante todo o tempo, câmera lenta, planos lentos, congelamentos, pausas, congelamento de frame, hit-stop, bullet time, estagnação temporal, longos preparativos, pausa pós-ataque, besta para de contra-atacar, besta parada sendo espancada, esmagamento unilateral absoluto sem contra-ataque, recepção unilateral de dano, áreas vazias na imagem, besta estática, besta não cruzando para preencher posições, contra-ataques mornos da besta, lesão humana, sangramento humano, corte físico, penetração, perfuração, plano aberto extremo EWS, zoom out, vista distante, luta em plano aberto, desfoque de movimento, efeitos 2D muito finos, falta de sensação de velocidade, golpes sem sensação explosiva, feedback fraco de ataque, sem reação do alvo atingido, efeitos não preenchendo a tela, habilidades não cobrindo a maior parte da tela, grandes áreas em branco na imagem no momento da liberação, efeitos concentrados apenas no protagonista em vez de engolir a tela, nomes de habilidades incorretos, segmentos não-combativos, diálogo demais, quadro final não mostra aniquilação total da besta, monstros de elite, generais demônios, BOSS, mobs pequenos, demônios humanoides, clipping de cobra, Wu Shan Cinco Elementos.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099329220824715264/img/pNkPrzhMrEmR6urK.jpg" width="600" alt="Prompt de Vídeo de Batalha de Fantasia Chinesa Seedance 2.0">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=10873)**
+
+**Autor:** [Arvin](https://x.com/Arvin010717) | **Fonte:** [Link](https://x.com/Arvin010717/status/2099694643080483001) | **Publicado:** Sep 15, 2026
+
+---
 ### Prompt de Combate Cinematográfico Xianxia Seedance 2.0
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -4954,151 +5506,6 @@ Cena 25 (28,2–30s): Plano aberto externo: trem imóvel no posto de controle, p
 **Autor:** [WasifAI](https://x.com/doctorwasif) | **Fonte:** [Link](https://x.com/doctorwasif/status/2096097630317392019) | **Publicado:** Sep 5, 2026
 
 ---
-### Vídeos Promocionais de Maquiagem de Luxo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Três opções distintas para criar vídeos comerciais de beleza de alto padrão, focados em produtos labiais, texturas e aplicação.
-
-#### 📝 Prompt
-
-```
-Opção 1: Vitrine de Produto UGC com Estética Suave (Ideal para TikTok / Reels)
-Close-up das mãos segurando um frasco de lip tint rosa seco com um aplicador. A textura suave do gloss é aplicada delicadamente em uma pele clara. Iluminação quente e suave, movimento de câmera fluido, fundo de mesa de maquiagem minimalista e limpo, vídeo comercial de alta qualidade.
-Opção 2: Foco em Aplicação Labial e Swatch (Tendência e Satisfatório)
-Close-up extremo de lábios com brilho rosa seco recebendo a aplicação suave de um lip tint. Textura rica, acabamento de alto brilho, mistura aveludada. Estética elegante, iluminação de estúdio suave, estilo comercial de beleza ultra-realista.
-Opção 3: Unboxing e Swatch Estético de Produto
-Macro shot estético de um aplicador de lip tint malva saindo do frasco, revelando a textura líquida do produto. Movimento suave de swatch na pele da mão, acabamento brilhante sob luzes quentes e estéticas, vídeo de produto de beleza em câmera lenta.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096095308006780928/img/4oy5bYNLR1BSaUEj.jpg" width="600" alt="Vídeos Promocionais de Maquiagem de Luxo">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=10397)**
-
-**Autor:** [AsmatAi](https://x.com/AsmatAi786) | **Fonte:** [Link](https://x.com/AsmatAi786/status/2096095449648443637) | **Publicado:** Sep 5, 2026
-
----
-### Gato branco fofo em estilo anime suave
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt encantador em estilo anime suave para um vídeo de um gato branco vivendo em um apartamento moderno, apresentando movimentos brincalhões e interações aconchegantes.
-
-#### 📝 Prompt
-
-```
-Criei um vídeo em estilo anime suave de um gato branco fofo com grandes olhos azul-petróleo brilhantes, vivendo em um apartamento moderno e iluminado com janelas amplas que dão para o horizonte de uma cidade ensolarada. O gato senta-se calmamente no parapeito de madeira da janela e, em seguida, caminha graciosamente em direção à câmera pelo piso de madeira polida. Close-ups capturam seu rosto fofo, bigodes tremelicantes e expressão curiosa. Ele fica de pé orgulhosamente sob a luz do sol, senta-se elegantemente e, depois, pula de forma brincalhona atrás de uma pequena bola branca. Mais tarde, o gato olha esperançoso para um jovem de cabelos escuros e ondulados sentado à mesa de jantar comendo um sanduíche, pula em uma cadeira e sobe no colo do rapaz. O homem segura e abraça o gato gentilmente enquanto ele esfrega o focinho na mão e no rosto dele. O vídeo termina com os dois abraçados calorosamente no sofá cinza, com o gato bocejando satisfeito nos braços dele sob a luz suave da manhã.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096085739729739776/img/vDzamF8khIQ3Dxay.jpg" width="600" alt="Gato branco fofo em estilo anime suave">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=10402)**
-
-**Autor:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Fonte:** [Link](https://x.com/ayzalnooor24521/status/2096085776735912274) | **Publicado:** Sep 5, 2026
-
----
-### Estilo Documental de Gal Heisei 2007
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Um prompt meticulosamente detalhado para recriar um vídeo do estilo de vida 'Gyaru' japonês de 2007, com a estética de câmeras digitais antigas e consistência específica da personagem.
-
-#### 📝 Prompt
-
-```
-[Resumo] Um dia casual em 2007 para uma 'Hime Gyaru' (gal princesa) de 19 anos com cabelo volumoso. Uma amiga a filma de lado usando o modo de vídeo de uma câmera digital compacta, sem falar. 480p, 16:9, 15 segundos. 7 cortes secos (aprox. 2s cada) em locais distintos. Sem transições ou desvanecimentos. A protagonista não interage com a câmera: sem contato visual, sem mostrar objetos, sem acenar, sem posar. Ela está imersa no que está fazendo. Fragmentos da vida cotidiana, não uma performance. Sem diálogos, falas ou narração.
-
-[Protagonista] Definição de beleza: Uma beleza japonesa glamorosa comparável a uma modelo exclusiva de revistas de gal. Mais charmosa em momentos espontâneos do que em poses. Rosto: Pele pálida (textura realista), sobrancelhas castanhas grossas, olhos grandes com pálpebras duplas e cílios pesados (postiços), nariz pequeno e delicado, lábios brilhantes e carnudos, rosto oval pequeno. Cabelo: 'Morigami' (cabelo bufante) cor de chá com leite. O topo é bem desfiado e as pontas são enroladas em cachos grossos e grandes, um estilo gal típico da época. Apenas meio enrolado na cena da manhã. Vestuário (roupa casual, não muito estilizada): Vestido rosa pálido na altura do joelho, um cardigã branco jogado sobre os ombros, sandálias de salto baixo, uma bolsa branca grande (sem texto). Pertences: 'Decoden' (um celular flip coberto de strass brilhantes e pérolas. Rosa e branco. Mantido fechado, tela não visível). Hábitos: Verificar o formato do cabelo levantando-o, tropeçar levemente nos saltos. Rosto, cabelo e roupas são idênticos em todas as cenas.
-
-[Personagens] Amiga gal (cinegrafista): Não visível, mas risadas ocasionais, respiração e o farfalhar ao ajustar a câmera estão incluídos (sem palavras). Amiga motorista: Visível apenas pelo ombro e braço no banco do motorista nas cenas 3 e 7 (cabelo loiro chanel, unhas rosas).
-
-[Época, Local, Luz] Verão de 2007. ① Manhã no quarto (luz suave através das cortinas. Sem espelho no quadro). ② Corredor externo do apartamento (luz branca). ③ Banco do passageiro do carro da amiga (luz do dia, janela levemente aberta). ④ Terraço de café (sol da tarde, sem placas). ⑤ Dentro da gôndola da roda-gigante (laranja do entardecer, cidade fora da janela). ⑥ Passeio marítimo à noite (postes de luz e escuridão do oceano). ⑦ Banco de trás do carro voltando para casa (luzes da rua passando). Escolha locais e ângulos onde placas, textos, logotipos ou telas não entrem no quadro.
-
-[Câmera] Textura de vídeo de câmera digital compacta de 2007: Ruído em áreas escuras, cores levemente amareladas, trepidação de câmera na mão. Câmera na mão, composição imperfeita, foco automático ocasional, flutuações de exposição. Mantenha uma distância de 2 a 4 metros da protagonista, dando zoom apenas para mãos ou perfil. A protagonista ignora a câmera. Sem estabilização, gimbal, drone, câmera lenta, iluminação cinematográfica ou correção de cor comercial. A câmera está sempre posicionada onde uma pessoa a seguraria (em pé, sentada, agachada, andando, banco ao lado). Sem ângulos impossíveis (ar, água, teto, diretamente acima, fora de um carro em movimento, a centímetros do rosto). Quem filma é uma pessoa real no espaço; se a protagonista se move, ela segue com um leve atraso, às vezes com enquadramento solto. Sem reflexos em espelhos ou vidros.
-
-[Cenas] (aprox. 2s cada. Local/Atividade/Emoção & Gesto/Posição da câmera):
-1. Quarto, luz suave da manhã. Enrolando as pontas com uma chapinha. Emoção: Focada na luta com o cabelo. Ponta da língua levemente para fora, verificando a mecha enrolada. Câmera: De lado, sem espelho.
-2. Corredor do apartamento, luz branca. Andando de sandálias, tropeça uma vez, toca na parede. Emoção: Envergonhada. Olha em volta, depois anda normalmente. Câmera: Por trás.
-3. Banco do passageiro do carro da amiga, dia. Fechando os olhos contra a brisa de uma janela entreaberta. Emoção: Relaxamento. Ignora o cabelo voando. Câmera: Inclinada do banco de trás.
-4. Terraço de café, tarde. Guardando a cereja do parfait para o final, depois comendo. Emoção: Felicidade. Estreitando os olhos, relaxando os ombros. Câmera: Através da mesa.
-5. Gôndola da roda-gigante, entardecer. Testa contra a janela olhando para a cidade. Emoção: Devaneio pensativo. Boca levemente aberta. Câmera: Do banco oposto.
-6. Passeio marítimo à noite. Apoiada em um corrimão, ignorando o cabelo bagunçado pela brisa do mar, para de segurá-lo. Emoção: Libertação. Olhos fechados ao vento. Câmera: De lado, sob a luz dos postes.
-7. Banco de trás do carro voltando. Cabeça encostada na janela, caindo no sono. Luzes da rua brilham nas pedras do decoden no colo (tela escondida). Emoção: Sonolência satisfeita. Câmera: Do banco adjacente, seguindo a vibração. Aprox. 00:14, a gravação escurece repentinamente. Sem desvanecimento.
-
-[Detalhes dos Objetos] A chapinha é de plástico branco com fio emaranhado. O Decoden é de strass rosa/branco em padrão de coração, parece uma caixa de joias quando fechado. A bolsa branca é de couro sintético, deixada aberta. As sandálias têm tiras rosas e salto baixo. A gôndola da roda-gigante tem assentos de plástico branco.
-
-[Proibição de Texto] Nenhum texto legível, logotipos, placas, etiquetas, exibições de tela ou números no quadro. Substitua itens com muito texto por versões simples.
-
-[Física/Consistência] Física do mundo real. Sem dedos extras, mãos fundidas, anatomia distorcida, objetos flutuantes, itens que desaparecem ou transformação repentina. Pés no chão. Strass, boné, mochila e roupas da amiga idênticos em todas as cenas.
-
-[Som] Apenas som ambiente natural (muda a cada cena): som da chapinha, sandálias no corredor, carro em movimento e vento, pratos de café, mecânica da roda-gigante, mar/vento, carro à noite. Sem palavras. Apenas risadas/respiração ocasionais de quem filma e da protagonista. Sem música. Sem narração. Sem efeitos sonoros artificiais.
-
-[Atmosfera] Um registro de um dia comum que faz adultos que conheceram 2007 pensarem 'existiam garotas assim'. Uma coleção de fragmentos espontâneos, não posados. Nostálgico, brilhante, profundamente humano. Priorize a sensação de que uma câmera simplesmente estava lá por acaso.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094091270738395138/img/EDfIIA0OcweMUn7Q.jpg" width="600" alt="Estilo Documental de Gal Heisei 2007">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=10409)**
-
-**Autor:** [妖精アーヤ](https://x.com/aiehon_aya) | **Fonte:** [Link](https://x.com/aiehon_aya/status/2095995325723156791) | **Publicado:** Sep 4, 2026
-
----
-### Pôster de Aprendizado de Vocabulário para Pré-escola
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um pôster de vocabulário limpo, moderno e adequado para crianças, focado no aprendizado de frutas, projetado com layouts educacionais e fotografia de alta qualidade.
-
-#### 📝 Prompt
-
-```
-Crie um pôster educacional de vocabulário limpo e adequado para crianças da pré-escola/jardim de infância, inspirado em um cartão de aprendizado visual simples.
-
-Destaque [FRUTA] como o objeto principal grande e realista à esquerda, e mostre uma [PARTE / FATIA / SEGMENTO] da mesma fruta à direita. Conecte os dois com uma seta curva pontilhada lúdica e uma pequena criança em formato de boneco de palito apontando para a parte menor.
-
-Adicione a palavra “[NOME DA FRUTA]” em letras maiúsculas grandes e em negrito no topo e “[NOME DA PARTE]” em letras maiúsculas grandes e em negrito abaixo da imagem menor. Use um fundo branco suave e azul pastel muito claro, painéis de imagem arredondados, espaçamento limpo, fotografia realista de frutas, tipografia azul simples e ilustrações lúdicas minimalistas.
-
-O design geral deve parecer brilhante, educacional, moderno, organizado e fácil de entender para crianças pequenas, como um cartão de aprendizado de vocabulário premium para pré-escola. Composição vertical 4:5, alta resolução, iluminação suave, rótulos claros, sem decorações desnecessárias.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095749270364368896/img/70QIbvdUo8O0Apo-.jpg" width="600" alt="Pôster de Aprendizado de Vocabulário para Pré-escola">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=10301)**
-
-**Autor:** [AsmatAi](https://x.com/AsmatAi786) | **Fonte:** [Link](https://x.com/AsmatAi786/status/2095749328102936937) | **Publicado:** Sep 4, 2026
-
----
-### Menino com vídeo caseiro Hi8 dos anos 90
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Um prompt de vídeo nostálgico no estilo Hi8 dos anos 90, apresentando um jovem menino japonês brincando com um mini carro de corrida durante suas férias, capturado com texturas lo-fi autênticas e movimento natural.
-
-#### 📝 Prompt
-
-```
-[Visão Geral] Um feriado de 1990 onde um menino de 9 anos é obcecado por seu mini carro motorizado e sua pista. Seu pai o grava à distância usando uma filmadora Hi8 sem falar. 480p, 16:9, 15 segundos. 7 cortes secos em 7 locais diferentes. Sem transições. O sujeito não interage com a câmera. Sem diálogos ou narração.
-
-[Sujeito] Um menino japonês fofo. Rosto: cabelo preto estilo "mash", rosto redondo, olhos grandes com pálpebras duplas, sardas, dentes da frente grandes, pele bronzeada. Roupas: moletom vermelho, calça jeans azul, tênis brancos, boné vermelho. Adereços: chave de fenda pequena, mini carro do tamanho da palma da mão. Hábito: colocar a língua para fora quando está concentrado.
-
-[Linha do Tempo/Local/Luz] Primavera de 1990. 1. Mesa de café da manhã. 2. Escrivaninha no quarto. 3. Pista na sala de estar. 4. Caixa de areia no parque. 5. Lavagem de carro em frente à casa. 6. Varanda (entardecer). 7. Em frente à TV à noite.
-
-[Câmera] Estética Hi8 de 1990: sangramento de cor, baixa resolução, superexposição fácil, contornos suaves. Câmera na mão, tremido natural, composição imperfeita. Sem estabilizadores, drones ou câmera lenta.
-
-[Tomadas] 1. Café da manhã: Bebendo leite e limpando a boca. 2. Escrivaninha: Apertando o carro com uma chave de fenda. 3. Pista: Acompanhando a largada, perdendo e colocando a cabeça entre as mãos. 4. Caixa de areia: Fazendo uma pista de areia. 5. Lavagem de carro: Molhando o pai acidentalmente com uma mangueira. 6. Varanda: Alinhando peças e soprando nelas. 7. TV: Adormecendo segurando um controle. A gravação corta subitamente aos 0:14.
-
-[Física] Física realista. Sem anatomia distorcida ou objetos flutuantes. Roupas consistentes durante todo o vídeo.
-
-[Som] Sons naturais do ambiente: louças tilintando, sons de motor, água, risada do pai. Sem música.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094090513112776704/img/_6R1b60uq3Tz4_Oo.jpg" width="600" alt="Menino com vídeo caseiro Hi8 dos anos 90">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=10302)**
-
-**Autor:** [妖精アーヤ](https://x.com/aiehon_aya) | **Fonte:** [Link](https://x.com/aiehon_aya/status/2095632939199443237) | **Publicado:** Sep 3, 2026
-
----
 ---
 
 ## 📚 Mais prompts disponíveis
@@ -5160,6 +5567,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-09-15T03:55:31.298Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-09-16T03:49:04.750Z</sub>
 
 </div>

@@ -68,9 +68,9 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **6379** |
+| 📝 Total Prompts | **6384** |
 | ⭐ Featured Prompts | **6** |
-| 🔄 Last Updated | **2026-09-15** |
+| 🔄 Last Updated | **2026-09-16** |
 
 ---
 
@@ -365,6 +365,522 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 
 > 📝 Sorted by publish date (newest first)
 
+### Korean Lifestyle Vlog Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for Seedance 2.0 to generate a 28-second cinematic vlog following a Korean girl through various locations, maintaining character consistency.
+
+#### 📝 Prompt
+
+```
+A Korean girl with straight dark hair, natural makeup, and a warm youthful appearance wears a light cardigan over a blue shirt with a navy pleated skirt. Create a 28-second cinematic Korean lifestyle vlog following her through a bright classroom and a peaceful coastal village. Begin with a close-up selfie shot of the girl smiling naturally toward the camera inside a Korean classroom. Show her sitting at a desk, studying and looking around the sunlit classroom before standing and walking outside. Follow her through quiet residential streets with realistic Korean homes, stone walls, plants, and warm daylight. Transition to a beautiful seaside railway path where she walks beside the ocean and enjoys the peaceful scenery. Use handheld vlog cinematography, natural camera movement, realistic expressions, soft sunlight, detailed environments, and photorealistic Korean drama aesthetics. Keep her face, hairstyle, clothing, and appearance consistent throughout, with no subtitles, logos, or watermark.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099728884115898368/img/OXorABpg3pnT7ic_.jpg" width="600" alt="Korean Lifestyle Vlog Video">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10870)**
+
+**Author:** [liana](https://x.com/Lianaalane) | **Source:** [Link](https://x.com/Lianaalane/status/2099728970229203443) | **Published:** Sep 15, 2026
+
+---
+### Korean Action Drama Subway Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating a 20-second cinematic video of a Korean woman making a dramatic entrance in a subway station and engaging in martial arts-inspired movement.
+
+#### 📝 Prompt
+
+```
+Created a 20-second cinematic video in a realistic Korean action-drama style, featuring a stylish young Korean woman with long black hair, a white sleeveless top, and relaxed blue jeans. The scene begins inside a quiet underground Korean subway station with tiled walls, bright fluorescent lights, advertising panels, and a realistic urban atmosphere. She suddenly emerges through a damaged tiled pillar, creating a dramatic entrance with dust and broken debris around her. The camera slowly pushes toward her as she stands confidently and looks intensely ahead. She then moves through the station with fast, powerful martial-arts-inspired movements, confronting a man approaching her. Use dynamic handheld camera motion, close-ups, wide shots, natural body movement, and cinematic motion blur. Keep her face, hairstyle, outfit, and body proportions consistent throughout the entire video, with realistic Korean drama cinematography, detailed lighting, shadows, reflections, and atmospheric depth. The final moments show her turning away and walking deeper into the subway station, creating a mysterious, high-impact ending with no subtitles, logos, or watermarks.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099725592577064960/img/UWgWIIeb872MWGm4.jpg" width="600" alt="Korean Action Drama Subway Scene">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10871)**
+
+**Author:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Source:** [Link](https://x.com/ayzalnooor24521/status/2099725642736845113) | **Published:** Sep 15, 2026
+
+---
+### Neon Rain Music Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> The tweet explicitly mentions 'Made with Seedance 2.0'. It contains a full, detailed prompt for generating a cinematic music video with specific character, style, and lyrical instructions.
+
+#### 📝 Prompt
+
+```
+Create a 25-second cinematic AI music video / music MV with a clear short musical story.
+
+STYLE:
+High-end cinematic pop music video, emotional but modern, photorealistic, realistic human movement, natural facial expressions, dramatic night lighting, beautiful neon city atmosphere, professional music-video cinematography, smooth camera movements, realistic physics, consistent character identity throughout the entire video.
+
+MAIN CHARACTER:
+A beautiful young female singer with long dark hair, expressive eyes, natural realistic face, subtle makeup, elegant modern black outfit, confident but emotional personality. Keep exactly the same face, hairstyle, body proportions and outfit throughout every scene.
+
+MUSIC:
+Create an original emotional modern pop song with a cinematic beat.
+Female vocal, soft emotional singing at the beginning, gradually building into a catchy powerful chorus.
+Modern pop production with atmospheric synths, soft piano, subtle drums and a strong beat drop near the middle.
+The music should feel emotional, cinematic and memorable.
+
+VOCAL / LYRICS:
+
+0–5 seconds:
+Soft female singing:
+"One more night, I call your name..."
+
+5–11 seconds:
+The beat slowly builds while she sings:
+"Running through the memories,
+nothing feels the same..."
+
+11–19 seconds:
+Beat becomes stronger and she sings the main chorus with emotion:
+"But I'm still here, I'm still alive,
+leaving yesterday behind."
+
+19–25 seconds:
+Music becomes instrumental and emotional.
+No additional lyrics.
+End with a beautiful cinematic musical outro.
+
+STORY AND VISUALS:
+
+SCENE 1 — 0–5 SEC:
+Rainy neon city at night.
+The female singer walks alone down a beautiful empty street.
+Wet pavement reflects colorful city lights.
+She looks emotional but calm.
+Camera starts with a cinematic wide shot and slowly moves toward her face.
+She looks into the camera and softly sings:
+"One more night, I call your name..."
+Natural lip-sync matching the lyrics.
+Rain falling naturally, realistic reflections, cinematic depth of field.
+
+SCENE 2 — 5–11 SEC:
+She continues walking through the glowing city.
+As she sings:
+"Running through the memories, nothing feels the same..."
+Show quick cinematic memory flashes around her:
+warm sunlight, laughing, walking through a beautiful location, then the memories disappear.
+Use smooth transitions between memories and reality.
+Camera moves around her in a slow 180-degree cinematic motion.
+Her expression becomes more emotional.
+Perfect lip-sync.
+
+SCENE 3 — 11–15 SEC:
+The beat suddenly becomes stronger.
+She enters an empty subway station and walks toward the camera.
+Lights flicker subtly with the beat.
+Camera tracks backward smoothly as she sings:
+"But I'm still here..."
+Her expression changes from sadness to confidence.
+Realistic walking, natural hair movement and realistic clothing physics.
+
+SCENE 4 — 15–19 SEC:
+She reaches a rooftop overlooking a massive glowing city.
+Wind moves her hair naturally.
+She performs the chorus:
+"I'm still alive,
+leaving yesterday behind."
+Camera slowly circles around her while the city lights create a spectacular cinematic background.
+Music reaches its emotional peak.
+Strong but natural performance, accurate lip-sync.
+
+SCENE 5 — 19–22 SEC:
+The music drops into an emotional instrumental section.
+Close-up of her face.
+She takes a breath and smiles slightly.
+The rain stops.
+The first warm light of sunrise begins appearing behind the buildings.
+Slow cinematic push-in toward her face.
+
+SCENE 6 — 22–25 SEC:
+Beautiful transition from night into sunrise.
+She turns away from the camera and walks toward the warm morning light.
+Camera pulls back into a wide aerial-style cinematic shot.
+The city is glowing beneath the sunrise.
+She keeps walking forward confidently.
+End on a beautiful cinematic wide shot as the music fades out.
+
+CAMERA:
+Professional music-video cinematography.
+Smooth dolly movements, slow push-ins, cinematic tracking shots, subtle handheld moments, 35mm lens look, shallow depth of field for close-ups, wide-angle shots for the city and rooftop, realistic motion blur.
+
+VISUAL QUALITY:
+Photorealistic, cinematic, high detail, realistic skin texture, realistic eyes, realistic hair, realistic rain, realistic reflections, natural lighting, physically accurate movement, premium music-video quality, no cartoon look.
+
+AUDIO:
+Original music only.
+Clear female vocals.
+Lyrics must be sung naturally and rhythmically.
+Accurate lip-sync.
+Music and vocals should sound like a professionally produced modern pop song.
+No spoken dialogue.
+
+CONTINUITY:
+Maintain exactly the same female character, face, hairstyle, body proportions and clothing across every scene.
+No face changes.
+No identity changes.
+No extra fingers or distorted hands.
+No unnatural body movement.
+No random text, logos, subtitles or watermarks.
+No sudden costume changes.
+
+FORMAT:
+Vertical 9:16.
+25 seconds.
+Designed for X/Twitter and short-form social media.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099724933035343872/img/qNCB03bjC814Ie17.jpg" width="600" alt="Neon Rain Music Video Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10869)**
+
+**Author:** [Calira](https://x.com/CaliraVal) | **Source:** [Link](https://x.com/CaliraVal/status/2099725385571389852) | **Published:** Sep 15, 2026
+
+---
+### Seedance 2.0 Mini Xianxia Comedy Short Film Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A detailed prompt for generating a 15-second cinematic Chinese Xianxia short film using Seedance 2.0 Mini. It features a comedic narrative where a challenger realizes he is lower in seniority than the sword immortal he is fighting, with specific instructions on character consistency, camera angles, dialogue timing, and visual style.
+
+#### 📝 Prompt
+
+```
+Seedance 2.0 Mini | 15-second Xianxia short film prompt
+Project Goal
+
+Generate a strictly 15-second, 16:9 landscape, cinematic realistic Chinese Xianxia short film.
+
+Overall Style Requirements:
+
+Cinematic realistic texture
+Pure ancient-style Chinese Xianxia aesthetics
+Epic challenger entrance shot grammar
+Deadpan comedy
+Silent-film style reaction rhythm
+Efficiency of Hong Kong action comedy
+Classic three-beat progressive structure
+Arri Alexa film camera texture
+Stable clear facial micro-details
+Delicate film grain
+Natural volumetric lighting
+Native synchronized Mandarin dialogue
+Do not generate subtitles
+Core Comedy Line
+
+Keep only one comedy line that can be understood immediately on the first watch:
+
+A young enemy swordsman comes to challenge the Sword Immortal Senior Sister aggressively, expecting a legendary duel to begin immediately.
+As a result, through the master-disciple relationship he himself reveals, it is suddenly discovered on site:
+According to martial arts seniority, he is actually one generation lower than the Sword Immortal Senior Sister.
+
+Thus, the originally serious life-and-death challenge instantly turns into an extremely awkward 'recognizing relatives' martial arts etiquette scene.
+
+The jokes must only come from:
+
+Status reversal
+
+Pure ancient-style martial arts etiquette
+Strictly executing seniority rules
+Must NOT rely on:
+
+Random environmental accidents
+
+Low-level embarrassment
+Exaggerated silly acting
+Reference Image Binding
+Character Identity Anchors
+@Image 1
+Corresponds to Sword Immortal Senior Sister
+
+Always maintain:
+
+25–30 year old East Asian female
+
+Tall and slender figure
+Oval face
+Dark almond eyes
+Black long hair half-up
+Fixed with white jade hairpin
+Same set of white embroidered silk Hanfu
+Silver waist seal
+Jade pendant
+White cloth boots
+Single silver long sword
+@Image 2
+Corresponds to Junior Sister
+
+Always maintain:
+
+20–25 year old East Asian female
+
+Small stature
+Round lively face
+Black hair braided
+Same set of cyan-green linen Hanfu
+Dark belt
+Wooden hairpin
+Black cloth shoes
+Single dark steel sword
+Background and Space
+All newly uploaded background and location reference images this round jointly determine the same environment DNA.
+
+Before generation, silently integrate:
+
+Real terrain
+
+Architectural language
+Material age feel
+Spatial scale
+Vegetation
+Water bodies
+Weather
+Mountain mist
+Main light direction
+Reflection relationships
+Air depth
+Real walkable routes
+Re-plan as a complete unified, believable new space.
+
+Environment Rules
+
+The following elements in the background remain naturally alive:
+
+Natural wind
+
+Water bodies
+Vegetation
+Cloud layers
+Distant ordinary disciples
+Spatial ambient sound
+But in terms of narrative, it must be absolutely neutral, cannot actively create gags, nor help push the jokes.
+
+Shot Structure
+
+0–5s | First Shot | Challenge Entrance
+Shot Size
+Full shot or wide shot
+
+Visual
+
+The same Sword Immortal Senior Sister and the same Junior Sister stand in an open area naturally formed based on this round's reference images.
+
+A young enemy swordsman strides into the frame, suddenly draws his sword, and announces with great momentum:
+
+"Sword Immortal! I am ordered by my master to defeat you!"
+
+The same White-Robed Sword Immortal shows no tension at all, calmly asks:
+
+"Who is your master?"
+
+The enemy answers extremely proudly:
+
+"Zhao Wuchen!"
+
+Requirements
+
+This shot must first establish a truly epic sense of challenge
+The enemy's entrance must be serious, not funny
+The Sword Immortal Senior Sister's calmness creates the first contrast
+Spatial relationships are clear, character positioning is stable
+5–10s | Second Shot | Seniority Reversal
+Shot Size
+Medium shot or cowboy shot
+
+Visual
+
+Maintain the same characters, same costumes, same long swords, and completely consistent geographical space.
+
+The same elderly Master, who has been sitting naturally a few steps behind the two people, casually raises his eyes as if hearing a familiar name, and says calmly:
+
+"Little Zhao, I taught him for three years."
+
+The whole scene goes quiet.
+
+The same enemy very slowly turns his head to look at the Master, and the momentum on his face begins to loosen for the first time.
+
+The same Junior Sister immediately seriously calculates the seniority relationship, then says with utmost seriousness:
+
+"Then you have to call Senior Sister... Shigu (Master's Sister)."
+
+The enemy's entire body freezes on the spot, repeating in disbelief:
+
+"Shigu?"
+
+The same Sword Immortal Senior Sister maintains absolute dignity and seriousness throughout.
+
+Requirements
+
+The punchline of this shot must land clearly
+"Shigu" must become the first real explosion point of the comedy
+The Master's tone should be as casual as possible
+The Junior Sister must not be mocking, but seriously calculating seniority
+The enemy's momentum must genuinely collapse for the first layer
+10–15s | Third Shot | Etiquette First
+Shot Size
+Close-up or extreme close-up
+
+Visual
+
+The long sword in the same enemy's hand has unconsciously lowered a bit, yet still tries to maintain the dignity of a challenger:
+
+"I came to challenge today."
+
+The same elderly Master answers with utmost seriousness:
+
+"Challenge is challenge, but seniority cannot be messed up."
+
+The same Junior Sister nods extremely seriously and adds:
+
+"Call me first."
+
+Leave a full half-beat pause that is extremely painful for the enemy.
+
+The enemy tries to speak several times, but finally squeezes out a very small sentence:
+
+"... Shigu."
+
+The same White-Robed Sword Immortal nods extremely dignifiedly, answering with just one word:
+
+"Good."
+
+The same Junior Sister instantly turns her face to the other side, shoulders trembling slightly, desperately holding back laughter.
+
+The enemy's face is about to break down, but he still raises his own sword again:
+
+"Can we fight now?"
+
+The same Sword Immortal Senior Sister calmly pulls the silver long sword about half an inch out of the scabbard, her gaze finally entering a true expert state, yet still unhurriedly answers:
+
+"Yes, Shizhi (Junior Nephew)."
+
+The enemy's expression collapses on the spot again.
+
+Precisely cut to black on this second mentally traumatized expression.
+
+Requirements
+
+"Good" is the second obvious joke
+"Yes, Shizhi" is the final counter-strike
+The Senior Sister must always be dignified and serious, not deliberately teasing
+The Junior Sister must hold back laughter strongly, but not steal the scene
+The enemy must not act stupid, only trapped by etiquette
+Acting Requirements
+Sword Immortal Senior Sister
+Calm throughout
+Dignified throughout
+Does not tease people
+Acts as if really following martial arts etiquette
+When half-drawing the sword at the end, the aura of a true expert must be clearly established
+Junior Sister
+Responsible for seriously deducing seniority relationships
+Comedy comes from being overly serious
+Not buffoonery
+Holding back laughter must be restrained
+Elderly Master
+Utmost seriousness
+The more casual the tone, the better
+Like just correcting a perfectly normal etiquette issue
+Young Enemy Swordsman
+Must really be an aggressive challenger in the first half
+Momentum collapses little by little when seniority is reversed
+Cannot act like a fool
+Jokes come from dignity being held hostage by etiquette
+Photography and Sound Requirements
+3 continuous clear shots
+Total duration strictly 15 seconds
+16:9 landscape
+Native synchronized Mandarin dialogue
+Precise lip-sync
+Clear comedic pauses
+Foreground, midground, background maintain real parallax
+Spatial ambient sound exists realistically
+Physical effects of silk fabric and hair are natural
+Camera is restrained and stable, no showing off
+Sound Focus
+Sword drawing sound is clear
+Environmental wind, water sounds, distant spatial sounds are natural
+Key pauses must allow dialogue to land well
+"Shigu"
+"Good"
+"Shizhi"
+These three words must become clear beat points
+Continuity Requirements
+Must remain stable throughout:
+Character identity
+
+Hairstyle
+
+Face
+Costume
+Long sword
+Master's position
+Geographical space
+Gaze relationships
+Light direction
+Background structure
+Avoid Items
+blurry
+bad quality
+low quality
+low resolution
+noisy
+jpeg artifacts
+watermark
+text
+error
+deformed
+mutated
+bad anatomy
+poorly drawn hands
+bad composition
+out of frame
+disfigured
+inconsistent character
+changing clothes
+face morphing
+background shift
+glitching cuts
+disappearing props
+Exaggerated silly expressions
+Low-level pranks
+Environmental accident gags
+Random buffoonery
+Subtitles
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099714929926500352/img/9fXKFlrwH7-saZqG.jpg" width="600" alt="Seedance 2.0 Mini Xianxia Comedy Short Film Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10872)**
+
+**Author:** [Soran](https://x.com/Soranlan) | **Source:** [Link](https://x.com/Soranlan/status/2099714995458363481) | **Published:** Sep 15, 2026
+
+---
+### Seedance 2.0 Chinese Fantasy Battle Video Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A highly detailed prompt for generating a 30-second 2D hand-drawn Chinese fantasy animation featuring a battle between a monkey-like swordsman and a nine-headed serpent, with specific camera movements, combat choreography, and visual effects.
+
+#### 📝 Prompt
+
+```
+【Global · Art Style Setting】 Top-tier 2D hand-drawn Chinese style animation, exquisite character standing illustration level texture (referencing high-precision game illustrations). Clear and sharp lines, full and transparent colors, rich light and shadow layers, retaining the silky high-frame smoothness and exaggerated deformation tension of 2D animation. Grand floating sea cliff divine war ruins, giant cliffs suspended over raging waves, black clouds pressing down, cyan lightning tearing the sky, wild winds rolling up thousands of waves and water mist, broken walls and shattered stone pillars faintly visible in wind and rain. Chainable destruction: Sea cliff cracks → Stone pillars collapse → Divine light explodes → Seawater shoots to the sky, destruction traces permanently retained.    【Global · Characters and Opponent】 Protagonist: 2D exquisite standing illustration style. Ink-black long hair dancing wildly, eyes cold and arrogant, a touch of dark blue water drop divine pattern on the forehead, wearing a dark gray-blue-white battle-damaged long robe, carrying a sword on the back, clothes fluttering violently with movements. Action characteristics: Extremely flexible like a monkey, using all four limbs for bouncing, aerial rolls, wall-clinging leverage, elusive footwork, full-speed movement turning into cyan-gold-red 2D flowing light afterimages. Opponent (Giant Nine-Headed Serpent): 2D hand-drawn behemoth. Snake body as thick as mountains, dark black scales flashing with ghostly green toxic light, nine huge snake heads slender like dragon necks, crimson vertical pupils. Injury system: Being hit splashes dark green and dark red blood, scales crack, blood gushes from severed heads, corpses permanently retained on the sea cliff, finally collapsing after total annihilation, smashing the sea cliff.    【Global · Core Rules and Iron Laws】 60fps high frame, 2D hand-drawn animation, fast-paced throughout, no slow motion/freezes/bullet time. Action density: High-speed combo sections 8-12 actions/sec, SSS-level immortal technique sections 14-18 actions/sec. Impact feel = Brightness surge + Camera push-in + Shockwave expansion + Hit target flying violently. Pseudo one-shot (WHIP/PUSH/DOLLY). Scene destruction permanently retained. Both sides counterattack violently in every shot. Pure action flow.    【Storyboard · 30 Seconds · Protagonist 2 Skills + Opponent 2 Skills · Ultimate Flexible Monkey-style Footwork · Bleeding on Injury · Corpse Retention】    Shot 1 (t0-1s) MS + Ground-hugging tracking long shot: 0-frame start, protagonist jumps down from the left side of the floating sea cliff hanging upside down, bouncing frantically on the cliff wall using all four limbs like an ape, sliding on the ground through the first wave of bites by the nine-headed serpent and leveraging off a pillar, slashing horizontally across the snake's neck with a reverse hand strike causing dark green blood to splash, low-angle upward shot combined with ground-hugging tracking shot, camera shakes violently upon landing.  Shot 2 (t1-3s) MS + High-speed lateral tracking shot: Protagonist continuously rolls in the air like an ape, using all four limbs to bounce pendulum-style between the nine heads of the serpent, dodging bites to the left and thrusting upward to slash the snake's neck to the right, creating cyan-gold-red 2D afterimages and ink burst effects, the nine-headed serpent spits ghostly green poison breath and sweeps its tail, high-speed lateral tracking shot follows closely.  Shot 3 (t3-5s) MCU + Extreme speed whip pan: The nine-headed serpent activates Skill 1 [Nine Heads Poison Prison], all nine heads simultaneously spit ghostly green poison breath and black magic thunder forming a poison-thunder field covering the entire scene, the protagonist climbs the wall, rolls extremely to dodge within the gaps of the poison-thunder field like a spirit monkey, then strikes with a reverse chop, elbow strike, spin kick, and side kick in a four-hit combo consecutively hitting the snake heads, each hit exploding with cyan-gold-red 2D ink dots and dark green blood mist, extreme speed whip pan from left to right.  Shot 4 (t5-8s) MS + 2D Orbit Shot: Protagonist spins and forms a seal to activate Skill 1 [Cyan-Gold-Red · Spirit Ape Treading Void Slash], transforming into cyan-gold-red 2D afterimages shuttling frantically back and forth among the nine heads of the serpent, leaving ape-like figure afterimages with each turn while synchronously swinging the sword to strangle, snake necks spurting dark green ink-blood, the nine-headed serpent frantically shaking its head and biting back, 2D orbit shot continuously following the extreme speed afterimage trajectory.  Shot 5 (t8-10s) FS 0.5s → MS: The range of Spirit Ape Treading Void Slash expands to the extreme, full-screen cyan-gold-red 2D sword qi bursts out simultaneously sweeping most of the screen, two heads of the nine-headed serpent are chopped off, wounds spurting large amounts of dark green blood, the beast roars at the sky in grief, wide shot 0.5s then extreme speed whip pan back to MS.    Shot 6 (t10-12s) MS + FPV Back-tracking: Zero gap transition between segments, protagonist transforms into cyan-gold-red 2D flowing light teleporting through the group to behind the nine-headed serpent, landing and sweeping horizontally, impact point exploding with ring-shaped 2D shockwaves and cyan-gold-red splash ink waves, remaining seven heads of the nine-headed serpent simultaneously counterattack spitting black thunder and poison breath, FPV back-tracking follows, protagonist immediately reverses direction and charges in.  Shot 7 (t12-15s) MCU + Extreme Speed Push In: The nine-headed serpent activates Skill 2 [Ten Thousand Snakes Devour Heaven Bite], seven snake heads simultaneously transform into huge black shadows frantically biting and encircling, the protagonist bounces off snake heads for leverage, rolls in the air, spinning and forming a seal to activate Skill 2 [Cyan-Gold-Red · Thousand Mechanisms Breaking Wave Array], waving the long sword to condense massive cyan-gold-red lightning sword qi, thrusting frantically back and forth between snake heads, sword qi piercing through snake necks along the path like wild cursive calligraphy causing chain explosions, snake heads splashing dark green blood, extreme speed push in locking onto the penetration center.  Shot 8 (t15-18s) FPV + Ground-hugging Tracking: Thousand Mechanisms Breaking Wave Array continues to expand, protagonist slides on the ground in lightning afterimages to dodge the tail sweep, leaps up and slashes down, charging in from three directions, cyan-gold-red lightning and 2D ink dots explode and sea cliff ground cracks are permanently retained, the nine-headed serpent dives from mid-air to bite, ground-hugging tracking + extreme speed whip pan.  Shot 9 (t18-20s) FS 0.5s → MS: Thousand Mechanisms Breaking Wave Array engulfs most of the screen, the nine-headed serpent has three more heads chopped off, wounds spurting blood like rain, the beast's massive body is pierced by lightning and knocked back, wide shot 0.5s then whip pan back to close-up.    Shot 10 (t20-22s) MCU Low Angle Upward Pan: Zero gap transition between segments, protagonist leaps into the air and forms a seal, remaining four heads of the nine-headed serpent roar at the sky in dying counterattack, spitting black thunder and poison breath trying to kill, protagonist shuttles extremely fast between heaven and earth, MCU low angle upward pan.  Shot 11 (t22-26s) FS Full Screen Overhead Rotation: Protagonist's dual skill combo explosion, full-screen cyan-gold-red 2D divine swords and lightning bombard the nine-headed serpent's entire body like heavy rain, covering the whole screen, each falling sword light explodes with 2D mushroom clouds, protagonist shuttles extremely fast harvesting between sword rains like a spirit monkey, the nine-headed serpent's massive body is nailed to the sea cliff by divine swords struggling frantically, remaining heads chopped off one by one, blood spurting, full screen overhead rotation.  Shot 12 (t26-28s) MS + FPV: In the aftermath, protagonist uses extreme sword shuttle followed by spin slash to clear remnants, cyan-gold-red 2D dust surges to the sky and three-color ink threads densely packed, the nine-headed serpent's dying counterattack is instantly shattered by cutting off the last head, FPV back-tracking.  Shot 13 (t28-29s) MCU + Extreme Speed Whip Pan: Protagonist dashes left and right pendulum turns, slashes left and thrusts right, bringing out cyan-gold-red 2D afterimages and ink burst effects with sword shadows forming sheets, the headless body of the nine-headed serpent collapses crashing into the sea cliff, corpse heavily landing on the ruins, extreme speed whip pan.  Shot 14 (t29-30s) CU End Frame Total Annihilation of Beast: Protagonist stands atop the sea cliff sheathing the sword horizontally in front, full-screen cyan-gold-red 2D light explosion completely evaporates the nine-headed serpent's remains into sky-wide 2D particles and dark green debris, the massive corpse of the nine-headed serpent is permanently retained on the collapsed sea cliff ruins, dark green blood continues to flow from the severed neck, no living beasts remain in the picture, protagonist slightly raises head with arrogant gaze, CU extreme speed push in + freeze 0.3-0.5s, declaring total annihilation.    【Complete Negative Prompt】 Forbidden: 3D rendering, UE5, Lumen, realistic style, photorealistic, Western cartoon, Pixar style, plastic feel, monochrome effects, text, watermark, UI, subtitles, LOGO, stiff jump cuts, static, face-to-face staring, move collision stalemate, uncontrolled blood spray, limb dismemberment, internal organs, wound close-ups, skin tearing, limb distortion, joint hyperextension, extra fingers, eye deformation, character facial breakdown, effects blocking face, camera glitches, perspective errors, proportion imbalance, character overlapping clipping, sluggish actions, frozen actions, interrupted combos, stationary output, charging standoff, posing, sheathing sword, end-of-battle feeling, panting/resting, same speed throughout, slow motion, slow shots, freezes, pauses, frame freezing, hit-stop, bullet time, time stagnation, long wind-up, post-attack pause, beast stops counterattacking, beast standing still getting beaten, one-sided absolute crushing without counterattack, one-sided damage reception, empty areas in picture, beast static, beast not shuttling to fill positions, half-hearted beast counterattacks, human injury, human bleeding, physical cutting, penetration, piercing, extreme wide shot EWS, zooming out, distant view, wide shot fighting, motion blur, 2D effects too thin, lack of sense of speed, hits without explosive feel, weak attack feedback, no reaction from hit target, effects not filling screen, skills not covering most of the screen, large blank areas in picture at release moment, effects concentrated only on protagonist instead of engulfing the screen, wrong skill names, non-combat segments, too much dialogue, end frame does not show total annihilation of beast, elite monsters, demon generals, BOSS, small mobs, humanoid demons, snake clipping, Wu Shan Five Elements.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099329220824715264/img/pNkPrzhMrEmR6urK.jpg" width="600" alt="Seedance 2.0 Chinese Fantasy Battle Video Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10873)**
+
+**Author:** [Arvin](https://x.com/Arvin010717) | **Source:** [Link](https://x.com/Arvin010717/status/2099694643080483001) | **Published:** Sep 15, 2026
+
+---
 ### Seedance 2.0 Cinematic Xianxia Combat Prompt
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -650,34 +1166,34 @@ Directly completes one extremely short forward push
 **Author:** [Soran](https://x.com/Soranlan) | **Source:** [Link](https://x.com/Soranlan/status/2099446391437488585) | **Published:** Sep 14, 2026
 
 ---
-### Seedance 2.0 Mini Xianxia Short Film Prompt
+### Seedance 2.0 Mini Tactical Suspense Xianxia Prompt
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A highly detailed prompt for generating a 15-second cinematic Chinese Xianxia short film using Seedance 2.0 Mini. It includes specific instructions for character consistency, camera movements, dialogue timing, and visual aesthetics like Arri Alexa quality.
+> A prompt for a 15-second cinematic Xianxia short focusing on tactical suspense and plot twists using Seedance 2.0 Mini. Includes detailed character setups, misleading narrative structure, and strict visual/audio constraints.
 
 #### 📝 Prompt
 
 ```
 I. Task Objective
 
-Generate a strictly 15-second, 16:9 landscape, cinematic realistic quality Chinese Xianxia short film.
+Generate a strictly 15-second, 16:9 landscape, cinematic realistic Chinese Xianxia short film.
 
 Overall Style:
 
-Pure ancient Chinese Xianxia aesthetic
+Pure ancient Chinese Xianxia aesthetics
 Arri Alexa cinema camera texture
 Stable sharp facial micro-details
-Delicate film grain
+Fine film grain
 Natural volumetric light
 Mature tactical suspense
 Restrained but continuously tense emotional power
-Senior screenwriter-style dialogue driven by misdirection and subtext
-Action design simple, clear, readable, with true martial arts body logic
+Veteran screenwriter-style dialogue driven by misdirection and subtext
+Action design simple, clear, readable, truly with Wuxia body logic
 
 Core Twist:
 
-Everyone initially assumes the Sword Immortal Senior Sister pushed Junior Sister out to block the sword to escape the duel. As the plot progresses, the audience realizes that the enemy is the one truly trapped. He spent ten years studying how to defeat the most famous White-Robed Sword Immortal, but never seriously looked at the Junior Sister who always stood beside her and was despised by everyone.
+Everyone initially thinks Sword Immortal Senior Sister pushed Junior Sister out to block the sword to avoid the duel. As the plot progresses, the audience realizes the enemy is the one truly trapped. He spent ten years studying how to defeat the most famous White-robed Sword Immortal, but never seriously looked at the Junior Sister who always stood beside her, despised by everyone.
 
 Model Usage:
 
@@ -687,13 +1203,13 @@ II. Reference Usage Rules
 
 Character References
 
-Use the 1st uploaded character reference image and the 2nd uploaded character reference image as fixed identity anchors for the two protagonists.
+The 1st Character Reference Image and 2nd Character Reference Image in upload order serve as fixed identity anchors for the two protagonists.
 
 Background References
 
-All newly uploaded environment and location reference images in this round jointly determine a new unified environment DNA.
+All newly uploaded Environment and Location Reference Images in this round jointly determine a new unified Environment DNA.
 
-Before formal composition, silently reorganize and unify the following:
+Before formal composition, silently reorganize and unify the following content:
 
 Real terrain
 
@@ -703,58 +1219,58 @@ Materials
 Vegetation
 Water bodies
 Weather
-Mountain mist
+Mountain fog
 Reflections
 Main light direction
 Air depth
-Form a unique, complete, unified, and credible new space for this round.
+Form a unique, complete, unified, credible new space for this round.
 
 General Environment Principle
 
-The background remains continuously alive but narratively absolutely neutral.
+Background remains continuously vivid, but narratively absolutely neutral.
 
-Elements that persist naturally and maintain continuity include:
+Elements persisting naturally and maintaining coherence include:
 
 Wind
 
 Water bodies
-Mountain mist
+Mountain fog
 Vegetation
-Slight swaying of clothing
+Slight fabric swaying
 Reflections
-Distant figures
-Ambient spatial sounds
-These elements are only responsible for establishing a sense of real world, not actively creating conflict, helping either side, or deciding victory/defeat.
+Distant characters
+Spatial ambient sound
+These elements only establish a sense of real world, do not actively create conflict, do not help either side, do not decide victory/defeat.
 
 III. Character Settings
 
 Character ID A | Sword Immortal Senior Sister | Corresponds to 1st Character Reference Image
 
-Always maintain the same person, do not change face, costume, or weapon:
+Always maintain same person, no face/costume/weapon changes:
 
 25-30 year old East Asian female
 
 Oval fair face
 
-Dark apricot eyes
+Dark almond eyes
 Black long hair half-tied
 Fixed with white jade hairpin
-Tall and slender figure
+Tall slender figure
 White embroidered silk Hanfu
-Silver waistband
+Silver waist seal
 Jade pendant
 White cloth boots
-One single silver long sword
+Unique silver long sword
 Character Temperament:
 Calm
 
 Restrained
 
 Strong authority
-Deeper judgment of the situation
-Minimal emotional expression, but heavy impact
+Deeper judgment of situation
+Minimal emotional expression, but weighty
 Character ID B | Junior Sister | Corresponds to 2nd Character Reference Image
-Always maintain the same person, do not change face, costume, or weapon:
+Always maintain same person, no face/costume/weapon changes:
 
 20-25 year old East Asian female
 
@@ -762,105 +1278,105 @@ Round lively face
 
 Black hair braided
 Petite figure
-Greenish-blue linen Hanfu
+Green linen Hanfu
 Dark belt
 Wooden hairpin
 Black cloth shoes
-One single dark steel sword
+Unique dark steel sword
 Character Temperament:
-Usually underestimated
+Often underestimated
 
 Sharp reactions
 
-Simple and direct when actually fighting
-Initially slightly hesitant, then quickly stands firm
+Simple direct when actually acting
+Initial slight hesitation, then quickly stands firm
 Other Characters
-One truly powerful enemy swordsman
+One truly capable enemy swordsman
 
-One elderly master
+One elderly Master
 
 Two sect disciples
 Several distant witnesses
-Other characters are only responsible for highlighting the main line, not stealing the emotional center.
+Other characters only serve to highlight the main line, do not steal emotional center.
 IV. Shot Structure
 
-Shot 1 | 0-5s | "She's coming"
+Shot 1 | 0-5s | "She Comes"
 
-Shot Size & Camera Movement
+Shot Size & Movement
 
-Wide shot or long shot
+Full shot or long shot
 
-Restrained, stable camera movement
+Movement restrained, stable
 
-Cleanly establish character positioning and spatial relationships
+Establish character positioning and spatial relationships cleanly
 
 Maintain real parallax
 Visual Content
-The same enemy swordsman stands directly in front of the two women
-The same elderly master, two sect disciples, and several distant witnesses exist only as secondary figures
+Same enemy swordsman stands directly in front of two women
+Same elderly Master, two sect disciples, and several distant witnesses exist only as secondary figures
 
-The frame clearly establishes a three-way standoff relationship
+Frame clearly establishes three-way standoff relationship
 
 Dialogue & Performance
 Enemy shouts directly:
-"White-Robed Sword Immortal, come out."
+"White-robed Sword Immortal, come out."
 
-The same Senior Sister stands still, does not move, calmly says:
+Same Senior Sister stands in place, does not move, only calmly says:
 
-"She's coming."
+"She comes."
 
-The same Junior Sister instantly turns her head:
+Same Junior Sister instantly turns head:
 
 "Me?"
 
 Enemy can't help sneering:
 
-"Using junior sister to block the sword?"
+"Using junior sister to block sword?"
 
 Performance Focus
 
-Senior Sister offers no explanation, no extra movements
+Senior Sister does not defend, no extra movements
 
-Junior Sister's first reaction should be natural, brief, with a hint of surprise
+Junior Sister's first reaction must be natural, brief, with a hint of surprise
 
-Enemy's tone contains genuine contempt
+Enemy's tone contains real contempt
 
 Audience must be misled in this shot, thinking Senior Sister really pushed her out
-Shot 2 | 5-10s | "So he will only beat me"
-Shot Size & Camera Movement
+Shot 2 | 5-10s | "So He Only Knows How to Beat Me"
+Shot Size & Movement
 Medium shot or cowboy shot
 
-Maintain exactly the same geographic space as the previous shot
+Maintain completely consistent geographic space with previous shot
 
-Actions and dialogue must be clear and readable
+Actions and dialogue must be clear, easy to read
 
 Dialogue & Performance
 
 Junior Sister stares at Senior Sister:
-"Are you really making me fight?"
-Senior Sister answers calmly:
+"You really want me to go up?"
+Senior Sister calmly answers:
 
-"He has deconstructed my sword manual for ten years."
+"He dismantled my sword manual for ten years."
 
-Keep a half-beat pause.
+Keep half-beat pause.
 
-Junior Sister lowers her voice:
+Junior Sister lowers voice:
 
-"So use me to test him?"
+"So testing with me?"
 
 Only then does Senior Sister truly look at her:
 
-"So he will only beat me."
+"So he only knows how to beat me."
 
-The scene falls instantly silent.
+Scene instantly quiet.
 
 Action Design
 
-Immediately after, the enemy suddenly draws his sword.
+Immediately after, enemy suddenly draws sword.
 
-The enemy uses a mature counter-action set clearly prepared over many years, specifically designed to counter Senior Sister's habitual sword paths.
+Enemy uses a mature counter-action set obviously prepared for years, specifically restraining Senior Sister's habitual sword path.
 
-Junior Sister does not use complex ultimate moves, only completes a set of simple, fast, clear actions:
+Junior Sister does not use complex big moves, only completes a group of simple, fast, clear actions:
 
 Diagonal advance
 
@@ -868,124 +1384,125 @@ Cut into enemy blind spot
 
 One clear blade contact
 
-Deflect enemy weapon off centerline
+Push enemy weapon away from center line
 
 Action Requirements
-All actions must be simple, swift, physically reasonable
+All actions must be simple, quick, physically reasonable
 No flashiness
 No stacking moves
 
-Weapon trajectories must be understandable to the audience
+Weapon trajectories must be understandable to audience
 
-The key to victory comes from the enemy being completely unfamiliar with her
-Shot 3 | 10-15s | "Never calculated for her once"
-Shot Size & Camera Movement
+Key to victory/defeat must come from enemy being completely unfamiliar with her
+Shot 3 | 10-15s | "Never Calculated Her Once"
+Shot Size & Movement
 Close-up or extreme close-up
-Expressions, pauses, gaze relationships are core
+Expressions, pauses, eye-line relationships are core
 
 Keep frame stable, no exaggerated push/pull
 
 Visual Content
 
-Enemy loses balance, drops to one knee
+Enemy loses balance, lands on one knee
 
-Subject remains the three-person relationship
-Distant master and others maintain shallow depth of field presence
+Subject remains three-person relationship
+Distant Master and others maintain shallow depth of field presence
 Dialogue & Performance
 
-Enemy shows genuine shock for the first time:
+Enemy shows genuine shock for first time:
 
 "What sword technique is this?"
-Junior Sister instinctively looks back at Senior Sister, waiting for an answer as she did in the past.
+Junior Sister instinctively looks back at Senior Sister, waiting for answer as before.
 Senior Sister says nothing.
 
-Junior Sister pauses briefly, looks back at the enemy:
+Junior Sister pauses briefly, looks back at enemy:
 
 "I don't know."
 
-Enemy freezes:
+Enemy stunned:
 
-"You don't know?"
+"Don't know?"
 
-Junior Sister stabilizes her stance, answers only:
+Junior Sister stabilizes her stance, answers simply:
 
 "I just thought of it."
 
-In the extreme close-up, Senior Sister's restrained expression finally reveals a tiny, genuinely proud smile.
+In extreme close-up, Senior Sister's restrained expression finally shows a tiny, truly proud smile.
 
 Enemy looks past Junior Sister at Senior Sister:
 
-"Did you calculate this early?"
+"You calculated this early?"
 
 Senior Sister answers directly:
 
 "No."
 
-Keep a half-beat pause.
+Keep half-beat pause.
 
-Then refocuses on Junior Sister, saying the final line:
+Then refocuses gaze on Junior Sister, delivering final line:
 
-"But he calculated against me for ten years, and never calculated for her once."
+"But he calculated me for ten years, never calculated her once."
 
 Performance Focus
 
-When Junior Sister says "I just thought of it", it should be natural, direct, without showing off
+When Junior Sister says "I just thought of it", must be natural, direct, no showing off
 
-Senior Sister's last line should be calm but extremely powerful
+Senior Sister's last line must be calm, but extremely powerful
 
-Enemy truly realizes where he lost at this moment
+Enemy only realizes where he lost at this moment
 
-Ending stays on character relationships and cognitive reversal, no extra actions
+Ending stays on character relationship and cognitive flip, no extra actions
 
-V. Visual & Action Control Principles
+V. Visual and Action Control Principles
 
-Cinematography
+Photography
 Cinematic realism
 Arri Alexa texture
 Clear stable facial details
 
-Film grain restrained and natural
+Film grain restrained natural
 
 Light direction stable
 
 Camera movement clean, continuous, credible
 
-Action
-Few and precise
-Simple and clear
-Fast and readable
-Every action serves the plot twist
-No complex showmanship allowed
+Actions
+Few and accurate
+Simple clear
+Fast readable
+Every action serves plot twist
+No complex skill showing
 
-No exaggerated immortal magic ultimate moves allowed
+No exaggerated immortal magic big moves
 
-No illogical sword qi allowed
+No illogical sword qi
 Character Blocking
-Senior Sister always controls the situation but does not steal Junior Sister's completion of the battle
-Junior Sister gradually stands as the true protagonist from the illusion of being pushed out
-Enemy goes from contempt, to shock, to fully understanding his own blind spot
-Master and disciples are only responsible for highlighting, not interfering in combat
+Senior Sister always controls situation, but does not steal Junior Sister's battle completion rights
+Junior Sister gradually becomes true protagonist from illusion of being pushed out
+Enemy goes from contempt, to shock, to fully understanding his blind spot
+Master and disciples only highlight, do not intervene in battle
 VI. Sound Design
 
 Native synchronized Mandarin dialogue.
 
-Focus on enhancing the following sounds:
-Sword breaking wind sound
+Focus enhance following sounds:
+Blade wind-breaking sound
 Metal collision sound
 Footsteps
 
-Clothing rustling
+Fabric sounds
 
-Natural ambient sounds
+Natural environment sounds
 
 Breathing sounds
 
 Sound Requirements:
+
 Precise lip sync
-Stable audio-video sync
-Action nodes must have clear sound support
-Emotional pauses must dare to leave silence
-Do not use overly full soundtrack to suppress dialogue and weapon sounds
+Audio-video sync stable
+Action nodes need clear sound support
+Emotional pauses dare to leave silence
+Do not use overly full music suppressing dialogue and weapon sounds
 VII. Continuity Requirements
 
 Strictly maintain stability throughout:
@@ -1003,9 +1520,9 @@ Geographic space stable
 Light direction stable
 
 Weather stable
-Face does not drift
-Hairstyle does not change
-Action cause and effect clear
+Faces do not drift
+Hairstyles do not change
+Action causality clear
 VIII. Strictly Avoid
 Visual Issues
 blurry
@@ -1045,22 +1562,23 @@ Random sword qi
 Light pollution
 
 Excessive effects
-Soft weak actions
+
+Soft actions
 Unreadable combat
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2099430343053115392/img/BK75r_SM3mS9PwdT.jpg" width="600" alt="Seedance 2.0 Mini Xianxia Short Film Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099430343053115392/img/BK75r_SM3mS9PwdT.jpg" width="600" alt="Seedance 2.0 Mini Tactical Suspense Xianxia Prompt">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10868)**
 
 **Author:** [Soran](https://x.com/Soranlan) | **Source:** [Link](https://x.com/Soranlan/status/2099430859480895816) | **Published:** Sep 14, 2026
 
 ---
-### Bear Cub Driving Vintage Car Video Prompt
+### Cinematic Bear Driving Vintage Car
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for generating a charming, cinematic video of a bear cub interacting with and driving a vintage car in a countryside setting.
+> A video generation prompt for Seedance 2.0 creating a charming, ultra-realistic scene of a bear cub driving a vintage car through the countryside.
 
 #### 📝 Prompt
 
@@ -1068,18 +1586,18 @@ Unreadable combat
 Created a video in a cinematic, ultra-realistic storytelling style: a cute brown bear cub walks across a peaceful countryside farm toward an old vintage blue car parked near a rustic wooden barn. The bear curiously approaches the car, climbs inside, and naturally sits in the driver’s seat with its paws on the steering wheel. The camera captures close-up details of the bear’s realistic fur, expressive eyes, tiny paws, and the aged interior of the classic car. The car then starts moving slowly along a wet rural road, creating subtle reflections and natural motion. Wide cinematic shots reveal green fields, hay bales, a small farmhouse, and warm golden-hour sunlight in the background. Use smooth camera movements, realistic depth of field, soft lens flare, natural shadows, detailed textures, and authentic environmental lighting. The overall mood should feel charming, adventurous, cinematic, and slightly playful, with realistic animal movement and believable interaction with the car, filmed like a high-budget wildlife movie.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2099404139952570368/img/uRDYCVtTU7Szshi1.jpg" width="600" alt="Bear Cub Driving Vintage Car Video Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099404139952570368/img/uRDYCVtTU7Szshi1.jpg" width="600" alt="Cinematic Bear Driving Vintage Car">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10859)**
 
 **Author:** [liana](https://x.com/Lianaalane) | **Source:** [Link](https://x.com/Lianaalane/status/2099404551199809774) | **Published:** Sep 14, 2026
 
 ---
-### Korean University Student Daily Life Video Prompt
+### Korean University Girl Daily Life
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for generating a cinematic, realistic lifestyle video following a young Korean university student through a peaceful day, from commuting to studying and socializing.
+> A prompt for Seedance 2.0 to create a cinematic lifestyle video following a Korean university student through her daily activities, from commuting to relaxing at sunset.
 
 #### 📝 Prompt
 
@@ -1097,7 +1615,7 @@ End with the main girl riding home on a modern train at night, looking through t
 Style: photorealistic Korean lifestyle, cinematic storytelling, premium commercial quality, natural expressions, realistic skin and hair, soft lighting, smooth camera movements, shallow depth of field, detailed environments, emotional and cozy atmosphere, 4K, no text, no logos, no watermark.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2099369815244939265/img/zsMWACbztck3PCf6.jpg" width="600" alt="Korean University Student Daily Life Video Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099369815244939265/img/zsMWACbztck3PCf6.jpg" width="600" alt="Korean University Girl Daily Life">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10857)**
 
@@ -1125,11 +1643,11 @@ Cinematic beauty commercial style, shallow depth of field, soft highlights on sk
 **Author:** [Noor](https://x.com/noorlewisx) | **Source:** [Link](https://x.com/noorlewisx/status/2099360578741354744) | **Published:** Sep 14, 2026
 
 ---
-### Gothic Eastern Woman Rain Ruins Video Prompt
+### Tattered Bride Ruins Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed storyboard prompt for a music video featuring an Eastern woman in a tattered wedding gown in rainy ruins, used to compare Seedance 2.0 and Kling 3.0.
+> A detailed prompt for a 15-second video of a bride in a tattered crimson gown in ancient Chinese ruins, used to compare Seedance 2.0 and Kling 3.0.
 
 #### 📝 Prompt
 
@@ -1143,18 +1661,18 @@ Style and atmosphere: Cinematic quality, dark gothic style, high contrast, strik
 Negative: Low quality, stutter, face/body collapse, over-bright, excessive gore, stiff motion, watermark, T-pose, bright palette, flashy VFX, rigid camera, lack of speed/blur, weak kills.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2099327320666648576/img/IhX88LYqnukZgLDA.jpg" width="600" alt="Gothic Eastern Woman Rain Ruins Video Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099327320666648576/img/IhX88LYqnukZgLDA.jpg" width="600" alt="Tattered Bride Ruins Video">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10862)**
 
 **Author:** [Zidan 子丹](https://x.com/liluocheng13) | **Source:** [Link](https://x.com/liluocheng13/status/2099327675244720565) | **Published:** Sep 14, 2026
 
 ---
-### Three Kingdoms Battlefield Cinematic Video Prompt
+### Epic Three Kingdoms Battlefield Video Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for generating an epic Three Kingdoms battlefield video with Hollywood blockbuster aesthetics, featuring hyper-realistic armor and dynamic camera movements.
+> A detailed cinematic video prompt for generating an epic Three Kingdoms battle scene with Hollywood blockbuster aesthetics, hyper-realistic armor, and dynamic camera movements.
 
 #### 📝 Prompt
 
@@ -1165,7 +1683,7 @@ No subtitles, no dialogue, no narration throughout.
 🚫 Negative prompts (avoid cheap-looking results): cartoon, anime, fake armor, floating weapon, bad anatomy, blurry face, cheap CGI, low detail horse, duplicated limbs, weak impact, soft action.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2099316383633051648/img/v5mB87o4C-_Ojcoe.jpg" width="600" alt="Three Kingdoms Battlefield Cinematic Video Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099316383633051648/img/v5mB87o4C-_Ojcoe.jpg" width="600" alt="Epic Three Kingdoms Battlefield Video Prompt">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10856)**
 
@@ -4597,151 +5115,6 @@ Shot 25 (28.2–30s): Exterior wide shot: motionless train at the checkpoint, se
 **Author:** [WasifAI](https://x.com/doctorwasif) | **Source:** [Link](https://x.com/doctorwasif/status/2096097630317392019) | **Published:** Sep 5, 2026
 
 ---
-### Expensive Makeup Product Promo Videos
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Three distinct options for creating high-end beauty commercial videos focusing on lip products, textures, and application.
-
-#### 📝 Prompt
-
-```
-Option 1: Soft Aesthetic UGC Product Showcase (Best for TikTok / Reels)
-Close-up shot of hands holding a dusty rose lip tint bottle with an applicator wand. The smooth lip gloss texture is swatched gracefully on fair skin. Aesthetic soft warm lighting, smooth camera motion, clean minimalist makeup desk background, high quality commercial video.
-Option 2: Lip Application & Swatch Focus (Trendy & Satisfying)
-Extreme close-up of glossy dusty-pink lips being gently applied with a lip tint wand applicator. Rich texture, high shine finish, velvety smooth blend. Elegant aesthetic, soft studio lighting, ultra-realistic beauty commercial style.
-Option 3: Aesthetic Product Unboxing & Swatch
-Aesthetic macro shot of a dusty mauve lip tint applicator pulling out of the bottle, revealing liquid lip tint texture. Smooth swatch movement on hand skin, shimmering glossy finish under warm aesthetic lights, slow motion beauty product video.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096095308006780928/img/4oy5bYNLR1BSaUEj.jpg" width="600" alt="Expensive Makeup Product Promo Videos">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10397)**
-
-**Author:** [AsmatAi](https://x.com/AsmatAi786) | **Source:** [Link](https://x.com/AsmatAi786/status/2096095449648443637) | **Published:** Sep 5, 2026
-
----
-### Anime Fluffy Cat Morning Routine
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed anime-style prompt for Seedance 2.0 capturing a fluffy white cat playing and cuddling with its owner in a sunlit apartment.
-
-#### 📝 Prompt
-
-```
-Created a video in soft anime style of a fluffy white cat with big sparkling teal eyes living in a bright modern apartment with large windows overlooking a sunny city skyline. The cat sits peacefully on the wooden windowsill, then walks gracefully toward the camera across the polished wooden floor. Close-up shots capture its cute face, twitching whiskers, and curious expression. It stands proudly in the sunlight, sits down elegantly, then playfully pounces after a small white ball. Later the cat looks up hopefully at a young man with dark wavy hair sitting at the dining table eating a sandwich, jumps onto a chair, and climbs onto the man’s lap. The man gently holds and hugs the cat while it nuzzles his hand and face. The video ends with them cuddling warmly on the grey sofa, the cat yawning contentedly in his arms under soft morning light.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096085739729739776/img/vDzamF8khIQ3Dxay.jpg" width="600" alt="Anime Fluffy Cat Morning Routine">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10402)**
-
-**Author:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Source:** [Link](https://x.com/ayzalnooor24521/status/2096085776735912274) | **Published:** Sep 5, 2026
-
----
-### 2007 Heisei Gal Documentary Style
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A meticulously detailed prompt for recreating a 2007 Japanese 'Gyaru' lifestyle video with early digital camera aesthetics and specific character consistency.
-
-#### 📝 Prompt
-
-```
-[Summary] A casual day in 2007 for a 19-year-old 'Hime Gyaru' (princess gal) with high-volume hair. A friend records her from the side using a compact digital camera's video mode without speaking. 480p, 16:9, 15 seconds. 7 hard-cut shots (approx. 2s each) in distinct locations. No transitions or fades. The subject does not acknowledge the camera: no eye contact, no showing objects, no waving, no posing. She is immersed in what she is doing. Fragments of daily life, not a performance. No dialogue, lines, or narration.
-
-[Subject] Definition of beauty: A glamorous Japanese beauty comparable to an exclusive model for gal magazines. More charming in candid moments than in posed faces. Face: Pale skin (realistic texture), thick brown eyebrows, large double-lidded eyes with heavy lashes (falsies), a small neat nose, glossy plump lips, small oval face. Hair: Light milk tea-colored 'Morigami' (puffed up hair). The crown is teased high and the ends are curled in large thick ringlets, a typical gal style of the era. Only half-curled in the morning shot. Clothing (casual wear, not overly styled): Pale pink knee-length dress, a white cardigan draped over the shoulders, low-heeled sandals, a large white bag (no text). Possessions: 'Decoden' (a flip phone covered in glittery rhinestones and pearls. Pink and white. Held closed, screen not visible). Habits: Checking hair shape by lifting it, stumbling slightly on heels. Face, hair, and clothing are identical in all shots.
-
-[Characters] Gal friend (camerawoman): Not visible, but occasional small laughs, breathing, and the rustle of adjusting the camera are included (no words). Driving friend: Visible only by shoulder and arm in the driver's seat in shots 3 and 7 (blonde bob, pink nails).
-
-[Era, Location, Light] Summer 2007. ① Morning in room (soft light through curtains. No mirror in frame). ② Outside corridor of apartment (white light). ③ Friend's car passenger seat (daylight, window slightly open). ④ Cafe terrace (afternoon sun, no signage). ⑤ Inside Ferris wheel gondola (evening orange, city outside window). ⑥ Night seaside promenade (streetlights and ocean darkness). ⑦ Back seat of car returning home (passing streetlights). Choose locations and angles where signs, text, logos, or screens do not enter the frame.
-
-[Camera] 2007 compact digital camera video mode texture: Noise in dark areas, slightly yellowish colors, handheld camera shake. Handheld, imperfect composition, occasional focus hunting, exposure fluctuations. Maintain 2-4m distance from subject, only zooming for hands or profile. The subject ignores the camera. No stabilization, gimbal, drone, slow motion, cinematic lighting, or commercial color grading. The camera is always positioned where a human would hold it (standing, sitting, crouching, walking, next seat). No impossible angles (air, water, ceiling, directly above, outside a moving car, inches from face). The filmer is a real person in the space; if the subject moves, they follow with a slight delay, sometimes with loose framing. No reflections in mirrors or glass.
-
-[Shots] (approx. 2s each. Location/Activity/Emotion & Gesture/Camera position):
-1. Room, soft morning light. Curling ends with a flat iron. Emotion: Focused on the hair struggle. Tip of tongue slightly out, checking the curled strand. Camera: From the side, no mirror.
-2. Apartment corridor, white light. Walking in sandals, stumbles once, touches wall. Emotion: Embarrassed. Looks around, then walks normally. Camera: From behind.
-3. Friend's car passenger seat, day. Closing eyes against the breeze from a cracked window. Emotion: Relaxation. Ignores hair blowing. Camera: Leaning from the back seat.
-4. Cafe terrace, afternoon. Saving the parfait cherry for last, then popping it in. Emotion: Happiness. Narrowing eyes, relaxing shoulders. Camera: Across the table.
-5. Ferris wheel gondola, evening. Forehead against window looking down at the city. Emotion: Pensive daze. Mouth slightly open. Camera: From the opposite seat.
-6. Night seaside promenade. Leaning on a railing, ignoring hair mess from sea breeze, stops holding it down. Emotion: Liberation. Eyes closed in the wind. Camera: From the side, under streetlights.
-7. Car back seat returning. Head leaning against window, falling asleep. Streetlights glint on decoden stones on lap (screen hidden). Emotion: Satisfied sleepiness. Camera: From adjacent seat, following the vibration. At approx 00:14, recording suddenly blacks out. No fade out.
-
-[Prop Details] Hair iron is white plastic with tangled cord. Decoden is pink/white rhinestones in a heart pattern, looks like a jewelry box when closed. White bag is faux leather, left open. Sandals have pink straps and low heels. Ferris wheel gondola has white plastic seats.
-
-[Text Prohibition] No readable text, logos, signs, labels, screen displays, or numbers in frame. Replace text-heavy items with plain versions.
-
-[Physics/Consistency] Real-world physics. No extra fingers, fused hands, distorted anatomy, floating objects, vanishing items, or sudden morphing. Feet grounded. Rhinestones, cap, backpack, and friend's clothes identical in all shots.
-
-[Sound] Natural ambient sound only (changes per shot): flat iron sound, sandals on corridor, car driving and wind, cafe dishes, Ferris wheel mechanics, sea/wind, night car driving. No words. Only occasional small laughs/breathing from filmer and subject allowed. No music. No narration. No artificial SFX.
-
-[Atmosphere] A record of an ordinary day that makes adults who knew 2007 think 'there were girls like that.' A collection of candid fragments, not posed. Nostalgic, bright, deeply human. Prioritize the feeling that a camera just happened to be there.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094091270738395138/img/EDfIIA0OcweMUn7Q.jpg" width="600" alt="2007 Heisei Gal Documentary Style">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10409)**
-
-**Author:** [妖精アーヤ](https://x.com/aiehon_aya) | **Source:** [Link](https://x.com/aiehon_aya/status/2095995325723156791) | **Published:** Sep 4, 2026
-
----
-### Preschool Vocabulary Learning Poster
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A clean and modern child-friendly vocabulary poster for learning fruits, designed with educational layouts and high-quality photography.
-
-#### 📝 Prompt
-
-```
-Create a clean, child-friendly educational vocabulary poster for preschool/kindergarten children, inspired by a simple visual learning card.
-
-Feature [FRUIT] as the main large realistic object on the left, and show a [PART / SLICE / SEGMENT] of the same fruit on the right. Connect the two with a playful dotted curved arrow and a tiny simple stick-figure child pointing toward the smaller part.
-
-Add the word “[FRUIT NAME]” in large bold uppercase letters at the top and “[PART NAME]” in large bold uppercase letters underneath the smaller image. Use a soft white and very light pastel-blue background, rounded image panels, clean spacing, realistic fruit photography, simple blue typography, and minimal playful illustrations.
-
-The overall design should feel bright, educational, modern, uncluttered, and easy for young children to understand, like a premium preschool vocabulary learning card. Vertical 4:5 composition, high resolution, soft lighting, clear labels, no unnecessary decorations.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095749270364368896/img/70QIbvdUo8O0Apo-.jpg" width="600" alt="Preschool Vocabulary Learning Poster">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10301)**
-
-**Author:** [AsmatAi](https://x.com/AsmatAi786) | **Source:** [Link](https://x.com/AsmatAi786/status/2095749328102936937) | **Published:** Sep 4, 2026
-
----
-### 1990s Hi8 Home Video Boy
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A nostalgic 1990s-style Hi8 video prompt featuring a young Japanese boy playing with a mini slot car on his holiday, captured with authentic lo-fi textures and natural movement.
-
-#### 📝 Prompt
-
-```
-[Overview] A 1990 holiday where a 9-year-old boy is obsessed with his motorized mini car and track. His father records him from a distance using a Hi8 camcorder without speaking. 480p, 16:9, 15 seconds. 7 hard-cut shots in 7 different locations. No transitions. The subject does not acknowledge the camera. No dialogue or narration.
-
-[Subject] A cute Japanese boy. Face: mash-style black hair, round face, big double-lidded eyes, freckles, large front teeth, tanned skin. Clothes: red sweatshirt, blue jeans, white sneakers, red cap. Props: small screwdriver, palm-sized mini car. Habit: sticking his tongue out when concentrating.
-
-[Timeline/Location/Light] Spring 1990. 1. Breakfast table. 2. Desk in room. 3. Living room track. 4. Park sandbox. 5. Car wash in front of house. 6. Veranda (evening). 7. In front of the TV at night.
-
-[Camera] 1990 Hi8 aesthetic: color bleeding, low resolution, easy overexposure, soft outlines. Handheld, natural shake, imperfect composition. No stabilizers, drones, or slow motion.
-
-[Shots] 1. Breakfast: Drinking milk and wiping mouth. 2. Desk: Tightening the car with a screwdriver. 3. Track: Following the start, losing, and putting head in hands. 4. Sandbox: Making a sand track. 5. Car wash: Accidentally spraying dad with a hose. 6. Veranda: Lining up parts and blowing on them. 7. TV: Falling asleep holding a controller. Recording blackouts suddenly at 0:14.
-
-[Physics] Realistic physics. No distorted anatomy or floating objects. Consistent clothing throughout.
-
-[Sound] Natural environment sounds: clinking dishes, motor sounds, water, father's laughter. No music.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094090513112776704/img/_6R1b60uq3Tz4_Oo.jpg" width="600" alt="1990s Hi8 Home Video Boy">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10302)**
-
-**Author:** [妖精アーヤ](https://x.com/aiehon_aya) | **Source:** [Link](https://x.com/aiehon_aya/status/2095632939199443237) | **Published:** Sep 3, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -4803,6 +5176,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-15T03:55:11.253Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-16T03:48:48.957Z</sub>
 
 </div>

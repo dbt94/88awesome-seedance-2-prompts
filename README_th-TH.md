@@ -68,9 +68,9 @@
 
 | เมตริก | จำนวน |
 |--------|-------|
-| 📝 พรอมต์ทั้งหมด | **6379** |
+| 📝 พรอมต์ทั้งหมด | **6384** |
 | ⭐ พรอมต์แนะนำ | **6** |
-| 🔄 อัปเดตล่าสุด | **2026-09-15** |
+| 🔄 อัปเดตล่าสุด | **2026-09-16** |
 
 ---
 
@@ -367,6 +367,558 @@ Modern Rural Creator, ผมยาวสีดำรวบขึ้นอย่�
 
 > 📝 เรียงตามวันที่เผยแพร่ (ใหม่ล่าสุดก่อน)
 
+### วิดีโอ Vlog สไตล์ชีวิตประจำวันแบบเกาหลี
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt สำหรับ Seedance 2.0 เพื่อสร้างวิดีโอ vlog ความยาว 28 วินาทีในสไตล์ภาพยนตร์ ติดตามหญิงสาวชาวเกาหลีผ่านสถานที่ต่างๆ โดยคงความสม่ำเสมอของตัวละครไว้
+
+#### 📝 พรอมต์
+
+```
+หญิงสาวชาวเกาหลีผมตรงสีดำ แต่งหน้าธรรมชาติ ดูอ่อนเยาว์และอบอุ่น สวมเสื้อคาร์ดิแกนสีอ่อนทับเสื้อเชิ้ตสีน้ำเงินคู่กับกระโปรงพลีทสีกรมท่า สร้างวิดีโอ vlog สไตล์ชีวิตประจำวันแบบเกาหลีความยาว 28 วินาทีในโทนภาพยนต์ ติดตามเธอผ่านห้องเรียนที่สว่างสดใสและหมู่บ้านริมทะเลอันเงียบสงบ เริ่มต้นด้วยช็อตเซลฟี่ระยะใกล้ของเธอที่ยิ้มอย่างเป็นธรรมชาติเข้ากล้องภายในห้องเรียนแบบเกาหลี แสดงให้เห็นเธอนั่งอยู่ที่โต๊ะ กำลังเรียนหนังสือและมองไปรอบๆ ห้องเรียนที่มีแสงแดดส่องก่อนจะลุกขึ้นและเดินออกไปข้างนอก ติดตามเธอผ่านถนนย่านที่อยู่อาศัยที่เงียบสงบพร้อมบ้านสไตล์เกาหลีที่สมจริง กำแพงหิน ต้นไม้ และแสงแดดอุ่นๆ เปลี่ยนฉากไปยังทางรถไฟเลียบชายฝั่งที่สวยงามซึ่งเธอเดินเคียงข้างมหาสมุทรและดื่มด่ำกับทิวทัศน์อันเงียบสงบ ใช้เทคนิคการถ่ายทำแบบ vlog ด้วยมือถือ กล้องเคลื่อนไหวอย่างเป็นธรรมชาติ สีหน้าสมจริง แสงแดดนุ่มนวล รายละเอียดสภาพแวดล้อมที่ชัดเจน และสุนทรียศาสตร์แบบละครเกาหลีที่สมจริงเหมือนภาพถ่าย รักษาใบหน้า ทรงผม เสื้อผ้า และรูปลักษณ์ของเธอให้สม่ำเสมอตลอดทั้งวิดีโอ โดยไม่มีคำบรรยาย โลโก้ หรือลายน้ำ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099728884115898368/img/OXorABpg3pnT7ic_.jpg" width="600" alt="วิดีโอ Vlog สไตล์ชีวิตประจำวันแบบเกาหลี">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=10870)**
+
+**ผู้เขียน:** [liana](https://x.com/Lianaalane) | **แหล่งที่มา:** [Link](https://x.com/Lianaalane/status/2099728970229203443) | **เผยแพร่เมื่อ:** Sep 15, 2026
+
+---
+### ฉากแอ็กชันดราม่าเกาหลีในสถานีรถไฟใต้ดิน
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับสร้างวิดีโอภาพยนตร์ความยาว 20 วินาที ของหญิงสาวชาวเกาหลีที่ปรากฏตัวอย่างน่าตื่นเต้นในสถานีรถไฟใต้ดินพร้อมการเคลื่อนไหวสไตล์ศิลปะการต่อสู้
+
+#### 📝 พรอมต์
+
+```
+สร้างวิดีโอภาพยนตร์ความยาว 20 วินาที ในสไตล์แอ็กชัน-ดราม่าเกาหลีแบบสมจริง นำเสนอหญิงสาวชาวเกาหลีที่มีสไตล์ ผมดำยาว สวมเสื้อกล้ามสีขาวและกางเกงยีนส์สีฟ้าทรงสบาย ฉากเริ่มต้นภายในสถานีรถไฟใต้ดินของเกาหลีที่เงียบสงบ มีผนังปูกระเบื้อง ไฟนีออนสว่างจ้า ป้ายโฆษณา และบรรยากาศเมืองที่สมจริง เธอโผล่ออกมาจากเสากระเบื้องที่เสียหายอย่างกะทันหัน สร้างฉากเปิดตัวที่น่าตื่นเต้นพร้อมฝุ่นและเศษซากปรักหักพังรอบตัวเธอ กล้องค่อยๆ เลื่อนเข้าหาเธอขณะที่เธอยืนอย่างมั่นใจและจ้องมองไปข้างหน้าอย่างจริงจัง จากนั้นเธอเคลื่อนที่ผ่านสถานีด้วยการเคลื่อนไหวที่รวดเร็วและทรงพลังในสไตล์ศิลปะการต่อสู้ เผชิญหน้ากับชายคนหนึ่งที่กำลังเดินเข้ามา ใช้กล้องมือถือแบบไดนามิก ภาพระยะใกล้ ภาพมุมกว้าง การเคลื่อนไหวของร่างกายที่เป็นธรรมชาติ และเอฟเฟกต์เบลอจากการเคลื่อนไหวแบบภาพยนตร์ รักษารูปหน้า ทรงผม ชุดแต่งกาย และสัดส่วนร่างกายให้คงที่ตลอดทั้งวิดีโอ พร้อมเทคนิคการถ่ายทำแบบละครเกาหลีที่สมจริง แสงเงา รายละเอียด การสะท้อนแสง และความลึกของบรรยากาศ ช่วงสุดท้ายแสดงภาพเธอหันหลังและเดินลึกเข้าไปในสถานีรถไฟใต้ดิน สร้างตอนจบที่ลึกลับและทรงพลัง โดยไม่มีคำบรรยาย โลโก้ หรือลายน้ำ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099725592577064960/img/UWgWIIeb872MWGm4.jpg" width="600" alt="ฉากแอ็กชันดราม่าเกาหลีในสถานีรถไฟใต้ดิน">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=10871)**
+
+**ผู้เขียน:** [ayzalnoor](https://x.com/ayzalnooor24521) | **แหล่งที่มา:** [Link](https://x.com/ayzalnooor24521/status/2099725642736845113) | **เผยแพร่เมื่อ:** Sep 15, 2026
+
+---
+### พรอมต์วิดีโอเพลง Neon Rain
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> โพสต์นี้ระบุชัดเจนว่า 'Made with Seedance 2.0' โดยประกอบด้วยพรอมต์ที่ละเอียดครบถ้วนสำหรับการสร้างวิดีโอเพลงสไตล์ภาพยนตร์ พร้อมคำแนะนำเฉพาะเกี่ยวกับตัวละคร สไตล์ และเนื้อร้อง
+
+#### 📝 พรอมต์
+
+```
+สร้างวิดีโอเพลง AI ความยาว 25 วินาที ในรูปแบบ MV ภาพยนตร์ที่มีเรื่องราวสั้นๆ ชัดเจน
+
+STYLE:
+วิดีโอเพลงป๊อประดับไฮเอนด์สไตล์ภาพยนตร์ อารมณ์ร่วมสมัย สมจริง (Photorealistic) การเคลื่อนไหวของมนุษย์เป็นธรรมชาติ สีหน้าแสดงอารมณ์ได้สมจริง แสงไฟยามค่ำคืนแบบดราม่า บรรยากาศเมืองนีออนที่สวยงาม เทคนิคการถ่ายทำวิดีโอเพลงระดับมืออาชีพ กล้องเคลื่อนไหวนุ่มนวล ฟิสิกส์สมจริง ตัวละครมีเอกลักษณ์คงที่ตลอดทั้งวิดีโอ
+
+MAIN CHARACTER:
+นักร้องหญิงสาวสวย ผมดำยาว ดวงตาแสดงอารมณ์ ใบหน้าสมจริงตามธรรมชาติ แต่งหน้าบางเบา สวมชุดสีดำทันสมัยดูสง่างาม บุคลิกมั่นใจแต่เปี่ยมไปด้วยอารมณ์ ต้องรักษาใบหน้า ทรงผม สัดส่วนร่างกาย และเครื่องแต่งกายให้เหมือนกันทุกฉากอย่างแม่นยำ
+
+MUSIC:
+สร้างเพลงป๊อปสมัยใหม่ที่มีอารมณ์ความรู้สึกและจังหวะแบบภาพยนตร์
+เสียงร้องผู้หญิง ร้องนุ่มนวลเต็มไปด้วยอารมณ์ในช่วงแรก ค่อยๆ ไต่ระดับเข้าสู่ท่อนฮุคที่ติดหูและทรงพลัง
+การผลิตเพลงป๊อปสมัยใหม่ด้วยซินธ์บรรยากาศ เปียโนเบาๆ กลอง subtil และบีทดรอปที่หนักแน่นใกล้ช่วงกลางเพลง
+ดนตรีต้องให้ความรู้สึกสะเทือนอารมณ์ แบบภาพยนตร์ และน่าจดจำ
+
+VOCAL / LYRICS:
+
+0–5 วินาที:
+เสียงร้องผู้หญิงนุ่มนวล:
+"One more night, I call your name..."
+
+5–11 วินาที:
+จังหวะค่อยๆ สร้างขึ้นขณะเธอร้อง:
+"Running through the memories,
+nothing feels the same..."
+
+11–19 วินาที:
+จังหวะแข็งแรงขึ้นและเธอร้องท่อนฮุคหลักอย่างเต็มอารมณ์:
+"But I'm still here, I'm still alive,
+leaving yesterday behind."
+
+19–25 วินาที:
+ดนตรีเปลี่ยนเป็นบรรเลงและเต็มไปด้วยอารมณ์
+ไม่มีเนื้อร้องเพิ่มเติม
+จบด้วย Outro ดนตรีแบบภาพยนตร์ที่สวยงาม
+
+STORY AND VISUALS:
+
+SCENE 1 — 0–5 SEC:
+เมืองนีออนยามค่ำท่ามกลางสายฝน
+นักร้องหญิงเดินคนเดียวบนถนนว่างเปล่าที่สวยงาม
+พื้นเปียกสะท้อนแสงไฟเมืองหลากสี
+เธอมีสีหน้าเศร้าแต่สงบนิ่ง
+กล้องเริ่มด้วยการถ่ายมุมกว้างแบบภาพยนตร์และค่อยๆ เคลื่อนเข้าใกล้ใบหน้าของเธอ
+เธอมองตรงมายังกล้องและร้องเพลงเบาๆ:
+"One more night, I call your name..."
+ขยับปากให้ตรงกับเนื้อร้องอย่างเป็นธรรมชาติ
+ฝนตกตามธรรมชาติ สะท้อนภาพสมจริง มีความลึกของสนามภาพแบบภาพยนตร์
+
+SCENE 2 — 5–11 SEC:
+เธอเดินต่อไปผ่านเมืองที่สว่างไสว
+ขณะที่เธอร้อง:
+"Running through the memories, nothing feels the same..."
+แสดงภาพความทรงจำแบบตัดสลับเร็วรอบตัวเธอ:
+แสงแดดอุ่น เสียงหัวเราะ เดินผ่านสถานที่สวยงาม จากนั้นความทรงจำก็จางหายไป
+ใช้การเปลี่ยนฉากที่ลื่นไหลระหว่างความทรงจำและความเป็นจริง
+กล้องเคลื่อนที่รอบตัวเธอในมุม 180 องศาแบบช้าๆ สไตล์ภาพยนตร์
+สีหน้าของเธอเริ่มมีความรู้สึกมากขึ้น
+ขยับปากตรงจังหวะอย่างสมบูรณ์แบบ
+
+SCENE 3 — 11–15 SEC:
+จังหวะดนตรีเปลี่ยนเป็นหนักแน่นทันที
+เธอเดินเข้าไปในสถานีรถไฟใต้ดินที่ว่างเปล่าและมุ่งหน้ามาทางกล้อง
+ไฟกระพริบเล็กน้อยตามจังหวะเพลง
+กล้องถอยหลังอย่างนุ่มนวลขณะเธอร้อง:
+"But I'm still here..."
+สีหน้าของเธอเปลี่ยนจากความเศร้าเป็นความมั่นใจ
+การเดินสมจริง ผมเคลื่อนไหวเป็นธรรมชาติ และเสื้อผ้ามีฟิสิกส์ที่ถูกต้อง
+
+SCENE 4 — 15–19 SEC:
+เธอไปถึงดาดฟ้าที่มองเห็นเมืองใหญ่สว่างไสว
+ลมพัดผมของเธอไหวเป็นธรรมชาติ
+เธอแสดงท่อนฮุค:
+"I'm still alive,
+leaving yesterday behind."
+กล้องหมุนรอบตัวเธอช้าๆ ขณะที่แสงไฟจากเมืองสร้างฉากหลังแบบภาพยนตร์ที่น่าตื่นตาตื่นใจ
+ดนตรีถึงจุดสูงสุดทางอารมณ์
+การแสดงที่ทรงพลังแต่เป็นธรรมชาติ ขยับปากตรงจังหวะ
+
+SCENE 5 — 19–22 SEC:
+ดนตรีเปลี่ยนเป็นช่วงบรรเลงที่เต็มไปด้วยอารมณ์
+โคลสอัพใบหน้าของเธอ
+เธอสูดหายใจลึกและยิ้มเล็กน้อย
+ฝนหยุดตก
+แสงแรกของพระอาทิตย์ขึ้นเริ่มปรากฏขึ้นหลังตึก
+กล้องดันเข้าหาใบหน้าของเธอช้าๆ แบบภาพยนตร์
+
+SCENE 6 — 22–25 SEC:
+การเปลี่ยนฉากที่สวยงามจากเวลากลางคืนสู่เวลาพระอาทิตย์ขึ้น
+เธอหันหลังให้กล้องและเดินมุ่งหน้าไปยังแสงเช้าอันอบอุ่น
+กล้องดึงออกเป็นการถ่ายมุมสูงแบบกว้างสไตล์ภาพยนตร์
+เมืองส่องประกายระยิบระยับภายใต้แสงพระอาทิตย์
+เธอเดินไปข้างหน้าอย่างมั่นใจ
+จบด้วยการถ่ายมุมกว้างแบบภาพยนตร์ที่สวยงามขณะดนตรีค่อยๆ เบาลง
+
+CAMERA:
+เทคนิคการถ่ายทำวิดีโอเพลงระดับมืออาชีพ
+การเคลื่อนกล้องแบบดอลลี่ที่นุ่มนวล การดันเข้าช้าๆ การติดตามแบบภาพยนตร์ โมเมนต์ถือกล้องแบบสั่นเล็กน้อย เลนส์ 35mm ความลึกของสนามภาพตื้นสำหรับโคลสอัพ มุมกว้างสำหรับเมืองและดาดฟ้า Motion blur สมจริง
+
+VISUAL QUALITY:
+สมจริงแบบ Photorealistic, สไตล์ภาพยนตร์, รายละเอียดสูง, ผิวหนังสมจริง, ดวงตาสมจริง, เส้นผมสมจริง, ฝนสมจริง, การสะท้อนแสงสมจริง, แสงธรรมชาติ, การเคลื่อนไหวถูกต้องตามหลักฟิสิกส์ คุณภาพวิดีโอเพลงระดับพรีเมียม ไม่มีลักษณะเหมือนการ์ตูน
+
+AUDIO:
+ดนตรีต้นฉบับเท่านั้น
+เสียงร้องผู้หญิงชัดเจน
+เนื้อร้องต้องถูกขับร้องออกมาอย่างธรรมชาติและตรงจังหวะ
+ขยับปากตรงจังหวะอย่างแม่นยำ
+ดนตรีและเสียงร้องควรมีคุณภาพเหมือนเพลงป๊อปสมัยใหม่ที่ผลิตโดยมืออาชีพ
+ไม่มีบทสนทนาพูด
+
+CONTINUITY:
+รักษาลักษณะตัวละครหญิงคนเดิม ใบหน้า ทรงผม สัดส่วนร่างกาย และเสื้อผ้าให้เหมือนกันทุกฉาก
+ห้ามมีการเปลี่ยนแปลงใบหน้า
+ห้ามมีการเปลี่ยนแปลงตัวตน
+ห้ามมีนิ้วเกินหรือมือบิดเบี้ยว
+ห้ามมีการเคลื่อนไหวร่างกายที่ไม่เป็นธรรมชาติ
+ห้ามมีข้อความ โลโก้ ซับไตเติ้ล หรือลายน้ำแปลกปลอม
+ห้ามมีการเปลี่ยนชุดกะทันหัน
+
+FORMAT:
+แนวตั้ง 9:16
+ความยาว 25 วินาที
+ออกแบบมาสำหรับ X/Twitter และโซเชียลมีเดียรูปแบบสั้น
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099724933035343872/img/qNCB03bjC814Ie17.jpg" width="600" alt="พรอมต์วิดีโอเพลง Neon Rain">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=10869)**
+
+**ผู้เขียน:** [Calira](https://x.com/CaliraVal) | **แหล่งที่มา:** [Link](https://x.com/CaliraVal/status/2099725385571389852) | **เผยแพร่เมื่อ:** Sep 15, 2026
+
+---
+### Seedance 2.0 Mini พรอมต์สร้างภาพยนตร์สั้นแนวเซียงเซียคอมเมดี้
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> พรอมต์ละเอียดสำหรับสร้างภาพยนตร์สั้นแนวเซียงเซีย (Xianxia) ของจีน ความยาว 15 วินาที สไตล์สมจริงระดับโรงภาพยนต์ โดยใช้ Seedance 2.0 Mini เนื้อเรื่องเน้นความตลกขบขันเมื่อผู้ท้าชิงตระหนักว่าตนเองมีลำดับอาวุโสน้อยกว่าเซียนกระบี่ที่เขาต่อสู้ด้วย พร้อมคำแนะนำเฉพาะเจาะจงเกี่ยวกับความสม่ำเสมอของตัวละคร มุมกล้อง จังหวะบทพูด และสไตล์ภาพ
+
+#### 📝 พรอมต์
+
+```
+Seedance 2.0 Mini | พรอมต์สร้างภาพยนตร์สั้นแนวเซียงเซีย 15 วินาที
+เป้าหมายโครงการ
+
+สร้างภาพยนตร์สั้นแนวเซียงเซียจีนแบบสมจริงระดับโรงภาพยนต์ ในสัดส่วนแนวนอน 16:9 ความยาวอย่างเคร่งครัด 15 วินาที
+
+ข้อกำหนดด้านสไตล์โดยรวม:
+
+พื้นผิวสมจริงระดับโรงภาพยนต์
+ความงามแบบเซียงเซียจีนโบราณแท้ๆ
+ไวยากรณ์การถ่ายทำฉากเปิดตัวผู้ท้าชิงที่อลังการ
+อารมณ์ขันแบบหน้าตาย (Deadpan comedy)
+จังหวะปฏิกิริยาแบบหนังเงียบ
+ประสิทธิภาพแบบหนังแอ็กชันคอมเมดี้ฮ่องกง
+โครงสร้างสามจังหวะแบบคลาสสิกที่ค่อยๆ พัฒนา
+พื้นผิวฟิล์มจากกล้อง Arri Alexa
+รายละเอียดบนใบหน้าชัดเจนและเสถียร
+เกรนฟิล์มละเอียดอ่อน
+แสงวอลลูเมตริกตามธรรมชาติ
+บทพูดภาษาจีนกลางซิงค์เสียงตรงปาก
+ห้ามสร้างคำบรรยายใต้ภาพ
+บรรทัดหลักของความตลก
+
+คงไว้เพียงบรรทัดเดียวที่ทำให้เข้าใจได้ทันทีในครั้งแรกที่ดู:
+
+นักดาบฝ่ายศัตรูหนุ่มมาท้าทายพี่สาวใหญ่เซียนกระบี่อย่างดุดัน โดยคาดหวังว่าการประลองในตำนานจะเริ่มต้นขึ้นทันที
+แต่ผลปรากฏว่า จากความสัมพันธ์ระหว่างอาจารย์กับศิษย์ที่เขาเปิดเผยออกมาเอง กลับค้นพบ ณ จุดนั้นว่า:
+ตามลำดับอาวุโสในยุทธจักร เขากลับมีอาวุโสน้อยกว่าพี่สาวใหญ่เซียนกระบี่หนึ่งรุ่น
+
+ดังนั้น การท้าประลองเอาชีวิตที่จริงจังแต่แรก จึงพลิกกลายเป็นฉากมารยาทยุทธจักรแบบ 'ญาติดีกัน' ที่น่ากระอักกระอ่วนอย่างยิ่ง
+
+มุกตลกต้องมาจาก:
+
+การกลับด้านสถานะ
+
+มารยาทยุทธจักรแบบโบราณแท้ๆ
+การปฏิบัติตามกฎลำดับอาวุโสอย่างเคร่งครัด
+ห้ามพึ่งพา:
+
+อุบัติเหตุสิ่งแวดล้อมแบบสุ่ม
+
+ความอับอายระดับต่ำ
+การแสดงท่าทางงี่เง่าเกินจริง
+การผูกอ้างอิงรูปภาพ
+จุดยึดตัวตนตัวละคร
+@Image 1
+ตรงกับ พี่สาวใหญ่เซียนกระบี่
+
+รักษาให้คงเดิมเสมอ:
+
+หญิงเอเชียตะวันออก อายุ 25–30 ปี
+
+รูปร่างสูงโปร่ง
+ใบหน้ารูปไข่
+ดวงตาสีดำทรงอัลมอนด์
+ผมดำยาวรวบครึ่งศีรษะ
+ปักด้วยปิ่นหยกขาว
+ชุดฮั่นฝูผ้าไหมสีขาวปักลายชุดเดิม
+ตราประทับเอวสีเงิน
+จี้หยก
+รองเท้าบูทผ้าขาว
+กระบี่เงินยาวเล่มเดียว
+@Image 2
+ตรงกับ น้องสาวเล็ก
+
+รักษาให้คงเดิมเสมอ:
+
+หญิงเอเชียตะวันออก อายุ 20–25 ปี
+
+ตัวเล็ก
+ใบหน้ากลมสดใส
+ผมดำถักเปีย
+ชุดฮั่นฝูผ้าลินินสีเขียวครามชุดเดิม
+เข็มขัดสีเข้ม
+ปิ่นไม้
+รองเท้าผ้าสีดำ
+กระบี่เหล็กกล้าสีเข้มเล่มเดียว
+พื้นหลังและพื้นที่
+รูปภาพอ้างอิงพื้นหลังและสถานที่ใหม่ที่อัปโหลดในรอบนี้ทั้งหมดร่วมกันกำหนด DNA ของสภาพแวดล้อมเดียวกัน
+
+ก่อนการสร้าง ให้รวมข้อมูลเหล่านี้เงียบๆ:
+
+ภูมิประเทศจริง
+
+ภาษาสถาปัตยกรรม
+ความรู้สึกถึงอายุของวัสดุ
+ขนาดพื้นที่
+พืชพรรณ
+แหล่งน้ำ
+สภาพอากาศ
+หมอกภูเขา
+ทิศทางแสงหลัก
+ความสัมพันธ์ของการสะท้อน
+ความลึกของบรรยากาศ
+เส้นทางเดินจริง
+วางแผนใหม่ให้เป็นพื้นที่ใหม่ที่เป็นเอกภาพ สมบูรณ์ และน่าเชื่อถือ
+
+กฎสภาพแวดล้อม
+
+องค์ประกอบต่อไปนี้ในพื้นหลังต้องยังคงมีชีวิตชีวาตามธรรมชาติ:
+
+ลมธรรมชาติ
+
+แหล่งน้ำ
+พืชพรรณ
+ชั้นเมฆ
+ลูกศิษย์ธรรมดาที่อยู่ไกลออกไป
+เสียงแวดล้อมของพื้นที่
+แต่ในแง่ของเนื้อเรื่อง ต้องเป็นกลางอย่างสมบูรณ์ ห้ามสร้างมุกตลกเอง หรือช่วยผลักดันมุกตลก
+
+โครงสร้างช็อต
+
+0–5s | ช็อตแรก | เปิดตัวการท้าประลอง
+ขนาดช็อต
+Full shot หรือ Wide shot
+
+ภาพ
+
+พี่สาวใหญ่เซียนกระบี่คนเดิมและน้องสาวเล็กคนเดิมยืนอยู่ในพื้นที่โล่งที่เกิดขึ้นตามธรรมชาติจากภาพอ้างอิงรอบนี้
+
+นักดาบฝ่ายศัตรูหนุ่มก้าวเข้ามาในเฟรม ดึงกระบี่ออกมาอย่างกะทันหัน และประกาศอย่างทรงพลัง:
+
+"เซียนกระบี่! ข้าได้รับคำสั่งจากอาจารย์ให้มาปราบเจ้า!"
+
+เซียนกระบี่ชุดขาวคนเดิมไม่แสดงอาการตึงเครียดเลยแม้แต่น้อย ถามอย่างสงบ:
+
+"ใครคืออาจารย์ของเจ้า?"
+
+ฝ่ายศัตรูตอบอย่างภาคภูมิใจอย่างยิ่ง:
+
+"จ้าวอู่เฉิน!"
+
+ข้อกำหนด
+
+ช็อตนี้ต้องสร้างความรู้สึกของการท้าประลองที่ยิ่งใหญ่และแท้จริงให้ได้ก่อน
+การเข้าฉากของฝ่ายศัตรูต้องจริงจัง ไม่ใช่ตลก
+ความสงบของพี่สาวใหญ่เซียนกระบี่สร้างความแตกต่างแรก
+ความสัมพันธ์เชิงพื้นที่ชัดเจน ตำแหน่งตัวละครเสถียร
+5–10s | ช็อตที่สอง | พลิกกลับลำดับอาวุโส
+ขนาดช็อต
+Medium shot หรือ Cowboy shot
+
+ภาพ
+
+คงตัวละครเดิม ชุดเดิม กระบี่เล่มเดิม และพื้นที่ทางภูมิศาสตร์ที่สอดคล้องกันอย่างสมบูรณ์
+
+อาจารย์เฒ่าคนเดิมที่นั่งอยู่อย่างเป็นธรรมชาติห่างไปสองสามก้าวเบื้องหลังทั้งสองคน เงยหน้าขึ้นเล็กน้อยราวกับได้ยินชื่อคุ้นหู แล้วกล่าวอย่างสงบ:
+
+"เสี่ยวจ้าว ข้าสอนเขามาสามปี"
+
+ทั้งฉากเงียบลง
+
+ฝ่ายศัตรูคนเดิมค่อยๆ หันหน้าไปมองอาจารย์อย่างช้ามาก และความฮึกเหิมบนใบหน้าเริ่มคลายลงเป็นครั้งแรก
+
+น้องสาวเล็กคนเดิมคำนวณความสัมพันธ์ลำดับอาวุโสอย่างจริงจังทันที แล้วกล่าวอย่างจริงจังที่สุด:
+
+"ถ้าอย่างนั้น เจ้าต้องเรียกพี่สาวใหญ่... ว่าซือกู (Shigu - อาจารย์หญิง)"
+
+ร่างกายทั้งหมดของฝ่ายศัตรูแข็งค้างอยู่กับที่ ทวนคำอย่างไม่เชื่อหู:
+
+"ซือกู?"
+
+พี่สาวใหญ่เซียนกระบี่คนเดิมคงความสง่างามและความจริงจังอย่างสมบูรณ์ตลอด
+
+ข้อกำหนด
+
+จุดพีคของมุกในช็อตนี้ต้องส่งผลกระทบอย่างชัดเจน
+คำว่า "ซือกู" ต้องกลายเป็นจุดระเบิดแรกของความตลก
+โทนเสียงของอาจารย์ควรสบายๆ ให้มากที่สุด
+น้องสาวเล็กต้องไม่เยาะเย้ย แต่กำลังคำนวณลำดับอาวุโสอย่างจริงจัง
+ความฮึกเหิมของฝ่ายศัตรูต้องพังทลายลงจริงๆ สำหรับชั้นแรก
+10–15s | ช็อตที่สาม | มารยาทมาก่อน
+ขนาดช็อต
+Close-up หรือ Extreme close-up
+
+ภาพ
+
+กระบี่ในมือของฝ่ายศัตรูคนเดิมลดต่ำลงโดยไม่รู้ตัว แต่ยังพยายามรักษาศักดิ์ศรีของผู้ท้าชิง:
+
+"ข้ามาเพื่อท้าประลองในวันนี้"
+
+อาจารย์เฒ่าคนเดิมตอบอย่างจริงจังที่สุด:
+
+"การท้าประลองคือการท้าประลอง แต่ลำดับอาวุโสห้ามสับสน"
+
+น้องสาวเล็กคนเดิมพยักหน้าอย่างจริงจังมากและเสริม:
+
+"เรียกข้าก่อน"
+
+เว้นจังหวะพักครึ่งบีตที่สร้างความเจ็บปวดอย่างมากให้กับฝ่ายศัตรู
+
+ฝ่ายศัตรูพยายามพูดหลายครั้ง แต่สุดท้ายก็เค้นประโยคสั้นๆ ออกมาได้:
+
+"... ซือกู"
+
+เซียนกระบี่ชุดขาวคนเดิมพยักหน้าอย่างสง่างามมาก ตอบกลับเพียงคำเดียว:
+
+"ดี"
+
+น้องสาวเล็กคนเดิมหันหน้าไปอีกทางทันที ไหล่สั่นเล็กน้อย พยายามกลั้นหัวเราะอย่างสุดความสามารถ
+
+ใบหน้าของฝ่ายศัตรูใกล้จะแตกสลาย แต่เขายังยกกระบี่ของตัวเองขึ้นอีกครั้ง:
+
+"เราสู้กันได้หรือยัง?"
+
+พี่สาวใหญ่เซียนกระบี่คนเดิมดึงกระบี่เงินยาวออกจากฝักประมาณครึ่งนิ้วอย่างสงบ สายตาของเธอเข้าสู่สถานะผู้เชี่ยวชาญตัวจริงในที่สุด แต่ยังตอบอย่างไม่รีบร้อน:
+
+"ได้ สิทธิ (Shizhi - หลานศิษย์)"
+
+สีหน้าของฝ่ายศัตรูพังทลายลงอีกครั้งในทันที
+
+ตัดภาพเป็นสีดำพอดีในช่วงเวลาที่แสดงออกถึงความบอบช้ำทางจิตใจ
+
+ข้อกำหนด
+
+คำว่า "ดี" คือมุกตลกชัดเจนที่สอง
+คำว่า "ได้ สิทธิ" คือการโต้กลับครั้งสุดท้าย
+พี่สาวใหญ่ต้องสง่างามและจริงจังเสมอ ไม่แกล้งล้อเลียน
+น้องสาวเล็กต้องกลั้นหัวเราะอย่างรุนแรง แต่ไม่แย่งซีน
+ฝ่ายศัตรูต้องไม่แสดงท่าทางโง่เขลา เพียงแต่ติดกับดักของมารยาท
+ข้อกำหนดด้านการแสดง
+พี่สาวใหญ่เซียนกระบี่
+สงบนิ่งตลอด
+สง่างามตลอด
+ไม่ล้อเล่นกับผู้คน
+ปฏิบัติราวกับทำตามมารยาทยุทธจักรจริงๆ
+เมื่อชักกระบี่ครึ่งด้ามในตอนท้าย ต้องสร้างออร่าของผู้เชี่ยวชาญตัวจริงให้ชัดเจน
+น้องสาวเล็ก
+รับผิดชอบในการอนุมานความสัมพันธ์ลำดับอาวุโสอย่างจริงจัง
+ความตลกมาจากความจริงจังเกินไป
+ไม่ใช่การเล่นตลกโปกฮา
+การกลั้นหัวเราะต้องมีการควบคุม
+อาจารย์เฒ่า
+จริงจังที่สุด
+ยิ่งโทนเสียงสบายๆ ยิ่งดี
+เหมือนแค่แก้ไขปัญหามารยาทปกติทั่วไป
+นักดาบฝ่ายศัตรูหนุ่ม
+ต้องเป็นผู้ท้าชิงที่ดุดันจริงๆ ในครึ่งแรก
+ความฮึกเหิมพังทลายลงทีละน้อยเมื่อลำดับอาวุโสถูกพลิกกลับ
+ห้ามแสดงท่าทางเหมือนคนโง่
+มุกตลกมาจากศักดิ์ศรีที่ถูกจับเป็นตัวประกันโดยมารยาท
+ข้อกำหนดด้านการถ่ายภาพและเสียง
+3 ช็อตต่อเนื่องที่ชัดเจน
+ความยาวรวมอย่างเคร่งครัด 15 วินาที
+สัดส่วนแนวนอน 16:9
+บทพูดภาษาจีนกลางซิงค์เสียงตรงปาก
+การซิงค์ริมฝีปากแม่นยำ
+จังหวะพักเพื่อความตลกชัดเจน
+ฉากหน้า ฉากกลาง และฉากหลังรักษาระยะพารัลแลกซ์จริง
+เสียงแวดล้อมของพื้นที่มีอยู่จริงตามธรรมชาติ
+เอฟเฟกต์ทางกายภาพของผ้าไหมและเส้นผมเป็นธรรมชาติ
+กล้องควบคุมอย่างมั่นคง ไม่โอ้อวด
+โฟกัสเสียง
+เสียงชักกระบี่ชัดเจน
+เสียงลมธรรมชาติ เสียงน้ำ และเสียงพื้นที่ไกลๆ เป็นธรรมชาติ
+จังหวะพักสำคัญต้องทำให้บทพูดส่งผลกระทบได้ดี
+"ซือกู"
+"ดี"
+"สิทธิ"
+คำสามคำนี้ต้องกลายเป็นจุดจังหวะที่ชัดเจน
+ข้อกำหนดความต่อเนื่อง
+ต้องคงเสถียรตลอด:
+ตัวตนตัวละคร
+
+ทรงผม
+
+ใบหน้า
+ชุดแต่งกาย
+กระบี่
+ตำแหน่งของอาจารย์
+พื้นที่ทางภูมิศาสตร์
+ความสัมพันธ์ของสายตา
+ทิศทางแสง
+โครงสร้างพื้นหลัง
+รายการที่ต้องหลีกเลี่ยง
+เบลอ
+คุณภาพแย่
+คุณภาพต่ำ
+ความละเอียดต่ำ
+มีสัญญาณรบกวน
+รอยต่อ JPEG
+ลายน้ำ
+ข้อความ
+ผิดพลาด
+บิดเบี้ยว
+กลายพันธุ์
+กายวิภาคแย่
+วาดมือไม่ดี
+องค์ประกอบแย่
+อยู่นอกเฟรม
+เสียรูป
+ตัวละครไม่สม่ำเสมอ
+เปลี่ยนเสื้อผ้า
+ใบหน้าเปลี่ยนแปลง
+พื้นหลังเลื่อน
+การตัดภาพที่มีข้อผิดพลาด
+อุปกรณ์ประกอบฉากหายไป
+สีหน้างี่เง่าเกินจริง
+การแกล้งกันระดับต่ำ
+มุกตลกจากอุบัติเหตุสิ่งแวดล้อม
+การเล่นตลกโปกฮาแบบสุ่ม
+คำบรรยายใต้ภาพ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099714929926500352/img/9fXKFlrwH7-saZqG.jpg" width="600" alt="Seedance 2.0 Mini พรอมต์สร้างภาพยนตร์สั้นแนวเซียงเซียคอมเมดี้">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=10872)**
+
+**ผู้เขียน:** [Soran](https://x.com/Soranlan) | **แหล่งที่มา:** [Link](https://x.com/Soranlan/status/2099714995458363481) | **เผยแพร่เมื่อ:** Sep 15, 2026
+
+---
+### พรอมต์วิดีโอการต่อสู้แฟนตาซีจีน Seedance 2.0
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> พรอมต์รายละเอียดสูงสำหรับการสร้างแอนิเมชันแฟนตาซีจีนสไตล์วาดมือ 2D ความยาว 30 วินาที นำเสนอฉากการต่อสู้ระหว่างนักดาบรูปกายคล้ายลิงกับงูยักษ์เก้าหัว พร้อมระบุการเคลื่อนไหวของกล้อง ท่าทางการต่อสู้ และเอฟเฟกต์ภาพอย่างชัดเจน
+
+#### 📝 พรอมต์
+
+```
+【Global · Art Style Setting】 Top-tier 2D hand-drawn Chinese style animation, exquisite character standing illustration level texture (referencing high-precision game illustrations). Clear and sharp lines, full and transparent colors, rich light and shadow layers, retaining the silky high-frame smoothness and exaggerated deformation tension of 2D animation. Grand floating sea cliff divine war ruins, giant cliffs suspended over raging waves, black clouds pressing down, cyan lightning tearing the sky, wild winds rolling up thousands of waves and water mist, broken walls and shattered stone pillars faintly visible in wind and rain. Chainable destruction: Sea cliff cracks → Stone pillars collapse → Divine light explodes → Seawater shoots to the sky, destruction traces permanently retained.
+
+【Global · Characters and Opponent】 Protagonist: 2D exquisite standing illustration style. Ink-black long hair dancing wildly, eyes cold and arrogant, a touch of dark blue water drop divine pattern on the forehead, wearing a dark gray-blue-white battle-damaged long robe, carrying a sword on the back, clothes fluttering violently with movements. Action characteristics: Extremely flexible like a monkey, using all four limbs for bouncing, aerial rolls, wall-clinging leverage, elusive footwork, full-speed movement turning into cyan-gold-red 2D flowing light afterimages. Opponent (Giant Nine-Headed Serpent): 2D hand-drawn behemoth. Snake body as thick as mountains, dark black scales flashing with ghostly green toxic light, nine huge snake heads slender like dragon necks, crimson vertical pupils. Injury system: Being hit splashes dark green and dark red blood, scales crack, blood gushes from severed heads, corpses permanently retained on the sea cliff, finally collapsing after total annihilation, smashing the sea cliff.
+
+【Global · Core Rules and Iron Laws】 60fps high frame, 2D hand-drawn animation, fast-paced throughout, no slow motion/freezes/bullet time. Action density: High-speed combo sections 8-12 actions/sec, SSS-level immortal technique sections 14-18 actions/sec. Impact feel = Brightness surge + Camera push-in + Shockwave expansion + Hit target flying violently. Pseudo one-shot (WHIP/PUSH/DOLLY). Scene destruction permanently retained. Both sides counterattack violently in every shot. Pure action flow.
+
+【Storyboard · 30 Seconds · Protagonist 2 Skills + Opponent 2 Skills · Ultimate Flexible Monkey-style Footwork · Bleeding on Injury · Corpse Retention】
+
+Shot 1 (t0-1s) MS + Ground-hugging tracking long shot: 0-frame start, protagonist jumps down from the left side of the floating sea cliff hanging upside down, bouncing frantically on the cliff wall using all four limbs like an ape, sliding on the ground through the first wave of bites by the nine-headed serpent and leveraging off a pillar, slashing horizontally across the snake's neck with a reverse hand strike causing dark green blood to splash, low-angle upward shot combined with ground-hugging tracking shot, camera shakes violently upon landing.
+
+Shot 2 (t1-3s) MS + High-speed lateral tracking shot: Protagonist continuously rolls in the air like an ape, using all four limbs to bounce pendulum-style between the nine heads of the serpent, dodging bites to the left and thrusting upward to slash the snake's neck to the right, creating cyan-gold-red 2D afterimages and ink burst effects, the nine-headed serpent spits ghostly green poison breath and sweeps its tail, high-speed lateral tracking shot follows closely.
+
+Shot 3 (t3-5s) MCU + Extreme speed whip pan: The nine-headed serpent activates Skill 1 [Nine Heads Poison Prison], all nine heads simultaneously spit ghostly green poison breath and black magic thunder forming a poison-thunder field covering the entire scene, the protagonist climbs the wall, rolls extremely to dodge within the gaps of the poison-thunder field like a spirit monkey, then strikes with a reverse chop, elbow strike, spin kick, and side kick in a four-hit combo consecutively hitting the snake heads, each hit exploding with cyan-gold-red 2D ink dots and dark green blood mist, extreme speed whip pan from left to right.
+
+Shot 4 (t5-8s) MS + 2D Orbit Shot: Protagonist spins and forms a seal to activate Skill 1 [Cyan-Gold-Red · Spirit Ape Treading Void Slash], transforming into cyan-gold-red 2D afterimages shuttling frantically back and forth among the nine heads of the serpent, leaving ape-like figure afterimages with each turn while synchronously swinging the sword to strangle, snake necks spurting dark green ink-blood, the nine-headed serpent frantically shaking its head and biting back, 2D orbit shot continuously following the extreme speed afterimage trajectory.
+
+Shot 5 (t8-10s) FS 0.5s → MS: The range of Spirit Ape Treading Void Slash expands to the extreme, full-screen cyan-gold-red 2D sword qi bursts out simultaneously sweeping most of the screen, two heads of the nine-headed serpent are chopped off, wounds spurting large amounts of dark green blood, the beast roars at the sky in grief, wide shot 0.5s then extreme speed whip pan back to MS.
+
+Shot 6 (t10-12s) MS + FPV Back-tracking: Zero gap transition between segments, protagonist transforms into cyan-gold-red 2D flowing light teleporting through the group to behind the nine-headed serpent, landing and sweeping horizontally, impact point exploding with ring-shaped 2D shockwaves and cyan-gold-red splash ink waves, remaining seven heads of the nine-headed serpent simultaneously counterattack spitting black thunder and poison breath, FPV back-tracking follows, protagonist immediately reverses direction and charges in.
+
+Shot 7 (t12-15s) MCU + Extreme Speed Push In: The nine-headed serpent activates Skill 2 [Ten Thousand Snakes Devour Heaven Bite], seven snake heads simultaneously transform into huge black shadows frantically biting and encircling, the protagonist bounces off snake heads for leverage, rolls in the air, spinning and forming a seal to activate Skill 2 [Cyan-Gold-Red · Thousand Mechanisms Breaking Wave Array], waving the long sword to condense massive cyan-gold-red lightning sword qi, thrusting frantically back and forth between snake heads, sword qi piercing through snake necks along the path like wild cursive calligraphy causing chain explosions, snake heads splashing dark green blood, extreme speed push in locking onto the penetration center.
+
+Shot 8 (t15-18s) FPV + Ground-hugging Tracking: Thousand Mechanisms Breaking Wave Array continues to expand, protagonist slides on the ground in lightning afterimages to dodge the tail sweep, leaps up and slashes down, charging in from three directions, cyan-gold-red lightning and 2D ink dots explode and sea cliff ground cracks are permanently retained, the nine-headed serpent dives from mid-air to bite, ground-hugging tracking + extreme speed whip pan.
+
+Shot 9 (t18-20s) FS 0.5s → MS: Thousand Mechanisms Breaking Wave Array engulfs most of the screen, the nine-headed serpent has three more heads chopped off, wounds spurting blood like rain, the beast's massive body is pierced by lightning and knocked back, wide shot 0.5s then whip pan back to close-up.
+
+Shot 10 (t20-22s) MCU Low Angle Upward Pan: Zero gap transition between segments, protagonist leaps into the air and forms a seal, remaining four heads of the nine-headed serpent roar at the sky in dying counterattack, spitting black thunder and poison breath trying to kill, protagonist shuttles extremely fast between heaven and earth, MCU low angle upward pan.
+
+Shot 11 (t22-26s) FS Full Screen Overhead Rotation: Protagonist's dual skill combo explosion, full-screen cyan-gold-red 2D divine swords and lightning bombard the nine-headed serpent's entire body like heavy rain, covering the whole screen, each falling sword light explodes with 2D mushroom clouds, protagonist shuttles extremely fast harvesting between sword rains like a spirit monkey, the nine-headed serpent's massive body is nailed to the sea cliff by divine swords struggling frantically, remaining heads chopped off one by one, blood spurting, full screen overhead rotation.
+
+Shot 12 (t26-28s) MS + FPV: In the aftermath, protagonist uses extreme sword shuttle followed by spin slash to clear remnants, cyan-gold-red 2D dust surges to the sky and three-color ink threads densely packed, the nine-headed serpent's dying counterattack is instantly shattered by cutting off the last head, FPV back-tracking.
+
+Shot 13 (t28-29s) MCU + Extreme Speed Whip Pan: Protagonist dashes left and right pendulum turns, slashes left and thrusts right, bringing out cyan-gold-red 2D afterimages and ink burst effects with sword shadows forming sheets, the headless body of the nine-headed serpent collapses crashing into the sea cliff, corpse heavily landing on the ruins, extreme speed whip pan.
+
+Shot 14 (t29-30s) CU End Frame Total Annihilation of Beast: Protagonist stands atop the sea cliff sheathing the sword horizontally in front, full-screen cyan-gold-red 2D light explosion completely evaporates the nine-headed serpent's remains into sky-wide 2D particles and dark green debris, the massive corpse of the nine-headed serpent is permanently retained on the collapsed sea cliff ruins, dark green blood continues to flow from the severed neck, no living beasts remain in the picture, protagonist slightly raises head with arrogant gaze, CU extreme speed push in + freeze 0.3-0.5s, declaring total annihilation.
+
+【Complete Negative Prompt】 Forbidden: 3D rendering, UE5, Lumen, realistic style, photorealistic, Western cartoon, Pixar style, plastic feel, monochrome effects, text, watermark, UI, subtitles, LOGO, stiff jump cuts, static, face-to-face staring, move collision stalemate, uncontrolled blood spray, limb dismemberment, internal organs, wound close-ups, skin tearing, limb distortion, joint hyperextension, extra fingers, eye deformation, character facial breakdown, effects blocking face, camera glitches, perspective errors, proportion imbalance, character overlapping clipping, sluggish actions, frozen actions, interrupted combos, stationary output, charging standoff, posing, sheathing sword, end-of-battle feeling, panting/resting, same speed throughout, slow motion, slow shots, freezes, pauses, frame freezing, hit-stop, bullet time, time stagnation, long wind-up, post-attack pause, beast stops counterattacking, beast standing still getting beaten, one-sided absolute crushing without counterattack, one-sided damage reception, empty areas in picture, beast static, beast not shuttling to fill positions, half-hearted beast counterattacks, human injury, human bleeding, physical cutting, penetration, piercing, extreme wide shot EWS, zooming out, distant view, wide shot fighting, motion blur, 2D effects too thin, lack of sense of speed, hits without explosive feel, weak attack feedback, no reaction from hit target, effects not filling screen, skills not covering most of the screen, large blank areas in picture at release moment, effects concentrated only on protagonist instead of engulfing the screen, wrong skill names, non-combat segments, too much dialogue, end frame does not show total annihilation of beast, elite monsters, demon generals, BOSS, small mobs, humanoid demons, snake clipping, Wu Shan Five Elements.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099329220824715264/img/pNkPrzhMrEmR6urK.jpg" width="600" alt="พรอมต์วิดีโอการต่อสู้แฟนตาซีจีน Seedance 2.0">
+
+**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=10873)**
+
+**ผู้เขียน:** [Arvin](https://x.com/Arvin010717) | **แหล่งที่มา:** [Link](https://x.com/Arvin010717/status/2099694643080483001) | **เผยแพร่เมื่อ:** Sep 15, 2026
+
+---
 ### Seedance 2.0 Prompt การต่อสู้แนวเซียนเซียแบบภาพยนตร์
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -4978,151 +5530,6 @@ CHASE: ไอดอลเกาหลีวัย 20 กว่าๆ มัด�
 **ผู้เขียน:** [WasifAI](https://x.com/doctorwasif) | **แหล่งที่มา:** [Link](https://x.com/doctorwasif/status/2096097630317392019) | **เผยแพร่เมื่อ:** Sep 5, 2026
 
 ---
-### วิดีโอโปรโมตผลิตภัณฑ์เครื่องสำอางระดับพรีเมียม
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> สามทางเลือกที่โดดเด่นสำหรับการสร้างวิดีโอโฆษณาความงามระดับไฮเอนด์ โดยเน้นไปที่ผลิตภัณฑ์สำหรับริมฝีปาก เนื้อสัมผัส และการใช้งาน
-
-#### 📝 พรอมต์
-
-```
-ตัวเลือกที่ 1: การนำเสนอผลิตภัณฑ์แบบ UGC สไตล์ซอฟต์ (เหมาะสำหรับ TikTok / Reels)
-ภาพโคลสอัพมือที่ถือขวดลิปทินต์สีดัสตี้โรสพร้อมหัวแปรง เนื้อลิปกลอสเนียนละเอียดถูกปาดลงบนผิวขาวอย่างนุ่มนวล จัดแสงโทนอุ่นแบบซอฟต์ การเคลื่อนไหวกล้องที่นุ่มนวล ฉากหลังเป็นโต๊ะเครื่องแป้งสไตล์มินิมอลสะอาดตา วิดีโอโฆษณาคุณภาพสูง
-ตัวเลือกที่ 2: เน้นการทาลิปและสวอชสี (อินเทรนด์และดูเพลิน)
-ภาพโคลสอัพแบบเอ็กซ์ตรีมของริมฝีปากสีชมพูหม่นที่กำลังถูกทาด้วยหัวแปรงลิปทินต์อย่างเบามือ เนื้อสัมผัสเข้มข้น ฟินิชแบบเงางาม เกลี่ยได้เนียนนุ่มดุจกำมะหยี่ สไตล์ความงามที่หรูหรา จัดแสงสตูดิโอแบบซอฟต์ สไตล์โฆษณาความงามที่สมจริงเป็นพิเศษ
-ตัวเลือกที่ 3: การแกะกล่องและสวอชสีผลิตภัณฑ์อย่างมีสไตล์
-ภาพมาโครที่สวยงามของหัวแปรงลิปทินต์สีม่วงหม่นที่ดึงออกมาจากขวด เผยให้เห็นเนื้อลิปทินต์เหลว การเคลื่อนไหวของการสวอชบนหลังมือที่นุ่มนวล ฟินิชแบบเงางามระยิบระยับภายใต้แสงโทนอุ่น วิดีโอผลิตภัณฑ์ความงามแบบสโลว์โมชัน
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096095308006780928/img/4oy5bYNLR1BSaUEj.jpg" width="600" alt="วิดีโอโปรโมตผลิตภัณฑ์เครื่องสำอางระดับพรีเมียม">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=10397)**
-
-**ผู้เขียน:** [AsmatAi](https://x.com/AsmatAi786) | **แหล่งที่มา:** [Link](https://x.com/AsmatAi786/status/2096095449648443637) | **เผยแพร่เมื่อ:** Sep 5, 2026
-
----
-### แมวสีขาวขนฟูสไตล์อนิเมะสุดละมุน
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอสไตล์อนิเมะสุดน่ารักของแมวสีขาวที่อาศัยอยู่ในอพาร์ตเมนต์ทันสมัย พร้อมท่าทางขี้เล่นและการปฏิสัมพันธ์ที่แสนอบอุ่น
-
-#### 📝 พรอมต์
-
-```
-สร้างวิดีโอสไตล์อนิเมะสุดละมุนของแมวสีขาวขนฟูที่มีดวงตาสีฟ้าอมเขียวเป็นประกายสดใส อาศัยอยู่ในอพาร์ตเมนต์ทันสมัยที่สว่างไสวพร้อมหน้าต่างบานใหญ่ที่มองเห็นวิวเมืองในวันที่แดดจ้า แมวนั่งอย่างสงบบนขอบหน้าต่างไม้ ก่อนจะเดินอย่างสง่างามตรงมาที่กล้องบนพื้นไม้ขัดเงา ภาพระยะใกล้เผยให้เห็นใบหน้าที่น่ารัก หนวดที่ขยับไปมา และสีหน้าท่าทางที่เต็มไปด้วยความอยากรู้อยากเห็น มันยืนอย่างภาคภูมิใจท่ามกลางแสงแดด นั่งลงอย่างสง่างาม แล้วกระโจนเข้าหาลูกบอลสีขาวใบเล็กอย่างสนุกสนาน ต่อมาแมวเงยหน้ามองชายหนุ่มผมหยักศกสีเข้มที่กำลังนั่งกินแซนด์วิชอยู่ที่โต๊ะอาหารด้วยความหวัง ก่อนจะกระโดดขึ้นเก้าอี้และปีนขึ้นไปบนตักของเขา ชายหนุ่มโอบกอดแมวไว้อย่างอ่อนโยนขณะที่มันเอาหน้าซุกมือและใบหน้าของเขา วิดีโอจบลงด้วยภาพที่ทั้งคู่นอนกอดกันอย่างอบอุ่นบนโซฟาสีเทา โดยมีเจ้าแมวหาวออกมาด้วยความพอใจในอ้อมแขนของเขาภายใต้แสงแดดยามเช้าอันนุ่มนวล
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096085739729739776/img/vDzamF8khIQ3Dxay.jpg" width="600" alt="แมวสีขาวขนฟูสไตล์อนิเมะสุดละมุน">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=10402)**
-
-**ผู้เขียน:** [ayzalnoor](https://x.com/ayzalnooor24521) | **แหล่งที่มา:** [Link](https://x.com/ayzalnooor24521/status/2096085776735912274) | **เผยแพร่เมื่อ:** Sep 5, 2026
-
----
-### สไตล์สารคดีสาวแกลยุคเฮเซปี 2007
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> คำสั่ง (Prompt) ที่ละเอียดแม่นยำสำหรับการสร้างวิดีโอไลฟ์สไตล์สาว "แกล" (Gyaru) ญี่ปุ่นในปี 2007 พร้อมความสวยงามแบบกล้องดิจิทัลยุคแรก และความต่อเนื่องของตัวละครที่ชัดเจน
-
-#### 📝 พรอมต์
-
-```
-[สรุป] หนึ่งวันสบายๆ ในปี 2007 ของสาว "ฮิเมะแกล" (Hime Gyaru) วัย 19 ปี ที่ทำผมทรงพองฟู เพื่อนถ่ายวิดีโอเธอจากด้านข้างด้วยโหมดวิดีโอของกล้องดิจิทัลคอมแพคโดยไม่มีการพูดคุย ความละเอียด 480p, อัตราส่วน 16:9, ความยาว 15 วินาที แบ่งเป็น 7 ช็อตแบบตัดฉับ (ช็อตละประมาณ 2 วินาที) ในสถานที่ที่แตกต่างกัน ไม่มีทรานซิชันหรือการเฟด ตัวละครไม่รับรู้ถึงกล้อง: ไม่สบตา ไม่โชว์สิ่งของ ไม่โบกมือ ไม่โพสท่า เธอจดจ่ออยู่กับสิ่งที่ทำอยู่ เป็นเพียงเศษเสี้ยวของชีวิตประจำวัน ไม่ใช่การแสดง ไม่มีบทพูด ไม่มีคำบรรยาย
-
-[ตัวละคร] นิยามความงาม: สาวสวยสไตล์ญี่ปุ่นที่มีเสน่ห์เทียบเท่ากับนางแบบนิตยสารแกล มีเสน่ห์ในจังหวะทีเผลอมากกว่าตอนโพสท่า ใบหน้า: ผิวขาวซีด (พื้นผิวสมจริง), คิ้วสีน้ำตาลหนา, ตาสองชั้นขนาดใหญ่พร้อมขนตาปลอมที่ดูหนา, จมูกเล็กได้รูป, ริมฝีปากอวบอิ่มเงางาม, ใบหน้าเรียวเล็ก ผม: ผมทรง "โมริกามิ" (Morigami) สีชานม (ผมพองฟู) ช่วงโคนผมยีให้พองสูงและปลายผมดัดลอนใหญ่หนา ซึ่งเป็นสไตล์แกลที่เป็นเอกลักษณ์ของยุคนั้น ในช็อตตอนเช้าผมจะดัดลอนแค่ครึ่งเดียว เสื้อผ้า (ชุดลำลอง ไม่เน้นสไตล์จัดจ้าน): เดรสสีชมพูอ่อนยาวถึงเข่า, คาร์ดิแกนสีขาวคลุมไหล่, รองเท้าแตะส้นเตี้ย, กระเป๋าสีขาวใบใหญ่ (ไม่มีตัวอักษร) ของใช้: "เดโคเดน" (โทรศัพท์ฝาพับที่ตกแต่งด้วยคริสตัลและไข่มุกแวววาว สีชมพูและขาว ถือในลักษณะพับปิด ไม่เห็นหน้าจอ) นิสัย: ชอบเช็กทรงผมโดยการยกผมขึ้น, เดินสะดุดรองเท้าส้นสูงเล็กน้อย ใบหน้า ทรงผม และเสื้อผ้าต้องเหมือนกันในทุกช็อต
-
-[ตัวละครอื่นๆ] เพื่อนสาว (ตากล้อง): ไม่ปรากฏตัว แต่มีเสียงหัวเราะเบาๆ เสียงลมหายใจ และเสียงขยับกล้องเป็นระยะ (ไม่มีคำพูด) เพื่อนที่ขับรถ: เห็นเพียงช่วงไหล่และแขนในที่นั่งคนขับในช็อตที่ 3 และ 7 (ผมบ๊อบสีบลอนด์, เล็บสีชมพู)
-
-[ยุคสมัย, สถานที่, แสง] ฤดูร้อนปี 2007 ① ตอนเช้าในห้อง (แสงนุ่มนวลผ่านผ้าม่าน ไม่มีกระจกในเฟรม) ② ระเบียงทางเดินอพาร์ตเมนต์ (แสงสีขาว) ③ ที่นั่งข้างคนขับในรถของเพื่อน (แสงกลางวัน, หน้าต่างเปิดแง้มไว้) ④ ระเบียงคาเฟ่ (แสงแดดช่วงบ่าย, ไม่มีป้ายร้าน) ⑤ ด้านในกระเช้าชิงช้าสวรรค์ (แสงสีส้มช่วงเย็น, เห็นวิวเมืองนอกหน้าต่าง) ⑥ ทางเดินริมทะเลตอนกลางคืน (แสงไฟถนนและความมืดของทะเล) ⑦ เบาะหลังของรถขณะเดินทางกลับบ้าน (แสงไฟถนนที่วิ่งผ่าน) เลือกสถานที่และมุมกล้องที่ไม่ให้มีป้าย ตัวอักษร โลโก้ หรือหน้าจอติดเข้ามาในเฟรม
-
-[กล้อง] พื้นผิววิดีโอจากกล้องดิจิทัลคอมแพคปี 2007: มีสัญญาณรบกวน (Noise) ในที่มืด, สีค่อนข้างเหลือง, มีการสั่นไหวแบบถือด้วยมือ ถ่ายแบบถือด้วยมือ, องค์ประกอบภาพไม่สมบูรณ์แบบ, มีจังหวะโฟกัสวืดวาดบ้าง, แสงมีความผันผวน รักษาความห่างจากตัวละคร 2-4 เมตร, ซูมเฉพาะตอนถ่ายมือหรือถ่ายด้านข้าง ตัวละครไม่สนใจกล้อง ไม่มีการกันสั่น, กิมบอล, โดรน, สโลว์โมชั่น, แสงแบบภาพยนตร์ หรือการปรับสีแบบโฆษณา กล้องอยู่ในตำแหน่งที่มนุษย์ถือได้จริง (ยืน, นั่ง, ย่อตัว, เดิน, นั่งข้างๆ) ไม่มีมุมกล้องที่เป็นไปไม่ได้ (มุมจากอากาศ, ในน้ำ, บนเพดาน, มุมสูงตรงๆ, นอกรถที่กำลังวิ่ง, หรือจ่อหน้าใกล้ๆ) ตากล้องคือคนจริงๆ ในพื้นที่นั้น หากตัวละครเคลื่อนไหว ตากล้องจะตามด้วยความล่าช้าเล็กน้อย บางครั้งจัดเฟรมแบบหลวมๆ ไม่มีเงาสะท้อนในกระจก
-
-[ช็อต] (ช็อตละประมาณ 2 วินาที, สถานที่/กิจกรรม/อารมณ์และท่าทาง/ตำแหน่งกล้อง):
-1. ห้อง, แสงเช้าอ่อนๆ: กำลังม้วนผมด้วยที่ม้วนผม อารมณ์: จดจ่อกับการทำผม แลบลิ้นออกมาเล็กน้อยขณะเช็กช่อผมที่ม้วน กล้อง: จากด้านข้าง ไม่มีกระจก
-2. ระเบียงอพาร์ตเมนต์, แสงสีขาว: เดินด้วยรองเท้าแตะ สะดุดหนึ่งครั้งแล้วแตะกำแพง อารมณ์: เขินอาย มองไปรอบๆ แล้วเดินตามปกติ กล้อง: จากด้านหลัง
-3. ที่นั่งข้างคนขับ, กลางวัน: หลับตาพริ้มรับลมจากหน้าต่างที่เปิดแง้ม อารมณ์: ผ่อนคลาย ไม่สนใจผมที่ปลิวตามลม กล้อง: เอียงตัวมาจากเบาะหลัง
-4. ระเบียงคาเฟ่, ช่วงบ่าย: เก็บเชอร์รี่บนพาร์เฟต์ไว้กินคำสุดท้ายแล้วหยิบเข้าปาก อารมณ์: มีความสุข หรี่ตาลง ผ่อนคลายไหล่ กล้อง: จากฝั่งตรงข้ามโต๊ะ
-5. กระเช้าชิงช้าสวรรค์, ช่วงเย็น: เอาหน้าผากพิงหน้าต่างมองลงไปที่เมือง อารมณ์: เหม่อลอยครุ่นคิด ปากเผยอเล็กน้อย กล้อง: จากที่นั่งฝั่งตรงข้าม
-6. ทางเดินริมทะเลตอนกลางคืน: พิงราวระเบียง ไม่สนใจผมที่ยุ่งเหยิงจากลมทะเล ปล่อยมือที่คอยจับผมไว้ อารมณ์: ปลดปล่อย หลับตาลงท่ามกลางสายลม กล้อง: จากด้านข้าง ใต้แสงไฟถนน
-7. เบาะหลังรถขณะกลับบ้าน: หัวพิงหน้าต่าง เริ่มหลับ อารมณ์: ง่วงนอนอย่างพึงพอใจ กล้อง: จากที่นั่งข้างๆ ตามแรงสั่นสะเทือนของรถ ประมาณวินาทีที่ 00:14 ภาพตัดเป็นสีดำทันที ไม่มีการเฟดออก
-
-[รายละเอียดอุปกรณ์] ที่ม้วนผมเป็นพลาสติกสีขาวพร้อมสายไฟที่พันกันยุ่งเหยิง เดโคเดนเป็นคริสตัลสีชมพู/ขาวลายหัวใจ ดูเหมือนกล่องเครื่องประดับเมื่อพับปิด กระเป๋าสีขาวเป็นหนังเทียม เปิดอ้าไว้ รองเท้าแตะมีสายรัดสีชมพูและส้นเตี้ย กระเช้าชิงช้าสวรรค์มีที่นั่งเป็นพลาสติกสีขาว
-
-[ข้อห้ามเรื่องข้อความ] ห้ามมีตัวอักษรที่อ่านออก, โลโก้, ป้าย, ฉลาก, หน้าจอแสดงผล หรือตัวเลขในเฟรม ให้เปลี่ยนสิ่งของที่มีตัวอักษรเยอะๆ เป็นเวอร์ชันเรียบๆ
-
-[ฟิสิกส์/ความต่อเนื่อง] ฟิสิกส์โลกแห่งความเป็นจริง ไม่มีนิ้วเกิน, มือติดกัน, กายวิภาคบิดเบี้ยว, วัตถุลอยได้, สิ่งของหายไป หรือการเปลี่ยนรูปร่างกะทันหัน เท้าต้องแตะพื้น คริสตัล หมวก กระเป๋าเป้ และเสื้อผ้าของเพื่อนต้องเหมือนกันในทุกช็อต
-
-[เสียง] เสียงบรรยากาศธรรมชาติเท่านั้น (เปลี่ยนไปตามช็อต): เสียงที่ม้วนผม, เสียงรองเท้าแตะบนทางเดิน, เสียงรถวิ่งและเสียงลม, เสียงจานชามในคาเฟ่, เสียงกลไกชิงช้าสวรรค์, เสียงทะเล/ลม, เสียงรถวิ่งตอนกลางคืน ไม่มีคำพูด อนุญาตให้มีเพียงเสียงหัวเราะเบาๆ หรือเสียงลมหายใจจากตากล้องและตัวละครเป็นครั้งคราวเท่านั้น ไม่มีดนตรี ไม่มีคำบรรยาย ไม่มีเสียงเอฟเฟกต์สังเคราะห์
-
-[บรรยากาศ] บันทึกของวันธรรมดาที่ทำให้ผู้ใหญ่ที่เคยผ่านปี 2007 มาคิดว่า "เคยมีสาวๆ แบบนั้นอยู่จริงๆ" เป็นการรวมเศษเสี้ยวของจังหวะทีเผลอ ไม่ใช่การโพสท่า ให้ความรู้สึกโหยหาอดีต สดใส และมีความเป็นมนุษย์อย่างลึกซึ้ง เน้นความรู้สึกที่ว่ากล้องบังเอิญอยู่ที่นั่นพอดี
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094091270738395138/img/EDfIIA0OcweMUn7Q.jpg" width="600" alt="สไตล์สารคดีสาวแกลยุคเฮเซปี 2007">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=10409)**
-
-**ผู้เขียน:** [妖精アーヤ](https://x.com/aiehon_aya) | **แหล่งที่มา:** [Link](https://x.com/aiehon_aya/status/2095995325723156791) | **เผยแพร่เมื่อ:** Sep 4, 2026
-
----
-### โปสเตอร์เรียนรู้คำศัพท์สำหรับเด็กก่อนวัยเรียน
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> โปสเตอร์คำศัพท์สำหรับเด็กที่สะอาดตาและทันสมัย เพื่อการเรียนรู้เรื่องผลไม้ ออกแบบด้วยเลย์เอาต์เชิงการศึกษาและภาพถ่ายคุณภาพสูง
-
-#### 📝 พรอมต์
-
-```
-สร้างโปสเตอร์คำศัพท์เชิงการศึกษาที่สะอาดตาและเหมาะสำหรับเด็กก่อนวัยเรียน/อนุบาล โดยได้รับแรงบันดาลใจจากบัตรภาพการเรียนรู้แบบง่าย
-
-จัดวาง [FRUIT] เป็นวัตถุหลักขนาดใหญ่ที่สมจริงไว้ทางด้านซ้าย และแสดง [PART / SLICE / SEGMENT] ของผลไม้ชนิดเดียวกันไว้ทางด้านขวา เชื่อมโยงทั้งสองส่วนด้วยลูกศรเส้นประโค้งที่ดูสนุกสนาน และภาพวาดลายเส้นเด็กตัวเล็กๆ ที่กำลังชี้ไปยังส่วนที่เล็กกว่า
-
-เพิ่มคำว่า “[FRUIT NAME]” ด้วยตัวอักษรพิมพ์ใหญ่หนาขนาดใหญ่ที่ด้านบน และ “[PART NAME]” ด้วยตัวอักษรพิมพ์ใหญ่หนาขนาดใหญ่ที่ด้านล่างของภาพที่เล็กกว่า ใช้พื้นหลังสีขาวนวลและสีฟ้าพาสเทลอ่อนๆ กรอบรูปทรงมน การจัดวางที่สะอาดตา ภาพถ่ายผลไม้ที่สมจริง ตัวอักษรสีฟ้าแบบเรียบง่าย และภาพประกอบที่ดูสนุกสนานแบบมินิมอล
-
-การออกแบบโดยรวมควรให้ความรู้สึกสดใส เชิงการศึกษา ทันสมัย ไม่รก และเข้าใจง่ายสำหรับเด็กเล็ก เหมือนกับบัตรคำศัพท์เรียนรู้สำหรับเด็กก่อนวัยเรียนระดับพรีเมียม จัดวางองค์ประกอบแนวตั้ง 4:5 ความละเอียดสูง แสงนุ่มนวล ป้ายกำกับชัดเจน ไม่มีของตกแต่งที่ไม่จำเป็น
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2095749270364368896/img/70QIbvdUo8O0Apo-.jpg" width="600" alt="โปสเตอร์เรียนรู้คำศัพท์สำหรับเด็กก่อนวัยเรียน">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=10301)**
-
-**ผู้เขียน:** [AsmatAi](https://x.com/AsmatAi786) | **แหล่งที่มา:** [Link](https://x.com/AsmatAi786/status/2095749328102936937) | **เผยแพร่เมื่อ:** Sep 4, 2026
-
----
-### เด็กชายกับวิดีโอโฮมมูฟวี่ Hi8 ยุค 90
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> พรอมต์วิดีโอสไตล์ Hi8 ยุค 90 สุดคิดถึง นำเสนอภาพเด็กชายชาวญี่ปุ่นที่กำลังสนุกกับการเล่นรถแข่งมินิในวันหยุด ถ่ายทอดด้วยพื้นผิวแบบโลไฟ (lo-fi) ที่สมจริงและการเคลื่อนไหวที่เป็นธรรมชาติ
-
-#### 📝 พรอมต์
-
-```
-[ภาพรวม] วันหยุดในปี 1990 เด็กชายวัย 9 ขวบที่หมกมุ่นอยู่กับรถแข่งมินิและสนามแข่งของเขา โดยมีคุณพ่อถ่ายวิดีโอจากระยะไกลด้วยกล้องวิดีโอ Hi8 โดยไม่มีการพูดคุย ความละเอียด 480p สัดส่วน 16:9 ความยาว 15 วินาที ตัดสลับแบบ Hard-cut 7 ช็อตใน 7 สถานที่ที่แตกต่างกัน ไม่มีการใช้ทรานซิชัน ตัวแบบไม่รู้ตัวว่าถูกถ่าย ไม่มีบทสนทนาหรือการบรรยาย
-
-[ตัวละคร] เด็กชายชาวญี่ปุ่นหน้าตาน่ารัก ใบหน้า: ผมสีดำทรงแมช (mash-style) หน้ากลม ตาสองชั้นโต มีกระ ฟันหน้าซี่ใหญ่ ผิวสีแทน เสื้อผ้า: เสื้อสเวตเตอร์สีแดง กางเกงยีนส์สีน้ำเงิน รองเท้าผ้าใบสีขาว หมวกแก๊ปสีแดง อุปกรณ์ประกอบฉาก: ไขควงขนาดเล็ก รถแข่งมินิขนาดเท่าฝ่ามือ นิสัย: แลบลิ้นออกมาเวลาใช้สมาธิ
-
-[ช่วงเวลา/สถานที่/แสง] ฤดูใบไม้ผลิปี 1990 1. โต๊ะอาหารเช้า 2. โต๊ะทำงานในห้อง 3. สนามแข่งในห้องนั่งเล่น 4. กระบะทรายในสวน 5. ลานล้างรถหน้าบ้าน 6. ระเบียง (ช่วงเย็น) 7. หน้าทีวีตอนกลางคืน
-
-[กล้อง] สุนทรียศาสตร์แบบ Hi8 ปี 1990: สีเหลื่อม ความละเอียดต่ำ แสงฟุ้งง่าย ขอบภาพนุ่มนวล ถ่ายแบบถือด้วยมือ มีการสั่นไหวที่เป็นธรรมชาติ องค์ประกอบภาพไม่สมบูรณ์แบบ ไม่มีการใช้ระบบกันสั่น โดรน หรือสโลว์โมชัน
-
-[ช็อต] 1. อาหารเช้า: ดื่มนมและเช็ดปาก 2. โต๊ะทำงาน: ขันน็อตตัวรถด้วยไขควง 3. สนามแข่ง: ปล่อยรถแข่ง แพ้ แล้วเอามือกุมหัว 4. กระบะทราย: สร้างสนามแข่งบนทราย 5. ล้างรถ: ฉีดน้ำใส่คุณพ่อโดยไม่ได้ตั้งใจ 6. ระเบียง: เรียงชิ้นส่วนอะไหล่และเป่าฝุ่น 7. ทีวี: หลับไปในขณะที่ยังถือรีโมทคอนโทรลอยู่ ภาพตัดมืดกะทันหันที่วินาทีที่ 0:14
-
-[ฟิสิกส์] ฟิสิกส์ที่สมจริง ไม่มีสรีระที่บิดเบี้ยวหรือวัตถุลอยได้ เสื้อผ้ามีความต่อเนื่องตลอดทั้งคลิป
-
-[เสียง] เสียงสภาพแวดล้อมที่เป็นธรรมชาติ: เสียงจานกระทบกัน เสียงมอเตอร์ เสียงน้ำ เสียงหัวเราะของคุณพ่อ ไม่มีดนตรีประกอบ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094090513112776704/img/_6R1b60uq3Tz4_Oo.jpg" width="600" alt="เด็กชายกับวิดีโอโฮมมูฟวี่ Hi8 ยุค 90">
-
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/seedance-2-0-prompts?id=10302)**
-
-**ผู้เขียน:** [妖精アーヤ](https://x.com/aiehon_aya) | **แหล่งที่มา:** [Link](https://x.com/aiehon_aya/status/2095632939199443237) | **เผยแพร่เมื่อ:** Sep 3, 2026
-
----
 ---
 
 ## 📚 มีพรอมต์เพิ่มเติม
@@ -5184,6 +5591,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 ส่งพรอมต์](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-09-15T03:55:19.129Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-09-16T03:48:55.377Z</sub>
 
 </div>
