@@ -68,9 +68,9 @@ Warum unsere Galerie nutzen?
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **6384** |
+| 📝 Gesamtanzahl Prompts | **6389** |
 | ⭐ Ausgewählte Prompts | **6** |
-| 🔄 Zuletzt aktualisiert | **2026-09-16** |
+| 🔄 Zuletzt aktualisiert | **2026-09-17** |
 
 ---
 
@@ -361,6 +361,256 @@ Ultra-realistisch, inspiriert von der Energie von Fast and Furious, fotorealisti
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Cinematic Video Prompt: Verfolgungsjagd in der regnerischen Nacht
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt für ein 30-sekündiges ultra-realistisches Live-Action-Video, das eine spannungsgeladene Verfolgungsjagd auf einer nächtlichen, regnerischen Stadtstraße darstellt. Der Fokus liegt auf nassen Straßenreflexionen, stimmungsvoller Beleuchtung und dynamischer Kamerabewegung.
+
+#### 📝 Prompt
+
+```
+Erstelle ein 30-sekündiges, cineastisches und ultra-realistisches Live-Action-Video, das auf einer nächtlichen, regnerischen Stadtstraße spielt. Die nassen Fahrbahnen reflektieren dabei die Laternen und die Scheinwerfer vorbeifahrender Autos. Zeige eine Person, die allein bei starkem Regen entlang des Bürgersteigs geht, eine Umhängetasche trägt und eine dunkle Regenjacke anhat. Erfasse die Atmosphäre durch stimmungsvolle cineastische Beleuchtung, realistische Regentropfen, Reflexionen, Dunst und natürliche Nachtschatten. Führe allmählich eine weitere Person ein, die sich von hinten nähert, um Spannung und Unsicherheit zu erzeugen. Zeige, wie die Hauptfigur plötzlich reagiert und in der Nähe der Schaufenster mit der sich nähernden Person ringt. Setze die Szene fort, indem beide Charaktere durch den Regen auf ein geparktes Auto zulaufen, während die Kamera sie mit dynamischer Handkamera-Bewegung verfolgt. Nutze realistische menschliche Bewegungen, natürliche Körperphysik, detailliert durchnässte Kleidung und authentische urbane Geräuschkulisse. Beende das Video damit, dass die Hauptfigur auf der regnerischen Straße steht, während Scheinwerfer die Szene beleuchten und einen dramatischen cineastischen Schlussmoment hinterlassen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100087659473625088/img/DUCQqATPo0faWWv1.jpg" width="600" alt="Cinematic Video Prompt: Verfolgungsjagd in der regnerischen Nacht">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=10905)**
+
+**Autor:** [liana](https://x.com/Lianaalane) | **Quelle:** [Link](https://x.com/Lianaalane/status/2100088243492385019) | **Veröffentlicht:** Sep 16, 2026
+
+---
+### Prompt für koreanisches Morgenroutine-Beauty-Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Erstellung eines 30-sekündigen, ultrarealistischen Videos der Morgenroutine eines koreanischen Mädchens, einschließlich Make-up-Auftragen, Besuch eines gemütlichen Cafés und Hautpflege, mit vertikalem Format und kinematischer Beleuchtung.
+
+#### 📝 Prompt
+
+```
+Erstellen Sie ein Video eines koreanischen Mädchens, das eine ruhige, realistische morgendliche Beauty- und Café-Routine genießt. Ein koreanisches Mädchen mit natürlicher heller Haut, langen glatten schwarzen Haaren, feinen Gesichtszügen und einem sanften, eleganten Aussehen beginnt ihren Morgen friedlich und trägt Make-up im warmen natürlichen Licht auf. Sie holt einen Kaffee zum Mitnehmen ab und betritt dann ein gemütliches Café im koreanischen Stil mit Holzmöbeln, großen Fenstern, warmen Pendelleuchten und einer entspannten Atmosphäre. Sie setzt sich an einen Holztisch, liest sanft die Speisekarte oder Zeitung, während sie ihren Kaffee genießt, und isst dann ein leichtes Dessert mit natürlichen Gesichtsausdrücken. Das Video enthält Nahaufnahmen von Schönheitsdetails, realistische Handbewegungen, sanften Blickkontakt, subtile Lächeln und flüssige kinematische Kamerabewegungen. Die letzte Szene zeigt, wie sie ihre Hautpflegeroutine zu Hause in einem sanft beleuchteten Schlafzimmer abschließt, was eine friedliche Stimmung des alltäglichen koreanischen Lebensstils erzeugt. Ultrarealistische kinematische Visuals, natürliche Hauttextur, realistische Beleuchtung, geringe Schärfentiefe, weiche warme Töne, flüssige Bewegung, elegante Komposition, vertikales 16:9-Format, 30 Sekunden, kein Text, keine Untertitel, keine Logos, kein Wasserzeichen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100070451032821762/img/P_LAIA95C3om2IoI.jpg" width="600" alt="Prompt für koreanisches Morgenroutine-Beauty-Video">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=10904)**
+
+**Autor:** [Ayat](https://x.com/aiwithaayat) | **Quelle:** [Link](https://x.com/aiwithaayat/status/2100070781174907387) | **Veröffentlicht:** Sep 16, 2026
+
+---
+### Drohnenflugpfad-zu-Video-Prompt
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Ein detaillierter Prompt zur Generierung eines hyperrealistischen Drohnenvideos aus einem Pfadbild unter Verwendung von Seedance. Enthält Anweisungen zu Kamerabewegung, Maßstab und Beibehaltung des Motivs.
+
+#### 📝 Prompt
+
+```
+Ultra-kleiner Drohnenaufnahme in einer einzigen Einstellung.
+Beginne mit einer weiten Komposition, die den gesamten Körper der Person und das Sofa zeigt.
+Wechsle sofort zu einer fliegenartigen Kameraperspektive, die niedrig direkt über der Oberfläche des Sofas fliegt und den im Bild gezeichneten Linien und Zahlen als Bewegungspfad der Kamera folgt.
+
+Die Kamera darf keine Wegpunkte aus dem angehängten Bild überspringen; nähere dich jedem Wegpunkt eng an. Mache bei jedem Wegpunkt eine große Linkskurve oder Rechtskurve und steige entlang einer sanften S-förmigen Trajektorie entlang der Kontur des Körpers auf.
+
+Betone die ultra-kleine Perspektive und schaffe einen Makro-Maßstab, in dem die Stofffasern des Sofas und der Kleidung sowie die einzelnen Haare der Katze riesig wirken.
+Lasse die Person wie eine riesige Struktur erscheinen und drücke Tiefe und Parallaxe durch die Kamerabewegung stark aus.
+Verlangsame kurz vor dem Gesicht der Katze, dann steige über die Brust zum Gesicht auf und schwebe schließlich ruhig nahe am Gesicht der schlafenden Person.
+
+Der Flug sollte sanft sein, mit natürlicher Beschleunigung/Verzögerung und einem leichten Schwebgefühl. Berühre weder die Person noch die Katze.
+Halte die Gesichter der Person und der Katze, die Kleidung, die Haltung, den Hintergrund und das warme Licht exakt wie im Originalbild. Zeige im finalen Video keine Hilfslinien, Pfeile, Zahlen oder Text aus dem Bild.
+```
+
+<img src="https://cms-assets.youmind.com/media/1789538314005_720u3b_HSS15snbsAA6LRj.jpg" width="600" alt="Drohnenflugpfad-zu-Video-Prompt">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=10909)**
+
+**Autor:** [あぎ](https://x.com/agi_aibusi) | **Quelle:** [Link](https://x.com/agi_aibusi/status/2100054530457252147) | **Veröffentlicht:** Sep 16, 2026
+
+---
+### Niedliche Animation: Gescheiterter Locken-Dutt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Prompt für die Erstellung eines 15-sekündigen 3D-animierten Videos, in dem ein junges Mädchen mit roten Locken versucht, ihren Dutt zu richten, was komisch scheitert.
+
+#### 📝 Prompt
+
+```
+Erstelle ein niedliches, hochwertiges kinoreifes 3D-animiertes Video mit einer exakten Länge von 15 Sekunden und nutze das beigefügte Charakterblatt als strikte visuelle Referenz.
+
+CHARAKTER
+
+Ein süßes kleines schwarzes Mädchen mit warmer mittelbrauner Haut, großen ausdrucksstarken braunen Augen, weichen abgerundeten Gesichtszügen und sehr dicken, dichten, eng definierten roten Locken mit viel Volumen und individuellen Strähnen. Sie trägt dasselbe weiße Langarm-Oberteil und die hellen Lounge-Hosen aus der Referenz.
+
+Halte ihr Gesicht, ihren Hautton, ihre Körperproportionen, ihre Kleidung, ihre rote Haarfarbe und ihr Charakterdesign während des gesamten Videos identisch.
+
+SZENE
+
+Sie sitzt direkt vor ihrem Schminkspiegel im Schlafzimmer in einem gemütlichen Pastell-Zimmer. Warmes, weiches Licht, niedliches feminines Dekor, polierte stilisierte 3D-Animation, ausdrucksstarke Mimik, cineastische Tiefenschärfe.
+
+15-Sekunden-AKTION
+
+0–3 Sek:
+Sie blickt in den Spiegel und bürstet schnell, aber vorsichtig ihre riesige lockige Mähne abschnittsweise. Sie führt die gebürsteten Abschnitte nach hinten am Kopf zusammen.
+3–7 Sek:
+Sie zieht alle Haare nach oben und dreht sie zu einem hohen Dutt. Sie verwendet die Bürste, um den vorderen Haaransatz und die seitlichen Partien nach hinten zu glätten, sodass diese Bereiche sleek und ordentlich wirken, während das zusammengefasste Haar sichtbar lockig und voluminös bleibt.
+
+7–9 Sek:
+Gerade als der Dutt perfekt aussieht, springt eine widerspenstige lockige Strähne seitlich heraus.
+Sie bemerkt es im Spiegel und wirft einen genervten kleinen Blick.
+
+Sie bürstet die Strähne schnell nach hinten, steckt sie in den Dutt und sichert ihn mit mehreren kleinen Haarklammern.
+
+9–11 Sek:
+Sie prüft sich im Spiegel und lächelt stolz, zufrieden damit, dass der Dutt endlich hält.
+
+11–15 Sek:
+POP! POP! POP!
+
+Die Haarklammern lösen sich und der Dutt fällt komplett auseinander.
+Ihre gesamte Masse an dicken, dichten roten Locken fällt sofort wieder über ihre Schultern zurück und kehrt zur ursprünglichen großen lockigen Frisur vom Anfang zurück.
+
+Sie erstarrt, starrt sich im Spiegel an und zeigt einen übertrieben genervten, besiegt wirkenden Ausdruck.
+Ende auf ihrem frustrierten Gesicht für einen komödiantischen Moment.
+
+VISUELL & BEWEGUNG
+
+Sanfte hochwertige 3D-Animation, süße übertriebene Ausdrücke, natürliche Handbewegungen, realistische Physik für lockiges Haar, federnde individuelle Locken, subtile Kamerabewegung, weiche cineastische Beleuchtung und polierte Charakteranimation.
+
+Verwende schnelle, aber lesbare Schnitte zwischen der mittleren Einstellung am Schminktisch, der Nahaufnahme beim Bürsten, der Nahaufnahme des Dutts, der herausgesprungenen Locke, den Haarklammern und der finalen Reaktion.
+
+WICHTIG: Das offene Haar muss extrem lockig und dicht sein, nicht wellig oder glatt. Die vorderen und seitlichen Haare werden nur dann sleek, wenn sie sie absichtlich für den Dutt nach hinten bürstet. Wenn der Dutt zerfällt, kehren alle Haare in ihren ursprünglichen großen, eng gelockten, voluminösen Zustand zurück.
+
+Kein Text, keine Untertitel, keine Logos, kein Wasserzeichen, keine zusätzlichen Charaktere oder Änderungen an ihrem Aussehen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100050837481644032/img/8kuuWHuYbojKv31i.jpg" width="600" alt="Niedliche Animation: Gescheiterter Locken-Dutt">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=10902)**
+
+**Autor:** [Soulful Ai](https://x.com/soulful__ai) | **Quelle:** [Link](https://x.com/soulful__ai/status/2100050884835332169) | **Veröffentlicht:** Sep 16, 2026
+
+---
+### Fantasy-Abenteuer-Mädchen und Wolfsjunges Video-Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Prompt zur Generierung eines 30-sekündigen kinematischen 3D-animierten Videos, das ein junges Mädchen und ihr Wolfsjunges zeigt, wie sie eine magische Wildnis bei goldenem Licht erkunden.
+
+#### 📝 Prompt
+
+```
+Erstellen Sie ein 30-sekündiges kinematisches 3D-animiertes Video im Premium-Fantasy-Abenteurstil, das ein junges Mädchen und sein flauschiges weißes Wolfsjunges zeigt, wie sie eine magische Wildnis erkunden. Die Gegend ist von majestätischen Bergen, dichten grünen Wäldern, fließenden Flüssen, felsigen Klippen und friedlichen Seen unter warmen kinematischen Himmeln umgeben. Das Mädchen trägt eine einfache abenteuerliche Kleidung und bleibt visuell konsistent während des gesamten Videos, während das Wolfsjunges weiches, detailliertes weißes Fell und ausdrucksstarke Augen hat. Sie reisen gemeinsam durch den Wald, überqueren einen funkelnden Bach und entdecken wunderschöne natürliche Landschaften, die mit warmem Sonnenlicht und sanftem Nebel gefüllt sind. Ihre Freundschaft wird durch spielerische Momente, sanfte Interaktion und stille emotionale Ausdrücke gezeigt. Die Kamera verwendet glatte Tracking-Aufnahmen, breite kinematische Ansichten, Nahaufnahmen und langsame Bewegungen, um die Größe und Emotion jeder Szene einzufangen. Golden-Hour-Licht, realistisches Fell, detaillierte Umgebungen, weiche Schatten, atmosphärische Tiefe und hochwertige kinematische Rendering erzeugen einen Premium-Animierte-Film-Look. Die letzte Szene zeigt sie, wie sie zusammen neben einem friedlichen See bei Sonnenuntergang ruhen, umgeben von Bergen und leuchtenden Reflexionen, was ein warmes emotionales Ende schafft.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100036366558208000/img/6MmGmJWA7xg_9N_X.jpg" width="600" alt="Fantasy-Abenteuer-Mädchen und Wolfsjunges Video-Prompt">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=10903)**
+
+**Autor:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Quelle:** [Link](https://x.com/ayzalnooor24521/status/2100036712873488488) | **Veröffentlicht:** Sep 16, 2026
+
+---
+### Video-Prompt für Vulkan-Seifenbombe
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein detaillierter Video-Generierungs-Prompt für Seedance 2.0, der einen realistischen Dokumentarfilm-Stil-Clip eines Mannes erstellt, der aus einem Hubschrauber eine riesige Seifenstange in einen aktiven Vulkan wirft, was zu massiven Blasen führt, die die Kabine füllen.
+
+#### 📝 Prompt
+
+```
+【Grundeinstellungen】
+15 Sekunden, 9:16 Hochformat, eine durchgehende Einstellung, Live-Action-Dokumentarfotografie-Stil. Zeigt den gesamten Prozess eines Mannes, der aus einem Hubschrauber eine riesige Seifenstange in einen Krater wirft, gefolgt von massiven Seifenblasen, die aus dem Vulkan aufsteigen und die Kabine überfluten.
+
+Darstellung surrealer Ereignisse durch Vor-Ort-Beobachtung, mit natürlichen und zurückhaltenden Bildern sowie authentischen Charakterreaktionen. Keine komödiantische Darstellung, lustige Aktionen oder absichtlich entworfene Pointen. Die gesamte Sequenz ist eine einzige durchgehende Einstellung, ohne Schnitte, Übergänge, versteckte Bearbeitung, Zeitlupen oder Zeitsprünge.
+
+【Charaktere & Requisiten】
+Ein erwachsener Mann trägt eine dunkle Outdoor-Jacke, lange Hosen und Stiefel, mit einem Hüftgurt, der an einem festen Punkt in der Kabine befestigt ist, und befindet sich innerhalb der offenen Seitentür des Hubschraubers.
+
+Der Mann hält mit beiden Armen eine riesige rosa Seifenstange, die etwa 80 cm lang, 45 cm breit und 25 cm dick ist. Es handelt sich um ein abgerundetes rechteckiges Prisma mit einer glatten Oberfläche, leichten nassen Reflexionen, klarer Dicke und Gewicht. Keine Verpackung, kein Text.
+
+Im Inneren des Hubschraubers sind echte Sitze, feste Griffe, Metall-Türrahmen und Böden sichtbar. Der Pilot bleibt im vorderen Cockpit. Das Aussehen von Charakter, Kabine und Requisite bleibt während der gesamten Szene konsistent.
+
+【Umgebung & Fotografie】
+Tageslicht, natürliches Licht. Dunkle, raue Felswände umgeben einen breiten Krater, mit langsam brodelnder orangefarbener Magma am Boden und leichter thermischer Verzerrung in der Luft.
+
+Der Hubschrauber schwebt über dem Rand des Kraters, wobei die Seitentür zum Inneren des Vulkans zeigt. Die Komposition stellt eindeutig die Positionen des Mannes, der Tür und des Abwurfpunktes unten dar und wahrt die Konsistenz zwischen Wurfhöhe und tatsächlicher Fallzeit.
+
+Die Kamera wird immer vom Kameramann in der Kabine gehalten und vollführt nach vorne gerichtete Neigungen, Aufwärts-Schwenks und Rotationen nahe der Seitentür. Weitwinkel-Dokumentarkomposition, mit feinen Vibrationen durch Rotoren und natürlichen Handkamera-Anpassungen, wodurch Aktionen deutlich erkennbar sind. Natürliche Belichtung und Farbe, unter Beibehaltung der realen Texturen von Haut, Kleidung, Felswänden und Metall.
+
+【Kontinuierliche Zeitsequenz | 0:00—0:04 | Abwurf der Riesenseife】
+Aufnahme von innen aus der Kabine zur Seitentür hin. Der Mann und die Riesenseife nehmen den Vordergrund ein, wobei der Krater darunter durch die Tür deutlich sichtbar ist.
+
+Der Mann legt die Unterkante der Seife gegen die Schwelle, stabilisiert sie mit beiden Händen, beugt die Knie, um seinen Schwerpunkt nach vorne zu verlagern, und schiebt die Seife hinaus. Seine Arme strecken sich beim Schieben; sobald der Schwerpunkt der Seife die Schwelle überschreitet, lösen seine Hände explizit.
+
+Die Seife löst sich von der Kabine, beschleunigt nach unten mit einer leichten Drehung. Der Mann zieht seine Hände zurück, stabilisiert sich am Griff der Kabine und bleibt an Ort und Stelle, um zu beobachten.
+
+Die Kamera neigt sich natürlich nach vorne, schwenkt kontinuierlich entlang der Flugbahn der Seife nach unten und behält einen kleinen Abschnitt des Türrahmens am Rand des Bildes bei. Die Seife schrumpft allmählich in der Tiefe, berührt die Magma unten und erzeugt lokale Turbulenzen. Präsentieren Sie den Fallprozess vollständig, ohne Distanz zu überspringen oder plötzlich auf eine Nahaufnahme des Aufpralls zu schneiden.
+
+【Kontinuierliche Zeitsequenz | 0:04—0:09 | Schaumbildung, massive Blasen steigen auf】
+Die Kamera behält ihre nach unten gerichtete Neigung bei. Feine weiße Blasen erscheinen dort, wo die Seife die Magma berührt, dann expandiert der Schaum weiter und bedeckt allmählich die umgebende Magma.
+
+Transparente Seifenblasen wölben sich kontinuierlich und lösen sich vom brodelnden weißen Schaum, treiben mit dem aufsteigenden Luftstrom zum Hubschrauber. Anfangs nur wenige verstreute, nimmt ihre Zahl schnell zu und bildet eine dichte Ansammlung von Blasen mit Tiefe.
+
+Die Blasengrößen reichen von traubengroß bis basketballgroß, mit Dünnschichtreflexionen und schwacher Irisierung auf der Oberfläche, sodass man den Vulkan und die Felswände durch die Blasenmembranen hindurch sehen kann. Die Aufstiegsgeschwindigkeiten variieren leicht, kollidieren und deformieren sich gegenseitig, einige platzen natürlich, während dahinter weitere entstehen.
+
+Die Kamera beobachtet weiterhin die näher kommenden Blasen. Der ferne Vulkan ist noch durch Lücken sichtbar, während die nahen Blasen allmählich mehr vom Bild einnehmen. Es gibt eine klare Unterscheidung zwischen dem weißen Schaum auf der Magma und den transparenten Blasen, die in die Luft aufsteigen.
+
+【Kontinuierliche Zeitsequenz | 0:09—0:13.5 | Blasen treffen ein, überfluten die Kabine】
+Blasen steigen auf Türhöhe, werden vom Luftstrom um Rotoren und Rumpf herumgewirbelt. Einige platzen oder weichen ab, während mehr kontinuierlich von außerhalb der Seitentür hereinströmen.
+
+Die Kamera folgt den Blasen, die kontinuierlich nach oben gehoben werden, dreht sich sanft zurück in die Kabine, um den Mann erneut einzufangen. Die Aufnahmeposition und die Richtung des Türrahmens müssen kontinuierlich und konsistent bleiben; wechseln Sie nicht plötzlich zu einer Außenansicht.
+
+Der Mann hält einen festen Griff mit einer Hand, weicht leicht in die Kabine zurück und hebt natürlich die andere Hand, um Blasen zu blockieren, die sich seinen Augen nähern. Er beobachtet primär die Veränderungen vor ihm, schaut nicht in die Kamera, übertreibt die Darstellung nicht und spricht nicht.
+
+Blasen diffundieren ständig von der Tür in die Kabine, drängen sich zwischen die Sitze, die Schultern des Mannes und die Kamera. Membranen der nahen Blasen verformen sich sanft und gleiten, hinterlassen nassen weißen Schaum auf Haaren, Ärmeln und Sitzen, nachdem sie geplatzt sind. Mehrere Blasen füllen sofort nach, verdecken allmählich die Kabinenstruktur und die Konturen des Charakters.
+
+【Kontinuierliche Zeitsequenz | 0:13.5—0:15 | Kabine mit Blasen gefüllt, direkter Abschluss】
+Die Kamera behält die aktuelle Kabinenperspektive bei, weicht nur leicht mit dem Körper des Kameramanns zurück.
+
+Massive Blasen haben die Tür und die Umgebung der Person gedrängt, fast den Oberkörper des Mannes bedeckt. Blasen drängen, schweben und platzen weiterhin natürlich; durch teilweise Lücken sind dunkle Ärmel und die Hand am Griff sichtbar.
+
+Enden Sie direkt hier, ohne Aktionen wie das Teilen von Blasen, um das Gesicht zu zeigen, Blick in die Kamera oder erneutes Bedecktwerden hinzuzufügen. Kein Einfrieren des Bildes oder Herauszoomen.
+
+【Audio】
+Echte Rotorengeräusche und Windgeräusche an der Tür durchdringen die gesamte Sequenz, begleitet vom Geräusch der Seife, die über die Schwelle kratzt, fernes tiefes Grollen des vulkanischen Brodelns und subtile dichte Knallgeräusche, wenn Blasen in die Kabine eindringen. Die Klangentfernung ändert sich natürlich mit der Kamerarichtung. Keine Hintergrundmusik, Erzählung, Dialoge oder Comedy-Soundeffekte.
+
+【Wichtige Einschränkungen】
+9:16 Hochformat, 15 Sekunden, eine durchgehende Einstellung, Live-Action-Dokumentarfotografie-Textur. Die Kamera befindet sich immer nahe der Seitentür innerhalb desselben Hubschraubers.
+
+Es existiert nur eine riesige rosa Seifenstange; sie erscheint nach dem Wurf nicht erneut in den Händen des Mannes. Blasen entstehen zuerst aus dem Vulkan, steigen dann kontinuierlich zur Tür auf und strömen in die Kabine; sie können nicht aus dem Nichts auftauchen. Keine einzelne riesige Blase, die den Hubschrauber umhüllt.
+
+Transparente Blasen haben klare Dünnschichtstrukturen; weißer Schaum besteht aus feinen Blasen, vermeiden Sie die Darstellung als Rauch, Baumwolle oder Schnee. Verwenden Sie nur die letzten 1,5 Sekunden, um den Zustand zu zeigen, in dem der Oberkörper des Mannes fast von Blasen bedeckt ist, und enden Sie sofort. Keine Untertitel, Logos oder Wasserzeichen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100013356858155008/img/jB-3Pzkl01r21cA5.jpg" width="600" alt="Video-Prompt für Vulkan-Seifenbombe">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=10908)**
+
+**Autor:** [探路AI](https://x.com/TanLuAI) | **Quelle:** [Link](https://x.com/TanLuAI/status/2100013757779099770) | **Veröffentlicht:** Sep 16, 2026
+
+---
+### Prompt für ein komisches Video mit einer Gans und einer Katze auf der Flucht
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein humorvoller Prompt für ein 12-sekündiges fotorealistisches Smartphone-Video, das eine Katze zeigt, die auf einer von einem Hund gejagten Gans reitet. Mit spezifischen Anweisungen zur Tierphysik, zum komödiantischen Timing und zu den Audio-Hinweisen.
+
+#### 📝 Prompt
+
+```
+Ein durchgehender 12-sekündiger, fotorealistischer Handheld-Smartphone-Videoclip, aufgenommen im rohen 4K-Hochformat entlang einer gepflasterten Landstraße. Sekunden 0–4: Eine weite Verfolgungsaufnahme folgt einer großen weißen Hausgans, die über den Asphalt sprintet. Auf dem Rücken der Gans sitzt fest eine orange getigerte Katze, deren Vorderpfoten sich eng um den Hals der Gans schlingen und deren Schnurrhaare vom Wind flachgelegt werden. Direkt hinter ihnen springt ein aufgeregter Golden Retriever in voller Fahrt ins Bild und bellt wütend in lauten, atemlosen Ausbrüchen, während er versucht, aufzuholen. Sekunden 5–8: Die Gans biegt plötzlich vom Asphalt auf einen weichen Grünstreifen ab und bremst hart. Die orangefarbene Katze steigt sofort ab, landet auf dem Rasen und geht in einen absurden, ultraschnellen, cartoonhaften Vierbeiner-Turbo-Galopp über – ihre Beine bewegen sich in einem manischen, hochgeschwindigkeitsverschwommenen Blur. Statt in die Büsche zu fliehen, dreht die Katze eine rasante Runde und saust direkt an den verwirrten Beinen des Hundes vorbei. Sekunden 9–12 (Der Twist): Der Golden Retriever macht eine Notbremsung, sein Kopf dreht sich vor völliger Verwirrung, als die hyperschnelle Katze wie ein professioneller Stunt-Reiter direkt wieder auf den wartenden Rücken der Gans springt. Die Gans beschleunigt sofort und rast die Straße hinunter davon, während der Hund auf seinen Hinterläufen sitzen bleibt, fassungslos hechelt und das Duo entkommen lässt. Visuelle & Stil-Spezifikationen: Rohes virales Handy-Footage, realistische Physik für die Tiere mit hochfrequenter komischer Bein-Verwischung beim Hypersprint der Katze, sonnige natürliche Beleuchtung, echte Fell-/Federstrukturen, dynamische Handkamera-Wackelbewegung. Audiospur: Schnelle rhythmische Tritte auf dem Asphalt, energisches Bellen und Hecheln des Hundes, abrupte Gänsehonks, untermalt von einer Frau außerhalb des Bildes, die in unkontrollierbares, hysterisches Schnauben-Lachen ausbricht und völlig die Kontrolle verliert, wenn die Katze in den Ultraschnell-Sprintmodus wechselt.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099966059625226240/img/zkNxhqLWBb1sk-OW.jpg" width="600" alt="Prompt für ein komisches Video mit einer Gans und einer Katze auf der Flucht">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=10906)**
+
+**Autor:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Quelle:** [Link](https://x.com/Dheepanratnam/status/2099966300961554796) | **Veröffentlicht:** Sep 15, 2026
+
+---
 ### Korean Lifestyle Vlog Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2860,25 +3110,6 @@ Stil & Parameter: Fotorealistisches 3D-Rendering, elegante Ästhetik, sanftes Pa
 **Autor:** [Maya](https://x.com/MayaAiCreator) | **Quelle:** [Link](https://x.com/MayaAiCreator/status/2098040077284745362) | **Veröffentlicht:** Sep 10, 2026
 
 ---
-### Handgehaltene iPhone POV-Paarinteraktion
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Ein hochdetaillierter seedance 2.0-Prompt für ein 15-sekündiges Video im First-Person-iPhone-Stil, das ein Paar bei der Interaktion in einem Wohnzimmer zeigt, mit Fokus auf Charakterkonsistenz und natürlichen Requisiten wie einem Keksstäbchen.
-
-#### 📝 Prompt
-
-```
-15 Sekunden, vertikales 9:16-Seitenverhältnis, unbearbeitetes, handgehaltenes iPhone-Filmmaterial. Ein männlicher Liebhaber sitzt neben der weiblichen Hauptdarstellerin und filmt sie mit der Rückkamera mit seiner rechten Hand, während seine linke Hand mit ihr interagiert. Das Telefon wird leicht über Brusthöhe in der Nähe der Augenhöhe gehalten; sie weiß, dass sie gefilmt wird. Die folgenden sechs Abschnitte sind Segmente einer kontinuierlichen Aufnahme ohne filmische Schnitte. Die Bildgestaltung ändert sich durch subtile Handgelenksbewegungen, Vorbeugen und das Näherkommen der weiblichen Hauptdarstellerin. [Charakter- & Kleidungssperre] Die weibliche Hauptdarstellerin ist die erwachsene asiatische Charakterin Nr. 2 (ID: hf_20260617_232600_51d878a7-0e46-47e1-969e-b9d76667762e) mit dekorativer Brille, die sich strikt an die Charakter-Voreinstellungen für Gesicht, Haar und Körperbau hält. Trägt durchgehend die voreingestellte Kleidung Nr. 1 mit Strümpfen. Der Mann ist ihr Liebhaber, nur seine Off-Stimme und seine linke Hand sind zu sehen. [Szene] Modernes Wohnzimmer in einer Wohnung mit Retro-Einrichtung: braunes Ledersofa, TV-Ständer aus Holz, Fliesenboden, warme gelbe Lampe, leise laufender Fernseher. [Qualität] Automatische Einstellungen, natürliche Farben, Hauttextur, Rauschen bei schwachem Licht, handgehaltene Verwacklungen. [Requisiten] Eine Packung langer, dünner Keksstäbchen. [Aktionssequenz beinhaltet: 0-3s Fauler Tagesablauf, 3-5s Spielerische Interaktion, 5-7s Schüchterne Reaktion, 7-10s Anbieten eines Keksstäbchens, 10-12s Ihn bitten, ihn zu füttern, 12-15s Füttern per Mund]. Natürliches chinesisches Audio, lippensynchron. Keine Hintergrundmusik oder Voiceover. Negative Einschränkungen: keine Third-Person-Perspektiven, keine Schönheitsfilter, keine Zeitlupe, keine Texteinblendungen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097711267511255041/img/GbK-oxFoJ7cDtxOb.jpg" width="600" alt="Handgehaltene iPhone POV-Paarinteraktion">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=10703)**
-
-**Autor:** [John](https://x.com/john87445528) | **Quelle:** [Link](https://x.com/john87445528/status/2098018656076845291) | **Veröffentlicht:** Sep 10, 2026
-
----
 ### Cyberpunk Pho-Stand Anime-Video
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -3159,88 +3390,6 @@ Erstelle ein 15-sekündiges, ultra-fotorealistisches UGC-Selfie-Video zur Hautpf
 **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=10631)**
 
 **Autor:** [ImPaul](https://x.com/impaulxyz) | **Quelle:** [Link](https://x.com/impaulxyz/status/2097630235067920884) | **Veröffentlicht:** Sep 9, 2026
-
----
-### K-Drama vs. Realität: Ein Performance-Kontrast
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Ein detaillierter filmischer Video-Prompt für Seedance, der die romantisierte Ästhetik koreanischer Dramen mit der rauen, direkten Anmutung einer Handyaufnahme unter Verwendung von Character Binding kontrastiert.
-
-#### 📝 Prompt
-
-```
-Dauer: 20 Sekunden
-Bildformat: 9:16 Hochformat
-Thema: Der Kontrast zwischen demselben koreanischen Satz in K-Dramen vs. Realität.
-Format: Einzelne Figur, zwei Zustände, fünf Sets von A/B-Hard-Cut-Vergleichen.
-
-[Character Binding]
-Einzigartige Charakter-Karte. Behalten Sie die Identität der Figur durchgehend bei; nutzen Sie Gesicht, Frisur und Kleidung aus dem Referenzbild ohne Neugestaltung des Looks.
-A und B sind zwei Darstellungen derselben Person, kein Dialog zwischen zwei Personen, keine Zwei-Personen-Einstellung oder geteilter Bildschirm.
-
-[Zustand A | Koreanischer Liebesfilm]
-Nahaufnahme der Charaktere in einem koreanischen Liebesfilm, raffiniert, sanft, subtil, mit einer leicht romantischen Note.
-
-Beleuchtung:
-Großes, weiches Licht von der Fensterseite beleuchtet das Gesicht mit feinen Licht-Schatten-Übergängen; ein Strahl weichen, warmen Gegenlichts von hinten seitlich umreißt sanft Haar und Schulter. Die Augen haben natürliche Reflexe, das Gesicht wirkt dreidimensional, keine flache Beauty-Beleuchtung.
-
-Color Grading:
-Cremeweiße Highlights, entsättigte warme Hauttöne, leicht bläulich-graue kühle Schatten. Insgesamt klar, Schwarztöne leicht weich, fließender Übergang in hellen Bereichen. Hintergrund tendiert zu Off-White, Hellgrau und hellen warmen Farben.
-
-Filmische Textur:
-Look eines Porträt-Objektivs mit mittlerer Telebrennweite, geringe Schärfentiefe, Augen und Mund scharf, Vorhänge und Lichter im Hintergrund in ein zartes Bokeh aufgelöst. Hochintensive Highlights mit extrem leichtem weichen Halo, wobei die Hautstruktur und ein feines Filmkorn erhalten bleiben.
-Jede A-Einstellung hat nur einen sehr leichten, fast unmerklichen langsamen Zoom-in.
-
-Performance:
-Sanfter Blick, natürliche Atmung, kleine Bewegungsspanne. Kurze emotionale Pause vor dem Sprechen, die Stimme ist sanft, der Satz endet leise, als würde man in einem K-Drama mit jemandem Vertrauten sprechen.
-
-[Zustand B | Gewöhnliche Handyaufnahme]
-Reale Innenaufnahme mit der Frontkamera, einfacher grauer Wandhintergrund, direkte Frontalbeleuchtung. Neutraler Weißabgleich, Kontrast und Schärfe direkter als bei A, Hintergrund ebenfalls schärfer.
-Verzicht auf A's Gegenlichtkontur, geringe Schärfentiefe, weichen Halo und filmisches Grading, aber Beibehaltung der normalen Belichtung und realistischen Hautstruktur.
-Feste Kamera, Bildausschnitt etwas enger als bei A, Beibehaltung eines leichten Weitwinkel-Nahaufnahme-Gefühls, keine übertriebene Gesichtsverzerrung.
-
-Performance:
-Direkter Blick in die Kamera, Augen und Brauen spürbar angespannt, Körper leicht nach vorne gebeugt, Tonfall kurz, direkt und ungeduldig. Komik entsteht durch den plötzlichen Gesichtswechsel und den Sprechstil, nicht durch übertriebenes Schreien.
-
-[Komposition & Schnitt]
-Einheitliche vertikale mittlere Nahaufnahme von Kopf bis Taille, Augenposition auf ähnlicher Höhe gehalten.
-Hard Cut zu B unmittelbar nach Ende von A, Textur, Ausdruck und Ton ändern sich gleichzeitig.
-Das Gesicht bleibt bei jedem Schnitt erkennbar, keine Verzerrungen, weißen Blitze, schwarzen Frames oder Kostümwechsel.
-
-SHOT 1 | 00–04s | Nicht hinsehen
-
-Subjekt:
-Dieselbe Person, Kontrast zwischen sanfter Subtilität und direktem Tadel.
-
-Aktion / Performance:
-00–02s, Zustand A:
-Die Figur schaut zuerst nach unten zur Seite, dreht dann sanft die Augen zur Kamera mit einem Hauch von subtilem Lächeln und sagt leise '보지 마' (Schau nicht hin). Beendet den Satz und senkt den Blick leicht, wobei eine natürliche Schüchternheit gewahrt bleibt.
-Die Kamera zoomt sehr langsam hinein, weiches warmes Gegenlicht beleuchtet eine kleine Haarpartie.
-
-02–04s, Hard Cut Zustand B:
-Die Figur starrt direkt in die Kamera, Brauen zusammengezogen, Kopf leicht nach vorne, wiederholt '보지 마' (Schau nicht hin) mit deutlich schwererem Tonfall, gefolgt von einem Schimpfwort.
-Das letzte Wort verklingt, der Blick bleibt fest auf die Kamera gerichtet, ein Hauch von verärgerter Regungslosigkeit.
-
-Dialog:
-A: '보지 마.'
-B: '보지 마, 이 개새끼야.'
-
-Umgebung / Kamera / Stil:
-A bietet weiche Lichtvorhänge und cremiges Bokeh, K-Drama filmische Textur.
-B bietet graue Wand, direktes Licht und statische Handyaufnahme.
-
-Einschränkungen:
-Beide Sätze werden von der Person im Bild gesprochen, A beenden, dann Schnitt zu B, präzises Lip-Sync.
-
-(Die restlichen Segmente folgen demselben Kontrastmuster...)
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097609259991416832/img/LLUBe5snd8pddPgW.jpg" width="600" alt="K-Drama vs. Realität: Ein Performance-Kontrast">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=10635)**
-
-**Autor:** [John](https://x.com/johnAGI168) | **Quelle:** [Link](https://x.com/johnAGI168/status/2097609548357927333) | **Veröffentlicht:** Sep 9, 2026
 
 ---
 ### Dunkle gotische psychologische Horrorspiegel-Szene
@@ -5278,205 +5427,6 @@ Ultrarealistische, filmische Street-Fashion-Szene in einer belebten modernen Sta
 **Autor:** [妖精アーヤ](https://x.com/aiehon_aya) | **Quelle:** [Link](https://x.com/aiehon_aya/status/2096357706361913818) | **Veröffentlicht:** Sep 5, 2026
 
 ---
-### Filmreife Sci-Fi-Action: Ringwelt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein groß angelegter Science-Fiction-Action-Prompt zur Generierung eines Kampfpiloten, der mit realistischer Physik durch kollidierende, rotierende Ringwelten rast.
-
-#### 📝 Prompt
-
-```
-15-sekündige filmreife Sci-Fi-Actionsequenz, 16:9, ultrarealistisch, unvorstellbarer Maßstab, lebendige Farben, realistische Physik, kein sichtbares Gesicht, kein Text, kein Dialog.
-Ein Jäger fliegt innerhalb einer gigantischen rotierenden Ringwelt.
-Eine zweite Ringwelt taucht aus den Wolken darüber auf.
-Der Pilot erkennt, dass beide Strukturen denselben Raum einnehmen.
-Sie rotieren langsam ineinander.
-Ganze Städte beginnen zu kollidieren.
-Berge brechen ab.
-Gigantische Brücken stürzen ein.
-Der Jäger rast durch die wachsende Aufprallzone.
-Zwei kontinentale Landmassen konvergieren vor ihm.
-Die Lücke schrumpft mit jeder Sekunde.
-Der Pilot taucht Sekunden vor der Kollision hindurch.
-Schnitt.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096303145559244803/img/qO9-5iyiBcdtfdRE.jpg" width="600" alt="Filmreife Sci-Fi-Action: Ringwelt">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=10401)**
-
-**Autor:** [Alexandra Aisling](https://x.com/AllaAisling) | **Quelle:** [Link](https://x.com/AllaAisling/status/2096303315277553901) | **Veröffentlicht:** Sep 5, 2026
-
----
-### Horror-Ausbruch im letzten Zug
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Eine detaillierte, 22-teilige filmische Sequenz, die einen Zombie-Ausbruch in einem Zug darstellt – von der ersten Infektion bis hin zum totalen Chaos.
-
-#### 📝 Prompt
-
-```
-22-teilige filmische Zug-Ausbruch-Sequenz, insgesamt 30 Sek. Aussehen, Gesicht und Kleidung der Charaktere entsprechen dem Referenzbild.
-
-1. 0–1,2s: Eine fiebrige Frau sitzt allein in einem halbleeren Zug und prüft nervös Nachrichten auf ihrem Handy, gedimmtes Dämmerlicht.
-2. 1,2–2,4s: Nahaufnahme des Handys mit unscharfen Notfallnachrichten; Spiegelung des besorgten Fahrgasts.
-3. 2,4–3,6s: Militärlastwagen und Blaulicht ziehen draußen vorbei; Fahrgäste blicken beunruhigt aus dem Fenster.
-4. 3,6–4,8s: Die Frau hustet leise in ihren Ärmel, schwitzt, der Platz neben ihr ist leer.
-5. 4,8–6s: Ein Fahrgast schläft friedlich am Fenster, ahnungslos von der Gefahr.
-6. 6–7,2s: Die Augen der Frau werden glasig; ihre Atmung verlangsamt sich, ihr Ausdruck wird leer und unheimlich.
-7. 7,2–8,5s: Sie steht steif auf und geht unbemerkt in den Gang.
-8. 8,5–10s: Sie nähert sich lautlos dem schlafenden Fahrgast.
-9. 10–11,2s: Sie beißt ihn plötzlich in die Schulter; er erwacht vor Schock und Schmerz, Zeitlupen-Aufprall.
-10. 11,2–12,5s: Fahrgäste in der Nähe bemerken es zu spät, Verwirrung schlägt in Panik um.
-11. 12,5–13,8s: Das Opfer hält sich die blutende Schulter, atmet schwer.
-12. 13,8–15s: Dunkle Adern breiten sich schnell an seinem Hals aus; sein Körper beginnt zu zittern.
-13. 15–16,3s: Er zuckt heftig im Gang, während Fahrgäste erstarren oder fliehen.
-14. 16,3–17,5s: Seine Augen rollen nach hinten und öffnen sich dann blutunterlaufen und leer; die Verwandlung ist abgeschlossen.
-15. 17,5–18,8s: Er stürzt sich auf einen anderen Fahrgast, Schreie und Chaos brechen aus.
-16. 18,8–20,2s: Fahrgäste klettern über Sitze, lassen Handys und Taschen fallen; chaotische Handkamera.
-17. 20,2–21,5s: Ein weiteres Opfer verwandelt sich schnell und greift jemanden an; der Ausbruch breitet sich aus.
-18. 21,5–23s: Überlebende eilen zur Verbindungstür und verbarrikadieren sie mit Gepäck.
-19. 23–24,5s: Die Tür schlägt zu; Kissen und Gepäck blockieren sie, während infizierte Hände von außen dagegen hämmern.
-20. 24,5–26s: Nahaufnahme der bebenden verbarrikadierten Tür; Überlebende atmen vor Angst schwer.
-21. 26–28s: Infizierte Gesichter pressen sich gegen das Glas, während sich Risse ausbreiten.
-22. 28–30s: Überlebende kauern im nächsten Waggon und starren durch die berstende Tür auf die Horde; flackerndes Licht, stille Beklemmung.
-
-Stil: filmischer Horror, realistisches Schauspiel, Quarantäne-Atmosphäre, Dämmerlicht, spannungsgeladenes Tempo, chaotische Handkamera während des Ausbruchs, unheimliche Stille während des Aufbaus, nahtlose Kontinuität, dramatische Kamerabewegungen, hochdetaillierter Film-Look.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096238873013895168/img/tfilzh7MI_DIepqH.jpg" width="600" alt="Horror-Ausbruch im letzten Zug">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=10398)**
-
-**Autor:** [Tensor](https://x.com/QAiStudio) | **Quelle:** [Link](https://x.com/QAiStudio/status/2096238921986539847) | **Veröffentlicht:** Sep 5, 2026
-
----
-### Riesige Domino-Wasser-Parkour-Challenge
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Ein actiongeladener Video-Prompt, bei dem ein Herausforderer über die schmalen Oberkanten riesiger Steindominosteine rennt, während diese hinter ihm ins Wasser fallen.
-
-#### 📝 Prompt
-
-```
-Dauer: 15 Sekunden
-Seitenverhältnis: 9:16
-Allgemeiner Stil:
-Realistische Aufnahme eines Wasser-Hindernisparcours, hohe Geschwindigkeit, mitreißend, durchgehend. Das zentrale visuelle Element ist 'eine Person, die über die Oberkanten riesiger Dominosteine rennt, während diese nacheinander hinter ihr umfallen.' Normale Wiedergabegeschwindigkeit, keine Zeitlupe, keine wackelnde Kamera für künstliche Spannung.
-
-Charakterreferenz:
-@Image 1 ist die eindeutige Identitätsreferenz für den Herausforderer. Behalten Sie Identität, Aussehen, Sportkleidung und Sportschuhe bei. Das Referenzbild dient nur für den Charakter, nicht für den Hintergrund oder die ursprüngliche Pose.
-
-Requisitenform – Strenge Vorgaben:
-Auf blaugrünem Wasser ist eine Reihe riesiger grauer Steindominosteine angeordnet.
-Jeder ist eine vertikal stehende, dünne, rechteckige Steinplatte: breite Vorder-/Rückseiten, sehr dünne Seiten, schmale Oberkante. Matte Steinoberfläche, scharfe Kanten, keine Zahlen oder Texte.
-Müssen wie vergrößerte Dominosteine aussehen, auf keinen Fall Würfel, quadratische Säulen, dicke Stelen oder breite Stufen.
-Die Person tritt auf die schmale Oberkante. Zwischen den benachbarten Dominosteinen ist Wasser sichtbar, was einen durchgehenden Pfad bildet, der zu einer breiten grauen Plattform führt.
-
-Bewegung der Dominosteine:
-Die Dominosteine kippen nahe der Basis nach hinten; während sie kippen, wird die breite Fläche sichtbar und schlägt dann auf das Wasser auf.
-Die Steine hinter der Person fallen einer nach dem anderen um und erzeugen einen kontinuierlichen Domino-Effekt-Rhythmus. Die Steine vor der Person bleiben aufrecht; der Fallprozess folgt der Person eng und darf sie nicht überholen.
-Die Dominosteine bleiben starr, kein Verbiegen, Falten oder Zersplittern; sie richten sich nach dem Fallen nicht wieder auf.
-
-[Vollständige übersetzte Sequenzbeschreibung aus Platzgründen weggelassen...]
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096217637357228036/img/-5C1vksYkBykER_A.jpg" width="600" alt="Riesige Domino-Wasser-Parkour-Challenge">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=10408)**
-
-**Autor:** [John](https://x.com/johnAGI168) | **Quelle:** [Link](https://x.com/johnAGI168/status/2096222493044334883) | **Veröffentlicht:** Sep 5, 2026
-
----
-### Ostasiatische Frau in der Einsamkeit eines Apartments
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein minimalistischer, filmischer Prompt, der Momente stiller Einsamkeit in einem Hochhaus-Apartment darstellt – vom Lesen im Nachmittagslicht bis zum Schreiben im nächtlichen Lichterglanz der Stadt.
-
-#### 📝 Prompt
-
-```
-Eine wunderschöne junge ostasiatische Frau mit langem, glattem schwarzem Haar, bekleidet mit einem weichen, cremeweißen Oversize-Pullover und einer passenden lockeren Hose, verbringt einen ruhigen Tag allein in einem Hochhaus-Apartment. Ihre Stimmung ist gelassen, leicht melancholisch und nachdenklich. Zuerst blickt sie mit aufgestütztem Kinn aus einem regennassen Fenster auf die Stadt hinunter. Dann gießt sie in einer hellen Küche dampfenden Kaffee aus einer Glaskaraffe in eine Tasse. Als Nächstes sitzt sie auf einem Sofa und liest ein Buch im warmen Nachmittagslicht. Später sitzt sie mit großen Kopfhörern im Schneidersitz auf dem Holzboden, die Augen geschlossen, umgeben von verstreuten Schallplatten und einem aufgeschlagenen Buch. Schließlich schreibt sie nachts am Fenster in ein Notizbuch, während die leuchtende Skyline der Stadt hinter ihr zu sehen ist. Weiches natürliches Licht, filmisch, friedlich, minimalistische Ästhetik, fließende Übergänge.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096105342405099520/img/NFrZgiMj9WP7TN4f.jpg" width="600" alt="Ostasiatische Frau in der Einsamkeit eines Apartments">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=10405)**
-
-**Autor:** [liana](https://x.com/Lianaalane) | **Quelle:** [Link](https://x.com/Lianaalane/status/2096105365419209139) | **Veröffentlicht:** Sep 5, 2026
-
----
-### Dead End Express Zombie-Transformation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Video-Prompt mit 25 Einstellungen für eine Horrorszene in einem Zug, die einen viralen Ausbruch sowie das darauffolgende Chaos und die Panik darstellt.
-
-#### 📝 Prompt
-
-```
-Einstellung 1 (0–1,2s): Charakter passend zum Referenzbild, sitzt in einem stehenden Zug, fiebrig und schwitzend, während rote Kontrollleuchten draußen vorbeiziehen.
-
-Einstellung 2 (1,2–2,4s): Soldaten und Beamte kommen an Bord und untersuchen die Passagiere mit Taschenlampen, während alle nervös zusehen.
-
-Einstellung 3 (2,4–3,6s): Nahaufnahme ihrer zitternden Hand; Adern verdunkeln sich unter ihrer Haut, während ihre Atmung flacher wird.
-
-Einstellung 4 (3,6–4,8s): Ein Beamter prüft Dokumente und bleibt neben ihr stehen, ohne die Gefahr zu bemerken.
-
-Einstellung 5 (4,8–6s): Ihre Augen trüben sich weiß ein und ihr Kopf neigt sich unnatürlich in seine Richtung.
-
-Einstellung 6 (6–7,2s): Sie beißt ihn plötzlich in den Arm; extreme Nahaufnahme, schockierte Reaktion, filmische Zeitlupe.
-
-Einstellung 7 (7,2–8,4s): Passagiere schreien und weichen zurück, während der verletzte Beamte in den Gang taumelt.
-
-Einstellung 8 (8,4–9,6s): An seiner Bisswunde bilden sich schnell verzweigte, dunkle Adern, während sich die Infektion ausbreitet.
-
-Einstellung 9 (9,6–10,8s): Soldaten draußen bemerken das Chaos durch die Fenster und schlagen Alarm.
-
-Einstellung 10 (10,8–12s): Der Beamte zuckt heftig unter flackerndem Licht.
-
-Einstellung 11 (12–13s): Seine Augen schnellen auf, blutunterlaufen und leer – die Verwandlung ist abgeschlossen.
-
-Einstellung 12 (13–14s): Er greift einen Passagier in der Nähe an, was in dem engen Waggon eine Massenpanik auslöst.
-
-Einstellung 13 (14–15s): Passagiere stürmen zu den Türen, doch die Soldaten draußen schlagen sie zu und verriegeln sie.
-
-Einstellung 14 (15–16,2s): Ein Soldat verschließt das äußere Schloss, während Passagiere verzweifelt gegen das Glas hämmern.
-
-Einstellung 15 (16,2–17,4s): Totale: Die Passagiere erkennen, dass sie in dem versiegelten Zugwaggon gefangen sind.
-
-Einstellung 16 (17,4–18,6s): Ein frisch gebissener Passagier verwandelt sich innerhalb von Sekunden und greift andere an.
-
-Einstellung 17 (18,6–19,8s): Überlebende weichen nach hinten aus, gefangen zwischen versiegelten Türen.
-
-Einstellung 18 (19,8–21s): Ein Passagier greift nach einem Feuerlöscher und macht sich bereit, den herannahenden Infizierten entgegenzutreten.
-
-Einstellung 19 (21–22,2s): Er sprüht sie mit dem weißen Löschmittel ein und hüllt den Waggon in Nebel.
-
-Einstellung 20 (22,2–23,4s): Soldaten beobachten das Geschehen schweigend von außen mit erhobenen Waffen, unsicher, ob sie eingreifen sollen.
-
-Einstellung 21 (23,4–24,6s): Der vollständig infizierte Charakter drückt sich gegen das Glas der versiegelten Tür, während die Überlebenden in die Enge getrieben werden.
-
-Einstellung 22 (24,6–25,8s): Überlebende verbarrikadieren sich in einer Toilette, während draußen Hämmern und Schreie widerhallen.
-
-Einstellung 23 (25,8–27s): Totale der Infizierten und Überlebenden, die im versiegelten Waggon unter grellem Kontrolllicht kämpfen.
-
-Einstellung 24 (27–28,2s): Ein Soldat funkt Verstärkung an, während der Zug durch das Chaos im Inneren erschüttert wird.
-
-Einstellung 25 (28,2–30s): Außenaufnahme: Der bewegungslose Zug am Kontrollpunkt, versiegelte Türen, beschlagene Fenster und Silhouetten, die im Inneren kämpfen – ein Ende im Horror-Gefängnis.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096097568979927040/img/DcA5TuDfdvpmtgaP.jpg" width="600" alt="Dead End Express Zombie-Transformation">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=10377)**
-
-**Autor:** [WasifAI](https://x.com/doctorwasif) | **Quelle:** [Link](https://x.com/doctorwasif/status/2096097630317392019) | **Veröffentlicht:** Sep 5, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -5538,6 +5488,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-09-16T03:49:00.890Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-09-17T03:54:59.202Z</sub>
 
 </div>

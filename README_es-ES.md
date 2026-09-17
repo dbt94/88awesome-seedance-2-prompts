@@ -68,9 +68,9 @@ Una colección curada de prompts de generación de video de alta calidad para Se
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **6384** |
+| 📝 Total de prompts | **6389** |
 | ⭐ Prompts destacados | **6** |
-| 🔄 Última actualización | **2026-09-16** |
+| 🔄 Última actualización | **2026-09-17** |
 
 ---
 
@@ -361,6 +361,256 @@ Ultra realista, energía inspirada en Fast and Furious, iluminación fotorrealis
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Prompt de Video Cinematográfico: Persecución en Noche Lluviosa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt para un video de acción real ultra-realista de 30 segundos que representa una escena de persecución tensa en una calle urbana lluviosa por la noche, enfocándose en los reflejos del asfalto mojado, iluminación atmosférica y movimiento dinámico de cámara.
+
+#### 📝 Prompt
+
+```
+Crea un video cinematográfico de acción real ultra-realista de 30 segundos ambientado en una calle urbana lluviosa por la noche, con el asfalto mojado reflejando las luces de la calle y los faros de los coches que pasan. Muestra a una persona caminando sola por la acera bajo una lluvia intensa, llevando un bolso de hombro y vistiendo una chaqueta impermeable oscura. Captura la atmósfera con iluminación cinematográfica melancólica, gotas de lluvia realistas, reflejos, niebla y sombras naturales nocturnas. Introduce gradualmente a otra persona acercándose desde atrás, creando una sensación de tensión e incertidumbre. Muestra al personaje principal reaccionando repentinamente y forcejeando con la persona que se acerca cerca de los escaparates. Continúa con ambos personajes corriendo bajo la lluvia hacia un coche estacionado mientras la cámara sigue con un movimiento dinámico en mano. Utiliza movimiento humano realista, física corporal natural, ropa detallada y húmeda, y una auténtica ambientación urbana. Termina con el personaje principal de pie en la calle lluviosa mientras los faros iluminan la escena, dejando un momento final cinematográfico dramático.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100087659473625088/img/DUCQqATPo0faWWv1.jpg" width="600" alt="Prompt de Video Cinematográfico: Persecución en Noche Lluviosa">
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=10905)**
+
+**Autor:** [liana](https://x.com/Lianaalane) | **Fuente:** [Link](https://x.com/Lianaalane/status/2100088243492385019) | **Publicado:** Sep 16, 2026
+
+---
+### Prompt de Video de Rutina de Mañana Coreana
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt para crear un video ultra realista de 30 segundos sobre la rutina matutina de una chica coreana, incluyendo aplicación de maquillaje, visita a una acogedora cafetería y cuidado de la piel, con encuadre vertical e iluminación cinematográfica.
+
+#### 📝 Prompt
+
+```
+Se creó un video de una chica coreana disfrutando de una tranquila y realista rutina matutina de belleza y cafetería. Una chica coreana con piel clara natural, cabello negro largo y liso, rasgos faciales delicados y una apariencia suave y elegante comienza su mañana en paz, aplicándose maquillaje bajo luz natural cálida. Recoge un café para llevar, luego entra en una acogedora cafetería de estilo coreano con muebles de madera, grandes ventanales, lámparas colgantes cálidas y una atmósfera relajada. Se sienta en una mesa de madera, lee suavemente el menú o un periódico mientras disfruta de su café, y luego come un postre ligero con expresiones naturales. El video incluye primeros planos de belleza, movimientos realistas de las manos, contacto visual suave, sonrisas sutiles y transiciones de cámara cinematográficas fluidas. La escena final muestra completando su rutina de cuidado de la piel en casa, en un dormitorio con luz suave, creando una atmósfera pacífica del estilo de vida cotidiano coreano. Visuales cinematográficos ultra realistas, textura de piel natural, iluminación realista, profundidad de campo reducida, tonos cálidos suaves, movimiento fluido, composición elegante, formato vertical 16:9, 30 segundos, sin texto, sin subtítulos, sin logotipos, sin marcas de agua.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100070451032821762/img/P_LAIA95C3om2IoI.jpg" width="600" alt="Prompt de Video de Rutina de Mañana Coreana">
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=10904)**
+
+**Autor:** [Ayat](https://x.com/aiwithaayat) | **Fuente:** [Link](https://x.com/aiwithaayat/status/2100070781174907387) | **Publicado:** Sep 16, 2026
+
+---
+### Prompt de video a partir de una ruta de dron
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt detallado para generar un video hiperrealista de toma con dron a partir de una imagen de ruta utilizando Seedance. Incluye instrucciones sobre el movimiento de cámara, la escala y la preservación del sujeto.
+
+#### 📝 Prompt
+
+```
+Toma única de ultra-dron en miniatura.
+Comienza con una composición amplia que muestre todo el cuerpo de la persona y el sofá.
+Transiciona inmediatamente a una perspectiva de cámara del tamaño de una mosca, volando bajo justo por encima de la superficie del sofá, siguiendo las líneas y números dibujados en la imagen como la trayectoria de movimiento de la cámara.
+
+La cámara no debe saltarse ningún punto de referencia (waypoint) de la imagen adjunta; acércate a cada uno de ellos. En cada punto, realiza un giro amplio a izquierda o derecha y asciende siguiendo una trayectoria suave en forma de S que contornee el cuerpo.
+
+Enfatiza la perspectiva ultrapequeña, creando una escala macro donde las fibras de la tela del sofá y la ropa, así como los pelos individuales del gato, parezcan gigantes.
+Haz que la persona se vea como una estructura enorme, expresando fuertemente la profundidad y el paralaje mediante el movimiento de la cámara.
+Reduce la velocidad momentáneamente frente al rostro del gato, luego sube pasando por el pecho hasta la cara, terminando flotando suavemente cerca del rostro de la persona dormida.
+
+El vuelo debe ser fluido, con aceleraciones y desaceleraciones naturales y una ligera sensación de flotación. No toques a la persona ni al gato.
+Mantén los rostros de la persona y del gato, la ropa, la postura, el fondo y la luz cálida exactamente como en la imagen original. No muestres ninguna línea guía, flecha, número o texto de la imagen en el video final.
+```
+
+<img src="https://cms-assets.youmind.com/media/1789538314005_720u3b_HSS15snbsAA6LRj.jpg" width="600" alt="Prompt de video a partir de una ruta de dron">
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=10909)**
+
+**Autor:** [あぎ](https://x.com/agi_aibusi) | **Fuente:** [Link](https://x.com/agi_aibusi/status/2100054530457252147) | **Publicado:** Sep 16, 2026
+
+---
+### Animación cómica de un moño rizado fallido
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt detallado para crear un video animado en 3D de 15 segundos donde una niña con rizos rojos intenta arreglarse el moño, terminando en un fracaso cómico.
+
+#### 📝 Prompt
+
+```
+Crea un video animado en 3D cinematográfico, pulido y adorable, de exactamente 15 segundos de duración, utilizando la hoja de personajes adjunta como referencia visual estricta.
+
+PERSONAJE
+
+Una niña negra adorable con piel marrón medio cálida, grandes ojos marrones expresivos, rasgos faciales suaves y redondeados, y rizos rojos muy gruesos, densos y bien definidos, con mucho volumen y bucles individuales. Lleva la misma camiseta blanca de manga larga y pantalones de estar por casa claros que en la referencia.
+
+Mantén su rostro, tono de piel, proporciones corporales, atuendo, color de cabello rojo y diseño del personaje idénticos durante todo el video.
+
+ESCENA
+
+Está sentada directamente frente al espejo de su tocador en un dormitorio acogedor de tonos pastel. Iluminación suave y cálida, decoración femenina y tierna, animación 3D estilizada y pulida, actuación facial expresiva y profundidad de campo cinematográfica.
+
+ACCIÓN DE 15 SEGUNDOS
+
+0–3 seg:
+Se mira al espejo y se cepilla rápidamente pero con cuidado su enorme cabello rizado, sección por sección. Reúne las secciones cepilladas hacia la parte trasera de su cabeza.
+3–7 seg:
+Recoge todo su cabello hacia arriba y lo retuerce formando un moño alto. Usa el cepillo para alisar la línea frontal del cabello y las secciones laterales hacia atrás, dejando esas áreas elegantes y ordenadas mientras el cabello recogido permanece visiblemente rizado y voluminoso.
+
+7–9 seg:
+Justo cuando el moño parece perfecto, un mechón rizado rebelde sale disparado por un lado.
+Lo nota en el espejo y pone una pequeña expresión molesta.
+
+Rápidamente cepilla el mechón hacia atrás, lo mete en el moño y asegura el peinado con varias horquillas pequeñas.
+
+9–11 seg:
+Se revisa en el espejo y sonríe orgullosa, satisfecha de que el moño finalmente esté seguro.
+
+11–15 seg:
+¡POP! ¡POP! ¡POP!
+
+Las horquillas salen volando y el moño se deshace por completo.
+Toda su masa de rizos rojos gruesos y densos cae instantáneamente sobre sus hombros, regresando al enorme peinado rizado del principio.
+
+Se queda congelada, se mira fijamente en el espejo y hace una expresión exagerada de molestia y derrota.
+Termina con su rostro frustrado para un remate cómico.
+
+VISUAL Y MOVIMIENTO
+
+Animación 3D fluida de alta calidad, expresiones adorables y exageradas, movimientos naturales de las manos, física realista del cabello rizado, bules individuales rebotando, movimiento sutil de cámara, iluminación cinematográfica suave y animación de personaje pulida.
+
+Usa cortes rápidos pero legibles entre el plano medio del tocador, primer plano del cepillado, primer plano del moño, el mechón rebelde, las horquillas y la reacción final.
+
+IMPORTANTE: El cabello suelto debe ser extremadamente rizado y denso, no ondulado ni liso. El cabello frontal y lateral se vuelve elegante solo mientras ella lo cepilla intencionalmente hacia atrás para formar el moño. Cuando el moño se rompe, todo el cabello regresa a su estado original grande, fuertemente rizado y voluminoso.
+
+Sin texto, subtítulos, logotipos, marcas de agua, personajes adicionales ni cambios en su apariencia.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100050837481644032/img/8kuuWHuYbojKv31i.jpg" width="600" alt="Animación cómica de un moño rizado fallido">
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=10902)**
+
+**Autor:** [Soulful Ai](https://x.com/soulful__ai) | **Fuente:** [Link](https://x.com/soulful__ai/status/2100050884835332169) | **Publicado:** Sep 16, 2026
+
+---
+### Prompt de Video: Aventura Fantástica con Niña y Cachorro de Lobo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt detallado para generar un video animado 3D cinematográfico de 30 segundos que presenta a una joven y su cachorro de lobo explorando un paisaje silvestre mágico, con iluminación de hora dorada y movimientos de cámara fluidos.
+
+#### 📝 Prompt
+
+```
+Se creó un video animado 3D cinematográfico de 30 segundos en un estilo premium de aventura fantástica, protagonizado por una joven y su esponjoso cachorro de lobo blanco mientras exploran un entorno silvestre mágico. La zona está rodeada de montañas majestuosas, densos bosques verdes, ríos caudalosos, acantilados rocosos y lagos serenos bajo cielos cálidos de aspecto cinematográfico. La niña viste un atuendo sencillo de aventurera y mantiene una consistencia visual a lo largo del video, mientras que el cachorro tiene un pelaje blanco suave y detallado con ojos expresivos. Juntos viajan a través del bosque, cruzan un arroyo resplandeciente y descubren hermosos paisajes naturales llenos de luz solar cálida y niebla suave. Su amistad se muestra a través de momentos juguetones, interacciones tiernas y expresiones emocionales silenciosas. La cámara utiliza planos de seguimiento fluidos, vistas panorámicas cinematográficas, primeros planos y movimientos lentos para captar la escala y la emoción de cada escena. La iluminación de hora dorada, el realismo del pelaje, los entornos detallados, las sombras suaves, la profundidad atmosférica y el renderizado cinematográfico de alta calidad crean un aspecto de película animada premium. La escena final muestra a ambos descansando juntos junto a un lago sereno al atardecer, rodeados de montañas y reflejos luminosos, creando un cierre emocionalmente cálido.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100036366558208000/img/6MmGmJWA7xg_9N_X.jpg" width="600" alt="Prompt de Video: Aventura Fantástica con Niña y Cachorro de Lobo">
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=10903)**
+
+**Autor:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Fuente:** [Link](https://x.com/ayzalnooor24521/status/2100036712873488488) | **Publicado:** Sep 16, 2026
+
+---
+### Prompt de Video: Bomba de Jabón en Volcán
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt detallado para la generación de videos con Seedance 2.0 que crea un clip realista estilo documental, donde un hombre deja caer una barra gigante de jabón desde un helicóptero hacia un volcán activo, provocando burbujas masivas que inundan la cabina.
+
+#### 📝 Prompt
+
+```
+【Configuración Básica】
+15 segundos, pantalla vertical 9:16, toma continua única, estilo fotográfico documental en vivo. Registra el proceso completo de un hombre dejando caer una barra gigante de jabón en el cráter desde un helicóptero, seguido de enormes burbujas de jabón que ascienden del volcán e inundan la cabina.
+
+Presentar eventos surrealistas mediante observación in situ, con visuales naturales y contenidos, y reacciones auténticas de los personajes. Sin actuaciones cómicas, acciones graciosas ni remates deliberadamente diseñados. Toda la secuencia es una sola toma continua, sin cortes, transiciones, edición oculta, cámara lenta ni saltos temporales.
+
+【Personajes y Utilería】
+Un hombre adulto vistiendo una chaqueta oscura de exteriores, pantalones largos y botas, con un cinturón de seguridad conectado a un punto fijo de la cabina, ubicado dentro de la puerta lateral abierta del helicóptero.
+
+El hombre sostiene con ambos brazos una barra gigante de jabón rosa de aproximadamente 80 cm de largo, 45 cm de ancho y 25 cm de grosor. Es un prisma rectangular redondeado con superficie lisa, reflejos húmedos sutiles, grosor y peso claros. Sin embalaje, sin texto.
+
+Dentro del helicóptero son visibles asientos reales, manijas fijas, marcos metálicos de las puertas y pisos. El piloto permanece en la cabina frontal. La apariencia del personaje, la cabina y la utilería se mantienen consistentes durante toda la escena.
+
+【Entorno y Fotografía】
+De día, luz natural. Paredes rocosas oscuras y rugosas rodean un cráter amplio, con magma naranja-rojo revolviéndose lentamente en el fondo y ligera distorsión térmica en el aire.
+
+El helicóptero sobrevuela sobre el borde del cráter, con la puerta lateral orientada hacia el interior del volcán. La composición establece claramente las posiciones del hombre, la puerta y el punto de caída debajo, manteniendo la consistencia entre la altura de lanzamiento y el tiempo real de caída.
+
+La cámara siempre es sostenida por el operador dentro de la cabina, completando inclinaciones hacia adelante, paneos ascendentes y rotaciones cerca de la puerta lateral. Composición documental gran angular, con vibraciones finas causadas por los rotores y ajustes naturales de mano alzada, haciendo que las acciones sean claramente discernibles. Exposición y color naturales, preservando texturas reales de piel, ropa, paredes rocosas y metal.
+
+【Secuencia Temporal Continua | 0:00—0:04 | Dejando caer la Barra Gigante de Jabón】
+Grabando desde el interior de la cabina hacia la puerta lateral. El hombre y la barra gigante de jabón ocupan el primer plano, con el cráter debajo claramente visible a través de la puerta.
+
+El hombre apoya el borde inferior del jabón contra el umbral, lo estabiliza con ambas manos, flexiona las rodillas para desplazar su centro de gravedad hacia adelante y empuja el jabón hacia afuera. Sus brazos se extienden mientras empuja; una vez que el centro de gravedad del jabón cruza el umbral, sus manos se liberan explícitamente.
+
+El jabón se desprende de la cabina, acelerando hacia abajo con una ligera rotación. El hombre retrae las manos, se estabiliza en la manija de la cabina y permanece en su lugar para observar.
+
+La cámara se inclina naturalmente hacia adelante, panear continuamente hacia abajo siguiendo la trayectoria del jabón, reteniendo una pequeña sección del marco de la puerta en el borde del encuadre. El jabón se reduce gradualmente en profundidad, contactando el magma debajo y agitando turbulencias locales. Presentar completamente el proceso de caída sin omitir distancia ni cortar súbitamente a un primer plano del impacto.
+
+【Secuencia Temporal Continua | 0:04—0:09 | Generación de Espuma, Burbujas Masivas Ascendiendo】
+La cámara mantiene su inclinación hacia abajo. Aparecen pequeñas burbujas blancas donde el jabón contacta el magma, luego la espuma continúa expandiéndose, cubriendo gradualmente el magma circundante.
+
+Burbujas de jabón transparentes se abultan y desprenden continuamente de la espuma blanca revuelta, derivando hacia el helicóptero con la corriente de aire ascendente. Inicialmente solo unas pocas dispersas, su número aumenta rápidamente, formando un denso racimo de burbujas con profundidad.
+
+Los tamaños de las burbujas varían desde tamaño uva hasta tamaño baloncesto, con reflejos de película delgada y leve iridiscencia en la superficie, permitiendo ver el volcán y las paredes rocosas a través de las membranas de las burbujas. Las velocidades de ascenso varían ligeramente, colisionando y deformándose entre sí, algunas estallan naturalmente mientras más continúan generándose detrás.
+
+La cámara continúa observando las burbujas que se acercan. El volcán distante sigue siendo visible a través de los huecos, mientras que las burbujas cercanas ocupan gradualmente más del encuadre. Hay una distinción clara entre la espuma blanca sobre el magma y las burbujas transparentes ascendiendo en el aire.
+
+【Secuencia Temporal Continua | 0:09—0:13.5 | Llegada de Burbujas, Inundación de la Cabina】
+Las burbujas ascienden hasta la altura de la puerta, barridas por la corriente de aire alrededor de los rotores y el fuselaje. Algunas estallan o se desvían, mientras que más inundan continuamente desde fuera de la puerta lateral.
+
+La cámara sigue las burbujas elevándose continuamente, girando suavemente de vuelta hacia el interior de la cabina para recapturar al hombre. La posición de grabación y la dirección del marco de la puerta deben permanecer continuas y consistentes; no cambiar súbitamente a una vista externa.
+
+El hombre sostiene una manija fija con una mano, retrocede ligeramente hacia el interior de la cabina y levanta naturalmente la otra mano para bloquear las burbujas cerca de sus ojos. Principalmente observa los cambios frente a él, sin mirar a la cámara, sin exagerar la actuación y sin hablar.
+
+Las burbujas difunden constantemente desde la puerta hacia la cabina, apiñándose entre los asientos, los hombros del hombre y la cámara. Las membranas de las burbujas cercanas se deforman y deslizan suavemente, dejando espuma blanca húmeda en el cabello, mangas y asientos después de estallar. Más burbujas llenan inmediatamente el espacio, oscureciendo gradualmente la estructura de la cabina y los contornos del personaje.
+
+【Secuencia Temporal Continua | 0:13.5—0:15 | Cabina Llena de Burbujas, Final Directo】
+La cámara mantiene la perspectiva actual de la cabina, solo retrocediendo ligeramente con el cuerpo del operador.
+
+Enormes burbujas han apiñado la puerta y los alrededores de la persona, casi cubriendo el torso superior del hombre. Las burbujas aún se apiñan, flotan y estallan naturalmente; a través de huecos parciales, son visibles mangas oscuras y la mano sosteniendo la manija.
+
+Terminar directamente aquí, sin añadir acciones como apartar burbujas para mostrar la cara, mirar a la cámara o ser cubierto nuevamente. No congelar el cuadro ni hacer zoom out.
+
+【Audio】
+Sonidos reales de rotores y ruido del viento en la puerta impregnan toda la secuencia, acompañados por el sonido del jabón raspando el umbral, un retumbar bajo distante de la agitación volcánica y sutiles sonidos densos de estallido cuando las burbujas entran en la cabina. La distancia del sonido cambia naturalmente con la orientación de la cámara. Sin música de fondo, narración, diálogo ni efectos de sonido cómicos.
+
+【Restricciones Clave】
+Pantalla vertical 9:16, 15 segundos, una toma continua durante todo el video, textura fotográfica documental en vivo. La cámara siempre está ubicada cerca de la puerta lateral dentro del mismo helicóptero.
+
+Solo existe una barra gigante de jabón rosa; no reaparece en las manos del hombre después de ser lanzada. Las burbujas primero se generan desde el volcán, luego ascienden continuamente hasta la puerta e inundan la cabina; no pueden aparecer de la nada. Ninguna burbuja gigante única envolviendo el helicóptero.
+
+Las burbujas transparentes tienen estructuras claras de película delgada; la espuma blanca consiste en burbujas finas, evitando representarla como humo, algodón o nieve. Usar solo los últimos 1.5 segundos para mostrar el estado donde el torso superior del hombre está casi cubierto por burbujas, luego terminar inmediatamente. Sin subtítulos, logotipos ni marcas de agua.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100013356858155008/img/jB-3Pzkl01r21cA5.jpg" width="600" alt="Prompt de Video: Bomba de Jabón en Volcán">
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=10908)**
+
+**Autor:** [探路AI](https://x.com/TanLuAI) | **Fuente:** [Link](https://x.com/TanLuAI/status/2100013757779099770) | **Publicado:** Sep 16, 2026
+
+---
+### Prompt de Video: Ganso y Gato en Persecución Cómica
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt humorístico para un video fotorealista de 12 segundos estilo smartphone, que muestra a un gato montando un ganso perseguido por un perro, con instrucciones específicas sobre la física animal, el timing cómico y las señales de audio.
+
+#### 📝 Prompt
+
+```
+Video continuo de 12 segundos, grabado en formato vertical 4K RAW con aspecto fotorealista y estilo handheld (cámara en mano), situado en una carretera rural pavimentada. Segundos 0–4: Plano general de seguimiento mostrando a un gran ganso doméstico blanco corriendo a toda velocidad por el asfalto. Un gato atigrado naranja está firmemente montado sobre el lomo del ganso, con las patas delanteras abrazadas al cuello del ave y los bigotes aplastados por el viento. Justo detrás de ellos, un golden retriever entusiasta entra en cuadro a todo galope, ladrando furiosamente en ráfagas fuertes y sin aliento mientras intenta alcanzarlos. Segundos 5–8: El ganso gira bruscamente fuera del asfalto hacia una orilla de césped blando y frena en seco. El gato pelirrojo se desmonta instantáneamente, cae sobre el césped y adopta un galope absurdo, ultra-rápido y caricaturesco a cuatro patas—con las piernas moviéndose en un borroso frenesí de alta velocidad. En lugar de huir hacia los arbustos, el gato traza un círculo veloz y pasa directamente entre las patas del perro confundido. Segundos 9–12 (El Giro): El golden retriever se detiene derrapando, girando la cabeza en total desconcierto mientras el gato hiper-rápido salta de nuevo sobre el lomo del ganso que espera, como un piloto profesional de acrobacias. El ganso acelera inmediatamente alejándose por la carretera, dejando al perro sentado sobre sus cuartos traseros, jadeando atónito mientras el dúo escapa. Especificaciones Visuales y de Estilo: Metraje viral crudo de teléfono móvil, física realista para los animales con desenfoque de movimiento cómico a alta tasa de cuadros para el sprint hiper-rápido del gato, iluminación natural soleada, texturas auténticas de pelo/plumas, balanceo dinámico de cámara handheld. Pista de Audio: Pasos rítmicos rápidos sobre el asfalto, ladridos energéticos y jadeos del perro, graznidos abruptos del ganso, todo ello acompañado por una mujer fuera de cuadro que jadea riendo histéricamente hasta perder el control, soltando carcajadas incontrolables cuando el gato activa su modo de sprint ultra-rápido.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099966059625226240/img/zkNxhqLWBb1sk-OW.jpg" width="600" alt="Prompt de Video: Ganso y Gato en Persecución Cómica">
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=10906)**
+
+**Autor:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Fuente:** [Link](https://x.com/Dheepanratnam/status/2099966300961554796) | **Publicado:** Sep 15, 2026
+
+---
 ### Vlog de estilo de vida coreano
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2919,25 +3169,6 @@ Estilo y parámetros: Renderizado 3D fotorrealista, estética elegante, gradaci�
 **Autor:** [Maya](https://x.com/MayaAiCreator) | **Fuente:** [Link](https://x.com/MayaAiCreator/status/2098040077284745362) | **Publicado:** Sep 10, 2026
 
 ---
-### Interacción de pareja en POV con iPhone de mano
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt altamente detallado para seedance 2.0 para un video de 15 segundos en primera persona al estilo iPhone de una pareja interactuando en una sala de estar, centrado en la consistencia de los personajes y accesorios naturales como un palito de galleta.
-
-#### 📝 Prompt
-
-```
-15 segundos, relación de aspecto vertical 9:16, metraje de iPhone de mano sin procesar. Un amante masculino se sienta junto a la protagonista femenina, filmándola con la cámara trasera usando su mano derecha mientras su mano izquierda interactúa con ella. El teléfono se sostiene ligeramente por encima del nivel del pecho, cerca de la altura de los ojos; ella sabe que está siendo filmada. Las siguientes seis secciones son segmentos de una toma continua sin cortes cinematográficos. Los cambios de encuadre provienen de sutiles movimientos de muñeca, inclinarse hacia adelante y el acercamiento de la protagonista femenina. [Bloqueo de personaje y vestimenta] La protagonista femenina es el Personaje Femenino Asiático Adulto #2 (ID: hf_20260617_232600_51d878a7-0e46-47e1-969e-b9d76667762e) con gafas decorativas, siguiendo estrictamente los ajustes preestablecidos de rostro, cabello y físico. Viste la Ropa Preestablecida #1 con medias durante todo el video. El hombre es su amante, solo aparece su voz fuera de cámara y su mano izquierda. [Escena] Sala de estar de un apartamento contemporáneo con muebles retro: sofá de cuero marrón, soporte de TV de madera, piso de baldosas, lámpara de luz amarilla cálida, TV encendida a bajo volumen. [Calidad] Configuración automática, colores naturales, textura de piel, ruido en condiciones de poca luz, temblores de mano. [Accesorios] Una bolsa de palitos de galleta largos y delgados. [La secuencia de acción incluye: 0-3s Rutina de día relajado, 3-5s Interacción juguetona, 5-7s Reacción tímida, 7-10s Ofreciendo una galleta, 10-12s Pidiéndole que lo alimente, 12-15s Alimentándolo boca a boca]. Audio natural en chino, sincronización labial. Sin música de fondo ni voz en off. Restricciones negativas: sin ángulos en tercera persona, sin filtros de belleza, sin cámara lenta, sin superposiciones de texto.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097711267511255041/img/GbK-oxFoJ7cDtxOb.jpg" width="600" alt="Interacción de pareja en POV con iPhone de mano">
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=10703)**
-
-**Autor:** [John](https://x.com/john87445528) | **Fuente:** [Link](https://x.com/john87445528/status/2098018656076845291) | **Publicado:** Sep 10, 2026
-
----
 ### Video de anime de puesto de pho cyberpunk
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -3218,88 +3449,6 @@ Crea un video selfie UGC de cuidado de la piel de 15 segundos, en formato 16:9, 
 **[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=10631)**
 
 **Autor:** [ImPaul](https://x.com/impaulxyz) | **Fuente:** [Link](https://x.com/impaulxyz/status/2097630235067920884) | **Publicado:** Sep 9, 2026
-
----
-### Contraste de interpretación: K-Drama vs. Realidad
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt de video cinematográfico detallado para Seedance que contrasta la estética romantizada de los dramas coreanos con la sensación cruda y directa de una grabación de teléfono móvil, utilizando vinculación de personajes (character binding).
-
-#### 📝 Prompt
-
-```
-Duración: 20 segundos
-Formato: Pantalla vertical 9:16
-Tema: El contraste entre la misma frase coreana en los K-dramas frente a la realidad.
-Formato: Un solo personaje, dos estados, cinco conjuntos de comparaciones con corte directo A/B.
-
-[Vinculación de personajes (Character Binding)]
-Tarjeta de personaje única. Mantener la misma identidad del personaje en todo momento, utilizando el rostro, el peinado y la ropa de la imagen de referencia sin rediseñar la apariencia.
-A y B son dos interpretaciones de la misma persona, no un diálogo entre dos personas; no usar encuadres de dos personas ni pantalla dividida.
-
-[Estado A | Película romántica coreana]
-Primer plano de personajes en una película romántica coreana, refinado, suave, sutil, con un ligero toque romántico.
-
-Iluminación:
-Luz suave y amplia desde el lado de la ventana que ilumina el rostro, con transiciones delicadas de luz y sombra; un haz de luz de fondo cálida y suave desde la parte posterior lateral perfila delicadamente el cabello y los hombros. Los ojos tienen reflejos naturales, el rostro es tridimensional, sin luz de embellecimiento plana.
-
-Gradación de color:
-Blancos cremosos en las luces altas, tonos de piel cálidos de baja saturación, sombras frías ligeramente azuladas-grisáceas. En general, claro, niveles de negro ligeramente suaves, transición fluida en las áreas brillantes. El fondo tiende a colores blanquecinos, gris claro y tonos cálidos claros.
-
-Textura cinematográfica:
-Aspecto de lente de retrato teleobjetivo medio, profundidad de campo reducida, ojos y boca claros, cortinas y luces distantes suavizadas en un delicado bokeh. Luces altas de alta intensidad con un halo suave extremadamente leve, conservando la textura de la piel y un sutil grano de película.
-Cada toma A tiene solo un zoom lento muy leve, casi imperceptible.
-
-Interpretación:
-Mirada suave, respiración natural, rango de movimiento pequeño. Pausa emocional breve antes de hablar, la voz es suave, la frase termina con suavidad, como si hablara con alguien cercano en un K-drama.
-
-[Estado B | Toma ordinaria de teléfono móvil]
-Grabación frontal directa de teléfono móvil en interiores, fondo de pared gris simple, iluminación frontal directa. Balance de blancos neutro, contraste y nitidez más directos que en A, fondo también más claro.
-Se elimina la luz de contorno de A, el bokeh de profundidad de campo reducida, el halo suave y la gradación cinematográfica, pero se mantiene la exposición normal y la textura realista de la piel.
-Cámara fija, composición ligeramente más cerrada que en A, conservando una ligera sensación de gran angular de móvil a corta distancia, sin estiramientos faciales exagerados.
-
-Interpretación:
-Mirada directa a la cámara, ojos y cejas notablemente tensos, cuerpo ligeramente inclinado hacia adelante, tono corto, directo e impaciente. La comedia proviene del cambio repentino de rostro y estilo al hablar, sin actuar como un grito fuera de control.
-
-[Composición y edición]
-Primer plano medio vertical unificado desde la cabeza hasta la cintura, posición de los ojos mantenida a una altura similar.
-Corte directo a B inmediatamente después de que termine A; la textura, la expresión y el sonido cambian simultáneamente.
-El mismo rostro permanece reconocible en cada corte, sin distorsión, destellos blancos, fotogramas negros ni cambios de vestuario.
-
-ESCENA 1 | 00–04s | No mires
-
-Sujeto:
-La misma persona, contraste entre suavidad delicada y reprimenda directa.
-
-Acción / Interpretación:
-00–02s, Estado A:
-El personaje mira hacia abajo y a un lado, luego gira suavemente los ojos hacia la cámara con un toque de sonrisa sutil, dice suavemente 'No mires'. Termina y retira la mirada ligeramente, manteniendo una timidez natural.
-La cámara hace zoom muy lentamente, luz de fondo cálida y suave iluminando una pequeña cantidad de cabello.
-
-02–04s, Corte directo a Estado B:
-El personaje mira directamente a la cámara, cejas tensas, cabeza ligeramente hacia adelante, repite 'No mires' con un tono significativamente más pesado, seguido de un improperio.
-Al terminar la última palabra, la mirada sigue fija en la cámara, con un toque de inmovilidad molesta.
-
-Diálogo:
-A: '보지 마.'
-B: '보지 마, 이 개새끼야.'
-
-Entorno / Cámara / Estilo:
-A presenta cortinas con luz suave y bokeh cremoso, textura cinematográfica de K-drama.
-B presenta pared gris, luz directa y toma fija de móvil.
-
-Restricciones:
-Ambas frases son pronunciadas por la persona en el encuadre, terminar A y luego cortar a B, sincronización labial precisa.
-
-(Los segmentos restantes siguen el mismo patrón de contraste...)
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097609259991416832/img/LLUBe5snd8pddPgW.jpg" width="600" alt="Contraste de interpretación: K-Drama vs. Realidad">
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=10635)**
-
-**Autor:** [John](https://x.com/johnAGI168) | **Fuente:** [Link](https://x.com/johnAGI168/status/2097609548357927333) | **Publicado:** Sep 9, 2026
 
 ---
 ### Escena de espejo de terror psicológico gótico oscuro
@@ -5311,205 +5460,6 @@ Escena de moda urbana cinematográfica ultrarrealista en una concurrida ciudad m
 **Autor:** [妖精アーヤ](https://x.com/aiehon_aya) | **Fuente:** [Link](https://x.com/aiehon_aya/status/2096357706361913818) | **Publicado:** Sep 5, 2026
 
 ---
-### Acción cinematográfica de ciencia ficción en un mundo anillo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt para generar una secuencia de acción de ciencia ficción a gran escala, donde un piloto de combate atraviesa mundos anillo giratorios en colisión con físicas realistas.
-
-#### 📝 Prompt
-
-```
-Secuencia de acción cinematográfica de ciencia ficción de 15 segundos, 16:9, ultrarrealista, escala imposible, colores vibrantes, físicas realistas, sin rostro visible, sin texto, sin diálogos.
-Un caza vuela dentro de un mundo anillo giratorio gigante.
-Un segundo mundo anillo emerge de las nubes sobre él.
-El piloto se da cuenta de que ambas estructuras ocupan el mismo espacio.
-Están rotando lentamente una hacia la otra.
-Ciudades enteras comienzan a colisionar.
-Las montañas se desprenden.
-Puentes gigantescos se desmoronan.
-El caza corre a través de la creciente zona de impacto.
-Dos masas continentales convergen por delante.
-El espacio se reduce cada segundo.
-El piloto se lanza a través justo antes de la colisión.
-Corte.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096303145559244803/img/qO9-5iyiBcdtfdRE.jpg" width="600" alt="Acción cinematográfica de ciencia ficción en un mundo anillo">
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=10401)**
-
-**Autor:** [Alexandra Aisling](https://x.com/AllaAisling) | **Fuente:** [Link](https://x.com/AllaAisling/status/2096303315277553901) | **Publicado:** Sep 5, 2026
-
----
-### Horror en el último tren: el brote
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Una secuencia cinemática detallada de 22 planos que retrata un brote zombi en un tren, desde la infección inicial hasta el caos total.
-
-#### 📝 Prompt
-
-```
-Secuencia cinemática de 22 planos sobre un brote en un tren, 30 s en total. La apariencia, el rostro y el atuendo del personaje coinciden con la imagen de referencia.
-
-1. 0–1.2 s: Una mujer febril se sienta sola en un tren medio vacío, revisando ansiosamente las alertas de noticias en su teléfono, luz tenue del atardecer.
-2. 1.2–2.4 s: Primer plano del teléfono con imágenes borrosas de noticias de emergencia; reflejo de un pasajero preocupado.
-3. 2.4–3.6 s: Camiones militares y luces parpadeantes pasan por fuera; los pasajeros miran inquietos a través de la ventana.
-4. 3.6–4.8 s: La mujer tose silenciosamente en su manga, sudando, con el asiento vacío a su lado.
-5. 4.8–6 s: Un pasajero duerme plácidamente junto a la ventana, ajeno al peligro.
-6. 6–7.2 s: Los ojos de la mujer se nublan; su respiración se ralentiza, su expresión se vuelve vacía y siniestra.
-7. 7.2–8.5 s: Se levanta con rigidez y camina desapercibida por el pasillo.
-8. 8.5–10 s: Se acerca silenciosamente al pasajero que duerme.
-9. 10–11.2 s: De repente, le muerde el hombro; él se despierta en estado de shock y dolor, impacto en cámara lenta.
-10. 11.2–12.5 s: Los pasajeros cercanos se dan cuenta demasiado tarde, la confusión se convierte en pánico.
-11. 12.5–13.8 s: La víctima se sujeta el hombro sangrante, respirando con dificultad.
-12. 13.8–15 s: Venas oscuras se extienden rápidamente por su cuello; su cuerpo comienza a temblar.
-13. 15–16.3 s: Convulsiona violentamente en el pasillo mientras los pasajeros se quedan paralizados o huyen.
-14. 16.3–17.5 s: Sus ojos se vuelven hacia atrás y luego se abren, inyectados en sangre y vacíos; la transformación se completa.
-15. 17.5–18.8 s: Se lanza sobre otro pasajero, desatando gritos y caos.
-16. 18.8–20.2 s: Los pasajeros trepan por los asientos, dejando caer teléfonos y bolsos; cámara en mano para captar el caos.
-17. 20.2–21.5 s: Otra víctima se transforma rápidamente y ataca a alguien más; el brote se propaga.
-18. 21.5–23 s: Los supervivientes corren hacia la puerta de conexión, usando el equipaje para bloquearla.
-19. 23–24.5 s: La puerta se cierra de golpe; cojines y equipaje la bloquean mientras las manos de los infectados golpean desde afuera.
-20. 24.5–26 s: Primer plano de la puerta barricada temblando; los supervivientes respiran agitadamente por el miedo.
-21. 26–28 s: Los rostros de los infectados se presionan contra el cristal mientras se forman grietas en él.
-22. 28–30 s: Los supervivientes se amontonan en el siguiente vagón, mirando a través de la puerta agrietada a la horda; luces parpadeantes, miedo silencioso.
-
-Estilo: terror cinemático, actuación realista, atmósfera de época de cuarentena, iluminación de atardecer, ritmo tenso, caos con cámara en mano durante el brote, quietud inquietante durante la preparación, continuidad fluida, movimiento de cámara dramático, aspecto cinematográfico de alto detalle.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096238873013895168/img/tfilzh7MI_DIepqH.jpg" width="600" alt="Horror en el último tren: el brote">
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=10398)**
-
-**Autor:** [Tensor](https://x.com/QAiStudio) | **Fuente:** [Link](https://x.com/QAiStudio/status/2096238921986539847) | **Publicado:** Sep 5, 2026
-
----
-### Desafío de parkour acuático sobre dominós gigantes
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt de video lleno de acción donde un desafiante corre sobre los bordes delgados de dominós de piedra gigantes mientras caen al agua detrás de él.
-
-#### 📝 Prompt
-
-```
-Duración: 15 segundos
-Relación de aspecto: 9:16
-Estilo general:
-Grabación realista de una carrera de obstáculos acuática, alta velocidad, emocionante, continua. El núcleo visual es 'una persona corriendo sobre los bordes superiores de dominós gigantes mientras caen secuencialmente detrás de ella'. Velocidad de reproducción normal, sin cámara lenta, sin cámara en mano para generar una emoción artificial.
-
-Referencia del personaje:
-@Image 1 es la referencia de identidad única para el desafiante. Mantenga la identidad, apariencia, ropa deportiva y calzado atlético. La imagen de referencia es solo para el personaje, no para el fondo ni la pose original.
-
-Forma del accesorio - Bloqueo estricto:
-Sobre agua de color azul verdoso, se dispone una serie de dominós de piedra gris gigantes.
-Cada uno es una losa de piedra rectangular delgada colocada verticalmente: superficies frontal/trasera anchas, lados muy delgados, parte superior estrecha. Superficie de piedra mate, bordes afilados, sin números ni texto.
-Deben ser como fichas de dominó agrandadas, absolutamente no cubos, pilares cuadrados, estelas gruesas o escalones anchos.
-La persona pisa el borde superior estrecho. El agua es visible entre los dominós adyacentes, formando un camino continuo que conduce a una plataforma gris ancha.
-
-Movimiento de los dominós:
-Los dominós se inclinan hacia atrás desde cerca de la base; a medida que se inclinan, la superficie ancha queda expuesta y luego golpea el agua.
-Las fichas detrás de la persona caen una por una, creando un ritmo continuo de efecto dominó. Las fichas que están delante permanecen erguidas; el proceso de caída sigue de cerca a la persona y no debe rebasarla.
-Los dominós permanecen rígidos, sin doblarse, plegarse ni romperse; no se reinician después de caer.
-
-[Descripción completa de la secuencia traducida omitida por brevedad...]
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096217637357228036/img/-5C1vksYkBykER_A.jpg" width="600" alt="Desafío de parkour acuático sobre dominós gigantes">
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=10408)**
-
-**Autor:** [John](https://x.com/johnAGI168) | **Fuente:** [Link](https://x.com/johnAGI168/status/2096222493044334883) | **Publicado:** Sep 5, 2026
-
----
-### Mujer de Asia Oriental en la soledad de su apartamento
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinematográfico minimalista que retrata momentos de tranquila soledad en un apartamento de gran altura, desde la lectura bajo el sol de la tarde hasta la escritura junto a las luces de la ciudad por la noche.
-
-#### 📝 Prompt
-
-```
-Una hermosa mujer joven de Asia Oriental con cabello largo, liso y negro, vestida con un suéter holgado de color blanco hueso y pantalones sueltos a juego, pasa un día tranquilo a solas en un apartamento de gran altura. Su estado de ánimo es calmado, ligeramente melancólico y contemplativo. Primero, contempla la ciudad desde una ventana salpicada por la lluvia, con la barbilla apoyada en la mano. Luego, sirve café humeante de una jarra de cristal en una taza dentro de una cocina luminosa. Después, se sienta en un sofá a leer un libro bajo la cálida luz de la tarde. Más tarde, se sienta con las piernas cruzadas sobre el suelo de madera usando auriculares grandes, con los ojos cerrados, rodeada de discos de vinilo esparcidos y un libro abierto. Finalmente, por la noche, escribe en un cuaderno junto a la ventana con el brillante horizonte de la ciudad de fondo. Iluminación natural suave, cinematográfico, pacífico, estética minimalista, transiciones fluidas.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096105342405099520/img/NFrZgiMj9WP7TN4f.jpg" width="600" alt="Mujer de Asia Oriental en la soledad de su apartamento">
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=10405)**
-
-**Autor:** [liana](https://x.com/Lianaalane) | **Fuente:** [Link](https://x.com/Lianaalane/status/2096105365419209139) | **Publicado:** Sep 5, 2026
-
----
-### Dead End Express: Transformación Zombi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt detallado de 25 planos para una secuencia de video de terror en un tren, que representa un brote viral y el caos y pánico subsiguientes.
-
-#### 📝 Prompt
-
-```
-Plano 1 (0–1.2s): Personaje que coincide con la imagen de referencia, sentado en un tren detenido, febril y sudoroso mientras las luces rojas del puesto de control barren el exterior.
-
-Plano 2 (1.2–2.4s): Soldados y oficiales suben al tren, inspeccionando a los pasajeros con linternas mientras todos observan nerviosos.
-
-Plano 3 (2.4–3.6s): Primer plano de su mano temblorosa; las venas se oscurecen bajo su piel mientras su respiración se vuelve superficial.
-
-Plano 4 (3.6–4.8s): Un oficial revisa los documentos y se detiene a su lado, ajeno al peligro.
-
-Plano 5 (4.8–6s): Sus ojos se nublan de blanco y su cabeza se inclina de forma antinatural hacia él.
-
-Plano 6 (6–7.2s): De repente, ella muerde su brazo; primer plano extremo, reacción de shock, cámara lenta cinematográfica.
-
-Plano 7 (7.2–8.4s): Los pasajeros gritan y retroceden mientras el oficial herido tropieza hacia el pasillo.
-
-Plano 8 (8.4–9.6s): La herida de la mordedura desarrolla rápidamente venas oscuras ramificadas a medida que la infección se propaga.
-
-Plano 9 (9.6–10.8s): Los soldados en el exterior notan el caos a través de las ventanas y dan la alarma.
-
-Plano 10 (10.8–12s): El oficial convulsiona violentamente bajo las luces parpadeantes.
-
-Plano 11 (12–13s): Sus ojos se abren de golpe, inyectados en sangre y vacíos: la transformación se ha completado.
-
-Plano 12 (13–14s): Ataca a un pasajero cercano, provocando un pánico masivo dentro del vagón confinado.
-
-Plano 13 (14–15s): Los pasajeros corren hacia las puertas, pero los soldados afuera las cierran y bloquean con fuerza.
-
-Plano 14 (15–16.2s): Un soldado asegura el cerrojo exterior mientras los pasajeros golpean desesperadamente el cristal.
-
-Plano 15 (16.2–17.4s): Plano general: los pasajeros se dan cuenta de que están atrapados dentro del vagón sellado.
-
-Plano 16 (17.4–18.6s): Un pasajero recién mordido se transforma en segundos y ataca a otros.
-
-Plano 17 (18.6–19.8s): Los supervivientes retroceden hacia la parte trasera, atrapados entre puertas selladas.
-
-Plano 18 (19.8–21s): Un pasajero toma un extintor y se prepara contra los infectados que se acercan.
-
-Plano 19 (21–22.2s): Los rocía con el polvo blanco del extintor, llenando el vagón de niebla.
-
-Plano 20 (22.2–23.4s): Los soldados observan en silencio desde el exterior con las armas en alto, sin saber si intervenir.
-
-Plano 21 (23.4–24.6s): El personaje totalmente infectado presiona contra el cristal de la puerta sellada mientras los supervivientes se arrinconan.
-
-Plano 22 (24.6–25.8s): Los supervivientes se esconden en un baño mientras los golpes y gritos resuenan afuera.
-
-Plano 23 (25.8–27s): Plano general de los infectados y supervivientes luchando dentro del vagón sellado bajo las duras luces del puesto de control.
-
-Plano 24 (27–28.2s): Un soldado pide refuerzos por radio mientras el tren se sacude por el caos interno.
-
-Plano 25 (28.2–30s): Plano general exterior: tren inmóvil en el puesto de control, puertas selladas, ventanas empañadas y siluetas luchando en el interior, final de terror atrapado.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096097568979927040/img/DcA5TuDfdvpmtgaP.jpg" width="600" alt="Dead End Express: Transformación Zombi">
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=10377)**
-
-**Autor:** [WasifAI](https://x.com/doctorwasif) | **Fuente:** [Link](https://x.com/doctorwasif/status/2096097630317392019) | **Publicado:** Sep 5, 2026
-
----
 ---
 
 ## 📚 Más prompts disponibles
@@ -5571,6 +5521,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-09-16T03:48:58.718Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-09-17T03:54:56.292Z</sub>
 
 </div>
