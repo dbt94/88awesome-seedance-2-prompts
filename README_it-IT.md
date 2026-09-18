@@ -68,9 +68,9 @@ Perché usare la nostra galleria?
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **6389** |
+| 📝 Totale prompt | **6397** |
 | ⭐ Prompt in evidenza | **6** |
-| 🔄 Ultimo aggiornamento | **2026-09-17** |
+| 🔄 Ultimo aggiornamento | **2026-09-18** |
 
 ---
 
@@ -361,6 +361,212 @@ Ultra realistico, energia ispirata a Fast and Furious, illuminazione fotorealist
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Video di Trasformazione della Moda Parigina
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt per la creazione di un video cinematografico di trasformazione della moda, in cui l'abito di una donna cambia da bianco a rosso mentre cammina per le strade di Parigi.
+
+#### 📝 Prompt
+
+```
+Crea un video cinematografico di trasformazione della moda che mostra una giovane donna bellissima che cammina per le eleganti strade parigine. Inizia con un abito estivo bianco pulito, camminando naturalmente lungo un marciapiede alla moda circondato da architettura classica, caffè, negozi e pedoni. La telecamera la segue fluidamente con movimenti cinematografici realistici e profondità di campo ridotta. Mentre passa davanti a una vetrina, scie di luce rossa luminosa vorticano attorno al suo corpo, creando un magico effetto di transizione della moda. Il suo outfit si trasforma senza soluzione di continuità dal bianco a un sofisticato abito rosso senza maniche. Prosegui con riprese dinamiche a livello della strada mentre attraversa con sicurezza un incrocio trafficato di Parigi. Concludi con un bellissimo primo piano di lei nell'abito rosso, mentre tiene delicatamente e mangia un gelato guardando naturalmente verso la telecamera. Dettagli fotorealistici, estetica elegante da film di moda, luce naturale del giorno, transizioni fluide, texture della pelle realistica, obiettivo cinematografico, movimento sottile dello sfondo, aspetto commerciale premium.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100456398144647168/img/xAq552Wbm_a24aoe.jpg" width="600" alt="Video di Trasformazione della Moda Parigina">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10954)**
+
+**Autore:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Fonte:** [Link](https://x.com/ayzalnooor24521/status/2100456445900710158) | **Pubblicato:** Sep 17, 2026
+
+---
+### Vlog del Giorno dello Stipendio in Corea
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt per un mini vlog UGC ultra-realistico di 30 secondi che mostra una donna coreana che festeggia il giorno dello stipendio, con dettagliate istruzioni sulle scene e sullo stile visivo.
+
+#### 📝 Prompt
+
+```
+Crea un mini vlog UGC ultra-realistico di 30 secondi che mostra una ragazza coreana alla moda e sicura di sé mentre documenta il giorno più felice dopo aver ricevuto lo stipendio.
+
+Scena 1 — 0–5 sec:
+Selfie mattutino in camera da letto. Si sveglia, controlla il telefono, vede che lo stipendio è stato accreditato e sorride immediatamente dall'entusiasmo. Estetica naturale "messy-bed", luce morbida del mattino. Guarda nella telecamera e dice felicemente: “Il mio stipendio è finalmente arrivato!”
+
+Scena 2 — 5–9 sec:
+Transizione rapida mentre si prepara. Fa una doccia rinfrescante, applica una skincare semplice, sistema i capelli e indossa un outfit trendy in stile "baddie". Scatti selfie allo specchio, movimento realistico della fotocamera a mano.
+
+Scena 3 — 9–19 sec:
+Si dirige verso un moderno centro commerciale di lusso. Cammina attraverso l'ingresso filmandosi, sfoglia i negozi di moda, prova vestiti, controlla gli accessori e porta felici borse della spesa. Includi scatti candid rapidi, espressioni entusiaste, illuminazione realistica del centro commerciale e naturale tremolio della videocamera UGC.
+
+Scena 4 — 19–25 sec:
+Si siede in un'accogliente caffetteria all'interno del centro commerciale con le sue borse della spesa accanto. Ordina una tazza calda di tè, registra il servizio del tè, ne beve un sorso e sorride soddisfatta.
+
+Scena 5 — 25–30 sec:
+Scatto nell'ora d'oro/serale. Cammina fuori dal centro commerciale con le borse della spesa e il tè, gira la telecamera verso di sé, sorride e dice: “Il giorno dello stipendio è ufficialmente il mio preferito.” Termina con una risata casuale e un movimento naturale della telecamera.
+
+Stile visivo: riprese ultra-realistiche da smartphone, autentico vlog UGC, estetica della moda coreana, energia sicura e audace, cinematografico ma non eccessivamente levigato, texture naturale della pelle, illuminazione realistica, transizioni fluide, suoni di sottofondo sottili, espressioni facciali realistiche, telecamera a mano, formato verticale 9:16 pronto per i social media, qualità 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100452060642852864/img/R0oS8fEzuAmWvRq5.jpg" width="600" alt="Vlog del Giorno dello Stipendio in Corea">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10952)**
+
+**Autore:** [Noor 🌸](https://x.com/Noor_ul_ain43) | **Fonte:** [Link](https://x.com/Noor_ul_ain43/status/2100452341996728475) | **Pubblicato:** Sep 17, 2026
+
+---
+### Ritratto di Guerriera delle Arti Marziali Coreane
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt per generare una scena cinematografica ultra-realistica di una giovane donna feroce in abiti tradizionali di arti marziali coreane.
+
+#### 📝 Prompt
+
+```
+Scena cinematografica ultra-realistica di una giovane donna feroce che si erge con sicurezza in un cortile tradizionale di arti marziali coreane, indossando un'uniforme nera da arti marziali con colletto bianco, capelli scuri e corti mossi naturalmente dal vento, espressione intensa e concentrata, luce solare calda e drammatica, architettura tradizionale coreana e muri di pietra sullo sfondo, leggero motion blur, texture della pelle realistica, tessuto dettagliato, profondità di campo ridotta, color grading cinematografico, alto contrasto, 8K HDR, still professionale da film, atmosfera dinamica, obiettivo 35mm, composizione verticale 9:16.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100444654605070336/img/BWb5GjmmEgP2Mxrn.jpg" width="600" alt="Ritratto di Guerriera delle Arti Marziali Coreane">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10955)**
+
+**Autore:** [AIwithMinal](https://x.com/AIwithMinal) | **Fonte:** [Link](https://x.com/AIwithMinal/status/2100444829880914240) | **Pubblicato:** Sep 17, 2026
+
+---
+### Prompt Video Vlog Estivo Coreano
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt dettagliato per la generazione video con Seedance 2.0, che crea una scena estiva coreana pacifica con una ragazza che mangia l'anguria accanto a un ruscello.
+
+#### 📝 Prompt
+
+```
+Una bella ragazza coreana indossa un morbido abito estivo bianco e un cappello di paglia naturale, con un'estetica lifestyle coreana fresca ed elegante. Ha capelli scuri corti e leggermente ondulati, trucco minimo e un'espressione naturale e gentile. Goditi una giornata estiva tranquilla accanto a un bellissimo ruscello di montagna. Si siede vicino all'acqua, mangiando tranquillamente una fetta di anguria e godendosi l'atmosfera rinfrescante. Cammina lentamente nello spazio esterno accogliente mentre aggiusta il cappello e osserva il paesaggio. La luce del sole filtra dolcemente tra gli alberi, creando caldi riflessi cinematografici e naturali flare dell'obiettivo. Una tenda bianca si muove delicatamente nella brezza estiva accanto alla casa in legno. Porta un piccolo cestino da picnic e gode della quiete dei dintorni rurali. La telecamera cattura primi piani, inquadrature medie e ampi movimenti cinematografici fluidi. Stile vlog estivo coreano fotorealistico, caldo, sognante e pacifico, colori naturali, illuminazione morbida, movimento realistico e qualità cinematografica 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100423624889114624/img/_Dz_jZArR-f_XNwO.jpg" width="600" alt="Prompt Video Vlog Estivo Coreano">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10951)**
+
+**Autore:** [Ayat](https://x.com/aiwithaayat) | **Fonte:** [Link](https://x.com/aiwithaayat/status/2100423982898115050) | **Pubblicato:** Sep 17, 2026
+
+---
+### Prompt per la Battaglia del Drago Seedance 2.0
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt dettagliato per una battaglia fantasy cinematografica su Seedance 2.0, che presenta un guerriero e un drago in un cielo tempestoso, con istruzioni specifiche sui tempi e sugli effetti visivi.
+
+#### 📝 Prompt
+
+```
+Crea un video di battaglia fantasy cinematografico di 15 secondi che corrisponda al riferimento: 0–1s, un guerriero corazzato futuristico fluttua in un cielo scuro e tempestoso mentre un enorme drago nero vola dietro di lui; 1–2s, un'energia blu luminosa circonda il guerriero mentre la telecamera si avvicina lentamente; 2–3s, il drago si avvicina rapidamente attraverso le nuvole e il guerriero si gira verso di esso; 3–5s, il drago apre la bocca ed emette un potente getto di fuoco arancione brillante mentre il guerriero vola all'indietro attraverso la tempesta; 5–7s, mostra un primo piano drammatico del volto del drago e dei suoi occhi luminosi mentre insegue il guerriero; 7–9s, il guerriero affronta il drago a mezz'aria con fulmini che lampeggiano dietro di loro e un'energia blu che brilla dalla sua armatura; 9–11s, il drago attacca di nuovo con un fuoco intenso mentre il guerriero schiva ad alta velocità attraverso le nuvole; 11–13s, mostra entrambi i personaggi volare l'uno verso l'altro in uno scontro epico aereo, con il fuoco e l'energia blu che illuminano la tempesta; 13–15s, il guerriero si muove improvvisamente via nelle nuvole mentre il drago lo segue, terminando con un'inquadratura larga e drammatica del cielo scuro, CGI cinematografica realistica, armatura dettagliata, enormi ali di drago, nuvole volumetriche, movimento dinamico della telecamera, illuminazione drammatica, alto dettaglio, qualità 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100417296351346688/img/OBZDOXdtVRddRk7O.jpg" width="600" alt="Prompt per la Battaglia del Drago Seedance 2.0">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10949)**
+
+**Autore:** [Maha](https://x.com/Aiwithmaha) | **Fonte:** [Link](https://x.com/Aiwithmaha/status/2100417339716141116) | **Pubblicato:** Sep 17, 2026
+
+---
+### Video di rottura dello schermo desktop Seedance 2.0
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Prompt dettagliato per Seedance 2.0 per generare un video in cui una donna rompe il vetro dello schermo del computer con un coltello, poi lo ripara abbassando la luminosità.
+
+#### 📝 Prompt
+
+```
+Usa l'immagine desktop Apple fornita come primo fotogramma, rapporto d'aspetto 16:9, durata 15 secondi, camera fissa, un'unica ripresa continua. Mantieni la coerenza dei tratti somatici della donna, del costume nero da assassina, dell'acconciatura e dello sfondo a nebbia blu; preserva le icone del desktop, la barra dei menu e il Dock.
+0-4s: La donna nello sfondo del desktop si muove improvvisamente, con espressione calma, lanciando e riprendendo due volte verso l'alto lo stesso coltello corto, lama che gira a mezz'aria, movimenti naturali, capelli che fluttuano leggermente.
+4-6s: Al terzo lancio, perde il controllo, il coltello le scivola dalla mano, la punta vola verso il pubblico, colpendo il vetro dello schermo. Accompagnato da un suono nitido di vetro infranto, creazioni a ragnatela si diffondono istantaneamente dal punto d'impatto, coprendo il fronte del personaggio e l'interfaccia utente del desktop, l'immagine trema brevemente una volta.
+6-9s: La donna si blocca prima, poi spalancà gli occhi, aggrotta le sopracciglia, mostrando evidente ansia e panico dopo aver causato un problema. Guarda le crepe, poi il pubblico, cercando freneticamente di coprire le crepe ma fallendo.
+9-14s: Improvvisamente pensa a una soluzione, allunga la mano per fare clic sul Centro di Controllo nell'angolo in alto a destra, apre il controllo della luminosità dello schermo con l'icona del sole e trascina frettolosamente il cursore della luminosità verso sinistra. Ogni operazione oscura l'intero schermo in modo sincrono, personaggi, sfondo, icone e crepe svaniscono gradualmente nel buio; mentre opera, guarda il pubblico con senso di colpa, infine abbassa la luminosità al minimo.
+14-15s: Lo schermo diventa completamente nero, mantenuto per un secondo, non appaiono testi o loghi. Audio: Inizia con leggera musica strumentale di arti marziali e il sibilo del coltello rotante; la musica si interrompe bruscamente all'impatto, evidenziando il suono del vetro che si rompe; quindi mantiene i suoni fruscii frenetici dei tessuti e clic dell'interfaccia, terminando silenziosamente. Vincoli: Nessun taglio, nessun cambio di personaggio, nessun cambio di sfondo, nessun nuovo personaggio o coltello, nessuna cornice fisica del computer o tastiera visibile. Le crepe rimangono fisse sul piano del vetro dello schermo. Il blackout finale deve essere innescato dalla donna che opera il controllo della luminosità, non da un taglio improvviso al nero.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100404208872919040/img/JMxfQF64saAPo_ae.jpg" width="600" alt="Video di rottura dello schermo desktop Seedance 2.0">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10956)**
+
+**Autore:** [探路AI](https://x.com/TanLuAI) | **Fonte:** [Link](https://x.com/TanLuAI/status/2100405863123173606) | **Pubblicato:** Sep 17, 2026
+
+---
+### Spadaccino contro Bestie d'Ombra
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt complesso per un'unica inquadratura continua che mostra uno spadaccino di fronte a un branco di bestie d'ombra formate dal fumo, con rigorose istruzioni tecniche sulla cadenza di cattura e la coerenza del personaggio.
+
+#### 📝 Prompt
+
+```
+Non è venuto per combattere la tempesta. Lui è l'occhio del ciclone.
+
+1 inquadratura continua. Durata totale 15 secondi, nessun taglio, nessuna transizione, nessun dissolvenza. Velocità normale per tutta la sequenza, nessun rallentatore, nessun ramping e nessun cambio di velocità in alcun punto.
+
+CADENZA DI CATTURA — CRITICO: catturata nativamente a 24 fotogrammi al secondo con un vero angolo dell'otturatore di 180 gradi, una reale esposizione di 1/48 di secondo su ogni fotogramma. Ogni fotogramma porta con sé un'autentica sfocatura di movimento fotografica e si fonde fluidamente nel successivo. Il movimento è fluido, cinematografico, continuo — mai scattoso, mai tremolante, mai staccato, mai sussultante, mai a scatti tra le posizioni. Nessuna interpolazione dei fotogrammi, nessun blending dei fotogrammi, nessuna levigatura digitale, nessun ghosting, nessuna doppia immagine, nessun fotogramma perso, nessuna nitidezza da otturatore alto, nessun aspetto video.
+
+NESSUN TESTO A SCHERMO — CRITICO: nessun testo a schermo di alcun tipo in qualsiasi punto del fotogramma in qualsiasi momento. Nessun sottotitolo, nessuna didascalia, nessun dialogo bruciato, nessun sottotitolo automatico, nessun testo karaoke, nessun lower third, nessun titolo, nessuna scheda titolo, nessun credito, nessun watermark, nessun logo, nessun timecode, nessuna sovrapposizione UI. Il fotogramma è privo di tutte le grafiche di sovrapposizione dal primo all'ultimo fotogramma.
+
+NESSUN ALTRO È NEL FOTOGRAFIA — CRITICO: solo lo spadaccino solitario e l'anello delle bestie d'ombra occupano lo spazio; nessuna folla umana, nessuno spettatore, nessun'altra figura, nessun veicolo, nessuna creatura aggiuntiva appare ovunque in qualsiasi momento.
+
+LE BESTIE D'OMBRA SONO FORMATE DAL FUMO, NON DA CARNE SOLIDA — CRITICO: l'intero corpo di ogni bestia è fumo nero e ombra avvolti, il cui contorno si sfilaccia costantemente in filamenti sciolti e si ricompatta, nessun pelo, nessuna pelle, nessuna muscolatura solida, nessuna superficie dura in alcun punto del corpo; solo i due occhi luminosi color brace rossa senza pupilla visibile e le file esposte di zanne frastagliate scure come il fumo appaiono come dettagli solidi fissi contro il corpo fluttuante.
+
+L'UNISONO — CRITICO: il branco si blocca completamente immobile, poi nello stesso istante ogni bestia scatta in un pattern sincronizzato identico — giro netto della testa, scatto della spalla, piegamento in avanti sulle zampe anteriori e ritorno rigido alla posizione eretta — ripetendosi sullo stesso battito e conteggio, ogni corpo raggiungendo la stessa forma nello stesso momento pur mantenendo il proprio micro-timing, angolo della testa e altezza degli arti all'interno del conteggio affinché il branco non sembri mai composto da copie identiche.
+
+IL CONTRASTO — CRITICO: lo spadaccino non si muove mai una volta fermatosi — nessun oscillare, nessun modello di ammiccamento, nessun spostamento del peso, mantenendo una posa congelata perfettamente immobile per il resto dell'inquadratura — mentre ogni bestia dietro di lui convulsiona attraverso il pattern unisono con piena forza violenta. L'immobilità della singola figura contro la violenza sincronizzata del branco è l'intero punto focale dell'inquadratura.
+
+Blocco Soggetto — @[Image 1](image_1): un uomo alto e dalle spalle larghe, circa 182 cm, pelle olivastra segnata dal tempo, un viso scavato dagli occhi infossati che trasporta visibile esaustione sotto un'espressione calma e stoica, folta barba corta scura, lunghi capelli neri incolti che cadono sciolti sulla fronte e sulle tempie con la lunghezza raccolta bassa sulla nuca. Viso pulito, nessun tatuaggio, nessun marchio facciale. Indossa una tunica interna nera sotto una veste esterna asimmetrica grigio carbone con orli sfrangiati e strappati e un cappuccio drappeggiato spinto indietro, entrambi gli avambracci avvolti in cuoio scuro incrociato, una larga fascia di cuoio marrone avvolta più volte in vita, legature per le gambe in cuoio incrociato abbinato sopra pantaloni interni neri, stivali di cuoio marrone consumati. Una spada nel fodero con fodero nero e impugnatura rivestita in cuoio è infilata nella fascia sul fianco sinistro. Una sigaretta arrotolata a mano sottile brucia tra le sue labbra, con la brace visibile accesa. Si trova al centro del branco di bestie, rivolto direttamente verso l'obiettivo.
+
+Blocco Branco — @[Image 2](image_2): sei o otto bestie d'ombra quadrupedi, alte 90-110 cm alla spalla quando si muovono basse, una corporatura vagamente lupina con arti anteriori allungati e colonna vertebrale incurvata, artigli frastagliati neri come il fumo, una testa simile a un cranio con file di lunghe zanne nere fumose e due occhi luminosi color brace rossa. I corpi circondano vagamente lo spadaccino a una distanza rispettosa, rivolti verso di lui.
+
+Piano Mondo: una vasta distesa piatta di pietra scura crepata che si estende in una tenebra priva di caratteristiche in ogni direzione, nessun muro, nessun orizzonte, nessun oggetto di scena, nessuna altra struttura ovunque nello spazio; una singola fonte di luce fredda blu-bianca dura da qualche parte alta e invisibile proietta lunghe ombre dai bordi netti sul terreno.
+
+L'ATMOSFERA — CRITICO, solo profondità: l'aria stessa è pulita — nessuna foschia ambientale, nessuna nebbia, nessuna densità atmosferica, nessun raggio di luce visibile, nessun particolato sospeso — con esattamente due eccezioni: i corpi formati dal fumo delle bestie stesse, e il sottile filo di fumo di sigaretta che lo spadaccino espira, che deriva lentamente attraverso il suo stesso viso prima di disperdersi. Nessuna delle due eccezioni si diffonde in una foschia ambientale che riempie lo spazio.
+
+INQUADRATURA 1 — 0.0 a 15.0s. PANORAMICA LARGA CHE AVVICINA LENTAMENTE AL MEZZO PRIMO PIANO, LINEA CENTRALE BLOCCATA. Movimento della camera: bloccata su una linea centrale retta allo spadaccino a livello del suolo, un push estremamente lento e continuo per tutti i 15 secondi, nessuna inclinazione, non si ferma mai in una tenuta statica, non accelera mai né sussulta. Azione del soggetto: 0.0–5.0s cammina lentamente verso il centro dell'anello, calmo ed inespressivo, sigaretta tra le labbra; 5.0–7.0s si ferma esattamente al centro e si gira per affrontare l'obiettivo; 7.0–9.0s tira una lenta boccata dalla sigaretta poi la abbassa; 9.0–11.0s espira un visibile flusso di fumo verso l'obiettivo, che deriva attraverso il suo stesso viso; da 11.0s abbassa la mano e diventa completamente immobile, mantenendo quella posa fino alla fine. Il branco rimane congelato fino a 11.0s, poi scatta nel pattern unisono sincronizzato in perfetta sincronia per il resto dell'inquadratura. Posizione: lo spadaccino riempie il terzo centrale del fotogramma per tutto il tempo; l'anello occupa il fotogramma circostante, sfumando in una sfocatura di profondità di campo ridotta mentre il push continua mentre lui rimane a fuoco nitido. Audio: solo diegetico.
+
+Regole Inter-Fotogramma: la luce fredda dura blu-bianca dall'alto rimane costante, non sfarfalla mai. Solo lo spadaccino e il branco sono mai nel fotogramma. La sua posizione centrale e la posa finale congelata non derivano mai una volta raggiunte. Il branco mantiene la sua formazione ad anello e la distanza, non si avvicina mai, non rompe mai il cerchio. Il pattern unisono, una volta iniziato, non rallenta mai e non perde mai la sincronia tra le bestie. La spada, le fasciature e la fascia rimangono identici al riferimento in ogni fotogramma. La brace della sigaretta e il flusso di fumo non diventano mai foschia ambientale. La pelle viene resa vera e naturale, mai plastica, mai levigata.
+
+Ultimo Fotogramma: lo spadaccino riempie il centro del fotogramma in una composizione stretta mezzo primo piano, immobile, sigaretta abbassata al suo fianco, debole fumo ancora arricciato oltre la sua mascella, occhi bloccati nell'obiettivo. Dietro di lui ogni bestia è colta a metà unisono — teste girate di lato, spalle scattate, colonne vertebrali piegate in avanti — congelate in quell'istante, sfumate in una leggera sfocatura. Il push sta ancora chiudendo leggermente sul suo viso mentre l'inquadratura termina.
+
+Base Sonora: passi lenti su pietra dura, il debole crepitio della brace della sigaretta durante l'inspirazione, un respiro lento espirato attraverso il naso, tessuto e cuoio che scricchiolano debolmente mentre si ferma e si gira, poi un'onda di rumori gutturali profondi sovrapposti, ringhi distorti e respiri sibillanti innaturali fumosi che salgono bruscamente dal branco nell'istante in cui inizia il movimento unisono, uniti dal secco raschiare degli artigli sulla pietra. Nessuna musica, nessun testo, nessun dialogo, nessun canto.
+
+Realismo Camera & Cattura: cattura cinematografica ad ampia latitudine su un obiettivo anamorfico vintage 2x a grande apertura, compressione ritratto da 29° (80mm) che si stringe verso 18° (100mm) entro la fine del push, bokeh ovale, morbidi flare orizzontali striati dalla luce superiore, delicato bloom di halation. Corpo bloccato con la lenta avanzata frazionaria di un vero push lento, mai gimbal-glide, mai meccanicamente fluido. Resa colore-negativo, grana fine 35mm, neri profondi tenuti nei corpi fumosi delle bestie contro una chiave blu-bianca fredda con una debole tinta teal sulla pietra. La pelle appare come un vero matte cinematografico — zero lucentezza sulla fronte, ponte del naso, zigomi, vera texture fine dei pori, vera texture della barba alla mascella, luce assorbita lik
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100296217251233792/img/IKupdD7gaOeDqYWy.jpg" width="600" alt="Spadaccino contro Bestie d'Ombra">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10950)**
+
+**Autore:** [BMX](https://x.com/bmx_ai13) | **Fonte:** [Link](https://x.com/bmx_ai13/status/2100296271311553014) | **Pubblicato:** Sep 16, 2026
+
+---
+### Picnic con il gattino tigrato
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt per generare un video verticale ultra-realista di una donna che fa un picnic con un gattino che indossa un cappuccio a forma di tigre, caratterizzato da illuminazione dell'ora d'oro e dettagli cinematografici.
+
+#### 📝 Prompt
+
+```
+Video verticale ultra-realista in formato cinematografico 9:16 di una giovane donna dell'Asia orientale seduta su una coperta da picnic accanto a un adorabile gattino grigio tigrato dal pelo soffice, che indossa un grazioso cappuccio a forma di tigre. Lei indossa una camicia bianca a righe con bottoni, una cravatta nera e una gonna beige chiaro. Insieme gustano del pollo fritto croccante in un tranquillo parco lungo il fiume, con caffè freddo ghiacciato e una scatola di cibo sulla coperta. Luce morbida dell'ora d'oro, fiume calmo, skyline cittadino e un ponte sullo sfondo, brezza leggera che muove l'erba e i capelli, espressioni naturali, pelliccia dettagliata e texture della pelle realistica, atmosfera accogliente e salutare, profondità di campo ridotta, bokeh cremoso, fotografia cinematografica professionale, obiettivo 85mm, HDR, 8K, altamente dettagliato, illuminazione realistica, movimento naturale fluido.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100101335601577984/img/rNAC9DK7ZoaGLLbv.jpg" width="600" alt="Picnic con il gattino tigrato">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10953)**
+
+**Autore:** [AIwithMinal](https://x.com/AIwithMinal) | **Fonte:** [Link](https://x.com/AIwithMinal/status/2100101484960731456) | **Pubblicato:** Sep 16, 2026
+
+---
 ### Prompt Video Cinematografico: Inseguimento in una Notte Piovosa
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -422,7 +628,7 @@ Il volo deve essere fluido con accelerazione/decelerazione naturali e una legger
 Mantenere i volti della persona e del gatto, gli abiti, la postura, lo sfondo e la luce calda esattamente come nell'immagine originale. Non mostrare alcuna linea guida, freccia, numero o testo dell'immagine nel video finale.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1789538314005_720u3b_HSS15snbsAA6LRj.jpg" width="600" alt="Prompt per video da percorso di ripresa con drone">
+<img src="https://cms-assets.youmind.com/media/1789624515684_wsr9oq_HSS15snbsAA6LRj.jpg" width="600" alt="Prompt per video da percorso di ripresa con drone">
 
 **[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10909)**
 
@@ -5257,215 +5463,6 @@ Crea un filmato editoriale di alta moda di 15 secondi con protagonista la donna 
 **Autore:** [Zephyra Leigh](https://x.com/ZephyraLeigh) | **Fonte:** [Link](https://x.com/ZephyraLeigh/status/2096574839637352928) | **Pubblicato:** Sep 6, 2026
 
 ---
-### Interazione con gatto bianco in stile anime
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un affascinante video prompt in stile anime che ritrae un gatto che gioca in un appartamento e interagisce con il suo proprietario.
-
-#### 📝 Prompt
-
-```
-Un tenero gatto bianco in stile anime con grandi occhi color verde acqua cammina sul pavimento di un appartamento illuminato dal sole, balza su una pallina bianca, poi guarda un ragazzo che sta mangiando un panino e gli salta direttamente in grembo.
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2096555766417444864/pu/img/lHKD1wJvz_djVacs.jpg" width="600" alt="Interazione con gatto bianco in stile anime">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10446)**
-
-**Autore:** [Sahil Verma](https://x.com/sahilvermaai) | **Fonte:** [Link](https://x.com/sahilvermaai/status/2096555795324219599) | **Pubblicato:** Sep 6, 2026
-
----
-### Script per video di magia cinematografica
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt completo a livello di regia per generare un video di uno spettacolo di magia di alta qualità, caratterizzato da un effetto di cambio rapido con seta su un palcoscenico barocco.
-
-#### 📝 Prompt
-
-```
-Durata: 18 secondi
-Proporzioni: 9:16
-Riferimento: Mago = @, indossa uno smoking nero puro, camicia bianca, papillon nero; Attrice = una giovane donna bellissima di circa vent'anni con lunghi capelli castani ondulati, indossa un abito aderente rosso brillante con paillettes, spalline sottili, spacco alto e tacchi a spillo dorati; l'aspetto e l'abbigliamento di entrambi i personaggi rimangono rigorosamente coerenti per tutto il video.
-Audio: Riverbero da grande teatro; suono continuo del vento dovuto al movimento ad alta velocità della seta rossa; fischio magico della seta che si alza verticalmente; applausi e ovazioni fragorose del pubblico quando appare l'attrice; nessun dialogo, nessuna narrazione, nessuna musica, nessun sottotitolo.
-Stile generale: Stile documentaristico da palcoscenico teatrale ultra-realistico in 8K, riflettori professionali ad alto contrasto, fisica della seta realistica, spettacolo di magia con riaggregazione corporea invisibile, niente anime o effetti CG di bassa qualità.
-
-CONTINUITÀ GLOBALE
-Ambientazione: Palcoscenico di un teatro barocco classico europeo con pesanti tende di velluto rosso. Gli oggetti di scena includono un candelabro dorato vintage e un tavolo intagliato. Pavimento in legno scuro che riflette la luce. Sagome del pubblico in prima fila visibili.
-Soggetto principale: Il mago come controllore, l'attrice come partner. Proporzioni corporee, volti e texture dell'abbigliamento coerenti.
-Oggetti di scena: Seta di raso rossa ampia, ad alta densità e lucentezza, con un eccellente drappeggio.
-Motore dell'azione: Estrarre la seta dall'abito -> avvolgimento a spirale e sparizione -> tirare la seta verso l'alto come una cascata -> la seta si raccoglie in un bozzolo -> il bozzolo esplode rivelando l'attrice -> inchino finale.
-Continuità della telecamera: Prospettiva simulata a mano dalla prima fila, panoramica a campo medio, un'unica ripresa continua con blocco naturale della messa a fuoco e leggero tremolio realistico.
-Negativo: Cambi d'abito, duplicazione degli arti, tagli di scena, rendering in stile cartone animato, sfarfallio, filigrane.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096487553495126016/img/HrjTXoILErTBPC3B.jpg" width="600" alt="Script per video di magia cinematografica">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10448)**
-
-**Autore:** [John](https://x.com/johnAGI168) | **Fonte:** [Link](https://x.com/johnAGI168/status/2096487926217560519) | **Pubblicato:** Sep 6, 2026
-
----
-### Donna coreana aggraziata in una campagna estiva
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt per una storia estiva nostalgica e calda che vede protagonista una donna coreana in campagna, con un focus sulla luce dorata, i sassi del fiume e l'anguria.
-
-#### 📝 Prompt
-
-```
-Una giovane e aggraziata donna coreana con morbidi capelli castani corti e mossi, lineamenti delicati, occhi sorridenti e un'espressione calda e serena, indossa un leggero cappello di paglia dai bordi sfilacciati e un abito estivo bianco senza maniche con piccoli motivi floreali che le scivola leggermente addosso; tiene una succosa fetta di anguria rossa vicino al viso sotto la morbida luce dorata accanto a una finestra di legno, poi cammina con cautela su lisci sassi di fiume con scarpe basse bianche mentre trasporta un cesto di vimini pieno di pezzi di anguria, si accovaccia vicino al ruscello limpido e poco profondo per immergere e rinfrescare delicatamente un'anguria intera strizzata nell'acqua con entrambe le mani mentre sorride, sta in piedi sulla ringhiera di un balcone di legno sistemandosi il cappello di paglia con un dolce sorriso, cammina lungo un sentiero soleggiato vicino al fiume tra alti e luminosi girasoli gialli mentre si gira a guardarli per poi sorridere alla fotocamera, e infine sta in piedi su un tradizionale portico di legno con un campanello a vento in vetro appeso, tiene in mano una bottiglia di latte in vetro, si sistema il cappello e i capelli, guarda in alto con serenità per poi voltarsi verso la fotocamera con un sorriso dolce e radioso, il tutto in una morbida atmosfera estiva cinematografica di campagna con luce naturale calda, foglie verdi, acqua che scorre e un'atmosfera pacifica e nostalgica.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096465156452806656/img/03yhpbFjN5VpHHzh.jpg" width="600" alt="Donna coreana aggraziata in una campagna estiva">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10403)**
-
-**Autore:** [liana](https://x.com/Lianaalane) | **Fonte:** [Link](https://x.com/Lianaalane/status/2096465196856340515) | **Pubblicato:** Sep 6, 2026
-
----
-### Battaglia aliena horror sci-fi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un epico prompt horror sci-fi per un oscuro scontro sul campo di battaglia tra un'enorme creatura aliena corazzata e una guerriera, caratterizzato da una drammatica illuminazione notturna blu.
-
-#### 📝 Prompt
-
-```
-Scena horror sci-fi cinematografica ultra-realistica con un'enorme creatura aliena corazzata dagli occhi rossi luminosi, enormi zanne affilate e artigli potenti che ruggisce aggressivamente in un oscuro campo di battaglia futuristico. Una misteriosa guerriera discende dal cielo sopra la creatura, circondata da intense scie di energia arancione e scintille luminose. Drammatica illuminazione notturna blu, atmosfera piena di fumo, pioggia, strutture metalliche, nebbia volumetrica, composizione d'azione dinamica, scala terrificante, texture della creatura altamente dettagliate, riflessi realistici, profondità di campo cinematografica, stile epico da film di Hollywood, fotorealistico, 8K, verticale 9:16.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096458737758388224/img/dyTxIFmFjtlGOr56.jpg" width="600" alt="Battaglia aliena horror sci-fi">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10406)**
-
-**Autore:** [AIwithMinal](https://x.com/AIwithMinal) | **Fonte:** [Link](https://x.com/AIwithMinal/status/2096459001076613372) | **Pubblicato:** Sep 6, 2026
-
----
-### Generazione di scene per vlog personali in stile cinematografico
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt di generazione video per Seedance 2.5 progettato per creare un video in stile vlog di 15 secondi con un riferimento specifico al personaggio, simulando riprese naturali da smartphone con tremolii a mano.
-
-#### 📝 Prompt
-
-```
-Riprese amatoriali girate da un amico con uno smartphone. Viene creato un naturale tremolio della fotocamera come se fosse girato a mano, con composizione amatoriale, lievi deviazioni della messa a fuoco, conversazione e interazione naturali e un'atmosfera emozionale.
-
-<Person1> corrisponde a @Image1. D'ora in avanti in questo prompt, verrà scritto solo <Person1> senza @, e tutte le parti scritte come <Person1> si riferiscono a questa persona di riferimento.
-
-Il video di 15 secondi è un Vlog che cattura una giornata nella vita della protagonista <Person1>.
-Utilizzando le seguenti informazioni sulla donna, crea un video Vlog che riassuma ciò che è accaduto quel giorno come un diario quotidiano in più scene.
-L'obiettivo è creare contenuti ricchi del fascino della donna che renderanno i suoi fan ancora più devoti. Il costume per <Person1> sarà ottimizzato per ogni scena in base alle informazioni sulla personalità di <Person1>.
-
--- Informazioni per <Person1> --
-Aspetto della donna:
-Fai riferimento a <Person1>. Prendi solo il viso, l'acconciatura, la pelle e la corporatura dal riferimento. Non utilizzare l'abbigliamento presente nell'immagine di riferimento.
-Mantieni un aspetto fisico e facciale coerente per <Person1> durante l'intero filmato.
-
-Informazioni sulla personalità:
-<Informazioni sulla personalità preparate da te>
------------------------
-
-Elementi vietati:
-Sono vietati anime e prodotti esistenti. Non utilizzare sottotitoli. Sono vietati loghi, didascalie, ecc. esistenti.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096435220824375296/img/bcExlGotLEW0-VNy.jpg" width="600" alt="Generazione di scene per vlog personali in stile cinematografico">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10450)**
-
-**Autore:** [eijo(SAT577)](https://x.com/eijo_AIart) | **Fonte:** [Link](https://x.com/eijo_AIart/status/2096435504845934845) | **Pubblicato:** Sep 6, 2026
-
----
-### Sitcom retrò sui gatti anni 2000
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinematografico dettagliato per generare un video sitcom umoristico a tema felino nello stile delle trasmissioni TV dei primi anni 2000, completo di inquadrature specifiche e scenografia.
-
-#### 📝 Prompt
-
-```
-Una sitcom multi-camera dei primi anni 2000, girata su pellicola 35mm con un setup Panavision a quattro camere davanti a un pubblico in studio, pellicola Kodak Vision2 500T, telecinema su nastro NTSC per la trasmissione. Grana fine 35mm, delicato effetto alone attorno alle lampade, leggera morbidezza tipica del video interlacciato, illuminazione televisiva high-key piatta senza ombre, color timing caldo e saturo tipico dei primi anni 2000, formato 4:3. SET: Un soggiorno in un appartamento a tre pareti. Divano beige con un plaid in ciniglia, calde lampade da tavolo, una lampada a lava, una tenda di perline sulla porta della cucina, una torretta per DVD, una poltrona gonfiabile nell'angolo, una scrivania ingombra con un massiccio monitor CRT beige e un computer tower squadrato, CD masterizzati in bustine di carta, porta d'ingresso a destra. SOGGETTI — identici in ogni inquadratura: Gatto soriano rosso con una felpa con zip grigia oversize sopra una polo da rugby a righe arancioni e una collana di conchiglie puka, seduto dritto su una sedia da scrivania. Gatto grigio a pelo lungo in piedi in una tuta di velluto bordeaux con profili bianchi, un massiccio cellulare a conchiglia argentato agganciato alla cintura, che tiene in mano una tazza scheggiata. Camera fissa, nessun movimento di macchina, entrambi i gatti leggermente angolati verso la camera, la camera non supera mai la quarta parete. INQUADRATURA UNO — 0–6s: Campo lungo fisso a due. Il soriano rosso batte sulla tastiera con le zampe anteriori, il volto illuminato dal CRT. La porta d'ingresso si apre e il gatto grigio entra tenendo la tazza. Il pubblico in studio applaude. Guarda la scrivania e chiede: “Cosa stai facendo?” STACCO NETTO. INQUADRATURA DUE — 6–11s: Primo piano medio del soriano rosso. Senza distogliere lo sguardo dallo schermo, continua a digitare e dice: “Sto insegnando al computer a creare umani che ballano in modo divertente.” Risate del pubblico in studio. STACCO NETTO. INQUADRATURA TRE — 11–16s: Primo piano medio del gatto grigio. Abbassa la tazza, fa una pausa, poi dice con tono completamente piatto: “Abbiamo un umano.” Un'altra pausa. “È in cucina.” Risate del pubblico in studio. STACCO NETTO. INQUADRATURA QUATTRO — 16–20s: Primo piano del soriano rosso. Smette di digitare, si gira lentamente verso la tenda di perline e chiama: “Mark.” Fuori campo, un uomo inizia immediatamente a ballare, i piedi che battono sul pavimento e la tenda di perline che oscilla. Il gatto continua a fissare fuori campo mentre il pubblico ride e applaude. Tenuta. Audio: Picchiettio delle zampe sulla tastiera, ronzio del CRT, tazza sul legno, porta che si apre, applausi all'ingresso, risate in studio dopo ogni battuta, perline che tintinnano e passi fuori campo alla fine. Niente musica o colonna sonora. Vincoli: Mantenere entrambi i gatti identici per tutta la durata. Gatti veri con vestiti veri seduti dritti. Nessun personaggio umano visibile sullo schermo, nessun movimento di camera, nessun taglio extra, niente monitor a schermo piatto moderni, niente smartphone, niente look video digitale piatto.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096371356690755584/img/M6Y4PzznP4vSwN1z.jpg" width="600" alt="Sitcom retrò sui gatti anni 2000">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10400)**
-
-**Autore:** [Shan | Ai](https://x.com/ShanBuildsAI) | **Fonte:** [Link](https://x.com/ShanBuildsAI/status/2096371426790125642) | **Pubblicato:** Sep 5, 2026
-
----
-### Moda street cinematografica con abito giallo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt per una scena di alta moda street che ritrae una donna che volteggia in un abito giallo senape, progettato per Seedance 2.0 sulla piattaforma Imagvio.
-
-#### 📝 Prompt
-
-```
-Scena di moda street cinematografica ultra-realistica in una frenetica città moderna, una giovane donna aggraziata in un fluido abito senza maniche color giallo senape che volteggia in modo drammatico su un marciapiede affollato, i suoi lunghi capelli castani mossi che ondeggiano al vento, circondata da piccioni in volo, taxi gialli, pedoni e alti edifici urbani. Movimento dinamico, posa elegante, tratti del viso naturali, movimento realistico del tessuto, luce diurna dorata, profondità di campo ridotta, composizione cinematografica, fotografia di moda professionale, fotorealistico, ultra-dettagliato, HDR, 8K, obiettivo 85mm, f/1.8, color grading naturale, verticale.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096370505649717248/img/R8Z3MChtEYluZpIP.jpg" width="600" alt="Moda street cinematografica con abito giallo">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10404)**
-
-**Autore:** [AI Motion Lab](https://x.com/imagvio_trends) | **Fonte:** [Link](https://x.com/imagvio_trends/status/2096370558560788591) | **Pubblicato:** Sep 5, 2026
-
----
-### Nostalgia anni 2000: studente delle elementari
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt video nostalgico per Seedance che replica l'estetica di una videocamera miniDV dell'anno 2000, ritraendo le attività dopo la scuola di un bambino giapponese.
-
-#### 📝 Prompt
-
-```
-[Riepilogo] Dopo la scuola per un bambino di quarta elementare (10 anni) nell'anno 2000. Un fratello maggiore riprende a distanza usando la videocamera miniDV del padre, senza parlare. 480p, 16:9, 15 secondi. 7 inquadrature a taglio netto (circa 2s ciascuna) in 7 luoghi diversi. Nessuna transizione o dissolvenza. Il soggetto non interagisce con la telecamera: nessun contatto visivo, non mostra oggetti, non saluta, non si mette in posa. Immerso nel gioco. Frammenti di vita quotidiana, non una performance. Nessun dialogo, battuta o narrazione.
-
-[Soggetto] Un bambino giapponese carino come un attore bambino. L'espressione seria mentre guarda le carte è l'ideale. Volto: capelli neri corti con ciuffo sparato in avanti, sopracciglia folte, grandi occhi a doppia palpebra, un cerotto sul ponte del naso, pelle abbronzata (texture realistica), dente storto visibile quando sorride. Abbigliamento (casual): maglietta verde sbiadita, pantaloncini di jeans, cappellino indossato al contrario, scarpe da ginnastica bianche sporche, zaino blu. Oggetti: un mazzo di carte collezionabili (solo illustrazioni, niente testo) tenute insieme da un elastico, console portatile (delle dimensioni di un palmo, schermo non visibile). Abitudini: tenere le carte contro la luce, toccare la visiera del cappellino. Volto, capelli e abbigliamento identici in tutte le inquadrature.
-
-[Personaggi] Due amici: un bambino leggermente paffuto con gli occhiali (maglietta gialla), un bambino piccolo con un cappellino da baseball (maglietta blu). Nessuno guarda la telecamera.
-
-[Epoca, Luogo, Luce] Pomeriggio estivo dopo la scuola nel 2000. ① Parcheggio biciclette di un condominio (luce bianca pomeridiana). ② Panchina del parco (ombra). ③ Gradini in pietra del santuario (luce filtrata). ④ Ombra del santuario a terra (pomeriggio). ⑤ Strada in pendenza in una zona residenziale (arancione serale). ⑥ Strada vicino alle risaie (tramonto). ⑦ Davanti all'ingresso di casa (crepuscolo). Scegliere luoghi e angolazioni in cui insegne, testi, loghi o schermi non entrino nell'inquadratura.
-
-[Telecamera] Texture da videocamera miniDV del 2000: colori profondi, neri compressi, tendenza al clipping del bianco, zoom hunting e tremolio a mano. Nessuna data visualizzata. Ripresa a mano, composizione imperfetta, occasionale ricerca della messa a fuoco, fluttuazioni dell'esposizione. Distanza di 3-6m dal soggetto. Il soggetto ignora la telecamera. Nessuna stabilizzazione, gimbal, drone, slow motion, illuminazione cinematografica o color grading commerciale. La telecamera è sempre in posizioni tenute da un essere umano (in piedi, seduto, accovacciato, camminando, sedile accanto). Nessuna angolazione impossibile (aria, acqua, soffitto, direttamente dall'alto, fuori da un'auto in movimento, a pochi centimetri dal viso). L'operatore segue con un ritardo, a volte con un'inquadratura imprecisa.
-
-[Inquadrature] (circa 2s ciascuna. Luogo/Attività/Emozione & Gesto/Posizione telecamera):
-1. Parcheggio biciclette. I piedi toccano a malapena terra, a cavallo della bici, suona il campanello due volte e pedala via. Emozione: Eccitazione. Tocca la visiera del cappellino. Telecamera: Frontale, bassa, leggermente distante.
-2. Panchina del parco, ombra. Apre le carte a ventaglio, socchiude gli occhi per controllarne una controluce. Emozione: Ispezione seria di un tesoro. Telecamera: Di lato, vicino alle mani.
-3. Gradini del santuario, luce filtrata. Collega le console di gioco con un cavo corto, schermo non visibile, bocca serrata per la concentrazione. Emozione: Concentrazione intensa. Telecamera: Dall'alto dei gradini.
-4. Ombra del santuario a terra. Dispone le carte per lo scambio, concludendo con una stretta di mano con il bambino con gli occhiali. Emozione: Soddisfazione per l'affare. Gli angoli della bocca si sollevano. Telecamera: Obliqua dall'alto.
-5. Strada in pendenza, sera. Lascia il manubrio per un secondo mentre scende, barcolla e lo riafferra nel panico. Emozione: Spavalderia poi paura. Telecamera: Segue da dietro, tremolante.
-6. Strada vicino alle risaie, tramonto. Tre ragazzi in bici in fila, il soggetto è l'unico che pedala in piedi. Emozione: Divertimento. Telecamera: Di lato, distante.
-7. Ingresso di casa, crepuscolo. Getta la bici a terra e corre in casa. La porta si chiude. Emozione: Fame. Telecamera: Rimane sulla strada, riprendendo la porta chiusa per alcuni secondi. A circa 00:14, la registrazione diventa improvvisamente nera. Nessuna dissolvenza.
-
-[Dettagli oggetti] Le carte sono di carta con solo illustrazioni, senza testo, tenute da un elastico. La console di gioco è in plastica bianca, schermo non visibile. Il cappellino è blu con visiera curva. La bicicletta è argentata con un asciugamano sul portapacchi.
-
-[Divieto di testo] Nessun testo leggibile, logo, insegna, etichetta, display o numero nell'inquadratura. Le carte non hanno testo.
-
-[Fisica/Coerenza] Fisica del mondo reale. Niente dita extra, mani fuse, anatomia distorta, oggetti fluttuanti, elementi che svaniscono o morphing improvvisi. Piedi ben piantati a terra. Cerotto, cappellino, zaino e vestiti degli amici identici in tutte le inquadrature.
-
-[Suono] Solo suono ambientale naturale (cambia per ogni inquadratura): campanello della bici, vento all'ombra con il suono delle carte, uccelli al santuario, ghiaia, vento sulla pendenza, rane nei campi, porta che si chiude. Nessuna parola. Sono ammesse solo occasionali piccole risate/respiro dell'operatore e del soggetto. Niente musica. Nessuna narrazione. Nessun effetto sonoro artificiale.
-
-[Atmosfera] Una registrazione di un pomeriggio dopo la scuola del 2000 che fa pensare agli adulti che erano studenti delle elementari nell'era Heisei: 'L'ho fatto anch'io'. Frammenti di gioco, non recitazione. Nostalgico, energico, profondamente umano. Dare priorità alla sensazione che una telecamera si trovasse lì per caso.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094094517297422336/img/9-xNi9qvnC1odHYi.jpg" width="600" alt="Nostalgia anni 2000: studente delle elementari">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10410)**
-
-**Autore:** [妖精アーヤ](https://x.com/aiehon_aya) | **Fonte:** [Link](https://x.com/aiehon_aya/status/2096357706361913818) | **Pubblicato:** Sep 5, 2026
-
----
 ---
 
 ## 📚 Altri prompt disponibili
@@ -5527,6 +5524,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-09-17T03:55:02.382Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-09-18T03:43:24.785Z</sub>
 
 </div>

@@ -68,9 +68,9 @@ ByteDance के Seedance 2.0 के लिए उच्च गुणवत्�
 
 | मीट्रिक | गिनती |
 |--------|-------|
-| 📝 कुल प्रॉम्पट्स | **6389** |
+| 📝 कुल प्रॉम्पट्स | **6397** |
 | ⭐ विशेष प्रॉम्पट्स | **6** |
-| 🔄 अंतिम अपडेट | **2026-09-17** |
+| 🔄 अंतिम अपडेट | **2026-09-18** |
 
 ---
 
@@ -361,6 +361,212 @@ Seedance 2.0 का उपयोग करके रात में सिन�
 
 > 📝 प्रकाशन तिथि के अनुसार क्रमबद्ध (नवीनतम पहले)
 
+### पेरिसियन फैशन ट्रांसफॉर्मेशन वीडियो
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक सिनेमाई फैशन ट्रांसफॉर्मेशन वीडियो बनाने के लिए एक प्रॉम्प्ट, जिसमें पेरिस में चलते हुए एक महिला का ड्रेस सफेद से लाल हो जाता है।
+
+#### 📝 प्रॉम्पट
+
+```
+एक सुंदर युवती को शानदार पेरिसियन गलियों में चलते हुए दिखाता हुआ एक सिनेमाई फैशन ट्रांसफॉर्मेशन वीडियो बनाया गया। वह सादे सफेद समर ड्रेस में शुरू होती है, क्लासिक वास्तुकला, कैफे, दुकानों और पैदल यात्रियों से घिरी स्टाइलिश शहरी फुटपाथ पर स्वाभाविक रूप से चलती हुई। कैमरा यथार्थवादी सिनेमाई गति और कम गहराई वाले फोकस (shallow depth of field) के साथ उसका सहज अनुसरण करता है। जैसे ही वह एक स्टोरफ्रंट के पास से गुजरती है, चमकदार लाल रोशनी की लकीरें उसके शरीर के चारों ओर घूमती हैं, जो एक जादुई फैशन-ट्रांजिशन इफेक्ट पैदा करती हैं। उसका परिधान बिना किसी रुकावट के सफेद से एक परिष्कृत लाल स्लीवलेस ड्रेस में बदल जाता है। व्यस्त पेरिस इंटरसेक्शन में आत्मविश्वास से चलते हुए उसे दिखाते हुए गतिशील स्ट्रीट-लेवल शॉट्स के साथ जारी रखें। लाल ड्रेस में उसका एक खूबसूरत क्लोज़-अप शॉट के साथ समाप्त करें, जहाँ वह बर्फ का गोला (ice cream) पकड़कर खा रही है और कैमरे की ओर स्वाभाविक रूप से देख रही है। फोटो-रियलिस्टिक विवरण, एलिगेंट फैशन-फिल्म एस्थेटिक, प्राकृतिक दिन की रोशनी, सहज ट्रांजिशन्स, यथार्थवादी त्वचा बनावट, सिनेमाई लेंस, सूक्ष्म पृष्ठभूमि गति, और प्रीमियम कॉमर्शियल लुक।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100456398144647168/img/xAq552Wbm_a24aoe.jpg" width="600" alt="पेरिसियन फैशन ट्रांसफॉर्मेशन वीडियो">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=10954)**
+
+**लेखक:** [ayzalnoor](https://x.com/ayzalnooor24521) | **स्रोत:** [Link](https://x.com/ayzalnooor24521/status/2100456445900710158) | **प्रकाशित:** Sep 17, 2026
+
+---
+### कोरियाई सैलरी डे व्लॉग
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक कोरियाई महिला के वेतन दिवस मनाने वाले 30-सेकंड के अल्ट्रा-रियलिस्टिक UGC-शैली के मिनी व्लॉग के लिए एक प्रॉम्प्ट, जिसमें विस्तृत दृश्य ब्रेकडाउन और विज़ुअल स्टाइल निर्देश शामिल हैं।
+
+#### 📝 प्रॉम्पट
+
+```
+एक शैलीशाली कोरियाई 'बैडी' लड़की के वेतन मिलने के बाद सबसे खुशी के दिन को दर्ज करने वाला 30-सेकंड का अल्ट्रा-रियलिस्टिक UGC-शैली का मिनी व्लॉग बनाएं।
+
+दृश्य 1 — 0–5 सेकंड:
+सुबह बेडरूम में सेल्फी। वह जागती है, अपने फोन की जांच करती है, देखती है कि उसका वेतन जमा हो गया है, और तुरंत उत्साह के साथ मुस्कुराती है। प्राकृतिक बिखरा हुआ बेड एस्थेटिक, नरम सुबह की धूप। वह कैमरे की ओर देखती है और खुशी से कहती है, “आखिरकार मेरा वेतन आ गया!”
+
+दृश्य 2 — 5–9 सेकंड:
+तैयार होते हुए तेज़ ट्रांज़िशन। वह ताज़गी भरा स्नान करती है, सरल स्किनकेयर करती है, अपने बाल ठीक करती है, और ट्रेंडी 'बैडी' स्टाइल का कपड़ा पहनती है। मिरर सेल्फी शॉट्स, यथार्थवादी हैंडहेल्ड फोन मूवमेंट।
+
+दृश्य 3 — 9–19 सेकंड:
+वह एक आधुनिक लक्ज़री शॉपिंग मॉल की ओर जाती है। खुद को फिल्माते हुए प्रवेश द्वार से गुजरती है, फैशन स्टोर्स में घूमती है, कपड़े आज़माती है, एक्सेसरीज़ चेक करती है, और खुशी से खरीदारी के बैग उठाए रहती है। क्विक कैन्डिड शॉट्स, उत्साहित भाव, यथार्थवादी मॉल लाइटिंग और नेचुरल UGC कैमरा शेक शामिल करें।
+
+दृश्य 4 — 19–25 सेकंड:
+वह मॉल के अंदर एक आरामदायक कैफे में अपने खरीदारी के बैगों के साथ बैठती है। वह गर्म चाय का एक कप ऑर्डर करती है, चाय परोसे जाने को रिकॉर्ड करती है, एक घूंट पीती है, और संतुष्टि से मुस्कुराती है।
+
+दृश्य 5 — 25–30 सेकंड:
+गोल्डन-आवर/शाम का शॉट। वह अपने खरीदारी के बैगों और चाय के साथ मॉल के बाहर चलती है, कैमरे को अपनी ओर मोड़ती है, मुस्कुराती है और कहती है, “वेतन दिवस आधिकारिक तौर पर मेरा पसंदीदा दिन है।” एक अनौपचारिक हंसी और प्राकृतिक कैमरा मूवमेंट के साथ समाप्त करें।
+
+विज़ुअल स्टाइल: अल्ट्रा-रियलिस्टिक स्मार्टफोन फुटेज, प्रामाणिक UGC व्लॉग, कोरियाई फैशन एस्थेटिक, आत्मविश्वास से भरी 'बैडी' ऊर्जा, सिनेमाई लेकिन अत्यधिक परिष्कृत नहीं, प्राकृतिक त्वचा की बनावट, यथार्थवादी प्रकाश व्यवस्था, सहज ट्रांज़िशन, सूक्ष्म पृष्ठभूमि ध्वनियाँ, यथार्थवादी चेहरे के भाव, हैंडहेल्ड फोन कैमरा, सोशल-मीडिया-रेडी वर्टिकल 9:16, 4K गुणवत्ता।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100452060642852864/img/R0oS8fEzuAmWvRq5.jpg" width="600" alt="कोरियाई सैलरी डे व्लॉग">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=10952)**
+
+**लेखक:** [Noor 🌸](https://x.com/Noor_ul_ain43) | **स्रोत:** [Link](https://x.com/Noor_ul_ain43/status/2100452341996728475) | **प्रकाशित:** Sep 17, 2026
+
+---
+### कोरियाई मार्शल आर्ट योद्धा पोर्ट्रेट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> पारंपरिक कोरियाई मार्शल आर्ट वेशभूषा में एक उग्र युवती के अल्ट्रा-रियलिस्टिक सिनेमाई दृश्य को जनरेट करने के लिए एक प्रॉम्प्ट।
+
+#### 📝 प्रॉम्पट
+
+```
+पारंपरिक कोरियाई मार्शल आर्ट आंगन में आत्मविश्वास से खड़ी एक उग्र युवती का अल्ट्रा-रियलिस्टिक सिनेमाई दृश्य, सफेद कॉलर वाली काली मार्शल आर्ट यूनिफॉर्म पहने हुए, हवा में प्राकृतिक रूप से लहराते हुए छोटे गहरे बाल, तीव्र और एकाग्र भाव, नाटकीय गर्म धूप, पृष्ठभूमि में पारंपरिक कोरियाई वास्तुकला और पत्थर की दीवारें, सूक्ष्म मोशन ब्लर, यथार्थवादी त्वचा बनावट, विस्तृत कपड़े, कम गहराई का फोकस (shallow depth of field), सिनेमाई रंग ग्रेडिंग, उच्च कंट्रास्ट, 8K HDR, पेशेवर फिल्म स्टिल, गतिशील माहौल, 35mm लेंस, वर्टिकल 9:16 संरचना।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100444654605070336/img/BWb5GjmmEgP2Mxrn.jpg" width="600" alt="कोरियाई मार्शल आर्ट योद्धा पोर्ट्रेट">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=10955)**
+
+**लेखक:** [AIwithMinal](https://x.com/AIwithMinal) | **स्रोत:** [Link](https://x.com/AIwithMinal/status/2100444829880914240) | **प्रकाशित:** Sep 17, 2026
+
+---
+### कोरियाई गर्मियों के व्लॉग वीडियो प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Seedance 2.0 के लिए एक विस्तृत वीडियो जनरेशन प्रॉम्प्ट जो एक शांत कोरियाई गर्मी का दृश्य बनाता है, जिसमें एक लड़की नदी किनारे तरबूज खा रही है।
+
+#### 📝 प्रॉम्पट
+
+```
+एक सुंदर कोरियाई लड़की ने हल्के सफेद रंग की गर्मियों की ड्रेस और प्राकृतिक स्ट्रॉ सन हैट पहनी हुई है, जिसमें ताज़ा और परिष्कृत कोरियाई लाइफस्टाइल एस्थेटिक है। उसके काले बाल छोटे हैं और हल्के लहरदार हैं, चेहरे पर न्यूनतम मेकअप है और उसका व्यक्तित्व शांत और स्वाभाविक है। वह एक सुंदर पहाड़ी नदी के किनारे एक शांत गर्मियों का दिन बिता रही है। वह पानी के पास बैठी है, आराम से तरबूज का एक टुकड़ा खा रही है और ताज़ा माहौल का आनंद ले रही है। वह अपने हैट को ठीक करते हुए और चारों ओर के दृश्य को देखते हुए सहज बाहरी स्थान में धीरे-धीरे घूमती है। सूरज की रोशनी पेड़ों से होकर कोमलता से छनती है, जिससे गर्म सिनेमाई हाइलाइट्स और प्राकृतिक लेंस फ्लेर्स बनते हैं। लकड़ी के घर के पास एक सफेद पर्दा गर्मियों की हवा में हल्का सा लहरा रहा है। वह एक छोटा पिक्निक बास्केट लिए हुए है और शांत ग्रामीण परिवेश का आनंद ले रही है। कैमरा क्लोज़-अप्स, मीडियम शॉट्स और स्मूथ सिनेमाई वाइड शॉट्स कैप्चर करता है। फोटोरियलिस्टिक, गर्म, स्वप्निल, शांत कोरियाई गर्मी व्लॉग स्टाइल, प्राकृतिक रंग, कोमल प्रकाश व्यवस्था, यथार्थवादी गति और सिनेमाई 4K गुणवत्ता।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100423624889114624/img/_Dz_jZArR-f_XNwO.jpg" width="600" alt="कोरियाई गर्मियों के व्लॉग वीडियो प्रॉम्प्ट">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=10951)**
+
+**लेखक:** [Ayat](https://x.com/aiwithaayat) | **स्रोत:** [Link](https://x.com/aiwithaayat/status/2100423982898115050) | **प्रकाशित:** Sep 17, 2026
+
+---
+### Seedance 2.0 ड्रैगन बैटल प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Seedance 2.0 के लिए एक विस्तृत सिनेमाई फैंटेसी बैटल प्रॉम्प्ट जिसमें तूफानी आसमान में एक योद्धा और एक ड्रैगन शामिल हैं, साथ ही विशेष समय और दृश्य प्रभाव निर्देश दिए गए हैं।
+
+#### 📝 प्रॉम्पट
+
+```
+रेफरेंस से मेल खाता हुआ 15-सेकंड का सिनेमाई फैंटेसी बैटल वीडियो बनाएं: 0–1s, एक भविष्यवादी कवचधारी योद्धा अंधेरे तूफानी आसमान में तैर रहा है जबकि उसके पीछे एक विशाल काला ड्रैगन उड़ रहा है; 1–2s, कैमरा धीरे-धीरे करीब आता है जबकि योद्धा के चारों ओर चमकती नीली ऊर्जा फैल जाती है; 2–3s, ड्रैगन बादलों के बीच से तेजी से बढ़ता है और योद्धा उसकी ओर मुड़ जाता है; 3–5s, ड्रैगन अपना मुंह खोलता है और चमकदार नारंगी आग की शक्तिशाली लहर छोड़ता है जबकि योद्धा तूफान के माध्यम से पीछे की ओर उड़ता है; 5–7s, ड्रैगन के चेहरे और चमकती आंखों का एक नाटकीय क्लोज-अप दिखाएं जब वह योद्धा का पीछा करता है; 7–9s, योद्धा हवा में ड्रैगन का सामना करता है, उनके पीछे बिजली कड़कती है और उसके कवच से नीली ऊर्जा चमकती है; 9–11s, ड्रैगन तीव्र आग के साथ फिर से हमला करता है जबकि योद्धा तेज गति से बादलों के बीच से बचता है; 11–13s, दोनों पात्रों को एक महाकाव्य हवाई टक्कर में एक-दूसरे की ओर उड़ते हुए दिखाएं, जहां आग और नीली ऊर्जा तूफान को रोशन कर रही होती है; 13–15s, योद्धा अचानक बादलों में छिप जाता है जबकि ड्रैगन उसका पीछा करता है, और यह दृश्य अंधेरे आसमान के एक नाटकीय वाइड शॉट पर समाप्त होता है, यथार्थवादी सिनेमाई CGI, विस्तृत कवच, विशाल ड्रैगन पंख, वॉल्यूमेरिक बादल, गतिशील कैमरा मूवमेंट, नाटकीय लाइटिंग, उच्च विवरण, 4K गुणवत्ता।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100417296351346688/img/OBZDOXdtVRddRk7O.jpg" width="600" alt="Seedance 2.0 ड्रैगन बैटल प्रॉम्प्ट">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=10949)**
+
+**लेखक:** [Maha](https://x.com/Aiwithmaha) | **स्रोत:** [Link](https://x.com/Aiwithmaha/status/2100417339716141116) | **प्रकाशित:** Sep 17, 2026
+
+---
+### Seedance 2.0 डेस्कटॉप ब्रेक वीडियो
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Seedance 2.0 के लिए एक विस्तृत प्रॉम्प्ट, जिसमें एक महिला चाकू से कंप्यूटर स्क्रीन का ग्लास तोड़ती है और फिर चमक कम करके उसे ठीक करती है।
+
+#### 📝 प्रॉम्पट
+
+```
+प्रदान की गई Apple डेस्कटॉप इमेज को पहली फ्रेम के रूप में उपयोग करें, 16:9 एस्पेक्ट रेश्यो, 15 सेकंड की अवधि, स्थिर कैमरा, एक लगातार शॉट। महिला की चेहरे की विशेषताओं, काले असैसिन कॉस्ट्यूम, हेयरस्टाइल और नीले धुंध बैकग्राउंड की निरंतरता बनाए रखें; डेस्कटॉप आइकन, मेनू बार और Dock को सुरक्षित रखें।
+0-4s: डेस्कटॉप वॉलपेपर में महिला अचानक हिलती है, शांत दिखती है, लगातार एक ही छोटे चाकू को दो बार ऊपर की ओर फेंकती और पकड़ती है, हवा में ब्लेड घूमता है, प्राकृतिक हरकतें, बाल हल्के से लहराते हैं।
+4-6s: तीसरी बार फेंकने पर, वह नियंत्रण खो देती है, चाकू उसके हाथ से फिसल जाता है, नोक दर्शकों की ओर उड़ती है, स्क्रीन ग्लास से टकराती है। कांच टूटने की तेज आवाज़ के साथ, टक्कर बिंदु से तुरंत मकड़ी के जाले जैसे दरारें फैलती हैं, जो पात्र और डेस्कटॉप UI के सामने को ढक लेती हैं, दृश्य एक बार थोड़ा हिलता है।
+6-9s: महिला पहले स्थिर हो जाती है, फिर अपनी आँखें चौड़ी करती है, भौंहें सिकोड़ती है, समस्या पैदा करने के बाद स्पष्ट चिंता और घबराहट दिखाती है। वह दरारों को देखती है, फिर दर्शकों को, घबराहट में दरारों को छिपाने की कोशिश करती है लेकिन असफल रहती है।
+9-14s: उसे अचानक एक समाधान सूझता है, वह ऊपरी दाएं कोने में Control Center पर क्लिक करने के लिए हाथ बढ़ाती है, सूरज आइकन वाली स्क्रीन ब्राइटनेस कंट्रोल खोलती है, और जल्दी से ब्राइटनेस स्लाइडर को बाईं ओर खींचती है। प्रत्येक ऑपरेशन के साथ पूरा स्क्रीन सिंक होकर अंधेरा होता जाता है, पात्र, बैकग्राउंड, आइकन और दरारें धीरे-धीरे अंधकार में विलीन हो जाती हैं; ऑपरेशन करते समय, वह अपराधबोध से दर्शकों को देखती है, अंत में ब्राइटनेस को न्यूनतम तक कम कर देती है।
+14-15s: स्क्रीन पूरी तरह काली हो जाती है, एक सेकंड के लिए बनी रहती है, कोई टेक्स्ट या लोगो नहीं दिखता। ऑडियो: हल्की मार्शल आर्ट्स इंस्ट्रूमेंटल संगीत और घूमते चाकू की व्हूशिंग आवाज़ से शुरू होता है; टक्कर पर संगीत अचानक रुक जाता है, कांच टूटने की आवाज़ को उजागर करता है; फिर घबराहट वाले कपड़ों की सरसराहट और UI क्लिक्स की आवाज़ें बनी रहती हैं, चुपचाप समाप्त होता है। प्रतिबंध: कोई कट नहीं, कोई पात्र परिवर्तन नहीं, कोई बैकग्राउंड परिवर्तन नहीं, कोई नया पात्र या चाकू नहीं, कोई भौतिक कंप्यूटर फ्रेम या कीबोर्ड दृश्यमान नहीं। दरारें स्क्रीन ग्लास प्लेन पर स्थिर रहती हैं। अंतिम ब्लैकआउट महिला द्वारा ब्राइटनेस कंट्रोल का संचालन करने से ट्रिगर होना चाहिए, अचानक काले होने से नहीं।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100404208872919040/img/JMxfQF64saAPo_ae.jpg" width="600" alt="Seedance 2.0 डेस्कटॉप ब्रेक वीडियो">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=10956)**
+
+**लेखक:** [探路AI](https://x.com/TanLuAI) | **स्रोत:** [Link](https://x.com/TanLuAI/status/2100405863123173606) | **प्रकाशित:** Sep 17, 2026
+
+---
+### Swordsman vs Shadow Beasts
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A complex prompt for a single continuous shot featuring a swordsman facing a pack of smoke-formed shadow beasts, with strict technical instructions on capture cadence and character consistency.
+
+#### 📝 प्रॉम्पट
+
+```
+He didn't come to fight the storm. He is the eye of it.
+
+1 continuous shot. Total duration 15 seconds, no cuts, no transitions, no dissolves. Normal speed throughout, no slow motion, no ramping, and no speed change anywhere in this sequence.
+
+CAPTURE CADENCE — CRITICAL: captured natively at 24 frames per second with a true 180-degree shutter angle, a real 1/48 second exposure on every frame. Every frame carries genuine photographic motion blur and blends smoothly into the next. Motion is fluid, filmic, continuous — never choppy, never stuttering, never staccato, never juddering, never stepping between positions. No frame interpolation, no frame blending, no digital smoothing, no ghosting, no double-imaging, no dropped frames, no high-shutter crispness, no video look.
+
+NO ON-SCREEN TEXT — CRITICAL: no on-screen text of any kind anywhere in frame at any point. No captions, no subtitles, no burned-in dialogue, no auto-captions, no karaoke text, no lower thirds, no titles, no title cards, no credits, no watermarks, no logos, no timecode, no UI overlays. The frame is clean of all overlay graphics from first frame to last.
+
+NOBODY ELSE IS IN THE FRAME — CRITICAL: only the lone swordsman and the ring of shadow beasts occupy the space; no human crowd, no bystanders, no other figures, no vehicles, no additional creatures appear anywhere at any point.
+
+THE SHADOW BEASTS ARE SMOKE-FORMED, NOT SOLID FLESH — CRITICAL: each beast's entire body is coiling black smoke and shadow, its outline constantly fraying into loose wisps and re-coalescing, no fur, no skin, no solid musculature, no hard surface anywhere on the body; only the two ember-red glowing eyes with no visible pupil and the exposed rows of jagged smoke-dark fangs read as fixed solid detail against the drifting body.
+
+THE UNISON — CRITICAL: the pack freezes dead still, then on the same instant every beast snaps into an identical synchronized pattern — sharp head-turn, shoulder-jerk, a fold forward at the front legs and a hard snap back upright — repeating on the same beat and count, each body reaching the same shape at the same moment while carrying its own micro-timing, head angle, and limb height inside the count so the pack never reads as identical copies.
+
+THE CONTRAST — CRITICAL: the swordsman never moves once he stops — no sway, no blink pattern, no weight shift, holding one dead-still frozen pose for the remainder of the shot — while every beast behind him convulses through the unison pattern with full violent force. The stillness of the one figure against the synchronized violence of the pack is the entire point of the shot.
+
+Subject Lock — @[Image 1](image_1): a tall broad-shouldered man, roughly 182cm, weathered olive skin, a gaunt hollow-eyed face carrying visible exhaustion beneath a calm stoic expression, heavy dark stubble, long unkempt black hair falling loose across the forehead and temples with the length gathered low at the nape. Clean face, no tattoos, no facial markings. Wears a black under-tunic beneath an asymmetric charcoal-black outer robe with frayed torn hems and a draped hood pushed back, both forearms wrapped in dark cross-wound leather, a wide brown leather sash wound several times at the waist, matching cross-wrapped leather leg bindings over black under-trousers, worn brown leather boots. A sheathed sword with a black scabbard and leather-bound hilt sits tucked through the sash at his left hip. A thin hand-rolled cigarette burns between his lips, lit ember visible. He stands at the center of the beast pack, facing directly into the lens.
+
+Pack Lock — @[Image 2](image_2): six to eight quadrupedal shadow beasts, 90 to 110cm at the shoulder when moving low, a vaguely wolf-like build with elongated forelimbs and a hunched spine, jagged smoke-black claws, a skull-like head with rows of long blackened smoke fangs and twin glowing ember-red eyes. Bodies loosely encircle the swordsman at a respectful distance, facing inward toward him.
+
+World Plate: a wide flat expanse of cracked dark stone ground stretching into featureless gloom in every direction, no walls, no horizon, no props, no other structure anywhere in the space; a single hard cold blue-white light source somewhere high and unseen throws long sharp-edged shadows across the ground.
+
+THE ATMOSPHERE — CRITICAL, depth only: the air itself is clean — no ambient haze, no fog, no atmospheric density, no visible light beams, no suspended particulate — with exactly two exceptions: the smoke-formed bodies of the beasts themselves, and the thin stream of cigarette smoke the swordsman exhales, drifting slowly across his own face before dispersing. Neither exception spreads into ambient haze filling the space.
+
+SHOT 1 — 0.0 to 15.0s. WIDE PUSHING SLOWLY TO MEDIUM-CLOSE, LOCKED CENTERLINE. Camera move: locked-off on a straight centerline to the swordsman at ground level, one extremely slow continuous push across the full 15 seconds, no cant, never settling into a static hold, never speeding up or jolting. Subject action: 0.0–5.0s he walks slowly toward the center of the ring, calm and expressionless, cigarette between his lips; 5.0–7.0s he stops dead center and turns to face the lens; 7.0–9.0s he draws one slow pull on the cigarette then lowers it; 9.0–11.0s he exhales a visible stream of smoke toward the lens, drifting across his own face; from 11.0s he lowers his hand and goes completely motionless, holding that pose to the end. The pack stands frozen through 11.0s, then snaps into the synchronized unison pattern in perfect sync for the remainder of the shot. Position: the swordsman fills the center third of frame throughout; the ring occupies the surrounding frame, softening into shallow depth-of-field blur as the push continues while he stays in sharp focus. Sound: diegetic only.
+
+Cross-Frame Rules: cold hard blue-white top light holds constant, never flickers. Only the swordsman and the pack are ever in frame. His center position and final frozen pose never drift once reached. The pack holds its ring formation and distance, never closing in, never breaking the circle. The unison pattern, once begun, never slows and never desyncs between beasts. The sword, wraps, and sash stay identical to the reference in every frame. The cigarette ember and smoke stream never turn into ambient haze. Skin renders true and natural, never plastic, never smoothed.
+
+Last Frame: the swordsman fills the center of frame in a tight medium-close composition, motionless, cigarette lowered at his side, faint smoke still curling past his jaw, eyes locked into the lens. Behind him every beast is caught mid-unison — heads snapped to one side, shoulders jerked, spines folded forward — frozen in that instant, softened into shallow blur. The push is still fractionally closing on his face as the shot ends.
+
+Sound Bed: slow footsteps on hard stone, the faint crackle of the cigarette ember on the inhale, a slow breath exhaled through the nose, cloth and leather creaking faintly as he stops and turns, then a wave of overlapping deep guttural rumbles, distorted growls, and smoky unnatural hiss-breathing rising sharply from the pack the instant the unison movement begins, joined by the dry scrape of claws on stone. No music, no lyrics, no dialogue, no singing.
+
+Camera & Capture Realism: wide-latitude cinema capture on a vintage 2x anamorphic lens at a wide aperture, 29° (80mm) portrait compression tightening toward 18° (100mm) by the end of the push, oval bokeh, soft horizontal streak flares off the top light, gentle halation bloom. Locked-off body with the fractional creep of a real slow push, never gimbal-glide, never mechanically smooth. Color-negative rendition, fine 35mm grain, deep held blacks in the beasts' smoke bodies against a cold blue-white key with a faint teal cast on the stone. Skin reads true cinematic matte — zero shine on forehead, nose bridge, cheekbones, real fine pore texture, real stubble texture at the jaw, light absorbed lik
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100296217251233792/img/IKupdD7gaOeDqYWy.jpg" width="600" alt="Swordsman vs Shadow Beasts">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=10950)**
+
+**लेखक:** [BMX](https://x.com/bmx_ai13) | **स्रोत:** [Link](https://x.com/bmx_ai13/status/2100296271311553014) | **प्रकाशित:** Sep 16, 2026
+
+---
+### बाघ के कपड़े में बिल्ली के साथ पिकनिक
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक अल्ट्रा-रियलिस्टिक वर्टिकल वीडियो जनरेट करने का प्रॉम्प्ट जिसमें एक महिला बाघ की टोपी पहने बिल्ली के साथ पिकनिक मना रही है, गोल्डन आवर लाइटिंग और सिनेमैटिक डिटेल के साथ।
+
+#### 📝 प्रॉम्पट
+
+```
+अल्ट्रा-रियलिस्टिक सिनेमैटिक 9:16 वर्टिकल वीडियो जिसमें एक युवा पूर्वी एशियाई महिला एक पिकनिक ब्लैंकेट पर बैठी है, उसके पास एक प्यारी भूरी धारीदार बिल्ली है जो आकर्षक बाघ के आकार की टोपी पहने हुए है। वह सफेद धारीदार बटन-अप शर्ट, काली टाई और हल्के बेज रंग की स्कर्ट पहने हुए हैं। वे शांत नदी किनारे वाले पार्क में क्रिस्पी फ्राइड चिकन का आनंद ले रहे हैं, ब्लैंकेट पर ठंडा आइस्ड कॉफी और फूड बॉक्स रखा हुआ है। कोमल गोल्डन आवर सूरज की रोशनी, शांत नदी, पृष्ठभूमि में दूर शहर की स्काईलाइन और पुल, हवा से घास और बालों का हल्का झूलना, प्राकृतिक भाव, विस्तृत फर और यथार्थवादी त्वचा की बनावट, आरामदायक और स्वस्थ वातावरण, शैलो डेप्थ ऑफ फील्ड, क्रीमी बोकेह, प्रोफेशनल सिनेमैटिक फोटोग्राफी, 85mm लेंस, HDR, 8K, अत्यधिक विस्तृत, यथार्थवादी लाइटिंग, सुगम प्राकृतिक गति।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100101335601577984/img/rNAC9DK7ZoaGLLbv.jpg" width="600" alt="बाघ के कपड़े में बिल्ली के साथ पिकनिक">
+
+**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=10953)**
+
+**लेखक:** [AIwithMinal](https://x.com/AIwithMinal) | **स्रोत:** [Link](https://x.com/AIwithMinal/status/2100101484960731456) | **प्रकाशित:** Sep 16, 2026
+
+---
 ### बारिश की रात का सिनेमाई वीडियो प्रॉम्प्ट
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -422,7 +628,7 @@ Seedance 2.0 का उपयोग करके रात में सिन�
 व्यक्ति और बिल्ली के चेहरे, कपड़े, मुद्रा, बैकग्राउंड और गर्म रोशनी को मूल इमेज के अनुसार बिल्कुल वैसा ही रखें। अंतिम वीडियो में इमेज की कोई भी गाइड लाइन, तीर, नंबर या टेक्स्ट न दिखाएं।
 ```
 
-<img src="https://cms-assets.youmind.com/media/1789538314005_720u3b_HSS15snbsAA6LRj.jpg" width="600" alt="ड्रोन शॉट पाथ से वीडियो प्रॉम्प्ट">
+<img src="https://cms-assets.youmind.com/media/1789624515684_wsr9oq_HSS15snbsAA6LRj.jpg" width="600" alt="ड्रोन शॉट पाथ से वीडियो प्रॉम्प्ट">
 
 **[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=10909)**
 
@@ -5323,215 +5529,6 @@ CHASE: 20 के दशक में कोरियन आइडल, लंब�
 **लेखक:** [Zephyra Leigh](https://x.com/ZephyraLeigh) | **स्रोत:** [Link](https://x.com/ZephyraLeigh/status/2096574839637352928) | **प्रकाशित:** Sep 6, 2026
 
 ---
-### एनीमे व्हाइट कैट इंटरैक्शन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक अपार्टमेंट में खेलती हुई और अपने मालिक के साथ बातचीत करती हुई बिल्ली का एक आकर्षक एनीमे-शैली का वीडियो प्रॉम्प्ट।
-
-#### 📝 प्रॉम्पट
-
-```
-बड़ी फ़िरोज़ी आँखों वाली एक प्यारी एनीमे सफ़ेद बिल्ली धूप से भरे अपार्टमेंट के फ़र्श पर चलती है, एक छोटी सफ़ेद गेंद पर झपट्टा मारती है, फिर सैंडविच खा रहे एक व्यक्ति की ओर देखती है और सीधे उसकी गोद में चढ़ जाती है।
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2096555766417444864/pu/img/lHKD1wJvz_djVacs.jpg" width="600" alt="एनीमे व्हाइट कैट इंटरैक्शन">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=10446)**
-
-**लेखक:** [Sahil Verma](https://x.com/sahilvermaai) | **स्रोत:** [Link](https://x.com/sahilvermaai/status/2096555795324219599) | **प्रकाशित:** Sep 6, 2026
-
----
-### सिनेमैटिक मैजिक ट्रिक वीडियो स्क्रिप्ट
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> बारोक स्टेज पर पेशेवर क्विक-चेंज सिल्क इफेक्ट वाले उच्च-गुणवत्ता वाले मैजिक शो वीडियो को जनरेट करने के लिए एक व्यापक डायरेक्टर-लेवल प्रॉम्प्ट।
-
-#### 📝 प्रॉम्पट
-
-```
-अवधि: 18 सेकंड
-आस्पेक्ट रेशियो: 9:16
-संदर्भ: जादूगर = @, शुद्ध काले टक्सीडो, सफेद शर्ट, काली बो-टाई पहने हुए; अभिनेत्री = लगभग बीस वर्ष की एक युवा, सुंदर महिला जिसके भूरे लंबे लहरदार बाल हैं, जिसने हाई स्लिट और सुनहरी हाई हील्स के साथ स्लिम-फिट चमकदार लाल सेक्विन स्पैगेटी स्ट्रैप गाउन पहना है; पूरे वीडियो में दोनों पात्रों का रूप और कपड़े पूरी तरह से सुसंगत रहने चाहिए।
-ऑडियो: भव्य थिएटर रिवर्ब; हाई-स्पीड लाल रेशम की गति से लगातार हवा की आवाज; ऊपर उठते वर्टिकल सिल्क की जादुई सीटी जैसी आवाज; अभिनेत्री के प्रकट होने पर दर्शकों की जोरदार जयकार और तालियां; कोई संवाद नहीं, कोई वर्णन नहीं, कोई संगीत नहीं, कोई सबटाइटल नहीं।
-समग्र शैली: 8K अल्ट्रा-रियलिस्टिक थिएटर स्टेज डॉक्यूमेंट्री स्टाइल, हाई-कॉन्ट्रास्ट पेशेवर स्टेज स्पॉटलाइट्स, यथार्थवादी सिल्क फिजिक्स, अदृश्य बॉडी रीग्रुपिंग मैजिक स्पेक्टेकल, कोई एनीमे या कम गुणवत्ता वाले CG इफेक्ट्स नहीं।
-
-ग्लोबल निरंतरता
-सेटिंग: गहरे लाल मखमली पर्दों वाला यूरोपीय क्लासिकल बारोक थिएटर स्टेज। प्रॉप्स में एक विंटेज गिल्ट कैंडेलब्रा और एक नक्काशीदार प्रॉप टेबल शामिल है। गहरे रंग का हार्डवुड फर्श जो रोशनी को परावर्तित करता है। सामने की पंक्ति के दर्शकों की छाया दिखाई दे रही है।
-मुख्य विषय: जादूगर नियंत्रक के रूप में, अभिनेत्री पार्टनर के रूप में। सुसंगत शारीरिक अनुपात, चेहरे और कपड़ों की बनावट।
-प्रॉप्स: उत्कृष्ट ड्रेप के साथ उच्च-घनत्व, हाई-ग्लॉस लाल चौड़ा साटन सिल्क।
-एक्शन इंजन: ड्रेस से सिल्क खींचना -> स्पाइरल रैप और गायब होना -> सिल्क को झरने की तरह ऊपर खींचना -> सिल्क का कोकून में बदलना -> कोकून का फटना और अभिनेत्री का प्रकट होना -> अंतिम अभिवादन।
-कैमरा निरंतरता: सामने की पंक्ति से सिम्युलेटेड हैंडहेल्ड परिप्रेक्ष्य, मिड-शॉट पैनोरमा, प्राकृतिक फोकस लॉकिंग और ब्रीदिंग शेक के साथ एक निरंतर शॉट।
-नेगेटिव: कपड़ों में बदलाव, अंगों का दोहराव, सीन कट्स, कार्टून रेंडरिंग, झिलमिलाहट, वॉटरमार्क।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096487553495126016/img/HrjTXoILErTBPC3B.jpg" width="600" alt="सिनेमैटिक मैजिक ट्रिक वीडियो स्क्रिप्ट">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=10448)**
-
-**लेखक:** [John](https://x.com/johnAGI168) | **स्रोत:** [Link](https://x.com/johnAGI168/status/2096487926217560519) | **प्रकाशित:** Sep 6, 2026
-
----
-### ग्रामीण परिवेश में सुंदर कोरियाई महिला
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ग्रामीण इलाकों में एक कोरियाई महिला की विशेषता वाली एक पुरानी यादों वाली और सुखद गर्मियों की कहानी का प्रॉम्प्ट, जिसमें सुनहरी धूप, नदी के पत्थर और तरबूज पर ध्यान केंद्रित किया गया है।
-
-#### 📝 प्रॉम्पट
-
-```
-मुलायम छोटे घुंघराले भूरे बालों, नाजुक नैन-नक्श, कोमल मुस्कुराती आँखों और एक शांत भाव वाली एक सुंदर युवा कोरियाई महिला, जिसने किनारों से फटी हुई एक हल्की स्ट्रॉ हैट और बिना आस्तीन वाली सफेद फूलों वाली समर ड्रेस पहनी है, जो उसके शरीर के चारों ओर हल्के से लहरा रही है। वह लकड़ी की खिड़की के पास सुनहरी धूप में अपने चेहरे के करीब तरबूज का एक रसीला लाल टुकड़ा पकड़े हुए है, फिर सफेद फ्लैट जूते पहनकर सावधानी से चिकने नदी के पत्थरों पर चल रही है और तरबूज के टुकड़ों से भरी एक बुनी हुई टोकरी लिए हुए है। वह साफ उथली धारा के किनारे बैठकर मुस्कुराते हुए अपने दोनों हाथों से एक पूरे धारीदार तरबूज को पानी में ठंडा करने के लिए धीरे से रखती है, लकड़ी की बालकनी की रेलिंग पर खड़ी होकर अपनी स्ट्रॉ हैट को एक हल्की मुस्कान के साथ ठीक कर रही है, लंबे चमकीले पीले सूरजमुखी के फूलों के बीच धूप से सराबोर नदी के किनारे के रास्ते पर चलते हुए उनकी ओर मुड़कर देखती है और फिर कैमरे की ओर देखकर मुस्कुराती है, और अंत में एक पारंपरिक लकड़ी के बरामदे पर खड़ी है जहाँ कांच की विंड चाइम लटकी हुई है, हाथ में दूध की कांच की बोतल लिए, अपनी हैट और बालों को ठीक करते हुए, शांति से ऊपर देखती है और फिर एक सौम्य मुस्कान के साथ कैमरे की ओर मुड़ती है। यह सब गर्म प्राकृतिक रोशनी, हरी पत्तियों, बहते पानी और शांतिपूर्ण पुरानी यादों के माहौल के साथ एक सॉफ्ट सिनेमैटिक समर कंट्रीसाइड दृश्य है।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096465156452806656/img/03yhpbFjN5VpHHzh.jpg" width="600" alt="ग्रामीण परिवेश में सुंदर कोरियाई महिला">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=10403)**
-
-**लेखक:** [liana](https://x.com/Lianaalane) | **स्रोत:** [Link](https://x.com/Lianaalane/status/2096465196856340515) | **प्रकाशित:** Sep 6, 2026
-
----
-### साइ-फाई हॉरर एलियन बैटल
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक विशाल बख्तरबंद एलियन प्राणी और एक महिला योद्धा के बीच अंधेरे युद्ध के मैदान में मुठभेड़ के लिए एक महाकाव्य साइ-फाई हॉरर प्रॉम्प्ट, जिसमें नाटकीय नीली रात की लाइटिंग का उपयोग किया गया है।
-
-#### 📝 प्रॉम्पट
-
-```
-अल्ट्रा-रियलिस्टिक सिनेमैटिक साइ-फाई हॉरर दृश्य, जिसमें एक विशाल बख्तरबंद एलियन प्राणी है जिसकी आँखें लाल चमक रही हैं, जिसके बड़े नुकीले दाँत और शक्तिशाली पंजे हैं, जो एक अंधेरे भविष्यवादी युद्ध के मैदान में आक्रामक रूप से दहाड़ रहा है। एक रहस्यमयी महिला योद्धा प्राणी के ऊपर आसमान से नीचे उतर रही है, जो तीव्र नारंगी ऊर्जा की लकीरों और चमकती चिंगारियों से घिरी हुई है। नाटकीय नीली रात की लाइटिंग, धुएं से भरा वातावरण, बारिश, धातु की संरचनाएं, वॉल्यूमेट्रिक कोहरा, गतिशील एक्शन कंपोजिशन, भयानक पैमाना, अत्यधिक विस्तृत प्राणी बनावट, यथार्थवादी प्रतिबिंब, सिनेमैटिक डेप्थ ऑफ फील्ड, महाकाव्य हॉलीवुड मूवी स्टाइल, फोटो-रियलिस्टिक, 8K, वर्टिकल 9:16।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096458737758388224/img/dyTxIFmFjtlGOr56.jpg" width="600" alt="साइ-फाई हॉरर एलियन बैटल">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=10406)**
-
-**लेखक:** [AIwithMinal](https://x.com/AIwithMinal) | **स्रोत:** [Link](https://x.com/AIwithMinal/status/2096459001076613372) | **प्रकाशित:** Sep 6, 2026
-
----
-### सिनेमैटिक पर्सनल व्लॉग सीन जनरेशन
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Seedance 2.5 के लिए एक वीडियो जनरेशन प्रॉम्प्ट, जिसे एक विशिष्ट कैरेक्टर रेफरेंस के साथ 15-सेकंड का व्लॉग-स्टाइल वीडियो बनाने के लिए डिज़ाइन किया गया है, जो हैंडहेल्ड शेक के साथ प्राकृतिक स्मार्टफोन फिल्मिंग का अनुकरण करता है।
-
-#### 📝 प्रॉम्पट
-
-```
-स्मार्टफोन पर किसी मित्र द्वारा शूट किया गया एमेच्योर फुटेज। प्राकृतिक कैमरा शेक जैसे कि इसे हाथ से शूट किया गया हो, एमेच्योर कंपोजिशन, फोकस में मामूली विचलन, स्वाभाविक बातचीत और इंटरैक्शन, और एक भावनात्मक वातावरण तैयार किया गया है।
-
-<Person1> का संबंध @Image1 से है। इस प्रॉम्प्ट में इसके बाद, केवल <Person1> लिखा जाएगा, बिना @ के, और <Person1> के रूप में लिखे गए सभी हिस्से इसी संदर्भित व्यक्ति को दर्शाते हैं।
-
-यह 15-सेकंड का वीडियो एक व्लॉग वीडियो है जो मुख्य पात्र <Person1> के जीवन के एक दिन को कैद करता है।
-महिला के बारे में निम्नलिखित जानकारी का उपयोग करके, एक व्लॉग वीडियो बनाएं जो उस दिन की घटनाओं को दैनिक डायरी की तरह कई दृश्यों में सारांशित करे।
-मुख्य उद्देश्य महिला के आकर्षण से भरपूर ऐसी सामग्री बनाना है जो उसके प्रशंसकों को और भी अधिक समर्पित बना दे। <Person1> के लिए पोशाक को <Person1> की व्यक्तित्व जानकारी के आधार पर प्रत्येक दृश्य के लिए अनुकूलित किया जाएगा।
-
--- <Person1> के लिए जानकारी --
-महिला का स्वरूप:
-<Person1> का संदर्भ लें। संदर्भ से केवल चेहरा, हेयरस्टाइल, त्वचा और शरीर का प्रकार लें। संदर्भ छवि में दिए गए कपड़ों का उपयोग न करें।
-पूरी फिल्म के दौरान <Person1> के लिए चेहरे और शारीरिक स्वरूप में निरंतरता बनाए रखें।
-
-व्यक्तित्व जानकारी:
-<आपके द्वारा तैयार की गई व्यक्तित्व जानकारी>
------------------------
-
-निषिद्ध वस्तुएं:
-मौजूदा एनीमे और उत्पाद निषिद्ध हैं। सबटाइटल्स का उपयोग न करें। मौजूदा लोगो, कैप्शन आदि निषिद्ध हैं।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096435220824375296/img/bcExlGotLEW0-VNy.jpg" width="600" alt="सिनेमैटिक पर्सनल व्लॉग सीन जनरेशन">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=10450)**
-
-**लेखक:** [eijo(SAT577)](https://x.com/eijo_AIart) | **स्रोत:** [Link](https://x.com/eijo_AIart/status/2096435504845934845) | **प्रकाशित:** Sep 6, 2026
-
----
-### 2000 के दशक का रेट्रो कैट सिटकॉम
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 2000 के दशक की शुरुआत के टीवी प्रसारण की शैली में एक हास्यपूर्ण बिल्ली-थीम वाले सिटकॉम वीडियो को जनरेट करने के लिए एक विस्तृत सिनेमैटिक प्रॉम्प्ट, जिसमें विशिष्ट कैमरा शॉट्स और सेट डिज़ाइन शामिल हैं।
-
-#### 📝 प्रॉम्पट
-
-```
-2000 के दशक की शुरुआत का मल्टी-कैमरा नेटवर्क सिटकॉम, जिसे 35mm फिल्म पर शूट किया गया है। इसमें लाइव स्टूडियो दर्शकों के सामने चार-कैमरा Panavision सेटअप, Kodak Vision2 500T स्टॉक का उपयोग किया गया है और प्रसारण के लिए NTSC वीडियोटेप पर टेलीसीन किया गया है। बारीक 35mm ग्रेन, लैंप के चारों ओर हल्की हैलेशन ब्लूमिंग, इंटरलेस्ड वीडियो की थोड़ी कोमलता, बिना परछाई वाली फ्लैट हाई-की टेलीविजन लाइटिंग, 2000 के दशक की शुरुआत की गर्म और सैचुरेटेड कलर टाइमिंग, 4:3 फ्रेम। सेट: तीन दीवारों वाला अपार्टमेंट लिविंग रूम। शनील थ्रो के साथ बेज रंग का सोफा, गर्म टेबल लैंप, एक लावा लैंप, किचन के दरवाजे पर मोतियों का पर्दा, एक डीवीडी टॉवर, कोने में एक इन्फ्लेटेबल कुर्सी, एक बेज रंग का भारी CRT मॉनिटर और बॉक्स जैसा टॉवर वाला अव्यवस्थित डेस्क, पेपर स्लीव्स में जली हुई सीडी, दाईं ओर सामने का दरवाजा। विषय — हर शॉट में एक समान: धारीदार नारंगी रग्बी शर्ट के ऊपर ओवरसाइज्ड ग्रे ज़िप-अप हुडी और पुका शेल नेकलेस पहने हुए अदरक के रंग की टैबी बिल्ली, जो डेस्क कुर्सी पर सीधी बैठी है। सफेद पाइपिंग वाले बरगंडी वेलोर ट्रैकसूट में सीधी खड़ी ग्रे लॉन्गहेयर बिल्ली, कमरबंद पर क्लिप किया हुआ भारी चांदी का फ्लिप फोन, हाथ में एक चिपका हुआ मग। कैमरा लॉक है, कोई कैमरा मूवमेंट नहीं, दोनों बिल्लियाँ कैमरे की ओर थोड़ी झुकी हुई हैं, कैमरा कभी भी चौथी दीवार को पार नहीं करता है। शॉट वन — 0–6 सेकंड: लॉक-ऑफ वाइड टू-शॉट। अदरक वाली टैबी बिल्ली अपने अगले पंजों से कीबोर्ड थपथपाती है, चेहरा CRT की रोशनी से रोशन है। सामने का दरवाजा खुलता है और ग्रे लॉन्गहेयर बिल्ली मग लिए अंदर आती है। स्टूडियो के दर्शक तालियाँ बजाते हैं। वह डेस्क की ओर देखती है और पूछती है: “तुम क्या कर रहे हो?” हार्ड कट। शॉट टू — 6–11 सेकंड: अदरक वाली टैबी बिल्ली का मीडियम क्लोज-अप। स्क्रीन से नज़र हटाए बिना, वह टाइप करना जारी रखती है और कहती है: “मैं कंप्यूटर को मज़ेदार नाचते हुए इंसान बनाना सिखा रहा हूँ।” स्टूडियो के दर्शक हँसते हैं। हार्ड कट। शॉट थ्री — 11–16 सेकंड: ग्रे लॉन्गहेयर बिल्ली का मीडियम क्लोज-अप। वह मग नीचे करती है, रुकती है, फिर बिल्कुल सपाट आवाज़ में कहती है: “हमारे पास एक इंसान है।” एक और पल का ठहराव। “वह किचन में है।” स्टूडियो के दर्शक हँसते हैं। हार्ड कट। शॉट फोर — 16–20 सेकंड: अदरक वाली टैबी बिल्ली का क्लोज-अप। वह टाइप करना बंद कर देती है, धीरे से मोतियों के पर्दे की ओर मुड़ती है और पुकारती है: “मार्क।” स्क्रीन के बाहर, एक आदमी तुरंत नाचना शुरू कर देता है, फर्श पर पैरों की धमक सुनाई देती है और मोतियों का पर्दा हिलता है। बिल्ली स्क्रीन के बाहर घूरना जारी रखती है जबकि दर्शक हँसते और तालियाँ बजाते हैं। होल्ड। ऑडियो: कीबोर्ड पर पंजों की थपथपाहट, CRT की भिनभिनाहट, लकड़ी पर मग, दरवाजा खुलने की आवाज़, प्रवेश पर तालियाँ, हर पंचलाइन के बाद स्टूडियो की हँसी, अंत में मोतियों की खड़खड़ाहट और स्क्रीन के बाहर कदमों की आवाज़। कोई संगीत या स्कोर नहीं। बाधाएं: पूरी प्रक्रिया के दौरान दोनों बिल्लियों को एक जैसा रखें। असली कपड़े पहने हुए असली बिल्लियाँ जो सीधी बैठी हैं। स्क्रीन पर कोई भी मानवीय पात्र दिखाई नहीं देना चाहिए, कोई कैमरा मूवमेंट नहीं, कोई अतिरिक्त कट नहीं, कोई आधुनिक फ्लैट-स्क्रीन मॉनिटर नहीं, कोई स्मार्टफोन नहीं, कोई फ्लैट डिजिटल-वीडियो लुक नहीं।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096371356690755584/img/M6Y4PzznP4vSwN1z.jpg" width="600" alt="2000 के दशक का रेट्रो कैट सिटकॉम">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=10400)**
-
-**लेखक:** [Shan | Ai](https://x.com/ShanBuildsAI) | **स्रोत:** [Link](https://x.com/ShanBuildsAI/status/2096371426790125642) | **प्रकाशित:** Sep 5, 2026
-
----
-### सिनेमैटिक स्ट्रीट फैशन येलो ड्रेस
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Imagvio प्लेटफॉर्म पर Seedance 2.0 के लिए डिज़ाइन किया गया एक हाई-फैशन स्ट्रीट सीन प्रॉम्प्ट, जिसमें मस्टर्ड-येलो ड्रेस पहने एक महिला को घूमते हुए दिखाया गया है।
-
-#### 📝 प्रॉम्पट
-
-```
-एक व्यस्त आधुनिक शहर में अल्ट्रा-रियलिस्टिक सिनेमैटिक स्ट्रीट-फैशन सीन, एक भीड़भाड़ वाले फुटपाथ पर मस्टर्ड-येलो स्लीवलेस ड्रेस पहने एक सुंदर युवती का नाटकीय रूप से घूमना, हवा में लहराते उसके लंबे घुंघराले भूरे बाल, चारों ओर उड़ते कबूतर, पीली टैक्सियाँ, पैदल यात्री और ऊँची शहरी इमारतें। गतिशील मूवमेंट, सुंदर पोज़, प्राकृतिक चेहरे की विशेषताएं, कपड़ों की यथार्थवादी गति, सुनहरी दिन की रोशनी, शैलो डेप्थ ऑफ फील्ड, सिनेमैटिक कंपोजिशन, प्रोफेशनल फैशन फोटोग्राफी, फोटो-रियलिस्टिक, अल्ट्रा-डिटेल्ड, HDR, 8K, 85mm लेंस, f/1.8, नेचुरल कलर ग्रेडिंग, वर्टिकल।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096370505649717248/img/R8Z3MChtEYluZpIP.jpg" width="600" alt="सिनेमैटिक स्ट्रीट फैशन येलो ड्रेस">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=10404)**
-
-**लेखक:** [AI Motion Lab](https://x.com/imagvio_trends) | **स्रोत:** [Link](https://x.com/imagvio_trends/status/2096370558560788591) | **प्रकाशित:** Sep 5, 2026
-
----
-### 2000 के दशक का उदासीन प्राथमिक स्कूली छात्र
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Seedance के लिए एक उदासीन वीडियो प्रॉम्प्ट जो वर्ष 2000 के miniDV हैंडीकैम के सौंदर्य को दोहराता है, जिसमें एक जापानी लड़के की स्कूल के बाद की गतिविधियों को दर्शाया गया है।
-
-#### 📝 प्रॉम्पट
-
-```
-[सारांश] वर्ष 2000 में चौथी कक्षा के लड़के (10 वर्ष) के लिए स्कूल के बाद का समय। एक बड़ा भाई अपने पिता के miniDV हैंडीकैम का उपयोग करके बिना कुछ बोले दूर से रिकॉर्ड करता है। 480p, 16:9, 15 सेकंड। 7 अलग-अलग स्थानों पर 7 हार्ड-कट शॉट्स (प्रत्येक लगभग 2 सेकंड)। कोई ट्रांज़िशन या फेड नहीं। विषय कैमरे को स्वीकार नहीं करता है: कोई आई कॉन्टैक्ट नहीं, कोई वस्तु दिखाना नहीं, कोई हाथ हिलाना नहीं, कोई पोज़ देना नहीं। खेल में डूबा हुआ। दैनिक जीवन के टुकड़े, कोई अभिनय नहीं। कोई संवाद, लाइनें या नैरेशन नहीं।
-
-[विषय] एक जापानी लड़का जो बाल कलाकार जितना सुंदर है। कार्ड देखते समय गंभीर चेहरा सबसे अच्छा है। चेहरा: सामने की तरफ खड़े छोटे काले बाल, घनी भौहें, बड़ी दोहरी पलकें वाली आँखें, नाक के पुल पर एक चिपकने वाली पट्टी (बैंडेज), धूप में झुलसी त्वचा (यथार्थवादी बनावट), मुस्कुराते समय दाईं ओर का टेढ़ा दांत। कपड़े (कैजुअल): फीकी हरी टी-शर्ट, डेनिम शॉर्ट्स, पीछे की तरफ पहनी हुई टोपी, गंदे सफेद स्नीकर्स, नीला बैकपैक। सामान: रबर बैंड से बंधे ट्रेडिंग कार्ड का एक ढेर (केवल चित्र, कोई टेक्स्ट नहीं), हैंडहेल्ड गेम कंसोल (हथेली के आकार का, स्क्रीन दिखाई नहीं दे रही)। आदतें: कार्ड को रोशनी के सामने पकड़ना, टोपी के किनारे को छूना। चेहरा, बाल और कपड़े सभी शॉट्स में एक समान।
-
-[पात्र] दो दोस्त: चश्मा पहने थोड़ा गोल-मटोल बच्चा (पीली टी-शर्ट), बेसबॉल कैप पहने एक छोटा बच्चा (नीली टी-शर्ट)। कोई भी कैमरे की ओर नहीं देखता है।
-
-[युग, स्थान, प्रकाश] 2000 में स्कूल के बाद की गर्मी की दोपहर। ① अपार्टमेंट साइकिल पार्किंग (दोपहर की सफेद रोशनी)। ② पार्क बेंच (छाया)। ③ मंदिर की पत्थर की सीढ़ियाँ (छनकर आती रोशनी)। ④ मंदिर की छाया वाली ज़मीन (दोपहर)। ⑤ आवासीय क्षेत्र में ढलान वाली सड़क (शाम की नारंगी रोशनी)। ⑥ धान के खेतों के किनारे सड़क (सूर्यास्त)। ⑦ घर के प्रवेश द्वार के सामने (गोधूलि बेला)। ऐसे स्थान और कोण चुनें जहाँ संकेत, टेक्स्ट, लोगो या स्क्रीन फ्रेम में न आएं।
-
-[कैमरा] 2000 का miniDV हैंडीकैम टेक्सचर: गहरे रंग, कुचले हुए काले रंग, सफेद क्लिपिंग की संभावना, ज़ूम हंटिंग और हैंडहेल्ड शेक। कोई तारीख डिस्प्ले नहीं। हैंडहेल्ड, अपूर्ण रचना, कभी-कभार फोकस हंटिंग, एक्सपोज़र में उतार-चढ़ाव। विषय से 3-6 मीटर की दूरी। विषय कैमरे को अनदेखा करता है। कोई स्थिरीकरण, गिम्बल, ड्रोन, स्लो मोशन, सिनेमैटिक लाइटिंग या कमर्शियल कलर ग्रेडिंग नहीं। कैमरा हमेशा मानव-धारित स्थितियों (खड़े, बैठे, झुककर, चलते हुए, अगली सीट पर) में होता है। कोई असंभव कोण नहीं (हवा, पानी, छत, सीधे ऊपर, चलती कार के बाहर, चेहरे से इंच भर दूर)। फिल्म बनाने वाला देरी से पीछा करता है, कभी-कभी ढीली फ्रेमिंग के साथ।
-
-[शॉट्स] (प्रत्येक लगभग 2 सेकंड। स्थान/गतिविधि/भावना और हाव-भाव/कैमरा स्थिति):
-1. साइकिल पार्किंग। पैर बमुश्किल पहुँच रहे हैं, साइकिल पर सवार होकर, घंटी दो बार बजाकर निकल जाना। भावना: उत्साह। टोपी के किनारे को छूना। कैमरा: सामने, नीचे, थोड़ी दूरी पर।
-2. पार्क बेंच, छाया। कार्ड को पंखे की तरह फैलाना, रोशनी में एक को जांचने के लिए आँखें सिकोड़ना। भावना: खजाने की गंभीर जांच। कैमरा: किनारे से, हाथों के करीब।
-3. मंदिर की सीढ़ियाँ, छनकर आती रोशनी। गेम कंसोल को छोटी केबल से जोड़ना, स्क्रीन दिखाई नहीं दे रही, एकाग्रता में मुंह बंद। भावना: तीव्र ध्यान। कैमरा: सीढ़ियों के ऊपर से नीचे की ओर।
-4. मंदिर की छाया वाली ज़मीन। अदला-बदली के लिए कार्ड बिछाना, चश्मा पहने बच्चे के साथ हाथ मिलाकर समाप्त करना। भावना: सौदे की संतुष्टि। मुंह के कोने ऊपर उठना। कैमरा: ऊपर से तिरछा।
-5. ढलान वाली सड़क, शाम। नीचे जाते समय एक सेकंड के लिए हैंडल छोड़ना, लड़खड़ाना और घबराहट में वापस पकड़ना। भावना: पहले दिखावा फिर डर। कैमरा: पीछे से पीछा करते हुए, हिलता हुआ।
-6. धान के खेतों के किनारे सड़क, तीनों एक कतार में साइकिल चला रहे हैं, विषय एकमात्र ऐसा है जो खड़े होकर पैडल मार रहा है। भावना: मज़ा। कैमरा: किनारे से, दूर।
-7. घर का प्रवेश द्वार, गोधूलि बेला। साइकिल फेंककर घर के अंदर भागना। दरवाज़ा बंद हो जाता है। भावना: भूख। कैमरा: सड़क पर रुकना, कुछ सेकंड के लिए बंद दरवाज़े को फिल्माना। लगभग 00:14 पर, रिकॉर्डिंग अचानक काली हो जाती है। कोई फेड आउट नहीं।
-
-[प्रॉप विवरण] कार्ड केवल कला वाले कागज हैं, कोई टेक्स्ट नहीं, रबर बैंड से बंधे हैं। गेम कंसोल सफेद प्लास्टिक का है, स्क्रीन दिखाई नहीं दे रही। टोपी नीली है और किनारे मुड़े हुए हैं। साइकिल चांदी की है और रैक पर तौलिया रखा है।
-
-[टेक्स्ट निषेध] फ्रेम में कोई पठनीय टेक्स्ट, लोगो, संकेत, लेबल, स्क्रीन डिस्प्ले या नंबर नहीं। कार्ड पर कोई टेक्स्ट नहीं है।
-
-[भौतिकी/संगति] वास्तविक दुनिया की भौतिकी। कोई अतिरिक्त उंगलियां, जुड़ी हुई हथेलियां, विकृत शरीर रचना, तैरती हुई वस्तुएं, गायब होती चीजें या अचानक रूप बदलना नहीं। पैर ज़मीन पर। पट्टी, टोपी, बैकपैक और दोस्तों के कपड़े सभी शॉट्स में एक समान।
-
-[ध्वनि] केवल प्राकृतिक परिवेश की ध्वनि (प्रति शॉट बदलती है): साइकिल की घंटी, छाया में कार्ड की आवाज़ के साथ हवा, मंदिर में पक्षी, बजरी, ढलान पर हवा, खेतों में मेंढक, दरवाज़ा बंद होना। कोई शब्द नहीं। केवल फिल्म बनाने वाले और विषय की कभी-कभार हल्की हंसी/सांस लेने की आवाज़ की अनुमति है। कोई संगीत नहीं। कोई नैरेशन नहीं। कोई कृत्रिम SFX नहीं।
-
-[वातावरण] 2000 के स्कूल के बाद की दोपहर का एक रिकॉर्ड जो हेइसेई युग में प्राथमिक छात्र रहे वयस्कों को यह सोचने पर मजबूर कर दे कि 'मैंने भी ऐसा किया था।' खेल के टुकड़े, अभिनय नहीं। उदासीन, ऊर्जावान, गहराई से मानवीय। उस भावना को प्राथमिकता दें कि कैमरा बस संयोग से वहां मौजूद था।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094094517297422336/img/9-xNi9qvnC1odHYi.jpg" width="600" alt="2000 के दशक का उदासीन प्राथमिक स्कूली छात्र">
-
-**[🎬 वीडियो देखें →](https://youmind.com/hi-IN/seedance-2-0-prompts?id=10410)**
-
-**लेखक:** [妖精アーヤ](https://x.com/aiehon_aya) | **स्रोत:** [Link](https://x.com/aiehon_aya/status/2096357706361913818) | **प्रकाशित:** Sep 5, 2026
-
----
 ---
 
 ## 📚 अधिक प्रॉम्पट्स उपलब्ध
@@ -5593,6 +5590,6 @@ Due to GitHub's content length limitations, we can only display the first 100 pr
 **[📝 एक प्रॉम्पट सबमिट करें](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-09-17T03:54:54.700Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-09-18T03:43:19.026Z</sub>
 
 </div>
