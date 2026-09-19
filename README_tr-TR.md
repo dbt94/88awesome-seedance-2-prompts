@@ -68,9 +68,9 @@ Neden galerimizi kullanmalısınız?
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **6397** |
+| 📝 Toplam İstem | **6400** |
 | ⭐ Öne Çıkan İstemler | **6** |
-| 🔄 Son Güncelleme | **2026-09-18** |
+| 🔄 Son Güncelleme | **2026-09-19** |
 
 ---
 
@@ -361,6 +361,64 @@ Ultra gerçekçi, Hızlı ve Öfkeli esintili enerji, fotogerçekçi aydınlatma
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Bleu de Chanel Lüks Parfüm Reklamı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bleu de Chanel'in yer aldığı sinematik lüks parfüm reklamı için, özel hareketler, kamera açıları ve seslendirme talimatlarını içeren detaylı bir istem.
+
+#### 📝 İstem
+
+```
+Sinematik lüks parfüm reklamı, 10 saniye. Arkaya taranmış koyu renk saçlı zarif bir kadın, kabarık omuzlu siyah uzun kollu bluzuyla yumuşak açık mavi-gri stüdyo arka planının önünde duruyor. Bleu de Chanel Eau de Parfum'un lacivert kare cam şişesini iki eliyle kameraya doğru tutarak sunuyor. Siyah kapağı çıkaran parmaklarının yakın çekimi, gümüş sprey başlığını ortaya çıkarıyor. Parlak pencere ışığında ince bileğine ince bir sis püskürtüyor. Ardından bileğini yüzüne kaldırır, gözlerini kapatır ve hafif memnun bir gülümsemeyle kokuyu içine çeker. Son çekim: Şişe keskin odakla kadrajı doldururken, kadın arkada bulanık kalır. Yumuşak doğal ışık, sığ alan derinliği, üst düzey moda filmi estetiği, yavaş ve zarif hareketler, premium reklam görünümü.
+Seslendirme: “Hazırlanırken son dokunuş. Bleu de Chanel, onu kendine ait kıl.”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100818151134871552/img/FCELWlH2dnIKUU3Y.jpg" width="600" alt="Bleu de Chanel Lüks Parfüm Reklamı">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10982)**
+
+**Yazar:** [Elisia](https://x.com/AiwithElisia) | **Kaynak:** [Link](https://x.com/AiwithElisia/status/2100818214754128101) | **Yayınlandı:** Sep 18, 2026
+
+---
+### Kore Kırsal Aile Anıları
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kırsal bir köyde huzurlu bir yaz akşamında keyif alan Koreli bir anne ve çocuklarını tasvir eden, aile etkileşimlerine ve manzaraya odaklanan nostaljik bir video promptu.
+
+#### 📝 İstem
+
+```
+Güzel Korece kelimelerle süslenmiş, sıcak ve nostaljik bir Kore kırsal yaşam tarzını yansıtan bir video oluşturuldu. Sıcak altın saat güneşi ışığında, eski kiremit çatılı evlerin, taş duvarların, yeşil pirinç tarlalarının ve sakin kırsal atmosferin hakim olduğu geleneksel bir Kore köyünde, sevgi dolu bir Koreli anne ve üç küçük çocuğun huzurlu bir yaz akşamını geçirdikleri sahneyi göster. Anne, eski ahşap kapıyı nazikçe açarak başlasın; ardından çocuklarla birlikte köy yolunda bisiklet sürerken çekilen sinematik takip kamerası hareketine geçiş yapılsın. Doğal çocuk kahkahalarını, yumuşak bisiklet hareketlerini, uçuşan kıyafetleri ve gerçekçi Koreli yüz hatları ile ifadeleri içeren otantik aile etkileşimlerini yakala. Ailenin yemyeşil pirinç tarlaları ve küçük bir dere kenarında bisiklet sürdüğü daha geniş sinematik çekimlere geçerek huzurlu bir özgürlük ve nostalji hissi yarat. Annenin çocuklarla tarla kenarında oturup taze meyve ve atıştırmalıkları paylaştığı, gülümseyip sohbet ettikleri anları göster. Güzel doğal ışıklandırma, yumuşak gün batımı parıltısı, ince film greni, sığ alan derinliği, gerçekçi dokular ve akıcı sinematik kamera hareketleri kullan. Pirinç tarlalarının arkasında güneş batarken, büyük bir ağacın altında sessiz dere kenarında birlikte oturan ailenin duygusal ve geniş bir çekimiyle bitir. Fotogerçekçi canlı aksiyon, sinematik Kore aile filmi estetiği, sıcak renkler, yumuşak tempo, otantik duygular, 16:9 kompozisyon, yüksek detay, doğal fizik kuralları, yapay görünümlü yüzler yok.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100817472219914240/img/-EjhCs7GzNqSVkZW.jpg" width="600" alt="Kore Kırsal Aile Anıları">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10983)**
+
+**Yazar:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Kaynak:** [Link](https://x.com/ayzalnooor24521/status/2100817795214954593) | **Yayınlandı:** Sep 18, 2026
+
+---
+### Kaotik Sınıf Sinematik Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gerçekçi hareket ve kamera takibine odaklanan, uçan nesnelerle dolu kaotik bir sınıfta Koreli bir kız öğrencinin yer aldığı 15 saniyelik sinematik video için prompt.
+
+#### 📝 İstem
+
+```
+15 saniyelik sinematik video promptu: Dağınık bir sınıfın ortasında duran gerçekçi görünümlü genç bir Koreli kız öğrenci; üzerinde kırmızı kurdele kravatlı beyaz kısa kollu okul gömleği ve koyu gri pileli etek var. Arkasında oturan ve hareket eden birkaç öğrenci bulunuyor. Kitaplar, kağıtlar, defterler ve sınıf eşyaları havada uçuşarak dağınık ama gerçekçi bir atmosfer yaratıyor. Arka plandaki öğrenciler ani kaosa doğal tepkiler verirken, o ciddi ve sakin bir ifadeyle yavaşça kameraya doğru yürüyor. Kamera, dikey 9:16 kompozisyonda onu merkezde tutacak şekilde pürüzsüzce geriye doğru takip ediyor ve gerçekçi el kamerası hareketleri içeriyor. Kağıtlar ve nesneler inanılır yerçekimi, hareket bulanıklığı ve doğal fizik kurallarıyla etrafında düşmeye devam ediyor. Videonun ortasına doğru, aynı yüz, saç modeli, üniforma ve vücut oranlarını koruyarak kameraya yaklaşmaya devam ederken bir elini hafifçe kaldırıyor. Son saniyelerde, gözlerinin önündeki saçı nazikçe kenara iterken kamera yüzüne yaklaşıyor ve objektife doğrudan bakarak ince duygusal bir ifade sergiliyor. Doğal sınıf aydınlatması, gerçekçi cilt dokusu, detaylı kumaş, otantik gölgeler, sinematik alan derinliği ve fotogerçekçi görseller kullanın; kesintisiz akıcı hareket sağlayın ve hiçbir kesme (cut) yapmayın.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100787630216724480/img/8BCeaa8eVJKomkdI.jpg" width="600" alt="Kaotik Sınıf Sinematik Sahnesi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10984)**
+
+**Yazar:** [Maha](https://x.com/Aiwithmaha) | **Kaynak:** [Link](https://x.com/Aiwithmaha/status/2100787710424416603) | **Yayınlandı:** Sep 18, 2026
+
+---
 ### Paris Moda Dönüşüm Videosu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -5361,80 +5419,6 @@ Tarz: Fotogerçekçi, doğal cilt dokusu, gerçekçi saç ve eller, otantik akı
 **Yazar:** [Mr.できる君](https://x.com/dek1rukun) | **Kaynak:** [Link](https://x.com/dek1rukun/status/2096774979400695861) | **Yayınlandı:** Sep 7, 2026
 
 ---
-### Gerçekçi Japon Odası Selfie Vlog'u
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Seedance 2.5 için, Japon bir apartman dairesindeki bir kadının doğal hareketlerine ve gerçekçi kamera kullanımına odaklanan, kesintisiz selfie tarzı bir çekim oluşturan oldukça detaylı bir video üretim istemi.
-
-#### 📝 İstem
-
-```
-Bu URL'lerin içeriğini okuyun ve bunları bir Yeteneğe (Skill) dönüştürün. Seedance 2.5 için istem üretimi talep ederken her zaman bu Yeteneği kullanın. Unutmamak için bunu aklınızda tutun. https://t.co/BPHSzqNopm https://t.co/aUJgXKFRip https://t.co/u79zESgiTk Ayrıca, Yeteneğe aşağıdaki kuralları ekleyin. Dudak senkronizasyonu için diyalog oluştururken şu kurallara uyun: - Yapay zekanın okumakta zorlandığı karmaşık kanji karakterlerini hiragana ile temsil edin. - Rakamları kanji ile yazmayın (örneğin, İki Bin Yıl, Yüz Doksan İki kez değil); rakamları Arap rakamlarıyla temsil edin (örneğin, 2.000 yıl, 192 kez). - İngilizce ifadeleri katakana ile temsil edin. [Format] 20 saniye, dikey 9:16. Akıllı telefonun ön kamerasıyla çekilmiş günlük bir selfie videosu. Baştan sona tek bir kesintisiz çekim. Kameranın sağ-sol eğimi (roll) boyunca 0 derecedir. Dikey ekranı yatay tutun ve çapraz eğimli bir Dutch angle kullanmayın. [Kişi/Referans] Ekli Görsel 1, aynı tek kadın karakterin yüz yakın planı, tam boy ön görünümü ve tam boy arka görünümünü birleştiren bir karakter sayfasıdır. Kişi ve kıyafet için tek birincil referans olarak kullanın. Bu, başlangıç karesi değildir. Sayfanın gri arka planını, ayakta duruşunu, stüdyo aydınlatmasını veya 3'lü görünüm düzenini videoya taşımayın. Sayfanın kendisini göstermeyin veya sayfadan sahne geçişi yapmayın. Kadının kamerayı tutarak aşağıdaki odaya girdiği ilk kareden başlayan canlı çekim. Kadın, 29 yaşında, 163 cm boyunda, kurgusal bir Japon kişidir. Görsel 1'deki yüz yapısını, ince yapıyı ve omuz genişliğini, narin kolları, ince boynu ve ince perçemli koyu kahverengi küt saçı baştan sona koruyun. Temiz bir oval yüz, doğal boyutlu gözler ve mütevazı günlük makyaj. Havalı ve temiz görünüyor, arkadaş canlısı doğal bir gülümsemesi var. Görsel 1'deki canlı kobalt mavisi ince fitilli atlet ve açık mavi yıkanmış geniş düz kot pantolonu olduğu gibi kullanın. Atlet, sığ bir kare yakaya, vücuda doğal bir şekilde oturan kompakt bir silüete ve kot pantolonun beline yakın bir uzunluğa sahiptir. Kot pantolon bel çevresine doğal bir şekilde oturur ve uyluklardan paçaya kadar bol durur. Bel pozisyonunu, paça uzunluğunu, cepleri ve Görsel 1'deki solma efektini koruyun. Yalınayak, gözlüksüz ve aksesuarsız. Otururken bile Görsel 1'deki ince yapıyı koruyun. [Eylem] 20 saniye boyunca aşağıdaki kompozisyonu ve hareket akışını sürekli olarak tasvir edin. Başlangıçta kadın kamerayı beline yakın tutarak yürür. Kamerayı bir masaya yerleştirir, kendisi bir sandalyeye oturur ve sanki yakın bir arkadaşıyla konuşuyormuş gibi devam eder. Oturduktan sonra saçını bir kez kulağının arkasına atar ve sonunda küçük bir el sallayıp kamerayı alır. Belirtilen konuşma yürürken, kamera kurulumu sırasında ve otururken devam eder. [Ortam] Japonya'da küçük bir kiralık tek odalı daire. Beyaz duvarlar ve tavan, açık renkli ahşap zemin. Ahşap bir masa ve sandalye, büyük bir sürgülü pencere, dantel perdeler. Masanın arka solunda ahşap çerçeveli bir masa aynası, lacivert kanvas bir bez çanta ve yanında birkaç kitap var. Masanın önü boş tutulmuş. Temiz ama yaşanmışlık hissi veren normal bir oda. Nesnelerin konumunu ve odanın şeklini baştan sona koruyun. Aynada okunabilir bir yüz veya başka bir kişi yansıtmayın. [Kamera/Kompozisyon Geçişi] Düşük bir el pozisyonundan masaya sabitlenmiş bir konuma hareket eden tek bir kesintisiz çekim. Karakter sayfası sadece kişi ve kıyafet için bir referanstır, kamera kompozisyonu için değildir. 0.0 ila 4.0 saniye: Dikey ön kamerayı belin yakınında tutun ve lensi yukarı doğru çevirin. Ancak, sadece yukarı bakmak için dikey açıyı (pitch) değiştirin ve ekranı saat yönünde veya saat yönünün tersine eğmeyin. Ön planda gövde ve pantolonun beli, ekranın üst kısmında çene ve yüz, arkalarında ise geniş tavan bulunur. Yürüme temposuna uygun küçük dikey hareketler dışında, sola veya sağa dönüş yoktur, loş bir girişten pencereli aydınlık bir odaya geçilir. Kamerayı tutan kol ekranın kenarında kısalmıştır ve akıllı telefonun kendisi ile onu tutan el ekran dışındadır. Başlangıçta, yürüdüğü yöne bakarak konuşur. 4.0 ila 5.8 saniye: Kamerayı ahşap masadaki sabit bir dikey standa yerleştirin. Stand ekran dışındadır. Kamerayı indirin ve dikey açıyı pencere, masa, ayna ve çantanın kompozisyonuna sürekli olarak geçecek şekilde ayarlayın. Sola veya sağa döndürmeyin. Parmak uçları alt kenardan kısaca geçer ve küçük dikey sarsıntılar azalarak durur. Yerleştirme tamamlandığında, yatay seviye 0 derece eğimle ve sağ-sol yatıklık olmadan sıkıca ayarlanmıştır. Kadın geçici olarak ekranın sağına hareket eder ve sandalyeye oturmak için sağdan geri döner. Bu kısa yerleştirme sırasında bile ses yakından duyulur. 5.8 ila 19.5 saniye: Kamera, açıyı veya odak uzaklığını değiştirmeden masanın kenarındaki sabit bir stand üzerinde yatay olarak sabitlenmiştir. Düşük bir konumdan hafifçe yukarı bakan geniş bir dikey kompozisyon. Buradaki yukarı bakış sadece dikey açıdadır. Optik eksen etrafındaki dönüş 0 derecedir; ekranı sola veya sağa eğmeyin. Ekranın merkezine yakın duvarın dikey birleşim yerleri veya pencerenin dikey çerçevesi, görüntünün dikey kenarlarına neredeyse paraleldir. Hafif geniş açılı bir lensin doğal perspektifini bırakın, ancak tüm odayı çapraz hale getirmeyin. Derinlik nedeniyle çapraz görünen masa kenarını kameranın kendisinin eğilmesiyle karıştırmayın. Kadın, ekran merkezinin sağına oturur. Başından beline kadar ve her iki ön koluyla birlikte kadrajdadır, başının üzerinde geniş bir beyaz duvar ve tavan bırakır. Yüzün yakın planı yapmayın. Büyük pencere ve dantel perdeler sağ tarafının arkasından görülebilir. Ahşap masa tablası ekranın altından sol arkaya doğru çapraz olarak yayılır. Ahşap çerçeveli ayna ve lacivert çanta ekranın solundadır. Kadının gövdesi sola, aynaya/masaya dönüktür ve konuşurken yüzünü lense çevirir. Oturduktan hemen sonra görülen kişinin geçici yakınlığını, sabit kompozisyonda bir zoom haline getirmeyin. 19.5 ila 20.0 saniye: Kadın kameraya uzanır, eli lensin yakınında bulanıklaşır ve kamerayı sola veya sağa eğmeden kaldırır, ekran hafifçe yukarı doğru hareket ederken biter. Kesmeler, sahne sıfırlamaları, zoomlar, kişiyi takip etmek için kaydırma (pan), Dutch angle'lar, sağ-sol eğmeler ve optik eksen etrafında dönüş yasaktır. Sabit bölüm sırasında odak uzaklığı değişikliklerine neden olmayın. Arka plan akıllı telefon için tipik olarak tanımlanabilir. Akıllı telefonun kendisini veya diğer çekim ekipmanlarını göstermeyin. [Işık ve Varlık] Başlangıçta, pozlama doğal olarak girişin loşluğundan pencereden gelen doğal ışığa değişir. Oturduktan sonra, ekranın sağ arkasındaki pencereden gelen yumuşak doğal ışık, beyaz duvarlardan gelen yansımalarla birlikte içeri girer. Yanaklardaki ince gözenekleri, şeftali tüylerini, göz çevresindeki ince gölgeleri, dudaklardaki ince kırışıklıkları ve doğal sebum yansımalarını koruyun. Hafif asimetrik bir gülümseme, doğal göz kırpma ve nefes alma, konuşmanın içeriğine uygun küçük kaş hareketleri. Cildi pürüzsüz olacak şekilde işlemeyin. Güzellik filtreleri, CG benzeri cilt veya reklam benzeri aydınlatma kullanmayın. Akıllı telefon çekiminin ince dokusunu koruyun. [Zamanlama/Oyunculuk] 0.0 ila 6.2 saniye: 1. cümle ilk 0.2 saniyeden başlar. Odaya yürüyün, kamerayı yerleştirin ve sandalyeye doğru hareket ederken konuşun. "Seedance 2.5"i net bir şekilde telaffuz edin. Başlangıçta lense dik dik bakmayın. Kamera yerleşimi için ellerinizi kullanın ve ek jestler yapmayın. 6.2 ila 8.8 saniye: Sandalyeye inerken yüzünüzü lense çevirin ve 2. cümleyi söyleyin. "Kedo" (ama) kelimesinden önce kısa bir duraklama. Gülümseme hafifçe solar ve kaşlar hafifçe çatılır. "Muzukashii no" (zor) derken empati arıyormuş gibi başınızı hafifçe eğin. Ciddi bir ifade veya abartılı bir hayal kırıklığı yapmayın. 8.8 ila 16.7 saniye: 3. cümle. İfade yumuşak hale geri döner. Konuşurken saçınızı bir taraftan kulağınızın arkasına bir kez atın ve elinizi indirin. "Çünkü bir gönderide yazdım" derken hafifçe başınızı sallayın. "Lütfen yer imlerine ekleyin" derken arkadaş canlısı, hafif vurgulu bir şekilde doğrudan lense bakın. İşaret etme veya büyük jestler kullanmayın. 16.7 ila 18.6 saniye: Kısa bir nefes alın ve 4. cümleyi söyleyin. Gülümseme doğal bir şekilde yayılır, bir elinizi yanağınızın yanına kaldırın ve bilekten hafifçe sallayın. 18.6 ila 19.5 saniye: Konuşmayı bitirin ve elinizi yumuşak, kalıcı bir gülümsemeyle indirin. 19.5 ila 20.0 saniyede kameraya uzanın ve onu alırken bitirin. Zaman dilimleri sürekli oyunculuk için bir rehberdir. Her sınırda ekranı durdurmayın veya kesmeyin. [Ses/Diyalog] Doğal Tokyo Japoncası. 29 yaşındaki bir kadının sakin, hafif nefesli, net sesi. Bir arkadaşla konuşuyormuş gibi hızlı tempolu, hafif bir ton. Tüm cümleleri yaklaşık 18 saniyede konuşun. Monoton, spiker benzeri tonlardan, aşırı yüksek perdeden veya satıcı benzeri vurgulardan kaçının. Cümleler arasına kısa doğal duraklamalar ekleyin. Ağız hareketlerini Japonca telaffuzla senkronize edin. Sadece aşağıdaki dört cümleyi sırayla, tek bir kelime bile değiştirmeden konuşun. Ekleme yapmayın, başka sözcüklerle ifade etmeyin veya tekrarlamayın. 1. Cümle: Ai de kouiu douga o tsukuru nara "Seedance Niiten-go" ga saikou. (Eğer yapay zeka ile böyle videolar yapıyorsan, "Seedance 2.5" en iyisidir.) 2. Cümle: Kedo, puronputo ga muzukashii no. (Ama istemler zor.) 3. Cümle: Ii puronputo o tsukuru houhou o posuto ni kaita kara, bukku maaku shite oite ne. (İyi istemlerin nasıl oluşturulacağını bir gönderide yazdım, bu yüzden lütfen yer imlerine ekleyin.) 4. Cümle: Jaa, mata ne. (Pekala, tekrar görüşürüz.) "AI" A-I'dır, "Seedance 2.5"in telaffuzu "Seedance Niiten-go"dur. "Niiten-go" sayısını net bir şekilde okuyun. Tırnak işaretlerini okumayın. Ses sadece kendi sesi, hafif nefes alışverişi, kıyafetlerin çok küçük hışırtısı ve iç mekan ortam seslerinden oluşur. BGM, eklenmiş ses efektleri, anlatım, altyazı, ekran metni veya logo yoktur. Bu kadın görünen tek karakterdir. Yüzü, elleri, kıyafetleri veya arka planı yarı yolda deforme etmeyin veya çoğaltmayın.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096721788655013888/img/FtMO83Vaa1ttRd0w.jpg" width="600" alt="Gerçekçi Japon Odası Selfie Vlog'u">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10451)**
-
-**Yazar:** [タナベ | AI動画 × マーケティング](https://x.com/tanabe_fragm) | **Kaynak:** [Link](https://x.com/tanabe_fragm/status/2096722038811754997) | **Yayınlandı:** Sep 6, 2026
-
----
-### Jirai Kei Kızının Günlük Yaşamı
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Japon 'Jirai Kei' moda tarzındaki bir kızın günlük yaşamını, gerçekçi ve akıllı telefonla çekilmiş bir tarzda belgeleyen bir dizi çekim oluşturmak için kapsamlı bir istem.
-
-#### 📝 İstem
-
-```
-[Genel Bakış] Reiwa dönemi 'Jirai Kei' modasındaki 21 yaşındaki bir kızın sıradan bir günü. En yakın arkadaşı tarafından yatay akıllı telefonla kaydedildi. 480p, 16:9, 15 sn. Farklı mekanlarda 7 adet sert kesimli çekim. Özne kendi aktivitelerine dalmış durumda ve kamerayı görmezden geliyor.
-
-[Özne] Açık tenli, düşük çift göz kapaklı, siyah ve pembe kurdeleli ikiz kuyruk saç modeline sahip, idol benzeri Japon bir kız. Siyah fırfırlı bir bluz, pembe astarlı pileli etek ve siyah platform ayakkabılar giyiyor.
-
-[Mekanlar] Yatak odası, giriş holü, park bankı, nehir kenarı yolu, arkadaşının odasının zemini, gece yaya köprüsü, tren penceresi.
-
-[Kamera] Modern akıllı telefonla elde çekilmiş video. Doğal sarsıntı, ara sıra otomatik odaklama arayışı ve hareket bulanıklığı. İnsan gözü hizasından (otururken, ayaktayken veya çömelmişken) çekim.
-
-[Çekimler] 
-1. Yatakta kahküllerini düzeltiyor.
-2. Girişte ayakkabı bağlarını bağlıyor.
-3. Park bankında pembe bir kutudan içecek içiyor.
-4. Nehir kenarında saçlarıyla oynuyor.
-5. Başını bir arkadaşının kucağına yaslıyor.
-6. Köprüden şehir ışıklarına bakıyor.
-7. Tren penceresinin kenarında uyuyakalıyor; 14. saniyede ekran kararır.
-
-[Detaylar] Pembe kutu sade ve üzerinde yazı yok. Müzik veya dış ses yok. Sadece doğal ortam sesleri.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094095173894729728/img/35pNWGmpigQEFDdf.jpg" width="600" alt="Jirai Kei Kızının Günlük Yaşamı">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10453)**
-
-**Yazar:** [妖精アーヤ](https://x.com/aiehon_aya) | **Kaynak:** [Link](https://x.com/aiehon_aya/status/2096720107011539334) | **Yayınlandı:** Sep 6, 2026
-
----
-### Yüksek Moda Editöryel Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Referans sayfasındaki karakter tutarlılığını sıkı bir şekilde koruyarak 15 saniyelik bir yüksek moda editöryel filmi oluşturmak için tasarlanmış bir komut.
-
-#### 📝 İstem
-
-```
-@[char ref] içindeki yetişkin kadın karakterin başrolde olduğu 15 saniyelik bir yüksek moda editöryel filmi oluşturun. Yüzünü, saç stilini, vücut oranlarını, cilt tonunu, kıyafetini, aksesuarlarını ve görsel stilini tam olarak koruyun. Referansı TEK karakter kaynağı olarak kullanın.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096574670506221568/img/kAOdo2rvT03JDpef.jpg" width="600" alt="Yüksek Moda Editöryel Videosu">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10443)**
-
-**Yazar:** [Zephyra Leigh](https://x.com/ZephyraLeigh) | **Kaynak:** [Link](https://x.com/ZephyraLeigh/status/2096574839637352928) | **Yayınlandı:** Sep 6, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -5496,6 +5480,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-18T03:43:28.878Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-19T03:40:16.015Z</sub>
 
 </div>

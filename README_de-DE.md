@@ -68,9 +68,9 @@ Warum unsere Galerie nutzen?
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **6397** |
+| 📝 Gesamtanzahl Prompts | **6400** |
 | ⭐ Ausgewählte Prompts | **6** |
-| 🔄 Zuletzt aktualisiert | **2026-09-18** |
+| 🔄 Zuletzt aktualisiert | **2026-09-19** |
 
 ---
 
@@ -361,6 +361,64 @@ Ultra-realistisch, inspiriert von der Energie von Fast and Furious, fotorealisti
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Bleu de Chanel Luxus-Parfüm-Werbespot
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Prompt für einen cineastischen Luxus-Parfüm-Werbespot mit Bleu de Chanel, einschließlich spezifischer Aktionen, Kamerabewegungen und Sprechertext-Anweisungen.
+
+#### 📝 Prompt
+
+```
+Cineastischer Luxus-Parfüm-Werbespot, 10 Sekunden. Eine elegante Frau mit zurückgekämmten dunklen Haaren, die eine schwarze Langarmbluse mit Puffärmeln trägt, steht vor einem weichen, hellblau-grauen Studiohintergrund. Sie hält eine quadratische Glasflasche aus dunklem Marineblau von Bleu de Chanel Eau de Parfum mit beiden Händen der Kamera entgegen und präsentiert sie. Nahaufnahme ihrer Finger, wie sie die schwarze Kappe abnehmen und den silbernen Sprühkopf freigeben. In einer hellen, fensterbeleuchteten Umgebung sprüht sie einen feinen Nebel auf ihr inneres Handgelenk. Dann hebt sie ihr Handgelenk zum Gesicht, schließt die Augen und atmet den Duft mit einem subtilen, zufriedenen Lächeln ein. Letzte Einstellung: Die Flasche füllt das Bild in scharfer Schärfe aus, während sie dahinter weichgezeichnet ist. Weiches natürliches Licht, geringe Schärfentiefe, Ästhetik eines High-End-Modefilms, langsame elegante Bewegungen, Premium-Werbelook.
+Sprechertext: „Fertig zum Gehen, der letzte Schliff. Bleu de Chanel, mach es zu deinem.“
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100818151134871552/img/FCELWlH2dnIKUU3Y.jpg" width="600" alt="Bleu de Chanel Luxus-Parfüm-Werbespot">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=10982)**
+
+**Autor:** [Elisia](https://x.com/AiwithElisia) | **Quelle:** [Link](https://x.com/AiwithElisia/status/2100818214754128101) | **Veröffentlicht:** Sep 18, 2026
+
+---
+### Erinnerungen an das Familienleben auf dem koreanischen Land
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein nostalgischer Prompt für ein Video, das eine koreanische Mutter und ihre Kinder zeigt, die einen friedlichen Sommerabend in einem ländlichen Dorf genießen, mit Fokus auf familiäre Interaktionen und malerische Schönheit.
+
+#### 📝 Prompt
+
+```
+Erstelle ein Video im Stil eines warmen, nostalgischen Lebens auf dem koreanischen Land. Zeige eine liebevolle koreanische Mutter und drei kleine Kinder, die einen friedlichen Sommerabend in einem traditionellen ländlichen koreanischen Dorf genießen, mit warmem Licht der goldenen Stunde, alten Häusern mit Ziegeldächern, Steinmauern, grünen Reisfeldern und einer ruhigen Landleben-Atmosphäre. Beginne damit, wie die Mutter sanft eine alte Holztür öffnet, und wechsle dann zu einer kinematografischen Verfolgungsaufnahme, in der sie mit dem Fahrrad fährt, während die Kinder fröhlich neben ihr durch die Dorfstraße radeln. Erfasse natürliches Kinderlachen, weiche Bewegungen der Fahrräder, fließende Kleidung und authentische familiäre Interaktionen mit realistischen koreanischen Gesichtszügen und Ausdrücken. Gehe über zu weiteren kinematografischen Aufnahmen der Familie, die neben üppigen Reisfeldern und einem kleinen Bach radelt, um ein Gefühl von Freiheit und Nostalgie zu schaffen. Zeige die Mutter, die neben den Kindern am Feldrand sitzt, frisches Obst und Snacks teilt, während sie lächeln und miteinander sprechen. Nutze schönes natürliches Licht, sanften Sonnenuntergangsglanz, subtilen Filmkorn, geringe Schärfentiefe, realistische Texturen und geschmeidige kinematografische Kamerabewegungen. Beende das Video mit einer breiten, emotionalen Aufnahme der Familie, die zusammen neben dem ruhigen Bach unter einem großen Baum sitzt, während die Sonne hinter den Reisfeldern untergeht. Fotorealistischer Live-Action-Stil, ästhetisch wie ein koreanischer Familienfilm, warme Farben, gemächliches Tempo, authentische Emotionen, 16:9-Komposition, hochdetailliert, natürliche Physik, keine künstlich wirkenden Gesichter.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100817472219914240/img/-EjhCs7GzNqSVkZW.jpg" width="600" alt="Erinnerungen an das Familienleben auf dem koreanischen Land">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=10983)**
+
+**Autor:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Quelle:** [Link](https://x.com/ayzalnooor24521/status/2100817795214954593) | **Veröffentlicht:** Sep 18, 2026
+
+---
+### Chaotische Kinematografische Klassenzimmer-Szene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt für ein 15-sekündiges kinematografisches Video mit einer koreanischen Schülerin in einem chaotischen Klassenzimmer mit fliegenden Objekten, fokussiert auf realistische Bewegung und Kameratracking.
+
+#### 📝 Prompt
+
+```
+Prompt für ein 15-sekündiges kinematografisches Video: Eine realistisch aussehende junge koreanische Schülerin steht in der Mitte eines unordentlichen Klassenzimmers. Sie trägt ein weißes Kurzarm-Schuluniformhemd mit einer roten Schleife und einen dunkelgrauen Faltenrock, während im Hintergrund mehrere Schüler sitzen und sich bewegen. Bücher, Papiere, Hefte und andere Klassenraumsgegenstände sind verstreut und fliegen durch die Luft, was eine chaotische, aber realistische Atmosphäre erzeugt. Mit ernstem, ruhigem Ausdruck geht sie langsam auf die Kamera zu, während die Schüler im Hintergrund natürlich auf das plötzliche Chaos reagieren. Die Kamera bewegt sich sanft rückwärts und hält sie zentriert in einer vertikalen 9:16-Komposition mit realistischer Handkamera-Bewegung. Papiere und Gegenstände fallen weiterhin um sie herum herab, mit glaubwürdiger Schwerkraft, Bewegungsunschärfe und natürlicher Physik. In der Mitte des Videos hebt sie leicht eine Hand, während sie weiter auf die Kamera zugeht, wobei Gesicht, Frisur, Uniform und Körperproportionen konsistent bleiben. In den letzten Sekunden rückt die Kamera näher an ihr Gesicht heran, als sie behutsam ihre Haare aus den Augen streicht und mit subtiler emotionaler Mimik direkt in die Linse blickt. Verwenden Sie natürliches Klassenzimmer-Licht, realistische Hauttextur, detaillierte Stoffdarstellung, authentische Schatten, kinematografische Tiefenschärfe und fotorealistische Visuals durchgehend, mit sanfter kontinuierlicher Bewegung und ohne Schnitte.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100787630216724480/img/8BCeaa8eVJKomkdI.jpg" width="600" alt="Chaotische Kinematografische Klassenzimmer-Szene">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=10984)**
+
+**Autor:** [Maha](https://x.com/Aiwithmaha) | **Quelle:** [Link](https://x.com/Aiwithmaha/status/2100787710424416603) | **Veröffentlicht:** Sep 18, 2026
+
+---
 ### Pariser Mode-Transformationsvideo
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -5350,80 +5408,6 @@ Stil: Fotorealistisch, natürliche Hauttextur, realistisches Haar und Hände, au
 **Autor:** [Mr.できる君](https://x.com/dek1rukun) | **Quelle:** [Link](https://x.com/dek1rukun/status/2096774979400695861) | **Veröffentlicht:** Sep 7, 2026
 
 ---
-### Realistisches japanisches Zimmer-Selfie-Vlog
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ein hochdetaillierter Video-Generierungs-Prompt für Seedance 2.5, der eine durchgehende Selfie-Aufnahme einer Frau in einer japanischen Wohnung erstellt, mit Fokus auf natürliche Bewegungen und realistische Kameraführung.
-
-#### 📝 Prompt
-
-```
-Lies den Inhalt dieser URLs und verwandle ihn in einen Skill. Verwende diesen Skill immer, wenn du eine Prompt-Generierung für Seedance 2.5 anforderst. Merke dir das, damit du es nicht vergisst. https://t.co/BPHSzqNopm https://t.co/aUJgXKFRip https://t.co/u79zESgiTk Füge außerdem die folgenden Regeln zum Skill hinzu. Wenn du Dialoge für Lip-Sync generierst, befolge diese Regeln: - Stelle schwierige Kanji, die für die KI schwer zu lesen sind, in Hiragana dar. - Stelle Zahlen nicht in Kanji dar (z. B. Zweitausend Jahre, Einhundertzweiundneunzig Mal); verwende für Zahlen arabische Ziffern (z. B. 2.000 Jahre, 192 Mal). - Stelle Englisch in Katakana dar. [Format] 20 Sekunden, vertikal 9:16. Ein tägliches Selfie-Video, aufgenommen mit der Frontkamera eines Smartphones. Eine einzige durchgehende Aufnahme von Anfang bis Ende. Die Neigung der Kamera nach links oder rechts (Roll) beträgt durchgehend 0 Grad. Halte den vertikalen Bildschirm horizontal und verwende keinen diagonal geneigten Dutch Angle. [Person/Referenz] Das angehängte Bild 1 ist ein Charakterbogen derselben weiblichen Figur, der eine Nahaufnahme des Gesichts, eine Ganzkörperansicht von vorne und eine Ganzkörperansicht von hinten kombiniert. Verwende es als einzige primäre Referenz für die Person und die Kleidung. Es ist nicht der Startframe. Übernimm nicht den grauen Hintergrund, die Stehhaltung, die Studiobeleuchtung oder das 3-Ansichten-Layout des Bogens in das Video. Zeige den Bogen selbst nicht und wechsle nicht die Szenen vom Bogen aus. Live-Action-Aufnahmen, beginnend mit dem ersten Frame, in dem die Frau das Zimmer betritt und die Kamera hält. Die Frau ist eine fiktive 29-jährige, 163 cm große Japanerin. Behalte die Gesichtsstruktur, den schlanken Körperbau und die Schulterbreite, die zierlichen Arme, den schlanken Hals und den dunkelbraunen Bob mit dünnem Pony aus Bild 1 durchgehend bei. Ein klares ovales Gesicht, natürlich große Augen und dezentes Alltags-Make-up. Sie sieht cool und gepflegt aus, mit einem freundlichen, natürlichen Lächeln. Verwende das leuchtend kobaltblaue, fein gerippte Tanktop und die hellblaue, verwaschene Wide-Straight-Jeans aus Bild 1 genau so, wie sie sind. Das Tanktop hat einen flachen quadratischen Ausschnitt, eine kompakte Silhouette, die sich natürlich an den Körper anpasst, und eine Länge, die bis nahe an den Bund der Jeans reicht. Die Jeans sitzt natürlich an der Taille und ist von den Oberschenkeln bis zum Saum locker geschnitten. Behalte die Taillenposition, Saumlänge, Taschen und die Waschung aus Bild 1 bei. Barfuß, keine Brille oder Accessoires. Behalte den schlanken Körperbau aus Bild 1 auch im Sitzen bei. [Aktion] Stelle die folgende Komposition und den Bewegungsfluss über 20 Sekunden kontinuierlich dar. Zu Beginn geht die Frau und hält die Kamera nahe ihrer Taille. Sie stellt die Kamera auf einen Schreibtisch, setzt sich selbst auf einen Stuhl und spricht weiter, als würde sie mit einer engen Freundin reden. Nachdem sie sich hingesetzt hat, streicht sie sich einmal das Haar hinter das Ohr, winkt schließlich mit einer kleinen Hand und nimmt die Kamera auf. Das angegebene Gespräch läuft während des Gehens, des Kameraaufbaus und des Sitzens weiter. [Umgebung] Eine kleine Einzimmer-Mietwohnung in Japan. Weiße Wände und Decke, heller Holzboden. Ein Schreibtisch und ein Stuhl aus Holz, ein großes Schiebefenster, Spitzengardinen. Hinten links auf dem Schreibtisch steht ein Tischspiegel mit Holzrahmen, eine marineblaue Canvas-Einkaufstasche und daneben ein paar Bücher. Die Vorderseite des Schreibtisches ist frei gehalten. Ein normales Zimmer, das sauber ist, aber bewohnt wirkt. Behalte die Position der Objekte und die Form des Zimmers durchgehend bei. Spiegle kein erkennbares Gesicht oder eine andere Person im Spiegel. [Kamera/Kompositionsübergang] Eine einzige durchgehende Aufnahme, die sich von einer niedrigen Handposition zu einer festen Position auf dem Schreibtisch bewegt. Der Charakterbogen dient nur als Referenz für die Person und die Kleidung, nicht für die Kamerakomposition. 0,0 bis 4,0 Sekunden: Halte die vertikale Frontkamera nahe der Taille und richte das Objektiv nach oben. Ändere jedoch nur den vertikalen Winkel (Pitch) für den Blick nach oben und neige den Bildschirm nicht im oder gegen den Uhrzeigersinn. Im Vordergrund sind der Oberkörper und die Taille der Hose zu sehen, im oberen Teil des Bildschirms das Kinn und das Gesicht, dahinter die breite Decke. Es gibt nur kleine vertikale Bewegungen passend zum Gehtempo, keine Drehung nach links oder rechts, vom dunklen Eingang in ein helles Zimmer mit Fenster. Der Arm, der die Kamera hält, ist am Bildrand verkürzt dargestellt; das Smartphone selbst und die Hand, die es hält, sind außerhalb des Bildes. Zu Beginn spricht sie, während sie in die Richtung schaut, in die sie geht. 4,0 bis 5,8 Sekunden: Platziere die Kamera auf einem stabilen vertikalen Ständer auf dem Holzschreibtisch. Der Ständer ist außerhalb des Bildes. Senke die Kamera und passe den vertikalen Winkel an, um kontinuierlich in eine Komposition aus Fenster, Schreibtisch, Spiegel und Tasche überzugehen. Drehe nicht nach links oder rechts. Fingerspitzen kreuzen kurz den unteren Rand, kleine vertikale Erschütterungen klingen ab und stoppen. Nach der Platzierung ist die horizontale Ebene fest auf 0 Grad eingestellt, ohne Links-Rechts-Neigung. Die Frau bewegt sich vorübergehend nach rechts aus dem Bild und kehrt von rechts zurück, um sich auf den Stuhl zu setzen. Selbst während dieser kurzen Platzierung ist die Stimme aus der Nähe zu hören. 5,8 bis 19,5 Sekunden: Die Kamera ist horizontal auf einem stabilen Ständer am Rand des Schreibtisches fixiert, ohne Winkel oder Brennweite zu ändern. Eine weite vertikale Komposition, die von einer niedrigen Position leicht nach oben blickt. Der Blick nach oben bezieht sich hier nur auf den vertikalen Winkel. Die Drehung um die optische Achse beträgt 0 Grad; neige den Bildschirm nicht nach links oder rechts. Vertikale Wandkanten nahe der Bildschirmmitte oder der vertikale Fensterrahmen verlaufen fast parallel zu den vertikalen Bildrändern. Behalte eine natürliche Perspektive eines leichten Weitwinkelobjektivs bei, aber lass nicht den ganzen Raum diagonal wirken. Verwechsle nicht die aufgrund der Tiefe diagonal erscheinende Schreibtischkante mit einer Neigung der Kamera selbst. Die Frau sitzt rechts von der Bildschirmmitte. Sie ist vom Kopf bis zur Taille und mit beiden Unterarmen im Bild, wobei über ihrem Kopf eine breite weiße Wand und Decke bleibt. Mache keine Nahaufnahme des Gesichts. Das große Fenster und die Spitzengardinen sind hinter ihrer rechten Seite sichtbar. Die Holzoberfläche des Tisches erstreckt sich diagonal von der Unterseite des Bildschirms nach hinten links. Der Spiegel mit Holzrahmen und die marineblaue Tasche befinden sich links im Bild. Der Oberkörper der Frau ist zum Spiegel/Schreibtisch nach links gedreht, und sie dreht ihr Gesicht beim Sprechen zum Objektiv. Mache aus der vorübergehenden Nähe der Person direkt nach dem Hinsetzen keinen Zoom in der festen Komposition. 19,5 bis 20,0 Sekunden: Die Frau greift nach der Kamera, ihre Hand verschwimmt nahe dem Objektiv, und sie hebt sie an, ohne die Kamera nach links oder rechts zu neigen, und endet, während sich der Bildschirm leicht nach oben bewegt. Schnitte, Szenen-Resets, Zooms, Schwenks zur Verfolgung der Person, Dutch Angles, Links-Rechts-Neigungen und Drehungen um die optische Achse sind verboten. Verursache keine Änderungen der Brennweite während des festen Abschnitts. Der Hintergrund ist als typisch für ein Smartphone erkennbar. Zeige das Smartphone selbst oder andere Filmausrüstung nicht. [Licht und Präsenz] Zu Beginn ändert sich die Belichtung natürlich von der Dunkelheit des Eingangs zum natürlichen Licht vom Fenster. Nach dem Hinsetzen fällt weiches natürliches Licht vom Fenster hinten rechts in das Bild, zusammen mit Reflexionen von den weißen Wänden. Behalte feine Poren auf den Wangen, Pfirsichflaum, dünne Schatten um die Augen, feine Lippenfältchen und natürliche Talgreflexionen bei. Ein Lächeln mit leichter Asymmetrie, natürliches Blinzeln und Atmen sowie kleine Augenbrauenbewegungen passend zum Inhalt der Rede. Verarbeite die Haut nicht, um sie glatt zu machen. Verwende keine Beauty-Filter, CG-artige Haut oder werbeartige Beleuchtung. Behalte die feine Textur von Smartphone-Aufnahmen bei. [Timing/Schauspiel] 0,0 bis 6,2 Sekunden: Zeile 1 beginnt ab den ersten 0,2 Sekunden. Geh in das Zimmer, platziere die Kamera und sprich, während du dich zum Stuhl bewegst. Sprich "Seedance 2.5" deutlich aus. Schau zu Beginn nicht in das Objektiv. Verwende die Hände für die Kameraplatzierung und führe keine zusätzlichen Gesten aus. 6,2 bis 8,8 Sekunden: Drehe beim Hinsetzen auf den Stuhl das Gesicht zum Objektiv und sage Zeile 2. Eine kurze Pause vor "kedo" (aber). Das Lächeln verblasst leicht, die Augenbrauen ziehen sich leicht zusammen. Neige den Kopf leicht, als ob du bei "muzukashii no" (es ist schwierig) nach Empathie suchst. Mache keinen ernsten Gesichtsausdruck und keine übertriebene Enttäuschung. 8,8 bis 16,7 Sekunden: Zeile 3. Der Ausdruck wird wieder weich. Während du sprichst, streiche dir einmal das Haar auf einer Seite hinter das Ohr und senke die Hand. Nicke leicht bei "weil ich es in einem Post geschrieben habe". Schau für "bitte speichere es als Lesezeichen" direkt in das Objektiv und sage es auf eine freundliche, leicht betonende Weise. Verwende keine zeigenden oder großen Gesten. 16,7 bis 18,6 Sekunden: Atme kurz durch und sage Zeile 4. Ein Lächeln breitet sich natürlich aus, hebe eine Hand zur Wange und winke leicht aus dem Handgelenk. 18,6 bis 19,5 Sekunden: Beende das Sprechen und senke die Hand mit einem sanften, nachklingenden Lächeln. Bei 19,5 bis 20,0 Sekunden greife nach der Kamera und beende die Aufnahme, während du sie aufhebst. Zeitrahmen sind ein Leitfaden für kontinuierliches Schauspiel. Stoppe oder schneide den Bildschirm nicht an jeder Grenze. [Audio/Dialog] Natürliches Tokio-Japanisch. Die ruhige, leicht behauchte, klare Stimme einer 29-jährigen Frau. Ein schnelles, leichtes Tempo, als würde man mit einer Freundin sprechen. Sprich alle Zeilen in etwa 18 Sekunden. Vermeide monotone, ansagerartige Töne, eine übermäßig hohe Tonlage oder verkäuferartige Betonung. Füge kurze natürliche Pausen zwischen den Sätzen ein. Synchronisiere die Mundbewegungen mit der japanischen Aussprache. Sprich nur die folgenden vier Sätze nacheinander, ohne ein einziges Wort zu ändern. Nicht hinzufügen, umschreiben oder wiederholen. Zeile 1: Ai de kouiu douga o tsukuru nara "Seedance Niiten-go" ga saikou. (Wenn du mit KI solche Videos machst, ist "Seedance 2.5" das Beste.) Zeile 2: Kedo, puronputo ga muzukashii no. (Aber die Prompts sind schwierig.) Zeile 3: Ii puronputo o tsukuru houhou o posuto ni kaita kara, bukku maaku shite oite ne. (Ich habe in einem Post geschrieben, wie man gute Prompts erstellt, also speichere es bitte als Lesezeichen.) Zeile 4: Jaa, mata ne. (Also, bis bald.) "AI" ist A-I, die Aussprache von "Seedance 2.5" ist "Seedance Niiten-go". Lies die Zahl "Niiten-go" deutlich. Lies die Anführungszeichen nicht mit. Der Ton besteht nur aus ihrer eigenen Stimme, leisem Atmen, sehr leisem Rascheln der Kleidung und Umgebungsgeräuschen im Innenraum. Keine Hintergrundmusik, keine hinzugefügten Soundeffekte, keine Erzählung, keine Untertitel, kein Text auf dem Bildschirm, keine Logos. Diese Frau ist die einzige Figur, die erscheint. Verforme oder vervielfache Gesicht, Hände, Kleidung oder Hintergrund zwischendurch nicht.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096721788655013888/img/FtMO83Vaa1ttRd0w.jpg" width="600" alt="Realistisches japanisches Zimmer-Selfie-Vlog">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=10451)**
-
-**Autor:** [タナベ | AI動画 × マーケティング](https://x.com/tanabe_fragm) | **Quelle:** [Link](https://x.com/tanabe_fragm/status/2096722038811754997) | **Veröffentlicht:** Sep 6, 2026
-
----
-### Alltag eines Jirai-Kei-Mädchens
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ein umfassender Prompt zur Erstellung einer Bilderserie, die den Alltag eines japanischen „Jirai-Kei“-Mode-Mädchens im realistischen Smartphone-Stil dokumentiert.
-
-#### 📝 Prompt
-
-```
-[Überblick] Ein entspannter Tag einer 21-jährigen Frau im „Jirai-Kei“-Stil der Reiwa-Ära. Aufgenommen von einer besten Freundin mit einem horizontal gehaltenen Smartphone. 480p, 16:9, 15 Sek. 7 Hard-Cut-Aufnahmen an verschiedenen Orten. Das Subjekt ist in ihre eigenen Aktivitäten vertieft und ignoriert die Kamera.
-
-[Subjekt] Ein idol-artiges japanisches Mädchen mit heller Haut, hängenden Schlupflidern und einer Zopffrisur mit schwarzen und rosafarbenen Schleifen. Sie trägt eine schwarze Bluse mit Rüschen, einen plissierten Rock mit rosa Futter und schwarze Plateauschuhe.
-
-[Orte] Schlafzimmer, Eingangsbereich, Parkbank, Weg am Flussufer, Boden eines Freundeszimmers, Fußgängerbrücke bei Nacht, Zugfenster.
-
-[Kamera] Modernes Smartphone-Handheld-Video. Natürliches Wackeln, gelegentliches Nachjustieren des Autofokus und Bewegungsunschärfe. Aufgenommen auf Augenhöhe (sitzend, stehend oder hockend).
-
-[Aufnahmen]
-1. Pony richten auf dem Bett.
-2. Schuhriemen festziehen im Eingangsbereich.
-3. Trinken aus einer rosa Dose auf einer Parkbank.
-4. Mit den Haaren spielen am Flussufer.
-5. Den Kopf auf den Schoß einer Freundin legen.
-6. Blick auf die Lichter der Stadt von einer Brücke aus.
-7. Einnicken am Zugfenster; Schnitt auf Schwarz bei 14 Sek.
-
-[Details] Die rosa Dose ist schlicht und ohne Text. Keine Musik oder Erzählung. Nur natürliche Umgebungsgeräusche.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094095173894729728/img/35pNWGmpigQEFDdf.jpg" width="600" alt="Alltag eines Jirai-Kei-Mädchens">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=10453)**
-
-**Autor:** [妖精アーヤ](https://x.com/aiehon_aya) | **Quelle:** [Link](https://x.com/aiehon_aya/status/2096720107011539334) | **Veröffentlicht:** Sep 6, 2026
-
----
-### High-Fashion-Editorial-Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt, der darauf ausgelegt ist, einen 15-sekündigen High-Fashion-Editorial-Film zu erstellen und dabei die Charakterkonsistenz anhand eines Referenzblatts strikt beizubehalten.
-
-#### 📝 Prompt
-
-```
-Erstelle einen 15-sekündigen High-Fashion-Editorial-Film mit der erwachsenen weiblichen Figur aus @[char ref]. Bewahre ihr exaktes Gesicht, ihre Frisur, ihre Körperproportionen, ihren Hautton, ihr Outfit, ihre Accessoires und ihren visuellen Stil. Verwende die Referenz als EINZIGE Charakterquelle.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096574670506221568/img/kAOdo2rvT03JDpef.jpg" width="600" alt="High-Fashion-Editorial-Video">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=10443)**
-
-**Autor:** [Zephyra Leigh](https://x.com/ZephyraLeigh) | **Quelle:** [Link](https://x.com/ZephyraLeigh/status/2096574839637352928) | **Veröffentlicht:** Sep 6, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -5485,6 +5469,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-09-18T03:43:22.575Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-09-19T03:40:07.718Z</sub>
 
 </div>

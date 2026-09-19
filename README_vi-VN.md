@@ -68,9 +68,9 @@ Tại sao nên sử dụng thư viện của chúng tôi?
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **6397** |
+| 📝 Tổng số prompt | **6400** |
 | ⭐ Prompt nổi bật | **6** |
-| 🔄 Cập nhật lần cuối | **2026-09-18** |
+| 🔄 Cập nhật lần cuối | **2026-09-19** |
 
 ---
 
@@ -361,6 +361,64 @@ Siêu thực tế, năng lượng lấy cảm hứng từ Fast and Furious, ánh
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Quảng cáo nước hoa sang trọng Bleu de Chanel
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một prompt chi tiết cho quảng cáo nước hoa sang trọng mang tính điện ảnh, giới thiệu Bleu de Chanel, bao gồm các hành động cụ thể, chuyển động máy quay và hướng dẫn lồng tiếng.
+
+#### 📝 Prompt
+
+```
+Quảng cáo nước hoa sang trọng mang phong cách điện ảnh, thời lượng 10 giây. Một người phụ nữ thanh lịch với mái tóc đen vuốt ngược, mặc áo blouse tay dài màu đen có phần vai phồng, đứng trước nền studio màu xanh xám nhạt dịu nhẹ. Cô ấy cầm chai nước hoa Bleu de Chanel Eau de Parfum hình vuông bằng thủy tinh màu xanh navy đậm bằng cả hai tay hướng về phía máy quay, trưng bày sản phẩm. Cận cảnh ngón tay cô ấy tháo nắp đen, để lộ vòi xịt bạc. Cô ấy xịt một lớp sương mỏng lên mặt trong cổ tay trong bối cảnh ánh sáng tự nhiên từ cửa sổ. Sau đó, cô ấy nâng cổ tay lên gần mặt, nhắm mắt lại và hít hương thơm với nụ cười mãn nguyện nhẹ nhàng. Cảnh cuối cùng: chai nước hoa chiếm trọn khung hình với độ nét cao trong khi cô ấy mờ ảo ở phía sau. Ánh sáng tự nhiên dịu nhẹ, độ sâu trường ảnh nông, thẩm mỹ phim thời trang cao cấp, chuyển động chậm rãi và thanh lịch, vẻ ngoài của một quảng cáo thương hiệu đẳng cấp.
+Lồng tiếng: “Sẵn sàng ra ngoài, thêm một điểm nhấn cuối cùng. Bleu de Chanel, hãy biến nó thành của riêng bạn.”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100818151134871552/img/FCELWlH2dnIKUU3Y.jpg" width="600" alt="Quảng cáo nước hoa sang trọng Bleu de Chanel">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=10982)**
+
+**Tác giả:** [Elisia](https://x.com/AiwithElisia) | **Nguồn:** [Link](https://x.com/AiwithElisia/status/2100818214754128101) | **Đã xuất bản:** Sep 18, 2026
+
+---
+### Ký ức gia đình ở vùng quê Hàn Quốc
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một prompt hoài niệm cho video khắc họa hình ảnh người mẹ Hàn Quốc và các con tận hưởng buổi tối mùa hè yên bình tại ngôi làng nông thôn, tập trung vào tương tác gia đình và vẻ đẹp phong cảnh.
+
+#### 📝 Prompt
+
+```
+Tạo một video với những từ ngữ tiếng Hàn tuyệt đẹp và phong cách sống vùng quê Hàn Quốc ấm áp, đầy hoài niệm. Hãy thể hiện một người mẹ Hàn Quốc yêu thương cùng ba đứa trẻ nhỏ đang tận hưởng buổi tối mùa hè yên bình trong một ngôi làng truyền thống của Hàn Quốc, với ánh nắng vàng rực rỡ lúc hoàng hôn, những ngôi nhà mái ngói cổ kính, tường đá, cánh đồng lúa xanh mướt và bầu không khí thanh bình của vùng quê. Bắt đầu bằng cảnh người mẹ nhẹ nhàng mở cánh cửa gỗ cũ kỹ, sau đó chuyển sang cú máy tracking điện ảnh khi bà đạp xe cùng các con vui vẻ chạy xe đạp bên cạnh dọc theo con đường làng. Ghi lại tiếng cười tự nhiên của trẻ thơ, những chuyển động mềm mại của xe đạp, trang phục bay phấp phới và những tương tác gia đình chân thực với đặc điểm khuôn mặt và biểu cảm Hàn Quốc chuẩn xác. Chuyển sang những cú máy rộng mang tính điện ảnh khi cả gia đình đạp xe bên cạnh cánh đồng lúa xanh tốt và một dòng suối nhỏ, tạo nên cảm giác tự do và hoài niệm yên bình. Thể hiện cảnh người mẹ ngồi bên các con gần cánh đồng, chia sẻ trái cây tươi và đồ ăn vặt trong khi họ mỉm cười và trò chuyện cùng nhau. Sử dụng ánh sáng tự nhiên tuyệt đẹp, ánh hoàng hôn dịu nhẹ, hiệu ứng hạt phim tinh tế, độ sâu trường ảnh nông, kết cấu chân thực và chuyển động máy quay mượt mà mang tính điện ảnh. Kết thúc bằng một cú máy rộng giàu cảm xúc khi cả gia đình ngồi bên nhau cạnh dòng suối tĩnh lặng dưới gốc cây lớn, trong khi mặt trời lặn dần phía sau cánh đồng lúa. Phong cách live-action siêu thực, thẩm mỹ phim gia đình Hàn Quốc điện ảnh, tông màu ấm, nhịp độ nhẹ nhàng, cảm xúc chân thực, bố cục 16:9, chi tiết cao, vật lý tự nhiên, không có khuôn mặt trông giả tạo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100817472219914240/img/-EjhCs7GzNqSVkZW.jpg" width="600" alt="Ký ức gia đình ở vùng quê Hàn Quốc">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=10983)**
+
+**Tác giả:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Nguồn:** [Link](https://x.com/ayzalnooor24521/status/2100817795214954593) | **Đã xuất bản:** Sep 18, 2026
+
+---
+### Cảnh quay điện ảnh lớp học hỗn loạn
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt cho video điện ảnh 15 giây với một nữ sinh Hàn Quốc trong lớp học hỗn loạn, các vật thể bay tứ tung, tập trung vào chuyển động chân thực và theo dõi camera.
+
+#### 📝 Prompt
+
+```
+Prompt video điện ảnh 15 giây: Một nữ sinh Hàn Quốc trẻ tuổi, ngoại hình chân thực, đứng ở giữa một lớp học bừa bộn. Cô mặc áo sơ mi đồng phục ngắn tay màu trắng với nơ đỏ và váy xếp ly màu xám đậm, trong khi một số học sinh khác ngồi và di chuyển phía sau cô. Sách vở, giấy tờ, sổ tay và các đồ vật trong lớp học bị vứt lung tung và bay tứ tung trên không trung, tạo nên bầu không khí hỗn loạn nhưng chân thực. Cô từ từ bước về phía máy quay với vẻ mặt nghiêm túc, bình tĩnh, trong khi các học sinh ở hậu cảnh phản ứng tự nhiên trước sự hỗn loạn bất ngờ. Camera lùi lại mượt mà, giữ cô ở vị trí trung tâm trong khung hình dọc tỷ lệ 9:16 với hiệu ứng cầm tay chân thực. Giấy và các vật thể tiếp tục rơi xung quanh cô với trọng lực đáng tin cậy, mờ chuyển động (motion blur) và quy luật vật lý tự nhiên. Vào khoảng giữa video, cô hơi giơ một tay lên trong khi vẫn tiếp tục tiến gần hơn đến máy quay, duy trì nguyên vẹn khuôn mặt, kiểu tóc, đồng phục và tỷ lệ cơ thể. Trong những giây cuối cùng, camera tiến gần hơn vào khuôn mặt cô khi cô nhẹ nhàng gạt tóc khỏi mắt, nhìn thẳng vào ống kính với biểu cảm tinh tế đầy cảm xúc. Sử dụng ánh sáng lớp học tự nhiên, kết cấu da chân thực, chi tiết vải vóc, bóng đổ xác thực, độ sâu trường ảnh mang tính điện ảnh và hình ảnh siêu thực (photorealistic) xuyên suốt, với chuyển động liên tục mượt mà và không có điểm cắt.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100787630216724480/img/8BCeaa8eVJKomkdI.jpg" width="600" alt="Cảnh quay điện ảnh lớp học hỗn loạn">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=10984)**
+
+**Tác giả:** [Maha](https://x.com/Aiwithmaha) | **Nguồn:** [Link](https://x.com/Aiwithmaha/status/2100787710424416603) | **Đã xuất bản:** Sep 18, 2026
+
+---
 ### Video Biến Hình Thời Trang Phong Cách Paris
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -5421,80 +5479,6 @@ Phong cách: Ảnh chân thực, kết cấu da tự nhiên, tóc và bàn tay c
 **Tác giả:** [Mr.できる君](https://x.com/dek1rukun) | **Nguồn:** [Link](https://x.com/dek1rukun/status/2096774979400695861) | **Đã xuất bản:** Sep 7, 2026
 
 ---
-### Vlog selfie thực tế trong phòng kiểu Nhật
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Một prompt tạo video cực kỳ chi tiết dành cho Seedance 2.5, tạo ra một cảnh quay selfie liên tục của một người phụ nữ trong căn hộ kiểu Nhật, tập trung vào chuyển động tự nhiên và cách xử lý camera chân thực.
-
-#### 📝 Prompt
-
-```
-Hãy đọc nội dung của các URL này và biến chúng thành một Skill. Luôn sử dụng Skill này khi yêu cầu tạo prompt cho Seedance 2.5. Hãy ghi nhớ điều này để không quên. https://t.co/BPHSzqNopm https://t.co/aUJgXKFRip https://t.co/u79zESgiTk Ngoài ra, hãy thêm các quy tắc sau vào Skill. Khi tạo lời thoại cho việc khớp môi (lip-sync), hãy tuân thủ các quy tắc sau: - Chuyển các chữ kanji khó mà AI khó đọc sang hiragana. - Không viết số bằng kanji (ví dụ: Hai nghìn năm, Một trăm chín mươi hai lần); hãy sử dụng chữ số Ả Rập (ví dụ: 2.000 năm, 192 lần). - Viết tiếng Anh bằng katakana. [Định dạng] 20 giây, dọc 9:16. Một video selfie hàng ngày được quay bằng camera trước của điện thoại thông minh. Một cảnh quay liên tục duy nhất từ đầu đến cuối. Độ nghiêng trái-phải (roll) của camera là 0 độ trong suốt quá trình. Giữ màn hình dọc theo chiều ngang và không sử dụng góc quay nghiêng (Dutch angle). [Nhân vật/Tham chiếu] Hình ảnh đính kèm 1 là bảng nhân vật của cùng một người phụ nữ, kết hợp cận cảnh khuôn mặt, toàn thân nhìn từ phía trước và toàn thân nhìn từ phía sau. Sử dụng nó làm tài liệu tham khảo chính duy nhất cho nhân vật và trang phục. Đây không phải là khung hình bắt đầu. Không đưa nền xám, tư thế đứng, ánh sáng studio hoặc bố cục 3 góc nhìn của bảng nhân vật vào video. Không hiển thị chính bảng nhân vật đó hoặc chuyển cảnh từ bảng nhân vật. Cảnh quay thực tế bắt đầu từ khung hình đầu tiên khi người phụ nữ bước vào căn phòng sau đây trong khi cầm camera. Người phụ nữ là một nhân vật hư cấu 29 tuổi, cao 163 cm, người Nhật. Duy trì cấu trúc khuôn mặt, vóc dáng mảnh mai và độ rộng vai, cánh tay thon thả, cổ thanh mảnh và mái tóc bob màu nâu sẫm với phần tóc mái mỏng từ Hình 1 trong suốt video. Khuôn mặt trái xoan sạch sẽ, đôi mắt kích thước tự nhiên và lối trang điểm hàng ngày nhẹ nhàng. Cô ấy trông cá tính và thanh lịch, với nụ cười tự nhiên, thân thiện. Sử dụng áo tank top gân nhỏ màu xanh coban rực rỡ và quần denim ống rộng màu xanh nhạt từ Hình 1. Áo tank top có cổ vuông nông, kiểu dáng gọn gàng ôm sát cơ thể một cách tự nhiên và độ dài chạm gần đến thắt lưng của quần denim. Quần denim vừa vặn quanh eo và suông rộng từ đùi đến gấu quần. Duy trì vị trí thắt lưng, độ dài gấu quần, túi và độ phai màu từ Hình 1. Đi chân trần, không đeo kính hay phụ kiện. Duy trì vóc dáng mảnh mai từ Hình 1 ngay cả khi đang ngồi. [Hành động] Mô tả liên tục bố cục và dòng chảy chuyển động sau đây trong 20 giây. Lúc bắt đầu, người phụ nữ đi bộ trong khi cầm camera gần thắt lưng. Cô ấy đặt camera lên bàn, tự mình ngồi vào ghế và tiếp tục như đang nói chuyện với một người bạn thân. Sau khi ngồi, cô ấy vén tóc ra sau tai một lần, cuối cùng vẫy tay nhỏ và cầm camera lên. Cuộc trò chuyện được chỉ định diễn ra trong khi đi bộ, thiết lập camera và ngồi xuống. [Môi trường] Một căn hộ một phòng nhỏ cho thuê ở Nhật Bản. Tường và trần nhà màu trắng, sàn gỗ sáng màu. Một bàn gỗ và ghế, cửa sổ trượt lớn, rèm ren. Ở phía sau bên trái bàn là một chiếc gương để bàn khung gỗ, một túi tote vải canvas màu xanh navy và vài cuốn sách bên cạnh. Phía trước bàn được giữ gọn gàng. Một căn phòng bình thường, sạch sẽ nhưng có cảm giác đang sinh sống. Duy trì vị trí của các đồ vật và hình dạng căn phòng trong suốt video. Không phản chiếu khuôn mặt rõ nét hoặc người khác trong gương. [Chuyển cảnh Camera/Bố cục] Một cảnh quay liên tục duy nhất di chuyển từ vị trí cầm tay thấp đến khi cố định trên bàn. Bảng nhân vật chỉ là tài liệu tham khảo cho nhân vật và trang phục, không phải cho bố cục camera. 0,0 đến 4,0 giây: Cầm camera trước dọc gần thắt lưng và hướng ống kính lên trên. Tuy nhiên, chỉ thay đổi góc dọc (pitch) để nhìn lên, không nghiêng màn hình sang trái hoặc phải. Ở tiền cảnh là thân trên và thắt lưng của quần, ở phần trên màn hình là cằm và khuôn mặt, phía sau là trần nhà rộng. Chỉ có chuyển động dọc nhỏ phù hợp với nhịp đi bộ, không xoay trái hoặc phải, đi từ lối vào mờ tối đến căn phòng sáng sủa có cửa sổ. Cánh tay cầm camera bị rút ngắn ở cạnh màn hình, bản thân điện thoại thông minh và bàn tay cầm nó nằm ngoài khung hình. Lúc bắt đầu, cô ấy nói trong khi nhìn về hướng đang đi. 4,0 đến 5,8 giây: Đặt camera lên một giá đỡ dọc ổn định trên bàn gỗ. Giá đỡ nằm ngoài khung hình. Hạ camera xuống và điều chỉnh góc dọc để chuyển tiếp liên tục sang bố cục cửa sổ, bàn, gương và túi. Không xoay trái hoặc phải. Đầu ngón tay lướt qua cạnh dưới, các rung lắc dọc nhỏ giảm dần và dừng lại. Sau khi đặt xong, mức ngang được thiết lập chắc chắn với độ nghiêng (roll) 0 độ và không nghiêng trái-phải. Người phụ nữ tạm thời di chuyển sang bên phải màn hình và quay lại từ bên phải để ngồi vào ghế. Ngay cả trong lúc đặt camera ngắn ngủi này, giọng nói vẫn được nghe thấy ở gần. 5,8 đến 19,5 giây: Camera được cố định theo chiều ngang trên giá đỡ ổn định ở mép bàn, không thay đổi góc hoặc tiêu cự. Bố cục dọc rộng nhìn hơi hướng lên từ vị trí thấp. Góc nhìn hướng lên ở đây chỉ nằm trong góc dọc. Xoay quanh trục quang học là 0 độ; không nghiêng màn hình sang trái hoặc phải. Các đường nối dọc của tường gần trung tâm màn hình hoặc khung dọc của cửa sổ gần như song song với các cạnh dọc của hình ảnh. Giữ phối cảnh tự nhiên của ống kính góc rộng nhẹ, nhưng không làm cho toàn bộ căn phòng bị nghiêng. Không nhầm lẫn việc cạnh bàn trông có vẻ chéo do chiều sâu với việc nghiêng chính camera. Người phụ nữ ngồi bên phải trung tâm màn hình. Cô ấy nằm trong khung hình từ đầu đến thắt lưng và cả hai cẳng tay, để lại một khoảng tường trắng rộng và trần nhà phía trên đầu. Không quay cận cảnh khuôn mặt. Cửa sổ lớn và rèm ren có thể nhìn thấy từ phía sau bên phải cô ấy. Mặt bàn gỗ trải dài theo đường chéo từ dưới màn hình lên phía sau bên trái. Gương khung gỗ và túi màu xanh navy nằm bên trái màn hình. Thân trên của người phụ nữ hướng về phía gương/bàn bên trái, và cô ấy quay mặt về phía ống kính khi nói. Không làm cho sự gần gũi tạm thời của nhân vật ngay sau khi ngồi trở thành hiệu ứng zoom trong bố cục cố định. 19,5 đến 20,0 giây: Người phụ nữ với tay lấy camera, bàn tay cô ấy mờ đi gần ống kính và cô ấy nhấc nó lên mà không nghiêng camera sang trái hoặc phải, kết thúc khi màn hình di chuyển nhẹ lên trên. Các vết cắt, thiết lập lại cảnh, zoom, lia máy theo nhân vật, góc quay nghiêng (Dutch angle), nghiêng trái-phải và xoay quanh trục quang học đều bị cấm. Không gây ra thay đổi tiêu cự trong phần cố định. Nền có thể nhận diện là đặc trưng của điện thoại thông minh. Không hiển thị chính điện thoại thông minh hoặc thiết bị quay phim khác. [Ánh sáng và Sự hiện diện] Lúc bắt đầu, độ phơi sáng thay đổi tự nhiên từ sự mờ tối của lối vào sang ánh sáng tự nhiên từ cửa sổ. Sau khi ngồi, ánh sáng tự nhiên dịu nhẹ đi vào từ cửa sổ phía sau bên phải màn hình cùng với sự phản chiếu từ các bức tường trắng. Duy trì lỗ chân lông nhỏ trên má, lông tơ, bóng mờ mỏng quanh mắt, nếp nhăn nhỏ trên môi và sự phản chiếu bã nhờn tự nhiên. Nụ cười hơi không đối xứng, chớp mắt và thở tự nhiên, các chuyển động lông mày nhỏ phù hợp với nội dung bài phát biểu. Không xử lý da cho mịn màng. Không sử dụng bộ lọc làm đẹp, da giống CG hoặc ánh sáng giống quảng cáo. Duy trì kết cấu tinh tế của cảnh quay điện thoại thông minh. [Thời gian/Diễn xuất] 0,0 đến 6,2 giây: Câu 1 bắt đầu từ 0,2 giây đầu tiên. Đi bộ vào phòng, đặt camera và nói trong khi di chuyển đến ghế. Phát âm rõ "Seedance 2.5". Không nhìn vào ống kính lúc bắt đầu. Sử dụng tay để đặt camera và không thực hiện thêm cử chỉ nào khác. 6,2 đến 8,8 giây: Trong khi hạ người xuống ghế, quay mặt về phía ống kính và nói Câu 2. Một khoảng dừng ngắn trước "but" (kedo). Nụ cười mờ dần một chút và lông mày hơi nhíu lại. Nghiêng đầu nhẹ như đang tìm kiếm sự đồng cảm trong "it's difficult" (muzukashii no). Không làm biểu cảm nghiêm trọng hoặc thất vọng thái quá. 8,8 đến 16,7 giây: Câu 3. Biểu cảm trở lại nhẹ nhàng. Trong khi nói, vén tóc một bên ra sau tai một lần và hạ tay xuống. Gật đầu nhẹ ở "because I wrote it in a post". Nhìn thẳng vào ống kính ở "please bookmark it", nói một cách thân thiện, nhấn mạnh nhẹ. Không sử dụng cử chỉ chỉ trỏ hoặc cử chỉ lớn. 16,7 đến 18,6 giây: Thở nhẹ và nói Câu 4. Nụ cười lan tỏa tự nhiên, giơ một tay lên bên má và vẫy nhẹ qua lại từ cổ tay. 18,6 đến 19,5 giây: Kết thúc bài phát biểu và hạ tay xuống với nụ cười nhẹ nhàng còn vương lại. Ở 19,5 đến 20,0 giây, với tay lấy camera và kết thúc trong khi nhấc nó lên. Khung thời gian là hướng dẫn cho diễn xuất liên tục. Không dừng hoặc cắt màn hình tại mỗi ranh giới. [Âm thanh/Lời thoại] Tiếng Nhật Tokyo tự nhiên. Giọng nói bình tĩnh, hơi thở nhẹ, rõ ràng của một phụ nữ 29 tuổi. Nhịp độ nhanh, nhẹ nhàng như đang nói chuyện với một người bạn. Nói tất cả các câu trong khoảng 18 giây. Tránh giọng đơn điệu, giọng phát thanh viên, cao độ quá cao hoặc nhấn mạnh kiểu nhân viên bán hàng. Chèn các khoảng dừng tự nhiên ngắn giữa các câu. Đồng bộ hóa chuyển động miệng với cách phát âm tiếng Nhật. Chỉ nói bốn câu sau theo thứ tự, không thay đổi một từ nào. Không thêm, diễn giải hoặc lặp lại. Câu 1: Ai de kouiu douga o tsukuru nara "Seedance Niiten-go" ga saikou. (Nếu bạn đang làm những video như thế này bằng AI, "Seedance 2.5" là tốt nhất.) Câu 2: Kedo, puronputo ga muzukashii no. (Nhưng các prompt rất khó.) Câu 3: Ii puronputo o tsukuru houhou o posuto ni kaita kara, bukku maaku shite oite ne. (Tôi đã viết cách tạo prompt tốt trong một bài đăng, vì vậy hãy đánh dấu nó nhé.) Câu 4: Jaa, mata ne. (Vậy nhé, hẹn gặp lại.) "AI" là A-I, cách phát âm của "Seedance 2.5" là "Seedance Niiten-go". Đọc rõ số "Niiten-go". Không đọc các dấu ngoặc kép. Âm thanh chỉ bao gồm giọng nói của chính cô ấy, tiếng thở nhẹ, tiếng sột soạt rất nhỏ của quần áo và âm thanh môi trường trong nhà. Không có nhạc nền, hiệu ứng âm thanh bổ sung, lời dẫn, phụ đề, văn bản trên màn hình hoặc logo. Người phụ nữ này là nhân vật duy nhất xuất hiện. Không làm biến dạng hoặc nhân bản khuôn mặt, bàn tay, quần áo hoặc nền ở giữa chừng.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096721788655013888/img/FtMO83Vaa1ttRd0w.jpg" width="600" alt="Vlog selfie thực tế trong phòng kiểu Nhật">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=10451)**
-
-**Tác giả:** [タナベ | AI動画 × マーケティング](https://x.com/tanabe_fragm) | **Nguồn:** [Link](https://x.com/tanabe_fragm/status/2096722038811754997) | **Đã xuất bản:** Sep 6, 2026
-
----
-### Cuộc sống thường ngày của cô gái Jirai Kei
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Một câu lệnh toàn diện để tạo ra loạt cảnh quay ghi lại cuộc sống thường ngày của một cô gái theo phong cách thời trang 'Jirai Kei' Nhật Bản với phong cách chân thực, như được quay bằng điện thoại thông minh.
-
-#### 📝 Prompt
-
-```
-[Tổng quan] Một ngày bình thường của cô gái 21 tuổi theo phong cách thời trang 'Jirai Kei' thời Reiwa. Được ghi lại bởi một người bạn thân bằng điện thoại thông minh đặt nằm ngang. 480p, 16:9, 15 giây. 7 cảnh quay cắt nhanh tại các địa điểm khác nhau. Nhân vật đắm chìm vào các hoạt động của riêng mình và phớt lờ máy quay.
-
-[Nhân vật] Một cô gái Nhật Bản có vẻ ngoài giống thần tượng với làn da trắng, đôi mắt hai mí cụp và kiểu tóc buộc hai bên với ruy băng đen và hồng. Mặc áo blouse bèo nhún màu đen, chân váy xếp ly viền hồng và giày đế bánh mì màu đen.
-
-[Địa điểm] Phòng ngủ, sảnh vào, ghế công viên, lối đi ven sông, sàn nhà của bạn, cầu đi bộ vào ban đêm, cửa sổ tàu hỏa.
-
-[Máy quay] Video quay cầm tay bằng điện thoại thông minh hiện đại. Rung lắc tự nhiên, thỉnh thoảng lấy nét tự động và có nhòe chuyển động. Quay từ tầm mắt người (ngồi, đứng hoặc ngồi xổm).
-
-[Các cảnh quay]
-1. Chỉnh tóc mái trên giường.
-2. Thắt dây giày ở sảnh vào.
-3. Uống nước từ lon màu hồng trên ghế công viên.
-4. Xoay lọn tóc bên bờ sông.
-5. Tựa đầu vào lòng bạn.
-6. Ngắm nhìn ánh đèn thành phố từ trên cầu.
-7. Ngủ gật bên cửa sổ tàu hỏa; cắt sang màn hình đen ở giây thứ 14.
-
-[Chi tiết] Lon nước màu hồng trơn không có chữ. Không nhạc nền hay lời dẫn. Chỉ có âm thanh môi trường tự nhiên.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094095173894729728/img/35pNWGmpigQEFDdf.jpg" width="600" alt="Cuộc sống thường ngày của cô gái Jirai Kei">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=10453)**
-
-**Tác giả:** [妖精アーヤ](https://x.com/aiehon_aya) | **Nguồn:** [Link](https://x.com/aiehon_aya/status/2096720107011539334) | **Đã xuất bản:** Sep 6, 2026
-
----
-### Video biên tập thời trang cao cấp
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) được thiết kế để tạo ra thước phim biên tập thời trang cao cấp dài 15 giây, đồng thời đảm bảo tính nhất quán tuyệt đối của nhân vật từ bảng tham chiếu.
-
-#### 📝 Prompt
-
-```
-Tạo một thước phim biên tập thời trang cao cấp dài 15 giây với nhân vật nữ trưởng thành trong @[char ref]. Giữ nguyên khuôn mặt, kiểu tóc, tỷ lệ cơ thể, tông màu da, trang phục, phụ kiện và phong cách hình ảnh của cô ấy. Sử dụng tài liệu tham chiếu làm nhân vật DUY NHẤT
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096574670506221568/img/kAOdo2rvT03JDpef.jpg" width="600" alt="Video biên tập thời trang cao cấp">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=10443)**
-
-**Tác giả:** [Zephyra Leigh](https://x.com/ZephyraLeigh) | **Nguồn:** [Link](https://x.com/ZephyraLeigh/status/2096574839637352928) | **Đã xuất bản:** Sep 6, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -5556,6 +5540,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-18T03:43:17.723Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-19T03:40:02.271Z</sub>
 
 </div>
