@@ -68,9 +68,9 @@ Perché usare la nostra galleria?
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **6400** |
+| 📝 Totale prompt | **6403** |
 | ⭐ Prompt in evidenza | **6** |
-| 🔄 Ultimo aggiornamento | **2026-09-19** |
+| 🔄 Ultimo aggiornamento | **2026-09-20** |
 
 ---
 
@@ -361,6 +361,63 @@ Ultra realistico, energia ispirata a Fast and Furious, illuminazione fotorealist
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Prompt Video: Guerriero Oscuro nella Tempesta sul Tetto
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt per generare una scena d'azione cinematografica di un guerriero in armatura su un tetto sotto la pioggia, con illuminazione drammatica ed effetti d'acqua.
+
+#### 📝 Prompt
+
+```
+Scena cinematografica ultra-realistica di un misterioso guerriero oscuro in un'armatura nera fluente, in piedi su un tetto bagnato durante una tempesta. Posa dinamica potente, spruzzi d'acqua drammatici intorno a lui, cielo scuro e nuvoloso, illuminazione atmosferica intensa, gocce d'acqua volanti e movimento, skyline futuristico della città sullo sfondo, composizione da film d'azione drammatico, texture realistiche di tessuto e armatura, illuminazione volumetrica, profondità di campo ridotta, dettagli elevati, HDR, 8K, fotorealistico, color grading cinematografico, composizione verticale 9:16.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101169609365921792/img/-IstuS_VdtsgYbeM.jpg" width="600" alt="Prompt Video: Guerriero Oscuro nella Tempesta sul Tetto">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=11012)**
+
+**Autore:** [AIwithMinal](https://x.com/AIwithMinal) | **Fonte:** [Link](https://x.com/AIwithMinal/status/2101169774076231947) | **Pubblicato:** Sep 19, 2026
+
+---
+### Prompt Video Cinematografico per Routine di Skincare
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt per generare un annuncio pubblicitario fotorealistico di skincare che presenta una giovane donna in una stanza luminosa, con focus su texture e illuminazione.
+
+#### 📝 Prompt
+
+```
+Crea un video di skincare fotorealistico di 15 secondi che mostra una giovane donna coreana in una stanza bianca, luminosa ed elegante. Inizia con un primo piano estremo del suo viso naturale mentre tocca delicatamente la guancia con la punta delle dita, mostrando una texture della pelle realistica e una luce diurna soffusa. Quindi, mostra una bottiglia trasparente di prodotto skincare posizionata su un tavolo di marmo bianco mentre la sua mano si avvicina lentamente ad essa. Prosegui con l'applicazione delicata del prodotto sul viso usando entrambe le mani, mantenendo costanti i tratti somatici e l'aspetto. Mostra gli occhi chiusi in pace mentre massaggia dolcemente entrambe le guance con i polpastrelli. Concludi con un'inquadratura più ampia che la ritrae in un semplice abito bianco accanto a una grande finestra, mentre le tende bianche trasparenti si muovono naturalmente alla luce del sole. Mantieni i movimenti fluidi e realistici, con mani naturali, pelle realistica, illuminazione cinematografica morbida, atmosfera di lusso pulita, movimento della camera delicato e senza distorsioni o dettagli dall'aspetto artificiale.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101138351013416960/img/ZHT5-dQIrBB1HX68.jpg" width="600" alt="Prompt Video Cinematografico per Routine di Skincare">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=11011)**
+
+**Autore:** [Maha](https://x.com/Aiwithmaha) | **Fonte:** [Link](https://x.com/Aiwithmaha/status/2101138386132386252) | **Pubblicato:** Sep 19, 2026
+
+---
+### Prompt Video Donna Paesaggio Ghiacciato
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt per generare una scena cinematografica di una donna in un paesaggio innevato con vento e particelle di neve.
+
+#### 📝 Prompt
+
+```
+Scena cinematografica ultra-realistica di una giovane donna in piedi da sola in un vasto paesaggio innevato ghiacciato, indossa un cappotto scuro impermeabile, il vento soffia tra i suoi capelli, espressione esausta ma determinata, forte tempesta di neve, drammatiche nuvole scure di tempesta, montagne coperte di neve sullo sfondo, atmosfera fredda blu, particelle di neve realistiche, texture della pelle naturale, narrazione emotiva, illuminazione drammatica, profondità di campo ridotta, color grading cinematografico, altamente dettagliato, fotorealistico, 8K, HDR, fermo immagine professionale da film, obiettivo 85mm, composizione verticale 9:16.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100821852797227008/img/ccGPsPHV1WCfCErM.jpg" width="600" alt="Prompt Video Donna Paesaggio Ghiacciato">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=11013)**
+
+**Autore:** [AIwithMinal](https://x.com/AIwithMinal) | **Fonte:** [Link](https://x.com/AIwithMinal/status/2100822353446060246) | **Pubblicato:** Sep 18, 2026
+
+---
 ### Spot pubblicitario di lusso per Bleu de Chanel
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -509,7 +566,7 @@ Una bella ragazza coreana indossa un morbido abito estivo bianco e un cappello d
 
 **[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10951)**
 
-**Autore:** [Ayat](https://x.com/aiwithaayat) | **Fonte:** [Link](https://x.com/aiwithaayat/status/2100423982898115050) | **Pubblicato:** Sep 17, 2026
+**Autore:** [Sahil Verma](https://x.com/sahilvermaai) | **Fonte:** [Link](https://x.com/sahilvermaai/status/2100423982898115050) | **Pubblicato:** Sep 17, 2026
 
 ---
 ### Prompt per la Battaglia del Drago Seedance 2.0
@@ -5358,95 +5415,6 @@ Animazione cinematografica 2.5D in stile rendering completamente pittorico, pers
 **Autore:** [PixieVerse](https://x.com/itsPixieVerse) | **Fonte:** [Link](https://x.com/itsPixieVerse/status/2096801780697030939) | **Pubblicato:** Sep 7, 2026
 
 ---
-### Script per film di arti marziali Xianxia cinese
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Una sceneggiatura cinematografica professionale per un cortometraggio Xianxia intitolato 'Don't Look Back', incentrata sulla tensione emotiva e sulla coerenza dei personaggi tra una maestra e la sua discepola.
-
-#### 📝 Prompt
-
-```
-Cortometraggio Xianxia di 15 secondi | "Don't Look Back" I. Posizionamento principale Genera un cortometraggio cinematografico Xianxia cinese completo e continuo di 15 secondi. Stile generale: texture cinematografica realistica, pura estetica Xianxia cinese antica, tensione psicologica matura, potenza emotiva contenuta ma tagliente, guidata dal sottotesto piuttosto che da dialoghi esplicativi, dialoghi brevi in stile sceneggiatura professionale, posizionamento elegante dei personaggi nelle arti marziali, qualità cinematografica Arri Alexa, micro-dettagli del volto stabili e nitidi, grana della pellicola delicata, luce volumetrica naturale. Questo ribaltamento si concentra su: dipendenza emotiva scambiata per antipatia. La percezione iniziale deve essere: il nemico porta un ordine di trasferimento di tre anni prima, provando che la sorella maggiore ha richiesto personalmente che la sorella minore venisse trasferita lontano da lei. Tutti, inclusa la sorella minore, lo interpretano naturalmente come se la sorella maggiore la trovasse d'intralcio o un peso. Il vero ribaltamento è più nascosto e maturo: non voleva allontanarla, ma si era resa conto di essere diventata dipendente in modo pericoloso. Prima di ogni colpo di spada, doveva accertarsi della sicurezza della sorella minore. Si rifiutava di trasformare la vita di un'altra persona in uno stabilizzatore per il proprio stato mentale. Il vero tema: "Non è che non mi piaci. È che devo prima imparare a vivere senza dipendere da te.". II. Ancoraggi dell'identità dei personaggi Personaggio A | Sorella Maggiore Immortale della Spada | @Image 1 Vincolato alla stessa donna dell'Asia orientale di 25–30 anni: viso ovale e chiaro, occhi a mandorla scuri, lunghi capelli neri semi-raccolti con una forcina di giada bianca. Alta e slanciata, stesso Hanfu in seta ricamata bianca, maniche larghe a strati traslucidi, fascia in argento, ciondolo di giada, stivali di stoffa bianca. Una singola spada lunga d'argento. Stato: Non evita mai i fatti, non si affretta a difendersi, nessuna spiegazione banale, linguaggio minimo ma preciso. Non fredda, ma estremamente composta. Intensità emotiva nascosta in frasi brevi. Percorso emotivo: Ammette che l'ordine è reale -> Sopporta l'incomprensione -> Rivela la vera ragione -> Ammette la dipendenza e la paura -> Torna a guardare avanti. Personaggio B | Sorella Minore | @Image 2 Vincolata alla stessa donna dell'Asia orientale di 20–25 anni: viso rotondo, capelli neri intrecciati, corporatura minuta. Stesso Hanfu in lino verde ciano, cintura scura, forcina di legno, scarpe di stoffa nera. Una singola spada in acciaio scuro. Stato: Ferita ma dignitosa, niente capricci, solo domande brevi e dolorose. Abbastanza intelligente da cogliere il significato profondo. L'azione finale è fare un passo avanti superando la sorella maggiore. Percorso emotivo: Scioccata -> Ferita -> Incuriosita -> Stordita -> Comprensiva -> Risposta matura. Stratega nemico: Catturato, in ginocchio nelle vicinanze. Lancia prove fisiche per creare incomprensioni. Si rende conto che le prove rivelano un legame più profondo. Non ha bisogno di urlare, solo di una consegna sicura e di perdere il controllo quando avviene il ribaltamento. Maestra e due discepoli: Testimoni secondari. La maestra rappresenta le regole/il vecchio sistema, i discepoli rappresentano l'interpretazione errata degli astanti. III. DNA dell'ambiente Ambiente unificato dalle immagini di riferimento: terreno reale, linguaggio architettonico, scala spaziale, materiali, vegetazione, acqua, nebbia montana, nuvole, direzione della luce principale, relazioni di riflessione, colore generale, profondità dell'aria, percorsi di movimento reali. Principi ambientali: Lo sfondo deve essere vivo (acqua che scorre, vento, nebbia in movimento, piante che ondeggiano, capelli/vestiti che reagiscono al vento). L'ambiente deve rimanere narrativamente neutro. IV. Struttura a 3 inquadrature da 15 secondi Inquadratura 1 | 0–5s | Campo lungo/Totale | L'ordine arriva. Spazio unificato, nemico in ginocchio, sorella maggiore e sorella minore in una chiara relazione visiva. Il nemico lancia l'ordine: "Tre anni fa, ha richiesto personalmente il tuo trasferimento." Breve pausa. La sorella minore chiede: "Davvero?" Sorella maggiore: "Davvero." Obiettivo: Stabilire il tradimento. Inquadratura 2 | 5–10s | Piano medio/Cowboy shot | La verità emerge. Stessi personaggi, stesso spazio. Sorella minore: "Mi trovavi d'intralcio?" Sorella maggiore: "No. Allora, ogni volta che colpivo con la mia spada, guardavo prima te." Primo ribaltamento. Il sorriso del nemico svanisce. Sorella maggiore: "Mi sono resa conto che ciò che temevo non era perdere." Obiettivo: Il pubblico capisce che il trasferimento non era abbandono ma estrema importanza. Inquadratura 3 | 10–15s | Primo piano/Primissimo piano | Chiarire la dipendenza. Sorella minore: "Di cosa avevi paura?" Sorella maggiore: "Paura che tu non riuscissi a stare al passo. Così ho imparato a vivere senza dipendere da te." Sorella minore: "E poi?" Sorella maggiore: "Poi ho scoperto che non avevi affatto bisogno che io mi voltassi a guardarti." Azione finale: La sorella minore fa un passo avanti, posizionandosi davanti alla sorella maggiore: "Allora non voltarti ora." La sorella maggiore guarda avanti: "Va bene." V. Regole di recitazione (Contenimento, niente melodramma, sottotesto specifico). VI. Principi di cinematografia (3 inquadrature, stabili, qualità Arri Alexa). VII. Sound design (Dialoghi in mandarino, effetti sonori per carta/vestiti/spade, pause ritmiche). VIII. Vincoli di continuità (Identità, abbigliamento, oggetti di scena, illuminazione, ambiente). IX. Specifiche di output (15s, 16:9, audio sincronizzato). X. Prompt negativo: sfocato, scarsa qualità, bassa qualità, bassa risoluzione, rumoroso, artefatti jpeg, filigrana, testo, sottotitoli, errore; deformato, mutato, anatomia errata, mani disegnate male, composizione scadente, fuori campo, sfigurato; personaggio incoerente, vestiti che cambiano, volto che si trasforma, cambio di acconciatura, spostamento dello sfondo, oggetti che scompaiono, tagli glitch; pianto melodrammatico, confessione urlata, cliché di riunione con abbraccio, dialoghi troppo esplicativi, monologo sentimentale, tropo del perdono improvviso, cattivo che diventa il centro emotivo, ambiente che reagisce ai dialoghi, raffica di vento drammatica, raggio di sole simbolico, acqua ghiacciata, nebbia ghiacciata, persone distanti congelate, cambiamenti architettonici casuali, elementi moderni, aspetto anime, CG simile a un gioco, HDR eccessivo
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096800711350882304/img/cs9NAfmaMZann0-R.jpg" width="600" alt="Script per film di arti marziali Xianxia cinese">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10449)**
-
-**Autore:** [Soran](https://x.com/Soranlan) | **Fonte:** [Link](https://x.com/Soranlan/status/2096800771321081920) | **Pubblicato:** Sep 7, 2026
-
----
-### Animazione stop-motion di una figura di pietra
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt stravagante ma fotorealistico per un'animazione stop-motion che vede una figura di pietra prendere vita sulla riva del mare.
-
-#### 📝 Prompt
-
-```
-Crea un'animazione stop-motion cinematografica verticale 9:16 di 21 secondi. Una minuscola figura umanoide composta interamente da pietre levigate naturali da spiaggia prende vita in una pozza di marea poco profonda su una costa rocciosa. Ogni parte del corpo è costruita con singole pietre: una grande pietra ovale per la testa, pietre arrotondate impilate per il busto, pietre più piccole che formano braccia e gambe.
-
-La scena è ripresa attraverso una recinzione a maglie leggermente fuori fuoco, creando una cornice naturale in primo piano. Dietro il personaggio si trova una riva calma, acqua di mare bassa, rocce ricoperte di cirripedi, alghe e una foresta dolcemente sfocata sotto un cielo coperto. Texture fotorealistiche, colori naturali tenui, profondità di campo ridotta, riflessi realistici sull'acqua.
-
-Animazione: la figura di pietra si bilancia lentamente e inizia a muoversi come un piccolo essere umano giocoso. Sposta il peso, solleva una gamba, piega le ginocchia, fa oscillare le braccia di pietra ed esegue un piccolo ballo stravagante mantenendo con cura l'equilibrio sulla superficie bagnata. Piccole increspature si formano sotto ogni passo e il suo riflesso si muove naturalmente nell'acqua. I movimenti devono trasmettere l'idea di una stop-motion artigianale, leggermente imperfetta ma credibile, con una fisica e un peso delle pietre realistici.
-
-Verso gli ultimi secondi, la figura perde l'equilibrio, inciampa e crolla naturalmente, con le singole pietre che si separano e rotolano sul terreno bagnato. Il personaggio si smonta completamente tornando a essere pietre comuni. Concludi con la telecamera fissa sulle pietre sparse e i loro riflessi.
-
-Telecamera: composizione verticale in stile smartphone, movimento naturale e sottile della telecamera, inquadratura medio-lunga, angolazione bassa vicino al livello dell'acqua, forte bokeh in primo piano dato dalla recinzione, profondità di campo cinematografica.
-
-Illuminazione: luce diurna soffusa e diffusa, atmosfera costiera nuvolosa, riflessi realistici e riflessi sulle pietre bagnate.
-
-Stile: ambiente live-action ultra-realistico + personaggio in stop-motion di pietra fotorealistico e stravagante, texture tattili della pietra, movimento fisicamente credibile, fotografia macro cinematografica, nessuna superficie dall'aspetto CGI, niente testo, niente esseri umani.
-
-Prompt negativo: cartone animato, pietre dall'aspetto plastico, tratti del viso esagerati, personaggio CGI liscio, oggetti fluttuanti, fisica irrealistica, arti extra, ambiente mutevole, tagli di telecamera, testo, filigrana, colori sovrasaturati.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096791751994609664/img/vtRtf7pbhXreFq2a.jpg" width="600" alt="Animazione stop-motion di una figura di pietra">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10441)**
-
-**Autore:** [Marcos](https://x.com/arsalannazir07) | **Fonte:** [Link](https://x.com/arsalannazir07/status/2096791786807275583) | **Pubblicato:** Sep 7, 2026
-
----
-### Prompt per Vlog di Bellezza: Skincare
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt dettagliato per la generazione di un video di 15 secondi in stile beauty vlog, con una protagonista giapponese coerente che esegue la sua routine di cura della pelle in bagno.
-
-#### 📝 Prompt
-
-```
-Crea un beauty vlog ultra-realistico di 15 secondi in formato 9:16 con la stessa giovane donna protagonista. Il suo viso, l'acconciatura, il tono della pelle, l'abbigliamento e l'identità devono essere perfettamente coerenti.
-
-Scena: Un bagno moderno, luminoso e pulito con un grande specchio, un'illuminazione calda e soffusa, decorazioni minimali e piccole piante verdi. Stile vlog/smartphone naturale ripreso a mano.
-
-0:00–0:03: Una ragazza tiene uno smartphone in una mano e si scatta un selfie allo specchio. Sorride mentre presenta il detergente viso Himalaya Purifying Neem Face Wash, tenendo il tubetto chiaramente rivolto verso la fotocamera.
-Testo a schermo: "La mia skincare mattutina"
-
-0:03–0:05: Primo piano del detergente viso. Lo apre e ne versa una piccola quantità sul palmo della mano. Mostra una texture realistica simile a un gel.
-Testo a schermo: "Neem + Curcuma"
-
-0:05–0:09: Applica delicatamente il detergente sulle guance e sulla fronte, massaggiando in modo naturale. Poi si sciacqua il viso al lavandino, mostrando il movimento realistico dell'acqua.
-
-0:09–0:12: Si guarda allo specchio con la pelle fresca e pulita, si tocca la guancia e sorride.
-Testo a schermo: "Fresca e pulita"
-
-0:12–0:15: Tiene il prodotto vicino al viso, fa un pollice in su in modo carino e conclude con un'inquadratura pulita del prodotto accanto a una piccola pianta e a un asciugamano sul piano del bagno.
-Testo a schermo: "Il mio consiglio di skincare"
-
-Stile: Fotorealistico, texture della pelle naturale, capelli e mani realistici, riprese autentiche da smartphone, leggero movimento a mano, illuminazione cinematografica soffusa, riflessi realistici, 4K, non simile a CGI, nessun viso o confezione del prodotto distorta.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096774938086752256/img/RWxor4jrYgc8pbWt.jpg" width="600" alt="Prompt per Vlog di Bellezza: Skincare">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10452)**
-
-**Autore:** [Mr.できる君](https://x.com/dek1rukun) | **Fonte:** [Link](https://x.com/dek1rukun/status/2096774979400695861) | **Pubblicato:** Sep 7, 2026
-
----
 ---
 
 ## 📚 Altri prompt disponibili
@@ -5508,6 +5476,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-09-19T03:40:10.198Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-09-20T03:53:25.395Z</sub>
 
 </div>

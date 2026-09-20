@@ -68,9 +68,9 @@ Una colección curada de prompts de generación de video de alta calidad para Se
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **6400** |
+| 📝 Total de prompts | **6403** |
 | ⭐ Prompts destacados | **6** |
-| 🔄 Última actualización | **2026-09-19** |
+| 🔄 Última actualización | **2026-09-20** |
 
 ---
 
@@ -361,6 +361,63 @@ Ultra realista, energía inspirada en Fast and Furious, iluminación fotorrealis
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Prompt de Video: Guerrero Oscuro en la Tormenta sobre el Tejado
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt para generar una escena de acción cinematográfica de un guerrero con armadura en un tejado lluvioso, con iluminación dramática y efectos de agua.
+
+#### 📝 Prompt
+
+```
+Escena cinematográfica ultra realista de un misterioso guerrero oscuro con una armadura negra fluida, de pie sobre un tejado mojado durante una tormenta. Pose dinámica y poderosa, salpicaduras de agua dramáticas a su alrededor, cielo nublado y oscuro, iluminación atmosférica intensa, gotas de agua volando y movimiento, horizonte de ciudad futurista al fondo, composición dramática estilo película de acción, texturas realistas de tela y armadura, iluminación volumétrica, profundidad de campo reducida, alto detalle, HDR, 8K, fotorrealista, corrección de color cinematográfica, composición vertical 9:16.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101169609365921792/img/-IstuS_VdtsgYbeM.jpg" width="600" alt="Prompt de Video: Guerrero Oscuro en la Tormenta sobre el Tejado">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=11012)**
+
+**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Fuente:** [Link](https://x.com/AIwithMinal/status/2101169774076231947) | **Publicado:** Sep 19, 2026
+
+---
+### Prompt de Video Cinematográfico para Rutina de Cuidado de la Piel
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt para generar un anuncio fotorealista de cuidado de la piel que presenta a una joven en una habitación luminosa, enfocándose en la textura y la iluminación.
+
+#### 📝 Prompt
+
+```
+Crea un video fotorealista de 15 segundos sobre el cuidado de la piel, protagonizado por una joven coreana en una habitación blanca, brillante y elegante. Comienza con un primerísimo plano de su rostro natural mientras toca suavemente su mejilla con la punta del dedo, mostrando una textura de piel realista y luz diurna suave. Luego, muestra un frasco transparente de producto de cuidado de la piel colocado sobre una mesa de mármol blanco mientras su mano se acerca lentamente hacia él. Continúa con ella aplicando el producto suavemente en su rostro con ambas manos, manteniendo sus rasgos faciales y apariencia consistentes. Muestra cómo cierra los ojos con serenidad mientras masajea suavemente ambas mejillas con las yemas de los dedos. Termina con una toma más amplia de ella vistiendo un sencillo vestido blanco, de pie junto a una gran ventana, mientras las cortinas blancas translúcidas se mueven naturalmente con la luz del sol. Mantén los movimientos fluidos y realistas, con manos naturales, piel realista, iluminación cinematográfica suave, una atmósfera limpia y lujosa, movimiento de cámara delicado y sin distorsiones ni detalles artificiales.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101138351013416960/img/ZHT5-dQIrBB1HX68.jpg" width="600" alt="Prompt de Video Cinematográfico para Rutina de Cuidado de la Piel">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=11011)**
+
+**Autor:** [Maha](https://x.com/Aiwithmaha) | **Fuente:** [Link](https://x.com/Aiwithmaha/status/2101138386132386252) | **Publicado:** Sep 19, 2026
+
+---
+### Prompt de Video: Mujer en Paisaje Helado
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt para generar una escena cinematográfica de una mujer en un paisaje nevado con viento y partículas de nieve.
+
+#### 📝 Prompt
+
+```
+Escena cinematográfica ultra realista de una joven mujer de pie sola en un vasto paisaje helado y nevado, vistiendo un abrigo oscuro resistente a la intemperie, el viento soplando entre su cabello, expresión agotada pero decidida, fuerte tormenta de nieve, nubes de tormenta oscuras y dramáticas, montañas cubiertas de nieve al fondo, atmósfera azul fría, partículas de nieve realistas, textura natural de la piel, narrativa emocional, iluminación dramática, profundidad de campo reducida, graduación de color cinematográfica, altamente detallado, fotorrealista, 8K, HDR, fotograma profesional de película, lente de 85mm, composición vertical 9:16.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100821852797227008/img/ccGPsPHV1WCfCErM.jpg" width="600" alt="Prompt de Video: Mujer en Paisaje Helado">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=11013)**
+
+**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Fuente:** [Link](https://x.com/AIwithMinal/status/2100822353446060246) | **Publicado:** Sep 18, 2026
+
+---
 ### Comercial de Perfume de Lujo Bleu de Chanel
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -509,7 +566,7 @@ Una hermosa chica coreana vestida con un suave vestido blanco de verano y un som
 
 **[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=10951)**
 
-**Autor:** [Ayat](https://x.com/aiwithaayat) | **Fuente:** [Link](https://x.com/aiwithaayat/status/2100423982898115050) | **Publicado:** Sep 17, 2026
+**Autor:** [Sahil Verma](https://x.com/sahilvermaai) | **Fuente:** [Link](https://x.com/sahilvermaai/status/2100423982898115050) | **Publicado:** Sep 17, 2026
 
 ---
 ### Prompt de Batalla de Dragones para Seedance 2.0
@@ -5385,95 +5442,6 @@ Animación cinemática 2.5D con un estilo de renderizado totalmente pictórico; 
 **Autor:** [PixieVerse](https://x.com/itsPixieVerse) | **Fuente:** [Link](https://x.com/itsPixieVerse/status/2096801780697030939) | **Publicado:** Sep 7, 2026
 
 ---
-### Guion de película de artes marciales Xianxia
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un guion cinematográfico profesional para un cortometraje Xianxia titulado 'Don't Look Back', centrado en la tensión emocional y la coherencia de los personajes entre una maestra y su discípula.
-
-#### 📝 Prompt
-
-```
-Cortometraje Xianxia de 15 segundos | "Don't Look Back" I. Posicionamiento central Generar un cortometraje de cine Xianxia chino completo y continuo de 15 segundos. Estilo general: Textura cinematográfica realista, estética pura de Xianxia chino antiguo, tensión psicológica madura, poder emocional contenido pero agudo, impulsado por el subtexto en lugar de diálogos explicativos, diálogos cortos al estilo de un guionista profesional, bloqueo de personajes de artes marciales elegante, calidad de película Arri Alexa, microdetalles faciales estables y nítidos, grano de película delicado, luz volumétrica natural. Este giro se centra en: la dependencia emocional malinterpretada como aversión. La percepción de primer nivel debe sostenerse: el enemigo presenta una orden de traslado de hace tres años, lo que demuestra que la hermana mayor solicitó personalmente que la hermana menor fuera trasladada lejos de ella. Todos, incluida la hermana menor, lo entienden naturalmente como que la hermana mayor la considera un estorbo o una carga. El verdadero giro es más oculto y maduro: ella no quería deshacerse de ella, sino que se dio cuenta de que se había vuelto dependiente hasta un grado peligroso. Antes de cada golpe de espada, tenía que confirmar la seguridad de la hermana menor. Se negó a convertir la vida de otra persona en un estabilizador para su propio estado mental. El tema real: "No es que me desagrades. Es que primero debo aprender a vivir sin depender de ti". II. Anclajes de identidad de los personajes Personaje A | Hermana mayor, Inmortal de la espada | @Image 1 Bloqueado en la misma mujer de Asia Oriental de 25 a 30 años: rostro ovalado y claro, ojos almendrados oscuros, cabello negro largo medio recogido con una horquilla de jade blanco. Alta y esbelta, el mismo Hanfu de seda bordado blanco, mangas anchas translúcidas en capas, cinturón plateado, colgante de jade, botas de tela blanca. Una sola espada larga plateada. Estado: Nunca evita los hechos, no se apresura a defenderse, sin explicaciones baratas, habla mínima pero precisa. No es fría, sino extremadamente contenida. Intensidad emocional oculta en frases cortas. Trayectoria emocional: Admite que la orden es real -> Soporta el malentendido -> Dice la verdadera razón -> Admite dependencia y miedo -> Vuelve la mirada hacia adelante. Personaje B | Hermana menor | @Image 2 Bloqueado en la misma mujer de Asia Oriental de 20 a 25 años: rostro redondeado, cabello trenzado negro, complexión pequeña. El mismo Hanfu de lino verde cian, cinturón oscuro, horquilla de madera, zapatos de tela negra. Una sola espada de acero oscuro. Estado: Herida pero digna, sin rabietas, solo preguntas cortas y dolorosas. Lo suficientemente inteligente como para escuchar el significado más profundo. La acción final es dar un paso adelante pasando a la hermana mayor. Trayectoria emocional: Conmocionada -> Herida -> Indagando -> Atónita -> Comprendiendo -> Respuesta madura. Estratega enemigo: Capturado, arrodillado cerca. Lanza evidencia física para crear un malentendido. Se da cuenta de que la evidencia revela un vínculo más profundo. No necesita gritar, solo una entrega segura y pérdida de control a medida que ocurre el giro. Maestra y dos discípulos: Testigos menores. La maestra representa las reglas/sistema antiguo, los discípulos representan la mala interpretación de los espectadores. III. ADN del entorno Entorno unificado a partir de imágenes de referencia: terreno real, lenguaje arquitectónico, escala espacial, materiales, vegetación, agua, niebla de montaña, nubes, dirección de la luz principal, relaciones de reflexión, color general, profundidad del aire, rutas de movimiento reales. Principios del entorno: El fondo debe estar vivo (agua que fluye, viento, niebla en movimiento, plantas que se balancean, cabello/ropa respondiendo al viento). El entorno debe permanecer narrativamente neutral. IV. Estructura de 3 tomas de 15 segundos Toma 1 | 0–5s | Plano general/largo | La orden aterriza. Espacio unificado, enemigo arrodillado, hermana mayor y hermana menor en una relación visual clara. El enemigo lanza la orden: "Hace tres años, ella solicitó personalmente tu traslado". Pausa corta. La hermana menor pregunta: "¿En serio?". Hermana mayor: "En serio". Objetivo: Establecer la traición. Toma 2 | 5–10s | Plano medio/americano | La verdad emerge. Mismos personajes, mismo espacio. Hermana menor: "¿Me consideraste un estorbo?". Hermana mayor: "No. En aquel entonces, cada vez que atacaba con mi espada, primero te miraba a ti". Primer giro. La sonrisa del enemigo se desvanece. Hermana mayor: "Me di cuenta de que a lo que temía no era a perder". Objetivo: El público se da cuenta de que el traslado no fue abandono sino importancia extrema. Toma 3 | 10–15s | Primer plano/Primerísimo primer plano | Aclarando la dependencia. Hermana menor: "¿A qué le tenías miedo?". Hermana mayor: "Miedo a que no pudieras seguirme el ritmo. Así que aprendí a vivir sin depender de ti". Hermana menor: "¿Y luego?". Hermana mayor: "Luego descubrí que no necesitabas que te mirara en absoluto". Acción final: La hermana menor da un paso adelante, colocándose frente a la hermana mayor: "Entonces no mires atrás ahora". La hermana mayor mira hacia adelante: "Está bien". V. Reglas de actuación (Contención, sin melodrama, subtexto específico). VI. Principios de cinematografía (3 tomas, estable, calidad Arri Alexa). VII. Diseño de sonido (Diálogo en mandarín, efectos de sala para papel/ropa/espadas, pausas rítmicas). VIII. Restricciones de continuidad (Identidad, ropa, accesorios, iluminación, entorno). IX. Especificaciones de salida (15s, 16:9, audio sincronizado). X. Prompt negativo: borroso, mala calidad, baja calidad, baja resolución, ruidoso, artefactos jpeg, marca de agua, texto, subtítulos, error; deformado, mutado, mala anatomía, manos mal dibujadas, mala composición, fuera de cuadro, desfigurado; personaje inconsistente, cambio de ropa, transformación facial, cambio de peinado, cambio de fondo, accesorios que desaparecen, cortes con fallos; llanto melodramático, confesión a gritos, cliché de reencuentro con abrazo, diálogo sobreexplicado, monólogo sentimental, tropo de perdón repentino, villano convirtiéndose en el centro emocional, entorno reaccionando al diálogo, ráfaga de viento dramática, ráfaga de luz solar simbólica, agua congelada, niebla congelada, personas distantes congeladas, cambios arquitectónicos aleatorios, elementos modernos, aspecto de anime, CG tipo juego, HDR excesivo
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096800711350882304/img/cs9NAfmaMZann0-R.jpg" width="600" alt="Guion de película de artes marciales Xianxia">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=10449)**
-
-**Autor:** [Soran](https://x.com/Soranlan) | **Fuente:** [Link](https://x.com/Soranlan/status/2096800771321081920) | **Publicado:** Sep 7, 2026
-
----
-### Animación stop-motion de figura de piedra
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt caprichoso pero fotorrealista para una animación stop-motion que presenta a una figura de piedra cobrando vida en la orilla del mar.
-
-#### 📝 Prompt
-
-```
-Crea una animación cinematográfica stop-motion vertical de 21 segundos en formato 9:16. Una pequeña figura humanoide hecha completamente de piedras de playa lisas y de forma natural cobra vida en una poza de marea poco profunda en una costa rocosa. Cada parte del cuerpo está construida con piedras individuales: una piedra ovalada grande como cabeza, piedras redondeadas apiladas para el torso y piedras más pequeñas formando los brazos y las piernas.
-
-La escena está filmada a través de una cerca de malla ligeramente desenfocada, creando un marco natural en primer plano. Detrás del personaje se encuentra una orilla tranquila, agua de mar poco profunda, rocas cubiertas de percebes, algas y un bosque suavemente borroso bajo un cielo nublado. Texturas fotorrealistas, colores naturales apagados, poca profundidad de campo, reflejos realistas en el agua.
-
-Animación: La figura de piedra se equilibra lentamente y comienza a moverse como un pequeño humano juguetón. Cambia su peso, levanta una pierna, dobla las rodillas, balancea sus brazos de piedra y realiza un baile peculiar mientras mantiene cuidadosamente el equilibrio sobre la superficie mojada. Se forman pequeñas ondas bajo cada paso y su reflejo se mueve naturalmente en el agua. Los movimientos deben sentirse como un stop-motion hecho a mano, ligeramente imperfectos pero creíbles, con física y peso de piedra realistas.
-
-Hacia los segundos finales, la figura pierde el equilibrio, tropieza y se desploma naturalmente, con las piedras individuales separándose y cayendo sobre el suelo húmedo y poco profundo. El personaje se desarma por completo convirtiéndose en piedras comunes. Termina con la cámara enfocada en las piedras dispersas y sus reflejos.
-
-Cámara: composición vertical estilo smartphone con cámara fija, sutil movimiento natural de cámara, plano medio-largo, ángulo bajo cerca del nivel del agua, fuerte efecto bokeh en primer plano por la cerca, profundidad de campo cinematográfica.
-
-Iluminación: luz diurna suave y difusa, atmósfera costera nublada, reflejos realistas y brillos en las piedras mojadas.
-
-Estilo: entorno de acción real ultrarrealista + personaje de piedra stop-motion fotorrealista y caprichoso, texturas de piedra táctiles, movimiento físicamente creíble, fotografía macro cinematográfica, sin superficies que parezcan CGI, sin texto, sin humanos.
-
-Prompt negativo: caricatura, piedras que parecen de plástico, rasgos faciales exagerados, personaje CGI suave, objetos flotantes, física poco realista, extremidades adicionales, entorno cambiante, cortes de cámara, texto, marca de agua, colores sobresaturados.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096791751994609664/img/vtRtf7pbhXreFq2a.jpg" width="600" alt="Animación stop-motion de figura de piedra">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=10441)**
-
-**Autor:** [Marcos](https://x.com/arsalannazir07) | **Fuente:** [Link](https://x.com/arsalannazir07/status/2096791786807275583) | **Publicado:** Sep 7, 2026
-
----
-### Prompt para vlog de belleza sobre cuidado de la piel
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt detallado de generación de video para crear un vlog de belleza de 15 segundos que presenta a una mujer japonesa consistente realizando una rutina de cuidado de la piel en un baño.
-
-#### 📝 Prompt
-
-```
-Crea un vlog de belleza ultrarrealista de 15 segundos en formato 9:16 que presente a la misma mujer joven de manera consistente. Su rostro, peinado, tono de piel, vestimenta e identidad deben ser perfectamente consistentes.
-
-Escena: Un baño moderno, brillante y limpio con un espejo grande, iluminación cálida y suave, decoración minimalista y pequeñas plantas verdes. Estilo de vlog/smartphone natural grabado a mano.
-
-0:00–0:03: Una chica sostiene un smartphone en una mano y se toma una selfie en el espejo. Ella sonríe mientras presenta el limpiador facial Himalaya Purifying Neem Face Wash, sosteniendo el tubo claramente hacia la cámara.
-Texto en pantalla: "Mi rutina de cuidado de la piel por la mañana"
-
-0:03–0:05: Primer plano del limpiador facial. Ella lo abre y exprime una pequeña cantidad en la palma de su mano. Muestra una textura realista similar a un gel.
-Texto en pantalla: "Neem + Cúrcuma"
-
-0:05–0:09: Ella aplica suavemente el limpiador facial en sus mejillas y frente, masajeando de forma natural. Luego, se enjuaga la cara en el lavabo, mostrando un movimiento de agua realista.
-
-0:09–0:12: Ella se mira en el espejo con la piel fresca y limpia, se toca la mejilla y sonríe.
-Texto en pantalla: "Fresco y limpio"
-
-0:12–0:15: Ella sostiene el producto junto a su rostro, hace un gesto de pulgar arriba y termina con una toma limpia del producto junto a una pequeña planta y una toalla en el mostrador del baño.
-Texto en pantalla: "Mi recomendación para el cuidado de la piel"
-
-Estilo: Fotorrealista, textura de piel natural, cabello y manos realistas, metraje auténtico de smartphone, movimiento sutil de cámara en mano, iluminación cinematográfica suave, reflejos realistas, 4K, sin apariencia de CGI, sin rostros ni empaques de producto distorsionados.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096774938086752256/img/RWxor4jrYgc8pbWt.jpg" width="600" alt="Prompt para vlog de belleza sobre cuidado de la piel">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=10452)**
-
-**Autor:** [Mr.できる君](https://x.com/dek1rukun) | **Fuente:** [Link](https://x.com/dek1rukun/status/2096774979400695861) | **Publicado:** Sep 7, 2026
-
----
 ---
 
 ## 📚 Más prompts disponibles
@@ -5535,6 +5503,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-09-19T03:40:06.368Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-09-20T03:53:21.198Z</sub>
 
 </div>

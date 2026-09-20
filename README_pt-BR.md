@@ -68,9 +68,9 @@ Por que usar nossa galeria?
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **6400** |
+| 📝 Total de prompts | **6403** |
 | ⭐ Prompts em destaque | **6** |
-| 🔄 Última atualização | **2026-09-19** |
+| 🔄 Última atualização | **2026-09-20** |
 
 ---
 
@@ -361,6 +361,63 @@ Ultra realista, energia inspirada em Velozes e Furiosos, iluminação fotorreali
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Prompt de Vídeo: Guerreiro das Trevas na Tempestade no Telhado
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt para gerar uma cena de ação cinematográfica de um guerreiro blindado em um telhado chuvoso, com iluminação dramática e efeitos de água.
+
+#### 📝 Prompt
+
+```
+Cena cinematográfica ultra-realista de um misterioso guerreiro das trevas vestindo armadura negra fluida, parado em um telhado molhado durante uma tempestade. Pose dinâmica poderosa, água respingando dramaticamente ao seu redor, céu escuro e nublado, iluminação atmosférica intensa, gotas de água voando e movimento, horizonte de cidade futurista ao fundo, composição dramática estilo filme de ação, texturas realistas de tecido e armadura, iluminação volumétrica, profundidade de campo rasa, alta definição, HDR, 8K, fotorrealista, color grading cinematográfico, composição vertical 9:16.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101169609365921792/img/-IstuS_VdtsgYbeM.jpg" width="600" alt="Prompt de Vídeo: Guerreiro das Trevas na Tempestade no Telhado">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=11012)**
+
+**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Fonte:** [Link](https://x.com/AIwithMinal/status/2101169774076231947) | **Publicado:** Sep 19, 2026
+
+---
+### Prompt de Vídeo Cinematográfico de Rotina de Skincare
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt para gerar um anúncio fotorealista de skincare com uma jovem em um ambiente iluminado, focando em textura e iluminação.
+
+#### 📝 Prompt
+
+```
+Crie um vídeo fotorealista de skincare de 15 segundos apresentando uma jovem coreana em um quarto branco, elegante e bem iluminado. Comece com um close extremo do rosto natural dela enquanto ela toca suavemente a bochecha com a ponta dos dedos, mostrando a textura realista da pele e a luz suave do dia. Em seguida, mostre um frasco transparente de skincare sobre uma mesa de mármore branco enquanto sua mão se aproxima lentamente dele. Continue com ela aplicando o produto delicadamente no rosto usando as duas mãos, mantendo suas características faciais e aparência consistentes. Mostre-a fechando os olhos pacificamente enquanto massageia suavemente as duas bochechas com as pontas dos dedos. Termine com um plano mais aberto dela vestindo um simples vestido branco, parada ao lado de uma grande janela, enquanto cortinas brancas translúcidas se movem naturalmente sob a luz do sol. Mantenha os movimentos suaves e realistas, com mãos naturais, pele realista, iluminação cinematográfica suave, atmosfera luxuosa e limpa, movimento de câmera gentil e sem distorções ou detalhes artificiais.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101138351013416960/img/ZHT5-dQIrBB1HX68.jpg" width="600" alt="Prompt de Vídeo Cinematográfico de Rotina de Skincare">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=11011)**
+
+**Autor:** [Maha](https://x.com/Aiwithmaha) | **Fonte:** [Link](https://x.com/Aiwithmaha/status/2101138386132386252) | **Publicado:** Sep 19, 2026
+
+---
+### Prompt de Vídeo: Mulher em Paisagem Congelada
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt para gerar uma cena cinematográfica de uma mulher em uma paisagem nevada com vento e partículas de neve.
+
+#### 📝 Prompt
+
+```
+Cena cinematográfica ultrarrealista de uma jovem mulher sozinha em uma vasta paisagem congelada e nevada, vestindo um casaco escuro à prova de intempéries, o vento soprando seus cabelos, expressão exausta mas determinada, forte nevasca, nuvens de tempestade escuras e dramáticas, montanhas cobertas de neve ao fundo, atmosfera fria e azulada, partículas realistas de neve, textura natural da pele, narrativa emocional, iluminação dramática, profundidade de campo rasa, color grading cinematográfico, altamente detalhado, fotorrealista, 8K, HDR, still profissional de filme, lente 85mm, composição vertical 9:16.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100821852797227008/img/ccGPsPHV1WCfCErM.jpg" width="600" alt="Prompt de Vídeo: Mulher em Paisagem Congelada">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=11013)**
+
+**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Fonte:** [Link](https://x.com/AIwithMinal/status/2100822353446060246) | **Publicado:** Sep 18, 2026
+
+---
 ### Comercial de Perfume de Luxo Bleu de Chanel
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -509,7 +566,7 @@ Uma linda garota coreana vestindo um vestido de verão branco suave e um chapéu
 
 **[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=10951)**
 
-**Autor:** [Ayat](https://x.com/aiwithaayat) | **Fonte:** [Link](https://x.com/aiwithaayat/status/2100423982898115050) | **Publicado:** Sep 17, 2026
+**Autor:** [Sahil Verma](https://x.com/sahilvermaai) | **Fonte:** [Link](https://x.com/sahilvermaai/status/2100423982898115050) | **Publicado:** Sep 17, 2026
 
 ---
 ### Prompt de Batalha de Dragão Seedance 2.0
@@ -5322,95 +5379,6 @@ Animação cinematográfica 2.5D no estilo de renderização totalmente pictóri
 **Autor:** [PixieVerse](https://x.com/itsPixieVerse) | **Fonte:** [Link](https://x.com/itsPixieVerse/status/2096801780697030939) | **Publicado:** Sep 7, 2026
 
 ---
-### Roteiro de Filme de Artes Marciais Xianxia Chinês
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Um roteiro cinematográfico profissional para um curta-metragem Xianxia intitulado 'Não Olhe Para Trás', focando na tensão emocional e na consistência dos personagens entre uma mestra e sua discípula.
-
-#### 📝 Prompt
-
-```
-Curta-metragem Xianxia de 15 segundos | "Não Olhe Para Trás" I. Posicionamento Central Gere um curta-metragem chinês de Xianxia completo e contínuo de 15 segundos. Estilo Geral: Textura cinematográfica realista, estética pura de Xianxia chinês antigo, tensão psicológica madura, poder emocional contido, porém afiado, impulsionado pelo subtexto em vez de diálogos explicativos, diálogos curtos no estilo de roteirista profissional, bloqueio de personagem de artes marciais elegante, qualidade de filme Arri Alexa, microdetalhes faciais estáveis e nítidos, granulação de filme delicada, luz volumétrica natural. Esta reviravolta centra-se em: dependência emocional mal interpretada como aversão. A percepção de primeira camada deve sustentar: o inimigo traz uma ordem de transferência de três anos atrás, provando que a irmã mais velha solicitou pessoalmente que a irmã mais nova fosse transferida para longe dela. Todos, incluindo a irmã mais nova, entendem naturalmente como se a irmã mais velha a considerasse um estorvo ou um fardo. A verdadeira reviravolta é mais oculta e madura: ela não queria descartá-la, mas percebeu que havia se tornado dependente em um grau perigoso. Antes de cada golpe de espada, ela tinha que confirmar a segurança da irmã mais nova. Ela se recusou a transformar a vida de outra pessoa em um estabilizador para seu próprio estado de espírito. O tema verdadeiro: "Não é que eu não goste de você. É que primeiro preciso aprender a viver sem depender de você." II. Âncoras de Identidade dos Personagens Personagem A | Irmã Mais Velha Imortal da Espada | @Image 1 Travada na mesma mulher do Leste Asiático de 25 a 30 anos: rosto oval claro, olhos amendoados escuros, cabelos longos pretos meio presos com grampo de jade branco. Alta e esguia, mesma Hanfu de seda branca bordada, mangas largas em camadas translúcidas, faixa prateada na cintura, pingente de jade, botas de tecido branco. Uma única espada longa prateada. Status: Nunca evita fatos, não se apressa em se defender, sem explicações baratas, fala mínima, porém precisa. Não é fria, mas extremamente contida. Intensidade emocional escondida em frases curtas. Caminho emocional: Admite que a ordem é real -> Suporta o mal-entendido -> Conta a verdadeira razão -> Admite dependência e medo -> Volta o olhar para frente. Personagem B | Irmã Mais Nova | @Image 2 Travada na mesma mulher do Leste Asiático de 20 a 25 anos: rosto arredondado, cabelos pretos trançados, porte pequeno. Mesma Hanfu de linho verde-azulado, cinto escuro, grampo de madeira, sapatos de tecido preto. Uma única espada de aço escuro. Status: Magoada, mas digna, sem birras, apenas perguntas curtas e dolorosas. Inteligente o suficiente para ouvir o significado mais profundo. A ação final é dar um passo à frente, passando pela irmã mais velha. Caminho emocional: Chocada -> Magoada -> Questionadora -> Atordoada -> Compreensiva -> Resposta madura. Estrategista Inimigo: Capturado, ajoelhado por perto. Joga evidências físicas para criar mal-entendido. Percebe que a evidência revela um vínculo mais profundo. Não precisa gritar, apenas entrega confiante e perda de controle conforme a reviravolta acontece. Mestra e duas discípulas: Testemunhas secundárias. A mestra representa as regras/sistema antigo, as discípulas representam a má interpretação dos espectadores. III. DNA do Ambiente Ambiente unificado a partir de imagens de referência: terreno real, linguagem arquitetônica, escala espacial, materiais, vegetação, água, névoa da montanha, nuvens, direção principal da luz, relações de reflexo, cor geral, profundidade do ar, caminhos de movimento reais. Princípios do Ambiente: O fundo deve estar vivo (água corrente, vento, névoa em movimento, plantas balançando, cabelo/roupas respondendo ao vento). O ambiente deve permanecer narrativamente neutro. IV. Estrutura de 3 Cortes de 15 segundos Corte 1 | 0–5s | Plano Aberto/Longo | A Ordem Chega. Espaço unificado, inimigo ajoelhado, irmã mais velha e irmã mais nova em relação visual clara. Inimigo joga a ordem: "Três anos atrás, ela solicitou pessoalmente sua transferência." Pausa curta. Irmã mais nova pergunta: "Sério?" Irmã mais velha: "Sério." Objetivo: Estabelecer a traição. Corte 2 | 5–10s | Plano Médio | A Verdade Emerge. Mesmos personagens, mesmo espaço. Irmã mais nova: "Você me achava um estorvo?" Irmã mais velha: "Não. Naquela época, toda vez que eu golpeava com minha espada, eu olhava para você primeiro." Primeira reviravolta. O sorriso do inimigo desaparece. Irmã mais velha: "Percebi que o que eu temia não era perder." Objetivo: O público percebe que a transferência não foi abandono, mas extrema importância. Corte 3 | 10–15s | Close-up/Close-up Extremo | Esclarecendo a Dependência. Irmã mais nova: "Do que você tinha medo?" Irmã mais velha: "Medo de que você não acompanhasse. Então aprendi a viver sem depender de você." Irmã mais nova: "E depois?" Irmã mais velha: "Então descobri que você não precisava que eu olhasse para trás." Ação final: Irmã mais nova dá um passo à frente, ficando na frente da irmã mais velha: "Então não olhe para trás agora." Irmã mais velha olha para frente: "Ok." V. Regras de Atuação (Contenção, sem melodrama, subtexto específico). VI. Princípios de Cinematografia (3 cortes, estável, qualidade Arri Alexa). VII. Design de Som (Diálogo em mandarim, foley para papel/roupas/espadas, pausas rítmicas). VIII. Restrições de Continuidade (Identidade, roupas, adereços, iluminação, ambiente). IX. Especificações de Saída (15s, 16:9, áudio sincronizado). X. Prompt Negativo: embaçado, má qualidade, baixa qualidade, baixa resolução, ruidoso, artefatos jpeg, marca d'água, texto, legendas, erro; deformado, mutado, anatomia ruim, mãos mal desenhadas, composição ruim, fora de enquadramento, desfigurado; personagem inconsistente, troca de roupas, transformação facial, mudança de penteado, mudança de fundo, adereços desaparecendo, cortes com falhas; choro melodramático, confissão gritada, clichê de reencontro com abraço, diálogo com excesso de explicação, monólogo sentimental, tropo de perdão repentino, vilão tornando-se o centro emocional, ambiente reagindo ao diálogo, rajada de vento dramática, rajada de luz solar simbólica, água congelada, névoa congelada, pessoas distantes congeladas, mudanças arquitetônicas aleatórias, elementos modernos, visual de anime, CG estilo jogo, HDR excessivo
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096800711350882304/img/cs9NAfmaMZann0-R.jpg" width="600" alt="Roteiro de Filme de Artes Marciais Xianxia Chinês">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=10449)**
-
-**Autor:** [Soran](https://x.com/Soranlan) | **Fonte:** [Link](https://x.com/Soranlan/status/2096800771321081920) | **Publicado:** Sep 7, 2026
-
----
-### Animação Stop-Motion de Figura de Pedra
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt fantasioso e fotorrealista para uma animação stop-motion apresentando uma figura de pedra ganhando vida na beira-mar.
-
-#### 📝 Prompt
-
-```
-Crie uma animação cinematográfica em stop-motion de 21 segundos, formato vertical 9:16. Uma pequena figura humanoide feita inteiramente de pedras de praia lisas e naturais ganha vida em uma poça de maré rasa em uma costa rochosa. Cada parte do corpo é construída a partir de pedras individuais — uma pedra oval grande como cabeça, pedras arredondadas empilhadas para o tronco, pedras menores formando braços e pernas.
-
-A cena é filmada através de uma cerca de arame levemente fora de foco, criando uma moldura natural em primeiro plano. Atrás do personagem, há uma costa calma, água do mar rasa, rochas cobertas de cracas, algas marinhas e uma floresta suavemente desfocada sob um céu nublado. Texturas fotorrealistas, cores naturais e suaves, profundidade de campo rasa, reflexos realistas na água.
-
-Animação: A figura de pedra se equilibra lentamente e começa a se mover como um pequeno humano brincalhão. Ela desloca o peso, levanta uma perna, dobra os joelhos, balança seus braços de pedra e executa uma dancinha peculiar enquanto mantém o equilíbrio cuidadosamente na superfície molhada. Pequenas ondulações se formam sob cada passo, e seu reflexo se move naturalmente na água. Os movimentos devem parecer stop-motion feito à mão, levemente imperfeitos, mas verossímeis, com física e peso de pedra realistas.
-
-Nos segundos finais, a figura perde o equilíbrio, tropeça e desmorona naturalmente, com as pedras individuais se separando e caindo no chão molhado e raso. O personagem se desmonta completamente em pedras comuns. Termine com a câmera focada nas pedras espalhadas e seus reflexos.
-
-Câmera: composição vertical estilo smartphone com câmera fixa, movimento de câmera natural e sutil, plano médio-aberto, ângulo baixo próximo ao nível da água, forte efeito bokeh em primeiro plano devido à cerca, profundidade de campo cinematográfica.
-
-Iluminação: luz do dia suave e difusa, atmosfera costeira nublada, reflexos realistas e brilhos em pedras molhadas.
-
-Estilo: ambiente live-action ultrarrealista + personagem de pedra em stop-motion fotorrealista e fantasioso, texturas de pedra táteis, movimento fisicamente verossímil, fotografia macro cinematográfica, sem superfícies com aparência de CGI, sem texto, sem humanos.
-
-Prompt negativo: desenho animado, pedras com aparência de plástico, traços faciais exagerados, personagem CGI liso, objetos flutuantes, física irrealista, membros extras, ambiente em mudança, cortes de câmera, texto, marca d'água, cores saturadas demais.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096791751994609664/img/vtRtf7pbhXreFq2a.jpg" width="600" alt="Animação Stop-Motion de Figura de Pedra">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=10441)**
-
-**Autor:** [Marcos](https://x.com/arsalannazir07) | **Fonte:** [Link](https://x.com/arsalannazir07/status/2096791786807275583) | **Publicado:** Sep 7, 2026
-
----
-### Prompt para Vlog de Skincare de Beleza
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Um prompt detalhado de geração de vídeo para criar um vlog de beleza de 15 segundos apresentando uma mulher japonesa consistente realizando uma rotina de cuidados com a pele em um banheiro.
-
-#### 📝 Prompt
-
-```
-Crie um vlog de beleza ultra-realista de 15 segundos no formato 9:16, apresentando a mesma jovem de forma consistente. O rosto, penteado, tom de pele, roupas e identidade dela devem ser perfeitamente consistentes.
-
-Cenário: Um banheiro moderno, claro e limpo, com um espelho grande, iluminação quente e suave, decoração minimalista e pequenas plantas verdes. Estilo natural de smartphone/vlog gravado à mão.
-
-0:00–0:03: Uma garota segura um smartphone em uma das mãos e tira uma selfie no espelho. Ela sorri enquanto apresenta o Himalaya Purifying Neem Face Wash, segurando o tubo claramente em direção à câmera.
-Texto na tela: "Meu Skincare Matinal"
-
-0:03–0:05: Close-up do sabonete facial. Ela abre e espreme uma pequena quantidade na palma da mão. Mostre uma textura realista de gel.
-Texto na tela: "Neem + Cúrcuma"
-
-0:05–0:09: Ela aplica suavemente o sabonete nas bochechas e na testa, massageando de forma natural. Em seguida, ela enxágua o rosto na pia, mostrando o movimento realista da água.
-
-0:09–0:12: Ela olha no espelho com a pele fresca e limpa, toca a bochecha e sorri.
-Texto na tela: "Fresco e Limpo"
-
-0:12–0:15: Ela segura o produto ao lado do rosto, faz um sinal de positivo e termina com uma foto limpa do produto ao lado de uma pequena planta e uma toalha na bancada do banheiro.
-Texto na tela: "Minha Recomendação de Skincare"
-
-Estilo: Fotorrealista, textura de pele natural, cabelo e mãos realistas, filmagem autêntica de smartphone, movimento sutil de câmera na mão, iluminação cinematográfica suave, reflexos realistas, 4K, sem aparência de CGI, sem rostos ou embalagens de produtos distorcidos.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096774938086752256/img/RWxor4jrYgc8pbWt.jpg" width="600" alt="Prompt para Vlog de Skincare de Beleza">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=10452)**
-
-**Autor:** [Mr.できる君](https://x.com/dek1rukun) | **Fonte:** [Link](https://x.com/dek1rukun/status/2096774979400695861) | **Publicado:** Sep 7, 2026
-
----
 ---
 
 ## 📚 Mais prompts disponíveis
@@ -5472,6 +5440,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-09-19T03:40:12.853Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-09-20T03:53:26.762Z</sub>
 
 </div>

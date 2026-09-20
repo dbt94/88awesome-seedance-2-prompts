@@ -68,9 +68,9 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **6400** |
+| 📝 Total Prompts | **6403** |
 | ⭐ Featured Prompts | **6** |
-| 🔄 Last Updated | **2026-09-19** |
+| 🔄 Last Updated | **2026-09-20** |
 
 ---
 
@@ -365,6 +365,63 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 
 > 📝 Sorted by publish date (newest first)
 
+### Dark Warrior Storm Rooftop Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating a cinematic action scene of a warrior in armor on a rainy rooftop with dramatic lighting and water effects.
+
+#### 📝 Prompt
+
+```
+Ultra-realistic cinematic scene of a mysterious dark warrior in flowing black armor standing on a wet rooftop during a storm, powerful dynamic pose, water splashing dramatically around him, dark cloudy sky, intense atmospheric lighting, flying water droplets and motion, futuristic city skyline in the background, dramatic action-movie composition, realistic fabric and armor textures, volumetric lighting, shallow depth of field, high detail, HDR, 8K, photorealistic, cinematic color grading, vertical 9:16 composition.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101169609365921792/img/-IstuS_VdtsgYbeM.jpg" width="600" alt="Dark Warrior Storm Rooftop Video Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11012)**
+
+**Author:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2101169774076231947) | **Published:** Sep 19, 2026
+
+---
+### Skincare Routine Cinematic Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating a photorealistic skincare advertisement featuring a young woman in a bright room, focusing on texture and lighting.
+
+#### 📝 Prompt
+
+```
+Create a 15-second photorealistic skincare video featuring a young Korean woman in a bright, elegant white room. Start with an extreme close-up of her natural face as she gently touches her cheek with her fingertip, showing realistic skin texture and soft daylight. Then show a clear skincare bottle placed on a white marble table as her hand slowly reaches toward it. Continue with her applying skincare gently to her face using both hands, keeping her facial features and appearance consistent. Show her closing her eyes peacefully while softly massaging both cheeks with her fingertips. Finish with a wider shot of her wearing a simple white dress standing beside a large window, while the sheer white curtains move naturally in the sunlight. Keep the movements smooth and realistic, with natural hands, realistic skin, soft cinematic lighting, clean luxury atmosphere, gentle camera motion, and no distortions or artificial-looking details.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101138351013416960/img/ZHT5-dQIrBB1HX68.jpg" width="600" alt="Skincare Routine Cinematic Video Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11011)**
+
+**Author:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2101138386132386252) | **Published:** Sep 19, 2026
+
+---
+### Frozen Landscape Woman Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating a cinematic scene of a woman in a snowy landscape with wind and snow particles.
+
+#### 📝 Prompt
+
+```
+Ultra-realistic cinematic scene of a young woman standing alone in a vast frozen snowy landscape, wearing a dark weatherproof coat, wind blowing through her hair, exhausted yet determined expression, heavy snowstorm, dramatic dark storm clouds, snow-covered mountains in the background, cold blue atmosphere, realistic snow particles, natural skin texture, emotional storytelling, dramatic lighting, shallow depth of field, cinematic color grading, highly detailed, photorealistic, 8K, HDR, professional movie still, 85mm lens, vertical 9:16 composition.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100821852797227008/img/ccGPsPHV1WCfCErM.jpg" width="600" alt="Frozen Landscape Woman Video Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11013)**
+
+**Author:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2100822353446060246) | **Published:** Sep 18, 2026
+
+---
 ### Bleu de Chanel Luxury Perfume Commercial
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -385,11 +442,11 @@ Voiceover: “Getting ready, one final touch. Bleu de Chanel, make it yours.”
 **Author:** [Elisia](https://x.com/AiwithElisia) | **Source:** [Link](https://x.com/AiwithElisia/status/2100818214754128101) | **Published:** Sep 18, 2026
 
 ---
-### Korean Countryside Family Memories
+### Korean Countryside Family Video Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A nostalgic prompt for a video depicting a Korean mother and children enjoying a peaceful summer evening in a rural village, focusing on family interactions and scenic beauty.
+> A prompt for generating a nostalgic video of a Korean mother and children cycling in the countryside during golden hour.
 
 #### 📝 Prompt
 
@@ -397,7 +454,7 @@ Voiceover: “Getting ready, one final touch. Bleu de Chanel, make it yours.”
 Created a video, featuring beautiful Korean words and a warm, nostalgic Korean countryside lifestyle style. Show a loving Korean mother and three young children enjoying a peaceful summer evening in a traditional rural Korean village, with warm golden-hour sunlight, old tiled-roof houses, stone walls, green rice fields, and a calm countryside atmosphere. Begin with the mother gently opening an old wooden door, then transition into a cinematic tracking shot of her riding a bicycle with the children happily cycling alongside her through the village road. Capture natural childhood laughter, soft bicycle movements, flowing clothes, and authentic family interactions with realistic Korean facial features and expressions. Move into wider cinematic shots of the family cycling beside lush rice fields and a small stream, creating a peaceful sense of freedom and nostalgia. Show the mother sitting beside the children near the field, sharing fresh fruit and snacks while they smile and talk together. Use beautiful natural lighting, soft sunset glow, subtle film grain, shallow depth of field, realistic textures, and smooth cinematic camera movement. End with a wide emotional shot of the family sitting together beside the quiet stream under a large tree as the sun sets behind the rice fields. Photorealistic live-action, cinematic Korean family film aesthetic, warm colors, gentle pacing, authentic emotions, 16:9 composition, highly detailed, natural physics, no artificial-looking faces.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100817472219914240/img/-EjhCs7GzNqSVkZW.jpg" width="600" alt="Korean Countryside Family Memories">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100817472219914240/img/-EjhCs7GzNqSVkZW.jpg" width="600" alt="Korean Countryside Family Video Prompt">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10983)**
 
@@ -497,23 +554,23 @@ Ultra-realistic cinematic scene of a fierce young woman standing confidently in 
 **Author:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2100444829880914240) | **Published:** Sep 17, 2026
 
 ---
-### Korean Summer Vlog Video Prompt
+### Korean Summer Escape Video Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed video generation prompt for Seedance 2.0 creating a peaceful Korean summer scene with a girl eating watermelon by a stream.
+> A prompt for generating a peaceful Korean summer escape video featuring a girl in a white dress, soft breeze, and nature scenery, created using Seedance 2.0.
 
 #### 📝 Prompt
 
 ```
-A Beautiful Korean Girl wearing a soft white summer dress and a natural straw sun hat, with a fresh and elegant Korean lifestyle aesthetic. She has short, softly wavy dark hair, minimal makeup, and a gentle natural expression. She enjoys a peaceful summer day beside a beautiful mountain stream. She sits near the water, calmly eating a slice of watermelon and enjoying the refreshing atmosphere. She walks slowly around the cozy outdoor space while adjusting her hat and looking at the scenery. Sunlight softly shines through the trees, creating warm cinematic highlights and natural lens flares. A white curtain moves gently in the summer breeze beside the wooden house. She carries a small picnic basket and enjoys the quiet countryside surroundings. The camera captures close-ups, medium shots, and smooth cinematic wide shots. Photorealistic, warm, dreamy, peaceful Korean summer vlog style, natural colors, soft lighting, realistic motion, and cinematic 4K quality.
+A Beautiful Korean Girl wearing a soft white summer dress and a natural straw sun hat is walking through a field of tall green grass under bright sunshine. The scene captures simple moments with a gentle breeze moving the grass and her hair. Fresh scenery surrounds her, and she holds a small slice of watermelon, enjoying the perfect day atmosphere.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100423624889114624/img/_Dz_jZArR-f_XNwO.jpg" width="600" alt="Korean Summer Vlog Video Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100423624889114624/img/_Dz_jZArR-f_XNwO.jpg" width="600" alt="Korean Summer Escape Video Prompt">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10951)**
 
-**Author:** [Ayat](https://x.com/aiwithaayat) | **Source:** [Link](https://x.com/aiwithaayat/status/2100423982898115050) | **Published:** Sep 17, 2026
+**Author:** [Sahil Verma](https://x.com/sahilvermaai) | **Source:** [Link](https://x.com/sahilvermaai/status/2100423982898115050) | **Published:** Sep 17, 2026
 
 ---
 ### Cinematic Fantasy Battle Video Prompt
@@ -4911,95 +4968,6 @@ Cinematic 2.5D animation in the style of fully painterly rendering, characters a
 **Author:** [PixieVerse](https://x.com/itsPixieVerse) | **Source:** [Link](https://x.com/itsPixieVerse/status/2096801780697030939) | **Published:** Sep 7, 2026
 
 ---
-### Chinese Xianxia Martial Arts Film Script
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A professional cinematic script for a Xianxia short film titled 'Don't Look Back', focusing on emotional tension and character consistency between a master and her disciple.
-
-#### 📝 Prompt
-
-```
-15-second Xianxia short film | "Don't Look Back" I. Core Positioning Generate a complete and continuous 15-second Chinese Xianxia movie short. Overall Style: Cinematic realistic texture, pure ancient Chinese Xianxia aesthetics, mature psychological tension, restrained but sharp emotional power, driven by subtext rather than explanatory dialogue, professional screenwriter-style short dialogue, elegant martial arts character blocking, Arri Alexa film quality, stable and sharp facial micro-details, delicate film grain, natural volumetric light. This reversal centers on: emotional dependence misunderstood as dislike. The first-layer perception must hold: the enemy brings out a three-year-old transfer order, proving the senior sister personally requested the junior sister be transferred away from her. Everyone, including the junior sister, naturally understands it as the senior sister finding her a hindrance or burden. The true reversal is more hidden and mature: she didn't want to cast her off, but realized she had become dependent to a dangerous degree. Before every sword strike, she had to confirm the junior sister's safety. She refused to turn another's life into a stabilizer for her own state of mind. The true theme: "It's not that I dislike you. It's that I must first learn to live without relying on you." II. Character Identity Anchors Character A | Sword Immortal Senior Sister | @Image 1 Locked to the same 25–30 year old East Asian woman: oval fair face, dark almond eyes, black long hair half-tied with white jade hairpin. Tall and slender, same white embroidered silk Hanfu, translucent layered wide sleeves, silver waistband, jade pendant, white cloth boots. A single silver longsword. Status: Never avoids facts, doesn't rush to defend, no cheap explanations, minimal but precise speech. Not cold, but extremely restrained. Emotional intensity hidden in short phrases. Emotional path: Admits the order is real -> Endures misunderstanding -> Tells true reason -> Admits dependence and fear -> Returns gaze forward. Character B | Junior Sister | @Image 2 Locked to the same 20–25 year old East Asian woman: rounded face, black braided hair, small frame. Same cyan-green linen Hanfu, dark belt, wooden hairpin, black cloth shoes. A single dark steel sword. Status: Hurt but dignified, no tantrums, only short, painful questions. Smart enough to hear the deeper meaning. Final action is stepping forward past the senior sister. Emotional path: Shocked -> Hurt -> Inquiring -> Stunned -> Understanding -> Mature response. Enemy Strategist: Captured, kneeling nearby. Throws physical evidence to create misunderstanding. Realizes the evidence reveals a deeper bond. Needs no shouting, just confident delivery and loss of control as reversal happens. Master and two disciples: Minor witnesses. Master represents rules/old system, disciples represent bystander misinterpretation. III. Environment DNA Unified environment from reference images: real terrain, architectural language, spatial scale, materials, vegetation, water, mountain mist, clouds, main light direction, reflection relationships, overall color, air depth, real movement paths. Environment Principles: Background must be alive (flowing water, wind, moving mist, swaying plants, hair/clothes responding to wind). Environment must remain narrative-neutral. IV. 15-second 3-Shot Structure Shot 1 | 0–5s | Wide/Long Shot | Order Landing. Unified space, enemy kneeling, senior sister and junior sister in clear visual relationship. Enemy throws order: "Three years ago, she personally requested your transfer." Short pause. Junior sister asks: "Really?" Senior sister: "Really." Goal: Establish betrayal. Shot 2 | 5–10s | Medium/Cowboy Shot | Truth Emerging. Same characters, same space. Junior sister: "Did you find me a hindrance?" Senior sister: "No. Back then, every time I struck with my sword, I looked back at you first." First reversal. Enemy's smile fades. Senior sister: "I realized what I feared wasn't losing." Goal: Audience realizes transfer wasn't abandonment but extreme importance. Shot 3 | 10–15s | Close-up/Extreme Close-up | Clarifying Dependence. Junior sister: "What were you afraid of?" Senior sister: "Afraid you wouldn't keep up. So I learned to live without relying on you." Junior sister: "And then?" Senior sister: "Then I found you didn't need me to look back at all." Closing action: Junior sister steps forward, standing in front of senior sister: "Then don't look back now." Senior sister looks forward: "Okay." V. Acting Rules (Restraint, no melodrama, specific subtext). VI. Cinematography Principles (3 shots, stable, Arri Alexa quality). VII. Sound Design (Mandarin dialogue, foley for paper/clothes/swords, rhythmic pauses). VIII. Continuity Constraints (Identity, clothing, props, lighting, environment). IX. Output Specifications (15s, 16:9, sync audio). X. Negative Prompt: blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, watermark, text, subtitles, error; deformed, mutated, bad anatomy, poorly drawn hands, bad composition, out of frame, disfigured; inconsistent character, changing clothes, face morphing, hairstyle change, background shift, disappearing props, glitching cuts; melodramatic crying, shouting confession, hugging reunion cliché, overexplaining dialogue, sentimental monologue, sudden forgiveness trope, villain becoming emotional center, environment reacting to dialogue, dramatic wind burst, symbolic sunlight burst, frozen water, frozen mist, frozen distant people, random architecture changes, modern elements, anime look, game-like CG, excessive HDR
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096800711350882304/img/cs9NAfmaMZann0-R.jpg" width="600" alt="Chinese Xianxia Martial Arts Film Script">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10449)**
-
-**Author:** [Soran](https://x.com/Soranlan) | **Source:** [Link](https://x.com/Soranlan/status/2096800771321081920) | **Published:** Sep 7, 2026
-
----
-### Stone Humanoid Stop Motion Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for creating a cinematic stop-motion animation featuring a stone figure coming to life on a seashore, with focus on physics and texture.
-
-#### 📝 Prompt
-
-```
-Create a 21-second vertical 9:16 cinematic stop-motion animation. A tiny humanoid figure made entirely from naturally shaped smooth beach stones comes to life in a shallow tidal pool on a rocky seashore. Each body part is constructed from individual stones—large oval stone as the head, stacked rounded stones for the torso, smaller stones forming arms and legs.
-
-The scene is filmed through a slightly out-of-focus chain-link fence, creating a natural foreground frame. Behind the character is a calm shoreline, shallow seawater, barnacle-covered rocks, seaweed, and a softly blurred forest under an overcast sky. Photorealistic textures, natural muted colors, shallow depth of field, realistic water reflections.
-
-Animation: The stone figure slowly balances itself and begins moving like a playful little human. It shifts its weight, raises one leg, bends its knees, swings its stone arms, and performs a quirky little dance while carefully maintaining balance on the wet surface. Tiny ripples form beneath every footstep, and its reflection moves naturally in the water. The movements should feel hand-crafted stop-motion, slightly imperfect but believable, with realistic stone physics and weight.
-
-Toward the final seconds, the figure loses its balance, stumbles, and collapses naturally, with the individual stones separating and tumbling onto the shallow wet ground. The character completely disassembles into ordinary stones. End with the camera holding on the scattered stones and their reflections.
-
-Camera: locked-off smartphone-style vertical composition, subtle natural camera movement, medium-full shot, low angle close to water level, strong foreground bokeh from the fence, cinematic depth of field.
-
-Lighting: soft diffused daylight, overcast coastal atmosphere, realistic reflections and wet stone highlights.
-
-Style: ultra-realistic live-action environment + whimsical photorealistic stone stop-motion character, tactile stone textures, physically believable movement, cinematic macro photography, no CGI-looking surfaces, no text, no humans.
-
-Negative prompt: cartoon, plastic-looking stones, exaggerated facial features, smooth CGI character, floating objects, unrealistic physics, extra limbs, changing environment, camera cuts, text, watermark, oversaturated colors.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096791751994609664/img/vtRtf7pbhXreFq2a.jpg" width="600" alt="Stone Humanoid Stop Motion Animation">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10441)**
-
-**Author:** [Marcos](https://x.com/arsalannazir07) | **Source:** [Link](https://x.com/arsalannazir07/status/2096791786807275583) | **Published:** Sep 7, 2026
-
----
-### Realistic Skincare Beauty Vlog
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> This prompt generates a realistic 15-second vertical beauty vlog focusing on a consistent morning skincare routine with detailed camera instructions and on-screen text.
-
-#### 📝 Prompt
-
-```
-Create a 15-second, ultra-realistic 9:16 beauty vlog featuring the same young woman consistently throughout. Ensure her face, hairstyle, skin tone, clothing, and identity are perfectly consistent.
-
-Scene: A bright, clean modern bathroom with a large mirror, soft warm lighting, minimal decor, and small green plants. Natural handheld smartphone/vlog style.
-
-0:00–0:03: The girl holds a smartphone in one hand and takes a mirror selfie. She smiles while introducing Himalaya Purifying Neem Face Wash, clearly lifting the tube toward the camera.
-On-screen text: "My Morning Skincare
-
-0:03–0:05: Close-up of the face wash. She opens it and squeezes a small amount onto her palm. Show a realistic gel-like texture.
-On-screen text: "Neem + Turmeric"
-
-0:05–0:09: She gently applies the face wash to her cheeks and forehead, massaging naturally. Then she rinses her face at the sink, showing realistic water movement.
-
-0:09–0:12: She looks in the mirror with fresh, clean skin, touches her cheek, and smiles.
-On-screen text: "Fresh & Clean
-
-0:12–0:15: She holds the product next to her face, gives a cute thumbs-up, and ends with a clean product shot next to a small plant and towel on the bathroom counter.
-On-screen text: "My Skincare Recommendation
-
-Style: Photorealistic, natural skin texture, realistic hair and hands, authentic smartphone footage, subtle handheld movement, soft cinematic lighting, realistic reflections, 4K, no CGI look, no distorted faces or product packaging.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096774938086752256/img/RWxor4jrYgc8pbWt.jpg" width="600" alt="Realistic Skincare Beauty Vlog">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10452)**
-
-**Author:** [Mr.できる君](https://x.com/dek1rukun) | **Source:** [Link](https://x.com/dek1rukun/status/2096774979400695861) | **Published:** Sep 7, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -5061,6 +5029,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-19T03:39:53.838Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-20T03:53:07.878Z</sub>
 
 </div>

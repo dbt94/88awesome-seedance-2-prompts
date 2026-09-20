@@ -68,9 +68,9 @@ Tại sao nên sử dụng thư viện của chúng tôi?
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **6400** |
+| 📝 Tổng số prompt | **6403** |
 | ⭐ Prompt nổi bật | **6** |
-| 🔄 Cập nhật lần cuối | **2026-09-19** |
+| 🔄 Cập nhật lần cuối | **2026-09-20** |
 
 ---
 
@@ -361,6 +361,63 @@ Siêu thực tế, năng lượng lấy cảm hứng từ Fast and Furious, ánh
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Nhắc nhở video Chiến binh Bóng tối trên Sân thượng Bão tố
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một lời nhắc để tạo ra một cảnh hành động điện ảnh về một chiến binh trong bộ áo giáp trên sân thượng mưa với ánh sáng kịch tính và hiệu ứng nước.
+
+#### 📝 Prompt
+
+```
+Cảnh quay điện ảnh siêu thực của một chiến binh bóng tối bí ẩn mặc áo giáp đen bay bổng đứng trên sân thượng ướt đẫm giữa cơn bão, tư thế động lực mạnh mẽ, nước bắn tung tóe quanh anh ta, bầu trời u ám đầy mây, ánh sáng khí quyển cường độ cao, những giọt nước bay lơ lửng và chuyển động, đường chân trời thành phố tương lai ở phía sau, bố cục hành động kịch tính kiểu phim điện ảnh, kết cấu vải và áo giáp chân thực, ánh sáng thể tích, độ sâu trường ảnh nông, chi tiết cao, HDR, 8K, siêu thực, chỉnh màu điện ảnh, bố cục dọc 9:16.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101169609365921792/img/-IstuS_VdtsgYbeM.jpg" width="600" alt="Nhắc nhở video Chiến binh Bóng tối trên Sân thượng Bão tố">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11012)**
+
+**Tác giả:** [AIwithMinal](https://x.com/AIwithMinal) | **Nguồn:** [Link](https://x.com/AIwithMinal/status/2101169774076231947) | **Đã xuất bản:** Sep 19, 2026
+
+---
+### Prompt Video Điện Ảnh Cho Quy Trình Chăm Sóc Da
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một prompt để tạo ra quảng cáo chăm sóc da siêu thực với hình ảnh một phụ nữ trẻ trong căn phòng sáng sủa, tập trung vào kết cấu và ánh sáng.
+
+#### 📝 Prompt
+
+```
+Tạo một video chăm sóc da siêu thực dài 15 giây với hình ảnh một phụ nữ Hàn Quốc trẻ tuổi trong căn phòng trắng thanh lịch, tràn ngập ánh sáng. Bắt đầu bằng cảnh quay cực cận mặt mộc tự nhiên của cô khi cô nhẹ nhàng chạm ngón tay lên má, thể hiện kết cấu da chân thực và ánh sáng ban ngày dịu nhẹ. Sau đó, hiển thị chai skincare trong suốt đặt trên bàn đá cẩm thạch trắng khi tay cô từ từ đưa về phía nó. Tiếp tục với cảnh cô thoa skincare nhẹ nhàng lên mặt bằng cả hai tay, giữ nguyên các đặc điểm khuôn mặt và ngoại hình nhất quán. Hiển thị cảnh cô nhắm mắt bình yên trong khi dùng đầu ngón tay massage nhẹ nhàng cả hai bên má. Kết thúc bằng cảnh quay rộng hơn khi cô mặc chiếc váy trắng đơn giản đứng cạnh cửa sổ lớn, trong khi rèm voan trắng lay động tự nhiên dưới ánh nắng. Giữ cho các chuyển động mượt mà và chân thực, với đôi tay tự nhiên, làn da thật, ánh sáng điện ảnh mềm mại, bầu không khí sang trọng tinh tế, chuyển động camera nhẹ nhàng và không có biến dạng hay chi tiết giả tạo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101138351013416960/img/ZHT5-dQIrBB1HX68.jpg" width="600" alt="Prompt Video Điện Ảnh Cho Quy Trình Chăm Sóc Da">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11011)**
+
+**Tác giả:** [Maha](https://x.com/Aiwithmaha) | **Nguồn:** [Link](https://x.com/Aiwithmaha/status/2101138386132386252) | **Đã xuất bản:** Sep 19, 2026
+
+---
+### Prompt Video Cảnh Quan Đóng Băng Có Phụ Nữ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt tạo cảnh quay điện ảnh về một phụ nữ trong khung cảnh tuyết phủ với gió và các hạt tuyết.
+
+#### 📝 Prompt
+
+```
+Cảnh quay điện ảnh siêu thực tế về một cô gái trẻ đứng một mình giữa vùng đất đóng băng rộng lớn phủ đầy tuyết, mặc áo khoác chống thời tiết màu tối, gió thổi bay mái tóc, biểu hiện mệt mỏi nhưng kiên định, bão tuyết dữ dội, những đám mây đen kịch tính bao trùm bầu trời, dãy núi phủ tuyết ở phía sau, không khí lạnh xanh ngắt, các hạt tuyết chân thực, kết cấu da tự nhiên, kể chuyện giàu cảm xúc, ánh sáng kịch tính, độ sâu trường ảnh nông, chỉnh màu phong cách điện ảnh, chi tiết cao, chân thực như ảnh chụp, 8K, HDR, bức ảnh tĩnh chuyên nghiệp từ phim, ống kính 85mm, bố cục dọc 9:16.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100821852797227008/img/ccGPsPHV1WCfCErM.jpg" width="600" alt="Prompt Video Cảnh Quan Đóng Băng Có Phụ Nữ">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11013)**
+
+**Tác giả:** [AIwithMinal](https://x.com/AIwithMinal) | **Nguồn:** [Link](https://x.com/AIwithMinal/status/2100822353446060246) | **Đã xuất bản:** Sep 18, 2026
+
+---
 ### Quảng cáo nước hoa sang trọng Bleu de Chanel
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -509,7 +566,7 @@ Một cô gái Hàn Quốc xinh đẹp diện chiếc váy mùa hè trắng mề
 
 **[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=10951)**
 
-**Tác giả:** [Ayat](https://x.com/aiwithaayat) | **Nguồn:** [Link](https://x.com/aiwithaayat/status/2100423982898115050) | **Đã xuất bản:** Sep 17, 2026
+**Tác giả:** [Sahil Verma](https://x.com/sahilvermaai) | **Nguồn:** [Link](https://x.com/sahilvermaai/status/2100423982898115050) | **Đã xuất bản:** Sep 17, 2026
 
 ---
 ### Prompt Trận Chiến Rồng Seedance 2.0
@@ -5390,95 +5447,6 @@ Hoạt hình 2.5D điện ảnh theo phong cách kết xuất hội họa hoàn 
 **Tác giả:** [PixieVerse](https://x.com/itsPixieVerse) | **Nguồn:** [Link](https://x.com/itsPixieVerse/status/2096801780697030939) | **Đã xuất bản:** Sep 7, 2026
 
 ---
-### Kịch bản phim võ hiệp Tiên hiệp Trung Quốc
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Một kịch bản điện ảnh chuyên nghiệp cho phim ngắn Tiên hiệp có tựa đề 'Đừng ngoảnh lại', tập trung vào sự căng thẳng cảm xúc và tính nhất quán của nhân vật giữa một sư tỷ và sư muội.
-
-#### 📝 Prompt
-
-```
-Phim ngắn Tiên hiệp 15 giây | "Đừng ngoảnh lại" I. Định vị cốt lõi Tạo ra một đoạn phim ngắn Tiên hiệp Trung Quốc hoàn chỉnh và liên tục trong 15 giây. Phong cách tổng thể: Kết cấu điện ảnh chân thực, thẩm mỹ Tiên hiệp cổ trang Trung Quốc thuần túy, tâm lý căng thẳng trưởng thành, sức mạnh cảm xúc kiềm chế nhưng sắc bén, được dẫn dắt bởi ẩn ý thay vì lời thoại giải thích, lời thoại ngắn gọn theo phong cách biên kịch chuyên nghiệp, bố cục nhân vật võ hiệp thanh lịch, chất lượng phim Arri Alexa, chi tiết khuôn mặt ổn định và sắc nét, hạt phim tinh tế, ánh sáng thể tích tự nhiên. Sự đảo ngược này tập trung vào: sự phụ thuộc cảm xúc bị hiểu lầm là chán ghét. Nhận thức lớp đầu tiên phải giữ vững: kẻ thù mang ra lệnh điều chuyển ba năm trước, chứng minh sư tỷ đích thân yêu cầu sư muội phải rời xa mình. Mọi người, bao gồm cả sư muội, tự nhiên hiểu đó là sư tỷ thấy cô ấy là vật cản hoặc gánh nặng. Sự đảo ngược thực sự ẩn giấu và trưởng thành hơn: cô ấy không muốn vứt bỏ sư muội, mà nhận ra mình đã trở nên phụ thuộc đến mức nguy hiểm. Trước mỗi đường kiếm, cô ấy đều phải xác nhận sự an toàn của sư muội. Cô ấy từ chối biến cuộc đời người khác thành điểm tựa cho trạng thái tâm trí của chính mình. Chủ đề thực sự: "Không phải ta ghét đệ. Mà là ta phải học cách sống mà không dựa dẫm vào đệ trước đã." II. Neo định danh nhân vật Nhân vật A | Sư tỷ Kiếm tiên | @Image 1 Khóa chặt vào cùng một phụ nữ Đông Á 25–30 tuổi: khuôn mặt trái xoan thanh tú, đôi mắt hạnh đen láy, tóc đen dài buộc nửa đầu với trâm ngọc trắng. Cao và mảnh khảnh, mặc cùng một bộ Hán phục lụa trắng thêu, tay áo rộng nhiều lớp xuyên thấu, đai lưng bạc, ngọc bội, giày vải trắng. Một thanh kiếm dài bạc. Trạng thái: Không bao giờ né tránh sự thật, không vội vàng biện minh, không giải thích rẻ tiền, lời thoại tối giản nhưng chính xác. Không lạnh lùng, mà cực kỳ kiềm chế. Cường độ cảm xúc ẩn giấu trong những câu ngắn. Hành trình cảm xúc: Thừa nhận lệnh là thật -> Chịu đựng hiểu lầm -> Nói ra lý do thực sự -> Thừa nhận sự phụ thuộc và nỗi sợ -> Hướng ánh nhìn về phía trước. Nhân vật B | Sư muội | @Image 2 Khóa chặt vào cùng một phụ nữ Đông Á 20–25 tuổi: khuôn mặt tròn, tóc tết đen, vóc dáng nhỏ nhắn. Mặc cùng một bộ Hán phục vải lanh màu xanh lục, đai lưng tối màu, trâm gỗ, giày vải đen. Một thanh kiếm thép đen. Trạng thái: Tổn thương nhưng đầy tự trọng, không hờn dỗi, chỉ có những câu hỏi ngắn, đau đớn. Đủ thông minh để nghe ra ý nghĩa sâu xa hơn. Hành động cuối cùng là bước tới phía trước sư tỷ. Hành trình cảm xúc: Sốc -> Tổn thương -> Truy vấn -> Choáng váng -> Thấu hiểu -> Phản ứng trưởng thành. Kẻ thù chiến lược: Bị bắt, quỳ gần đó. Ném bằng chứng vật chất để tạo hiểu lầm. Nhận ra bằng chứng tiết lộ một mối liên kết sâu sắc hơn. Không cần la hét, chỉ cần thể hiện sự tự tin và mất kiểm soát khi sự đảo ngược xảy ra. Sư phụ và hai đệ tử: Nhân chứng phụ. Sư phụ đại diện cho quy tắc/hệ thống cũ, đệ tử đại diện cho sự hiểu lầm của người ngoài cuộc. III. DNA môi trường Môi trường thống nhất từ hình ảnh tham khảo: địa hình thực tế, ngôn ngữ kiến trúc, quy mô không gian, vật liệu, thảm thực vật, nước, sương mù núi, mây, hướng ánh sáng chính, mối quan hệ phản chiếu, màu sắc tổng thể, độ sâu không khí, đường di chuyển thực tế. Nguyên tắc môi trường: Nền phải sống động (nước chảy, gió, sương mù di chuyển, cây cối đung đưa, tóc/quần áo phản ứng với gió). Môi trường phải giữ tính trung lập về mặt tự sự. IV. Cấu trúc 3 cảnh quay 15 giây Cảnh 1 | 0–5s | Toàn cảnh/Viễn cảnh | Lệnh được đưa ra. Không gian thống nhất, kẻ thù quỳ, sư tỷ và sư muội trong mối quan hệ thị giác rõ ràng. Kẻ thù ném lệnh: "Ba năm trước, chính cô ta đã yêu cầu điều chuyển ngươi." Tạm dừng ngắn. Sư muội hỏi: "Thật sao?" Sư tỷ: "Thật." Mục tiêu: Thiết lập sự phản bội. Cảnh 2 | 5–10s | Trung cảnh | Sự thật lộ diện. Cùng nhân vật, cùng không gian. Sư muội: "Tỷ thấy ta là gánh nặng sao?" Sư tỷ: "Không. Khi đó, mỗi lần ta vung kiếm, ta đều nhìn lại đệ trước tiên." Sự đảo ngược đầu tiên. Nụ cười của kẻ thù tắt dần. Sư tỷ: "Ta nhận ra điều ta sợ không phải là mất mát." Mục tiêu: Khán giả nhận ra việc điều chuyển không phải là bỏ rơi mà là sự quan trọng tột cùng. Cảnh 3 | 10–15s | Cận cảnh/Cận cảnh đặc tả | Làm rõ sự phụ thuộc. Sư muội: "Tỷ sợ điều gì?" Sư tỷ: "Sợ đệ không theo kịp. Nên ta đã học cách sống mà không dựa dẫm vào đệ." Sư muội: "Rồi sao nữa?" Sư tỷ: "Rồi ta nhận ra đệ vốn chẳng cần ta phải nhìn lại nữa." Hành động kết thúc: Sư muội bước tới, đứng trước mặt sư tỷ: "Vậy thì bây giờ đừng ngoảnh lại nữa." Sư tỷ nhìn về phía trước: "Được." V. Quy tắc diễn xuất (Kiềm chế, không cường điệu, ẩn ý cụ thể). VI. Nguyên tắc điện ảnh (3 cảnh quay, ổn định, chất lượng Arri Alexa). VII. Thiết kế âm thanh (Lời thoại tiếng Quan Thoại, tiếng động hiện trường cho giấy/quần áo/kiếm, nhịp nghỉ theo tiết tấu). VIII. Ràng buộc tính nhất quán (Định danh, trang phục, đạo cụ, ánh sáng, môi trường). IX. Thông số kỹ thuật đầu ra (15s, 16:9, đồng bộ âm thanh). X. Prompt phủ định: mờ, chất lượng kém, độ phân giải thấp, nhiễu, lỗi jpeg, hình mờ, văn bản, phụ đề, lỗi; biến dạng, đột biến, giải phẫu xấu, bàn tay vẽ kém, bố cục xấu, ngoài khung hình, dị dạng; nhân vật không nhất quán, thay đổi quần áo, biến đổi khuôn mặt, thay đổi kiểu tóc, thay đổi nền, đạo cụ biến mất, cắt cảnh bị lỗi; khóc lóc cường điệu, la hét thú nhận, ôm nhau đoàn tụ sáo rỗng, lời thoại giải thích quá mức, độc thoại ủy mị, mô típ tha thứ đột ngột, phản diện trở thành trung tâm cảm xúc, môi trường phản ứng với lời thoại, gió thổi kịch tính, ánh sáng mặt trời biểu tượng, nước đóng băng, sương mù đóng băng, người ở xa đóng băng, thay đổi kiến trúc ngẫu nhiên, yếu tố hiện đại, phong cách anime, CG giống trò chơi, HDR quá mức
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096800711350882304/img/cs9NAfmaMZann0-R.jpg" width="600" alt="Kịch bản phim võ hiệp Tiên hiệp Trung Quốc">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=10449)**
-
-**Tác giả:** [Soran](https://x.com/Soranlan) | **Nguồn:** [Link](https://x.com/Soranlan/status/2096800771321081920) | **Đã xuất bản:** Sep 7, 2026
-
----
-### Hoạt hình Stop-Motion về nhân vật bằng đá
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) vừa kỳ ảo vừa chân thực để tạo hoạt hình stop-motion về một nhân vật bằng đá sống dậy trên bờ biển.
-
-#### 📝 Prompt
-
-```
-Tạo một đoạn hoạt hình stop-motion điện ảnh dọc 9:16 dài 21 giây. Một nhân vật hình người tí hon được tạo hoàn toàn từ những viên đá cuội tự nhiên trên bãi biển bỗng nhiên sống dậy trong một vũng nước triều nông trên bờ biển đầy đá. Mỗi bộ phận cơ thể được ghép từ những viên đá riêng biệt—viên đá bầu dục lớn làm đầu, những viên đá tròn xếp chồng làm thân, những viên đá nhỏ hơn tạo thành tay và chân.
-
-Cảnh quay được thực hiện qua một hàng rào lưới thép hơi mất nét, tạo thành khung tiền cảnh tự nhiên. Phía sau nhân vật là bờ biển tĩnh lặng, nước biển nông, những tảng đá bám đầy hà, rong biển và khu rừng mờ ảo dưới bầu trời u ám. Kết cấu chân thực, màu sắc tự nhiên trầm lắng, độ sâu trường ảnh nông, phản chiếu mặt nước sống động.
-
-Hoạt hình: Nhân vật bằng đá từ từ giữ thăng bằng và bắt đầu di chuyển như một con người nhỏ bé tinh nghịch. Nó chuyển trọng tâm, nhấc một chân, khuỵu gối, vung đôi tay bằng đá và thực hiện một điệu nhảy kỳ quặc trong khi vẫn cẩn thận giữ thăng bằng trên bề mặt ướt. Những gợn sóng nhỏ hình thành dưới mỗi bước chân, và hình ảnh phản chiếu của nó di chuyển tự nhiên trong nước. Các chuyển động mang cảm giác stop-motion thủ công, hơi không hoàn hảo nhưng đáng tin, với vật lý và trọng lượng của đá chân thực.
-
-Về những giây cuối, nhân vật mất thăng bằng, vấp ngã và đổ sụp một cách tự nhiên, các viên đá rời ra và lăn trên mặt đất ướt nông. Nhân vật hoàn toàn tan rã thành những viên đá bình thường. Kết thúc bằng cảnh máy quay giữ nguyên ở những viên đá nằm rải rác và hình ảnh phản chiếu của chúng.
-
-Máy quay: bố cục dọc kiểu điện thoại thông minh cố định, chuyển động máy quay tự nhiên tinh tế, cảnh trung-toàn, góc thấp gần mực nước, hiệu ứng bokeh tiền cảnh mạnh từ hàng rào, độ sâu trường ảnh điện ảnh.
-
-Ánh sáng: ánh sáng ban ngày khuếch tán dịu nhẹ, bầu không khí ven biển u ám, phản chiếu chân thực và các điểm nhấn trên đá ướt.
-
-Phong cách: môi trường live-action siêu thực + nhân vật stop-motion bằng đá chân thực đầy kỳ ảo, kết cấu đá sần sùi, chuyển động vật lý đáng tin, nhiếp ảnh macro điện ảnh, không có bề mặt trông như CGI, không chữ, không có con người.
-
-Câu lệnh phủ định (Negative prompt): hoạt hình, đá trông như nhựa, đặc điểm khuôn mặt phóng đại, nhân vật CGI mượt mà, vật thể trôi nổi, vật lý phi thực tế, thừa chi tiết tay chân, môi trường thay đổi, cắt cảnh, văn bản, hình mờ, màu sắc quá bão hòa.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096791751994609664/img/vtRtf7pbhXreFq2a.jpg" width="600" alt="Hoạt hình Stop-Motion về nhân vật bằng đá">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=10441)**
-
-**Tác giả:** [Marcos](https://x.com/arsalannazir07) | **Nguồn:** [Link](https://x.com/arsalannazir07/status/2096791786807275583) | **Đã xuất bản:** Sep 7, 2026
-
----
-### Prompt cho Vlog làm đẹp về chăm sóc da
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Một prompt tạo video chi tiết để tạo vlog làm đẹp dài 15 giây với nhân vật nữ Nhật Bản nhất quán đang thực hiện quy trình chăm sóc da trong phòng tắm.
-
-#### 📝 Prompt
-
-```
-Tạo một vlog làm đẹp 9:16 siêu thực dài 15 giây với cùng một cô gái trẻ nhất quán. Khuôn mặt, kiểu tóc, tông da, trang phục và danh tính của cô ấy phải hoàn toàn nhất quán.
-
-Bối cảnh: Một phòng tắm hiện đại, sạch sẽ, sáng sủa với gương lớn, ánh sáng ấm áp dịu nhẹ, trang trí tối giản và vài chậu cây xanh nhỏ. Phong cách quay vlog/điện thoại cầm tay tự nhiên.
-
-0:00–0:03: Một cô gái cầm điện thoại bằng một tay và chụp ảnh selfie trong gương. Cô ấy mỉm cười khi giới thiệu sữa rửa mặt Himalaya Purifying Neem Face Wash, đưa tuýp sản phẩm hướng rõ về phía camera.
-Văn bản trên màn hình: "My Morning Skincare"
-
-0:03–0:05: Cận cảnh sữa rửa mặt. Cô ấy mở nắp và lấy một lượng nhỏ vào lòng bàn tay. Hiển thị kết cấu dạng gel chân thực.
-Văn bản trên màn hình: "Neem + Turmeric"
-
-0:05–0:09: Cô ấy nhẹ nhàng thoa sữa rửa mặt lên má và trán, massage một cách tự nhiên. Sau đó, cô ấy rửa mặt tại bồn rửa, thể hiện chuyển động của nước một cách chân thực.
-
-0:09–0:12: Cô ấy nhìn vào gương với làn da tươi tắn, sạch sẽ, chạm vào má và mỉm cười.
-Văn bản trên màn hình: "Fresh & Clean"
-
-0:12–0:15: Cô ấy cầm sản phẩm bên cạnh khuôn mặt, giơ ngón tay cái đầy dễ thương và kết thúc bằng một cảnh quay sản phẩm sạch sẽ đặt cạnh một chậu cây nhỏ và khăn tắm trên kệ phòng tắm.
-Văn bản trên màn hình: "My Skincare Recommendation"
-
-Phong cách: Ảnh chân thực, kết cấu da tự nhiên, tóc và bàn tay chân thực, cảnh quay điện thoại thông minh xác thực, chuyển động cầm tay tinh tế, ánh sáng điện ảnh dịu nhẹ, phản chiếu chân thực, 4K, không giống CGI, không làm biến dạng khuôn mặt hoặc bao bì sản phẩm.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096774938086752256/img/RWxor4jrYgc8pbWt.jpg" width="600" alt="Prompt cho Vlog làm đẹp về chăm sóc da">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=10452)**
-
-**Tác giả:** [Mr.できる君](https://x.com/dek1rukun) | **Nguồn:** [Link](https://x.com/dek1rukun/status/2096774979400695861) | **Đã xuất bản:** Sep 7, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -5540,6 +5508,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-19T03:40:02.271Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-20T03:53:16.572Z</sub>
 
 </div>

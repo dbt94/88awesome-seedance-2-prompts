@@ -68,9 +68,9 @@ Neden galerimizi kullanmalısınız?
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **6400** |
+| 📝 Toplam İstem | **6403** |
 | ⭐ Öne Çıkan İstemler | **6** |
-| 🔄 Son Güncelleme | **2026-09-19** |
+| 🔄 Son Güncelleme | **2026-09-20** |
 
 ---
 
@@ -361,6 +361,63 @@ Ultra gerçekçi, Hızlı ve Öfkeli esintili enerji, fotogerçekçi aydınlatma
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Karanlık Savaşçı Fırtına Çatı Video İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Yağmurlu bir çatıda dramatik ışıklandırma ve su efektleriyle zırhlı bir savaşçının sinematik aksiyon sahnesini oluşturmak için bir istem.
+
+#### 📝 İstem
+
+```
+Fırtına sırasında ıslak bir çatıda duran, dalgalanan siyah zırh giymiş gizemli karanlık bir savaşçının ultra gerçekçi sinematik sahnesi, güçlü dinamik poz, etrafında dramatik şekilde sıçrayan sular, koyu bulutlu gökyüzü, yoğun atmosferik aydınlatma, uçan su damlaları ve hareket, arka planda fütüristik şehir silüeti, dramatik aksiyon filmi kompozisyonu, gerçekçi kumaş ve zırh dokuları, hacimsel aydınlatma, sığ alan derinliği, yüksek detay, HDR, 8K, fotogerçekçi, sinematik renk düzenlemesi, dikey 9:16 kompozisyon.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101169609365921792/img/-IstuS_VdtsgYbeM.jpg" width="600" alt="Karanlık Savaşçı Fırtına Çatı Video İstemi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11012)**
+
+**Yazar:** [AIwithMinal](https://x.com/AIwithMinal) | **Kaynak:** [Link](https://x.com/AIwithMinal/status/2101169774076231947) | **Yayınlandı:** Sep 19, 2026
+
+---
+### Cilt Bakım Rutini Sinematik Video İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Parlak bir odada genç bir kadını gösteren, doku ve ışıklandırmaya odaklanan fotogerçekçi bir cilt bakım reklamı oluşturmak için istem.
+
+#### 📝 İstem
+
+```
+Parlak ve zarif beyaz bir odada genç bir Koreli kadının yer aldığı 15 saniyelik fotogerçekçi bir cilt bakım videosu oluşturun. Başlangıçta, parmak ucuyla yanağını nazikçe dokunurken doğal yüzünün aşırı yakın çekimini gösterin; gerçekçi cilt dokusu ve yumuşak gün ışığına odaklanın. Ardından, elinin yavaşça uzandığı beyaz mermer masa üzerinde duran şeffaf bir cilt bakım şişesini gösterin. Yüz hatlarını ve görünümünü tutarlı tutarak, her iki eliyle cilt bakım ürününü yüzüne nazikçe uygulamasıyla devam edin. Parmak uçlarıyla her iki yanağını yumuşakça masaj yaparken huzurla gözlerini kapattığını gösterin. Son olarak, büyük bir pencerenin yanında sade beyaz bir elbise giymiş halde daha geniş bir açıdan görüntüleyin; tül beyaz perdeler güneş ışığında doğal hareket etsin. Hareketleri pürüzsüz ve gerçekçi tutun; doğal eller, gerçekçi cilt, yumuşak sinematik ışıklandırma, temiz lüks atmosferi, hafif kamera hareketleri ve bozulmalar veya yapay görünen detaylar olmadan.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101138351013416960/img/ZHT5-dQIrBB1HX68.jpg" width="600" alt="Cilt Bakım Rutini Sinematik Video İstemi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11011)**
+
+**Yazar:** [Maha](https://x.com/Aiwithmaha) | **Kaynak:** [Link](https://x.com/Aiwithmaha/status/2101138386132386252) | **Yayınlandı:** Sep 19, 2026
+
+---
+### Donmuş Manzara Kadın Video İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Rüzgar ve kar parçacıklarıyla dolu, karlı bir manzarada bir kadının sinematik sahnesini oluşturmak için bir istem.
+
+#### 📝 İstem
+
+```
+Genç bir kadının, rüzgarın saçlarını savurduğu, yorgun ama kararlı ifadesiyle geniş, donmuş karlı bir manzarada tek başına durduğu ultra gerçekçi sinematik sahne. Üzerinde koyu renk hava koşullarına dayanıklı bir palto var. Şiddetli kar fırtınası, dramatik koyu fırtına bulutları, arka planda karla kaplı dağlar, soğuk mavi atmosfer, gerçekçi kar parçacıkları, doğal cilt dokusu, duygusal hikaye anlatımı, dramatik ışıklandırma, sığ alan derinliği, sinematik renk düzenlemesi, yüksek detaylı, fotogerçekçi, 8K, HDR, profesyonel film karesi, 85mm lens, dikey 9:16 kompozisyon.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100821852797227008/img/ccGPsPHV1WCfCErM.jpg" width="600" alt="Donmuş Manzara Kadın Video İstemi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11013)**
+
+**Yazar:** [AIwithMinal](https://x.com/AIwithMinal) | **Kaynak:** [Link](https://x.com/AIwithMinal/status/2100822353446060246) | **Yayınlandı:** Sep 18, 2026
+
+---
 ### Bleu de Chanel Lüks Parfüm Reklamı
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -509,7 +566,7 @@ Yumuşak beyaz bir yaz elbisesi ve doğal hasır güneş şapkası giyen, taze v
 
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10951)**
 
-**Yazar:** [Ayat](https://x.com/aiwithaayat) | **Kaynak:** [Link](https://x.com/aiwithaayat/status/2100423982898115050) | **Yayınlandı:** Sep 17, 2026
+**Yazar:** [Sahil Verma](https://x.com/sahilvermaai) | **Kaynak:** [Link](https://x.com/sahilvermaai/status/2100423982898115050) | **Yayınlandı:** Sep 17, 2026
 
 ---
 ### Seedance 2.0 Ejderha Savaşı İstem Metni
@@ -5330,95 +5387,6 @@ Tamamen resimsel işleme tarzında sinematik 2.5D animasyon; karakterler ve orta
 **Yazar:** [PixieVerse](https://x.com/itsPixieVerse) | **Kaynak:** [Link](https://x.com/itsPixieVerse/status/2096801780697030939) | **Yayınlandı:** Sep 7, 2026
 
 ---
-### Çin Xianxia Dövüş Sanatları Film Senaryosu
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Bir usta ve öğrencisi arasındaki duygusal gerilime ve karakter tutarlılığına odaklanan, 'Arkanı Dönme' (Don't Look Back) adlı Xianxia kısa filmi için profesyonel sinematik senaryo.
-
-#### 📝 İstem
-
-```
-15 saniyelik Xianxia kısa filmi | "Arkanı Dönme" I. Temel Konumlandırma 15 saniyelik, bütünlüklü ve kesintisiz bir Çin Xianxia kısa filmi oluşturun. Genel Stil: Sinematik gerçekçi doku, saf antik Çin Xianxia estetiği, olgun psikolojik gerilim, ölçülü ama keskin duygusal güç, açıklayıcı diyaloglar yerine alt metinle ilerleyen, profesyonel senarist tarzı kısa diyaloglar, zarif dövüş sanatları karakter kurgusu, Arri Alexa film kalitesi, sabit ve keskin yüz mikro detayları, hassas film greni, doğal hacimsel ışık. Bu ters köşe şuna odaklanır: yanlış anlaşılan duygusal bağımlılık. İlk algı şu olmalı: düşman, kıdemli kız kardeşin (abla) küçük kız kardeşin (kız kardeş) kendisinden uzaklaştırılmasını bizzat talep ettiğini kanıtlayan üç yıllık bir tayin emri getirir. Küçük kız kardeş dahil herkes, bunu doğal olarak ablanın onu bir engel veya yük olarak görmesi şeklinde yorumlar. Asıl ters köşe daha gizli ve olgundur: onu başından atmak istememiş, ancak ona tehlikeli bir derecede bağımlı hale geldiğini fark etmiştir. Her kılıç darbesinden önce küçük kız kardeşinin güvenliğini teyit etmek zorunda kalmıştır. Başkasının hayatını kendi zihin dengesi için bir dengeleyiciye dönüştürmeyi reddetmiştir. Asıl tema: "Senden hoşlanmadığım için değil. Sadece önce sana dayanmadan yaşamayı öğrenmem gerektiği için." II. Karakter Kimlik Çapaları Karakter A | Kılıç Ölümsüzü Kıdemli Kız Kardeş | @Image 1 25–30 yaşlarındaki aynı Doğu Asyalı kadınla sabitlenmiştir: oval duru bir yüz, koyu badem gözler, beyaz yeşim tokalı yarım toplu uzun siyah saç. Uzun ve ince yapılı, aynı beyaz işlemeli ipek Hanfu, yarı şeffaf katmanlı geniş kollar, gümüş kemer, yeşim kolye, beyaz bez ayakkabılar. Tek bir gümüş uzun kılıç. Durum: Gerçeklerden asla kaçmaz, savunmaya geçmek için acele etmez, ucuz açıklamalar yapmaz, minimal ama kesin konuşur. Soğuk değil, aşırı ölçülüdür. Duygusal yoğunluk kısa cümlelerde gizlidir. Duygusal yol: Emrin gerçek olduğunu kabul eder -> Yanlış anlaşılmaya katlanır -> Gerçek nedeni söyler -> Bağımlılığını ve korkusunu kabul eder -> Bakışlarını ileriye çevirir. Karakter B | Küçük Kız Kardeş | @Image 2 20–25 yaşlarındaki aynı Doğu Asyalı kadınla sabitlenmiştir: yuvarlak yüz, siyah örgülü saç, minyon yapı. Aynı camgöbeği yeşili keten Hanfu, koyu renk kemer, ahşap toka, siyah bez ayakkabılar. Tek bir koyu çelik kılıç. Durum: Kırgın ama vakur, taşkınlık yok, sadece kısa ve acı verici sorular. Derin anlamı kavrayacak kadar zeki. Final hareketi, ablasının önüne geçerek adım atmaktır. Duygusal yol: Şok -> Kırgınlık -> Sorgulama -> Donup kalma -> Anlama -> Olgun tepki. Düşman Stratejist: Yakalanmış, yakında diz çökmüş. Yanlış anlaşılma yaratmak için fiziksel kanıtları fırlatır. Kanıtların daha derin bir bağı ortaya çıkardığını fark eder. Bağırmaya gerek yok, sadece kendinden emin bir sunum ve ters köşe gerçekleştiğinde kontrol kaybı yeterlidir. Usta ve iki öğrenci: Küçük tanıklar. Usta kuralları/eski sistemi, öğrenciler ise dışarıdan bakanların yanlış yorumlamasını temsil eder. III. Çevre DNA'sı Referans görsellerden birleştirilmiş çevre: gerçek arazi, mimari dil, mekansal ölçek, malzemeler, bitki örtüsü, su, dağ sisi, bulutlar, ana ışık yönü, yansıma ilişkileri, genel renk, hava derinliği, gerçek hareket yolları. Çevre İlkeleri: Arka plan canlı olmalıdır (akan su, rüzgar, hareketli sis, sallanan bitkiler, rüzgarda hareket eden saç/kıyafetler). Çevre anlatısal olarak nötr kalmalıdır. IV. 15 Saniyelik 3 Çekimlik Yapı Çekim 1 | 0–5 sn | Geniş/Uzun Çekim | Emrin Ortaya Çıkışı. Birleşik mekan, diz çökmüş düşman, kıdemli ve küçük kız kardeş net bir görsel ilişki içinde. Düşman emri fırlatır: "Üç yıl önce, tayinini bizzat o istedi." Kısa bir duraksama. Küçük kız kardeş sorar: "Gerçekten mi?" Kıdemli kız kardeş: "Gerçekten." Amaç: İhaneti kurmak. Çekim 2 | 5–10 sn | Orta Çekim | Gerçeğin Ortaya Çıkışı. Aynı karakterler, aynı mekan. Küçük kız kardeş: "Beni bir engel olarak mı gördün?" Kıdemli kız kardeş: "Hayır. O zamanlar her kılıç salladığımda önce sana bakardım." İlk ters köşe. Düşmanın gülümsemesi solar. Kıdemli kız kardeş: "Korktuğum şeyin kaybetmek olmadığını fark ettim." Amaç: İzleyicinin tayinin terk ediş değil, aşırı önem verme olduğunu anlaması. Çekim 3 | 10–15 sn | Yakın Çekim/Aşırı Yakın Çekim | Bağımlılığın Netleşmesi. Küçük kız kardeş: "Neyden korkuyordun?" Kıdemli kız kardeş: "Ayak uyduramayacağından. Bu yüzden sana dayanmadan yaşamayı öğrendim." Küçük kız kardeş: "Sonra?" Kıdemli kız kardeş: "Sonra senin, arkama bakmama hiç ihtiyacın olmadığını fark ettim." Kapanış hareketi: Küçük kız kardeş bir adım öne çıkar, ablasının önünde durur: "O zaman şimdi arkana bakma." Kıdemli kız kardeş ileriye bakar: "Tamam." V. Oyunculuk Kuralları (Ölçülülük, melodram yok, özel alt metin). VI. Sinematografi İlkeleri (3 çekim, sabit, Arri Alexa kalitesi). VII. Ses Tasarımı (Mandarin diyalog, kağıt/kıyafet/kılıç için foley, ritmik duraksamalar). VIII. Süreklilik Kısıtlamaları (Kimlik, kıyafet, aksesuarlar, aydınlatma, çevre). IX. Çıktı Özellikleri (15 sn, 16:9, senkronize ses). X. Negatif İstemi: bulanık, kötü kalite, düşük kalite, düşük çözünürlük, gürültülü, jpeg bozulmaları, filigran, metin, altyazı, hata; deforme, mutasyona uğramış, kötü anatomi, kötü çizilmiş eller, kötü kompozisyon, kadraj dışı, şekli bozulmuş; tutarsız karakter, değişen kıyafetler, yüz kayması, saç stili değişimi, arka plan kayması, kaybolan aksesuarlar, aksayan kesmeler; melodramatik ağlama, bağıran itiraf, sarılarak barışma klişesi, aşırı açıklayıcı diyalog, duygusal monolog, ani affetme troyu, duygusal merkeze dönüşen kötü karakter, diyaloğa tepki veren çevre, dramatik rüzgar patlaması, sembolik güneş ışığı patlaması, donmuş su, donmuş sis, donmuş uzak insanlar, rastgele mimari değişiklikler, modern unsurlar, anime görünümü, oyun benzeri CG, aşırı HDR
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096800711350882304/img/cs9NAfmaMZann0-R.jpg" width="600" alt="Çin Xianxia Dövüş Sanatları Film Senaryosu">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10449)**
-
-**Yazar:** [Soran](https://x.com/Soranlan) | **Kaynak:** [Link](https://x.com/Soranlan/status/2096800771321081920) | **Yayınlandı:** Sep 7, 2026
-
----
-### Taş Figür Stop-Motion Animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Sahil kenarında canlanan bir taş figürün yer aldığı, hem fantastik hem de fotogerçekçi bir stop-motion animasyon istemi.
-
-#### 📝 İstem
-
-```
-21 saniyelik, 9:16 dikey formatta sinematik bir stop-motion animasyon oluşturun. Tamamen doğal şekilli pürüzsüz sahil taşlarından yapılmış minik insansı bir figür, kayalık bir sahil şeridindeki sığ bir gelgit havuzunda canlanıyor. Vücudun her bir parçası ayrı taşlardan inşa edilmiş; kafa için büyük oval bir taş, gövde için üst üste dizilmiş yuvarlak taşlar, kollar ve bacaklar için ise daha küçük taşlar kullanılmış.
-
-Sahne, doğal bir ön plan çerçevesi oluşturan hafif odak dışı bir tel örgünün arkasından çekiliyor. Karakterin arkasında sakin bir sahil şeridi, sığ deniz suyu, midye kaplı kayalar, deniz yosunları ve kapalı bir gökyüzü altında hafifçe bulanıklaşmış bir orman yer alıyor. Fotogerçekçi dokular, doğal pastel renkler, sığ alan derinliği, gerçekçi su yansımaları.
-
-Animasyon: Taş figür yavaşça dengesini sağlıyor ve oyuncu küçük bir insan gibi hareket etmeye başlıyor. Ağırlığını kaydırıyor, bir bacağını kaldırıyor, dizlerini büküyor, taş kollarını sallıyor ve ıslak yüzeyde dengesini dikkatle koruyarak tuhaf, küçük bir dans sergiliyor. Her adımın altında minik dalgalanmalar oluşuyor ve yansıması suda doğal bir şekilde hareket ediyor. Hareketler, el yapımı stop-motion hissi vermeli; hafif kusurlu ama inandırıcı, gerçekçi taş fiziği ve ağırlığı ile.
-
-Son saniyelere doğru figür dengesini kaybediyor, tökezliyor ve doğal bir şekilde yere yığılıyor; taşlar birbirinden ayrılıp sığ ve ıslak zemine dağılıyor. Karakter tamamen sıradan taşlara dönüşerek dağılıyor. Kamera, dağılmış taşlar ve yansımaları üzerinde kalarak sona eriyor.
-
-Kamera: Sabit akıllı telefon tarzı dikey kompozisyon, hafif doğal kamera hareketi, orta-tam çekim, su seviyesine yakın düşük açı, tel örgüden gelen güçlü ön plan bokehi, sinematik alan derinliği.
-
-Işıklandırma: Yumuşak yayılmış gün ışığı, kapalı sahil atmosferi, gerçekçi yansımalar ve ıslak taş parlamaları.
-
-Stil: Ultra gerçekçi canlı çekim ortamı + fantastik fotogerçekçi taş stop-motion karakteri, dokunsal taş dokuları, fiziksel olarak inandırıcı hareket, sinematik makro fotoğrafçılık, CGI görünümlü yüzeyler yok, metin yok, insan yok.
-
-Negatif istem: çizgi film, plastik görünümlü taşlar, abartılı yüz hatları, pürüzsüz CGI karakteri, havada uçan nesneler, gerçekçi olmayan fizik, fazladan uzuvlar, değişen ortam, kamera kesmeleri, metin, filigran, aşırı doygun renkler.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096791751994609664/img/vtRtf7pbhXreFq2a.jpg" width="600" alt="Taş Figür Stop-Motion Animasyonu">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10441)**
-
-**Yazar:** [Marcos](https://x.com/arsalannazir07) | **Kaynak:** [Link](https://x.com/arsalannazir07/status/2096791786807275583) | **Yayınlandı:** Sep 7, 2026
-
----
-### Güzellik Vlog'u Cilt Bakımı İstemi
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Banyoda cilt bakımı rutini uygulayan tutarlı bir Japon kadının yer aldığı 15 saniyelik bir güzellik vlog'u oluşturmak için detaylı video üretim istemi.
-
-#### 📝 İstem
-
-```
-Aynı genç kadının tutarlı bir şekilde yer aldığı, 15 saniyelik, 9:16 formatında ultra gerçekçi bir güzellik vlog'u oluşturun. Yüzü, saç stili, cilt tonu, kıyafeti ve kimliği tamamen tutarlı olmalıdır.
-
-Sahne: Büyük bir aynaya, yumuşak sıcak aydınlatmaya, minimal dekorasyona ve küçük yeşil bitkilere sahip, aydınlık ve temiz modern bir banyo. Doğal el tipi akıllı telefon/vlog tarzı.
-
-0:00–0:03: Bir genç kız bir elinde akıllı telefon tutuyor ve aynada selfie çekiyor. Himalaya Purifying Neem Yüz Yıkama Jeli'ni kameraya net bir şekilde göstererek gülümseyerek tanıtıyor.
-Ekranda beliren metin: "Sabah Cilt Bakımım"
-
-0:03–0:05: Yüz yıkama jelinin yakın plan çekimi. Ürünü açıyor ve avucuna küçük bir miktar sıkıyor. Gerçekçi jel benzeri dokuyu gösterin.
-Ekranda beliren metin: "Neem + Zerdeçal"
-
-0:05–0:09: Yüz yıkama jelini yanaklarına ve alnına nazikçe uyguluyor, doğal bir şekilde masaj yapıyor. Ardından lavaboda yüzünü duruluyor, gerçekçi su hareketlerini gösterin.
-
-0:09–0:12: Aynaya bakıyor, taze ve temiz cildiyle yanağına dokunup gülümsüyor.
-Ekranda beliren metin: "Taze ve Temiz"
-
-0:12–0:15: Ürünü yüzünün yanında tutuyor, sevimli bir şekilde baş parmağıyla onay işareti yapıyor ve banyo tezgahındaki küçük bir bitki ile havlunun yanında temiz bir ürün çekimiyle bitiriyor.
-Ekranda beliren metin: "Cilt Bakımı Tavsiyem"
-
-Tarz: Fotogerçekçi, doğal cilt dokusu, gerçekçi saç ve eller, otantik akıllı telefon çekimi, hafif el hareketi, yumuşak sinematik aydınlatma, gerçekçi yansımalar, 4K, CGI benzeri değil, bozuk yüzler veya ürün ambalajı yok.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096774938086752256/img/RWxor4jrYgc8pbWt.jpg" width="600" alt="Güzellik Vlog'u Cilt Bakımı İstemi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10452)**
-
-**Yazar:** [Mr.できる君](https://x.com/dek1rukun) | **Kaynak:** [Link](https://x.com/dek1rukun/status/2096774979400695861) | **Yayınlandı:** Sep 7, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -5480,6 +5448,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-19T03:40:16.015Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-20T03:53:29.509Z</sub>
 
 </div>
