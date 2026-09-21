@@ -68,9 +68,9 @@ Perché usare la nostra galleria?
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **6403** |
+| 📝 Totale prompt | **6408** |
 | ⭐ Prompt in evidenza | **6** |
-| 🔄 Ultimo aggiornamento | **2026-09-20** |
+| 🔄 Ultimo aggiornamento | **2026-09-21** |
 
 ---
 
@@ -361,6 +361,175 @@ Ultra realistico, energia ispirata a Fast and Furious, illuminazione fotorealist
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Scena di Performance di Moda Cinematografica
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt di alta qualità per generare un video cinematografico ultra-realistico di una performance di moda, con protagonista una donna sicura di sé e ballerine in un contesto notturno.
+
+#### 📝 Prompt
+
+```
+Scena di performance di moda cinematografica ultra-realistica: una bella giovane donna con lunghi capelli neri scuri, posizionata al centro con sicurezza, indossa un elegante top corsetto bianco senza spalline, jeans aderenti a vita alta scuri, collane d'argento stratificate e orecchini a cerchio. Diverse ballerine stilose la circondano, vestite con outfit in pelle nera, in pose di danza sincronizzate. Ambientazione notturna drammatica con auto e fari luminosi sullo sfondo, atmosfera industriale suggestiva, retroilluminazione calda, leggera foschia, ombre realistiche, composizione dinamica, espressione potente e sicura, estetica professionale da videoclip musicale, dettagli fotorealistici della pelle e dei tessuti, profondità di campo ridotta, illuminazione cinematografica, alto contrasto, 8K, HDR, obiettivo 85mm, composizione verticale 9:16.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101890134324965376/img/6EDeEE39ubzVBvhK.jpg" width="600" alt="Scena di Performance di Moda Cinematografica">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=11072)**
+
+**Autore:** [AIwithMinal](https://x.com/AIwithMinal) | **Fonte:** [Link](https://x.com/AIwithMinal/status/2101890198703354285) | **Pubblicato:** Sep 21, 2026
+
+---
+### Prompt Video: Ragazza Coreana Giocosa al Parco Giochi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt dettagliato per la generazione video con Seedance 2.0 che crea una sequenza cinematografica di una giovane donna in un parco giochi, con transizioni dallo scivolo all'altalena fino al sonno nel carrello della spesa.
+
+#### 📝 Prompt
+
+```
+Crea un video di una bella ragazza coreana che trascorre una giornata giocosa e sognante in un colorato parco giochi all'aperto.
+Indossa una camicia bianca casual, jeans scuri, sneakers e porta una borsa a tracolla stilizzata con stampa leopardata.
+Mostrala mentre si rilassa e giace giocosamente su uno scivolo giallo brillante del parco giochi.
+Poi passa alla scena in cui è seduta tranquillamente su un'altalena, con un'espressione leggermente stanca e persa nei suoi pensieri.
+Successivamente, mostrala seduta sul bordo del parco giochi indossando un buffo cappello a forma di cono arancione, creando un momento cinematografico bizzarro.
+Mostrala mentre riposa pacificamente sui gradini di cemento, con luce naturale morbida e un'atmosfera calma.
+Concludi con lei che dorme comodamente dentro un carrello della spesa pieno di palloni da basket, creando una scena divertente e inaspettata.
+Usa espressioni facciali realistiche, movimenti naturali del corpo, movimenti di camera cinematografici, colori tenui e dettagli fotorealistici.
+Mantieni l'identità e l'aspetto della ragazza coreana coerenti per tutto il video, con transizioni fluide e uno stile narrativo cinematografico giocoso.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101889348534956032/img/I07P989JdZB8i-lk.jpg" width="600" alt="Prompt Video: Ragazza Coreana Giocosa al Parco Giochi">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=11071)**
+
+**Autore:** [liana](https://x.com/Lianaalane) | **Fonte:** [Link](https://x.com/Lianaalane/status/2101889590621536594) | **Pubblicato:** Sep 21, 2026
+
+---
+### Prompt per Video Commerciale di Skincare di Lusso
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt dettagliato per la creazione di uno spot commerciale di skincare di lusso ultra-realistico da 15 secondi, che presenta un vasetto del prodotto in un ambiente a tema acquatico con transizioni cinematografiche.
+
+#### 📝 Prompt
+
+```
+Crea uno spot commerciale di skincare di lusso ultra-realistico da 15 secondi, caratterizzato da un elegante vasetto in vetro etichettato “AQUA LUXE – DEEP HYDRATION” in un ambiente fresco, blu e rinfrescante. Inizia con uno sfondo atmosferico blu tenue, mentre delicati raggi di luce e sottili particelle d'acqua creano un'atmosfera pulita e premium. Rivela lentamente il vasetto di skincare posizionato su una superficie d'acqua lucida, con riflessi realistici e profondità di campo cinematografica. Muovi gradualmente la telecamera più vicino mentre morbidi riflessi scorrono sul coperchio argentato metallico e sulla confezione in vetro. Circonda il vasetto con onde lisce e setose simili a crema bianca che fluiscono elegantemente attorno ad esso, creando una texture lussuosa da skincare. Aggiungi gocce d'acqua fluttuanti e piccole bolle che si muovono naturalmente nella scena con fisica realistica. Transiziona in uno schizzo drammatico di acqua cristallina che avvolge il prodotto mantenendo il vasetto perfettamente nitido e centrato. Introduci delicati fiori bianchi e fresche foglie verdi attorno allo schizzo per un'atmosfera ispirata all'idratazione fresca. Termina con un bellissimo scatto hero del vasetto AQUA LUXE DEEP HYDRATION centrato sullo sfondo blu, circondato da gocce d'acqua, fiori e luce soffusa brillante, con illuminazione cinematografica premium e messa a fuoco perfetta sul prodotto.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101887426138681344/img/DRaV306w9sxwKjTb.jpg" width="600" alt="Prompt per Video Commerciale di Skincare di Lusso">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=11073)**
+
+**Autore:** [Maha](https://x.com/Aiwithmaha) | **Fonte:** [Link](https://x.com/Aiwithmaha/status/2101887507059351894) | **Pubblicato:** Sep 21, 2026
+
+---
+### Prompt per Scheda di Riferimento Personaggio Cinematografico
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt completo per creare schede di riferimento personaggio cinematografiche ultra-realistiche da immagini caricate utilizzando Seedance 2.0 Fast.
+
+#### 📝 Prompt
+
+```
+CREA UNA SCHEDA DI RIFERIMENTO PER PERSONAGGIO CINEMATOGRAFICO PREMIUM E ULTRA-REALISTICA — DESIGN PROFESSIONALE PER PRODUZIONI FILM.
+
+BLOCCO DEL RIFERIMENTO:
+Usa l'immagine di riferimento caricata come UNICA fonte dell'identità del soggetto.
+
+Preserva con la massima accuratezza l'esatta identità facciale, la forma del viso, gli occhi, le sopracciglia, il naso, le labbra, la mascella, il tono della pelle, l'acconciatura, il colore dei capelli, le proporzioni corporee, l'età e l'aspetto riconoscibile.
+
+Adattati naturalmente a QUALSIASI PERSONA, indipendentemente da genere, età, acconciatura, tipo di corpo o aspetto personale.
+
+CONCETTO CHIAVE:
+Trasforma la persona caricata in un personaggio cinematografico completamente sviluppato, ispirato al suo aspetto, personalità e presenza visiva.
+
+Progetta automaticamente un concetto di personaggio unico, outfit, accessori, acconciatura, palette colori e identità visiva adatti al soggetto.
+
+DESIGN DEL PERSONAGGIO:
+Crea un personaggio originale e visivamente potente, adatto a una produzione cinematografica premium in stile Hollywood o Netflix.
+
+Il personaggio può essere: GUERRIERO, VILLAIN, EROE, STREGA, PERSONAGGIO REALE, ESPLORATORE SCI-FI, ASSASSINO, DETECTIVE, SOPRAVVISSUTO, PERSONAGGIO FANTASY O PERSONAGGIO CINEMATOGRAFICO MODERNO.
+
+Scegli la direzione del personaggio più adatta in base al riferimento caricato e allo stile visivo desiderato.
+
+LAYOUT DELLA SCHEDA PERSONAGGIO:
+
+1. RITRATTO HERO:
+Crea un grande ritratto cinematografico drammatico e ultra-realista che mostri il viso, l'acconciatura, l'outfit e la personalità complessiva del personaggio.
+
+2. ESPRESSIONI FACCIALI:
+Crea una griglia professionale di espressioni facciali che includa: NEUTRA, SERIA, INTENSA, DOLCE, SORRISO, ARRABBIATA, TRISTE, MISTERIOSA.
+Mantieni un'identità facciale coerente in ogni riquadro.
+
+3. TURNAROUND / VEDUTE A CORPO INTERO:
+Mostra il personaggio in: VISTA FRONTALE VISTA LATERALE VISTA POSTERIORE VISTA TRE QUARTI
+Mantieni outfit, proporzioni corporee, accessori e acconciatura coerenti in tutte le viste.
+
+4. VARIAZIONI DI RITRATTO:
+Includi primi piani cinematografici da diverse angolazioni: RITRATTO FRONTALE RITRATTO TRE QUARTI RITRATTO LATERALE RITRATTO CON OMBRE DRAMMATICHE.
+
+5. PRIMI PIANI SU COSTUME E DETTAGLI:
+Mostra primi piani altamente dettagliati di: COPRICAPO O ACCONCIATURA DETTAGLI DEL COSTUME ACCESSORI DETTAGLI DELLA CINTURA O VITA DETTAGLI DEI GUANTI O DELLE MANI TRAMA DEL TESSUTO COLLANA O PROP SIGNATURE.
+
+6. PALETTE COLORI:
+Visualizza una palette colori professionale abbinata al costume del personaggio e al tema cinematografico.
+
+7. INFORMAZIONI SUL PERSONAGGIO:
+Includi una sezione pulita e professionale contenente: NOME DEL PERSONAGGIO RUOLO ALIAS PERSONALITÀ STILE TEMA ELEMENTO SIGNATURE
+
+8. WORLD-BUILDING CINEMATOGRAFICO:
+Aggiungi uno sfondo atmosferico sottile o un'illustrazione ambientale che completi il mondo del personaggio.
+
+STILE VISIVO:
+Concept art hollywoodiana premium. Fotografia ultra-realista. Design costumi di alto livello. Illuminazione cinematografica. Texture naturale della pelle. Dettagli realistici di tessuti e materiali. Scheda di riferimento per produzione film professionale. Layout editoriale elegante. Atmosfera cinematografica sottile. Dettagli facciali nitidi. Rendering fotorealistico.
+```
+
+<img src="https://cms-assets.youmind.com/media/1789970152422_3vld7y_HSnCVWybwAAnaFA.jpg" width="600" alt="Prompt per Scheda di Riferimento Personaggio Cinematografico">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=11053)**
+
+**Autore:** [M. Asif](https://x.com/meAsifAi) | **Fonte:** [Link](https://x.com/meAsifAi/status/2101515191158542788) | **Pubblicato:** Sep 20, 2026
+
+---
+### Animazione di Salvataggio del Drago durante una Valanga sul Treno
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt dettagliato per un cortometraggio animato cinematografico di 15 secondi che presenta un treno, una valanga e un salvataggio da parte di un drago, creato con Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Cortometraggio animato cinematografico di 15 secondi.
+Un treno passeggeri sfreccia attraverso una valle montana innevata.
+Davanti a sé, un'enorme valanga si stacca improvvisamente e inizia a precipitare verso i binari.
+Il treno frena bruscamente.
+I passeggeri guardano fuori dai finestrini mentre neve e rocce tuonano giù dalla montagna.
+Improvvisamente, un massiccio drago irrompe dalla foresta.
+Atterra proprio accanto ai binari e dispiega le sue enormi ali.
+La valanga colpisce.
+Il drago si ancora al terreno, proteggendo il treno dai detriti più pericolosi in caduta.
+La neve esplode intorno a lui.
+Il treno si ferma a pochi centimetri dal binario ostruito.
+All'interno della carrozza anteriore, una bambina preme la mano contro il finestrino.
+Il drago esausto si volta a guardarla.
+Lei sorride.
+Il drago abbassa delicatamente un'ala prima di scomparire nella foresta innevata.
+
+Animazione cinematografica stilizzata, design sofisticato delle creature, texture pittoriche, ambienti realistici, azione fisica drammatica, movimento dinamico della camera, forte senso di scala, finale emotivo caldo, colori naturali, illuminazione cinematografica, nessun dialogo, nessun potere magico, nessun orrore, nessuna violenza.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101414099632422912/img/vPUySBkizJaVP6E5.jpg" width="600" alt="Animazione di Salvataggio del Drago durante una Valanga sul Treno">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=11052)**
+
+**Autore:** [Alexandra Aisling](https://x.com/AllaAisling) | **Fonte:** [Link](https://x.com/AllaAisling/status/2101429374755262628) | **Pubblicato:** Sep 19, 2026
+
+---
 ### Prompt Video: Guerriero Oscuro nella Tempesta sul Tetto
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -5284,137 +5453,6 @@ Sempre nella stessa ripresa continua, lei [REF] sorride raggiante e corre in ava
 **Autore:** [I’m Bobo | Commission OPEN](https://x.com/imtheboboo) | **Fonte:** [Link](https://x.com/imtheboboo/status/2096961730282918046) | **Pubblicato:** Sep 7, 2026
 
 ---
-### Prompt per documentario naturalistico realistico
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt per un documentario naturalistico cinematografico per Seedance 2.0, con protagonista una madre lontra marina e il suo cucciolo in una baia di kelp, nello stile di BBC Planet Earth.
-
-#### 📝 Prompt
-
-```
-30 secondi, 16:9, stile documentario naturalistico BBC Planet Earth, cinematografia naturalistica ultra-realistica 8K. I raggi del sole mattutino trafiggono la nebbia sopra una calma baia di kelp del Pacifico. Una madre lontra marina galleggia placidamente sulla schiena in acque color smeraldo, avvolta nelle foglie di kelp, mentre il suo minuscolo e soffice cucciolo di 2 settimane dorme al sicuro sul suo petto. Ottica teleobiettivo naturale, obiettivo 200mm, profondità di campo ridotta, riflessi cristallini sull'acqua.\n\n0:00-0:06: Ripresa in movimento con teleobiettivo a pelo d'acqua. La luce solare cattura le goccioline sul pelo scuro e bagnato della madre mentre lecca delicatamente la testa del cucciolo. Il cucciolo allunga le zampette e emette un leggero squittio.\n\nVOCE FUORI CAMPO (voce documentaristica calda e gentile): "Qui, nel rifugio silenzioso della foresta di kelp, il mattino inizia con l'abbraccio di una madre."\n\n0:06-0:12: Primo piano del cucciolo che sbadiglia, si vede la lingua rosa, mentre arruffa il folto pelo color crema del petto con le zampette. La madre usa le zampe per ancorarsi a una fronda di kelp dorata.\n\nVOCE FUORI CAMPO: "Per questo cucciolo di due settimane, il petto della madre è l'isola più sicura nel vasto oceano."\n\n0:12-0:18: Lieve orbita fluttuante di 90 gradi attorno alle lontre. Caustiche di luce dorata danzano attraverso l'acqua color smeraldo limpida sotto di loro. Un leggero moto ondoso le solleva dolcemente.\n\nVOCE FUORI CAMPO: "Insieme, avvolte nel kelp vivente, cavalcano il ritmo gentile del mare."\n\n0:18-0:24: Macro ravvicinata del cucciolo che si strofina contro la guancia della madre. La madre avvolge entrambe le zampe anteriori attorno al suo cucciolo, chiudendo gli occhi in un sereno appagamento.\n\nVOCE FUORI CAMPO: "Un legame forgiato nel calore, nella deriva e nella quieta devozione."\n\n0:24-0:30: Lenta ascesa della telecamera che rivela l'intera baia di kelp illuminata dal sole, scogliere coperte di pini in lontananza avvolte nella nebbia mattutina, con la coppia di lontre che diventa un accogliente punto focale al centro dell'inquadratura.\n\nVOCE FUORI CAMPO: "Un altro giorno di pace sorge nel regno del kelp."\n\nSUONO: Lieve sciabordio dell'oceano, spruzzi delicati, piccolo squittio del cucciolo di lontra, respiro della madre, fruscio del kelp, calda narrazione documentaristica britannica.\n\nBLOCCHI: Fisica naturale del pelo, dinamiche dell'acqua realistiche, nessun oggetto umano, orizzonte stabile, color grading professionale per documentari naturalistici.\n\nNEGATIVO: Niente didascalie, testo, loghi, filigrane, musica di sottofondo, occhi da cartone animato, saturazione del colore esagerata, animali extra.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096952765604139008/img/NxhT1JxHWBsJQUi-.jpg" width="600" alt="Prompt per documentario naturalistico realistico">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10499)**
-
-**Autore:** [Arijiit Das](https://x.com/arijiitdas) | **Fonte:** [Link](https://x.com/arijiitdas/status/2096953083947528327) | **Pubblicato:** Sep 7, 2026
-
----
-### Vlog in palestra con videocamera DV
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Una sequenza di script per un vlog in palestra di 30 secondi con tagli multipli, che vede protagonista un'idol coreana durante l'allenamento, con l'estetica tipica delle videocamere DV portatili dei primi anni 2000.
-
-#### 📝 Prompt
-
-```
-Vlog in palestra da 30s — 9 tagli
-
-CAMERA/LOOK: Videocamera a nastro DV 16mm, POV a mano di CHASE o appoggiata sull'attrezzatura da palestra per gli esercizi. Inquadrature tremolanti, messa a fuoco ritardata, zoom goffi, volti occasionalmente tagliati. Texture del nastro morbida e sfocata, rumore leggero, luci della palestra soffuse, esposizione tremolante, contrasto attenuato, pelle realistica.
-
-STILE: Energico, vivace, autentica atmosfera da vlog in palestra. CHASE racconta i suoi progressi tra una serie e l'altra, mostrando impegno genuino e piccoli traguardi.
-
-CHASE: Idol coreana sulla ventina, coda di cavallo alta e nera, occhi espressivi, corporatura atletica e snella, leggermente sudata. Indossa un top sportivo a maniche lunghe sobrio, pantaloni da jogging/leggings, scarpe da ginnastica, asciugamano al collo, niente gioielli.
-
-AMBIENTAZIONE: Palestra serale con panca piana, macchina per shoulder press, stazione per dip, specchi, borraccia, illuminazione soffusa dall'alto.
-
-STORYBOARD:
-
-1. Preparazione panca (~3s): Inquadratura media fissa. Regola la presa e guarda la telecamera. “Ok, push day — iniziamo con la panca piana.”
-2. Ripetizioni panca (~3.5s): Angolazione laterale, ripetizioni controllate, ripone il bilanciere. “Sono dieci — onestamente mi sento più forte della scorsa settimana.”
-3. Camminata (~2.5s): Ripresa a mano mentre prende asciugamano/acqua e si dirige verso la shoulder press. “Bene, ora le spalle.”
-4. Shoulder press (~3.5s): Regola il sedile, esegue la serie, concentrata. “Ok, questo esercizio per me è sempre difficile.”
-5. Dettaglio presa (~2.5s): Macro ravvicinata delle mani che afferrano le maniglie, sudore sotto le luci. Solo audio ambientale della palestra.
-6. Recupero (~3s): Ripresa a mano. Scioglie le braccia, controlla la forma allo specchio. “Si sente già, decisamente.”
-7. Dip (~3.5s): Inquadratura fissa. Dip per tricipiti controllati. “Ok, dip per tricipiti — l'ultimo per oggi.”
-8. Conclusione (~3s): Primo piano a mano. Fa un passo indietro, leggermente senza fiato ma soddisfatta. “Direi che è stata una buona sessione.”
-9. Outro selfie (~3.5s): Selfie a braccio teso, si asciuga il viso, sorriso stanco. “Push day, fatto — ci vediamo presto per il pull day!”
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096941104356872193/img/RP03g4hrqUT1tEJM.jpg" width="600" alt="Vlog in palestra con videocamera DV">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10502)**
-
-**Autore:** [WasifAI](https://x.com/doctorwasif) | **Fonte:** [Link](https://x.com/doctorwasif/status/2096941153753108549) | **Pubblicato:** Sep 7, 2026
-
----
-### Sequenza di combattimento fantasy anime su un tetto
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Una dettagliata sequenza di combattimento fantasy ispirata agli anime, ambientata di notte sul tetto ghiacciato di un'università.
-
-#### 📝 Prompt
-
-```
-Crea un video di evoluzione sci-fi cinematografico ultra-realistico di 30 secondi, 16:9, con effetti visivi di livello hollywoodiano. Crea una sequenza fantasy d'azione ad alto impatto, ispirata agli anime, di 30 secondi in formato widescreen 16:9, qualità visiva 8K, movimento fluido a 60fps e coreografia di combattimento cinematografica premium. Ambienta l'intera sequenza sul tetto ghiacciato di un'accademia di combattimento universitaria moderna durante la notte. Il tetto è circondato da recinzioni di sicurezza in metallo, strutture di ventilazione, ingressi alle scale in cemento, pozzanghere ghiacciate, tubi coperti di neve e grandi serbatoi d'acqua. Oltre il tetto, una vasta città coreana brilla con insegne al neon in lontananza, traffico in movimento, finestre di grattacieli e una fredda luce lunare blu. Una neve leggera cade sulla scena mentre un forte vento invernale muove vestiti, capelli e particelle di ghiaccio. PERSONAGGIO PRINCIPALE: Una sicura studentessa ventunenne di un'accademia di combattimento coreana, con un aspetto coerente, ispirato agli anime ma fotorealistico. Ha un viso ovale minuto, pelle naturalmente chiara con texture realistica, occhi viola-grigi intensi e corti capelli color viola pastello tagliati appena sotto le orecchie con una frangia morbida e irregolare. Indossa per tutta la sequenza lo stesso blazer grigio attillato dell'accademia, camicia bianca, fiocco blu scuro, gonna a pieghe color carbone sopra pantaloncini di sicurezza neri attillati, collant termici neri e stivaletti scuri. Un lecca-lecca rosso alla ciliegia rimane tenuto con disinvoltura all'angolo della bocca. La sua espressione rimane calma, leggermente annoiata e disinvoltamente sicura anche durante gli attacchi più pericolosi. Preserva il suo viso, l'acconciatura, l'outfit, le proporzioni, il lecca-lecca e il design dei poteri di ghiaccio in ogni inquadratura. AVVERSARI: Quattro aggressori adulti mascherati che indossano abbigliamento tattico invernale nero coordinato, giubbotti antiproiettile leggeri, guanti isolanti e maschere scure senza tratti distintivi. Portano bastoni pieghevoli e lame da addestramento smussate. Mantieni i quattro aggressori identificabili tramite piccoli segni colorati sulle spalle: rosso, bianco, giallo e verde. I loro attacchi devono sembrare veloci e minacciosi, ma l'eroina li sconfigge senza causare ferite gravi. GANCIO INIZIALE: Inizia con un primo piano estremo dello stivale nero dell'eroina che calpesta una pozzanghera poco profonda sul tetto. Il gelo si diffonde istantaneamente da sotto la suola in delicati motivi ramificati. Inclina verso l'alto mentre lei sta sola vicino al bordo del tetto, una mano nella tasca del blazer e il lecca-lecca tra le labbra. Il vento solleva i suoi capelli viola pastello mentre il paesaggio urbano scuro brilla molto più in basso. Nel riflesso della pozzanghera appena ghiacciata, rivela quattro aggressori mascherati che si avvicinano alle sue spalle. L'aggressore con il segno rosso sulla spalla scatta in avanti e fa oscillare il bastone verso la sua testa. Usa un movimento di inseguimento laterale veloce mentre lei si piega con calma all'indietro sotto l'arma senza togliere la mano dalla tasca. Il bastone passa solo a pochi centimetri dal suo viso. Picchietta leggermente il tetto con la punta dello stivale, facendo sollevare una stretta cresta di ghiaccio sotto il piede dell'aggressore. Lui perde l'equilibrio e scivola oltre lei sulla superficie ghiacciata. L'aggressore con il segno bianco lancia diverse piccole lame da addestramento in metallo. Segui le lame rapidamente attraverso l'aria verso di lei. Lei solleva due dita e l'acqua sale da un canale di scolo del tetto in molteplici flussi contorti. I flussi si congelano istantaneamente a mezz'aria, intrappolando ogni lama all'interno di una parete di ghiaccio curva e trasparente. Ruota la telecamera attorno alla formazione sospesa mentre la luce lunare si rifrange attraverso il ghiaccio e proietta motivi blu pallido sul suo viso calmo. Lei morde il lecca-lecca e schiocca le dita lateralmente. La parete di ghiaccio si frattura in centinaia di frammenti scintillanti innocui mentre le lame da addestramento intrappolate cadono in sicurezza sul tetto. I frammenti rimangono sospesi attorno a lei per un momento drammatico prima di lanciarsi verso gli aggressori come una tempesta di neve controllata. Le particelle colpiscono le loro armature e li costringono a indietreggiare senza perforare i loro corpi. L'aggressore con il segno giallo salta dal tetto della scala con il bastone sollevato sopra la testa. Usa una telecamera dal basso posizionata vicino all'eroina mentre la sua sagoma attraversa la luna. Lei si gira con fluidità e disegna un movimento circolare con una mano. Un nastro spesso di acqua ghiacciata sale a spirale attorno al suo bastone, lo blocca in posizione e ne reindirizza lo slancio. Lui ruota innocuamente nell'aria e atterra su un morbido cumulo di neve appena formata vicino a un'unità di ventilazione. L'aggressore con il segno verde carica dal suo lato cieco. Lei toglie il lecca-lecca dalla bocca per la prima volta, espira una piccola nuvola di vapore freddo e tocca il lecca-lecca contro la ringhiera in metallo accanto a lei. Il gelo corre lungo la ringhiera e forma una pista di ghiaccio curva attraverso il tetto. Lei vi sale sopra e scivola all'indietro con un equilibrio senza sforzo mentre l'aggressore oscilla ripetutamente a vuoto. Usa una ripresa in movimento veloce accanto a loro mentre lei scivola sulla pista di ghiaccio, si china sotto un colpo, ruota attorno a un altro e afferra il polso dell'aggressore con una mano. Lo reindirizza verso gli altri aggressori che si stanno riprendendo. Tutti e quattro si scontrano insieme ma rimangono fisicamente illesi. Gli aggressori la circondano per un attacco finale coordinato. Passa a una vista dall'alto mentre corrono da quattro direzioni. Lei si accovaccia e preme il palmo piatto contro il tetto. Un impulso circolare di gelo bianco-blu esplode verso l'esterno attraverso il cemento. Alte strutture di ghiaccio curve si ergono attorno a lei come i petali di un fiore ghiacciato. Ogni petalo di ghiaccio blocca un aggressore e intrappola i suoi stivali saldamente al tetto lasciando la parte superiore del corpo illesa. Crea un breve momento di silenzio. Mostra l'eroina in piedi al centro dell'enorme fiore di ghiaccio traslucido mentre la neve e i cristalli di ghiaccio frantumati vanno alla deriva attorno a lei. Le luci della città brillano attraverso le strutture ghiacciate. Lei rimette il lecca-lecca in bocca, aggiusta il suo fiocco blu e guarda gli aggressori immobilizzati con un'espressione rilassata, quasi giocosa. Per il finale, un aggressore libera segretamente lo stivale e tenta un ultimo colpo da dietro. Senza voltarsi, lei schiocca le dita. Un piccolo ghiacciolo cade da un tubo sopraelevato e colpisce il tetto proprio davanti al suo stivale, spaventandolo e facendolo cadere all'indietro in un morbido cumulo di neve. Lei fa un piccolo sorriso soddisfatto e cammina verso l'ingresso delle scale mentre il fiore di ghiaccio gigante inizia a rilasciare gelo scintillante nell'aria notturna. STILE DELLA TELECAMERA: Usa movimenti di telecamera cinematografici energici ma controllati, riprese dal basso, movimenti laterali rapidi, primi piani di reazione, una ripresa orbitale fluida attorno alle lame ghiacciate e un'ampia inquadratura dall'alto per la formazione di ghiaccio finale. Rendi ogni attacco facile da seguire. Usa uno slancio realistico, un posizionamento accurato dei piedi, impatti credibili, un equilibrio corporeo naturale e transizioni fluide tra i tempi della coreografia. Evita rotazioni casuali della telecamera e vibrazioni eccessive. ILLUMINAZIONE ED EFFETTI VISIVI: Combina luce lunare fredda, lampade di sicurezza del tetto, luci rosse di avvertimento aereo e il caldo bagliore della città sottostante. I poteri del ghiaccio producono un'illuminazione blu-bianca contenuta che interagisce naturalmente con volti, vestiti, cemento e oggetti circostanti. Il ghiaccio deve avere trasparenza realistica, crepe interne, gelo, rifrazione, condensa, peso e fisica di frantumazione. Mostra uno spostamento dettagliato della neve, movimento dell'acqua ghiacciata, vapore del respiro e particelle scintillanti senza far sembrare la scena un videogioco. AUDIO: Usa un forte vento invernale, traffico cittadino in lontananza, stivali che raschiano sul ghiaccio, movimenti veloci dei bastoni, acqua che scorre dagli scarichi, profonde crepe di congelamento, impatti di ghiaccio affilati, suoni di frantumazione controllati, movimento dei vestiti e il clic silenzioso del lecca-lecca contro i denti. Aggiungi una colonna sonora d'azione elettronico-orchestrale tesa che cresce durante l'attacco coordinato e diventa improvvisamente silenziosa durante la rivelazione finale del fiore ghiacciato. Nessun dialogo parlato. CONTINUITÀ: Preserva l'identità dell'eroina, l'acconciatura viola pastello, il blazer grigio, il fiocco blu, il lecca-lecca, le condizioni dei vestiti e la personalità calma per tutto il tempo. Mantieni tutti e quattro
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096821250534563840/img/OEWuape71bf4uSSz.jpg" width="600" alt="Sequenza di combattimento fantasy anime su un tetto">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10445)**
-
-**Autore:** [Elaine Wright](https://x.com/ElaineWrigari1) | **Fonte:** [Link](https://x.com/ElaineWrigari1/status/2096821611240538456) | **Pubblicato:** Sep 7, 2026
-
----
-### Stile video amatoriale MiniDV dei primi anni 2000
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video di 15 secondi con timecode progettato per imitare un autentico video amatoriale MiniDV dei primi anni 2000, contenente movimenti di camera realistici, ricerca dell'autofocus e azioni fisiche.
-
-#### 📝 Prompt
-
-```
-Prompt Seedance di 15 secondi — 5 inquadrature
-
-Stile: Autentico video amatoriale MiniDV dei primi anni 2000. Giovane donna coreana, 24 anni, naturalmente attraente, lunghi capelli scuri, trucco leggero, cardigan color crema su maglietta bianca, jeans blu larghi, sneakers bianche. Accogliente soggiorno di un appartamento, calda luce del tardo pomeriggio. 4:3, tremolio a mano, ricerca dell'autofocus, grana/compressione del nastro, esposizione naturale. Mantenere costanti la donna, l'abbigliamento, i capelli e l'ambiente.
-
-INQUADRATURA 1 — 0:00–0:03
-Primo piano a mano mentre posiziona la videocamera MiniDV su un tavolino, regola l'inquadratura, preme il tasto di registrazione, poi esce rapidamente dall'inquadratura.
-INQUADRATURA 2 — 0:03–0:06
-Ripresa ampia in soggettiva. Lei entra di fretta nell'inquadratura per mettersi in posizione, si ferma al centro e si sistema velocemente i capelli.
-
-INQUADRATURA 3 — 0:06–0:09
-Si mette in posa con un sorriso naturale e carino, inclinando la testa e portando una mano vicino al viso. Mentre sposta il peso, il piede inciampa leggermente sul tappeto.
-INQUADRATURA 4 — 0:09–0:12
-Inciampa leggermente in avanti, si riprende, si blocca per un momento, poi torna immediatamente nella stessa identica posa, facendo finta di nulla.
-
-INQUADRATURA 5 — 0:12–0:15
-Mantiene la posa, cercando di rimanere seria, ma scoppia in una piccola risata. Guarda verso la camera con un sorriso imbarazzato.
-Fine: Mantenere naturalmente la sua espressione ridente con un leggero tremolio tipico del MiniDV. Inciampo realistico e sottile, nessuna caduta drammatica, nessuna rifinitura cinematografica, nessun rallentatore.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096667325953196032/img/a5g7r77sU2NnskNB.jpg" width="600" alt="Stile video amatoriale MiniDV dei primi anni 2000">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10500)**
-
-**Autore:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Fonte:** [Link](https://x.com/iamahmedfaraz66/status/2096808174556954911) | **Pubblicato:** Sep 7, 2026
-
----
-### Animazione in stile guazzo pittorico
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt per animazione 2.5D stilizzata che imita la texture e la luce dei dipinti di concept art a guazzo.
-
-#### 📝 Prompt
-
-```
-Animazione cinematografica 2.5D in stile rendering completamente pittorico, personaggi e ambienti che sembrano dipinti di concept art a guazzo in movimento, texture a pennellate visibili su pelle, tessuti ed edifici, blocchi di colore piatti e posterizzati con luci dai contorni netti
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096795599895252992/img/Pu7P2w9YjQAOREfg.jpg" width="600" alt="Animazione in stile guazzo pittorico">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10447)**
-
-**Autore:** [PixieVerse](https://x.com/itsPixieVerse) | **Fonte:** [Link](https://x.com/itsPixieVerse/status/2096801780697030939) | **Pubblicato:** Sep 7, 2026
-
----
 ---
 
 ## 📚 Altri prompt disponibili
@@ -5476,6 +5514,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-09-20T03:53:25.395Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-09-21T09:57:02.410Z</sub>
 
 </div>

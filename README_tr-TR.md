@@ -68,9 +68,9 @@ Neden galerimizi kullanmalısınız?
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **6403** |
+| 📝 Toplam İstem | **6408** |
 | ⭐ Öne Çıkan İstemler | **6** |
-| 🔄 Son Güncelleme | **2026-09-20** |
+| 🔄 Son Güncelleme | **2026-09-21** |
 
 ---
 
@@ -361,6 +361,175 @@ Ultra gerçekçi, Hızlı ve Öfkeli esintili enerji, fotogerçekçi aydınlatma
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Sinematik Moda Performansı Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gece ortamında kendine güvenen bir kadın ve dansçıların yer aldığı, ultra gerçekçi sinematik moda performans videosu oluşturmak için yüksek kaliteli prompt.
+
+#### 📝 İstem
+
+```
+Ultra gerçekçi sinematik moda performansı sahnesi; uzun siyah saçlı, güzel genç bir kadın merkezde kendinden emin bir şekilde duruyor. Zarif beyaz askısız korsaj üstü, koyu renk yüksek bel dar kesim kot pantolon, katmanlı gümüş kolyeler ve halka küpeler takıyor. Onu çevreleyen birkaç şık kadın dansçı, siyah deri kıyafetler içinde senkronize dans pozları alıyor. Arkalarında arabalar ve parlak farlarla dramatik bir gece ortamı, kasvetli endüstriyel atmosfer, sıcak arka aydınlatma, hafif pus, gerçekçi gölgeler, dinamik kompozisyon, güçlü ve kendinden emin ifade, profesyonel müzik videosu estetiği, fotogerçekçi cilt ve kumaş detayları, sığ alan derinliği, sinematik ışıklandırma, yüksek kontrast, 8K, HDR, 85mm lens, dikey 9:16 kompozisyon.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101890134324965376/img/6EDeEE39ubzVBvhK.jpg" width="600" alt="Sinematik Moda Performansı Sahnesi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11072)**
+
+**Yazar:** [AIwithMinal](https://x.com/AIwithMinal) | **Kaynak:** [Link](https://x.com/AIwithMinal/status/2101890198703354285) | **Yayınlandı:** Sep 21, 2026
+
+---
+### Oyuncu Koreli Kızın Oyun Parkındaki Video İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Seedance 2.0 için, genç bir kadının kaydıraktan salıncağa ve alışveriş arabasında uyumaya geçiş yaptığı sinematik bir sahneyi oluşturan detaylı bir video üretim istemi.
+
+#### 📝 İstem
+
+```
+Renkli açık hava oyun parkında oyuncu ve hayalperest bir gün geçiren güzel bir Koreli kızın videosunu oluştur.
+Günlük beyaz gömlek, koyu renk kot pantolon, spor ayakkabı giyer ve şık bir leopar desenli omuz çantası taşır.
+Parlak sarı renkteki oyun parkı kaydırağında rahatlayarak ve oyuncu bir şekilde uzanırken göster.
+Ardından, hafif yorgun ve düşünceli görünen bir şekilde salıncakta sessizce otururken geçiş yap.
+Daha sonra, komik bir turuncu koni şapkası takarak oyun alanının kenarında oturur ve tuhaf bir sinematik an yaratır.
+Yumuşak doğal gün ışığı ve sakin atmosfer eşliğinde beton basamaklarda huzurla dinlenirken göster.
+Komik ve beklenmedik bir sahne yaratan, basket toplarıyla dolu bir alışveriş arabasının içinde rahatça uyuyarak bitir.
+Gerçekçi yüz ifadeleri, doğal vücut hareketleri, sinematik kamera hareketleri, yumuşak renkler ve fotogerçekçi detaylar kullan.
+Koreli kızın kimliğini ve görünümünü tüm video boyunca tutarlı tut; akıcı geçişler ve oyuncu sinematik hikaye anlatımı stili ile.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101889348534956032/img/I07P989JdZB8i-lk.jpg" width="600" alt="Oyuncu Koreli Kızın Oyun Parkındaki Video İstemi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11071)**
+
+**Yazar:** [liana](https://x.com/Lianaalane) | **Kaynak:** [Link](https://x.com/Lianaalane/status/2101889590621536594) | **Yayınlandı:** Sep 21, 2026
+
+---
+### Lüks Cilt Bakımı Reklam Videosu İstem Metni
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Su temalı bir ortamda ürün kavanozunu sinematik geçişlerle gösteren, 15 saniyelik ultra gerçekçi lüks cilt bakımı reklamı oluşturmak için detaylı istem metni.
+
+#### 📝 İstem
+
+```
+Serin mavi ve ferahlatıcı bir ortamda, üzerinde “AQUA LUXE – DEEP HYDRATION” etiketi bulunan zarif cam kavanozun yer aldığı 15 saniyelik ultra gerçekçi lüks cilt bakımı reklamı oluşturun. Yumuşak ışık huzmeleri ve ince su parçacıklarıyla temiz ve premium bir atmosfer yaratan yumuşak mavi atmosferik arka planla başlayın. Gerçekçi yansımalar ve sinematik alan derinliğiyle parlak su yüzeyinde duran cilt bakım kavanozunu yavaşça ortaya çıkarın. Metalik gümüş kapak ve cam ambalaj üzerinde yumuşak vurgular kayarken kamerayı giderek yaklaştırın. Kavanozu, lüks bir cilt bakımı dokusu yaratmak için etrafında zarifçe akan pürüzsüz, ipeksi beyaz krem benzeri dalgalara sarın. Gerçekçi fizik kurallarına uygun olarak sahne boyunca doğal hareket eden yüzen su damlacıkları ve küçük kabarcıklar ekleyin. Kavanozu tamamen net ve merkezde tutarken ürünü saran kristal berraklığında dramatik bir su sıçramasına geçiş yapın. Taze nemlendirme ilham veren bir atmosfer için sıçramanın etrafına narin beyaz çiçekler ve taze yeşil yapraklar ekleyin. Su damlacıkları, çiçekler ve yumuşak parlayan ışıklarla çevrili, premium sinematik aydınlatma ve kusursuz ürün odağıyla mavi arka plana karşı merkezde duran AQUA LUXE DEEP HYDRATION kavanozunun güzel bir ana çekimle bitirin.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101887426138681344/img/DRaV306w9sxwKjTb.jpg" width="600" alt="Lüks Cilt Bakımı Reklam Videosu İstem Metni">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11073)**
+
+**Yazar:** [Maha](https://x.com/Aiwithmaha) | **Kaynak:** [Link](https://x.com/Aiwithmaha/status/2101887507059351894) | **Yayınlandı:** Sep 21, 2026
+
+---
+### Sinematik Karakter Referans Sayfası İstemcisi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Seedance 2.0 Fast kullanılarak yüklenen görsellerden ultra gerçekçi sinematik karakter referans sayfaları oluşturmak için kapsamlı bir istem.
+
+#### 📝 İstem
+
+```
+PREMİUM, ULTRA GERÇEKÇİ SİNEMATİK KARAKTER REFERANS SAYFASI OLUŞTUR — PROFESYONEL FİM PRODÜKSİYONU TASARIMI.
+
+REFERANS KİLİDİ:
+Yüklenen referans görseli, öznenin kimliği için TEK kaynak olarak kullan.
+
+Yüz kimliğini, yüz şeklini, gözleri, kaşları, burnu, dudakları, çene hattını, ten rengini, saç stilini, saç rengini, vücut oranlarını, yaşı ve tanınabilir görünümü maksimum doğrulukla koru.
+
+Cinsiyet, yaş, saç stili, vücut tipi veya kişisel görünüm ne olursa olsun HERHANGİ BİR KİŞİYE doğal şekilde uyum sağla.
+
+TEMEL KONSEPT:
+Yüklenen kişiyi; görünüşlerinden, kişiliklerinden ve görsel varlıklarından ilham alan tam gelişmiş bir sinematik karaktere dönüştür.
+
+Özneye uygun benzersiz bir karakter konsepti, kıyafet, aksesuar, saç stili, renk paleti ve görsel kimlik otomatik olarak tasarla.
+
+KARAKTER TASARIMI:
+Premium Hollywood veya Netflix tarzı film prodüksiyonu için uygun, görsel açıdan güçlü, özgün bir karakter yarat.
+
+Karakter şunlardan biri olabilir: BİR SAVAŞÇI, KÖTÜ ADAM, KAHRAMAN, CADILAR, KRALLIK ÜYESİ, BİLİM KURGU KEŞİFÇİSİ, SUİKASTÇI, DETEKTİF, HAYATTA KALAN, FANTASTİK KARAKTER VEYA MODERN SİNEMATİK KİŞİLİK.
+
+Yüklenen referansa ve amaçlanan görsel stile göre en uygun karakter yönünü seç.
+
+KARAKTER SAYFASI DÜZENİ:
+
+1. HERO PORTRAIT (KAHRAMAN PORTRESİ):
+Karakterin yüzünü, saç stilini, kıyafetini ve genel kişiliğini gösteren tek büyük, dramatik, ultra gerçekçi sinematik portre oluştur.
+
+2. FACIAL EXPRESSIONS (YÜZ İFADELERİ):
+Şunları içeren profesyonel bir yüz ifadesi gridi oluştur: NÖTR, CİDDİ, YOĞUN, YUMUŞAK, GÜLÜMSEME, ÖFKELİ, ÜZGÜN, GİZEMLİ.
+Her panelde tutarlı yüz kimliğini koru.
+
+3. TURNAROUND / FULL BODY VIEWS (TURNAOUT / TAM GÖRÜNÜM):
+Karakteri şu açılardan göster: ÖN GÖRÜNÜM YAN GÖRÜNÜM ARKA GÖRÜNÜM ÜÇ ÇEYREK GÖRÜNÜM
+Tüm görünümlerde tutarlı kıyafet, vücut oranları, aksesuarlar ve saç stilini koru.
+
+4. PORTRAIT VARIATIONS (PORTRE VARYASYONLARI):
+Farklı açılardan sinematik yakın çekimler dahil et: ÖN PORTRE ÜÇ ÇEYREK PORTRE YAN PORTRE DRAMATİK GÖLGE PORTRESİ.
+
+5. COSTUME & DETAIL CLOSE-UPS (KIYAFET & DETAY YAKIN ÇEKİMLERİ):
+Şunların yüksek detaylı yakın çekimlerini göster: BAŞLIK VEYA SAÇ STİLİ KIYAFET DETAYLARI AKSESUARLAR KEMER VEYA BEL DETAYLARI ELDİVEN VEYA EL DETAYLARI KUMAŞ DOKUSU KOLYE VEYA İMZALI PROP.
+
+6. COLOR PALETTE (RENK PALETİ):
+Karakterin kıyafeti ve sinematik temasıyla eşleşen profesyonel bir renk paleti görüntüle.
+
+7. CHARACTER INFORMATION (KARAKTER BİLGİLERİ):
+Şunları içeren temiz, profesyonel bir bölüm ekle: KARAKTER ADI ROL TAKMA AD KİŞİLİK STİL TEMA İMZALI ÖĞE
+
+8. CINEMATIC WORLD-BUILDING (SİNEMATİK DÜNYA İNŞASI):
+Karakterin dünyasını tamamlayan ince atmosferik bir arka plan veya çevresel illüstrasyon ekle.
+
+GÖRSEL STİL:
+Premium Hollywood konsept sanatı. Ultra gerçekçi fotoğrafçılık. Yüksek kaliteli kostüm tasarımı. Sinematik aydınlatma. Doğal cilt dokusu. Gerçekçi kumaş ve malzeme detayları. Profesyonel film prodüksiyon referans sayfası. Zarif editoryal düzen. İnce sinematik atmosfer. Keskin yüz detayları. Fotogerçekçi render.
+```
+
+<img src="https://cms-assets.youmind.com/media/1789970152422_3vld7y_HSnCVWybwAAnaFA.jpg" width="600" alt="Sinematik Karakter Referans Sayfası İstemcisi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11053)**
+
+**Yazar:** [M. Asif](https://x.com/meAsifAi) | **Kaynak:** [Link](https://x.com/meAsifAi/status/2101515191158542788) | **Yayınlandı:** Sep 20, 2026
+
+---
+### Tren Çığ Can Kurtarma Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Seedance 2.0 ile oluşturulan, bir treni, çığı ve ejderha kurtarmasını içeren 15 saniyelik sinematik animasyon kısa filmi için detaylı istem.
+
+#### 📝 İstem
+
+```
+15 saniyelik sinematik animasyon kısa filmi.
+Bir yolcu treni karlı bir dağ vadisinde hızla ilerler.
+Önde, devasa bir çığ aniden kopar ve raylara doğru gürleyerek inmeye başlar.
+Tren sert fren yapar.
+Yolcular, kar ve kayaların dağdan aşağıya doğru gümbürdeyişini pencerelerden izler.
+Aniden ormandan devasa bir ejderha fırlar.
+Doğrudan rayların yanına iner ve kanatlarını sonuna kadar açar.
+Çığ vurur.
+Ejderha kendini yere sabitler ve düşen molozların en kötüsünden treni korur.
+Etrafında kar patlamaları olur.
+Tren, kapalı raylara santimetreler mesafede durur.
+Ön vagonda küçük bir kız elini pencereye bastırır.
+Bitkin ejderha ona geri bakar.
+Kız gülümser.
+Ejderha nazikçe bir kanadını indirir ve karlı ormanda kaybolur.
+
+Stilize sinematik animasyon, sofistike yaratık tasarımı, resimsel dokular, gerçekçi ortamlar, dramatik fiziksel aksiyon, dinamik kamera hareketleri, güçlü ölçek hissi, sıcak duygusal son, doğal renkler, sinematik ışıklandırma, diyalog yok, sihirli güçler yok, korku yok, şiddet yok.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101414099632422912/img/vPUySBkizJaVP6E5.jpg" width="600" alt="Tren Çığ Can Kurtarma Animasyonu">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11052)**
+
+**Yazar:** [Alexandra Aisling](https://x.com/AllaAisling) | **Kaynak:** [Link](https://x.com/AllaAisling/status/2101429374755262628) | **Yayınlandı:** Sep 19, 2026
+
+---
 ### Karanlık Savaşçı Fırtına Çatı Video İstemi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -5256,137 +5425,6 @@ Hala aynı kesintisiz çekimde, kadın [REF] parlak bir şekilde gülümsüyor v
 **Yazar:** [I’m Bobo | Commission OPEN](https://x.com/imtheboboo) | **Kaynak:** [Link](https://x.com/imtheboboo/status/2096961730282918046) | **Yayınlandı:** Sep 7, 2026
 
 ---
-### Gerçekçi Vahşi Yaşam Doğa Belgeseli İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 için BBC Planet Earth tarzında, bir anne su samuru ve yavrusunun yosunlu bir koydaki yaşamını konu alan sinematik doğa belgeseli istemi.
-
-#### 📝 İstem
-
-```
-30 saniye, 16:9, BBC Planet Earth doğa belgeseli tarzı, 8K ultra gerçekçi vahşi yaşam sinematografisi. Sabah güneş ışınları, sakin bir Pasifik yosun koyunun üzerindeki sisin arasından süzülüyor. Bir anne su samuru, zümrüt yeşili sularda, dev yosun yapraklarına sarılmış bir şekilde sırtüstü huzurla yüzerken, 2 haftalık minik tüylü yavrusu güven içinde annesinin göğsünde uyuyor. Doğal telefoto optikleri, 200mm lens, sığ alan derinliği, kristal berraklığında su parıltıları.\n\n0:00-0:06: Su seviyesinden düşük açılı telefoto takip çekimi. Anne su samuru yavrusunun başını nazikçe yalarken, güneş ışığı annenin ıslak koyu tüyleri üzerindeki damlacıkları aydınlatıyor. Yavru, minik patilerini esnetiyor ve hafif bir ciyaklama sesi çıkarıyor.\n\nANLATIM (sıcak, nazik belgesel seslendirmesi): "Burada, yosun ormanının sessiz sığınağında, sabah bir annenin kucağında başlar."\n\n0:06-0:12: Yavrunun esnediği yakın çekim; pembe dili görünüyor, yoğun krem rengi göğüs tüylerini minik patileriyle kabartıyor. Anne, onları altın rengi bir yosun yaprağına sabitlemek için patilerini kullanıyor.\n\nANLATIM: "Bu iki haftalık yavru için annesinin göğsü, uçsuz bucaksız okyanustaki en güvenli adadır."\n\n0:12-0:18: Su samurlarının etrafında 90 derecelik nazik yüzer yörünge çekimi. Altın rengi ışık yansımaları, altlarındaki berrak zümrüt suyun üzerinde dans ediyor. Hafif bir dalga onları nazikçe yükseltiyor.\n\nANLATIM: "Canlı yosunlara sarılmış bir şekilde, denizin nazik ritmiyle birlikte sürükleniyorlar."\n\n0:18-0:24: Yavrunun annesinin yanağına sokulduğu yakın makro çekim. Anne, her iki ön patisiyle yavrusunu sarıyor ve huzur içinde gözlerini kapatıyor.\n\nANLATIM: "Sıcaklık, sürüklenme ve sessiz bir bağlılıkla örülmüş bir bağ."\n\n0:24-0:30: Yavaşça yükselen vinç çekimi; güneşle aydınlanmış yosun koyunun tamamını, sabah sisindeki çam ağaçlarıyla kaplı uzak yamaçları ortaya çıkarıyor ve su samuru ikilisi kadrajın merkezinde huzurlu bir odak noktası olarak kalıyor.\n\nANLATIM: "Yosun krallığında huzurlu bir gün daha başlıyor."\n\nSES: Hafif okyanus dalgaları, nazik su sıçraması, minik su samuru yavrusunun ciyaklaması, annenin nefes alışverişi, yosun hışırtısı, sıcak İngiliz belgesel anlatımı.\n\nKİLİTLER: Doğal tüy fiziği, gerçekçi su dinamikleri, insan yapımı nesne yok, sabit ufuk çizgisi, profesyonel vahşi yaşam renk düzenlemesi.\n\nNEGATİF: Altyazı, metin, logo, filigran, arka plan müziği, çizgi film gözleri, abartılı renk doygunluğu, fazladan hayvan yok.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096952765604139008/img/NxhT1JxHWBsJQUi-.jpg" width="600" alt="Gerçekçi Vahşi Yaşam Doğa Belgeseli İstemi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10499)**
-
-**Yazar:** [Arijiit Das](https://x.com/arijiitdas) | **Kaynak:** [Link](https://x.com/arijiitdas/status/2096953083947528327) | **Yayınlandı:** Sep 7, 2026
-
----
-### DV Kasetli Kamera ile Spor Vlog'u
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 2000'lerin başındaki el tipi DV kamera estetiğiyle çekilmiş, egzersiz yapan bir Koreli idolü konu alan 30 saniyelik çok kesitli spor vlog senaryosu.
-
-#### 📝 İstem
-
-```
-30 Saniyelik Spor Vlog'u — 9 Kesit
-
-KAMERA/GÖRÜNÜM: DV 16mm kasetli kamera, CHASE tarafından çekilen el tipi POV veya ağırlık kaldırırken spor ekipmanına sabitlenmiş çekim. Sarsıntılı kadraj, gecikmeli odaklama, acemi yakınlaştırmalar, ara sıra kadraj dışı kalan yüzler. Yumuşak bulanık kaset dokusu, hafif kumlanma, parlayan spor salonu ışıkları, titreyen pozlama, düşük kontrast, gerçekçi cilt tonu.
-
-STİL: Odaklanmış, neşeli, otantik spor vlog'u enerjisi. CHASE set aralarında ilerleyişinden bahsediyor, gerçek bir çaba ve küçük başarılar sergiliyor.
-
-CHASE: 20'li yaşlarında Koreli idol, uzun siyah at kuyruğu, etkileyici gözler, ince atletik yapı, hafif terli. Sade uzun kollu spor üst, eşofman altı/tayt, spor ayakkabı, boynunda havlu, takı yok.
-
-MEKAN: Bench press, omuz pres makinesi, dip istasyonu, aynalar, su şişesi ve yumuşak tavan aydınlatması olan akşam vakti bir spor salonu.
-
-ÇEKİM PLANI:
-
-1. Bench hazırlığı (~3 sn): Sabit orta çekim. Tutuşunu düzeltir ve kameraya bakar. “Tamam, itiş günü — bench press ile başlıyoruz.”
-2. Bench tekrarları (~3.5 sn): Yan açı, kontrollü tekrarlar, barı yerine koyar. “İşte on — dürüst olmak gerekirse geçen haftadan daha güçlü hissettim.”
-3. Yürüyüş (~2.5 sn): Havluyu/suyu alıp omuz pres makinesine giderken el tipi çekim. “Pekala, sırada omuzlar var.”
-4. Omuz pres (~3.5 sn): Koltuğu ayarlar, seti gerçekleştirir, odaklanmış. “Tamam, bu benim için her zaman zor olmuştur.”
-5. Tutuş detayı (~2.5 sn): Tutacakları kavrayan ellerin makro yakın çekimi, ışıkta parlayan ter. Sadece ortamdaki spor salonu sesleri.
-6. Toparlanma (~3 sn): El tipi çekim. Kollarını sallar, aynada formunu kontrol eder. “Bunu kesinlikle şimdiden hissediyorum.”
-7. Dips (~3.5 sn): Sabit çekim. Kontrollü triceps dips. “Tamam, triceps dips — bugünün son hareketi.”
-8. Bitiş (~3 sn): Yakın el tipi çekim. Geri çekilir, hafif nefes nefese ama memnun. “Bence sağlam bir antrenmandı.”
-9. Selfie kapanış (~3.5 sn): Kol mesafesinden selfie, yüzünü siler, yorgun bir gülümseme. “İtiş günü bitti — çekiş gününde görüşmek üzere!”
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096941104356872193/img/RP03g4hrqUT1tEJM.jpg" width="600" alt="DV Kasetli Kamera ile Spor Vlog'u">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10502)**
-
-**Yazar:** [WasifAI](https://x.com/doctorwasif) | **Kaynak:** [Link](https://x.com/doctorwasif/status/2096941153753108549) | **Yayınlandı:** Sep 7, 2026
-
----
-### Anime Fantastik Çatı Üstü Dövüş Sekansı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gece vakti donmuş bir üniversite çatısında geçen, anime esintili detaylı bir fantastik dövüş sekansı.
-
-#### 📝 İstem
-
-```
-30 saniyelik, ultra gerçekçi, sinematik bir bilim kurgu evrim videosu oluşturun; 16:9 formatında, Hollywood seviyesinde görsel efektlerle. 16:9 geniş ekranda, 8K görsel kalitesinde, akıcı 60fps hareket kabiliyetine ve birinci sınıf sinematik dövüş koreografisine sahip, 30 saniyelik ultra gerçekçi, anime esintili yüksek aksiyonlu bir fantastik sekans yaratın. Sekansın tamamını gece vakti modern bir üniversite dövüş akademisinin donmuş çatısında kurgulayın. Çatı; metal güvenlik çitleri, havalandırma yapıları, beton merdiven girişleri, donmuş su birikintileri, karla kaplı borular ve büyük su depoları ile çevrilidir. Çatının ötesinde, uzak neon tabelalar, hareketli trafik, yüksek binaların pencereleri ve soğuk mavi ay ışığıyla parlayan geniş bir Kore şehri uzanmaktadır. Sahne boyunca hafif kar yağarken, sert bir kış rüzgarı kıyafetleri, saçları ve gevşek buz parçacıklarını hareket ettirir. ANA KARAKTER: Anime esintili ancak fotogerçekçi bir görünüme sahip, 21 yaşında, özgüvenli bir Koreli üniversite dövüş akademisi öğrencisi. Küçük oval bir yüze, gerçekçi dokuya sahip doğal açık ten rengine, keskin menekşe-gri gözlere ve kulaklarının hemen altında biten, yumuşak düzensiz kâküllü, kısa pastel mor saçlara sahip. Sekans boyunca aynı oturan gri akademi blazer ceketini, beyaz gömleğini, koyu mavi fiyongunu, siyah dar güvenlik şortunun üzerine giyilmiş kömür rengi pileli eteğini, siyah termal taytını ve koyu renkli kısa botlarını giyer. Ağzının kenarında kırmızı bir çilekli lolipop durmaktadır. En tehlikeli saldırılar sırasında bile ifadesi sakin, hafif sıkılmış ve zahmetsizce özgüvenlidir. Her çekimde yüzünü, saç stilini, kıyafetini, oranlarını, lolipopunu ve buz gücü tasarımını tutarlı bir şekilde koruyun. RAKİPLER: Siyah kışlık taktik kıyafetler, hafif vücut zırhı, yalıtımlı eldivenler ve yüzü belli etmeyen koyu maskeler giyen dört yetişkin maskeli saldırgan. Katlanabilir asalar ve kör eğitim bıçakları taşırlar. Dört saldırganı küçük renkli omuz işaretleri sayesinde ayırt edilebilir kılın: kırmızı, beyaz, sarı ve yeşil. Saldırıları hızlı ve tehditkar hissettirmeli, ancak kahramanımız onları yaralayıcı bir şiddet uygulamadan etkisiz hale getirmeli. AÇILIŞ: Kahramanın siyah botunun çatıdaki sığ bir su birikintisine basışının aşırı yakın plan çekimiyle başlayın. Don, tabanının altından dışarıya doğru narin dallanan desenler halinde anında yayılır. Çatının kenarında tek başına dururken, bir eli blazer ceketinin cebinde ve lolipopu dudaklarının arasındayken kamerayı yukarı doğru eğin. Rüzgar pastel mor saçlarını kaldırırken, aşağıda karanlık şehir manzarası parlar. Yeni donmuş su birikintisinin yansımasında, arkasından yaklaşan dört maskeli saldırganı gösterin. Kırmızı omuz işaretli saldırgan öne atılır ve asasını başına doğru sallar. Elini cebinden çıkarmadan silahın altından sakince geriye doğru eğilirken hızlı bir yanal takip çekimi kullanın. Asa yüzünün sadece santimetre üzerinden geçer. Botunun ucuyla çatıya hafifçe vurur, bu da saldırganın öndeki ayağının altında dar bir buz sırtının yükselmesine neden olur. Dengesini kaybeder ve donmuş yüzey üzerinde kayarak yanından geçer. Beyaz işaretli saldırgan birkaç küçük metal eğitim bıçağı fırlatır. Bıçakları havada ona doğru hızla takip edin. İki parmağını kaldırır ve çatıdaki bir drenaj kanalından su, çoklu kıvrımlı akışlar halinde yükselir. Akışlar havada anında donarak her bıçağı şeffaf, kavisli bir buz duvarının içine hapseder. Kamera, ay ışığı buzun içinden kırılıp sakin yüzüne soluk mavi desenler yansıtırken asılı kalan oluşumun etrafında döner. Lolipopu ısırır ve parmaklarını yana doğru şaklatır. Buz duvarı yüzlerce zararsız parıltılı parçaya ayrılırken, hapsolmuş eğitim bıçakları güvenli bir şekilde çatıya düşer. Parçalar, kontrollü bir kar fırtınası gibi saldırganlara doğru fırlamadan önce bir anlığına etrafında asılı kalır. Parçacıklar zırhlarına çarpar ve vücutlarına saplanmadan onları geriye doğru iter. Sarı işaretli saldırgan, asası havada kalkık bir şekilde merdiven çatısından atlar. Silüeti ayın önünden geçerken, kahramana yakın düşük açılı bir kamera kullanın. Sakince döner ve bir eliyle dairesel bir hareket çizer. Kalın bir donmuş su şeridi asasının etrafında yukarı doğru spiral çizer, onu yerine kilitler ve momentumunu yönünü değiştirir. Havada zararsızca döner ve bir havalandırma ünitesinin yanındaki taze oluşmuş yumuşak bir kar yığınının üzerine iner. Yeşil işaretli saldırgan kör noktasından saldırır. Lolipopu ilk kez ağzından çıkarır, küçük bir soğuk buhar bulutu üfler ve lolipopu yanındaki metal korkuluğa değdirir. Don, korkuluk boyunca hızla ilerler ve çatı boyunca kavisli bir buz yolu oluşturur. Üzerine basar ve saldırgan defalarca sallanıp ıskalarken zahmetsiz bir dengeyle geriye doğru kayar. Buz yolunda kayarken, bir darbenin altından eğilirken, diğerinin etrafında dönerken ve saldırganın bileğini tek eliyle yakalarken yanlarında hızlı bir takip çekimi kullanın. Onu toparlanmaya çalışan diğer saldırganlara doğru yönlendirir. Dördü de birbirine çarpar ancak fiziksel olarak zarar görmezler. Saldırganlar koordineli bir son saldırı için etrafını sararlar. Dört yönden hücum ederken geniş bir tepe açısına geçin. Çömelir ve avucunu çatıya düz bir şekilde bastırır. Mavi-beyaz bir don darbesi beton boyunca dışarı doğru patlar. Uzun kavisli buz yapıları, donmuş bir çiçeğin yaprakları gibi etrafında yükselir. Her buz yaprağı bir saldırganı engeller ve botlarını üst vücuduna zarar vermeden çatıya güvenli bir şekilde hapseder. Kısa bir sessizlik anı yaratın. Kahramanı, kar ve parçalanmış buz kristalleri etrafında süzülürken devasa şeffaf buz çiçeğinin merkezinde dururken gösterin. Şehir ışıkları donmuş yapıların arasından parıldar. Lolipopu tekrar ağzına koyar, mavi fiyongunu düzeltir ve hareketsiz kalan saldırganlara rahat, neredeyse oyuncu bir ifadeyle bakar. Final için, bir saldırgan gizlice botunu kurtarır ve arkadan son bir saldırı denemeye çalışır. Arkasına bakmadan parmaklarını şaklatır. Yukarıdaki bir borudan küçük bir buz sarkıtı düşer ve botunun hemen önünde çatıya çarparak onu şaşırtır ve yumuşak bir kar yığınının içine geriye doğru düşmesine neden olur. Küçük, tatmin olmuş bir gülümseme atar ve dev buz çiçeği gece havasına ışıltılı kırağılar salmaya başlarken merdiven girişine doğru yürür. KAMERA STİLİ: Enerjik ama kontrollü sinematik kamera hareketi, düşük açılı takip, hızlı yan hareketler, yakın plan tepki çekimleri, donmuş bıçakların etrafında pürüzsüz bir yörünge çekimi ve final buz oluşumu için geniş bir tepe açısı kullanın. Her saldırıyı takip etmesi kolay tutun. Gerçekçi momentum, doğru ayak yerleşimi, inandırıcı darbeler, doğal vücut dengesi ve koreografi vuruşları arasında akıcı geçişler kullanın. Rastgele kamera dönüşlerinden ve aşırı sarsıntıdan kaçının. AYDINLATMA VE VFX: Soğuk ay ışığını, çatı güvenlik lambalarını, kırmızı uçak ikaz ışıklarını ve aşağıdaki sıcak şehir parıltısını birleştirin. Buz güçleri, yüzler, kıyafetler, beton ve çevredeki nesnelerle doğal bir şekilde etkileşime giren kontrollü mavi-beyaz bir aydınlatma üretir. Buz; gerçekçi şeffaflığa, iç çatlaklara, kırağıya, kırılmaya, yoğunlaşmaya, ağırlığa ve parçalanma fiziğine sahip olmalıdır. Sahneyi bir video oyunu gibi göstermeden detaylı kar yer değiştirmesini, donmuş su hareketini, nefes buharını ve ışıltılı parçacıkları gösterin. SES: Sert kış rüzgarı, uzak şehir trafiği, buz üzerinde kazınan botlar, hızlı asa hareketleri, giderlerden akan su, derin donma çatlakları, keskin buz darbeleri, kontrollü parçalanma sesleri, kıyafet hareketi ve lolipopun dişlerine çarpmasının sessiz tıkırtısını kullanın. Koordineli saldırı sırasında yükselen ve finaldeki donmuş çiçek ortaya çıkışında aniden sessizleşen gerilimli elektronik-orkestral bir aksiyon müziği ekleyin. Sözlü diyalog yok. SÜREKLİLİK: Kahramanın kimliğini, pastel mor saç stilini, gri blazer ceketini, mavi fiyongunu, lolipopunu, kıyafet durumunu ve sakin kişiliğini baştan sona koruyun.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096821250534563840/img/OEWuape71bf4uSSz.jpg" width="600" alt="Anime Fantastik Çatı Üstü Dövüş Sekansı">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10445)**
-
-**Yazar:** [Elaine Wright](https://x.com/ElaineWrigari1) | **Kaynak:** [Link](https://x.com/ElaineWrigari1/status/2096821611240538456) | **Yayınlandı:** Sep 7, 2026
-
----
-### 2000'lerin başı MiniDV ev videosu estetiği
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gerçekçi kamera hareketleri, otomatik odaklama arayışı ve fiziksel eylemler içeren, 2000'lerin başındaki otantik MiniDV ev videolarını taklit etmek için tasarlanmış 15 saniyelik zaman kodlu video istemi.
-
-#### 📝 İstem
-
-```
-15 saniyelik Seedance istemi — 5 çekim
-
-Stil: 2000'lerin başından kalma otantik MiniDV ev videosu. 24 yaşında, doğal çekici, uzun koyu saçlı, hafif makyajlı, beyaz tişört üzerine krem rengi hırka, bol mavi kot pantolon ve beyaz spor ayakkabı giyen genç Koreli kadın. Rahat bir apartman dairesi oturma odası, sıcak ikindi güneşi. 4:3 formatı, elde çekim sarsıntısı, otomatik odaklama arayışı, kaset greni/sıkıştırması, doğal pozlama. Kadını, kıyafeti, saçı ve ortamı tutarlı tutun.
-
-1. ÇEKİM — 0:00–0:03
-MiniDV kamerasını küçük bir masaya yerleştirirken, kadrajı ayarlarken, kayıt tuşuna basarken ve ardından hızla kadrajdan çıkarken yakın çekim elde çekim.
-2. ÇEKİM — 0:03–0:06
-Geniş kamera bakış açısı. Pozisyon almak için hızla kadraja girer, merkezde durur ve hızlıca saçını düzeltir.
-
-3. ÇEKİM — 0:06–0:09
-Başını yana eğip bir elini yüzüne yakın tutarak sevimli ve doğal bir gülümsemeyle poz verir. Ağırlığını değiştirirken ayağı hafifçe halıya takılır.
-4. ÇEKİM — 0:09–0:12
-Hafifçe öne doğru sendeler, kendini toparlar, bir anlığına donup kalır ve ardından hiçbir şey olmamış gibi hemen aynı poza geri döner.
-
-5. ÇEKİM — 0:12–0:15
-Pozunu korur, ciddi kalmaya çalışır ancak hafifçe gülmeye başlar. Utangaç bir gülümsemeyle kameraya bakar.
-Bitiş: Hafif MiniDV sarsıntısıyla gülümseyen ifadesini doğal bir şekilde koruyun. Hafif ve gerçekçi bir sendeleme olsun; dramatik bir düşüş, sinematik bir cila veya ağır çekim olmasın.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096667325953196032/img/a5g7r77sU2NnskNB.jpg" width="600" alt="2000'lerin başı MiniDV ev videosu estetiği">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10500)**
-
-**Yazar:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Kaynak:** [Link](https://x.com/iamahmedfaraz66/status/2096808174556954911) | **Yayınlandı:** Sep 7, 2026
-
----
-### Guaş Boya Tarzında Animasyon
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Guaş boya konsept sanatının dokusunu ve ışığını taklit eden stilize 2.5D animasyon istemi.
-
-#### 📝 İstem
-
-```
-Tamamen resimsel işleme tarzında sinematik 2.5D animasyon; karakterler ve ortamlar hareket halindeyken guaş boya konsept sanat tabloları gibi görünür, cilt, kumaş ve binalar üzerinde belirgin fırça dokusu, sert kenarlı ışıkla düz posterize renk blokları
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096795599895252992/img/Pu7P2w9YjQAOREfg.jpg" width="600" alt="Guaş Boya Tarzında Animasyon">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10447)**
-
-**Yazar:** [PixieVerse](https://x.com/itsPixieVerse) | **Kaynak:** [Link](https://x.com/itsPixieVerse/status/2096801780697030939) | **Yayınlandı:** Sep 7, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -5448,6 +5486,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-20T03:53:29.509Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-21T09:57:06.434Z</sub>
 
 </div>

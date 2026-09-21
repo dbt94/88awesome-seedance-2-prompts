@@ -68,9 +68,9 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **6403** |
+| 📝 Total Prompts | **6408** |
 | ⭐ Featured Prompts | **6** |
-| 🔄 Last Updated | **2026-09-20** |
+| 🔄 Last Updated | **2026-09-21** |
 
 ---
 
@@ -365,11 +365,216 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 
 > 📝 Sorted by publish date (newest first)
 
+### Cinematic Fashion Performance Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-quality prompt for generating an ultra-realistic cinematic fashion performance video featuring a confident woman and dancers in a night setting.
+
+#### 📝 Prompt
+
+```
+Ultra-realistic cinematic fashion performance scene, a beautiful young woman with long dark black hair standing confidently in the center, wearing an elegant white strapless corset top, dark high-waisted fitted jeans, layered silver necklaces and hoop earrings. Several stylish female dancers surround her, dressed in black leather outfits, synchronized dance poses. Dramatic night setting with cars and bright headlights behind them, moody industrial atmosphere, warm backlighting, subtle haze, realistic shadows, dynamic composition, powerful confident expression, professional music-video aesthetic, photorealistic skin and fabric details, shallow depth of field, cinematic lighting, high contrast, 8K, HDR, 85mm lens, vertical 9:16 composition.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101890134324965376/img/6EDeEE39ubzVBvhK.jpg" width="600" alt="Cinematic Fashion Performance Scene">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11072)**
+
+**Author:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2101890198703354285) | **Published:** Sep 21, 2026
+
+---
+### Playful Korean Girl at Playground Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed video generation prompt for Seedance 2.0 creating a cinematic sequence of a young woman in a playground, featuring transitions from sliding to swinging to sleeping in a shopping cart.
+
+#### 📝 Prompt
+
+```
+Created a video of a beautiful Korean girl having a playful, dreamy day at a colorful outdoor playground.
+She wears a casual white shirt, dark jeans, sneakers, and carries a stylish leopard-print shoulder bag.
+Show her relaxing and playfully lying on a bright yellow playground slide.
+Then transition to her sitting quietly on a swing, looking slightly tired and lost in thought.
+She later sits on the playground edge wearing a funny orange cone hat, creating a quirky cinematic moment.
+Show her resting peacefully on concrete steps with soft natural daylight and a calm atmosphere.
+End with her comfortably sleeping inside a shopping cart filled with basketballs, creating a funny unexpected scene.
+Use realistic facial expressions, natural body movement, cinematic camera motion, soft colors, and photorealistic details.
+Keep the Korean girl’s identity and appearance consistent throughout the entire video, with smooth transitions and a playful cinematic storytelling style.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101889348534956032/img/I07P989JdZB8i-lk.jpg" width="600" alt="Playful Korean Girl at Playground Video Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11071)**
+
+**Author:** [liana](https://x.com/Lianaalane) | **Source:** [Link](https://x.com/Lianaalane/status/2101889590621536594) | **Published:** Sep 21, 2026
+
+---
+### Luxury Skincare Commercial Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for creating a 15-second ultra-realistic luxury skincare commercial featuring a product jar in a water-themed environment with cinematic transitions.
+
+#### 📝 Prompt
+
+```
+Create a 15-second ultra-realistic luxury skincare commercial featuring an elegant glass jar labeled “AQUA LUXE – DEEP HYDRATION” in a cool blue, refreshing environment. Start with a soft blue atmospheric background as gentle light rays and subtle water particles create a clean premium mood. Slowly reveal the skincare jar standing on a glossy water surface, with realistic reflections and cinematic depth of field. Gradually move the camera closer while soft highlights glide across the metallic silver lid and glass packaging. Surround the jar with smooth, silky white cream-like waves flowing gracefully around it, creating a luxurious skincare texture. Add floating water droplets and tiny bubbles moving naturally through the scene with realistic physics. Transition into a dramatic splash of crystal-clear water wrapping around the product while keeping the jar perfectly sharp and centered. Introduce delicate white flowers and fresh green leaves around the splash for a fresh hydration-inspired atmosphere. End with a beautiful hero shot of the AQUA LUXE DEEP HYDRATION jar centered against the blue background, surrounded by water droplets, flowers, and soft glowing light, with premium cinematic lighting and flawless product focus.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101887426138681344/img/DRaV306w9sxwKjTb.jpg" width="600" alt="Luxury Skincare Commercial Video Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11073)**
+
+**Author:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2101887507059351894) | **Published:** Sep 21, 2026
+
+---
+### Cinematic Character Reference Sheet Generator
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating premium, ultra-realistic cinematic character reference sheets from a single uploaded photo. It details layout requirements including hero portraits, expression grids, turnarounds, and costume close-ups.
+
+#### 📝 Prompt
+
+```
+CREATE A PREMIUM, ULTRA-REALISTIC CINEMATIC CHARACTER REFERENCE SHEET — PROFESSIONAL FILM PRODUCTION DESIGN.
+
+REFERENCE LOCK:
+Use the uploaded reference image as the ONLY source of the subject's identity.
+
+Preserve the exact facial identity, face shape, eyes, eyebrows, nose, lips, jawline, skin tone, hairstyle, hair color, body proportions, age, and recognizable appearance with maximum accuracy.
+
+Adapt naturally to ANY PERSON, regardless of gender, age, hairstyle, body type, or personal appearance.
+
+CORE CONCEPT:
+Transform the uploaded person into a fully developed cinematic character inspired by their appearance, personality, and visual presence.
+
+Automatically design a unique character concept, outfit, accessories, hairstyle, color palette, and visual identity that suits the subject.
+
+CHARACTER DESIGN:
+Create a visually powerful, original character suitable for a premium Hollywood or Netflix-style film production.
+
+The character may be:
+A WARRIOR, VILLAIN, HERO, WITCH, ROYAL CHARACTER, SCI-FI EXPLORER, ASSASSIN, DETECTIVE, SURVIVOR, FANTASY CHARACTER, OR MODERN CINEMATIC PERSON.
+
+Choose the most suitable character direction based on the uploaded reference and the intended visual style.
+
+CHARACTER SHEET LAYOUT:
+
+1. HERO PORTRAIT:
+Create one large, dramatic, ultra-realistic cinematic portrait showing the character's face, hairstyle, outfit, and overall personality.
+
+2. FACIAL EXPRESSIONS:
+Create a professional facial expression grid including:
+NEUTRAL, SERIOUS, INTENSE, SOFT, SMILE, ANGRY, SAD, MYSTERIOUS.
+
+Maintain consistent facial identity in every panel.
+
+3. TURNAROUND / FULL BODY VIEWS:
+Show the character in:
+FRONT VIEW
+SIDE VIEW
+BACK VIEW
+THREE-QUARTER VIEW
+
+Maintain consistent outfit, body proportions, accessories, and hairstyle across all views.
+
+4. PORTRAIT VARIATIONS:
+Include cinematic close-ups from different angles:
+FRONT PORTRAIT
+THREE-QUARTER PORTRAIT
+SIDE PORTRAIT
+DRAMATIC SHADOW PORTRAIT.
+
+5. COSTUME & DETAIL CLOSE-UPS:
+Show highly detailed close-ups of:
+HEADPIECE OR HAIRSTYLE
+COSTUME DETAILS
+ACCESSORIES
+BELT OR WAIST DETAILS
+GLOVES OR HAND DETAILS
+FABRIC TEXTURE
+NECKLACE OR SIGNATURE PROP.
+
+6. COLOR PALETTE:
+Display a professional color palette matching the character's costume and cinematic theme.
+
+7. CHARACTER INFORMATION:
+Include a clean professional section containing:
+CHARACTER NAME
+ROLE
+ALIAS
+PERSONALITY
+STYLE
+THEME
+SIGNATURE ELEMENT
+
+8. CINEMATIC WORLD-BUILDING:
+Add a subtle atmospheric background or environmental illustration that complements the character's world.
+
+VISUAL STYLE:
+Premium Hollywood concept art.
+Ultra-realistic photography.
+High-end costume design.
+Cinematic lighting.
+Natural skin texture.
+Realistic fabric and material details.
+Professional film production reference sheet.
+Elegant editorial layout.
+Subtle cinematic atmosphere.
+Sharp facial details.
+Photorealistic rendering.
+```
+
+<img src="https://cms-assets.youmind.com/media/1789970152422_3vld7y_HSnCVWybwAAnaFA.jpg" width="600" alt="Cinematic Character Reference Sheet Generator">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11053)**
+
+**Author:** [M. Asif](https://x.com/meAsifAi) | **Source:** [Link](https://x.com/meAsifAi/status/2101515191158542788) | **Published:** Sep 20, 2026
+
+---
+### Dragon Saves Train Avalanche Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A narrative prompt for a 15-second cinematic animated short where a dragon shields a train from an avalanche, ending with an emotional connection.
+
+#### 📝 Prompt
+
+```
+15-second cinematic animated short.
+A passenger train races through a snowy mountain valley.
+Ahead, a huge avalanche suddenly breaks loose and begins crashing down toward the tracks.
+The train brakes hard.
+Passengers look through the windows as snow and rocks thunder down the mountain.
+Suddenly a massive dragon bursts from the forest.
+It lands directly beside the tracks and spreads its enormous wings.
+The avalanche hits.
+The dragon braces itself against the ground, shielding the train from the worst of the falling debris.
+Snow explodes around it.
+The train comes to a stop inches from the blocked track.
+Inside the front carriage, a little girl presses her hand against the window.
+The exhausted dragon looks back at her.
+She smiles.
+The dragon gently lowers one wing before disappearing into the snowy forest.
+
+Stylized cinematic animation, sophisticated creature design, painterly textures, grounded environments, dramatic physical action, dynamic camera movement, strong sense of scale, warm emotional ending, natural colors, cinematic lighting, no dialogue, no magic powers, no horror, no violence.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101414099632422912/img/vPUySBkizJaVP6E5.jpg" width="600" alt="Dragon Saves Train Avalanche Animation">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11052)**
+
+**Author:** [Alexandra Aisling](https://x.com/AllaAisling) | **Source:** [Link](https://x.com/AllaAisling/status/2101429374755262628) | **Published:** Sep 19, 2026
+
+---
 ### Dark Warrior Storm Rooftop Video Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for generating a cinematic action scene of a warrior in armor on a rainy rooftop with dramatic lighting and water effects.
+> A detailed prompt for an ultra-realistic cinematic scene of a dark warrior on a wet rooftop during a storm, generated with Seedance 2.0.
 
 #### 📝 Prompt
 
@@ -4836,138 +5041,6 @@ Still in the same unbroken shot, she [REF] smiles brightly and jogs forward back
 **Author:** [I’m Bobo | Commission OPEN](https://x.com/imtheboboo) | **Source:** [Link](https://x.com/imtheboboo/status/2096961730282918046) | **Published:** Sep 7, 2026
 
 ---
-### Realistic Wildlife Nature Documentary Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic nature documentary prompt for Seedance 2.0 featuring a mother sea otter and her pup in a kelp cove, styled after BBC Planet Earth.
-
-#### 📝 Prompt
-
-```
-30 seconds, 16:9, BBC Planet Earth nature documentary style, 8K ultra-realistic wildlife cinematography. Morning sunbeams pierce mist above a calm Pacific kelp cove. A mother sea otter floats peacefully on her back in emerald water, wrapped in bull-kelp leaves, while her tiny fluffy 2-week-old pup sleeps safely on her chest. Natural telephoto optics, 200mm lens, shallow depth of field, crystal water sparkles.\n\n0:00-0:06: Low water-level telephoto tracking shot. Sunlight catches droplets on the mother's dark wet fur as she gently licks her pup's head. The pup stretches its tiny paws and lets out a soft squeak.\n\nNARRATION (warm, gentle documentary voiceover): \"Here, in the quiet shelter of the kelp forest, morning begins with a mother's embrace.\"\n\n0:06-0:12: Close-up on the pup yawning, its pink tongue visible, fluffing its dense cream-colored chest fur with tiny paws. The mother uses her paws to anchor them to a golden kelp frond.\n\nNARRATION: \"For this two-week-old pup, her mother's chest is the safest island in the vast ocean.\"\n\n0:12-0:18: Gentle 90-degree floating orbit around the otters. Golden light-caustics dance across the clear emerald water beneath them. A gentle swell lifts them softly.\n\nNARRATION: \"Together, wrapped in living kelp, they ride the gentle rhythm of the sea.\"\n\n0:18-0:24: Tight macro shot on the pup nuzzling the mother's cheek. The mother wraps both forepaws around her pup, closing her eyes in serene contentment.\n\nNARRATION: \"A bond forged in warmth, drift, and quiet devotion.\"\n\n0:24-0:30: Slow crane rise upward revealing the full sunlit kelp cove, distant pine-covered cliffs in soft morning fog, the otter pair reduced to a cozy center-frame focal point.\n\nNARRATION: \"Another peaceful day dawns in the kelp kingdom.\"\n\nSOUND: Soft ocean lap, gentle splash, tiny otter pup squeak, mother's breathing, kelp rustle, warm British documentary narration.\n\nLOCKS: Natural fur physics, realistic water dynamics, no human objects, stable horizon, professional wildlife color grading.\n\nNEGATIVE: No captions, text, logos, watermark, background music, cartoon eyes, exaggerated color saturation, extra animals.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096952765604139008/img/NxhT1JxHWBsJQUi-.jpg" width="600" alt="Realistic Wildlife Nature Documentary Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10499)**
-
-**Author:** [Arijiit Das](https://x.com/arijiitdas) | **Source:** [Link](https://x.com/arijiitdas/status/2096953083947528327) | **Published:** Sep 7, 2026
-
----
-### DV Tape Camcorder Gym Vlog
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A 30-second multi-cut gym vlog script sequence featuring a Korean idol exercising, framed in an early 2000s handheld DV camcorder aesthetic.
-
-#### 📝 Prompt
-
-```
-30s Gym Vlog — 9 Cuts
-
-CAMERA/LOOK: DV 16mm tape camcorder, handheld POV by CHASE or propped on gym equipment for lifts. Shaky framing, delayed focus, clumsy zooms, occasional face cutoffs. Soft blurry tape texture, faint noise, bloomed gym lights, flickering exposure, muted contrast, realistic skin.
-
-STYLE: Focused, upbeat, authentic gym-vlog energy. CHASE talks through her progress between sets, showing genuine effort and small wins.
-
-CHASE: Korean idol in her 20s, long black high ponytail, expressive eyes, slim athletic build, light sweat. Modest long-sleeve athletic top, joggers/leggings, sneakers, towel around neck, no jewelry.
-
-SETTING: Evening gym with bench press, shoulder press machine, dip station, mirrors, water bottle, soft overhead lighting.
-
-STORYBOARD:
-
-1. Bench setup (~3s): Propped medium shot. She adjusts grip and looks at camera. “Okay, push day — starting with bench press.”
-2. Bench reps (~3.5s): Side angle, controlled reps, racks bar. “That’s ten — felt stronger than last week, honestly.”
-3. Walk (~2.5s): Handheld as she grabs towel/water and heads to shoulder press. “Alright, shoulders next.”
-4. Shoulder press (~3.5s): Adjusts seat, performs set, focused. “Okay, this one’s always tough for me.”
-5. Grip insert (~2.5s): Macro close-up of hands gripping handles, sweat in light. Ambient gym audio only.
-6. Recovery (~3s): Handheld. Shakes out arms, checks form in mirror. “Definitely feeling that already.”
-7. Dips (~3.5s): Propped shot. Controlled tricep dips. “Okay, tricep dips — last one for today.”
-8. Finish (~3s): Close handheld. Steps back, slightly breathless but pleased. “That’s a solid session, I think.”
-9. Selfie outro (~3.5s): Arm’s-length selfie, wipes face, tired grin. “Push day, done — see you guys for pull day soon!”
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096941104356872193/img/RP03g4hrqUT1tEJM.jpg" width="600" alt="DV Tape Camcorder Gym Vlog">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10502)**
-
-**Author:** [WasifAI](https://x.com/doctorwasif) | **Source:** [Link](https://x.com/doctorwasif/status/2096941153753108549) | **Published:** Sep 7, 2026
-
----
-### Anime Fantasy Rooftop Combat Sequence
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed anime-inspired fantasy fight sequence set on a frozen university rooftop at night.
-
-#### 📝 Prompt
-
-```
-Create a 30-second ultra-realistic cinematic sci-fi evolution video, 16:9, Hollywood-level VFX. Create a 30-second ultra-realistic anime-inspired high-action fantasy sequence in 16:9 widescreen, 8K visual quality, smooth 60fps motion, and premium cinematic fight choreography. Set the complete sequence on the frozen rooftop of a modern university combat academy at night. The rooftop is surrounded by metal safety fences, ventilation structures, concrete stairwell entrances, frozen puddles, snow-covered pipes, and large water tanks. Beyond the rooftop, a vast Korean city glows with distant neon signs, moving traffic, high-rise windows, and cold blue moonlight. Light snow falls through the scene while a strong winter wind moves clothing, hair, and loose ice particles. MAIN CHARACTER: A confident 21-year-old Korean university combat-academy student with a consistent anime-inspired yet photorealistic appearance. She has a petite oval face, naturally fair skin with realistic texture, sharp violet-gray eyes, and short pastel-purple hair cut just below her ears with soft uneven bangs. She wears the same fitted gray academy blazer, white shirt, deep-blue bow, charcoal pleated skirt layered over black fitted safety shorts, black thermal tights, and dark ankle boots throughout the complete sequence. A red cherry lollipop remains held casually at the corner of her mouth. Her expression stays calm, slightly bored, and effortlessly confident even during the most dangerous attacks. Preserve her exact face, hairstyle, outfit, proportions, lollipop, and ice-power design across every shot. OPPONENTS: Four adult masked attackers wearing matching black winter tactical clothing, lightweight body armor, insulated gloves, and featureless dark masks. They carry collapsible staffs and blunt training blades. Keep the same four attackers identifiable through small colored shoulder markings: red, white, yellow, and green. Their attacks must feel fast and threatening, but the heroine defeats them without graphic injury. OPENING HOOK: Begin with an extreme close-up of the heroine’s black boot stepping onto a shallow rooftop puddle. Frost instantly spreads outward from beneath her sole in delicate branching patterns. Tilt upward as she stands alone near the rooftop edge, one hand inside her blazer pocket and the lollipop between her lips. Wind lifts her pastel-purple hair while the dark cityscape glows far below. In the reflection of the newly frozen puddle, reveal four masked attackers approaching behind her. The attacker with the red shoulder marking rushes forward and swings his staff toward her head. Use a fast lateral tracking move as she calmly bends backward beneath the weapon without removing her hand from her pocket. The staff passes only centimeters above her face. She lightly taps the rooftop with the toe of her boot, causing a narrow ridge of ice to rise beneath the attacker’s leading foot. He loses balance and slides past her across the frozen surface. The white-marked attacker throws several small metal training blades. Track the blades rapidly through the air toward her. She lifts two fingers, and water rises from a rooftop drainage channel in multiple twisting streams. The streams freeze instantly in midair, trapping every blade inside one transparent curved ice wall. Rotate the camera around the suspended formation as moonlight refracts through the ice and casts pale-blue patterns across her calm face. She bites down on the lollipop and flicks her fingers sideways. The ice wall fractures into hundreds of harmless glittering fragments while the trapped training blades fall safely onto the rooftop. The fragments remain suspended around her for one dramatic moment before launching toward the attackers like a controlled snowstorm. The particles strike their armor and force them backward without piercing their bodies. The yellow-marked attacker leaps from the stairwell roof with his staff raised overhead. Use a low-angle camera positioned close to the heroine as his silhouette crosses the moon. She turns smoothly and draws a circular motion with one hand. A thick ribbon of frozen water spirals upward around his staff, locks it in place, and redirects his momentum. He rotates harmlessly through the air and lands on a soft bank of freshly formed snow near a ventilation unit. The green-marked attacker charges from her blind side. She removes the lollipop from her mouth for the first time, exhales a small cloud of cold vapor, and touches the lollipop against the metal railing beside her. Frost races along the railing and forms a curved ice track across the rooftop. She steps onto it and glides backward with effortless balance as the attacker repeatedly swings and misses. Use a fast tracking shot beside them as she slides across the ice track, leans beneath one strike, rotates around another, and catches the attacker’s wrist with one hand. She redirects him toward the other recovering attackers. All four collide together but remain physically unharmed. The attackers surround her for a coordinated final charge. Pull into a wide overhead view as they rush from four directions. She crouches and presses her palm flat against the rooftop. A circular pulse of blue-white frost explodes outward across the concrete. Tall curved ice structures rise around her like the petals of a frozen flower. Each ice petal blocks one attacker and traps his boots securely to the rooftop while leaving his upper body unharmed. Create a brief moment of silence. Show the heroine standing at the center of the enormous translucent ice flower as snow and shattered ice crystals drift around her. The city lights shimmer through the frozen structures. She places the lollipop back in her mouth, adjusts her blue bow, and looks at the immobilized attackers with a relaxed, almost playful expression. For the final payoff, one attacker secretly frees his boot and attempts one last strike from behind. Without turning around, she snaps her fingers. A small icicle drops from an overhead pipe and strikes the rooftop directly in front of his boot, startling him and making him fall backward into a soft pile of snow. She gives a tiny satisfied smile and walks toward the stairwell entrance while the giant ice flower begins releasing sparkling frost into the night air. CAMERA STYLE: Use energetic but controlled cinematic camera movement, low-angle tracking, rapid side movements, close-up reaction shots, one smooth orbital shot around the frozen blades, and a wide overhead reveal for the final ice formation. Keep every attack easy to follow. Use realistic momentum, accurate foot placement, believable impacts, natural body balance, and smooth transitions between choreography beats. Avoid random camera spinning and excessive shake. LIGHTING AND VFX: Combine cold moonlight, rooftop security lamps, red aircraft-warning lights, and the warm city glow below. Ice powers produce restrained blue-white illumination that interacts naturally with faces, clothing, concrete, and surrounding objects. Ice must have realistic transparency, internal cracks, frost, refraction, condensation, weight, and shattering physics. Show detailed snow displacement, frozen water movement, breath vapor, and sparkling particles without making the scene look like a video game. AUDIO: Use strong winter wind, distant city traffic, boots scraping across ice, fast staff movements, water rushing from drains, deep freezing cracks, sharp ice impacts, controlled shattering sounds, clothing movement, and the quiet click of the lollipop against her teeth. Add a tense electronic-orchestral action score that rises during the coordinated attack and suddenly becomes quiet during the final frozen-flower reveal. No spoken dialogue. CONTINUITY: Preserve the heroine’s identity, pastel-purple hairstyle, gray blazer, blue bow, lollipop, clothing condition, and calm personality throughout. Maintain all fou
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096821250534563840/img/OEWuape71bf4uSSz.jpg" width="600" alt="Anime Fantasy Rooftop Combat Sequence">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10445)**
-
-**Author:** [Elaine Wright](https://x.com/ElaineWrigari1) | **Source:** [Link](https://x.com/ElaineWrigari1/status/2096821611240538456) | **Published:** Sep 7, 2026
-
----
-### Early 2000s MiniDV home video aesthetic style
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A 15-second timecoded video prompt designed to mimic an authentic early-2000s MiniDV home video, containing realistic camera movements, autofocus hunting, and physical actions.
-
-#### 📝 Prompt
-
-```
-15-sec Seedance prompt — 5 shots
-
-Style: Authentic early-2000s MiniDV home video. Young Korean woman, 24, naturally attractive, long dark hair, minimal makeup, cream cardigan over white T-shirt, loose blue jeans, white sneakers. Cozy apartment living room, warm late-afternoon light. 4:3, handheld shake, autofocus hunting, tape grain/compression, natural exposure. Keep woman, outfit, hair and environment consistent.
-
-SHOT 1 — 0:00–0:03
-Close handheld shot as she places the MiniDV camera on a small table, adjusts framing, presses record, then quickly steps out of frame.
-SHOT 2 — 0:03–0:06
-Wide camera POV. She hurries into frame to get into position, stops in the center and quickly fixes her hair.
-
-SHOT 3 — 0:06–0:09
-She poses with a cute natural smile, tilting her head and placing one hand near her face. While shifting her weight, her foot slightly catches the rug.
-SHOT 4 — 0:09–0:12
-She stumbles forward slightly, catches herself, freezes for a moment, then immediately returns to the exact same pose, pretending nothing happened.
-
-SHOT 5 — 0:12–0:15
-She holds the pose, trying to stay serious, but breaks into a small laugh. She looks at the camera with an embarrassed grin.
-End: Naturally hold on her laughing expression with slight MiniDV shake. Subtle realistic stumble, no dramatic fall, no cinematic polish, no slow motion.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096667325953196032/img/a5g7r77sU2NnskNB.jpg" width="600" alt="Early 2000s MiniDV home video aesthetic style">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10500)**
-
-**Author:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Source:** [Link](https://x.com/iamahmedfaraz66/status/2096808174556954911) | **Published:** Sep 7, 2026
-
----
-### Gouache Concept Art Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic 2.5D painterly animation style prompt featuring gouache concept-art aesthetics with visible brush texture and posterized color blocks.
-
-#### 📝 Prompt
-
-```
-#1:
-Cinematic 2.5D animation in the style of fully painterly rendering, characters and environments look like gouache concept-art paintings in motion, visible brush texture on skin, cloth and buildings, flat posterized color blocks with hard-edged light
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096795599895252992/img/Pu7P2w9YjQAOREfg.jpg" width="600" alt="Gouache Concept Art Animation">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10447)**
-
-**Author:** [PixieVerse](https://x.com/itsPixieVerse) | **Source:** [Link](https://x.com/itsPixieVerse/status/2096801780697030939) | **Published:** Sep 7, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -5029,6 +5102,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-20T03:53:07.878Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-21T09:56:42.487Z</sub>
 
 </div>
