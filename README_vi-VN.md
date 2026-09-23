@@ -68,9 +68,9 @@ Tại sao nên sử dụng thư viện của chúng tôi?
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **6408** |
+| 📝 Tổng số prompt | **6411** |
 | ⭐ Prompt nổi bật | **6** |
-| 🔄 Cập nhật lần cuối | **2026-09-22** |
+| 🔄 Cập nhật lần cuối | **2026-09-23** |
 
 ---
 
@@ -361,6 +361,85 @@ Siêu thực tế, năng lượng lấy cảm hứng từ Fast and Furious, ánh
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Prompt Chuỗi Cảnh Điện Ảnh: Hiên Nhà Ngày Mưa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một prompt chi tiết cho chuỗi video điện ảnh về một phụ nữ đứng dưới hiên nhà trong cơn mưa lớn, bao gồm các hành động cụ thể như chỉnh mũ, đeo tai nghe và ăn táo.
+
+#### 📝 Prompt
+
+```
+Góc quay cận trung cảnh mang phong cách điện ảnh của một phụ nữ trẻ gốc Đông Á đứng dưới hiên nhà bằng gỗ cũ kỹ trong cơn mưa tầm tã. Cô đội chiếc mũ lưỡi trai màu đen ướt sũng, mặc áo thun trắng oversize hơi xuyên thấu vì nước mưa, và đeo dây túi tote màu be qua vai. Mái tóc đen được búi lộn xộn, những lọn tóc ướt dính vào mặt và cổ cô. Tai nghe có dây màu trắng đang được đeo.
+
+Mưa trút xuống đều đặn từ ống thoát nước kim loại gỉ sét, nhỏ giọt từ mái tôn sóng. Rừng xanh tươi tốt và những ngọn núi mờ ảo dần tan biến vào hậu cảnh. Ánh sáng tự nhiên dịu nhẹ, tông màu xanh lục bảo lạnh, độ sâu trường ảnh nông, hiệu ứng hạt phim, tạo nên bầu không khí buồn man mác và tĩnh lặng.
+
+Chuỗi hành động:
+- Cô nhìn xuống, sau đó từ từ đưa tay lên chỉnh lại chiếc mũ ướt.
+- Cô lấy ra cặp tai nghe màu trắng và đeo từng bên vào tai.
+- Cô tựa lưng vào cột gỗ và ngắm nhìn màn mưa rơi bên ngoài.
+- Cô đưa lòng bàn tay ra hứng những giọt mưa đang rơi, quan sát chúng chạm vào da.
+- Cận cảnh: cô lau sạch quả táo đỏ bóng loáng bằng một chiếc khăn trắng.
+- Cô cắn một miếng táo lớn, nước ép chảy dọc theo môi và cằm.
+- Cô nhai chậm rãi, liếc mắt sang một bên với vẻ bình thản, hơi xa xăm trong khi mưa vẫn tiếp tục rơi.
+
+Phong cách siêu thực, giao diện phim 35mm, kết cấu da tự nhiên với những giọt mưa trên mặt và mũ, chi tiết vải ướt chân thực, không trang điểm, tâm trạng ngày mưa yên tĩnh.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102269103058960384/img/8INOQXR20vXAFwWT.jpg" width="600" alt="Prompt Chuỗi Cảnh Điện Ảnh: Hiên Nhà Ngày Mưa">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11107)**
+
+**Tác giả:** [Elisia](https://x.com/AiwithElisia) | **Nguồn:** [Link](https://x.com/AiwithElisia/status/2102269278489903244) | **Đã xuất bản:** Sep 22, 2026
+
+---
+### Prompt Video Điện Ảnh Chợ Hàn Quốc
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một prompt chi tiết để tạo video điện ảnh về một cô gái Hàn Quốc đi bộ và chạy qua chợ truyền thống, tập trung vào sự nhất quán của nhân vật và chuyển động tự nhiên.
+
+#### 📝 Prompt
+
+```
+Tạo ra hình ảnh một cô gái Hàn Quốc xinh đẹp đang bước đi đầy tự tin qua một khu chợ truyền thống Hàn Quốc, mặc trang phục lịch sử thanh lịch, với mái tóc đen dài bay bổng tự nhiên và bối cảnh đường phố cổ Hàn Quốc chi tiết bao quanh. Ở giây thứ nhất, camera nhẹ nhàng tiến gần hơn khi cô đi qua đám đông nhộn nhịp, giữ cho khuôn mặt cô rõ ràng, chân thực và nhất quán. Ở giây thứ hai, cho thấy cô đi ngang qua các gian hàng bằng gỗ, những ngôi nhà truyền thống Hàn Quốc, đèn lồng treo và các thương nhân trong khi mọi người di chuyển tự nhiên xung quanh cô. Ở giây thứ ba, cô đột ngột bắt đầu chạy xuyên qua khu chợ đông đúc, với tóc, quần áo và chuyển động cơ thể phản hồi tự nhiên theo tốc độ của cô. Ở giây thứ tư, sử dụng cú tracking shot điện ảnh mượt mà từ phía trước khi cô chạy giữa các gian hàng trong khi nền di chuyển tự nhiên. Ở giây thứ năm, chuyển sang góc quay bên kịch tính, thể hiện biểu cảm quyết tâm, tiếng bước chân chân thực, mái tóc bay và trang phục truyền thống chi tiết. Ở giây thứ sáu, theo sau cô từ phía sau khi cô chạy sâu hơn vào con phố cổ, với ánh nắng, bụi, đèn lồng và những người qua lại tạo nên bầu không khí điện ảnh. Ở giây thứ bảy, di chuyển camera mượt mà quanh cô trong khi duy trì sự nhất quán hoàn hảo của nhân vật, các đặc điểm khuôn mặt chân thực, kết cấu da tự nhiên và chuyển động đáng tin cậy. Ở giây thứ tám, kết thúc bằng cú quay rộng mang tính điện ảnh của cô gái Hàn Quốc tiếp tục tiến về phía trước qua khu chợ lịch sử tuyệt đẹp, với các chi tiết siêu thực, ánh sáng tự nhiên, vật lý chân thực, chuyển động camera mượt mà và không có biến dạng.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102259707142717440/img/Gu_7x3AVHHbndsXs.jpg" width="600" alt="Prompt Video Điện Ảnh Chợ Hàn Quốc">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11106)**
+
+**Tác giả:** [Maha](https://x.com/Aiwithmaha) | **Nguồn:** [Link](https://x.com/Aiwithmaha/status/2102260032348078455) | **Đã xuất bản:** Sep 22, 2026
+
+---
+### Prompt Video Cuộc Sống Quê Hương Cổ Điển
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một prompt cho video montage điện ảnh dài 25 giây về một cô gái Hàn Quốc trong bối cảnh quê hương cổ điển, với các hoạt động như đạp xe, đọc sách và cắt dưa hấu.
+
+#### 📝 Prompt
+
+```
+Một cô gái Hàn Quốc xinh đẹp trong khung cảnh quê hương cổ điển đầy mơ màng.
+Cô mặc chiếc váy trắng tinh tế với chi tiết nơ đen và băng đô ren.
+Cô đạp chiếc xe đạp cổ điển qua cánh đồng hoa dại yên bình dưới ánh nắng ấm áp.
+Sau đó, cô thư giãn trên bãi cỏ dưới gốc cây, lặng lẽ đọc sách.
+Cô đi qua một cây cầu gỗ nhỏ, giơ cuốn sách lên cao quá đầu.
+Cảnh chuyển sang một ngôi nhà cổ điển ấm cúng, nơi cô cẩn thận cắt một quả dưa hấu tươi.
+Chiếc tivi cũ kỹ hoài niệm và nội thất mộc mạc tạo nên bầu không khí retro ấm áp.
+Cô dành một khoảnh khắc tĩnh lặng bên cạnh bể cá nhiều màu sắc với những chú cá đang bơi lội.
+Video có ánh sáng điện ảnh nhẹ nhàng, chuyển động máy quay dịu dàng và tâm trạng hoài niệm mơ màng.
+Hãy tạo ra một video montage điện ảnh 25 giây tuyệt đẹp với chi tiết chân thực, chuyển động tự nhiên và thẩm mỹ cổ điển ấm áp.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101910912076857345/img/fap_eQMR3XFC27P1.jpg" width="600" alt="Prompt Video Cuộc Sống Quê Hương Cổ Điển">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11108)**
+
+**Tác giả:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Nguồn:** [Link](https://x.com/ayzalnooor24521/status/2101911177962090931) | **Đã xuất bản:** Sep 21, 2026
+
+---
 ### Cảnh Thời Trang Biểu Diễn Điện Ảnh
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -5391,100 +5470,6 @@ Sử dụng hình ảnh tham chiếu cho nhân vật. Một nữ thần tượng
 **Tác giả:** [妖精アーヤ](https://x.com/aiehon_aya) | **Nguồn:** [Link](https://x.com/aiehon_aya/status/2097082482306720232) | **Đã xuất bản:** Sep 7, 2026
 
 ---
-### Phim tài liệu về cú thả khối băng vào miệng núi lửa
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Một câu lệnh điện ảnh đa giai đoạn chi tiết dành cho Seedance 2.0, mô tả cảnh một người phụ nữ thả khối băng khổng lồ từ trực thăng xuống hồ dung nham núi lửa.
-
-#### 📝 Prompt
-
-```
-[Phong cách] Phim tài liệu phiêu lưu mạo hiểm ngắn, quay dọc, chân thực, kết cấu ống kính góc rộng của điện thoại di động cầm tay. Nhân vật thật, nội thất khoang máy bay thật, sự khúc xạ và các vết nứt bên trong khối băng trong suốt, đá núi lửa đen và dung nham đỏ cam. Giữ lại độ rung nhẹ của tay cầm, độ rung của chuyến bay, hiệu ứng nhòe chuyển động tự nhiên và sự thay đổi độ phơi sáng. Bên trong tối, bầu trời bên ngoài sáng, dung nham phản chiếu ánh sáng đỏ cam lên cánh tay, khối băng và bậc cửa của nhân vật. Vụ phun trào cuối cùng sử dụng hiệu ứng đặc biệt điện ảnh chân thực, cột khí trắng với các lớp thể tích và chi tiết cuộn trào. [Thời lượng] 15 giây, khung hình dọc 9:16, quay liền mạch một cảnh duy nhất. Hành động thời gian thực, không cắt cảnh, không quay chậm, không thay đổi góc máy. [Bối cảnh] Trực thăng bay lơ lửng trên khu vực dung nham núi lửa, cửa bên mở hoàn toàn. Máy quay đặt bên trong nhìn ra ngoài. Khung cửa tối hiển thị ở bên trái và phía trên, sàn chống trượt ở phía dưới. Bên dưới là một vùng rộng lớn dung nham đông cứng màu xám đen với những vết nứt phát sáng màu đỏ cam uốn lượn bao quanh một hồ dung nham gần như hình tròn, nơi vật chất nóng chảy cuộn trào và sủi bọt. Hồ này là điểm rơi của khối băng và vụ phun trào sau đó. [Nhân vật] Một phụ nữ Đông Á trưởng thành, tóc đuôi ngựa màu nâu, mặc áo khoác chức năng và quần bảo hộ, đeo tai nghe hàng không. Tóc bị gió mạnh thổi bay. Ban đầu mỉm cười với máy quay, sau đó tập trung nhìn ra ngoài; kết thúc bằng phản ứng giật mình né tránh vụ phun trào. Nhân vật ở trong khoang máy bay, chỉ có cánh tay và khối băng đưa ra ngoài. [Đạo cụ chính] Một khối băng hình chữ nhật trong suốt khổng lồ, dài từ ngực đến đầu gối, rộng bằng thân người. Nặng, bề mặt ướt và có các bọt khí/vết nứt bên trong. Người phụ nữ dùng cả hai tay giữ khối băng, thể hiện sức nặng. Khối băng nghiêng xuống sau khi được thả. [Máy quay] Bắt đầu bằng cảnh quay trung bình cầm tay cận cảnh người phụ nữ và khối băng. Sau khi thả, máy quay nghiêng xuống và theo dõi cú rơi, giữ vị trí tại bậc cửa. Duy trì góc nhìn từ trên cao xuống hồ dung nham, sau đó rút nhanh lại khi cột khí tiến đến. [Dòng thời gian] 00:00-01:30: Giữ khối băng và mỉm cười. 01:30-02:30: Quay về phía điểm thả và hạ thấp trọng tâm để đẩy khối băng ra ngoài. 02:30-03:10: Thả khối băng qua ngưỡng cửa. 03:10-04:60: Theo dõi khối băng đang rơi từ trên không. 04:60-08:20: Chờ đợi phía trên hồ dung nham đang sủi bọt. 08:20-11:50: Những luồng hơi nước trắng nhỏ xuất hiện và tụ lực. 11:50-12:40: Sự giãn nở đột ngột của cột khí trắng bắn vọt lên trên. 12:40-13:60: Cột khí tiến gần đến ống kính, máy quay rút lui trong hoảng loạn.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096984251615047680/img/AOaEmhICg-dW96A8.jpg" width="600" alt="Phim tài liệu về cú thả khối băng vào miệng núi lửa">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=10702)**
-
-**Tác giả:** [探路AI](https://x.com/TanLuAI) | **Nguồn:** [Link](https://x.com/TanLuAI/status/2096984350055436729) | **Đã xuất bản:** Sep 7, 2026
-
----
-### Cảnh ngõ nhỏ trong giờ vàng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video đời thường chân thực về một cô gái trẻ tương tác với chú mèo trong một con ngõ dân cư yên tĩnh.
-
-#### 📝 Prompt
-
-```
-Tạo một video đời thường đậm chất điện ảnh dài 15 giây với tỷ lệ 16:9, 24fps. Video chỉ có hình ảnh, không lời thoại, không giọng nói, không âm nhạc, không hiệu ứng âm thanh, không phụ đề, không văn bản trên màn hình. Ánh nắng giờ vàng ấm áp, hiệu ứng máy quay cầm tay nhẹ nhàng, tông màu phim trầm, hơi nhiễu hạt, đổ bóng tự nhiên, không khí khu dân cư yên bình đầy hoài niệm. Phong cách live-action chân thực hoàn toàn, không giống game, không phải hoạt hình.
-
-Nhân vật chính: một cô gái trẻ người Hàn Quốc khoảng ngoài 20 tuổi, tóc nâu sẫm rối nhẹ buộc đuôi ngựa lỏng, gương mặt tự nhiên thanh tú, biểu cảm điềm tĩnh dịu dàng, mặc áo ba lỗ dáng lửng màu xám đậm, quần jeans xanh sáng màu dáng rộng, đeo vòng cổ đen, đi giày thể thao thường ngày. Giữ ngoại hình nhân vật nhất quán trong mọi cảnh quay.
-
-Bối cảnh: một con ngõ dân cư thực tế dài và hẹp nằm giữa những bức tường đá và bê tông màu nâu vàng cao. Mặt đất cát bụi, ánh nắng ấm áp chiếu sáng một bên, bóng cây đổ nhẹ trên lối đi, có thể thấy cây cọ và lá xanh phía trên các bức tường, một bức tường sơn màu xanh lam ở phía xa, một chiếc xe đạp dựng gần cuối ngõ, cảm giác khu phố yên tĩnh vắng vẻ.
-
-0:00–0:02:
-Cảnh quay theo sau từ phía sau. Cô gái Hàn Quốc đi bộ chậm rãi qua con ngõ dài hẹp. Ánh nắng vàng trải dài trên những bức tường màu nâu vàng. Máy quay theo sau với chuyển động cầm tay tự nhiên.
-
-0:02–0:04:
-Cảnh toàn con ngõ. Một chú mèo mướp màu xám nâu nhỏ xuất hiện từ khe hở thấp gần bức tường bên trái và bước vào ngõ. Cô gái nhận ra chú mèo, đi chậm lại và hơi quay người về phía nó.
-
-0:04–0:06:
-Cảnh trung từ bên cạnh. Chú mèo đi lại gần chân cô và nhìn lên. Cô mỉm cười dịu dàng, từ từ cúi người xuống và đưa một tay ra một cách nhẹ nhàng, cẩn thận.
-
-0:06–0:08:
-Cảnh cận thấp. Chú mèo ngửi ngón tay cô, sau đó dụi đầu vào tay cô. Cô nhẹ nhàng vuốt ve đầu và lưng chú mèo. Thể hiện kết cấu lông chân thực, chuyển động của ria mép và hành vi tự nhiên của mèo.
-
-0:08–0:10:
-Cảnh cận đầy cảm xúc. Cô gái mỉm cười ấm áp khi vuốt ve chú mèo. Ánh nắng lấp lánh qua tán lá cây chiếu lên gương mặt, vai và mái tóc cô. Giữ cho khoảnh khắc này nhẹ nhàng, bình yên và đầy tính nhân văn.
-
-0:10–0:12:
-Cảnh trung toàn. Chú mèo đi trước vài bước rồi ngoái lại nhìn cô. Cô từ từ đứng dậy và bước theo với nụ cười tò mò, bình yên.
-
-0:12–0:14:
-Cảnh quay theo trước mặt. Cô đi về phía máy quay cùng chú mèo bên cạnh gần bức tường. Cô nhìn xuống chú mèo và mỉm cười. Con ngõ dài, những bức tường màu nâu vàng, bức tường xanh phía xa, cây cối và chiếc xe đạp vẫn hiển thị rõ.
-
-0:14–0:15:
-Cảnh cận cuối cùng. Chú mèo cọ vào chân cô. Cô nhìn về phía máy quay với nụ cười dịu dàng, bình yên, sau đó lại nhìn xuống chú mèo. Duy trì bầu không khí ngõ nhỏ giờ vàng ấm áp cho một cái kết đậm chất điện ảnh.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096961809056256001/img/cuWLy0n8_recdL0e.jpg" width="600" alt="Cảnh ngõ nhỏ trong giờ vàng">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=10506)**
-
-**Tác giả:** [Abhishek](https://x.com/HeyAbhishek) | **Nguồn:** [Link](https://x.com/HeyAbhishek/status/2096961839154545127) | **Đã xuất bản:** Sep 7, 2026
-
----
-### Prompt cho Vlog Selfie quay liên tục không cắt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bố cục kịch bản đa giai đoạn hướng dẫn quay một cảnh vlog cầm tay liên tục, không cắt trong môi trường công viên với các điểm đánh dấu âm thanh/khớp môi cụ thể.
-
-#### 📝 Prompt
-
-```
-Một cảnh quay liên tục, không ngắt quãng (không cắt cảnh) từ góc nhìn của camera điện thoại thông minh. Chất lượng máy ảnh kỹ thuật số, thẩm mỹ vlog đời thường, lấy nét hơi mềm, không quá sắc nét, với độ rung lắc tự nhiên của tay cầm. KHÔNG CÓ NHẠC NỀN.
-
-Giai đoạn 1: Đi bộ selfie (0:00 - 0:08)
-Video bắt đầu ở góc quay selfie cận cảnh. Một phụ nữ trẻ với mái tóc nâu gợn sóng dài, đội mũ newsboy bằng vải nhung tăm màu nâu, mặc áo cardigan màu xanh lá khoác ngoài áo thun in hình [REF] đang đi dạo qua một công viên xanh mát với mọi người đang thư giãn trên bãi cỏ và đường chân trời thành phố ở phía sau dưới bầu trời buổi tối [REF] . Cô ấy cầm điện thoại bằng một tay và tay kia cầm chiếc DJI Mic màu trắng ngọc trai với bông lọc gió màu trắng [REF] gần miệng. Cô ấy nói trực tiếp vào ống kính với biểu cảm tự nhiên, môi khớp với câu: "Tôi từng dành HÀNG GIỜ mỗi ngày chỉ để chỉnh sửa một video… để rồi cuối cùng lại kiệt sức."
-
-Giai đoạn 2: Đặt máy xuống (0:08 - 0:15)
-Trong một chuyển động liên tục không cắt, góc máy nghiêng xuống khi cô ấy [REF] hạ tay xuống và đặt điện thoại lên bãi cỏ, dựa vào gốc cây. Sau đó, cô ấy bước lùi ra xa khỏi máy quay, để lộ toàn thân với chiếc váy xếp ly màu xanh lá và tất giữ ấm chân/bốt màu nâu [REF] . Cô ấy đứng giữa công viên, liếc nhìn xung quanh khung cảnh một chút, rồi đưa chiếc DJI Mic màu trắng [REF] lên miệng với năng lượng mới. Cô ấy nói, môi khớp với câu: "Cho đến khi tôi tìm thấy VEED. Cuối cùng, tất cả những gì tôi cần chỉ là một cú nhấp chuột và XONG!"
-
-Giai đoạn 3: Kết thúc (0:15 - 0:20)
-Vẫn trong cùng một cảnh quay không ngắt quãng, cô ấy [REF] mỉm cười rạng rỡ và chạy bộ về phía ống kính máy quay. Cô ấy cúi xuống nhặt điện thoại lên, chuyển đổi góc máy một cách mượt mà trở lại chế độ selfie cận cảnh. Tay kia cầm chiếc DJI Mic màu trắng [REF] , cô ấy nhìn vào ống kính và nói, môi khớp với câu: "Các bạn nên thử xem nhé! Tạm biệt!" Cô ấy vẫy tay chào vui vẻ trước khi video kết thúc.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096960013814370305/img/pDZ_83GUkdbgg0wV.jpg" width="600" alt="Prompt cho Vlog Selfie quay liên tục không cắt">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=10503)**
-
-**Tác giả:** [I’m Bobo | Commission OPEN](https://x.com/imtheboboo) | **Nguồn:** [Link](https://x.com/imtheboboo/status/2096961730282918046) | **Đã xuất bản:** Sep 7, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -5546,6 +5531,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-22T03:47:19.494Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-23T03:49:36.466Z</sub>
 
 </div>

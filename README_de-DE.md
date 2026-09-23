@@ -68,9 +68,9 @@ Warum unsere Galerie nutzen?
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **6408** |
+| 📝 Gesamtanzahl Prompts | **6411** |
 | ⭐ Ausgewählte Prompts | **6** |
-| 🔄 Zuletzt aktualisiert | **2026-09-22** |
+| 🔄 Zuletzt aktualisiert | **2026-09-23** |
 
 ---
 
@@ -361,6 +361,85 @@ Ultra-realistisch, inspiriert von der Energie von Fast and Furious, fotorealisti
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Cinematic Prompt: Regnerische Veranda-Szene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Prompt für eine cineastische Videosequenz einer Frau unter einer Veranda bei starkem Regen, inklusive spezifischer Aktionen wie das Anpassen der Kappe, das Einsetzen von Kopfhörern und das Essen eines Apfels.
+
+#### 📝 Prompt
+
+```
+Eine cineastische Aufnahme in Nahaufnahme bis mittlerer Distanz zeigt eine junge ostasiatische Frau, die während starken Regens unter einer verwitterten Holzveranda steht. Sie trägt eine nasse schwarze Baseballkappe, ein leicht durchscheinendes, nasses weißes Oversize-T-Shirt und hat den Riemen einer beigen Tragetasche über der Schulter. Ihr dunkles Haar ist zu einem zerzausten Knoten gebunden, mit nassen Strähnen, die an ihrem Gesicht und Hals kleben. Weiße kabelgebundene Kopfhörer sitzen in ihren Ohren.
+
+Der Regen fällt stetig aus einem rostigen Metallablaufrohr und tropft vom Wellblechdach. Üppiger grüner Wald und neblige Berge verblassen im Hintergrund. Weiches natürliches Licht, kühle teal-grüne Farbgebung, geringe Schärfentiefe, filmisches Korn, melancholische und ruhige Atmosphäre.
+
+Sequenz:
+- Sie blickt nach unten, hebt dann langsam die Hand, um ihre nasse Kappe anzupassen.
+- Sie nimmt weiße Kopfhörer heraus und setzt sie einzeln ein.
+- Sie lehnt sich gegen den Holzpfosten und schaut hinaus auf den Regen.
+- Sie streckt ihre Handfläche in den fallenden Regen und beobachtet, wie die Tropfen auf ihre Hand treffen.
+- Nahaufnahme: Sie wischt einen glänzenden roten Apfel mit einem weißen Tuch ab.
+- Sie beißt kräftig in den Apfel, Saft tropft von ihren Lippen und ihrem Kinn.
+- Sie kaut langsam, blickt zur Seite mit einem ruhigen, leicht distanzierten Ausdruck, während der Regen weiterfällt.
+
+Ultra-realistisch, 35-mm-Film-Look, natürliche Hauttextur mit Regentropfen auf Gesicht und Kappe, Details nasser Stoffe, kein Make-up, ruhige Stimmung an einem regnerischen Tag.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102269103058960384/img/8INOQXR20vXAFwWT.jpg" width="600" alt="Cinematic Prompt: Regnerische Veranda-Szene">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11107)**
+
+**Autor:** [Elisia](https://x.com/AiwithElisia) | **Quelle:** [Link](https://x.com/AiwithElisia/status/2102269278489903244) | **Veröffentlicht:** Sep 22, 2026
+
+---
+### Koreanischer Marktplatz: Cinematic Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Prompt zur Erstellung eines cinematischen Videos eines koreanischen Mädchens, das durch einen traditionellen Markt geht und rennt, mit Fokus auf Charakterkonsistenz und natürliche Bewegung.
+
+#### 📝 Prompt
+
+```
+Erstelle ein wunderschönes koreanisches Mädchen, das selbstbewusst durch einen traditionellen koreanischen Markt geht, gekleidet in ein elegantes historisches Outfit, mit langen schwarzen Haaren, die natürlich wehen, umgeben von einer detaillierten alten koreanischen Straße. Nach einer Sekunde bewegt sich die Kamera sanft näher heran, während sie durch die belebte Menge geht, wobei ihr Gesicht klar, realistisch und konsistent bleibt. Nach zwei Sekunden zeige sie beim Vorbeigehen an hölzernen Marktständen, traditionellen koreanischen Häusern, hängenden Laternen und Händlern, während sich die Menschen natürlich um sie herum bewegen. Nach drei Sekunden beginnt sie plötzlich, durch den überfüllten Markt zu rennen, wobei ihre Haare, Kleidung und Körperbewegungen natürlich auf ihre Geschwindigkeit reagieren. Nach vier Sekunden nutze eine flüssige cinematische Verfolgungsaufnahme von vorne, während sie zwischen den Ständen hindurchläuft und der Hintergrund sich natürlich bewegt. Nach fünf Sekunden wechsle zu einem dramatischen Seitenwinkel, der ihren entschlossenen Ausdruck, realistische Schritte, wehendes Haar und detaillierte traditionelle Kleidung zeigt. Nach sechs Sekunden folge ihr von hinten, während sie tiefer in die alte Straße hineinläuft, wobei Sonnenlicht, Staub, Laternen und sich bewegende Menschen eine cinematische Atmosphäre erzeugen. Nach sieben Sekunden bewege die Kamera sanft um sie herum, während perfekte Charakterkonsistenz, realistische Gesichtszüge, natürliche Hauttextur und glaubwürdige Bewegung beibehalten werden. Nach acht Sekunden schließe mit einer breiten cinematischen Aufnahme des koreanischen Mädchens ab, das weiter durch den schönen historischen Markt geht, mit fotorealistischen Details, natürlicher Beleuchtung, realistischer Physik, flüssiger Kamerabewegung und ohne Verzerrungen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102259707142717440/img/Gu_7x3AVHHbndsXs.jpg" width="600" alt="Koreanischer Marktplatz: Cinematic Video Prompt">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11106)**
+
+**Autor:** [Maha](https://x.com/Aiwithmaha) | **Quelle:** [Link](https://x.com/Aiwithmaha/status/2102260032348078455) | **Veröffentlicht:** Sep 22, 2026
+
+---
+### Vintage Countryside Life Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt für eine 25-sekündige cineastische Montage eines koreanischen Mädchens in einer Vintage-Landschaft, mit Aktivitäten wie Radfahren, Lesen und Wassermelone schneiden.
+
+#### 📝 Prompt
+
+```
+Ein schönes koreanisches Mädchen in einer traumhaften Vintage-Landschaft.
+Sie trägt ein zartes weißes Kleid mit schwarzen Schleifendetails und einem Spitzen-Stirnband.
+Sie fährt ein klassisches Fahrrad durch eine friedliche Wildblumenwiese im warmen Sonnenlicht.
+Später entspannt sie sich auf dem Gras unter einem Baum und liest still ein Buch.
+Sie geht über eine kleine Holzbrücke, während sie ein Buch über ihrem Kopf hält.
+Die Szene wechselt zu einem gemütlichen Vintage-Haus, wo sie sorgfältig eine frische Wassermelone schneidet.
+Ein nostalgischer alter Fernseher und rustikales Interieur schaffen eine warme Retro-Atmosphäre.
+Sie verbringt einen ruhigen Moment neben einem bunten Aquarium mit schwimmenden Fischen.
+Das Video hat weiches cineastisches Licht, sanfte Kamerabewegungen und eine träumerisch-nostalgische Stimmung.
+Erstellen Sie eine schöne 25-sekündige cineastische Montage mit realistischen Details, natürlicher Bewegung und einer warmen Vintage-Ästhetik.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101910912076857345/img/fap_eQMR3XFC27P1.jpg" width="600" alt="Vintage Countryside Life Video Prompt">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11108)**
+
+**Autor:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Quelle:** [Link](https://x.com/ayzalnooor24521/status/2101911177962090931) | **Veröffentlicht:** Sep 21, 2026
+
+---
 ### Cinematische Modenschau-Performance-Szene
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -5294,100 +5373,6 @@ Verwenden Sie das Referenzbild für den Charakter. Ein weibliches Idol steht in 
 **Autor:** [妖精アーヤ](https://x.com/aiehon_aya) | **Quelle:** [Link](https://x.com/aiehon_aya/status/2097082482306720232) | **Veröffentlicht:** Sep 7, 2026
 
 ---
-### Dokumentation: Eisblock-Abwurf in einen Vulkankrater
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Ein detaillierter, mehrstufiger kinoreifer Prompt für Seedance 2.0, der eine Frau zeigt, die aus einem Helikopter einen riesigen Eisblock in einen vulkanischen Lavasee wirft.
-
-#### 📝 Prompt
-
-```
-[Stil] Realistischer Live-Action-Kurzfilm im Stil einer Extrem-Abenteuer-Dokumentation für vertikale Bildschirme, Textur einer mobilen Weitwinkel-Handykamera. Echte Charaktere, echtes Kabineninterieur, Lichtbrechung und innere Risse in transparenten Eiswürfeln, schwarzes Vulkangestein und orange-rote Lava. Beibehaltung von leichtem Handkamera-Wackeln, Flugvibrationen, natürlicher Bewegungsunschärfe und Belichtungswechseln. Das Innere ist dunkel, der Himmel draußen hell, und die Lava wirft orange-rote Reflexionen auf den Arm der Person, den Eisblock und den Türrahmen. Die finale Eruption nutzt realistische filmische Spezialeffekte, eine weiße Gassäule mit volumetrischen Schichten und detaillierten Wirbeln. [Dauer] 15 Sekunden, 9:16 vertikal, kontinuierliche Einstellung. Echtzeit-Aktion, keine Schnitte, keine Zeitlupe, keine anderen Kamerawinkel. [Szene] Ein Helikopter schwebt über einem vulkanischen Lavagebiet, die Seitentür ist vollständig geöffnet. Die Kamera befindet sich im Inneren und blickt nach draußen. Dunkler Türrahmen links und oben sichtbar, rutschfester Bodenbelag unten. Darunter befindet sich eine große Fläche aus dunkelgrau-schwarzer, erstarrter Lava mit geschwungenen, orange-rot glühenden Rissen, die einen fast kreisförmigen Lavasee umgeben, in dem geschmolzenes Material wallt und blubbert. Der See ist der Zielpunkt für das Eis und die anschließende Eruption. [Charakter] Eine erwachsene ostasiatische Frau mit braunem Pferdeschwanz, bekleidet mit Funktionsjacke und Arbeitshose, trägt ein Luftfahrt-Headset. Die Haare werden vom starken Wind zerzaust. Lächelt anfangs in die Kamera, konzentriert sich dann nach draußen; endet damit, dass sie vor der Eruption zurückweicht. Der Charakter bleibt in der Kabine, nur Arme und Eis ragen nach draußen. [Kern-Requisite] Ein einzelner, riesiger, transparenter, rechteckiger Eisblock, von der Brust bis zum Knie reichend, so breit wie ein Torso. Schwer, mit nasser Oberfläche und inneren Blasen/Rissen. Die Frau hält ihn mit beiden Armen und zeigt das Gewicht. Kippt nach dem Loslassen als ganzer Block nach unten. [Kamera] Beginnt als handgeführte Nahaufnahme der Frau und des Eises. Nach dem Loslassen schwenkt die Kamera nach unten und verfolgt den Fall, während sie an der Türschwelle bleibt. Behält die Draufsicht auf den Lavasee bei und zieht sich dann schnell zurück, als die Gassäule näher kommt. [Zeitplan] 00:00-01:30: Hält das Eis und lächelt. 01:30-02:30: Dreht sich zum Abwurfpunkt und verlagert den Schwerpunkt, um das Eis hinauszuschieben. 02:30-03:10: Loslassen des Eises über der Schwelle. 03:10-04:60: Luftaufnahme der Verfolgung des fallenden Eises. 04:60-08:20: Warten über dem blubbernden Lavasee. 08:20-11:50: Kleine weiße Dampfwolken erscheinen und sammeln Kraft. 11:50-12:40: Plötzliche Ausdehnung der weißen Gassäule, die nach oben schießt. 12:40-13:60: Gassäule nähert sich der Linse, die Kamera weicht panisch zurück.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096984251615047680/img/AOaEmhICg-dW96A8.jpg" width="600" alt="Dokumentation: Eisblock-Abwurf in einen Vulkankrater">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=10702)**
-
-**Autor:** [探路AI](https://x.com/TanLuAI) | **Quelle:** [Link](https://x.com/TanLuAI/status/2096984350055436729) | **Veröffentlicht:** Sep 7, 2026
-
----
-### Gasse zur Goldenen Stunde
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein realistischer Slice-of-Life-Video-Prompt, der eine junge Frau zeigt, die in einer ruhigen Wohngebietsgasse mit einer Katze interagiert.
-
-#### 📝 Prompt
-
-```
-Erstelle ein 15-sekündiges, realistisches, filmisches Slice-of-Life-Video im 16:9-Format mit 24 fps. Nur visuelles Video, kein Dialog, keine Stimme, keine Musik, keine Soundeffekte, keine Untertitel, kein Text auf dem Bildschirm. Warmes Sonnenlicht zur goldenen Stunde, sanfte Handkameraführung, dezente Film-Farbkorrektur, leichtes Filmkorn, natürliche Schatten, friedliche, nostalgische Nachbarschaftsstimmung. Vollständig realistischer Live-Action-Stil, nicht spielartig, nicht animiert.
-
-Hauptfigur: eine junge koreanische Frau Anfang 20 mit zerzaustem, dunkelbraunem Haar, das zu einem lockeren Pferdeschwanz gebunden ist, weiches natürliches Gesicht, ruhiger, sanfter Ausdruck, dunkelgraues, ärmelloses Crop-Top, lockere hellblaue Jeans, schwarze Halskette, lässige Sneaker. Achte auf ein konsistentes Aussehen in jeder Einstellung.
-
-Ort: eine lange, schmale, reale Wohngebietsgasse zwischen hohen, beigen Stein- und Betonmauern. Sandiger, staubiger Boden, warmes Sonnenlicht, das auf einer Seite leuchtet, weiche Baumschatten auf dem Weg, Palmen und grüne Blätter über den Mauern sichtbar, eine blau gestrichene Wand in der Ferne, ein Fahrrad, das nahe dem Ende der Gasse lehnt, ruhige, leere Nachbarschaftsatmosphäre.
-
-0:00–0:02:
-Tracking-Shot von hinten. Die koreanische Frau geht langsam von hinten durch die lange, schmale Gasse. Goldenes Sonnenlicht erstreckt sich über die beigen Mauern. Die Kamera folgt mit natürlicher Handkamera-Bewegung.
-
-0:02–0:04:
-Weite Einstellung der Gasse. Eine kleine graubraune getigerte Katze erscheint aus einer Lücke nahe der linken Wand und tritt in die Gasse. Die Frau bemerkt sie, verlangsamt ihr Tempo und dreht sich leicht zu ihr um.
-
-0:04–0:06:
-Halbnahe seitliche Einstellung. Die Katze läuft in die Nähe ihrer Füße und schaut nach oben. Sie lächelt sanft, beugt sich langsam hinunter und streckt vorsichtig und behutsam eine Hand aus.
-
-0:06–0:08:
-Tiefe Nahaufnahme. Die Katze schnuppert an ihren Fingern und reibt dann ihren Kopf an ihrer Hand. Sie streichelt sanft den Kopf und den Rücken der Katze. Zeige realistische Fellstruktur, winzige Schnurrhaar-Bewegungen und natürliches Katzenverhalten.
-
-0:08–0:10:
-Emotionale Nahaufnahme. Die Frau lächelt warm, während sie die Katze streichelt. Sonnenlicht flackert durch die Baumblätter über ihr Gesicht, ihre Schultern und ihr Haar. Halte den Moment sanft, ruhig und menschlich.
-
-0:10–0:12:
-Halbnahe Einstellung. Die Katze läuft ein paar Schritte voraus und schaut dann zu ihr zurück. Sie steht langsam auf und folgt ihr mit einem neugierigen, friedlichen Lächeln.
-
-0:12–0:14:
-Tracking-Shot von vorne. Sie geht auf die Kamera zu, die Katze neben ihr nahe der Wand. Sie schaut auf die Katze hinunter und lächelt. Die lange Gasse, die beigen Mauern, die blaue Wand weit im Hintergrund, Bäume und das Fahrrad bleiben sichtbar.
-
-0:14–0:15:
-Abschließende Nahaufnahme. Die Katze streift an ihrem Bein entlang. Sie schaut mit einem sanften, friedlichen Lächeln in die Kamera und blickt dann wieder auf die Katze hinunter. Behalte die warme Atmosphäre der goldenen Gasse für ein sanftes filmisches Ende bei.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096961809056256001/img/cuWLy0n8_recdL0e.jpg" width="600" alt="Gasse zur Goldenen Stunde">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=10506)**
-
-**Autor:** [Abhishek](https://x.com/HeyAbhishek) | **Quelle:** [Link](https://x.com/HeyAbhishek/status/2096961839154545127) | **Veröffentlicht:** Sep 7, 2026
-
----
-### Prompt für ein durchgehendes Selfie-Vlog-Video ohne Schnitt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Mehrphasiges Skript-Layout für eine ununterbrochene, durchgehende Handheld-Vlog-Szene in einer Parkumgebung mit spezifischen Markern für Audio und Lippensynchronisation.
-
-#### 📝 Prompt
-
-```
-Eine einzige, durchgehende Aufnahme ohne Schnitte aus der Perspektive einer Smartphone-Kamera. Digitale Kameraqualität, lässige Vlog-Ästhetik, leicht weicher Fokus, nicht zu scharf, mit natürlichem Handheld-Kamerawackeln. KEINE HINTERGRUNDMUSIK.
-
-Phase 1: Der Selfie-Walk (0:00 - 0:08)
-Das Video beginnt in einer Selfie-Nahaufnahme. Eine junge Frau mit langem, welligem braunem Haar, die eine braune Cord-Schiebermütze und eine grüne Strickjacke über einem weißen Grafik-Top [REF] trägt, geht durch einen üppig grünen Park, in dem sich Menschen auf dem Gras entspannen, mit einer Skyline im Hintergrund unter einem Abendhimmel [REF]. Sie hält die Kamera mit einer Hand und ein perlweißes DJI Mic mit flauschigem weißem Windschutz [REF] mit der anderen Hand nah an ihren Mund. Sie spricht direkt in die Linse mit einem lässigen Ausdruck, ihre Lippen synchron zu: „Ich habe früher STUNDEN jeden Tag damit verbracht, nur ein Video zu bearbeiten… nur um am Ende völlig ausgebrannt zu sein.“
-
-Phase 2: Das Abstellen (0:08 - 0:15)
-In einer kontinuierlichen Bewegung ohne Schnitt neigt sich die Kameraperspektive nach unten, während sie [REF] ihren Arm senkt und das Telefon auf das Gras legt, wobei sie es gegen einen Baumstamm lehnt. Dann geht sie rückwärts von der Kamera weg, was eine Ganzkörper-Totale ihres grünen Plisseerocks und ihrer braunen Stulpen/Stiefel [REF] enthüllt. Sie steht mitten im Park, blickt kurz auf die Szenerie und führt dann das weiße DJI Mic [REF] mit neuer Energie wieder an ihren Mund. Sie spricht, ihre Lippen synchron zu: „Bis ich VEED gefunden habe. Endlich brauche ich nur noch einen Klick und es ist FERTIG!“
-
-Phase 3: Der Abschluss (0:15 - 0:20)
-Immer noch in derselben ununterbrochenen Einstellung lächelt sie [REF] strahlend und joggt vorwärts zurück zur Kameralinse. Sie beugt sich hinunter, hebt das Telefon wieder auf und geht fließend zurück in den Selfie-Nahaufnahmemodus. Während sie das weiße DJI Mic [REF] in der anderen Hand hält, schaut sie in die Linse und spricht, die Lippen synchron zu: „Ihr solltet es mal ausprobieren, Leute! Tschüss!“ Sie winkt fröhlich in die Kamera, während das Video endet.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096960013814370305/img/pDZ_83GUkdbgg0wV.jpg" width="600" alt="Prompt für ein durchgehendes Selfie-Vlog-Video ohne Schnitt">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=10503)**
-
-**Autor:** [I’m Bobo | Commission OPEN](https://x.com/imtheboboo) | **Quelle:** [Link](https://x.com/imtheboboo/status/2096961730282918046) | **Veröffentlicht:** Sep 7, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -5449,6 +5434,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-09-22T03:47:23.412Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-09-23T03:49:40.926Z</sub>
 
 </div>

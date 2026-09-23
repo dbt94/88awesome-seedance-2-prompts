@@ -68,9 +68,9 @@ Pourquoi utiliser notre galerie ?
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **6408** |
+| 📝 Total des prompts | **6411** |
 | ⭐ Prompts en vedette | **6** |
-| 🔄 Dernière mise à jour | **2026-09-22** |
+| 🔄 Dernière mise à jour | **2026-09-23** |
 
 ---
 
@@ -361,6 +361,85 @@ Ultra réaliste, énergie inspirée de Fast and Furious, éclairage photoréalis
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Prompt de Séquence Cinématographique : Porche Pluvieux
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt très détaillé pour une séquence vidéo cinématographique d'une femme sous un porche pendant une forte pluie, incluant des actions spécifiques comme ajuster sa casquette, insérer ses écouteurs et manger une pomme.
+
+#### 📝 Prompt
+
+```
+Plan cinématographique serré à moyen d'une jeune femme est-asiatique se tenant sous un porche en bois patiné par la pluie battante. Elle porte une casquette de baseball noire trempée, un t-shirt blanc oversize légèrement translucide à cause de l'humidité, et la sangle d'un tote bag beige sur l'épaule. Ses cheveux foncés sont attachés en un chignon flou, avec des mèches mouillées collées à son visage et son cou. Des écouteurs filaires blancs sont dans ses oreilles.
+
+La pluie tombe régulièrement d'une gouttière en métal rouillé, dégoulinant du toit en tôle ondulée. Une forêt verte luxuriante et des montagnes brumeuses s'estompent en arrière-plan. Éclairage naturel doux, étalonnage couleur teal-vert froid, faible profondeur de champ, grain filmique, atmosphère mélancolique et silencieuse.
+
+Séquence :
+- Elle regarde vers le bas, puis lève lentement la main pour ajuster sa casquette mouillée.
+- Elle sort des écouteurs blancs et les insère un par un.
+- Elle s'appuie contre le poteau en bois et contemple la pluie.
+- Elle tend sa paume vers la pluie qui tombe, observant les gouttes frapper sa main.
+- Gros plan : elle essuie une pomme rouge brillante avec un chiffon blanc.
+- Elle croque dans la pomme, le jus coulant de ses lèvres et de son menton.
+- Elle mâche lentement, regardant de côté avec une expression calme et légèrement distante tandis que la pluie continue de tomber.
+
+Ultra-réaliste, rendu pellicule 35 mm, texture naturelle de la peau avec des gouttes de pluie sur le visage et la casquette, détails des tissus mouillés, sans maquillage, ambiance paisible de jour pluvieux.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102269103058960384/img/8INOQXR20vXAFwWT.jpg" width="600" alt="Prompt de Séquence Cinématographique : Porche Pluvieux">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11107)**
+
+**Auteur:** [Elisia](https://x.com/AiwithElisia) | **Source:** [Link](https://x.com/AiwithElisia/status/2102269278489903244) | **Publié:** Sep 22, 2026
+
+---
+### Prompt vidéo cinématographique pour un marché coréen
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt détaillé pour créer une vidéo cinématographique d'une jeune femme coréenne marchant et courant à travers un marché traditionnel, en mettant l'accent sur la cohérence du personnage et le mouvement naturel.
+
+#### 📝 Prompt
+
+```
+Créez une belle jeune femme coréenne marchant avec assurance à travers un marché traditionnel coréen, vêtue d'une tenue historique élégante, ses longs cheveux noirs ondulant naturellement dans une rue ancienne coréenne riche en détails. À la première seconde, la caméra s'approche doucement alors qu'elle traverse la foule animée, gardant son visage clair, réaliste et cohérent. À deux secondes, montrez-la passant devant des étals de marché en bois, des maisons traditionnelles coréennes, des lanternes suspendues et des marchands, tandis que les gens bougent naturellement autour d'elle. À trois secondes, elle commence soudainement à courir à travers le marché bondé, ses cheveux, ses vêtements et ses mouvements corporels répondant naturellement à sa vitesse. À quatre secondes, utilisez un plan de suivi cinématographique fluide depuis l'avant alors qu'elle court entre les étals, le fond bougeant naturellement. À cinq secondes, passez à un angle latéral dramatique montrant son expression déterminée, ses pas réalistes, ses cheveux flottants et ses vêtements traditionnels détaillés. À six secondes, suivez-la par derrière alors qu'elle court plus profondément dans la rue ancienne, la lumière du soleil, la poussière, les lanternes et les personnes en mouvement créant une atmosphère cinématographique. À sept secondes, déplacez la caméra autour d'elle de manière fluide tout en maintenant une parfaite cohérence du personnage, des traits faciaux réalistes, une texture de peau naturelle et un mouvement crédible. À huit secondes, terminez par un large plan cinématographique de la jeune femme coréenne continuant d'avancer à travers le magnifique marché historique, avec des détails photoréalistes, un éclairage naturel, une physique réaliste, un mouvement de caméra fluide et aucune distorsion.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102259707142717440/img/Gu_7x3AVHHbndsXs.jpg" width="600" alt="Prompt vidéo cinématographique pour un marché coréen">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11106)**
+
+**Auteur:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2102260032348078455) | **Publié:** Sep 22, 2026
+
+---
+### Prompt Vidéo Vie Rurale Vintage
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt pour un montage cinématographique de 25 secondes mettant en scène une jeune femme coréenne dans un cadre rural vintage, avec des activités comme le vélo, la lecture et la découpe d'une pastèque.
+
+#### 📝 Prompt
+
+```
+Une belle jeune femme coréenne dans un cadre rural vintage onirique.
+Elle porte une robe blanche délicate avec des détails de rubans noirs et un bandeau en dentelle.
+Elle fait du vélo classique à travers une prairie paisible de fleurs sauvages sous une lumière chaude du soleil.
+Plus tard, elle se détend sur l'herbe sous un arbre, lisant tranquillement un livre.
+Elle traverse un petit pont en bois tout en tenant un livre au-dessus de sa tête.
+La scène change pour un intérieur domestique vintage cosy où elle coupe soigneusement une pastèque fraîche.
+Un vieux téléviseur nostalgique et un intérieur rustique créent une atmosphère rétro chaleureuse.
+Elle passe un moment calme à côté d'un aquarium coloré rempli de poissons nageurs.
+La vidéo présente un éclairage cinématographique doux, des mouvements de caméra légers et une ambiance nostalgique onirique.
+Créez un beau montage cinématographique de 25 secondes avec des détails réalistes, un mouvement naturel et une esthétique vintage chaleureuse.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101910912076857345/img/fap_eQMR3XFC27P1.jpg" width="600" alt="Prompt Vidéo Vie Rurale Vintage">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11108)**
+
+**Auteur:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Source:** [Link](https://x.com/ayzalnooor24521/status/2101911177962090931) | **Publié:** Sep 21, 2026
+
+---
 ### Scène de performance mode cinématographique
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -5285,100 +5364,6 @@ Utilisez l'image de référence pour le personnage. Une idole féminine se tient
 **Auteur:** [妖精アーヤ](https://x.com/aiehon_aya) | **Source:** [Link](https://x.com/aiehon_aya/status/2097082482306720232) | **Publié:** Sep 7, 2026
 
 ---
-### Documentaire : Chute de glace dans un cratère volcanique
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt cinématographique détaillé en plusieurs étapes pour Seedance 2.0, mettant en scène une femme larguant un bloc de glace géant dans un bassin de lave volcanique depuis un hélicoptère.
-
-#### 📝 Prompt
-
-```
-[Style] Court-métrage documentaire d'aventure extrême en prises de vues réelles, format vertical, texture d'objectif grand-angle de téléphone portable tenu à la main. Personnages réels, intérieur de cabine authentique, réfraction et fissures internes des cubes de glace transparents, roche volcanique noire et lave orange-rouge. Préserve le léger tremblement de la main, les vibrations du vol, le flou de mouvement naturel et les variations d'exposition. L'intérieur est sombre, le ciel extérieur est lumineux, et la lave projette des reflets orange-rouge sur le bras du personnage, le bloc de glace et le seuil de la porte. L'éruption finale utilise des effets spéciaux cinématographiques réalistes, une colonne de gaz blanc avec des couches volumétriques et des détails tourbillonnants. [Durée] 15 secondes, format vertical 9:16, plan-séquence continu. Action en temps réel, sans coupure, sans ralenti, sans autre angle de caméra. [Scène] Un hélicoptère survole une zone de lave volcanique, porte latérale grande ouverte. La caméra est à l'intérieur, tournée vers l'extérieur. Cadre de porte sombre visible à gauche et en haut, sol antidérapant en bas. En dessous, une vaste zone de lave solidifiée gris-noir avec des fissures sinueuses rouge orangé entourant un bassin de lave presque circulaire où la matière en fusion bouillonne. Le bassin est le point de chute de la glace et de l'éruption qui s'ensuit. [Personnage] Une femme adulte d'origine est-asiatique, queue de cheval brune, portant une veste technique et un pantalon de travail, casque d'aviation. Cheveux agités par un vent fort. Sourit initialement à la caméra, puis se concentre sur l'extérieur ; termine en se détournant brusquement de l'éruption. Le personnage reste à l'intérieur de la cabine, seuls ses bras et la glace dépassent. [Accessoire principal] Un unique bloc de glace rectangulaire transparent géant, de la taille du buste aux genoux, largeur de tronc. Lourd, avec une surface humide et des bulles/fissures internes. La femme le tient à deux bras, montrant son poids. Bascule vers le bas après le lâcher en un seul bloc. [Caméra] Commence par un plan moyen tenu à la main sur la femme et la glace. Après le lâcher, la caméra s'incline vers le bas et suit la chute, restant au niveau du seuil. Maintient une vue plongeante sur le bassin de lave, puis se rétracte rapidement à l'approche de la colonne de gaz. [Chronologie] 00:00-01:30 : Maintien de la glace et sourire. 01:30-02:30 : Rotation vers le point de chute et abaissement du centre de gravité pour pousser la glace. 02:30-03:10 : Largage de la glace au-dessus du seuil. 03:10-04:60 : Suivi aérien de la chute de la glace. 04:60-08:20 : Attente au-dessus du bassin de lave bouillonnant. 08:20-11:50 : Apparition d'un petit nuage de vapeur blanche qui gagne en intensité. 11:50-12:40 : Expansion soudaine de la colonne de gaz blanc projetée vers le haut. 12:40-13:60 : La colonne de gaz approche de l'objectif, la caméra recule en panique.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096984251615047680/img/AOaEmhICg-dW96A8.jpg" width="600" alt="Documentaire : Chute de glace dans un cratère volcanique">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=10702)**
-
-**Auteur:** [探路AI](https://x.com/TanLuAI) | **Source:** [Link](https://x.com/TanLuAI/status/2096984350055436729) | **Publié:** Sep 7, 2026
-
----
-### Scène de ruelle à l'heure dorée
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo réaliste de type « tranche de vie » mettant en scène une jeune femme interagissant avec un chat dans une ruelle résidentielle calme.
-
-#### 📝 Prompt
-
-```
-Créez une vidéo cinématographique réaliste de 15 secondes, format 16:9, 24 fps. Vidéo visuelle uniquement, sans dialogue, sans voix, sans musique, sans effets sonores, sans sous-titres, sans texte à l'écran. Lumière chaude de l'heure dorée, caméra portée douce, étalonnage des couleurs cinématographique feutré, léger grain, ombres naturelles, atmosphère de quartier paisible et nostalgique. Style prise de vue réelle entièrement réaliste, pas d'aspect jeu vidéo, pas d'animation.
-
-Personnage principal : une jeune femme coréenne d'une vingtaine d'années, cheveux châtain foncé en bataille attachés en une queue de cheval lâche, visage doux et naturel, expression calme et sereine, débardeur gris foncé sans manches, jean bleu clair ample, collier noir, baskets décontractées. Maintenez une apparence cohérente sur chaque plan.
-
-Lieu : une longue ruelle résidentielle étroite et réelle entre de hauts murs en pierre et béton beige. Sol sablonneux et poussiéreux, lumière du soleil chaude brillant sur un côté, ombres douces des arbres sur le chemin, palmiers et feuilles vertes visibles au-dessus des murs, un mur peint en bleu au loin, un vélo appuyé près de la fin de la ruelle, sentiment de quartier calme et désert.
-
-0:00–0:02 :
-Plan de suivi arrière. La femme coréenne marche lentement dans la longue ruelle étroite, vue de dos. La lumière dorée s'étire sur les murs beiges. La caméra suit avec un mouvement naturel à l'épaule.
-
-0:02–0:04 :
-Plan large de la ruelle. Un petit chat tigré gris-brun apparaît d'une ouverture basse près du mur de gauche et entre dans la ruelle. La femme le remarque, ralentit et se tourne légèrement vers lui.
-
-0:04–0:06 :
-Plan moyen latéral. Le chat marche près de ses pieds et lève les yeux. Elle sourit doucement, se penche lentement et tend une main avec précaution et délicatesse.
-
-0:06–0:08 :
-Gros plan en contre-plongée. Le chat renifle ses doigts, puis frotte sa tête contre sa main. Elle caresse doucement la tête et le dos du chat. Montrez une texture de fourrure réaliste, le mouvement des minuscules moustaches et un comportement félin naturel.
-
-0:08–0:10 :
-Gros plan émotionnel. La femme sourit chaleureusement en caressant le chat. La lumière du soleil scintille à travers les feuilles des arbres sur son visage, ses épaules et ses cheveux. Gardez le moment doux, calme et humain.
-
-0:10–0:12 :
-Plan moyen large. Le chat avance de quelques pas, puis se retourne pour la regarder. Elle se redresse lentement et le suit avec un sourire curieux et paisible.
-
-0:12–0:14 :
-Plan de suivi avant. Elle marche vers la caméra avec le chat à ses côtés près du mur. Elle regarde le chat et sourit. La longue ruelle, les murs beiges, le mur bleu au loin, les arbres et le vélo restent visibles.
-
-0:14–0:15 :
-Plan final serré. Le chat se frotte contre sa jambe. Elle regarde vers la caméra avec un sourire doux et paisible, puis regarde à nouveau le chat. Maintenez l'atmosphère chaude et dorée de la ruelle pour une fin cinématographique délicate.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096961809056256001/img/cuWLy0n8_recdL0e.jpg" width="600" alt="Scène de ruelle à l'heure dorée">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=10506)**
-
-**Auteur:** [Abhishek](https://x.com/HeyAbhishek) | **Source:** [Link](https://x.com/HeyAbhishek/status/2096961839154545127) | **Publié:** Sep 7, 2026
-
----
-### Prompt pour vlog selfie continu et ininterrompu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Structure de script en plusieurs phases pour une scène de vlog filmée à la main, continue et sans coupure, dans un parc, avec des marqueurs spécifiques pour l'audio et la synchronisation labiale.
-
-#### 📝 Prompt
-
-```
-Un plan unique et continu (sans coupure) du point de vue d'une caméra de smartphone. Qualité caméra numérique, esthétique vlog décontractée, mise au point légèrement douce, pas trop nette, avec le tremblement naturel d'une caméra tenue à la main. PAS DE MUSIQUE DE FOND.
-
-Phase 1 : Le selfie en marchant (0:00 - 0:08)
-La vidéo commence en angle selfie gros plan. Une jeune femme aux longs cheveux bruns ondulés, portant une casquette gavroche en velours côtelé marron et un cardigan vert sur un haut à motif graphique [REF], marche dans un parc verdoyant avec des gens qui se détendent sur l'herbe et une ligne d'horizon urbaine en arrière-plan sous un ciel de soirée [REF]. Elle tient la caméra d'une main et un DJI Mic blanc nacré avec une bonnette anti-vent blanche et duveteuse [REF] près de sa bouche de l'autre. Elle s'adresse directement à l'objectif avec une expression décontractée, ses lèvres se synchronisant sur : « Je passais des HEURES chaque jour à monter une seule vidéo… pour finir complètement épuisée. »
-
-Phase 2 : La pose de la caméra (0:08 - 0:15)
-Dans un mouvement continu sans coupure, l'angle de la caméra s'incline vers le bas tandis qu'elle [REF] baisse le bras et pose le téléphone sur l'herbe, en l'appuyant contre la base d'un arbre. Elle recule ensuite en s'éloignant de la caméra, révélant un plan large en pied de sa jupe plissée verte et de ses jambières/bottes marron [REF]. Elle se tient au milieu du parc, jette un bref coup d'œil au paysage, puis ramène le DJI Mic blanc [REF] vers sa bouche avec une énergie renouvelée. Elle parle, ses lèvres se synchronisant sur : « Jusqu'à ce que je découvre VEED. Enfin, tout ce dont j'ai besoin, c'est d'un seul clic et c'est TERMINÉ ! »
-
-Phase 3 : La conclusion (0:15 - 0:20)
-Toujours dans le même plan ininterrompu, elle [REF] sourit largement et revient en trottinant vers l'objectif de la caméra. Elle se penche pour ramasser le téléphone, faisant passer l'angle de manière fluide vers un mode selfie en gros plan. Tenant le DJI Mic blanc [REF] dans son autre main, elle regarde l'objectif et parle, ses lèvres se synchronisant sur : « Vous devriez essayer, les gars ! Salut ! » Elle fait un signe de la main joyeux vers la caméra alors que la vidéo se termine.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096960013814370305/img/pDZ_83GUkdbgg0wV.jpg" width="600" alt="Prompt pour vlog selfie continu et ininterrompu">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=10503)**
-
-**Auteur:** [I’m Bobo | Commission OPEN](https://x.com/imtheboboo) | **Source:** [Link](https://x.com/imtheboboo/status/2096961730282918046) | **Publié:** Sep 7, 2026
-
----
 ---
 
 ## 📚 Plus de prompts disponibles
@@ -5440,6 +5425,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-09-22T03:47:24.234Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-09-23T03:49:41.934Z</sub>
 
 </div>

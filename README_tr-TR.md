@@ -68,9 +68,9 @@ Neden galerimizi kullanmalısınız?
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **6408** |
+| 📝 Toplam İstem | **6411** |
 | ⭐ Öne Çıkan İstemler | **6** |
-| 🔄 Son Güncelleme | **2026-09-22** |
+| 🔄 Son Güncelleme | **2026-09-23** |
 
 ---
 
@@ -361,6 +361,85 @@ Ultra gerçekçi, Hızlı ve Öfkeli esintili enerji, fotogerçekçi aydınlatma
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Yağmurlu Veranda Sinematik Sekans İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Şapkasını düzeltme, kulaklık takma ve elma yeme gibi spesifik eylemleri içeren, yoğun yağmur altında verandada duran bir kadının sinematik video sekansı için son derece detaylı istem.
+
+#### 📝 İstem
+
+```
+Yoğun yağmur altında, havalı ahşap bir verandanın altında duran genç Doğu Asyalı bir kadının sinematik yakın-orta plan çekimi. Islak siyah beyzbol şapkası, hafif şeffaf ıslak beyaz bol kesim tişörtü ve omzunda bej bir bez çanta askısı var. Koyu saçları dağınık bir topuz yapılmış; ıslak tutamlar yüzüne ve boynuna yapışmış. Kulaklarında beyaz kablolu kulaklıklar bulunuyor.
+
+Paslı metal oluktan düzenli olarak akan yağmur suyu, dalgalı çatıdan damlıyor. Arka planda yemyeşil orman ve sisli dağlar silikleşiyor. Yumuşak doğal ışıklandırma, soğuk turkuaz-yeşil renk tonu, sığ alan derinliği, filmik gren dokusu, melankolik ve sessiz atmosfer.
+
+Sekans:
+- Aşağıya bakar, ardından yavaşça elini kaldırıp ıslak şapkasını düzeltir.
+- Beyaz kulaklıklarını çıkarır ve tek tek takar.
+- Ahşap direğe yaslanıp dışarıdaki yağmura dalar.
+- Elini düşen yağmurun altına uzatır, damlaların avucuna vuruşunu izler.
+- Yakın plan: Beyaz bir bezle parlak kırmızı bir elmayı siler.
+- Elmaya büyük bir ısırık alır, suyu dudaklarından ve çenesinden akar.
+- Yağmur devam ederken, sakince ve biraz uzaklaşmış bir ifadeyle yan tarafa bakarak yavaşça çiğner.
+
+Ultra gerçekçi, 35mm film görünümü, yüzünde ve şapkasında yağmur damlalarıyla doğal cilt dokusu, ıslak kumaş detayları, makyajsız, sessiz yağmurlu gün havası.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102269103058960384/img/8INOQXR20vXAFwWT.jpg" width="600" alt="Yağmurlu Veranda Sinematik Sekans İstemi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11107)**
+
+**Yazar:** [Elisia](https://x.com/AiwithElisia) | **Kaynak:** [Link](https://x.com/AiwithElisia/status/2102269278489903244) | **Yayınlandı:** Sep 22, 2026
+
+---
+### Kore Pazar Yeri Sinematik Video İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Geleneksel bir Kore pazar yerinde yürüyen ve koşan bir Koreli kızın sinematik videosunu oluşturmak için detaylı bir istem; karakter tutarlılığı ve doğal hareketlere odaklanır.
+
+#### 📝 İstem
+
+```
+Zarif tarihi kıyafetler giymiş, uzun siyah saçları doğal bir şekilde uçuşan ve kendisini çevreleyen detaylı eski Kore sokaklarıyla geleneksel bir Kore pazar yerinde özgüvenle yürüyen güzel bir Koreli kız yaratıldı. Birinci saniyede, kalabalığın arasından geçerken yüzü net, gerçekçi ve tutarlı kalarak kamera yavaşça ona doğru yaklaşır. İkinci saniyede, ahşap pazar tezgahları, geleneksel Kore evleri, asılı fenerler ve tüccarların yanından geçişi gösterilirken etrafındaki insanlar doğal hareketlerle ilerler. Üçüncü saniyede, aniden kalabalık pazar yerinde koşmaya başlar; saçları, kıyafetleri ve vücut hareketleri hızına doğal tepkiler verir. Dördüncü saniyede, arka plan doğal olarak hareket ederken tezgahların arasında koştuğu sırada önden yumuşak sinematik takip çekimi kullanılır. Beşinci saniyede, kararlı ifadesini, gerçekçi adımlarını, uçuşan saçlarını ve detaylı geleneksel kıyafetlerini gösteren dramatik bir yan açıya geçiş yapılır. Altıncı saniyede, güneş ışığı, toz, fenerler ve hareket eden insanların sinematik bir atmosfer yarattığı eski sokağın derinliklerine doğru koşarken onu arkadan takip edin. Yedinci saniyede, mükemmel karakter tutarlılığını, gerçekçi yüz hatlarını, doğal cilt dokusunu ve inandırıcı hareketleri koruyarak kamerayı onun etrafında yumuşakça döndürün. Sekizinci saniyede, fotogerçekçi detaylar, doğal aydınlatma, gerçekçi fizik kuralları, akıcı kamera hareketleri ve bozulma olmadan, güzel tarihi pazar yerinde ileriye doğru devam eden Koreli kızın geniş sinematik çekimiyle bitirin.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102259707142717440/img/Gu_7x3AVHHbndsXs.jpg" width="600" alt="Kore Pazar Yeri Sinematik Video İstemi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11106)**
+
+**Yazar:** [Maha](https://x.com/Aiwithmaha) | **Kaynak:** [Link](https://x.com/Aiwithmaha/status/2102260032348078455) | **Yayınlandı:** Sep 22, 2026
+
+---
+### Vintage Kırsal Yaşam Video İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bisiklet sürme, kitap okuma ve karpuz kesme gibi aktivitelerin yer aldığı, vintage kırsal bir ortamda Koreli bir kızın 25 saniyelik sinematik montajı için bir istem.
+
+#### 📝 İstem
+
+```
+Hayalperest vintage kırsal bir ortamda güzel bir Koreli kız.
+Siyah kurdele detaylı zarif beyaz bir elbise ve dantel saç bandı giyiyor.
+Klasik bir bisikletle sıcak güneş ışığında huzurlu yabani çiçek tarlasından geçiyor.
+Daha sonra bir ağacın altında çimlerde dinlenerek sessizce kitap okuyor.
+Kitabı başının üzerinde tutarak küçük ahşap köprüden yürüyor.
+Sahne, taze bir karpuzu özenle kestiği rahat bir vintage eve dönüşüyor.
+Nostaljik eski bir televizyon ve rustik iç mekan, sıcak retro bir atmosfer yaratıyor.
+Yüzen balıklarla dolu renkli akvaryumun yanında sakin bir an geçiriyor.
+Video yumuşak sinematik aydınlatmaya, nazik kamera hareketlerine ve hayalperest nostaljik bir ruh haline sahip.
+Gerçekçi detaylar, doğal hareketler ve sıcak vintage estetiği ile güzel bir 25 saniyelik sinematik montaj oluşturun.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101910912076857345/img/fap_eQMR3XFC27P1.jpg" width="600" alt="Vintage Kırsal Yaşam Video İstemi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11108)**
+
+**Yazar:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Kaynak:** [Link](https://x.com/ayzalnooor24521/status/2101911177962090931) | **Yayınlandı:** Sep 21, 2026
+
+---
 ### Sinematik Moda Performansı Sahnesi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -5331,100 +5410,6 @@ Karakter için referans görseli kullanın. Bir kadın idol, dans stüdyosunda b
 **Yazar:** [妖精アーヤ](https://x.com/aiehon_aya) | **Kaynak:** [Link](https://x.com/aiehon_aya/status/2097082482306720232) | **Yayınlandı:** Sep 7, 2026
 
 ---
-### Volkan Krateri Buz Bırakma Belgeseli
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Bir kadının helikopterden volkanik lav havuzuna dev bir buz bloğu bırakmasını konu alan, Seedance 2.0 için hazırlanmış çok aşamalı detaylı sinematik istem.
-
-#### 📝 İstem
-
-```
-[Stil] Gerçekçi canlı çekim, dikey ekran ekstrem macera belgeseli kısa video, elde tutulan cep telefonu geniş açılı lens dokusu. Gerçek karakterler, gerçek kabin içi, şeffaf buz küplerinin kırılması ve iç çatlakları, siyah volkanik kaya ve turuncu-kırmızı lav. Hafif el titremesi, uçuş sarsıntısı, doğal hareket bulanıklığı ve pozlama değişimlerini korur. İç mekan karanlık, dış gökyüzü parlak; lav, karakterin koluna, buz bloğuna ve kapı eşiğine turuncu-kırmızı yansımalar yapar. Final patlaması gerçekçi sinematik özel efektler kullanır, hacimsel katmanlara ve kıvrımlı detaylara sahip beyaz gaz sütunu içerir. [Süre] 15 saniye, 9:16 dikey, kesintisiz tek çekim. Gerçek zamanlı aksiyon, kesme yok, ağır çekim yok, başka kamera açısı yok. [Sahne] Bir helikopter volkanik lav bölgesinin üzerinde asılı duruyor, yan kapı tamamen açık. Kamera içeriden dışarıya bakıyor. Solda ve üstte karanlık kapı çerçevesi, altta kaymaz zemin görülüyor. Aşağıda, erimiş malzemenin yuvarlandığı ve kabardığı neredeyse dairesel bir lav havuzunu çevreleyen, kıvrımlı turuncu-kırmızı parlayan çatlaklara sahip geniş bir koyu gri-siyah katılaşmış lav alanı var. Havuz, buzun bırakılacağı ve ardından patlamanın gerçekleşeceği noktadır. [Karakter] Yetişkin Doğu Asyalı kadın, kahverengi at kuyruğu, fonksiyonel ceket ve iş pantolonu giyiyor, havacılık kulaklığı takılı. Saçları güçlü rüzgarda savruluyor. Başlangıçta kameraya gülümsüyor, sonra dışarıya odaklanıyor; patlamadan irkilerek uzaklaşarak bitiriyor. Karakter kabin içinde kalıyor, sadece kollar ve buz dışarı uzanıyor. [Ana Nesne] Göğüs hizasından diz hizasına kadar, gövde genişliğinde, tek bir dev şeffaf dikdörtgen buz bloğu. Islak yüzeyi ve içindeki kabarcıklar/çatlaklarla ağır görünüyor. Kadın, ağırlığını belli ederek iki koluyla tutuyor. Bırakıldıktan sonra bir bütün olarak aşağı doğru eğiliyor. [Kamera] Kadın ve buzun elde tutulan yakın orta çekimiyle başlar. Bırakıldıktan sonra kamera aşağı eğilir ve düşüşü takip ederek kapı eşiğinde kalır. Lav havuzunun tepeden görünümünü korur, ardından gaz sütunu yaklaştığında hızla geri çekilir. [Zaman Çizelgesi] 00:00-01:30: Buzu tutma ve gülümseme. 01:30-02:30: Bırakma noktasına dönme ve buzu dışarı itmek için ağırlık merkezini düşürme. 02:30-03:10: Buzu eşiğin üzerinden bırakma. 03:10-04:60: Düşen buzun havadan takibi. 04:60-08:20: Kabaran lav havuzu üzerinde bekleme. 08:20-11:50: Küçük beyaz buhar kütlelerinin belirmesi ve güç toplaması. 11:50-12:40: Beyaz gaz sütununun aniden genişleyerek yukarı doğru fırlaması. 12:40-13:60: Gaz sütununun lense yaklaşması, kameranın panik içinde geri çekilmesi.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096984251615047680/img/AOaEmhICg-dW96A8.jpg" width="600" alt="Volkan Krateri Buz Bırakma Belgeseli">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10702)**
-
-**Yazar:** [探路AI](https://x.com/TanLuAI) | **Kaynak:** [Link](https://x.com/TanLuAI/status/2096984350055436729) | **Yayınlandı:** Sep 7, 2026
-
----
-### Altın Saatlerde Ara Sokak Sahnesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Sessiz bir yerleşim yeri ara sokağında bir kedinin genç bir kadınla etkileşimini konu alan gerçekçi bir yaşamdan kesit video istemi.
-
-#### 📝 İstem
-
-```
-16:9 formatında, 24fps hızında, 15 saniyelik gerçekçi ve sinematik bir yaşamdan kesit videosu oluşturun. Sadece görsel, diyalog yok, ses yok, müzik yok, ses efekti yok, altyazı yok, ekranda metin yok. Sıcak altın saat gün ışığı, yumuşak el kamerası çekimi, soluk film renk tonu, hafif gren, doğal gölgeler, huzurlu ve nostaljik bir mahalle atmosferi. Tamamen gerçekçi canlı çekim tarzı, oyun benzeri değil, animasyon değil.
-
-Ana karakter: 20'li yaşlarının başında, dağınık koyu kahverengi saçları gevşek bir at kuyruğu yapılmış, yumuşak doğal yüz hatlarına sahip, sakin ve nazik bir ifadeye sahip, koyu gri kısa kolsuz atlet, bol açık mavi kot pantolon, siyah kolye ve günlük spor ayakkabı giyen genç bir Koreli kadın. Görünüşünü her çekimde tutarlı tutun.
-
-Konum: Yüksek ten rengi taş ve beton duvarlar arasında uzanan uzun, dar, gerçek bir yerleşim yeri ara sokağı. Kumlu ve tozlu zemin, bir tarafta parlayan sıcak gün ışığı, yol boyunca ağaçların yumuşak gölgeleri, duvarların üzerinde görünen palmiye ağaçları ve yeşil yapraklar, ileride mavi boyalı bir duvar, sokağın sonuna doğru yaslanmış bir bisiklet, sessiz ve boş bir mahalle hissi.
-
-0:00–0:02:
-Arkadan takip çekimi. Koreli kadın, uzun ve dar ara sokakta arkadan yavaşça yürüyor. Altın rengi güneş ışığı ten rengi duvarlar boyunca uzanıyor. Kamera, doğal el kamerası hareketiyle onu takip ediyor.
-
-0:02–0:04:
-Geniş sokak çekimi. Küçük, gri-kahverengi bir tekir kedi, sol taraftaki duvarın yakınındaki alçak bir boşluktan çıkıp sokağa adım atıyor. Kadın onu fark ediyor, yavaşlıyor ve hafifçe ona doğru dönüyor.
-
-0:04–0:06:
-Orta yan çekim. Kedi ayaklarının yakınına yürüyor ve yukarı bakıyor. Kadın hafifçe gülümsüyor, yavaşça eğiliyor ve elini nazik ve dikkatli bir şekilde uzatıyor.
-
-0:06–0:08:
-Alçak yakın çekim. Kedi parmaklarını kokluyor, ardından başını eline sürtüyor. Kadın kedinin başını ve sırtını nazikçe okşuyor. Gerçekçi kürk dokusunu, minik bıyık hareketlerini ve doğal kedi davranışlarını gösterin.
-
-0:08–0:10:
-Duygusal yakın çekim. Kadın kediyi okşarken sıcak bir şekilde gülümsüyor. Güneş ışığı ağaç yapraklarının arasından yüzüne, omuzlarına ve saçlarına titreyerek düşüyor. Anı yumuşak, sakin ve insani tutun.
-
-0:10–0:12:
-Orta geniş çekim. Kedi birkaç adım öne yürüyor, sonra arkasına dönüp kadına bakıyor. Kadın yavaşça ayağa kalkıyor ve meraklı, huzurlu bir gülümsemeyle onu takip ediyor.
-
-0:12–0:14:
-Önden takip çekimi. Kadın, kedi yanında duvarın yakınında olacak şekilde kameraya doğru yürüyor. Aşağı, kediye bakıp gülümsüyor. Uzun ara sokak, ten rengi duvarlar, ilerideki mavi duvar, ağaçlar ve bisiklet görünür kalmaya devam ediyor.
-
-0:14–0:15:
-Final yakın çekim. Kedi bacağına sürtünüyor. Kadın yumuşak ve huzurlu bir gülümsemeyle kameraya bakıyor, ardından tekrar aşağı, kediye bakıyor. Nazik ve sinematik bir son için sıcak altın rengi sokak atmosferini koruyun.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096961809056256001/img/cuWLy0n8_recdL0e.jpg" width="600" alt="Altın Saatlerde Ara Sokak Sahnesi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10506)**
-
-**Yazar:** [Abhishek](https://x.com/HeyAbhishek) | **Kaynak:** [Link](https://x.com/HeyAbhishek/status/2096961839154545127) | **Yayınlandı:** Sep 7, 2026
-
----
-### Kesintisiz Selfie Vlog İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Park ortamında, belirli ses ve dudak senkronizasyonu işaretleri içeren, kesintisiz ve sürekli bir el kamerası vlog sahnesini yöneten çok aşamalı senaryo düzeni.
-
-#### 📝 İstem
-
-```
-Akıllı telefon kamerası açısından tek, kesintisiz ve sürekli bir çekim (kesinti yok). Dijital kamera kalitesi, günlük vlog estetiği, hafif yumuşak odak, çok keskin değil, doğal el kamerası sarsıntısı ile. ARKA PLAN MÜZİĞİ YOK.
-
-1. Aşama: Selfie Yürüyüşü (0:00 - 0:08)
-Video yakın çekim selfie açısıyla başlar. Uzun dalgalı kahverengi saçlı, kahverengi fitilli kadife kasketli, beyaz grafikli bir üst üzerine yeşil hırka giymiş genç bir kadın [REF], çimlerde dinlenen insanların olduğu yemyeşil bir parkta ve akşam gökyüzü altında şehir silüeti manzarası eşliğinde yürüyor [REF]. Bir eliyle kamerayı tutuyor, diğer eliyle ise tüylü beyaz rüzgarlığı olan inci beyazı bir DJI Mic'i [REF] ağzına yakın tutuyor. Doğrudan lense, rahat bir ifadeyle konuşuyor; dudakları şu sözlerle senkronize oluyor: "Eskiden sadece bir videoyu düzenlemek için her gün SAATLERİMİ harcardım… sonunda da tükenmişlikten başka bir şey elde edemezdim."
-
-2. Aşama: Yere Bırakma (0:15 - 0:15)
-Kesinti olmadan tek bir sürekli hareketle, kamera açısı aşağı doğru eğilirken kadın [REF] kolunu indiriyor ve telefonu çimlerin üzerine, bir ağaç gövdesine yaslayacak şekilde bırakıyor. Ardından kameradan uzaklaşarak geriye doğru yürüyor; yeşil pileli eteği ve kahverengi tozlukları/botları ile tam vücut geniş açılı görüntüsü ortaya çıkıyor [REF]. Parkın ortasında duruyor, kısaca etrafındaki manzaraya göz atıyor, ardından beyaz DJI mikrofonu [REF] yenilenmiş bir enerjiyle tekrar ağzına götürüyor. Konuşuyor ve dudakları şu sözlerle senkronize oluyor: "VEED'i bulana kadar. Sonunda, tek ihtiyacım olan tek bir tıklama ve İŞ BİTTİ!"
-
-3. Aşama: Kapanış (0:15 - 0:20)
-Hala aynı kesintisiz çekimde, kadın [REF] parlak bir şekilde gülümsüyor ve kamera lensine doğru öne doğru koşuyor. Eğilip telefonu tekrar alıyor ve açıyı akıcı bir şekilde tekrar yakın çekim selfie moduna geçiriyor. Diğer elinde tuttuğu beyaz DJI mikrofonuyla [REF] lense bakıp konuşuyor, dudakları senkronize oluyor: "Bunu mutlaka denemelisiniz arkadaşlar! Görüşürüz!" Video sona ererken kameraya neşeli bir şekilde el sallıyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096960013814370305/img/pDZ_83GUkdbgg0wV.jpg" width="600" alt="Kesintisiz Selfie Vlog İstemi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10503)**
-
-**Yazar:** [I’m Bobo | Commission OPEN](https://x.com/imtheboboo) | **Kaynak:** [Link](https://x.com/imtheboboo/status/2096961730282918046) | **Yayınlandı:** Sep 7, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -5486,6 +5471,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-22T03:47:31.011Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-23T03:49:46.613Z</sub>
 
 </div>

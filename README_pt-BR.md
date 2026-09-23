@@ -68,9 +68,9 @@ Por que usar nossa galeria?
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **6408** |
+| 📝 Total de prompts | **6411** |
 | ⭐ Prompts em destaque | **6** |
-| 🔄 Última atualização | **2026-09-22** |
+| 🔄 Última atualização | **2026-09-23** |
 
 ---
 
@@ -361,6 +361,85 @@ Ultra realista, energia inspirada em Velozes e Furiosos, iluminação fotorreali
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Prompt de Sequência Cinematográfica: Varanda Chuvosa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt altamente detalhado para uma sequência de vídeo cinematográfico de uma mulher sob uma varanda durante uma chuva forte, incluindo ações específicas como ajustar o boné, inserir fones de ouvido e comer uma maçã.
+
+#### 📝 Prompt
+
+```
+Um plano cinematográfico próximo a médio de uma jovem mulher do Leste Asiático em pé sob uma varanda de madeira desgastada durante uma chuva forte. Ela usa um boné preto molhado, uma camiseta branca larga ligeiramente translúcida pelo molhado, e a alça de uma bolsa tote bege sobre o ombro. Seus cabelos escuros estão presos em um coque desleixado, com mechas molhadas grudando no rosto e no pescoço. Fones de ouvido brancos com fio estão em suas orelhas.
+
+A chuva cai constantemente de um cano de descida enferrujado, pingando do telhado de telha ondulada. Uma floresta verde exuberante e montanhas nebulosas desaparecem ao fundo. Iluminação natural suave, gradiente de cor teal-esverdeado frio, profundidade de campo rasa, granulação de filme, atmosfera melancólica e tranquila.
+
+Sequência:
+- Ela olha para baixo, então lentamente levanta a mão para ajustar seu boné molhado.
+- Ela tira os fones de ouvido brancos e os insere um por um.
+- Ela se apoia no pilar de madeira e observa a chuva.
+- Ela estende a palma da mão para a chuva que cai, observando as gotas atingirem sua mão.
+- Close-up: ela limpa uma maçã vermelha brilhante com um pano branco.
+- Ela dá uma mordida grande na maçã, com o suco escorrendo dos lábios e do queixo.
+- Ela mastiga lentamente, olhando para o lado com uma expressão calma e ligeiramente distante enquanto a chuva continua caindo.
+
+Ultra-realista, visual de filme 35mm, textura de pele natural com gotas de chuva no rosto e no boné, detalhes de tecido molhado, sem maquiagem, humor tranquilo de dia chuvoso.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102269103058960384/img/8INOQXR20vXAFwWT.jpg" width="600" alt="Prompt de Sequência Cinematográfica: Varanda Chuvosa">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=11107)**
+
+**Autor:** [Elisia](https://x.com/AiwithElisia) | **Fonte:** [Link](https://x.com/AiwithElisia/status/2102269278489903244) | **Publicado:** Sep 22, 2026
+
+---
+### Prompt de Vídeo Cinematográfico para Mercado Coreano
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt detalhado para criar um vídeo cinematográfico de uma garota coreana caminhando e correndo por um mercado tradicional, com foco na consistência do personagem e no movimento natural.
+
+#### 📝 Prompt
+
+```
+Criei uma bela garota coreana caminhando confiantemente por um mercado coreano tradicional, vestindo um traje histórico elegante, com cabelos longos e negros fluindo naturalmente e cercada por uma rua antiga coreana detalhada. No primeiro segundo, a câmera se aproxima suavemente enquanto ela atravessa a multidão movimentada, mantendo seu rosto claro, realista e consistente. No segundo segundo, mostre-a passando por barracas de madeira, casas tradicionais coreanas, lanternas penduradas e comerciantes, enquanto as pessoas se movem naturalmente ao redor dela. No terceiro segundo, ela começa subitamente a correr pelo mercado lotado, com seus cabelos, roupas e movimentos corporais respondendo naturalmente à sua velocidade. No quarto segundo, use um plano-sequência cinematográfico suave da frente enquanto ela corre entre as barracas, com o fundo se movendo naturalmente. No quinto segundo, mude para um ângulo lateral dramático mostrando sua expressão determinada, passos realistas, cabelos esvoaçantes e roupas tradicionais detalhadas. No sexto segundo, siga-a por trás enquanto ela corre mais fundo na rua antiga, com luz solar, poeira, lanternas e pessoas em movimento criando uma atmosfera cinematográfica. No sétimo segundo, mova a câmera suavemente ao redor dela, mantendo perfeita consistência do personagem, traços faciais realistas, textura de pele natural e movimento crível. No oitavo segundo, termine com um plano aberto cinematográfico da garota coreana continuando a avançar pelo belo mercado histórico, com detalhes fotorrealistas, iluminação natural, física realista, movimento de câmera suave e sem distorções.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102259707142717440/img/Gu_7x3AVHHbndsXs.jpg" width="600" alt="Prompt de Vídeo Cinematográfico para Mercado Coreano">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=11106)**
+
+**Autor:** [Maha](https://x.com/Aiwithmaha) | **Fonte:** [Link](https://x.com/Aiwithmaha/status/2102260032348078455) | **Publicado:** Sep 22, 2026
+
+---
+### Prompt de Vídeo: Vida Rústica Vintage
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt para uma montagem cinematográfica de 25 segundos de uma garota coreana em um cenário rural vintage, apresentando atividades como andar de bicicleta, ler e cortar melancia.
+
+#### 📝 Prompt
+
+```
+Uma linda garota coreana em um cenário rural vintage dos sonhos.
+Ela veste um delicado vestido branco com detalhes de fita preta e uma tiara de renda.
+Ela pedala uma bicicleta clássica por um campo tranquilo de flores silvestres sob a luz quente do sol.
+Mais tarde, ela relaxa na grama debaixo de uma árvore, lendo um livro silenciosamente.
+Ela atravessa uma pequena ponte de madeira segurando um livro acima da cabeça.
+A cena muda para uma casa vintage acolhedora, onde ela corta cuidadosamente uma melancia fresca.
+Uma televisão antiga nostálgica e um interior rústico criam uma atmosfera retrô calorosa.
+Ela passa um momento tranquilo ao lado de um aquário colorido cheio de peixes nadando.
+O vídeo possui iluminação cinematográfica suave, movimento de câmera gentil e um clima nostálgico e onírico.
+Crie uma bela montagem cinematográfica de 25 segundos com detalhes realistas, movimento natural e uma estética vintage calorosa.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101910912076857345/img/fap_eQMR3XFC27P1.jpg" width="600" alt="Prompt de Vídeo: Vida Rústica Vintage">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=11108)**
+
+**Autor:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Fonte:** [Link](https://x.com/ayzalnooor24521/status/2101911177962090931) | **Publicado:** Sep 21, 2026
+
+---
 ### Cena Cinematográfica de Performance de Moda
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -5323,100 +5402,6 @@ Use a imagem de referência para a personagem. Uma idol feminina está em uma sa
 **Autor:** [妖精アーヤ](https://x.com/aiehon_aya) | **Fonte:** [Link](https://x.com/aiehon_aya/status/2097082482306720232) | **Publicado:** Sep 7, 2026
 
 ---
-### Documentário: Queda de Gelo na Cratera de Vulcão
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Um prompt cinematográfico detalhado de várias etapas para o Seedance 2.0, apresentando uma mulher jogando um bloco de gelo gigante em uma piscina de lava vulcânica a partir de um helicóptero.
-
-#### 📝 Prompt
-
-```
-[Estilo] Live-action realista, vídeo curto de documentário de aventura extrema em tela vertical, textura de lente grande-angular de celular com câmera na mão. Personagens reais, interior de cabine real, refração e rachaduras internas de cubos de gelo transparentes, rocha vulcânica preta e lava laranja-avermelhada. Preserva leve tremor de mão, vibração de voo, desfoque de movimento natural e mudanças de exposição. O interior é escuro, o céu exterior é brilhante e a lava projeta reflexos laranja-avermelhados no braço da personagem, no bloco de gelo e na soleira da porta. A erupção final usa efeitos especiais cinematográficos realistas, coluna de gás branco com camadas volumétricas e detalhes em movimento. [Duração] 15 segundos, 9:16 vertical, plano contínuo único. Ação em tempo real, sem cortes, sem câmera lenta, sem outros ângulos de câmera. [Cena] Um helicóptero paira sobre uma área de lava vulcânica, com a porta lateral totalmente aberta. A câmera está dentro olhando para fora. Moldura da porta escura visível à esquerda e no topo, piso antiderrapante abaixo. Abaixo, uma grande área de lava solidificada cinza-escura com rachaduras sinuosas brilhantes em laranja-avermelhado cercando uma piscina de lava quase circular onde o material fundido rola e borbulha. A piscina é o ponto de queda para o gelo e a erupção subsequente. [Personagem] Uma mulher adulta do Leste Asiático, rabo de cavalo castanho, vestindo uma jaqueta funcional e calças de trabalho, fone de ouvido de aviação. Cabelo balançado pelo vento forte. Inicialmente sorrindo para a câmera, depois foca no exterior; termina recuando da erupção. A personagem permanece dentro da cabine, apenas os braços e o gelo se estendem para fora. [Objeto Principal] Um único bloco de gelo retangular gigante e transparente, do peito ao joelho, largura de um tronco. Pesado, com superfície molhada e bolhas/rachaduras internas. A mulher o segura com ambos os braços, demonstrando o peso. Inclina-se para baixo após a liberação como um bloco inteiro. [Câmera] Começa como um plano médio quase na mão da mulher e do gelo. Após a liberação, a câmera inclina para baixo e acompanha a queda, permanecendo na soleira da porta. Mantém uma visão aérea da piscina de lava, depois retrai rapidamente à medida que a coluna de gás se aproxima. [Linhas do tempo] 00:00-01:30: Segurando o gelo e sorrindo. 01:30-02:30: Virando-se para o ponto de queda e abaixando o centro de gravidade para empurrar o gelo para fora. 02:30-03:10: Liberando o gelo sobre o limite da porta. 03:10-04:60: Acompanhamento aéreo do gelo em queda. 04:60-08:20: Esperando sobre a piscina de lava borbulhante. 08:20-11:50: Pequena nuvem de vapor branco aparecendo e ganhando força. 11:50-12:40: Expansão repentina da coluna de gás branco disparando para cima. 12:40-13:60: Coluna de gás se aproximando da lente, câmera recuando em pânico.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096984251615047680/img/AOaEmhICg-dW96A8.jpg" width="600" alt="Documentário: Queda de Gelo na Cratera de Vulcão">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=10702)**
-
-**Autor:** [探路AI](https://x.com/TanLuAI) | **Fonte:** [Link](https://x.com/TanLuAI/status/2096984350055436729) | **Publicado:** Sep 7, 2026
-
----
-### Cena de Beco na Golden Hour
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo realista de fatia da vida (slice-of-life) apresentando uma jovem interagindo com um gato em um beco residencial tranquilo.
-
-#### 📝 Prompt
-
-```
-Crie um vídeo cinematográfico realista de 15 segundos no estilo fatia da vida (slice-of-life), em 16:9, 24fps. Vídeo apenas visual, sem diálogos, sem voz, sem música, sem efeitos sonoros, sem legendas, sem texto na tela. Luz solar quente da golden hour, câmera suave na mão, gradação de cor de filme suave, leve granulação, sombras naturais, clima de bairro nostálgico e pacífico. Estilo live-action totalmente realista, não parecido com jogo, não animado.
-
-Personagem principal: uma jovem coreana na casa dos 20 anos, com cabelo castanho escuro bagunçado preso em um rabo de cavalo solto, rosto natural e suave, expressão calma e gentil, regata cinza escura curta sem mangas, jeans azul claro folgado, colar preto, tênis casuais. Mantenha a aparência consistente em todas as cenas.
-
-Localização: um beco residencial longo e estreito da vida real entre paredes altas de pedra bege e concreto. Chão arenoso e empoeirado, luz solar quente brilhando em um lado, sombras suaves de árvores atravessando o caminho, palmeiras e folhas verdes visíveis acima dos muros, uma parede pintada de azul ao fundo, uma bicicleta encostada perto do final do beco, sensação de bairro tranquilo e vazio.
-
-0:00–0:02:
-Tomada de acompanhamento por trás. A mulher coreana caminha lentamente pelo longo e estreito beco, vista por trás. A luz solar dourada se estende pelas paredes bege. A câmera segue com movimento natural de mão.
-
-0:02–0:04:
-Tomada ampla do beco. Um pequeno gato malhado cinza-acastanhado aparece de uma fresta baixa perto da parede esquerda e entra no beco. A mulher percebe, diminui o passo e vira-se levemente em direção a ele.
-
-0:04–0:06:
-Tomada média lateral. O gato caminha perto dos pés dela e olha para cima. Ela sorri suavemente, abaixa-se lentamente e estende uma mão de forma gentil e cuidadosa.
-
-0:06–0:08:
-Close-up baixo. O gato cheira os dedos dela e depois esfrega a cabeça contra a mão dela. Ela acaricia suavemente a cabeça e as costas do gato. Mostre a textura realista do pelo, o movimento dos bigodes e o comportamento natural do gato.
-
-0:08–0:10:
-Close-up emocional. A mulher sorri calorosamente enquanto acaricia o gato. A luz do sol tremeluz através das folhas das árvores sobre seu rosto, ombros e cabelo. Mantenha o momento suave, calmo e humano.
-
-0:10–0:12:
-Tomada média-ampla. O gato caminha alguns passos à frente e depois olha para trás, para ela. Ela se levanta lentamente e o segue com um sorriso curioso e pacífico.
-
-0:12–0:14:
-Tomada de acompanhamento frontal. Ela caminha em direção à câmera com o gato ao seu lado, perto da parede. Ela olha para o gato e sorri. O longo beco, as paredes bege, a parede azul ao fundo, as árvores e a bicicleta permanecem visíveis.
-
-0:14–0:15:
-Tomada final em close. O gato roça na perna dela. Ela olha para a câmera com um sorriso suave e pacífico, depois olha para o gato novamente. Mantenha a atmosfera quente e dourada do beco para um final cinematográfico gentil.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096961809056256001/img/cuWLy0n8_recdL0e.jpg" width="600" alt="Cena de Beco na Golden Hour">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=10506)**
-
-**Autor:** [Abhishek](https://x.com/HeyAbhishek) | **Fonte:** [Link](https://x.com/HeyAbhishek/status/2096961839154545127) | **Publicado:** Sep 7, 2026
-
----
-### Prompt para Vlog de Selfie Contínuo e Sem Cortes
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Layout de roteiro multifase que direciona uma cena de vlog gravada com câmera na mão, contínua e sem cortes, em um ambiente de parque, com marcadores específicos de áudio e sincronia labial.
-
-#### 📝 Prompt
-
-```
-Uma tomada única e contínua (sem cortes) a partir da perspectiva da câmera de um smartphone. Qualidade de câmera digital, estética de vlog casual, foco levemente suave, não muito nítido, com o balanço natural de uma câmera na mão. SEM MÚSICA DE FUNDO.
-
-Fase 1: A Caminhada Selfie (0:00 - 0:08)
-O vídeo começa em um ângulo de selfie em close-up. Uma jovem com cabelos castanhos longos e ondulados, usando um boné estilo newsboy de veludo cotelê marrom e um cardigã verde sobre uma blusa estampada [REF], caminha por um parque verdejante com pessoas relaxando na grama e o horizonte da cidade ao fundo sob um céu de fim de tarde [REF]. Ela segura a câmera com uma mão e um DJI Mic branco perolado com protetor de vento felpudo branco [REF] próximo à boca com a outra. Ela fala diretamente para a lente com uma expressão casual, com os lábios sincronizados com: "Eu costumava passar HORAS todos os dias editando apenas um vídeo… só para acabar exausta."
-
-Fase 2: O Apoio da Câmera (0:08 - 0:15)
-Em um movimento contínuo, sem cortes, a perspectiva da câmera inclina-se para baixo enquanto ela [REF] abaixa o braço e coloca o celular na grama, apoiando-o na base de uma árvore. Ela então caminha para trás, afastando-se da câmera, revelando um plano aberto de corpo inteiro de sua saia plissada verde e polainas/botas marrons [REF]. Ela fica no meio do parque, olha brevemente ao redor para a paisagem e, em seguida, traz o DJI Mic branco [REF] de volta à boca com energia renovada. Ela fala, com os lábios sincronizados com: "Até que eu encontrei o VEED. Finalmente, tudo o que preciso é de apenas um clique e está PRONTO!"
-
-Fase 3: O Encerramento (0:15 - 0:20)
-Ainda na mesma tomada contínua, ela [REF] sorri abertamente e corre em direção à lente da câmera. Ela se abaixa e pega o celular de volta, transicionando fluidamente o ângulo de volta para o modo selfie em close-up. Segurando o DJI Mic branco [REF] na outra mão, ela olha para a lente e fala, com os lábios sincronizados com: "Vocês deveriam experimentar, pessoal! Tchau!" Ela acena alegremente para a câmera enquanto o vídeo termina.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096960013814370305/img/pDZ_83GUkdbgg0wV.jpg" width="600" alt="Prompt para Vlog de Selfie Contínuo e Sem Cortes">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=10503)**
-
-**Autor:** [I’m Bobo | Commission OPEN](https://x.com/imtheboboo) | **Fonte:** [Link](https://x.com/imtheboboo/status/2096961730282918046) | **Publicado:** Sep 7, 2026
-
----
 ---
 
 ## 📚 Mais prompts disponíveis
@@ -5478,6 +5463,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-09-22T03:47:26.510Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-09-23T03:49:44.149Z</sub>
 
 </div>

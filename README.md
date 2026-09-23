@@ -68,9 +68,9 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **6408** |
+| 📝 Total Prompts | **6411** |
 | ⭐ Featured Prompts | **6** |
-| 🔄 Last Updated | **2026-09-22** |
+| 🔄 Last Updated | **2026-09-23** |
 
 ---
 
@@ -365,11 +365,90 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 
 > 📝 Sorted by publish date (newest first)
 
-### Cinematic Fashion Performance Scene
+### Rainy Porch Cinematic Sequence Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-quality prompt for generating an ultra-realistic cinematic fashion performance video featuring a confident woman and dancers in a night setting.
+> A highly detailed prompt for a cinematic video sequence of a woman under a porch during heavy rain, including specific actions like adjusting cap, inserting earphones, and eating an apple.
+
+#### 📝 Prompt
+
+```
+A cinematic close-to-medium shot of a young East Asian woman standing under a weathered wooden porch during heavy rain. She wears a wet black baseball cap, a slightly translucent wet white oversized t-shirt, and a beige tote bag strap over her shoulder. Her dark hair is tied in a messy bun with wet strands sticking to her face and neck. White wired earphones are in her ears.
+
+Rain pours steadily from a rusty metal downpipe, dripping off the corrugated roof. Lush green forest and misty mountains fade into the background. Soft natural lighting, cool teal-green color grade, shallow depth of field, filmic grain, melancholic and quiet atmosphere.
+
+Sequence:
+- She looks down, then slowly raises her hand to adjust her wet cap.
+- She takes out white earphones and inserts them one by one.
+- She leans against the wooden post and gazes out at the rain.
+- She extends her palm into the falling rain, watching droplets hit her hand.
+- Close-up: she wipes a shiny red apple with a white cloth.
+- She takes a large bite of the apple, juice dripping from her lips and chin.
+- She chews slowly, looking sideways with a calm, slightly distant expression while rain continues to fall.
+
+Ultra-realistic, 35mm film look, natural skin texture with rain droplets on face and cap, wet fabric details, no makeup, quiet rainy-day mood.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102269103058960384/img/8INOQXR20vXAFwWT.jpg" width="600" alt="Rainy Porch Cinematic Sequence Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11107)**
+
+**Author:** [Elisia](https://x.com/AiwithElisia) | **Source:** [Link](https://x.com/AiwithElisia/status/2102269278489903244) | **Published:** Sep 22, 2026
+
+---
+### Korean Marketplace Cinematic Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for creating a cinematic video of a Korean girl walking and running through a traditional marketplace, focusing on character consistency and natural motion.
+
+#### 📝 Prompt
+
+```
+Created a beautiful Korean girl walking confidently through a traditional Korean marketplace, wearing an elegant historical outfit, with long black hair flowing naturally and a detailed ancient Korean street surrounding her. At one second, the camera gently moves closer as she walks through the busy crowd, keeping her face clear, realistic, and consistent. At two seconds, show her passing wooden market stalls, traditional Korean houses, hanging lanterns, and merchants while people move naturally around her. At three seconds, she suddenly begins running through the crowded marketplace, with her hair, clothes, and body movement responding naturally to her speed. At four seconds, use a smooth cinematic tracking shot from the front as she runs between the stalls while the background moves naturally. At five seconds, switch to a dramatic side angle showing her determined expression, realistic footsteps, flowing hair, and detailed traditional clothing. At six seconds, follow her from behind as she runs deeper into the ancient street, with sunlight, dust, lanterns, and moving people creating a cinematic atmosphere. At seven seconds, smoothly move the camera around her while maintaining perfect character consistency, realistic facial features, natural skin texture, and believable motion. At eight seconds, finish with a wide cinematic shot of the Korean girl continuing forward through the beautiful historical marketplace, with photorealistic details, natural lighting, realistic physics, smooth camera movement, and no distortion.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102259707142717440/img/Gu_7x3AVHHbndsXs.jpg" width="600" alt="Korean Marketplace Cinematic Video Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11106)**
+
+**Author:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2102260032348078455) | **Published:** Sep 22, 2026
+
+---
+### Vintage Countryside Life Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for a 25-second cinematic montage of a Korean girl in a vintage countryside setting, featuring activities like cycling, reading, and cutting watermelon.
+
+#### 📝 Prompt
+
+```
+A beautiful Korean girl in a dreamy vintage countryside setting.
+She wears a delicate white dress with black ribbon details and a lace headband.
+She rides a classic bicycle through a peaceful wildflower meadow under warm sunlight.
+She later relaxes on the grass beneath a tree, quietly reading a book.
+She walks across a small wooden bridge while holding a book above her head.
+The scene changes to a cozy vintage home where she carefully cuts a fresh watermelon.
+A nostalgic old television and rustic interior create a warm retro atmosphere.
+She spends a quiet moment beside a colorful aquarium filled with swimming fish.
+The video has soft cinematic lighting, gentle camera movement, and a dreamy nostalgic mood.
+Create a beautiful 25-second cinematic montage with realistic details, natural motion, and a warm vintage aesthetic.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101910912076857345/img/fap_eQMR3XFC27P1.jpg" width="600" alt="Vintage Countryside Life Video Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11108)**
+
+**Author:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Source:** [Link](https://x.com/ayzalnooor24521/status/2101911177962090931) | **Published:** Sep 21, 2026
+
+---
+### Cinematic Fashion Performance Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for an ultra-realistic fashion performance scene featuring a confident woman dancing at night with cars and headlights in the background.
 
 #### 📝 Prompt
 
@@ -377,18 +456,18 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 Ultra-realistic cinematic fashion performance scene, a beautiful young woman with long dark black hair standing confidently in the center, wearing an elegant white strapless corset top, dark high-waisted fitted jeans, layered silver necklaces and hoop earrings. Several stylish female dancers surround her, dressed in black leather outfits, synchronized dance poses. Dramatic night setting with cars and bright headlights behind them, moody industrial atmosphere, warm backlighting, subtle haze, realistic shadows, dynamic composition, powerful confident expression, professional music-video aesthetic, photorealistic skin and fabric details, shallow depth of field, cinematic lighting, high contrast, 8K, HDR, 85mm lens, vertical 9:16 composition.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101890134324965376/img/6EDeEE39ubzVBvhK.jpg" width="600" alt="Cinematic Fashion Performance Scene">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101890134324965376/img/6EDeEE39ubzVBvhK.jpg" width="600" alt="Cinematic Fashion Performance Video Prompt">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11072)**
 
 **Author:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2101890198703354285) | **Published:** Sep 21, 2026
 
 ---
-### Playful Korean Girl at Playground Video Prompt
+### Playful Playground Story Video Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed video generation prompt for Seedance 2.0 creating a cinematic sequence of a young woman in a playground, featuring transitions from sliding to swinging to sleeping in a shopping cart.
+> A prompt for generating a video of a Korean girl in a playground setting, transitioning through various scenes like sliding, swinging, and sleeping in a shopping cart.
 
 #### 📝 Prompt
 
@@ -404,7 +483,7 @@ Use realistic facial expressions, natural body movement, cinematic camera motion
 Keep the Korean girl’s identity and appearance consistent throughout the entire video, with smooth transitions and a playful cinematic storytelling style.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2101889348534956032/img/I07P989JdZB8i-lk.jpg" width="600" alt="Playful Korean Girl at Playground Video Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101889348534956032/img/I07P989JdZB8i-lk.jpg" width="600" alt="Playful Playground Story Video Prompt">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11071)**
 
@@ -415,7 +494,7 @@ Keep the Korean girl’s identity and appearance consistent throughout the entir
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt for creating a 15-second ultra-realistic luxury skincare commercial featuring a product jar in a water-themed environment with cinematic transitions.
+> A detailed prompt for generating a 15-second ultra-realistic luxury skincare commercial featuring a glass jar in a cool blue environment with water effects and cinematic lighting.
 
 #### 📝 Prompt
 
@@ -4947,100 +5026,6 @@ Use the reference image for the character. A female idol is standing in a dance 
 **Author:** [妖精アーヤ](https://x.com/aiehon_aya) | **Source:** [Link](https://x.com/aiehon_aya/status/2097082482306720232) | **Published:** Sep 7, 2026
 
 ---
-### Volcano Crater Ice Drop Documentary
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A detailed multi-stage cinematic prompt for Seedance 2.0 featuring a woman dropping a giant ice block into a volcanic lava pool from a helicopter.
-
-#### 📝 Prompt
-
-```
-[Style] Realistic live-action, vertical screen extreme adventure documentary short video, handheld mobile phone wide-angle lens texture. Real characters, real cabin interior, refraction and internal cracks of transparent ice cubes, black volcanic rock and orange-red lava. Preserves slight handheld shake, flight vibration, natural motion blur, and exposure changes. The interior is dark, the exterior sky is bright, and lava casts orange-red reflections on the character's arm, ice block, and doorstep. Final eruption uses realistic cinematic special effects, white gas column with volumetric layers and rolling details. [Duration] 15 seconds, 9:16 vertical, continuous single shot. Real-time action, no cuts, no slow motion, no other camera angles. [Scene] A helicopter hovers over a volcanic lava area, side door fully open. Camera is inside looking out. Dark door frame visible on left and top, anti-slip flooring below. Below is a large area of dark grey-black solidified lava with winding orange-red glowing cracks surrounding a nearly circular lava pool where molten material rolls and bubbles. The pool is the drop point for the ice and subsequent eruption. [Character] An adult East Asian female, brown ponytail, wearing a functional jacket and work pants, aviation headset. Hair blown by strong wind. Initially smiling at camera, then focuses outside; ends by flinching away from the eruption. Character stays inside the cabin, only arms and ice extend outside. [Core Prop] A single giant transparent rectangular ice block, chest to knee length, trunk width. Heavy with wet surface and internal bubbles/cracks. Female holds it with both arms showing weight. Tilts downward after release as a whole block. [Camera] Starts as near handheld medium shot of female and ice. After release, camera tilts down and tracks the fall, staying at the doorstep. Maintains overhead view of the lava pool, then retracts quickly as the gas column approaches. [Timelines] 00:00-01:30: Holding ice and smiling. 01:30-02:30: Turning to the drop point and lowering center of gravity to push ice out. 02:30-03:10: Releasing ice over the threshold. 03:10-04:60: Aerial tracking of the falling ice. 04:60-08:20: Waiting over the bubbling lava pool. 08:20-11:50: Small white steam團 appearing and gathering force. 11:50-12:40: Sudden expansion of the white gas column shooting upward. 12:40-13:60: Gas column approaching the lens, camera retreating in panic.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096984251615047680/img/AOaEmhICg-dW96A8.jpg" width="600" alt="Volcano Crater Ice Drop Documentary">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10702)**
-
-**Author:** [探路AI](https://x.com/TanLuAI) | **Source:** [Link](https://x.com/TanLuAI/status/2096984350055436729) | **Published:** Sep 7, 2026
-
----
-### Golden Hour Alley Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A realistic slice-of-life video prompt featuring a young woman interacting with a cat in a quiet residential alley.
-
-#### 📝 Prompt
-
-```
-Create a 15-second realistic cinematic slice-of-life video in 16:9, 24fps. Visual-only video, no dialogue, no voice, no music, no sound effects, no subtitles, no text on screen. Warm golden-hour sunlight, soft handheld camera, muted film color grade, slight grain, natural shadows, peaceful nostalgic neighborhood mood. Fully realistic live-action style, not game-like, not animated.
-
-Main character: a young Korean woman in her early 20s with messy dark brown hair tied in a loose ponytail, soft natural face, calm gentle expression, dark gray cropped sleeveless tank top, loose light-wash blue jeans, black necklace, casual sneakers. Keep her look consistent in every shot.
-
-Location: a long narrow real-life residential alley between tall tan stone and concrete walls. Sandy dusty ground, warm sunlight glowing on one side, soft tree shadows across the path, palm trees and green leaves visible above the walls, a blue painted wall far ahead, one bicycle leaning near the end of the alley, quiet empty neighborhood feeling.
-
-0:00–0:02:
-Rear tracking shot. The Korean woman walks slowly through the long narrow alley from behind. Golden sunlight stretches across the tan walls. Camera follows with natural handheld motion.
-
-0:02–0:04:
-Wide alley shot. A small gray-brown tabby cat appears from a low gap near the left side wall and steps into the alley. The woman notices it, slows down, and turns slightly toward it.
-
-0:04–0:06:
-Medium side shot. The cat walks near her feet and looks up. She smiles softly, bends down slowly, and extends one hand in a gentle careful way.
-
-0:06–0:08:
-Low close-up. The cat sniffs her fingers, then rubs its head against her hand. She gently pets the cat’s head and back. Show realistic fur texture, tiny whisker movement, and natural cat behavior.
-
-0:08–0:10:
-Emotional close-up. The woman smiles warmly while petting the cat. Sunlight flickers through tree leaves across her face, shoulders, and hair. Keep the moment soft, calm, and human.
-
-0:10–0:12:
-Medium-wide shot. The cat walks ahead a few steps, then looks back at her. She stands slowly and follows it with a curious peaceful smile.
-
-0:12–0:14:
-Front tracking shot. She walks toward camera with the cat beside her near the wall. She looks down at the cat and smiles. The long alley, tan walls, blue wall far behind, trees, and bicycle remain visible.
-
-0:14–0:15:
-Final close shot. The cat brushes against her leg. She looks toward the camera with a soft peaceful smile, then looks down at the cat again. Hold the warm golden alley atmosphere for a gentle cinematic ending.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096961809056256001/img/cuWLy0n8_recdL0e.jpg" width="600" alt="Golden Hour Alley Scene">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10506)**
-
-**Author:** [Abhishek](https://x.com/HeyAbhishek) | **Source:** [Link](https://x.com/HeyAbhishek/status/2096961839154545127) | **Published:** Sep 7, 2026
-
----
-### Continuous Unbroken Selfie Vlog Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Multi-phase script layout directing an unbroken, continuous handheld vlog scene in a park environment with specific audio/lip-sync markers.
-
-#### 📝 Prompt
-
-```
-A single, unbroken continuous take (no cuts) from the perspective of a smartphone camera. Digital camera quality, casual vlog aesthetic, slightly soft focus, not too sharp, with natural handheld camera shake. NO BACKGROUND MUSIC.
-
-Phase 1: The Selfie Walk (0:00 - 0:08)
-The video begins in a close-up selfie angle. A young woman with long wavy brown hair, wearing a brown corduroy newsboy cap, a green cardigan over a white graphic top [REF] is walking through a lush green park with people relaxing on the grass and a city skyline in the background under an evening sky [REF] . She holds the camera with one hand and holds a pearl white DJI Mic with a fluffy white windscreen [REF] close to her mouth with the other. She speaks directly to the lens with a casual expression, her lips syncing to: "I used to spend HOURS every day editing just one video… only to end up burnt out."
-
-Phase 2: The Set Down (0:08 - 0:15)
-In one continuous motion without cutting, the camera perspective tilts down as she [REF] lowers her arm and places the phone down on the grass, propping it against a tree base. She then walks backward away from the camera, revealing a full-body wide shot of her green pleated skirt and brown leg warmers/boots [REF] . She stands in the middle of the park, briefly glances around at the scenery, then brings the white DJI mic [REF] back up to her mouth with renewed energy. She speaks, her lips syncing to: "Until I found VEED. Finally, all I need is just one click and it's DONE!"
-
-Phase 3: The Wrap Up (0:15 - 0:20)
-Still in the same unbroken shot, she [REF] smiles brightly and jogs forward back towards the camera lens. She leans down and picks the phone back up, fluidly transitioning the angle back to a close-up selfie mode. Holding the white DJI mic [REF] in her other hand, she looks into the lens and speaks, lips syncing to: "You should give it a try, guys! Bye!" She gives a cheerful wave to the camera as the video ends.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096960013814370305/img/pDZ_83GUkdbgg0wV.jpg" width="600" alt="Continuous Unbroken Selfie Vlog Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10503)**
-
-**Author:** [I’m Bobo | Commission OPEN](https://x.com/imtheboboo) | **Source:** [Link](https://x.com/imtheboboo/status/2096961730282918046) | **Published:** Sep 7, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -5102,6 +5087,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-22T03:47:12.694Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-23T03:49:29.041Z</sub>
 
 </div>

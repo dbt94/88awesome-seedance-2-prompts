@@ -68,9 +68,9 @@ Una colección curada de prompts de generación de video de alta calidad para Se
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **6408** |
+| 📝 Total de prompts | **6411** |
 | ⭐ Prompts destacados | **6** |
-| 🔄 Última actualización | **2026-09-22** |
+| 🔄 Última actualización | **2026-09-23** |
 
 ---
 
@@ -361,6 +361,85 @@ Ultra realista, energía inspirada en Fast and Furious, iluminación fotorrealis
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Prompt de Secuencia Cinematográfica: Porche Lluvioso
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt altamente detallado para una secuencia de video cinematográfica que muestra a una mujer bajo un porche durante una lluvia intensa, incluyendo acciones específicas como ajustarse la gorra, insertarse los auriculares y comer una manzana.
+
+#### 📝 Prompt
+
+```
+Plano cercano a medio de estilo cinematográfico de una joven mujer del este de Asia de pie bajo un porche de madera desgastada durante una lluvia torrencial. Lleva una gorra de béisbol negra mojada, una camiseta blanca holgada ligeramente translúcida por el agua y la correa de una bolsa tote beige sobre el hombro. Su cabello oscuro está recogido en un moño desordenado, con mechones húmedos pegados a su rostro y cuello. Tiene auriculares blancos con cable puestos.
+
+La lluvia cae constantemente desde un bajante de metal oxidado, goteando desde el techo de chapa ondulada. Un bosque verde exuberante y montañas brumosas se desvanecen en el fondo. Iluminación natural suave, gradación de color teal-verde frío, poca profundidad de campo, grano fílmico, atmósfera melancólica y tranquila.
+
+Secuencia:
+- Ella mira hacia abajo, luego levanta lentamente la mano para ajustar su gorra mojada.
+- Saca unos auriculares blancos y se los coloca uno por uno.
+- Se apoya contra el poste de madera y observa la lluvia caer.
+- Extiende la palma de su mano hacia la lluvia, observando cómo las gotas golpean su piel.
+- Primer plano: limpia una manzana roja brillante con un paño blanco.
+- Da un gran mordisco a la manzana, con jugo escurriendo de sus labios y barbilla.
+- Mastiga lentamente, mirando hacia un lado con una expresión calmada y ligeramente distante mientras la lluvia continúa cayendo.
+
+Ultra-realista, aspecto de película de 35mm, textura de piel natural con gotas de lluvia en el rostro y la gorra, detalles de tela mojada, sin maquillaje, ambiente tranquilo de día lluvioso.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102269103058960384/img/8INOQXR20vXAFwWT.jpg" width="600" alt="Prompt de Secuencia Cinematográfica: Porche Lluvioso">
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=11107)**
+
+**Autor:** [Elisia](https://x.com/AiwithElisia) | **Fuente:** [Link](https://x.com/AiwithElisia/status/2102269278489903244) | **Publicado:** Sep 22, 2026
+
+---
+### Prompt de Video Cinematográfico para Mercado Coreano
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt detallado para crear un video cinematográfico de una chica coreana caminando y corriendo por un mercado tradicional, enfocado en la consistencia del personaje y el movimiento natural.
+
+#### 📝 Prompt
+
+```
+Creé una hermosa chica coreana caminando con confianza por un mercado tradicional coreano, vistiendo un elegante atuendo histórico, con su largo cabello negro ondeando naturalmente y rodeada de una calle antigua coreana detallada. En el primer segundo, la cámara se acerca suavemente mientras ella atraviesa la multitud ocupada, manteniendo su rostro claro, realista y consistente. En el segundo segundo, muéstrala pasando por puestos de madera, casas tradicionales coreanas, farolillos colgantes y comerciantes, mientras las personas se mueven naturalmente a su alrededor. En el tercer segundo, comienza repentinamente a correr por el mercado abarrotado, con su cabello, ropa y movimientos corporales respondiendo naturalmente a su velocidad. En el cuarto segundo, utiliza un plano de seguimiento cinematográfico suave desde el frente mientras corre entre los puestos, con el fondo moviéndose naturalmente. En el quinto segundo, cambia a un ángulo lateral dramático que muestre su expresión decidida, pasos realistas, cabello ondeante y ropa tradicional detallada. En el sexto segundo, síguela desde atrás mientras corre más adentro de la calle antigua, con la luz del sol, el polvo, los farolillos y las personas en movimiento creando una atmósfera cinematográfica. En el séptimo segundo, mueve suavemente la cámara alrededor de ella manteniendo una perfecta consistencia del personaje, rasgos faciales realistas, textura de piel natural y movimiento creíble. En el octavo segundo, termina con un plano cinematográfico amplio de la chica coreana continuando hacia adelante a través del hermoso mercado histórico, con detalles fotorrealistas, iluminación natural, física realista, movimiento de cámara fluido y sin distorsiones.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102259707142717440/img/Gu_7x3AVHHbndsXs.jpg" width="600" alt="Prompt de Video Cinematográfico para Mercado Coreano">
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=11106)**
+
+**Autor:** [Maha](https://x.com/Aiwithmaha) | **Fuente:** [Link](https://x.com/Aiwithmaha/status/2102260032348078455) | **Publicado:** Sep 22, 2026
+
+---
+### Prompt de Video: Vida Rural Vintage
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt para un montaje cinematográfico de 25 segundos que muestra a una chica coreana en un entorno rural vintage, con actividades como andar en bicicleta, leer y cortar sandía.
+
+#### 📝 Prompt
+
+```
+Una hermosa chica coreana en un soñador entorno rural vintage.
+Lleva un delicado vestido blanco con detalles de cinta negra y una diadema de encaje.
+Monta una bicicleta clásica por un prado tranquilo lleno de flores silvestres bajo la cálida luz del sol.
+Luego se relaja sobre el césped bajo un árbol, leyendo un libro en silencio.
+Cruza un pequeño puente de madera sosteniendo un libro sobre su cabeza.
+La escena cambia a una acogedora casa vintage donde corta cuidadosamente una sandía fresca.
+Un televisor antiguo nostálgico y un interior rústico crean una atmósfera retro cálida.
+Pasa un momento tranquilo junto a un acuario colorido lleno de peces nadando.
+El video tiene iluminación cinematográfica suave, movimientos de cámara delicados y un estado de ánimo nostálgico y onírico.
+Crea un hermoso montaje cinematográfico de 25 segundos con detalles realistas, movimiento natural y una estética vintage cálida.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2101910912076857345/img/fap_eQMR3XFC27P1.jpg" width="600" alt="Prompt de Video: Vida Rural Vintage">
+
+**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=11108)**
+
+**Autor:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Fuente:** [Link](https://x.com/ayzalnooor24521/status/2101911177962090931) | **Publicado:** Sep 21, 2026
+
+---
 ### Escena de actuación de moda cinematográfica
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -5353,100 +5432,6 @@ Utiliza la imagen de referencia para el personaje. Una idol femenina está de pi
 **Autor:** [妖精アーヤ](https://x.com/aiehon_aya) | **Fuente:** [Link](https://x.com/aiehon_aya/status/2097082482306720232) | **Publicado:** Sep 7, 2026
 
 ---
-### Documental: Lanzamiento de hielo en el cráter de un volcán
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt cinematográfico detallado de varias etapas para Seedance 2.0 que presenta a una mujer lanzando un bloque de hielo gigante a un pozo de lava volcánica desde un helicóptero.
-
-#### 📝 Prompt
-
-```
-[Estilo] Documental de aventura extrema en formato vertical, acción real, textura de lente gran angular de teléfono móvil con cámara en mano. Personajes reales, interior de cabina real, refracción y grietas internas de cubos de hielo transparentes, roca volcánica negra y lava de color naranja rojizo. Conserva un ligero temblor de cámara en mano, vibración de vuelo, desenfoque de movimiento natural y cambios de exposición. El interior es oscuro, el cielo exterior es brillante y la lava proyecta reflejos naranja rojizos sobre el brazo del personaje, el bloque de hielo y el umbral de la puerta. La erupción final utiliza efectos especiales cinematográficos realistas, una columna de gas blanco con capas volumétricas y detalles envolventes. [Duración] 15 segundos, 9:16 vertical, toma continua única. Acción en tiempo real, sin cortes, sin cámara lenta, sin otros ángulos de cámara. [Escena] Un helicóptero sobrevuela una zona de lava volcánica con la puerta lateral completamente abierta. La cámara está en el interior mirando hacia afuera. Se ve el marco oscuro de la puerta a la izquierda y arriba, y el suelo antideslizante debajo. Abajo hay una gran área de lava solidificada de color gris oscuro negruzco con grietas sinuosas de color naranja rojizo brillante que rodean un pozo de lava casi circular donde el material fundido hierve y burbujea. El pozo es el punto de caída del hielo y la posterior erupción. [Personaje] Una mujer adulta de Asia Oriental, coleta castaña, viste una chaqueta funcional y pantalones de trabajo, auriculares de aviación. El cabello es agitado por el viento fuerte. Inicialmente sonríe a la cámara, luego se concentra en el exterior; termina apartándose ante la erupción. El personaje permanece dentro de la cabina, solo los brazos y el hielo se extienden hacia afuera. [Accesorio principal] Un único bloque de hielo rectangular transparente gigante, de la altura del pecho a las rodillas, con el ancho de un tronco. Pesado, con superficie húmeda y burbujas/grietas internas. La mujer lo sostiene con ambos brazos mostrando el peso. Se inclina hacia abajo después de soltarlo como un bloque completo. [Cámara] Comienza como un plano medio cercano de cámara en mano de la mujer y el hielo. Después de soltarlo, la cámara se inclina hacia abajo y sigue la caída, permaneciendo en el umbral de la puerta. Mantiene una vista cenital del pozo de lava, luego se retrae rápidamente a medida que se acerca la columna de gas. [Línea de tiempo] 00:00-01:30: Sosteniendo el hielo y sonriendo. 01:30-02:30: Girando hacia el punto de caída y bajando el centro de gravedad para empujar el hielo hacia afuera. 02:30-03:10: Soltando el hielo sobre el umbral. 03:10-04:60: Seguimiento aéreo del hielo que cae. 04:60-08:20: Esperando sobre el pozo de lava burbujeante. 08:20-11:50: Aparece una pequeña nube de vapor blanco que gana fuerza. 11:50-12:40: Expansión repentina de la columna de gas blanco disparándose hacia arriba. 12:40-13:60: La columna de gas se acerca al lente, la cámara retrocede con pánico.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096984251615047680/img/AOaEmhICg-dW96A8.jpg" width="600" alt="Documental: Lanzamiento de hielo en el cráter de un volcán">
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=10702)**
-
-**Autor:** [探路AI](https://x.com/TanLuAI) | **Fuente:** [Link](https://x.com/TanLuAI/status/2096984350055436729) | **Publicado:** Sep 7, 2026
-
----
-### Escena de callejón en la hora dorada
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video realista de la vida cotidiana que muestra a una joven interactuando con un gato en un tranquilo callejón residencial.
-
-#### 📝 Prompt
-
-```
-Crea un video cinematográfico realista de 15 segundos sobre la vida cotidiana en formato 16:9, a 24 fps. Video solo visual, sin diálogos, sin voz, sin música, sin efectos de sonido, sin subtítulos, sin texto en pantalla. Luz solar cálida de la hora dorada, cámara en mano suave, gradación de color de película tenue, ligero grano, sombras naturales, ambiente de barrio nostálgico y pacífico. Estilo de acción real totalmente realista, no tipo juego, no animado.
-
-Personaje principal: una joven coreana de unos 20 años con cabello castaño oscuro desordenado recogido en una coleta suelta, rostro natural y suave, expresión tranquila y amable, camiseta sin mangas gris oscuro, jeans azules claros holgados, collar negro, zapatillas casuales. Mantén su apariencia consistente en cada toma.
-
-Ubicación: un callejón residencial largo y estrecho de la vida real entre altos muros de piedra color canela y hormigón. Suelo arenoso y polvoriento, luz solar cálida brillando en un lado, sombras suaves de árboles a través del camino, palmeras y hojas verdes visibles sobre los muros, una pared pintada de azul al fondo, una bicicleta apoyada cerca del final del callejón, sensación de barrio tranquilo y vacío.
-
-0:00–0:02:
-Toma de seguimiento trasera. La mujer coreana camina lentamente a través del largo y estrecho callejón desde atrás. La luz solar dorada se extiende por los muros color canela. La cámara sigue con un movimiento natural de cámara en mano.
-
-0:02–0:04:
-Toma amplia del callejón. Un pequeño gato atigrado gris parduzco aparece desde un hueco bajo cerca de la pared izquierda y entra al callejón. La mujer lo nota, reduce la velocidad y se gira ligeramente hacia él.
-
-0:04–0:06:
-Toma lateral media. El gato camina cerca de sus pies y mira hacia arriba. Ella sonríe suavemente, se agacha lentamente y extiende una mano de manera gentil y cuidadosa.
-
-0:06–0:08:
-Primer plano bajo. El gato olfatea sus dedos, luego frota su cabeza contra su mano. Ella acaricia suavemente la cabeza y el lomo del gato. Muestra una textura de pelaje realista, el movimiento de los pequeños bigotes y el comportamiento natural del gato.
-
-0:08–0:10:
-Primer plano emocional. La mujer sonríe cálidamente mientras acaricia al gato. La luz del sol parpadea a través de las hojas de los árboles sobre su rostro, hombros y cabello. Mantén el momento suave, tranquilo y humano.
-
-0:10–0:12:
-Toma media amplia. El gato camina unos pasos hacia adelante y luego mira hacia atrás. Ella se levanta lentamente y lo sigue con una sonrisa curiosa y pacífica.
-
-0:12–0:14:
-Toma de seguimiento frontal. Ella camina hacia la cámara con el gato a su lado cerca de la pared. Mira hacia abajo al gato y sonríe. El largo callejón, los muros color canela, la pared azul al fondo, los árboles y la bicicleta permanecen visibles.
-
-0:14–0:15:
-Toma final de cerca. El gato se roza contra su pierna. Ella mira hacia la cámara con una sonrisa suave y pacífica, luego vuelve a mirar al gato. Mantén la atmósfera cálida y dorada del callejón para un final cinematográfico suave.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096961809056256001/img/cuWLy0n8_recdL0e.jpg" width="600" alt="Escena de callejón en la hora dorada">
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=10506)**
-
-**Autor:** [Abhishek](https://x.com/HeyAbhishek) | **Fuente:** [Link](https://x.com/HeyAbhishek/status/2096961839154545127) | **Publicado:** Sep 7, 2026
-
----
-### Prompt para vlog tipo selfie continuo sin cortes
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Diseño de guion multifase que dirige una escena de vlog grabada a mano, continua y sin cortes en un entorno de parque, con marcadores específicos de audio y sincronización labial.
-
-#### 📝 Prompt
-
-```
-Una sola toma continua e ininterrumpida (sin cortes) desde la perspectiva de la cámara de un smartphone. Calidad de cámara digital, estética de vlog casual, enfoque ligeramente suave, no demasiado nítido, con el movimiento natural de una cámara sostenida a mano. SIN MÚSICA DE FONDO.
-
-Fase 1: El paseo selfie (0:00 - 0:08)
-El video comienza en un ángulo selfie en primer plano. Una mujer joven con cabello castaño largo y ondulado, que lleva una gorra de estilo newsboy de pana marrón, un cárdigan verde sobre una camiseta con estampado gráfico [REF], camina a través de un parque verde y frondoso con personas relajándose en el césped y el horizonte de la ciudad al fondo bajo un cielo al atardecer [REF]. Sostiene la cámara con una mano y un micrófono DJI Mic blanco perla con un protector antiviento blanco esponjoso [REF] cerca de su boca con la otra. Habla directamente a la lente con una expresión casual, sus labios sincronizados con: "Solía pasar HORAS cada día editando un solo video... solo para terminar agotada".
-
-Fase 2: Dejar la cámara (0:08 - 0:15)
-En un movimiento continuo sin cortes, la perspectiva de la cámara se inclina hacia abajo mientras ella [REF] baja el brazo y coloca el teléfono sobre el césped, apoyándolo contra la base de un árbol. Luego camina hacia atrás alejándose de la cámara, revelando un plano general de cuerpo completo de su falda plisada verde y sus calentadores/botas marrones [REF]. Se detiene en medio del parque, mira brevemente el paisaje y luego acerca el micrófono DJI blanco [REF] a su boca con energía renovada. Habla, sus labios sincronizados con: "¡Hasta que encontré VEED. Finalmente, todo lo que necesito es un solo clic y está LISTO!".
-
-Fase 3: El cierre (0:15 - 0:20)
-Aún en la misma toma ininterrumpida, ella [REF] sonríe alegremente y trota hacia adelante de vuelta hacia la lente de la cámara. Se inclina y recoge el teléfono, haciendo una transición fluida del ángulo de vuelta al modo selfie en primer plano. Sosteniendo el micrófono DJI blanco [REF] en su otra mano, mira a la lente y habla, con los labios sincronizados con: "¡Deberían probarlo, chicos! ¡Adiós!". Ella saluda alegremente a la cámara mientras el video termina.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096960013814370305/img/pDZ_83GUkdbgg0wV.jpg" width="600" alt="Prompt para vlog tipo selfie continuo sin cortes">
-
-**[🎬 Ver video →](https://youmind.com/es-ES/seedance-2-0-prompts?id=10503)**
-
-**Autor:** [I’m Bobo | Commission OPEN](https://x.com/imtheboboo) | **Fuente:** [Link](https://x.com/imtheboboo/status/2096961730282918046) | **Publicado:** Sep 7, 2026
-
----
 ---
 
 ## 📚 Más prompts disponibles
@@ -5508,6 +5493,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-09-22T03:47:21.446Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-09-23T03:49:38.861Z</sub>
 
 </div>
