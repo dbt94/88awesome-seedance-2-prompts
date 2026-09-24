@@ -68,9 +68,9 @@ Tại sao nên sử dụng thư viện của chúng tôi?
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **6411** |
+| 📝 Tổng số prompt | **6415** |
 | ⭐ Prompt nổi bật | **6** |
-| 🔄 Cập nhật lần cuối | **2026-09-23** |
+| 🔄 Cập nhật lần cuối | **2026-09-24** |
 
 ---
 
@@ -361,36 +361,121 @@ Siêu thực tế, năng lượng lấy cảm hứng từ Fast and Furious, ánh
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
-### Prompt Chuỗi Cảnh Điện Ảnh: Hiên Nhà Ngày Mưa
+### Prompt Câu chuyện Tình yêu Thị trấn Ven biển Lãng mạn
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> Một prompt chi tiết cho chuỗi video điện ảnh về một phụ nữ đứng dưới hiên nhà trong cơn mưa lớn, bao gồm các hành động cụ thể như chỉnh mũ, đeo tai nghe và ăn táo.
+> Một prompt video điện ảnh cho Seedance 2.0 mô tả cuộc gặp gỡ đầu tiên lãng mạn giữa một cô gái và chàng trai Hàn Quốc tại thị trấn ven biển vào giờ vàng.
 
 #### 📝 Prompt
 
 ```
-Góc quay cận trung cảnh mang phong cách điện ảnh của một phụ nữ trẻ gốc Đông Á đứng dưới hiên nhà bằng gỗ cũ kỹ trong cơn mưa tầm tã. Cô đội chiếc mũ lưỡi trai màu đen ướt sũng, mặc áo thun trắng oversize hơi xuyên thấu vì nước mưa, và đeo dây túi tote màu be qua vai. Mái tóc đen được búi lộn xộn, những lọn tóc ướt dính vào mặt và cổ cô. Tai nghe có dây màu trắng đang được đeo.
-
-Mưa trút xuống đều đặn từ ống thoát nước kim loại gỉ sét, nhỏ giọt từ mái tôn sóng. Rừng xanh tươi tốt và những ngọn núi mờ ảo dần tan biến vào hậu cảnh. Ánh sáng tự nhiên dịu nhẹ, tông màu xanh lục bảo lạnh, độ sâu trường ảnh nông, hiệu ứng hạt phim, tạo nên bầu không khí buồn man mác và tĩnh lặng.
-
-Chuỗi hành động:
-- Cô nhìn xuống, sau đó từ từ đưa tay lên chỉnh lại chiếc mũ ướt.
-- Cô lấy ra cặp tai nghe màu trắng và đeo từng bên vào tai.
-- Cô tựa lưng vào cột gỗ và ngắm nhìn màn mưa rơi bên ngoài.
-- Cô đưa lòng bàn tay ra hứng những giọt mưa đang rơi, quan sát chúng chạm vào da.
-- Cận cảnh: cô lau sạch quả táo đỏ bóng loáng bằng một chiếc khăn trắng.
-- Cô cắn một miếng táo lớn, nước ép chảy dọc theo môi và cằm.
-- Cô nhai chậm rãi, liếc mắt sang một bên với vẻ bình thản, hơi xa xăm trong khi mưa vẫn tiếp tục rơi.
-
-Phong cách siêu thực, giao diện phim 35mm, kết cấu da tự nhiên với những giọt mưa trên mặt và mũ, chi tiết vải ướt chân thực, không trang điểm, tâm trạng ngày mưa yên tĩnh.
+Một cô gái Hàn Quốc xinh đẹp với mái tóc đen dài thẳng mượt đi bộ qua một thị trấn ven biển yên bình của Hàn Quốc vào giờ vàng, mặc áo khoác trench màu be thời trang và cầm theo túi xách. Một chàng trai Hàn Quốc điển trai trong chiếc áo khoác da tối màu đứng gần đường ray xe lửa khi một chiếc xe điện cổ kính đi ngang qua. Cô gái từ từ tiến lại gần anh dọc theo con phố ven biển, với ánh nắng ấm áp chiếu sáng trên khuôn mặt cô. Chuyển động camera điện ảnh, chuyển động đi bộ tự nhiên, biểu cảm khuôn mặt chân thực, gió biển nhẹ nhàng và cảnh quan đường phố Hàn Quốc chi tiết. Ghi lại khoảnh khắc chạm mắt đầu tiên của họ với bầu không khí lãng mạn dịu dàng, độ sâu trường ảnh nông, chỉnh màu ấm và chất lượng siêu thực. Tạo ra một câu chuyện tình yêu điện ảnh tuyệt đẹp kéo dài 15 giây với các hiệu ứng chuyển cảnh mượt mà, ánh sáng tự nhiên và cách kể chuyện giàu cảm xúc.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102269103058960384/img/8INOQXR20vXAFwWT.jpg" width="600" alt="Prompt Chuỗi Cảnh Điện Ảnh: Hiên Nhà Ngày Mưa">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102607613376811008/img/f7CrIsdVKZtqZhPE.jpg" width="600" alt="Prompt Câu chuyện Tình yêu Thị trấn Ven biển Lãng mạn">
 
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11107)**
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11153)**
 
-**Tác giả:** [Elisia](https://x.com/AiwithElisia) | **Nguồn:** [Link](https://x.com/AiwithElisia/status/2102269278489903244) | **Đã xuất bản:** Sep 22, 2026
+**Tác giả:** [Ayat](https://x.com/aiwithaayat) | **Nguồn:** [Link](https://x.com/aiwithaayat/status/2102607673501892691) | **Đã xuất bản:** Sep 23, 2026
+
+---
+### Prompt phong cách video gia đình đầu những năm 2000
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một prompt cực kỳ chi tiết dành cho Seedance 2.0 để tạo ra một video gia đình lo-fi, phong cách Sony MiniDV đầu những năm 2000, về một phụ nữ Hàn Quốc thức dậy và tương tác với cửa sổ trời mưa.
+
+#### 📝 Prompt
+
+```
+Chủ thể chính: Phụ nữ Hàn Quốc trẻ tuổi, 24 tuổi, vẻ đẹp tự nhiên, da thực tế, trang điểm tối giản, tóc đen dài buông xõa. Mặc áo hoodie màu đỏ rượu cỡ lớn và quần rộng thoải mái. Giữ nguyên danh tính, đặc điểm khuôn mặt, kiểu tóc, tỷ lệ cơ thể và ngoại hình của cô ấy trong suốt video.
+
+Địa điểm: Một căn hộ cũ nhỏ ở Seoul vào buổi sáng sớm u ám, trời mưa. Cửa sổ phòng ngủ lớn phủ đầy mưa nhìn ra các tòa nhà chung cư lân cận mờ ảo, mái nhà ướt đẫm và ánh đèn thành phố yếu ớt. Nội thất gỗ đơn giản, bàn đầu giường nhỏ và phòng ngủ yên tĩnh, có dấu vết sinh hoạt.
+
+Ánh sáng & Bầu không khí: Không khí xanh thẳm của giờ xanh buổi sáng sớm. Ánh sáng xanh xám lạnh lẽo xuyên qua cửa sổ trời mưa cùng với ánh sáng ấm áp rất yếu từ đèn bàn đầu giường. Bầu trời nhiều mây tối tăm, màu sắc dịu nhẹ, bóng đổ mềm mại, nội thất hơi thiếu sáng và bầu không khí bình yên, buồn ngủ.
+
+Phong cách: Video gia đình Sony MiniDV đầu những năm 2000 siêu thực tế, được quay bởi một người khác cầm máy quay. Hoàn toàn candid (tự nhiên) và không dàn dựng. Chuyển động cầm tay tự nhiên, rung lắc tinh tế do con người, khung hình không hoàn hảo, điều chỉnh khung hình nhẹ nhàng, thỉnh thoảng tự động lấy nét bị lệch, thay đổi độ phơi sáng nhẹ, màu sắc phai nhạt, độ tương phản mềm mại, nén DV chân thực, nhiễu kỹ thuật số thấp trong điều kiện thiếu sáng và tiếng ồn micro. Chuyển động thời gian thực liên tục mượt mà throughout. Không giật lag, judder, bỏ khung hình, trùng lặp khung hình, xuất hiện stop-motion, mờ chuyển động quá mức, thay đổi tốc độ hoặc trông giống tốc độ khung hình thấp. Không ổn định hóa hoặc chuyển động điện ảnh hiện đại.
+
+00:00–00:03 — THỨC DẬY BÊN CỬA SỔ: Cô ấy đi chậm rãi về phía cửa sổ phòng ngủ, vẫn còn buồn ngủ, và nhẹ nhàng kéo rèm sang một bên. Buổi sáng Seoul mưa gió u tối hiện ra.
+
+00:03–00:06 — HƠI NƯỚC NGƯNG TỤ: Cô ấy nhận thấy kính phủ đầy hơi nước ngưng tụ. Cô ấy giơ một ngón tay lên và chậm rãi lau một vùng nhỏ trong suốt trên cửa sổ bị mờ.
+
+00:06–00:09 — VẼ NHỎ: Cô ấy vô tư vẽ một khuôn mặt cười đơn giản nhỏ xíu trên lớp hơi nước bằng đầu ngón tay. Cô ấy nhìn nó một lúc với nụ cười vui vẻ nhẹ nhàng.
+
+00:09–00:12 — TRỜI MƯA: Cô ấy nghiêng người gần hơn về phía phần đã lau sạch và xem những giọt mưa chạy dọc theo kính. Máy quay di chuyển nhẹ nhàng gần hơn, bắt lấy những tòa nhà Seoul mờ ảo phía sau.
+
+00:12–00:15 — KHOẢNH LẶNG YÊN: Cô ấy tựa trán nhẹ vào mặt kính mát lạnh trong giây lát, lắng nghe tiếng mưa. Cô ấy nở một nụ cười bình yên nhỏ bé khi máy quay trôi chậm về phía cảnh mưa và cắt cảnh.
+
+Âm thanh: Chỉ âm thanh hiện trường tự nhiên—tiếng mưa đều đặn đập vào cửa sổ, gió nhẹ, giao thông xa xăm, âm thanh phòng tinh tế, bước chân nhẹ nhàng và tiếng vải sột soạt yên tĩnh. Không có nhạc, lời dẫn chuyện hoặc hiệu ứng âm thanh thêm vào.
+
+Mục tiêu: Cảm giác như một khoảnh khắc video gia đình đầu những năm 2000 hoàn toàn bình thường, thân mật. Không có gì kịch tính xảy ra; bầu không khí đến từ cửa sổ trời mưa, hơi nước ngưng tụ, nụ cười nhỏ bé của cô ấy và buổi sáng sớm yên tĩnh. Nó nên cảm thấy như được ghi lại một cách tình cờ thay vì cố ý dàn dựng.
+
+Chất lượng chuyển động: Giữ cho chuyển động của cô ấy thật mượt mà và tự nhiên, đặc biệt là khi cô ấy di chuyển ngón tay và cơ thể.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102471023140761600/img/VEaSlLn6iLvgftCa.jpg" width="600" alt="Prompt phong cách video gia đình đầu những năm 2000">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11157)**
+
+**Tác giả:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Nguồn:** [Link](https://x.com/iamahmedfaraz66/status/2102606380863472099) | **Đã xuất bản:** Sep 23, 2026
+
+---
+### Prompt Anime Girl Falling Through Skyscraper
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một prompt video động cho Seedance 2.0, mô tả một cô gái phong cách anime rơi xuyên qua một tòa nhà chọc trời tương lai và biến thành một thực thể bay quyền năng với các hiệu ứng điện ảnh.
+
+#### 📝 Prompt
+
+```
+Tạo một cảnh quay từ trên xuống đầy kịch tính của một cô gái phong cách anime tóc hồng đang rơi xuyên qua một tòa nhà chọc trời bằng kính hiện đại vào ban đêm, bao quanh bởi những phản chiếu, ánh sáng và hiệu ứng mờ chuyển động mạnh mẽ. Camera xoay nhanh và theo dõi quá trình cô ấy rơi xuống, sau đó cắt sang một cận cảnh tối nơi cô ấy trông bình tĩnh và bí ẩn. Hiển thị các chi tiết về bộ trang phục màu hồng, nắm tay chặt và mái tóc bay bổng của cô ấy. Xây dựng sự căng thẳng với ánh sáng điện ảnh và bóng đổ sâu, sau đó chuyển tiếp sang cảnh cuối cùng đầy quyền năng khi cô ấy bay về phía camera với đôi mắt phát sáng màu vàng kim, gió thổi tung mái tóc, ánh sáng ấm áp rực rỡ và năng lượng giống như đôi cánh phía sau lưng. Phong cách điện ảnh 3D anime siêu chi tiết, chuyển động chân thực, di chuyển camera mượt mà, độ sâu trường ảnh ấn tượng, ánh sáng chất lượng cao, hành động năng động, thiết kế nhân vật nhất quán, bầu không khí điện ảnh hùng tráng.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102572803275014144/img/XeqJhRczWJCHRoVl.jpg" width="600" alt="Prompt Anime Girl Falling Through Skyscraper">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11154)**
+
+**Tác giả:** [Maha](https://x.com/Aiwithmaha) | **Nguồn:** [Link](https://x.com/Aiwithmaha/status/2102572922674225517) | **Đã xuất bản:** Sep 23, 2026
+
+---
+### Prompt Video Giáo Dục Phòng Thí Nghiệm Vật Lý Đại Học
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một prompt chi tiết để tạo video giáo dục chân thực trong phòng thí nghiệm vật lý đại học, minh họa trọng lực và gia tốc với sự tham gia của giáo sư và sinh viên sử dụng Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Tạo một video giáo dục điện ảnh, chân thực được quay bên trong phòng thí nghiệm vật lý hiện đại của trường đại học. Một nam giáo sư vật lý tự tin bước vào lớp học, tay cầm cốc cà phê và sổ ghi chép, trong khi các sinh viên ngồi chăm chú trong giảng đường lớn. Cảnh sau đó chuyển sang một thí nghiệm vật lý thực hành, nơi giáo sư cùng nhóm sinh viên tụ tập quanh một đường ray nghiêng trong suốt. Một quả bóng kim loại nhỏ được đặt cẩn thận trên đường ray, tạo ra minh họa trực quan rõ ràng về chuyển động, trọng lực, gia tốc và năng lượng. Hiển thị các cảnh quay cận cảnh chi tiết của thanh ray trong suốt, quả bóng kim loại, sinh viên quan sát kỹ lưỡng và giáo sư hướng dẫn thí nghiệm với những cử chỉ tay tự nhiên. Sử dụng các chuyển động máy quay mượt mà, độ sâu trường ảnh (depth of field) chân thực, biểu cảm khuôn mặt tự nhiên và tương tác lớp học xác thực để làm cho thí nghiệm trở nên hấp dẫn và đáng tin cậy. Bao gồm ánh sáng phòng thí nghiệm mang tính điện ảnh với chiếu sáng nội thất dịu nhẹ và ánh nắng ấm áp lọt qua những cửa sổ lớn. Kết thúc bằng cảnh giáo sư làm việc tại bàn thí nghiệm dưới ánh sáng giờ vàng, bao quanh bởi thiết bị khoa học, tạo nên bầu không khí học thuật suy tư và truyền cảm hứng.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102331771367108608/img/zhYK8aR3asclZ4MU.jpg" width="600" alt="Prompt Video Giáo Dục Phòng Thí Nghiệm Vật Lý Đại Học">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11156)**
+
+**Tác giả:** [Ayat](https://x.com/aiwithaayat) | **Nguồn:** [Link](https://x.com/aiwithaayat/status/2102331859657253174) | **Đã xuất bản:** Sep 22, 2026
+
+---
+### Prompt Video Quán Cà Phê Ấm Cúng Phong Cách Điện Ảnh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt tạo video ấm cúng, phong cách điện ảnh giới thiệu quy trình pha chế cà phê trong quán hiện đại, tập trung vào kết cấu chân thực và ánh sáng ấm áp cho Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Tôi đã tạo ra một video cà phê ấm cúng mang phong cách điện ảnh, nổi bật với bầu không khí tuyệt đẹp của một quán cà phê hiện đại. Video bắt đầu bằng hình ảnh tách cà phê nóng hổi đặt trên bàn đá cẩm thạch, tạo nên cảm giác bình yên và mời gọi. Các cảnh quay cận cảnh ghi lại khoảnh khắc espresso chảy mượt mà từ máy pha vào tách. Những chi tiết cà phê đậm đà, kết cấu kem mịn màng cùng ánh sáng ấm áp khiến mỗi khung hình đều trở nên chân thực và hấp dẫn về mặt thị giác. Nền video là môi trường quán cà phê sống động với những chuyển động tự nhiên và không khí thư giãn. Các chuyển động camera mượt mà cùng góc quay điện ảnh thổi hồn vào quá trình pha chế cà phê. Sự kết hợp giữa ánh sáng dịu nhẹ, hình ảnh chi tiết và vibe quán cà phê ambient tạo nên trải nghiệm điện ảnh cao cấp. Video này nắm bắt vẻ đẹp giản dị của những khoảnh khắc cà phê theo cách sáng tạo và cuốn hút.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102329184609812480/img/KOFHaF23Ar17rSF2.jpg" width="600" alt="Prompt Video Quán Cà Phê Ấm Cúng Phong Cách Điện Ảnh">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11155)**
+
+**Tác giả:** [liana](https://x.com/Lianaalane) | **Nguồn:** [Link](https://x.com/Lianaalane/status/2102330407404572896) | **Đã xuất bản:** Sep 22, 2026
 
 ---
 ### Prompt Video Điện Ảnh Chợ Hàn Quốc
@@ -5220,256 +5305,6 @@ PHÂN CẢNH (MỖI NHỊP 2 GIÂY)
 **Tác giả:** [𝑨𝒇𝒓𝒊𝒏](https://x.com/afrinxai) | **Nguồn:** [Link](https://x.com/afrinxai/status/2097160058446766088) | **Đã xuất bản:** Sep 8, 2026
 
 ---
-### Phim ngắn điện ảnh: Nhiệm vụ hộ tống phong cách Tiên hiệp
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Một prompt video điện ảnh đa cảnh quay, kể chuyện liên tục, kết hợp các yếu tố bảo vệ của kiếm khách Tiên hiệp với bối cảnh giao hàng hiện đại dưới cơn mưa bão lớn, tận dụng tối đa khả năng của Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-I. Mục tiêu nhiệm vụ
-
-Tạo ra một bộ phim ngắn thực tế, chất lượng điện ảnh, hoàn chỉnh và liên tục trong 15 giây.
-
-Bối cảnh tổng thể:
-
-Sự kết hợp giữa vũ đạo "nhiệm vụ hộ tống" Tiên hiệp đầy căng thẳng và khung cảnh giao đồ ăn hiện đại đời thường.
-
-Thẩm mỹ cốt lõi:
-
-Chất lượng điện ảnh chân thực
-Ánh sáng môi trường mưa bão xanh lạnh tạo sự tương phản rõ rệt với ánh sáng ấm áp của cảnh thực thành phố
-Phản chiếu trên mặt đất ướt, màn mưa thể tích có kiểm soát, hiệu ứng vật lý thực tế
-Hài hước châm biếm nhẹ nhàng (deadpan comedy)
-Nhân vật không dựa vào việc làm trò hề để tạo tiếng cười
-Đối xử với những việc nhỏ nhặt trong cuộc sống hiện đại như những nhiệm vụ hiệp nghĩa anh hùng thực thụ cần phải hoàn thành
-
-Trọng tâm chính để tận dụng khả năng của Seedance 2.0:
-
-Đầu ra liên tục 15 giây đa cảnh quay
-Tính nhất quán của tham chiếu đa phương thức
-Chuyển động ổn định của các chủ thể phức tạp
-Đồng bộ hóa âm thanh - hình ảnh tự nhiên
-Tính liên tục ổn định của đạo cụ và không gian
-
-II. Khóa định danh nhân vật
-
-ID nhân vật A | @Image 1 | Nữ Kiếm Tiên
-
-Duy trì nhất quán cùng một nhân vật:
-
-Nữ giới Đông Á, 25–30 tuổi
-Khuôn mặt giống nhau
-Đôi mắt sắc sảo
-Tóc đen dài thẳng
-Dáng người cao ráo, thanh mảnh
-Trâm cài tóc bằng ngọc
-Hán phục lụa thêu trắng
-Tay áo rộng nhiều lớp bán trong suốt
-Phụ kiện thắt lưng bạc
-Ủng vải trắng
-Cùng một thanh kiếm dài bằng bạc
-Tính cách nhân vật:
-
-Cực kỳ nghiêm túc
-Điềm tĩnh và kiềm chế
-Thực sự coi nhiệm vụ hộ tống là một sự kiện trọng đại trong giới võ lâm
-
-ID nhân vật B | @Image 2 | Nữ shipper
-
-Duy trì nhất quán cùng một nhân vật:
-
-Nữ giới Đông Á, 25–30 tuổi
-Khuôn mặt giống nhau
-Tóc đuôi ngựa màu nâu
-Tỷ lệ cơ thể cố định
-Áo khoác vàng
-Quần jeans xanh
-Giày thể thao trắng
-Phụ kiện cố định
-Cùng một chiếc xe đạp
-Phương tiện & Đạo cụ:
-
-Một thùng giao hàng cách nhiệt cứng được cố định chắc chắn trên giá sau của xe đạp
-Bên trong thùng chỉ có duy nhất một chiếc bánh kem cao và dễ vỡ
-Chiếc bánh phải giữ ổn định và liên tục trong suốt quá trình
-Bề mặt kem của bánh không được sụp đổ, bị ướt hoặc nghiêng
-
-III. Bối cảnh & Tính liên tục chung
-
-Toàn bộ phim chỉ diễn ra tại cùng một địa điểm thành phố thực trong cơn mưa bão, không chuyển cảnh.
-
-Yêu cầu môi trường:
-
-Mưa bão lớn tiếp diễn dữ dội
-Ánh sáng đêm mưa xanh lạnh
-Ánh đèn thành phố ấm áp làm bổ trợ cục bộ
-Mặt đất ướt, vũng nước, phản chiếu, đèn đường, mái hiên và lối đi thành phố thực tế phải tồn tại đồng nhất
-Màn mưa có cảm giác về khối lượng và độ dày
-Phản chiếu trên mặt đất thay đổi theo thời gian thực với nhân vật, xe đạp, ánh sáng và nước mưa
-Nước bắn lên thực tế khi bánh xe đi qua vũng nước
-Nền luôn sống động nhưng không chủ động điều khiển cốt truyện
-Môi trường chỉ cung cấp phản hồi vật lý thực tế:
-Mưa tiếp tục rơi
-Gió ảnh hưởng đến tóc, gấu áo, cổ tay áo và hướng của màn mưa
-Bánh xe đè qua mặt đất ướt tạo ra nước bắn
-Ánh sáng phản chiếu trên mặt đất ướt và thân xe thay đổi liên tục
-
-IV. Cấu trúc ba cảnh quay
-Cảnh 1 | 0–5s
-
-Khung hình & Vị trí máy quay
-Góc thấp toàn cảnh, theo dõi chậm, 24fps, chuyển động máy quay điện ảnh ổn định với cảm giác về trọng lượng
-Nội dung màn hình
-Mưa lớn xối xả trên cùng một bối cảnh thành phố. Nữ shipper đứng cạnh xe đạp, kiểm tra thùng hàng. Nữ Kiếm Tiên đứng bên cạnh, giữ vẻ điềm tĩnh và cảnh giác. Bên trong thùng chỉ có chiếc bánh kem cao và dễ vỡ.
-Diễn xuất & Đối thoại
-Nữ shipper nhanh chóng nói: "Ba phút, không được ướt, không được nghiêng."
-Nữ Kiếm Tiên rút ngay thanh kiếm bạc, chỉ đáp: "Ta sẽ hộ tống."
-Yêu cầu chi tiết
-Chuyển động của nữ shipper nhanh nhẹn như một người giao hàng chuyên nghiệp. Chuyển động của Nữ Kiếm Tiên sạch sẽ, dứt khoát và nghiêm túc. Mưa lớn, gió, tóc, tay áo rộng, gấu áo khoác đều phản ứng tự nhiên với lực tác động. Ánh đèn thành phố ấm áp tạo ra những vệt phản chiếu dài thực tế trên mặt đất ướt. Cảnh này phải giúp khán giả hiểu ngay mục tiêu nhiệm vụ: bảo vệ chiếc bánh.
-
-Cảnh 2 | 5–10s
-Khung hình & Vị trí máy quay
-Cảnh từ thắt lưng đến trung cảnh, cảnh quay theo dõi bên cạnh ổn định, duy trì tính liên tục với hướng tiến lên của xe đạp
-Nội dung màn hình
-Nữ shipper đạp xe nhanh trong cơn mưa bão. Nữ Kiếm Tiên mặc Hán phục lụa thêu trắng đứng trên thanh kiếm bạc, lướt đi song song để hộ tống. Nữ Kiếm Tiên đồng thời phóng ra sáu bóng kiếm nhỏ; chúng xoay tốc độ cao quanh xe đạp, tạo thành đội hình bảo vệ di động.
-Quy tắc đội hình bảo vệ
-Sáu bóng kiếm có kích thước nhỏ và được điều khiển chính xác. Chức năng rõ ràng: chỉ chịu trách nhiệm cắt xuyên màn mưa lớn phía trên xe đạp và thùng hàng. Màn mưa bị tách sang hai bên, tạo thành một lối đi khô ráo hẹp nhưng ổn định phía trên xe đạp và chiếc bánh. Không có ô nhiễm ánh sáng phóng đại, không có hiệu ứng đặc biệt khổng lồ. Sự tồn tại của các bóng kiếm nên mang cảm giác là ứng dụng thực tế của kỹ thuật ngự kiếm cao cấp.
-Yêu cầu tính liên tục
-Vị trí chiếc bánh nhất quán với cảnh trước. Hướng di chuyển của xe đạp liên tục với cảnh trước. Mối quan hệ không gian của nền thành phố liên tục. Trang phục, kiểu tóc và đạo cụ nhân vật hoàn toàn ổn định.
-Vật lý & Âm thanh
-Đèn xe tạo ra phản chiếu linh hoạt trên mặt đất ướt. Nước bắn từ bánh xe chân thực. Tóc dài, tay áo lụa rộng, áo khoác và gấu quần đều bị ảnh hưởng bởi gió và tốc độ. Tiếng kiếm ngân, nhịp xích xe đạp, tiếng mưa và sấm sét duy trì sự đồng bộ chính xác. Tốc độ di chuyển của hai người phối hợp, không trôi, không lướt như nhân vật game.
-
-Cảnh 3 | 10–15s
-Khung hình & Vị trí máy quay
-Cận cảnh tiến vào cực cận, máy quay tiếp cận ổn định các phản ứng của nhân vật và đạo cụ. Nhịp điệu giữ một khoảng lặng ngắn sau khi dừng lại.
-Nội dung màn hình
-Họ lao vào khu vực có mái che và dừng lại. Nữ shipper mở ngay thùng hàng. Chiếc bánh bên trong vẫn thẳng đứng và ổn định, bề mặt kem hoàn toàn khô ráo, không ướt, không nghiêng. Cô thở phào nhẹ nhõm, rồi ngước lên thấy: Nữ Kiếm Tiên đã ướt sũng từ đầu đến chân. Lý do rõ ràng: vừa rồi tất cả phi kiếm chỉ bảo vệ thùng hàng, cô không chặn dù chỉ một giọt mưa cho bản thân.
-Đối thoại & Phản ứng
-Nữ shipper sững sờ, hỏi: "Tại sao cô không tự che cho mình?"
-Khoảng lặng nửa giây. Nữ Kiếm Tiên gạt nước mưa trên lông mày, đáp với giọng điệu nghiêm túc tuyệt đối: "Ưu tiên nhiệm vụ."
-Nữ shipper im lặng hai giây, đưa cho cô một tờ giấy ăn nhỏ xíu từ túi.
-Trong cảnh cực cận: Nữ Kiếm Tiên nhìn xuống tờ giấy, rồi nhìn lên nữ shipper, vẫn giữ biểu cảm lạnh lùng, cuối cùng im lặng nhận lấy. Khoảnh khắc này tạo nên cái kết hài hước cho cả bộ phim.
-
-V. Nguyên tắc diễn xuất
-
-Nữ Kiếm Tiên
-Nghiêm túc tuyệt đối từ đầu đến cuối. Không được cố tình làm dễ thương. Không tự trào. Cô thực sự coi việc bảo vệ chiếc bánh là một nhiệm vụ cao cấp.
-Nữ shipper
-Thực tế, nhanh nhẹn, chuyên nghiệp. Sự bối rối và câm nín nhẹ đến từ phản ứng chân thực. Cảm giác hài hước đến từ sự tương phản tự nhiên khi đối mặt với "logic võ sĩ quá nghiêm túc".
-Nguyên tắc hài hước
-Điểm gây cười chỉ có thể đến từ: mục tiêu nhiệm vụ quá bình thường; cách Nữ Kiếm Tiên xử lý nhiệm vụ quá trang trọng; cô dành mọi nguồn lực bảo vệ cho chiếc bánh; tờ giấy ăn nhỏ xíu cuối cùng tạo nên một cái kết nhẹ nhàng.
-
-VI. Yêu cầu kỹ thuật đồng nhất
-Thời lượng nghiêm ngặt 15 giây. 16:9 màn hình rộng, 24fps. Ba cảnh quay sạch sẽ. Hoàn thành liên tục tại cùng một địa điểm. Danh tính nhân vật ổn định, trang phục ổn định, xe đạp ổn định, bánh ổn định, kiếm dài ổn định, số lượng sáu bóng kiếm ổn định. Khớp khẩu hình tiếng Quan Thoại chính xác. Tạo âm thanh đồng bộ tự nhiên gồm tiếng mưa stereo, sấm sét, tiếng nước bắn, tiếng xích, tiếng kiếm ngân và đối thoại. Không tạo phụ đề trên màn hình.
-
-VII. Điều cần tránh nghiêm ngặt
-mờ, chất lượng kém, độ phân giải thấp, nhiễu, lỗi jpeg, hình mờ, văn bản, lỗi, biến dạng, đột biến, giải phẫu xấu, bàn tay vẽ kém, bố cục xấu, ngoài khung hình, biến dạng, nhân vật không nhất quán, thay đổi quần áo, biến đổi khuôn mặt, thay đổi nền, cắt cảnh bị lỗi, đạo cụ biến mất.
-Các cấm kỵ bổ sung: Chuyển địa điểm, chuyển cảnh AI morph, bánh đột ngột thay đổi kích thước, thùng hàng biến mất, thay đổi cấu trúc xe đạp, số lượng phi kiếm thay đổi ngẫu nhiên, ô nhiễm ánh sáng giả tưởng quá mạnh, nhân vật trôi/lướt, màn mưa trông giống kết cấu 2D, phản chiếu mặt đất ướt bị đóng băng, hài kịch quá lố, biểu cảm méo mó phóng đại.
-
-VIII. Mục tiêu hiệu ứng cuối cùng
-Toàn bộ bộ phim phải mang lại cảm giác như một bộ phim ngắn được quay thực sự: hộ tống một chiếc bánh trong mưa bão trông giống như một nhiệm vụ Tiên hiệp về mặt hình ảnh và là công việc nghiêm túc về mặt cảm xúc, cuối cùng hạ cánh xuống một điểm gây cười châm biếm cực kỳ nhẹ nhàng.
-Từ khóa cảm nhận cuối cùng: Hộ tống Tiên hiệp, đi bộ đêm mưa bão, quá nghiêm túc, ưu tiên chiếc bánh, hài hước châm biếm, chủ nghĩa hiện thực điện ảnh.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097149638088499200/img/e-jY55LtIU3iPxEL.jpg" width="600" alt="Phim ngắn điện ảnh: Nhiệm vụ hộ tống phong cách Tiên hiệp">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=10511)**
-
-**Tác giả:** [Soran](https://x.com/Soranlan) | **Nguồn:** [Link](https://x.com/Soranlan/status/2097150285303177683) | **Đã xuất bản:** Sep 8, 2026
-
----
-### Video Bảng nhân vật Nhà giả kim rừng sâu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt đa cảnh được thiết kế để tạo bảng nhân vật cho một nhà giả kim rừng sâu, với bối cảnh rừng đầy không khí cùng các yếu tố phát quang sinh học và những hành động chi tiết của nhân vật.
-
-#### 📝 Prompt
-
-```
-Bình minh trong một khu rừng già ẩm ướt, sương mù thấp len lỏi giữa các thân cây. Nhà giả kim rừng sâu nhỏ bé đang ngồi xổm trên một khúc gỗ mục phủ đầy nấm, đội chiếc mũ làm từ gốc cây sống và những cây nấm thật trên đầu. Cô cạo các phiến nấm bằng một đầu ngón tay, rồi nghiêng người lại gần cho đến khi khuôn mặt gần như chạm vào đó; chiếc kính bảo hộ hình lọ tròn tỏa ánh sáng xanh lục trên nền vỏ cây ẩm ướt. Sự tò mò lạnh lùng, hoàn toàn tập trung, không một nụ cười. (2 giây)
-- Đêm tại một con suối trong rừng đen, rêu phát quang sinh học. Chú cóc trợ lý thực địa nhảy lên lòng bàn tay mở của cô. Cô dừng mọi việc, từ từ xoay bàn tay để quan sát hành động của con vật, sau đó ghi chép vào cuốn sổ nhỏ gắn trên bộ dây đeo mẫu vật mà không hề rời mắt khỏi nó. Đang làm việc, không phải đang âu yếm. (2 giây)
-- Bên trong một gốc cây rỗng chỉ được chiếu sáng bởi ánh sáng của nấm. Cô nâng một lọ mẫu vật thủy tinh lên trước ánh sáng và xoay nó, một rễ dương xỉ bên trong vẫn còn phát sáng mờ nhạt. Khuôn mặt cô đanh lại vì sự chú tâm thay vì ngạc nhiên, hàm bạnh ra, đôi mắt nheo lại sau lớp kính bảo hộ màu xanh lục. (2 giây)
-- Mưa lớn trút xuống nền rừng. Cô không chạy. Cô khom vai che chắn cho lọ mẫu vật, dùng toàn bộ cơ thể bảo vệ nó và tiếp tục bước đi trong bùn với tốc độ thong thả như cũ, những cây nấm trên mũ cô run rẩy dưới những giọt mưa. (2 giây)
-- Một khoảng trống trong ánh sáng chiều xiên. Cô ngừng viết, vươn tay bắt một con ve khỏi lưng một con vật nhỏ bằng một cái nhúm tay nhanh gọn, không chút khách sáo, búng nó đi và quay lại với cuốn sổ ngay lập tức. Nhẹ nhàng, không dịu dàng; toàn bộ cử chỉ chỉ diễn ra trong một giây. (2 giây)
-- Nền tối trung tính trống trải, không có môi trường xung quanh. Cô trở lại với vẻ ngoài đặc trưng: mũ gốc cây sống, áo choàng rêu, bộ dây đeo mẫu vật. Cô bước hai bước về phía trước vào trung tâm khung hình, dừng lại, ngẩng cằm và nhìn thẳng vào ống kính với một nụ cười nửa miệng khô khốc. Chiếc kính bảo hộ phát sáng màu xanh lục, ánh sáng viền làm nổi bật bóng dáng cô và mọi thứ khác chìm vào bóng tối. (3 giây)
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2097135269308743680/pu/img/KTxNtFUAe0x3qBcU.jpg" width="600" alt="Video Bảng nhân vật Nhà giả kim rừng sâu">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=10508)**
-
-**Tác giả:** [Borderless 🌐](https://x.com/BorderleSint) | **Nguồn:** [Link](https://x.com/BorderleSint/status/2097135299302215772) | **Đã xuất bản:** Sep 8, 2026
-
----
-### Vũ đạo đường phố của nữ thần tượng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video về nữ thần tượng biểu diễn nhảy hip hop trong phòng tập, tập trung vào chuyển động mượt mà và tính nhất quán của nhân vật từ hình ảnh tham chiếu.
-
-#### 📝 Prompt
-
-```
-Sử dụng hình ảnh tham chiếu cho nhân vật. Một nữ thần tượng đang đứng trong phòng tập nhảy, mặc áo ba lỗ trắng phối cùng áo khoác Adidas đen, quần túi hộp và đội mũ lưỡi trai đen, đang thực hiện vũ đạo hip hop. Các động tác cần có độ khó tương đối nhưng vẫn mang lại cảm giác tự nhiên, thoải mái và phóng khoáng, kết hợp với khả năng kiểm soát biểu cảm khuôn mặt chân thực.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097105569165578240/img/ScZbPkzrveqjZtr-.jpg" width="600" alt="Vũ đạo đường phố của nữ thần tượng">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=10509)**
-
-**Tác giả:** [Shinning](https://x.com/Shinning1010) | **Nguồn:** [Link](https://x.com/Shinning1010/status/2097106940501639234) | **Đã xuất bản:** Sep 7, 2026
-
----
-### Video gia đình thời Showa năm 1984
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Lời nhắc này tái hiện phong cách video gia đình đầy hoài niệm của thập niên 1980, khắc họa hình ảnh một nhóm trẻ em đang vui chơi tại công viên trong khu chung cư ở Nhật Bản với những chi tiết chân thực mang đậm dấu ấn thời kỳ đó.
-
-#### 📝 Prompt
-
-```
-[Tổng quan] Một buổi chiều tối năm 1984, cậu bé 8 tuổi đang chơi trò "đá lon" tại công viên trong khu tập thể. Người cha quay phim từ xa mà không nói lời nào bằng chiếc máy quay gia đình mới mua. Độ phân giải 480p, tỷ lệ 16:9, thời lượng 15 giây. 7 cảnh quay (mỗi cảnh khoảng 2 giây) được cắt ghép trực tiếp, tất cả đều ở các địa điểm khác nhau. Không có hiệu ứng chuyển cảnh hay làm mờ. Chủ thể không tương tác với máy quay: không nhìn vào ống kính, không khoe đồ vật, không vẫy tay, không tạo dáng. Đắm chìm hoàn toàn vào trò chơi. Những mảnh ghép của cuộc sống thường nhật, không diễn xuất. Hoàn toàn không có hội thoại, lời thoại hay lời dẫn.
-
-[Chủ thể] Định nghĩa về vẻ đẹp: Một cậu bé Nhật Bản có gương mặt đủ dễ thương để đóng vai diễn viên nhí. Gương mặt khi đang đắm chìm vào trò chơi là đẹp nhất. Gương mặt: Tóc đen cắt ngắn, lông mày rậm thẳng, mắt to hai mí rõ nét, da rám nắng (kết cấu chân thực), một miếng băng cá nhân trên sống mũi, một chiếc răng cửa đang mọc với khe hở. Trang phục (đồ mặc hàng ngày): Áo ba lỗ trắng (cổ hơi giãn), quần đùi xanh, giày thể thao đế cao su trắng (mũi giày lấm lem), khăn tenugui quàng cổ. Thói quen: Vung tay rộng khi chạy, không dừng lại ngay cả khi suýt vấp ngã. Gương mặt, kiểu tóc và trang phục hoàn toàn giống hệt nhau trong tất cả các cảnh quay.
-
-[Nhân vật] 3 bạn chơi cùng: Một cô bé tóc bob mặc váy đỏ, một cậu bé hơi mũm mĩm đội mũ bóng chày, một cậu bé gầy đeo kính gọng đen. Tất cả đều rám nắng, đi giày thể thao. Không ai nhìn vào máy quay. Mẹ: Đứng nhỏ bé ở phía xa trên ban công trong cảnh quay thứ 7 (không nhìn rõ mặt).
-
-[Thời đại, Địa điểm, Ánh sáng] Khu tập thể vào mùa hè năm 1984. 1. Cầu thang ngoài trời của khu tập thể (ánh sáng trắng buổi chiều) 2. Bên cạnh hố cát công viên (Trò đá lon: trò chơi mà người "bị bắt" phải canh giữ cái lon trên mặt đất trong khi những đứa trẻ khác trốn đi để chạy đến đá lon. Lon màu bạc trơn, không có chữ) 3. Bên trong ống cống bê tông ở công viên 4. Trên đỉnh cầu thang leo (bầu trời xanh) 5. Vòi nước công viên (ánh sáng phản chiếu trong dòng nước bắn tung tóe) 6. Bóng râm dưới tháp nước 7. Con đường lúc hoàng hôn trong khu tập thể (những cái bóng dài màu cam). Không có biển báo hay chữ trên màn hình.
-
-[Máy quay] Kết cấu máy quay gia đình năm 1984: màu sắc bị nhòe, độ phân giải thấp, bầu trời sáng bị cháy sáng, đường nét mềm mại. Không hiển thị ngày tháng. Máy quay cầm tay đặt trên vai, độ rung tự nhiên, bố cục không hoàn hảo, lấy nét không ổn định, độ phơi sáng thay đổi. Khoảng cách từ 3–6m so với chủ thể. Chủ thể phớt lờ máy quay. Không có chống rung, gimbal, drone, quay chậm, ánh sáng điện ảnh hay chỉnh màu thương mại. Máy quay luôn ở tầm mắt của người quay (đứng, ngồi, cúi người, đi bộ). Không có các góc quay bất khả thi (trên không, dưới nước, trên trần nhà, v.v.). Là một người có mặt tại đó, người quay phim theo sát chuyển động với độ trễ nhẹ và bố cục đôi khi lỏng lẻo.
-
-[Các cảnh quay] (Mỗi cảnh khoảng 2 giây. Mỗi dòng = Địa điểm/Ánh sáng / Hoạt động / Cảm xúc nội tâm & cử chỉ nhỏ / Vị trí máy quay)
-1. Cầu thang khu tập thể, buổi chiều. Chạy nhảy xuống từng bậc, suýt vấp ngã ở bậc cuối nhưng vẫn tiếp tục chạy. Cảm xúc: Muốn chơi nhanh. Chỉ nhìn về phía trước. Máy quay: Nhìn lên từ chân cầu thang.
-2. Bên cạnh hố cát. Đặt lon xuống đất, cố định bằng chân, lấy hai tay che mắt. Cảm xúc: Nghiêm túc với vai trò "người canh". Mím chặt môi. Bạn bè tản ra. Máy quay: Từ bên cạnh, lũ trẻ chạy ở phía sau.
-3. Bên trong ống cống. Hé nửa mặt từ bóng tối, nín thở, chỉ cử động đôi mắt. Cảm xúc: Hồi hộp vì suýt bị tìm thấy. Máy quay: Nhìn vào từ bên ngoài ống cống.
-4. Trên đỉnh cầu thang leo, bầu trời xanh. Đứng trên đỉnh, chỉ tay về phía người bạn ở xa. Cảm xúc: Đắc thắng. Ưỡn ngực, miệng mở rộng (không phát ra tiếng). Máy quay: Nhìn lên, bầu trời bị cháy sáng.
-5. Vòi nước. Vặn vòi nước lên để dội vào đầu, lắc đầu như cún con. Cảm xúc: Cảm thấy sảng khoái. Mỉm cười nhắm mắt. Máy quay: Người cha bước lại gần, nước bắn vào ống kính, một tiếng cười nhỏ thoát ra.
-6. Bóng râm dưới tháp nước. Ngồi cùng bạn bè, nhìn chằm chằm vào vết trầy trên đầu gối, lấy ngón tay chọc vào. Cảm xúc: Mệt mỏi và thỏa mãn. Vai chùng xuống. Máy quay: Từ bên cạnh, hơi xa.
-7. Con đường khu tập thể lúc hoàng hôn. Nhận ra mẹ ở ban công phía xa, miễn cưỡng bắt đầu chạy. Bóng dáng khuất dần vào bóng tối của lối vào khu tập thể. Cảm xúc: Không muốn về nhà nhưng vẫn phải về. Máy quay: Đứng giữa đường, dõi theo bóng lưng đang xa dần. Khoảng giây 00:14, đoạn ghi hình đột ngột chuyển sang màu đen. Không có hiệu ứng mờ dần.
-
-[Chi tiết vật phẩm] Lon màu bạc trơn và bị móp. Giày thể thao có mũi giày đen vì đất. Khăn tenugui màu trắng với họa tiết chàm. Băng cá nhân màu da. Vòi nước là khối bê tông vuông với vòi kim loại. Ống cống bằng bê tông xám, bên trong không có hình vẽ bậy.
-
-[Quy định về văn bản] Không có chữ, logo, biển báo, nhãn dán hay con số nào có thể đọc được. Lon là lon trơn.
-
-[Vật lý/Tính nhất quán] Vật lý thế giới thực. Không có thêm ngón tay, bàn tay dính liền, giải phẫu bị biến dạng. Chân chạm đất. Băng cá nhân, áo ba lỗ và quần áo của bạn bè đều giống nhau trong tất cả các cảnh quay.
-
-[Âm thanh] Chỉ có âm thanh môi trường tự nhiên: tiếng ve kêu, tiếng bước chân trên cầu thang, tiếng lon, tiếng trẻ em từ xa (tiếng cười/bước chân, không rõ từ ngữ), tiếng vòi nước, tiếng gió ở tháp nước, tiếng quạ kêu buổi chiều. Hoàn toàn không có lời nói. Thỉnh thoảng có thể có tiếng cười nhỏ/tiếng thở của người quay phim và chủ thể. Không nhạc nền. Không lời dẫn. Không hiệu ứng âm thanh nhân tạo.
-
-[Bầu không khí] Một thước phim ghi lại ngày thường của một đứa trẻ trong khu tập thể thời Showa khiến người lớn phải thốt lên "đã từng có một buổi chiều như thế này". Không phải diễn xuất, mà là những mảnh ghép của trò chơi đắm chìm. Hoài niệm, tươi sáng và đậm chất nhân văn. Ưu tiên cảm giác như thể máy quay chỉ tình cờ có mặt ở đó.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094095520038027264/img/M97-yPhrbh-yljjP.jpg" width="600" alt="Video gia đình thời Showa năm 1984">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=10512)**
-
-**Tác giả:** [妖精アーヤ](https://x.com/aiehon_aya) | **Nguồn:** [Link](https://x.com/aiehon_aya/status/2097082482306720232) | **Đã xuất bản:** Sep 7, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -5531,6 +5366,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-23T03:49:36.466Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-24T03:40:15.854Z</sub>
 
 </div>

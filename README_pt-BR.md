@@ -68,9 +68,9 @@ Por que usar nossa galeria?
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **6411** |
+| 📝 Total de prompts | **6415** |
 | ⭐ Prompts em destaque | **6** |
-| 🔄 Última atualização | **2026-09-23** |
+| 🔄 Última atualização | **2026-09-24** |
 
 ---
 
@@ -361,36 +361,121 @@ Ultra realista, energia inspirada em Velozes e Furiosos, iluminação fotorreali
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
-### Prompt de Sequência Cinematográfica: Varanda Chuvosa
+### Prompt de História de Amor em Cidade Costeira Romântica
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> Um prompt altamente detalhado para uma sequência de vídeo cinematográfico de uma mulher sob uma varanda durante uma chuva forte, incluindo ações específicas como ajustar o boné, inserir fones de ouvido e comer uma maçã.
+> Um prompt de vídeo cinematográfico para o Seedance 2.0 que retrata um primeiro encontro romântico entre uma garota e um garoto coreanos em uma cidade costeira durante a golden hour.
 
 #### 📝 Prompt
 
 ```
-Um plano cinematográfico próximo a médio de uma jovem mulher do Leste Asiático em pé sob uma varanda de madeira desgastada durante uma chuva forte. Ela usa um boné preto molhado, uma camiseta branca larga ligeiramente translúcida pelo molhado, e a alça de uma bolsa tote bege sobre o ombro. Seus cabelos escuros estão presos em um coque desleixado, com mechas molhadas grudando no rosto e no pescoço. Fones de ouvido brancos com fio estão em suas orelhas.
-
-A chuva cai constantemente de um cano de descida enferrujado, pingando do telhado de telha ondulada. Uma floresta verde exuberante e montanhas nebulosas desaparecem ao fundo. Iluminação natural suave, gradiente de cor teal-esverdeado frio, profundidade de campo rasa, granulação de filme, atmosfera melancólica e tranquila.
-
-Sequência:
-- Ela olha para baixo, então lentamente levanta a mão para ajustar seu boné molhado.
-- Ela tira os fones de ouvido brancos e os insere um por um.
-- Ela se apoia no pilar de madeira e observa a chuva.
-- Ela estende a palma da mão para a chuva que cai, observando as gotas atingirem sua mão.
-- Close-up: ela limpa uma maçã vermelha brilhante com um pano branco.
-- Ela dá uma mordida grande na maçã, com o suco escorrendo dos lábios e do queixo.
-- Ela mastiga lentamente, olhando para o lado com uma expressão calma e ligeiramente distante enquanto a chuva continua caindo.
-
-Ultra-realista, visual de filme 35mm, textura de pele natural com gotas de chuva no rosto e no boné, detalhes de tecido molhado, sem maquiagem, humor tranquilo de dia chuvoso.
+Uma bela garota coreana com cabelos longos, lisos e pretos caminha por uma tranquila cidade costeira coreana durante a golden hour, vestindo um elegante sobretudo bege e carregando uma bolsa. Um bonito garoto coreano, usando uma jaqueta de couro escura, está parado perto de uma passagem de nível enquanto um bonde vintage passa. A garota se aproxima lentamente dele pela rua à beira-mar, com a luz quente do sol iluminando seu rosto. Movimentos de câmera cinematográficos, caminhada natural, expressões faciais realistas, brisa suave do oceano e detalhes da paisagem urbana coreana. Capture o primeiro contato visual deles com uma atmosfera romântica delicada, profundidade de campo rasa, colorização quente e qualidade fotorrealista. Crie uma linda história de amor cinematográfica de 15 segundos com transições suaves, iluminação natural e narrativa emocional.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102269103058960384/img/8INOQXR20vXAFwWT.jpg" width="600" alt="Prompt de Sequência Cinematográfica: Varanda Chuvosa">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102607613376811008/img/f7CrIsdVKZtqZhPE.jpg" width="600" alt="Prompt de História de Amor em Cidade Costeira Romântica">
 
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=11107)**
+**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=11153)**
 
-**Autor:** [Elisia](https://x.com/AiwithElisia) | **Fonte:** [Link](https://x.com/AiwithElisia/status/2102269278489903244) | **Publicado:** Sep 22, 2026
+**Autor:** [Ayat](https://x.com/aiwithaayat) | **Fonte:** [Link](https://x.com/aiwithaayat/status/2102607673501892691) | **Publicado:** Sep 23, 2026
+
+---
+### Prompt de Estilo de Vídeo Doméstico dos Anos 2000
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt extremamente detalhado para o Seedance 2.0 gerar um vídeo doméstico lo-fi, estilo Sony MiniDV do início dos anos 2000, mostrando uma mulher coreana acordando e interagindo com uma janela chuvosa.
+
+#### 📝 Prompt
+
+```
+Sujeito Principal: Mulher coreana jovem, 24 anos, naturalmente atraente, pele realista, maquiagem mínima, cabelos longos e escuros soltos. Vestindo um moletom marrom-avermelhado oversized e calças casuais largas. Preserve sua identidade exata, traços faciais, penteado, proporções corporais e aparência ao longo de todo o vídeo.
+
+Localização: Pequeno apartamento antigo em Seul durante uma manhã escura e chuvosa. Uma grande janela do quarto coberta pela chuva, com vista para prédios vizinhos desfocados, telhados molhados e luzes fracas da cidade. Móveis simples de madeira, uma pequena mesa de cabeceira e um quarto tranquilo e habitado.
+
+Iluminação e Atmosfera: Profunda ambiência azulada do início da manhã (blue hour). Luz fria azul-acinzentada entrando pela janela chuvosa, com um brilho quente muito fraco vindo de uma luminária de cabeceira. Céu nublado escuro, cores suaves, sombras delicadas, interior ligeiramente subexposto e uma atmosfera tranquila e sonolenta.
+
+Estilo: Vídeo doméstico ultra-realista estilo Sony MiniDV do início dos anos 2000, filmado por outra pessoa segurando a câmera. Completamente espontâneo e não encenado. Movimento natural de mão, tremor humano sutil, enquadramento imperfeito, re-enquadramentos gentis, caça ocasional ao foco automático, leves variações de exposição, cores desbotadas, contraste suave, compressão DV autêntica, ruído digital sutil em baixa luminosidade e ruído de microfone. Movimento contínuo e suave em tempo real durante todo o vídeo. Sem travamentos, judder, pulos de quadros, quadros duplicados, aparência de stop-motion, borrão de movimento excessivo, mudanças de velocidade ou visual de taxa de quadros baixa. Sem estabilização ou movimentos cinematográficos modernos.
+
+00:00–00:03 — ACORDAR NA JANELA: Ela caminha lentamente em direção à janela do quarto, ainda sonolenta, e afasta suavemente a cortina. A manhã chuvosa e escura de Seul é revelada.
+
+00:03–00:06 — CONDENSÃO: Ela percebe que o vidro está coberto de condensação. Levanta um dedo e limpa lentamente uma pequena área transparente na janela embaçada.
+
+00:06–00:09 — PEQUENO DESENHO: Distraída, ela desenha um pequeno sorriso simples na condensação com a ponta do dedo. Olha para ele por um momento com um leve sorriso divertido.
+
+00:09–00:12 — CHUVA: Ela se aproxima mais da seção limpa e observa as gotas de chuva escorrendo pelo vidro. A câmera se move gentilmente para mais perto, capturando os prédios de Seul desfocados ao fundo.
+
+00:12–00:15 — MOMENTO TRANQUILO: Ela apoia levemente a testa no vidro frio por um segundo, ouvindo a chuva. Dá um pequeno sorriso pacífico enquanto a câmera deriva lentamente em direção à vista chuvosa e corta.
+
+Áudio: Apenas som ambiente natural—chuva constante contra a janela, vento fraco, tráfego distante, ambience sutil do quarto, passos suaves e movimento quieto do tecido. Sem música, narração ou efeitos sonoros adicionados.
+
+Objetivo: Parecer um momento completamente ordinário e íntimo de vídeo doméstico do início dos anos 2000. Nada dramático acontece; a atmosfera vem da janela chuvosa, da condensação, do seu pequeno sorriso e da manhã silenciosa. Deve parecer capturado acidentalmente, não deliberadamente performado.
+
+Qualidade de movimento: Mantenha seus movimentos extremamente naturais e suaves, especialmente o dedo passando pela condensação e sua aproximação lenta
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102471023140761600/img/VEaSlLn6iLvgftCa.jpg" width="600" alt="Prompt de Estilo de Vídeo Doméstico dos Anos 2000">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=11157)**
+
+**Autor:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Fonte:** [Link](https://x.com/iamahmedfaraz66/status/2102606380863472099) | **Publicado:** Sep 23, 2026
+
+---
+### Prompt de Anime Girl Falling Through Skyscraper
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo dinâmico para Seedance 2.0, apresentando uma garota estilo anime caindo através de um arranha-céu futurista e se transformando em uma entidade voadora poderosa com efeitos cinematográficos.
+
+#### 📝 Prompt
+
+```
+Criei uma tomada dramática de cima para baixo de uma garota estilo anime com cabelos rosas caindo através de um arranha-céu de vidro futurista à noite, cercada por reflexos, luzes e intenso motion blur. A câmera gira rapidamente e segue sua descida, então corta para um close-up escuro onde ela parece calma e misteriosa. Mostre planos detalhados de seu traje rosa, mão cerrada e cabelo esvoaçante. Construa tensão com iluminação cinematográfica e sombras profundas, então transicione para uma tomada final poderosa onde ela voa em direção à câmera com olhos dourados brilhantes, vento soprando através de seu cabelo, luz quente brilhante e energia semelhante a asas atrás dela. Estilo cinematográfico ultra-detalhado de anime 3D, movimento realista, movimento suave da câmera, profundidade de campo dramática, iluminação de alta qualidade, ação dinâmica, design de personagem consistente, atmosfera cinematográfica épica.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102572803275014144/img/XeqJhRczWJCHRoVl.jpg" width="600" alt="Prompt de Anime Girl Falling Through Skyscraper">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=11154)**
+
+**Autor:** [Maha](https://x.com/Aiwithmaha) | **Fonte:** [Link](https://x.com/Aiwithmaha/status/2102572922674225517) | **Publicado:** Sep 23, 2026
+
+---
+### Prompt para Vídeo Educacional de Laboratório de Física Universitária
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt detalhado para criar um vídeo educacional realista em um laboratório de física universitário, demonstrando gravidade e aceleração com um professor e alunos usando Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Crie um vídeo educacional cinematográfico e realista ambientado dentro de um moderno laboratório de física universitário. Um professor de física confiante entra na sala de aula carregando uma xícara de café e um caderno, enquanto os alunos assistem atentamente em um grande auditório. A cena então transiciona para um experimento prático de física, onde o professor e um grupo de alunos se reúnem ao redor de uma pista inclinada transparente. Uma pequena bola metálica é cuidadosamente colocada na pista, criando uma demonstração visual clara de movimento, gravidade, aceleração e energia. Mostre close-ups detalhados do trilho transparente, da bola de metal, dos alunos observando atentamente e do professor guiando o experimento com movimentos naturais das mãos. Use movimentos de câmera suaves, profundidade de campo realista, expressões faciais naturais e interações autênticas em sala de aula para tornar o experimento envolvente e crível. Inclua iluminação cinematográfica de laboratório com iluminação interna suave e luz solar quente entrando por grandes janelas. Termine com o professor trabalhando em uma mesa de laboratório durante a hora dourada, cercado por equipamentos científicos, criando uma atmosfera acadêmica reflexiva e inspiradora.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102331771367108608/img/zhYK8aR3asclZ4MU.jpg" width="600" alt="Prompt para Vídeo Educacional de Laboratório de Física Universitária">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=11156)**
+
+**Autor:** [Ayat](https://x.com/aiwithaayat) | **Fonte:** [Link](https://x.com/aiwithaayat/status/2102331859657253174) | **Publicado:** Sep 22, 2026
+
+---
+### Prompt de Vídeo Cinematográfico Aconchegante de Cafeteria
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt para gerar um vídeo cinematográfico e aconchegante mostrando o preparo de café em uma cafeteria moderna, com foco em texturas realistas e iluminação quente para Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Criei este vídeo cinematográfico aconchegante, destacando a bela atmosfera de uma cafeteria moderna. O vídeo começa com uma xícara quente de café sobre uma mesa de mármore, estabelecendo um clima calmo e acolhedor. Planos detalhados capturam o espresso fluindo suavemente da máquina para a xícara. Os ricos detalhes do café, a textura cremosa e a iluminação quente tornam cada cena realista e visualmente atraente. Ao fundo, mostra-se um ambiente vibrante de cafeteria com movimento natural e uma atmosfera relaxante. Movimentos de câmera suaves e ângulos cinematográficos dão vida ao processo de preparo do café. A combinação de iluminação suave, visuais detalhados e a vibe acolhedora da cafeteria cria uma experiência cinematográfica premium. Este vídeo captura a simples beleza dos momentos de café de forma criativa e envolvente.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102329184609812480/img/KOFHaF23Ar17rSF2.jpg" width="600" alt="Prompt de Vídeo Cinematográfico Aconchegante de Cafeteria">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=11155)**
+
+**Autor:** [liana](https://x.com/Lianaalane) | **Fonte:** [Link](https://x.com/Lianaalane/status/2102330407404572896) | **Publicado:** Sep 22, 2026
 
 ---
 ### Prompt de Vídeo Cinematográfico para Mercado Coreano
@@ -5152,256 +5237,6 @@ DETALHAMENTO DAS CENAS (BATIDAS DE 2 SEGUNDOS)
 **Autor:** [𝑨𝒇𝒓𝒊𝒏](https://x.com/afrinxai) | **Fonte:** [Link](https://x.com/afrinxai/status/2097160058446766088) | **Publicado:** Sep 8, 2026
 
 ---
-### Filme Narrativo de Missão de Entrega Xianxia Cinematográfico
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Um prompt de vídeo cinematográfico narrativo complexo e contínuo de várias tomadas, combinando elementos de proteção de mestre de espadas xianxia com um cenário moderno e cotidiano de entrega sob uma forte tempestade, aproveitando os recursos do Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-I. Objetivo da Tarefa
-
-Gerar um curta-metragem realista de qualidade cinematográfica, completo e contínuo, com 15 segundos.
-
-Cenário Geral:
-
-Coreografia de 'missão de escolta' Xianxia de alta tensão colidindo com uma cena extremamente mundana de entrega de comida moderna.
-
-Estética Principal:
-
-Qualidade realista cinematográfica
-A luz ambiente de tempestade azul fria forma um contraste distinto com as luzes quentes da cena real da cidade
-Reflexos no solo molhado, cortinas de chuva volumétricas controladas, efeitos físicos reais
-Comédia deadpan contida
-Os personagens não dependem de fazer papel de bobos para criar humor
-Tratar pequenas coisas da vida moderna como tarefas cavalheirescas heroicas genuínas que devem ser cumpridas
-
-Foco Principal para Aproveitar os Recursos do Seedance 2.0:
-
-Saída contínua de várias tomadas de 15 segundos
-Consistência de referência multimodal
-Movimento estável de sujeitos duplos complexos
-Sincronização audiovisual nativa
-Continuidade estável de adereços e espaço
-
-II. Travamento de Identidade dos Personagens
-
-ID de Personagem A | @Imagem 1 | Irmã Imortal da Espada
-
-Manter consistentemente o mesmo personagem:
-
-Mulher do Leste Asiático de 25 a 30 anos
-Mesmo rosto
-Olhos escuros penetrantes
-Cabelo preto longo e liso
-Estatura alta e esguia
-Grampo de cabelo de jade
-Hanfu de seda bordado branco
-Mangas largas em camadas semitransparentes
-Ornamentos de cintura de prata
-Botas de tecido branco
-Mesma espada longa de prata
-Disposição do Personagem:
-
-Extremamente séria
-Calma e contida
-Trata verdadeiramente a missão de escolta como um grande assunto no mundo das artes marciais
-
-ID de Personagem B | @Imagem 2 | Irmã da Bicicleta
-
-Manter consistentemente o mesmo personagem:
-
-Mulher do Leste Asiático de 25 a 30 anos
-Mesmo rosto
-Rabo de cavalo castanho
-Proporções corporais fixas
-Jaqueta amarela
-Calça jeans azul
-Tênis branco
-Acessórios fixos
-Mesma bicicleta
-Veículo e Adereços:
-
-Uma caixa de entrega isolada rígida está firmemente fixada no bagageiro traseiro da bicicleta
-Dentro da caixa de entrega há apenas um bolo de creme alto e frágil
-O bolo deve permanecer estável e contínuo durante todo o tempo
-A superfície de creme do bolo não deve colapsar, molhar ou inclinar
-
-III. Cena e Continuidade Geral
-
-Todo o filme se passa apenas no mesmo local real da cidade durante uma tempestade, sem troca de local.
-
-Requisitos Ambientais:
-
-A forte tempestade continua ferozmente
-Luz ambiente de noite chuvosa azul fria
-Luzes quentes da cidade como suplementos locais
-Solo molhado, poças, reflexos, luzes à beira da estrada, beirais de edifícios e caminhos urbanos realistas devem existir uniformemente
-A cortina de chuva tem uma sensação de volume e camadas de densidade
-Os reflexos no solo mudam em tempo real com os personagens, bicicletas, luzes e água da chuva
-Salpicos de água reais ocorrem quando as rodas passam por poças
-O fundo está sempre vivo, mas não conduz ativamente a trama
-O ambiente apenas fornece feedback físico realista:
-A chuva continua a cair
-O vento afeta o cabelo, as bainhas das roupas, os punhos e as direções das linhas de chuva
-As rodas pressionando o solo molhado produzem salpicos de água
-O mapeamento de luz no solo molhado e nas carrocerias dos veículos muda continuamente
-
-IV. Estrutura de Três Tomadas
-Tomada 1 | 0–5s
-
-Enquadramento e Posição da Câmera
-Plano geral em ângulo baixo, acompanhamento lento, 24fps, o movimento cinematográfico da câmera é estável com uma sensação de peso
-Conteúdo da Tela
-A chuva forte banha ferozmente o mesmo fundo da cidade. A mesma Irmã da Bicicleta está ao lado da bicicleta, verificando a mesma caixa de entrega. A mesma Irmã Imortal da Espada está de lado, mantendo-se calma e alerta. Dentro da caixa de entrega há apenas o mesmo bolo de creme alto e frágil.
-Performance e Diálogo
-A Irmã da Bicicleta diz rapidamente: 'Três minutos, não pode molhar, não pode inclinar.'
-A mesma Irmã Imortal da Espada saca imediatamente a mesma espada longa de prata, respondendo apenas: 'Eu farei a escolta.'
-Requisitos de Detalhe
-Os movimentos da Irmã da Bicicleta são rápidos como os de uma entregadora experiente. Os movimentos da Irmã Imortal da Espada são limpos, decisivos e sérios. Chuva forte, vento, cabelo, mangas largas, bainhas de jaqueta, tudo reage naturalmente às forças. As luzes quentes da cidade formam reflexos realisticamente alongados no solo molhado. Esta tomada deve fazer com que o público entenda imediatamente o objetivo da missão: proteger o bolo.
-
-Tomada 2 | 5–10s
-Enquadramento e Posição da Câmera
-Plano americano para plano médio, tomada de acompanhamento lateral estável, mantendo a continuidade com a direção de avanço da bicicleta
-Conteúdo da Tela
-A mesma Irmã da Bicicleta pedala rapidamente na mesma tempestade. A mesma Irmã Imortal da Espada, vestindo um Hanfu de seda bordado branco, pisa na mesma espada longa de prata, deslizando lado a lado para escoltar. A Irmã Imortal da Espada libera simultaneamente seis pequenas sombras de espada; elas giram consistentemente em alta velocidade ao redor da bicicleta, formando uma formação protetora móvel.
-Regras da Formação Protetora
-As seis sombras de espada são pequenas em volume e controladas com precisão. Sua função é explícita: responsáveis apenas por cortar a chuva forte acima da bicicleta e da caixa de entrega. A cortina de chuva é dividida para ambos os lados, formando um canal seco estreito, mas estável, acima da bicicleta e do bolo. Sem poluição luminosa exagerada, sem efeitos especiais enormes. A existência das sombras de espada deve parecer uma aplicação prática de uma técnica de controle de espada de alto nível.
-Requisitos de Continuidade
-A posição do bolo é consistente com a tomada anterior. A direção do movimento da bicicleta é contínua com a tomada anterior. A relação espacial do fundo da cidade é contínua. As roupas, penteados e adereços dos personagens são absolutamente estáveis.
-Física e Áudio
-As luzes dos carros formam reflexos fluidos no solo molhado. O salpico das rodas é realista. Cabelos longos, mangas largas de seda, jaquetas e punhos de calças são todos afetados pelo vento e pela velocidade. Zumbidos de espada, ritmos de corrente de bicicleta, sons de chuva e trovões mantêm uma sincronização precisa. As velocidades de movimento das duas pessoas são coordenadas, sem flutuar, sem deslizar como personagens de jogos.
-
-Tomada 3 | 10–15s
-Enquadramento e Posição da Câmera
-Close-up entrando em close-up extremo, a câmera se aproxima de forma estável das reações dos personagens e adereços. O ritmo mantém uma curta pausa silenciosa após a parada.
-Conteúdo da Tela
-As duas correm para uma área coberta e param. A mesma Irmã da Bicicleta abre imediatamente a mesma caixa de entrega. O bolo dentro permanece perfeitamente ereto e estável, a superfície de creme completamente seca, não molhada, não inclinada. Ela claramente solta um suspiro de alívio, então olha para cima apenas para descobrir: a mesma Irmã Imortal da Espada está completamente encharcada da cabeça aos pés. O motivo deve ser claramente legível: agora mesmo, todas as espadas voadoras protegeram consistentemente apenas a caixa de entrega, ela não bloqueou nem uma única gota de chuva para si mesma.
-Diálogo e Reação
-A Irmã da Bicicleta congela, perguntando: 'Por que você não se protegeu?'
-Uma pausa de meio segundo na cena. A Irmã Imortal da Espada limpa a chuva de suas sobrancelhas, respondendo com um tom absolutamente sério: 'Prioridade da missão.'
-A Irmã da Bicicleta permanece em silêncio por dois segundos, entregando-lhe um lenço incrivelmente pequeno do bolso.
-No close-up extremo: A Irmã Imortal da Espada primeiro olha para o lenço, depois olha para a Irmã da Bicicleta, ainda mantendo uma expressão fria, e finalmente o aceita silenciosamente. Este momento forma a resolução cômica de todo o filme.
-
-V. Princípios de Performance
-
-Irmã Imortal da Espada
-Séria e deadpan o tempo todo. Não pode agir de forma fofa intencionalmente. Sem autodepreciação. Ela realmente trata a proteção do bolo como uma missão de alto nível.
-Irmã da Bicicleta
-Realista, rápida, profissional. Uma leve perplexidade e falta de palavras vêm de reações genuínas. O senso de comédia vem de seu contraste natural ao enfrentar a 'lógica guerreira excessivamente séria'.
-Princípio da Comédia
-O ponto de riso só pode vir de: o objetivo da missão é muito comum; a maneira como a Irmã Imortal da Espada lida com a tarefa é muito solene; ela deu todos os recursos de proteção para o bolo; o lenço minúsculo final forma um fechamento leve.
-
-VI. Requisitos Técnicos Uniformes
-Duração total estrita de 15 segundos. Widescreen 16:9, 24fps. Três tomadas limpas. Concluído continuamente no mesmo local. As identidades dos personagens são estáveis, as roupas são estáveis, a bicicleta é estável, o bolo é estável, a espada longa é estável, o número de seis sombras de espada é estável. A sincronização labial em mandarim é precisa. Geração síncrona nativa de sons estéreo de chuva, trovões, salpicos de rodas, sons de corrente, zumbidos de espada e diálogo. Nenhuma legenda na tela é gerada.
-
-VII. Evitação Estrita
-borrado, má qualidade, baixa qualidade, baixa resolução, ruidoso, artefatos jpeg, marca d'água, texto, erro, deformado, mutado, anatomia ruim, mãos mal desenhadas, composição ruim, fora de quadro, desfigurado, personagem inconsistente, troca de roupas, transformação facial, mudança de fundo, cortes com falhas, adereços desaparecendo.
-Proibições Adicionais: Troca de local, transições de morphing de IA, bolo mudando de tamanho repentinamente, caixa de entrega desaparecendo, mudanças estruturais na bicicleta, contagem de espadas voadoras mudando aleatoriamente, poluição luminosa de fantasia excessivamente forte, personagens flutuando/deslizando, cortina de chuva parecendo uma textura 2D, reflexos no solo molhado congelando, comédia exagerada, expressões distorcidas exageradas.
-
-VIII. Objetivo do Efeito Final
-Todo o filme deve parecer um curta-metragem genuinamente filmado: escoltar um bolo em uma tempestade parece visualmente uma missão Xianxia e emocionalmente um negócio sério, finalmente chegando a um ponto de riso deadpan extremamente leve.
-Palavras-chave de Percepção Final: Escolta Xianxia, caminhada noturna na tempestade, excesso de seriedade, prioridade do bolo, humor deadpan, realismo cinematográfico.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097149638088499200/img/e-jY55LtIU3iPxEL.jpg" width="600" alt="Filme Narrativo de Missão de Entrega Xianxia Cinematográfico">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=10511)**
-
-**Autor:** [Soran](https://x.com/Soranlan) | **Fonte:** [Link](https://x.com/Soranlan/status/2097150285303177683) | **Publicado:** Sep 8, 2026
-
----
-### Vídeo de Ficha de Personagem: Alquimista da Floresta
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de múltiplas cenas projetado para criar uma ficha de personagem de uma alquimista da floresta, apresentando cenários florestais atmosféricos com elementos bioluminescentes e ações detalhadas da personagem.
-
-#### 📝 Prompt
-
-```
-Alvorecer em uma floresta antiga e úmida, névoa baixa entre os troncos. A pequena alquimista da floresta se agacha em um tronco caído coberto por fungos, com um capuz feito de toco vivo e cogumelos reais na cabeça. Ela raspa as lamelas do fungo com a ponta do dedo, depois se inclina até que seu rosto quase toque nele; os óculos redondos em formato de frasco brilham em verde contra a casca úmida. Curiosidade fria, absorção total, sem sorriso. (2s)
-- Noite em um riacho de floresta negra, musgo bioluminescente. Seu sapo assistente de campo pula na palma de sua mão aberta. Ela para tudo, gira a mão lentamente para observar o que o animal faz, depois anota no pequeno caderno preso ao seu cinto de espécimes sem desviar o olhar. Trabalhando, não mimando. (2s)
-- Dentro de um toco oco iluminado apenas pelo brilho dos fungos. Ela levanta um frasco de vidro de espécime contra a luz e o gira; uma raiz de samambaia lá dentro ainda brilha levemente. Seu rosto endurece com atenção em vez de deslumbramento, mandíbula firme, olhos semicerrados atrás dos óculos de frasco verdes. (2s)
-- Chuva forte atingindo o chão da floresta. Ela não corre. Ela encolhe os ombros sobre o frasco de espécime, protege-o com todo o corpo e continua caminhando pela lama no mesmo ritmo sem pressa, os cogumelos em seu capuz tremendo sob as gotas. (2s)
-- Uma clareira sob a luz oblíqua da tarde. Ela para de escrever, estende a mão e puxa um carrapato das costas de um pequeno animal com um movimento rápido e sem cerimônia, joga-o fora e volta direto para o caderno. Gentil, não doce; o gesto todo leva um segundo. (2s)
-- Fundo escuro neutro e vazio, sem ambiente. Ela está de volta ao seu visual característico: capuz de toco vivo, capa de musgo, cinto de espécimes. Ela caminha dois passos à frente até o centro do quadro, para, levanta o queixo e olha diretamente para a lente com um meio sorriso seco. Os óculos de frasco brilham em verde, uma luz de contorno destaca sua silhueta e todo o resto desaparece na escuridão. (3s)
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2097135269308743680/pu/img/KTxNtFUAe0x3qBcU.jpg" width="600" alt="Vídeo de Ficha de Personagem: Alquimista da Floresta">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=10508)**
-
-**Autor:** [Borderless 🌐](https://x.com/BorderleSint) | **Fonte:** [Link](https://x.com/BorderleSint/status/2097135299302215772) | **Publicado:** Sep 8, 2026
-
----
-### Coreografia de Street Dance de Idol Feminina
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de geração de vídeo para uma idol feminina performando hip hop em uma sala de ensaio, focado em movimentos fluidos e consistência da personagem a partir de uma imagem de referência.
-
-#### 📝 Prompt
-
-```
-Use a imagem de referência para a personagem. Uma idol feminina está em uma sala de ensaio de dança, vestindo uma regata branca com uma jaqueta Adidas preta, calça cargo e um boné preto, performando uma coreografia de hip hop. Os movimentos devem ser relativamente complexos, mas ainda parecer casuais, naturais e descontraídos, com controle natural das expressões faciais.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097105569165578240/img/ScZbPkzrveqjZtr-.jpg" width="600" alt="Coreografia de Street Dance de Idol Feminina">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=10509)**
-
-**Autor:** [Shinning](https://x.com/Shinning1010) | **Fonte:** [Link](https://x.com/Shinning1010/status/2097106940501639234) | **Publicado:** Sep 7, 2026
-
----
-### Vídeo caseiro da Era Showa de 1984
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Este prompt recria a estética nostálgica dos vídeos caseiros dos anos 80, exibindo um grupo de crianças brincando em um parque de um complexo habitacional japonês com detalhes realistas da época.
-
-#### 📝 Prompt
-
-```
-[Visão Geral] Final de tarde com um menino de 8 anos brincando de "chuta a lata" no parque de um conjunto habitacional em 1984. Um pai grava à distância, sem falar, usando uma câmera de vídeo caseira recém-comprada. 480p, 16:9, 15 segundos. 7 cortes (aprox. 2s cada) de cortes secos, todos em locais diferentes. Sem transições ou desvanecimentos. O sujeito não faz nada em direção à câmera: sem contato visual, sem mostrar objetos, sem acenar, sem posar. Imerso na brincadeira. Fragmentos da vida cotidiana, não atuação. Sem conversas, diálogos ou narração.
-
-[Sujeito] Definição de Beleza: Um menino japonês fofo o suficiente para ser escalado como ator mirim. O rosto imerso na brincadeira é o melhor. Rosto: Cabelo preto curto, sobrancelhas retas e grossas, olhos grandes e claros com pálpebra dupla, pele bronzeada pelo sol (textura realista), um curativo na ponta do nariz, um dente da frente nascendo com uma falha. Vestuário (roupa do dia a dia): Regata branca (gola levemente esticada), shorts azuis, tênis de borracha brancos (dedos sujos), uma toalha tenugui ao redor do pescoço. Hábito: Balança os braços amplamente ao correr, não para mesmo se quase tropeçar. Rosto, cabelo e roupas são completamente idênticos em todas as tomadas.
-
-[Personagens] 3 colegas de brincadeira: Uma menina com corte chanel e saia vermelha, um menino levemente gordinho com boné de beisebol, um menino magro com óculos de aro preto. Todos bronzeados, usando tênis. Ninguém olha para a câmera. Mãe: Pequena, ao longe, em uma varanda na 7ª tomada (rosto indistinguível).
-
-[Época, Local, Luz] Conjunto habitacional no verão de 1984. 1. Escadas externas do conjunto (luz branca da tarde) 2. Ao lado da caixa de areia do parque (Chuta a lata: jogo onde o "pegador" guarda uma lata no chão enquanto as crianças escondidas correm para chutá-la. A lata é prateada, simples e sem texto) 3. Dentro de um tubo de concreto no parque 4. Topo do trepa-trepa (céu azul) 5. Bebedouro do parque (luz na água espirrando) 6. Sombra sob a torre de água 7. Estrada do conjunto ao pôr do sol (longas sombras alaranjadas). Sem placas ou textos na tela.
-
-[Câmera] Textura de câmera de vídeo caseira de 1984: cores sangrando, baixa resolução, céus brilhantes estourados, contornos suaves. Sem exibição de data. Montada no ombro, portátil, tremor natural, composição imperfeita, busca de foco, flutuações de exposição. Distância de 3 a 6 metros do sujeito. O sujeito ignora a câmera. Sem estabilização, gimbal, drone, câmera lenta, iluminação cinematográfica ou correção de cor comercial. A câmera está sempre na altura dos olhos de quem filma (em pé, sentado, agachado, andando). Sem ângulos impossíveis (ar, água, teto, etc.). Como uma pessoa presente, quem filma segue o movimento com um leve atraso e a composição é, às vezes, solta.
-
-[Tomadas] (Aprox. 2s cada. Cada linha = Local/Luz / Atividade / Emoção interna e pequeno gesto revelador / Posição da câmera)
-1. Escadas do conjunto, tarde. Descendo correndo, pulando degraus, quase tropeçando no último, continua correndo. Emoção: Quer brincar logo. Olhando apenas para frente. Câmera: Olhando de baixo para cima, da base das escadas.
-2. Ao lado da caixa de areia. Colocando a lata no chão, fixando-a com o pé, cobrindo os olhos com as duas mãos. Emoção: Leva a sério o papel de "pegador". Boca fechada. Amigos se espalham. Câmera: De lado, crianças correndo ao fundo.
-3. Dentro do tubo. Rosto aparecendo pela metade na escuridão, prendendo a respiração, movendo apenas os olhos. Emoção: Empolgado por quase ser encontrado. Câmera: Espiando de fora para dentro do tubo.
-4. Topo do trepa-trepa, céu azul. Em pé no topo, apontando para um amigo distante. Emoção: Triunfante. Peito estufado, boca bem aberta (sem som). Câmera: Olhando para cima, céu estourado.
-5. Bebedouro. Abrindo a torneira para molhar a cabeça, sacudindo-a como um cachorro. Emoção: Sensação boa. Sorrindo com os olhos fechados. Câmera: O pai se aproxima, a água espirra na lente, uma pequena risada escapa dele.
-6. Sombra sob a torre de água. Sentado com os amigos, encarando um arranhão no joelho, cutucando-o com o dedo. Emoção: Cansado e satisfeito. Ombros caídos. Câmera: De lado, levemente distante.
-7. Estrada do conjunto ao pôr do sol. Notando a mãe na varanda distante, começa a correr relutantemente. A silhueta desaparece na sombra da entrada do conjunto. Emoção: Não quer ir para casa, mas vai. Câmera: Parada no meio da estrada, observando as costas que se afastam. Por volta de 00:14, a gravação corta subitamente para o preto. Sem desvanecimento.
-
-[Detalhes dos Itens] A lata é prateada, simples e amassada. Os tênis têm as pontas sujas de terra. O tenugui é branco com padrões índigo. O curativo é da cor da pele. O bebedouro é um bloco de concreto quadrado com uma torneira de metal. O tubo é de concreto cinza, sem pichações por dentro.
-
-[Proibição de Texto] Nenhum texto legível, logotipos, placas, etiquetas ou números. A lata é simples.
-
-[Física/Consistência] Física do mundo real. Sem dedos extras, mãos fundidas, anatomia distorcida. Pés no chão. Curativo, regata e roupas dos amigos são os mesmos em todas as tomadas.
-
-[Som] Apenas sons ambientes naturais: cigarras, passos nas escadas, som da lata, vozes distantes de crianças (risadas/passos, sem palavras legíveis), som do bebedouro, vento na torre de água, corvos ao entardecer. Sem palavras. Pequenas risadas/respiração ocasionais de quem filma e do sujeito são permitidas. Sem música. Sem narração. Sem efeitos sonoros artificiais.
-
-[Atmosfera] Um registro de um dia comum para uma criança em um conjunto habitacional da era Showa que faz os adultos pensarem "houve uma tarde como esta". Não é atuação, mas fragmentos de uma brincadeira imersiva. Nostálgico, brilhante e profundamente humano. Priorize a sensação de que a câmera simplesmente estava lá por acaso.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094095520038027264/img/M97-yPhrbh-yljjP.jpg" width="600" alt="Vídeo caseiro da Era Showa de 1984">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/seedance-2-0-prompts?id=10512)**
-
-**Autor:** [妖精アーヤ](https://x.com/aiehon_aya) | **Fonte:** [Link](https://x.com/aiehon_aya/status/2097082482306720232) | **Publicado:** Sep 7, 2026
-
----
 ---
 
 ## 📚 Mais prompts disponíveis
@@ -5463,6 +5298,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-09-23T03:49:44.149Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-09-24T03:40:26.584Z</sub>
 
 </div>

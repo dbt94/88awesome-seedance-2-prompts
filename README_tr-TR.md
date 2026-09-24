@@ -68,9 +68,9 @@ Neden galerimizi kullanmalısınız?
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **6411** |
+| 📝 Toplam İstem | **6415** |
 | ⭐ Öne Çıkan İstemler | **6** |
-| 🔄 Son Güncelleme | **2026-09-23** |
+| 🔄 Son Güncelleme | **2026-09-24** |
 
 ---
 
@@ -361,36 +361,121 @@ Ultra gerçekçi, Hızlı ve Öfkeli esintili enerji, fotogerçekçi aydınlatma
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
-### Yağmurlu Veranda Sinematik Sekans İstemi
+### Romantik Kıyı Kasabası Aşk Hikayesi İstem Metni
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> Şapkasını düzeltme, kulaklık takma ve elma yeme gibi spesifik eylemleri içeren, yoğun yağmur altında verandada duran bir kadının sinematik video sekansı için son derece detaylı istem.
+> Seedance 2.0 için, altın saatte bir kıyı kasabasında Koreli bir kız ve erkeğin romantik ilk karşılaşmasını tasvir eden sinematik video istem metni.
 
 #### 📝 İstem
 
 ```
-Yoğun yağmur altında, havalı ahşap bir verandanın altında duran genç Doğu Asyalı bir kadının sinematik yakın-orta plan çekimi. Islak siyah beyzbol şapkası, hafif şeffaf ıslak beyaz bol kesim tişörtü ve omzunda bej bir bez çanta askısı var. Koyu saçları dağınık bir topuz yapılmış; ıslak tutamlar yüzüne ve boynuna yapışmış. Kulaklarında beyaz kablolu kulaklıklar bulunuyor.
-
-Paslı metal oluktan düzenli olarak akan yağmur suyu, dalgalı çatıdan damlıyor. Arka planda yemyeşil orman ve sisli dağlar silikleşiyor. Yumuşak doğal ışıklandırma, soğuk turkuaz-yeşil renk tonu, sığ alan derinliği, filmik gren dokusu, melankolik ve sessiz atmosfer.
-
-Sekans:
-- Aşağıya bakar, ardından yavaşça elini kaldırıp ıslak şapkasını düzeltir.
-- Beyaz kulaklıklarını çıkarır ve tek tek takar.
-- Ahşap direğe yaslanıp dışarıdaki yağmura dalar.
-- Elini düşen yağmurun altına uzatır, damlaların avucuna vuruşunu izler.
-- Yakın plan: Beyaz bir bezle parlak kırmızı bir elmayı siler.
-- Elmaya büyük bir ısırık alır, suyu dudaklarından ve çenesinden akar.
-- Yağmur devam ederken, sakince ve biraz uzaklaşmış bir ifadeyle yan tarafa bakarak yavaşça çiğner.
-
-Ultra gerçekçi, 35mm film görünümü, yüzünde ve şapkasında yağmur damlalarıyla doğal cilt dokusu, ıslak kumaş detayları, makyajsız, sessiz yağmurlu gün havası.
+Uzun, düz siyah saçlı güzel bir Koreli kız, altın saatte huzurlu bir Kore kıyı kasabasında yürüyor; şık bej bir trençkot giyiyor ve elinde çantası var. Koyu renk deri ceketli yakışıklı bir Koreli erkek, eski model bir tramvay geçerken demiryolu geçidinin yanında duruyor. Kız, yüzünde parlayan sıcak güneş ışığıyla deniz kenarı sokaktan yavaşça ona doğru yaklaşıyor. Sinematik kamera hareketleri, doğal yürüyüş ritmi, gerçekçi yüz ifadeleri, yumuşak okyanus esintisi ve detaylı Kore sokak manzaraları. İlk göz temasını nazik bir romantik atmosfer, sığ alan derinliği, sıcak renk düzenlemesi ve fotogerçekçi kaliteyle yakalayın. Pürüzsüz geçişler, doğal aydınlatma ve duygusal hikaye anlatımıyla 15 saniyelik güzel bir sinematik aşk hikayesi oluşturun.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102269103058960384/img/8INOQXR20vXAFwWT.jpg" width="600" alt="Yağmurlu Veranda Sinematik Sekans İstemi">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102607613376811008/img/f7CrIsdVKZtqZhPE.jpg" width="600" alt="Romantik Kıyı Kasabası Aşk Hikayesi İstem Metni">
 
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11107)**
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11153)**
 
-**Yazar:** [Elisia](https://x.com/AiwithElisia) | **Kaynak:** [Link](https://x.com/AiwithElisia/status/2102269278489903244) | **Yayınlandı:** Sep 22, 2026
+**Yazar:** [Ayat](https://x.com/aiwithaayat) | **Kaynak:** [Link](https://x.com/aiwithaayat/status/2102607673501892691) | **Yayınlandı:** Sep 23, 2026
+
+---
+### 2000'lerin Başında Ev Videosu Tarzı İstem
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Seedance 2.0 için, yağmurlu bir pencereyle etkileşime giren ve uyanan bir Koreli kadının lo-fi, 2000'lerin başındaki Sony MiniDV tarzı ev videosunu oluşturmak üzere tasarlanmış son derece detaylı istem.
+
+#### 📝 İstem
+
+```
+Ana Özne: Genç Koreli kadın, 24 yaşında, doğal çekici, gerçekçi cilt, minimal makyaj, uzun koyu saçlar gevşekçe açık. Bol kesim bordo kapüşonlu sweatshirt ve rahat geniş pantolon giyiyor. Kimliğini, yüz hatlarını, saç stilini, vücut oranlarını ve görünümünü baştan sona tam olarak koruyun.
+
+Konum: Küçük, eski bir Seul apartmanı; karanlık, yağmurlu bir sabahın erken saatleri. Bulanıklaşmış komşu apartman binalarına, ıslak çatılara ve soluk şehir ışıklarına bakan, yağmur damlalarıyla kaplı büyük bir yatak odası penceresi. Basit ahşap mobilyalar, küçük bir komodin ve sessiz, yaşanmış hissi veren bir yatak odası.
+
+Işıklandırma & Atmosfer: Derin, sabahın erken saatlerindeki mavi saat ambiyansı. Yağmurlu pencereden gelen soğuk mavi-gri ışık ve komodindeki lambadan yayılan çok zayıf sıcak parıltı. Karanlık bulutlu gökyüzü, soluk renkler, yumuşak gölgeler, hafif düşük pozlanmış iç mekan ve huzurlu, uykulu bir atmosfer.
+
+Stil: Başka biri tarafından elde tutulan bir video kamera ile çekilmiş, ultra gerçekçi, 2000'lerin başındaki Sony MiniDV ev videosu. Tamamen samimi ve sahnelenmemiş. Doğal el hareketleri, ince insan titremesi, kusurlu çerçeveleme, nazik yeniden çerçeveleme, zaman zaman otomatik odaklama arayışı, hafif pozlama kaymaları, solmuş renkler, yumuşak kontrast, otantik DV sıkıştırması, ince düşük ışıklı dijital gürültü ve mikrofon gürültüsü. Baştan sona pürüzsüz, sürekli gerçek zamanlı hareket. Takılma, titreme, kare atlama, tekrarlayan kareler, stop-motion görünümü, aşırı hareket bulanıklığı, hız değişiklikleri veya düşük kare hızı görünümü yok. Stabilizasyon veya modern sinematik hareket yok.
+
+00:00–00:03 — UYANMA PENCERESİ: Yatak odası penceresine doğru yavaşça yürüyor, hala uykulu ve perdeyi nazikçe kenara çekiyor. Karanlık, yağmurlu Seul sabahı ortaya çıkıyor.
+
+00:03–00:06 — YOĞUŞMA: Camın yoğuşmayla kaplandığını fark ediyor. Bir parmağını kaldırıyor ve buğulu camda yavaşça küçük şeffaf bir alan siliyor.
+
+00:06–00:09 — KÜÇÜK ÇİZİM: Dalgınlıkla parmak ucuyla yoğuşmanın üzerine küçük, basit bir gülümseyen yüz çiziyor. Hafif eğlenceli bir gülümsemeyle ona bir an bakıyor.
+
+00:09–00:12 — YAĞMUR: Temizlenen bölüme daha yakın eğiliyor ve camdan aşağı akan yağmur damlalarını izliyor. Kamera yavaşça yaklaşıyor, arkadaki bulanık Seul binalarını yakalıyor.
+
+00:12–00:15 — SESSİZ AN: Alnını serin cama bir anlığına hafifçe dayıyor, yağmuru dinliyor. Kamera yavaşça yağmurlu manzaraya doğru süzülüp kesilirken küçük, huzurlu bir gülümseme veriyor.
+
+Ses: Sadece doğal mekan sesi—pencereye vuran düzenli yağmur, ince rüzgar, uzaktan trafik, hafif oda ambiyansı, yumuşak ayak sesleri ve sessiz kumaş hışırtısı. Müzik yok, efekt yok.
+
+Hareket Kalitesi: Gerçekçi, akıcı, kesintisiz hareket. Yapay veya robotik hareket yok. Doğal insan hareketi korunmalı.
+
+Genel Not: Video, nostaljik, melankolik ve huzurlu bir his vermeli. Lo-fi estetik ön planda olmalı.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102471023140761600/img/VEaSlLn6iLvgftCa.jpg" width="600" alt="2000'lerin Başında Ev Videosu Tarzı İstem">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11157)**
+
+**Yazar:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Kaynak:** [Link](https://x.com/iamahmedfaraz66/status/2102606380863472099) | **Yayınlandı:** Sep 23, 2026
+
+---
+### Gökdelen İçinden Düşen Anime Kız Promptu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gelecekteki bir gökdelenden düşen ve sinematik efektlerle güçlü bir uçan varlığa dönüşen anime tarzı bir kızı içeren, Seedance 2.0 için dinamik bir video promptu.
+
+#### 📝 İstem
+
+```
+Gece vakti, yansımalar, ışıklar ve yoğun hareket bulanıklığıyla çevrili, pembe saçlı anime tarzı bir kızın gelecekteki cam bir gökdelenden düştüğü dramatik bir tepeden çekim oluşturun. Kamera hızla döner ve onun inişini takip eder, ardından sakin ve gizemli göründüğü karanlık bir yakın çekime geçiş yapar. Pembe kıyafetinin, sıkılmış elinin ve uçuşan saçlarının detaylı çekimlerini gösterin. Sinematik aydınlatma ve derin gölgelerle gerilimi artırın, ardından altın parlayan gözleri, saçlarında esen rüzgar, parlak sıcak ışık ve arkasında kanat benzeri enerjiyle kameraya doğru ileriye uçtuğu güçlü bir final çekimine geçiş yapın. Ultra detaylı 3D anime sinematik stili, gerçekçi hareket, akıcı kamera hareketi, dramatik alan derinliği, yüksek kaliteli aydınlatma, dinamik aksiyon, tutarlı karakter tasarımı, epik sinematik atmosfer.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102572803275014144/img/XeqJhRczWJCHRoVl.jpg" width="600" alt="Gökdelen İçinden Düşen Anime Kız Promptu">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11154)**
+
+**Yazar:** [Maha](https://x.com/Aiwithmaha) | **Kaynak:** [Link](https://x.com/Aiwithmaha/status/2102572922674225517) | **Yayınlandı:** Sep 23, 2026
+
+---
+### Üniversite Fizik Laboratuvarı Eğitim Videosu İstem Metni
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Seedance 2.0 kullanılarak bir üniversite fizik laboratuvarında, profesör ve öğrencilerle yerçekimi ve ivmeyi gösteren gerçekçi bir eğitim videosu oluşturmak için detaylı istem metni.
+
+#### 📝 İstem
+
+```
+Modern bir üniversite fizik laboratuvarında geçen sinematik ve gerçekçi bir eğitim videosu oluşturun. Kendinden emin erkek bir fizik profesörü, elinde bir kahve fincanı ve defterle sınıfa girerken, öğrenciler büyük bir amfide dikkatle oturuyor. Sahne daha sonra, profesörün ve bir grup öğrencinin şeffaf eğimli bir rayın etrafında toplandığı uygulamalı bir fizik deneyine geçiş yapar. Küçük metalik bir top raya dikkatlice yerleştirilir; bu da hareket, yerçekimi, ivme ve enerji konularının net bir görsel demosunu sunar. Şeffaf rayın, metal topun, yakından gözlemleyen öğrencilerin ve doğal el hareketleriyle deneyi yöneten profesörün detaylı yakın çekimlerini gösterin. Deneyi ilgi çekici ve inandırıcı kılmak için akıcı kamera hareketleri, gerçekçi alan derinliği, doğal yüz ifadeleri ve otantik sınıf etkileşimleri kullanın. Geniş pencerelerden giren sıcak güneş ışığı ve yumuşak iç aydınlatma ile sinematik laboratuvar ışıklandırması ekleyin. Profesörün altın saat ışığında, bilimsel ekipmanlarla çevrili bir laboratuvar masasında çalıştığı, düşündürücü ve ilham verici akademik bir atmosfer yaratan bir sahneyle bitirin.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102331771367108608/img/zhYK8aR3asclZ4MU.jpg" width="600" alt="Üniversite Fizik Laboratuvarı Eğitim Videosu İstem Metni">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11156)**
+
+**Yazar:** [Ayat](https://x.com/aiwithaayat) | **Kaynak:** [Link](https://x.com/aiwithaayat/status/2102331859657253174) | **Yayınlandı:** Sep 22, 2026
+
+---
+### Sıcak Sinematik Kahve Dükkanı Video İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Seedance 2.0 için gerçekçi dokular ve sıcak aydınlatmaya odaklanan, modern bir kafede kahve hazırlanışını gösteren sıcak ve sinematik bir video oluşturmak için istem.
+
+#### 📝 İstem
+
+```
+Modern bir kafenin güzel atmosferini öne çıkaran bu sıcak sinematik kahve videosunu oluşturdum. Video, sakin ve davetkar bir ruh hali yaratan mermer masaya konmuş sıcak bir fincan kahve ile başlıyor. Yakın çekimler, espresso'nun kahve makinesinden fincana akıcı şekilde dökülüşünü yakalıyor. Zengin kahve detayları, kremamsı doku ve sıcak aydınlatma her sahneyi gerçekçi ve görsel olarak çekici kılıyor. Arka plan, doğal hareketler ve rahatlatıcı bir atmosferle canlı bir kafe ortamını gösteriyor. Akıcı kamera hareketleri ve sinematik açılar, kahve yapım sürecine hayat veriyor. Yumuşak ışıklandırma, detaylı görseller ve ambiyanslı kafe havasının kombinasyonu premium bir sinematik deneyim yaratıyor. Bu video, kahve anlarının basit güzelliğini yaratıcı ve ilgi çekici bir şekilde yansıtıyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102329184609812480/img/KOFHaF23Ar17rSF2.jpg" width="600" alt="Sıcak Sinematik Kahve Dükkanı Video İstemi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11155)**
+
+**Yazar:** [liana](https://x.com/Lianaalane) | **Kaynak:** [Link](https://x.com/Lianaalane/status/2102330407404572896) | **Yayınlandı:** Sep 22, 2026
 
 ---
 ### Kore Pazar Yeri Sinematik Video İstemi
@@ -5160,256 +5245,6 @@ SAHNE DÖKÜMÜ (2 SANİYELİK BÖLÜMLER)
 **Yazar:** [𝑨𝒇𝒓𝒊𝒏](https://x.com/afrinxai) | **Kaynak:** [Link](https://x.com/afrinxai/status/2097160058446766088) | **Yayınlandı:** Sep 8, 2026
 
 ---
-### Sinematik Xianxia Teslimat Görevi Kısa Filmi
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Seedance 2.0 yeteneklerinden yararlanarak, şiddetli yağmur fırtınası altında modern bir günlük yemek teslimatı ortamıyla xianxia kılıç ustası koruma unsurlarını birleştiren, karmaşık ve sürekli çok çekimli bir anlatı sinematik video istemi.
-
-#### 📝 İstem
-
-```
-I. Görev Hedefi
-
-15 saniyelik, sinematik kalitede, gerçekçi ve kesintisiz bir kısa film oluşturun.
-
-Genel Ortam:
-
-Yüksek gerilimli Xianxia 'eskort görevi' koreografisinin, son derece sıradan bir modern yemek teslimatı sahnesiyle çarpışması.
-
-Temel Estetik:
-
-Sinematik gerçekçi kalite
-Soğuk mavi yağmur fırtınası ortam ışığı ile sıcak şehir gerçek sahne ışıkları arasında belirgin bir kontrast
-Islak zemin yansımaları, kontrollü hacimsel yağmur perdeleri, gerçek fiziksel efektler
-Ölçülü ve ciddi bir mizah (deadpan comedy)
-Karakterler mizah yaratmak için kendilerini küçük düşürmezler
-Modern hayattaki küçük şeyleri, başarılması gereken gerçek bir kahramanlık ve şövalyelik görevi olarak ele alın
-
-Seedance 2.0 Yeteneklerinden Yararlanmak İçin Temel Odak Noktaları:
-
-15 saniyelik çok çekimli kesintisiz çıktı
-Çok modlu referans tutarlılığı
-Karmaşık çift karakterin istikrarlı hareketi
-Doğal görsel-işitsel senkronizasyon
-Donanım ve mekanın istikrarlı sürekliliği
-
-II. Karakter Kimliği Kilitleme
-
-Karakter ID A | @Görsel 1 | Kılıç Ölümsüzü Kız Kardeş
-
-Karakteri tutarlı bir şekilde koruyun:
-
-25–30 yaşlarında Doğu Asyalı kadın
-Aynı yüz
-Keskin koyu gözler
-Siyah uzun düz saç
-Uzun ve ince yapılı
-Yeşim saç tokası
-Beyaz işlemeli ipek Hanfu
-Yarı şeffaf katmanlı geniş kollar
-Gümüş bel süsleri
-Beyaz bez botlar
-Aynı gümüş uzun kılıç
-Karakter Mizaç:
-
-Son derece ciddi
-Sakin ve ölçülü
-Eskort görevini gerçekten dövüş sanatları dünyasında büyük bir mesele olarak görüyor
-
-Karakter ID B | @Görsel 2 | Bisikletli Kız Kardeş
-
-Karakteri tutarlı bir şekilde koruyun:
-
-25–30 yaşlarında Doğu Asyalı kadın
-Aynı yüz
-Kahverengi at kuyruğu
-Sabit vücut oranları
-Sarı ceket
-Mavi kot pantolon
-Beyaz spor ayakkabılar
-Sabit aksesuarlar
-Aynı bisiklet
-Araç ve Donanımlar:
-
-Bisikletin arka rafına sıkıca sabitlenmiş sert bir yalıtımlı teslimat kutusu
-Teslimat kutusunun içinde sadece tek bir uzun ve kırılgan krema pasta var
-Pasta boyunca sabit ve kesintisiz kalmalı
-Pastanın krema yüzeyi çökmemeli, ıslanmamalı veya eğilmemeli
-
-III. Sahne ve Genel Süreklilik
-
-Filmin tamamı sadece aynı gerçek şehir konumunda, bir yağmur fırtınasında geçer; konum değişikliği yoktur.
-
-Çevresel Gereksinimler:
-
-Şiddetli yağmur fırtınası şiddetle devam ediyor
-Soğuk mavi yağmurlu gece ortam ışığı
-Yerel takviye olarak sıcak şehir ışıkları
-Islak zemin, su birikintileri, yansımalar, yol kenarı ışıkları, bina saçakları ve gerçekçi şehir yolları tutarlı bir şekilde mevcut olmalı
-Yağmur perdesi hacim ve yoğunluk katmanına sahip
-Zemin yansımaları karakterler, bisikletler, ışıklar ve yağmur suyu ile gerçek zamanlı olarak değişir
-Tekerlekler su birikintilerinden geçerken gerçek su sıçramaları oluşur
-Arka plan her zaman canlıdır ancak olay örgüsünü aktif olarak yönlendirmez
-Çevre sadece gerçekçi fiziksel geri bildirim sağlar:
-Yağmur yağmaya devam eder
-Rüzgar saçları, giysi eteklerini, manşetleri ve yağmur çizgisi yönlerini etkiler
-Islak zeminde ilerleyen tekerlekler su sıçramalarına neden olur
-Islak zemin ve araç gövdelerindeki ışık haritalaması sürekli değişir
-
-IV. Üç Çekimli Yapı
-Çekim 1 | 0–5 sn
-
-Çerçeveleme ve Kamera Konumu
-Alçak açılı tam çekim, yavaş takip, 24fps, sinematik kamera hareketi ağırlık hissi ile sabit
-Ekran İçeriği
-Şiddetli yağmur, aynı şehir arka planını şiddetle yıkar. Aynı Bisikletli Kız Kardeş bisikletin yanında durmuş, aynı teslimat kutusunu kontrol etmektedir. Aynı Kılıç Ölümsüzü Kız Kardeş kenarda durmuş, sakin ve tetikte beklemektedir. Teslimat kutusunun içinde sadece aynı uzun ve kırılgan krema pasta vardır.
-Performans ve Diyalog
-Bisikletli Kız Kardeş hızlıca şöyle der: 'Üç dakika, ıslanmamalı, eğilmemeli.'
-Aynı Kılıç Ölümsüzü Kız Kardeş hemen aynı gümüş uzun kılıcı çeker ve sadece şu yanıtı verir: 'Eskortluk edeceğim.'
-Detay Gereksinimleri
-Bisikletli Kız Kardeş'in hareketleri deneyimli bir kurye gibi hızlıdır. Kılıç Ölümsüzü Kız Kardeş'in hareketleri temiz, kararlı ve ciddidir. Şiddetli yağmur, rüzgar, saçlar, geniş kollar, ceket etekleri doğal olarak kuvvetlere tepki verir. Sıcak şehir ışıkları ıslak zeminde gerçekçi bir şekilde uzayan yansımalar oluşturur. Bu çekim, izleyicinin görev hedefini hemen anlamasını sağlamalıdır: pastayı korumak.
-
-Çekim 2 | 5–10 sn
-Çerçeveleme ve Kamera Konumu
-Cowboy çekimden orta çekime, yan sabit takip çekimi, bisikletin ileri yönüyle sürekliliği koruyarak
-Ekran İçeriği
-Aynı Bisikletli Kız Kardeş aynı yağmur fırtınasında hızla sürer. Beyaz işlemeli ipek Hanfu giyen aynı Kılıç Ölümsüzü Kız Kardeş, aynı gümüş uzun kılıcın üzerine basarak, eskortluk etmek için yan yana süzülür. Kılıç Ölümsüzü Kız Kardeş aynı anda altı küçük kılıç gölgesi serbest bırakır; bunlar bisikletin etrafında yüksek hızla dönerek hareketli bir koruma formasyonu oluşturur.
-Koruma Formasyonu Kuralları
-Altı kılıç gölgesi hacim olarak küçüktür ve hassas bir şekilde kontrol edilir. İşlevleri açıktır: sadece bisikletin ve teslimat kutusunun üzerindeki şiddetli yağmuru kesmekten sorumludurlar. Yağmur perdesi iki yana ayrılarak bisikletin ve pastanın üzerinde dar ama sabit kuru bir kanal oluşturur. Abartılı ışık kirliliği yok, büyük özel efektler yok. Kılıç gölgelerinin varlığı, üst düzey kılıç kontrol tekniğinin pratik bir uygulaması gibi hissedilmelidir.
-Süreklilik Gereksinimleri
-Pasta konumu önceki çekimle tutarlıdır. Bisiklet hareket yönü önceki çekimle süreklidir. Şehir arka planının mekansal ilişkisi süreklidir. Karakter kıyafetleri, saç modelleri ve donanımlar kesinlikle sabittir.
-Fizik ve Ses
-Araba ışıkları ıslak zeminde akışkan yansımalar oluşturur. Tekerlek sıçraması gerçekçidir. Uzun saç, ipek geniş kollar, ceketler ve pantolon manşetleri rüzgardan ve hızdan etkilenir. Kılıç vızıltıları, bisiklet zinciri ritimleri, yağmur sesleri ve gök gürültüsü hassas bir senkronizasyonu korur. İki kişinin hareket hızları koordinelidir, havada süzülme veya oyun karakteri gibi kayma yoktur.
-
-Çekim 3 | 10–15 sn
-Çerçeveleme ve Kamera Konumu
-Yakın çekimden aşırı yakın çekime geçiş, kamera karakter ve donanım tepkilerine sabit bir şekilde yaklaşır. Ritim, durduktan sonra kısa ve sessiz bir duraklama içerir.
-Ekran İçeriği
-İkili korunaklı bir alana dalar ve durur. Aynı Bisikletli Kız Kardeş hemen aynı teslimat kutusunu açar. İçindeki pasta mükemmel bir şekilde dik ve sabit kalmıştır, krema yüzeyi tamamen kurudur, ıslanmamış veya eğilmemiştir. Rahat bir nefes alır, sonra yukarı bakar ve şunu görür: aynı Kılıç Ölümsüzü Kız Kardeş baştan aşağı tamamen sırılsıklam olmuştur. Nedeni açıkça okunabilir: az önce tüm uçan kılıçlar sadece teslimat kutusunu korumuş, kendisi için tek bir damla yağmuru bile engellememiştir.
-Diyalog ve Tepki
-Bisikletli Kız Kardeş donar ve sorar: 'Neden kendini korumadın?'
-Sahne üzerinde yarım saniyelik bir duraklama. Kılıç Ölümsüzü Kız Kardeş kaşlarındaki yağmuru siler ve kesinlikle ciddi bir tonla yanıt verir: 'Görev önceliği.'
-Bisikletli Kız Kardeş iki saniye sessiz kalır, cebinden inanılmaz derecede küçük bir peçete uzatır.
-Aşırı yakın çekimde: Kılıç Ölümsüzü Kız Kardeş önce peçeteye bakar, sonra Bisikletli Kız Kardeş'e bakar, hala soğuk ifadesini korur ve sonunda sessizce kabul eder. Bu an, tüm filmin komedi çözümünü oluşturur.
-
-V. Performans İlkeleri
-
-Kılıç Ölümsüzü Kız Kardeş
-Baştan sona ciddi ve ifadesiz. Kasıtlı olarak şirin davranamaz. Kendini küçümseme yok. Pastayı korumayı gerçekten yüksek profilli bir görev olarak görüyor.
-Bisikletli Kız Kardeş
-Gerçekçi, hızlı, profesyonel. Hafif şaşkınlık ve nutku tutulma, gerçek tepkilerden gelir. Komedi duygusu, 'aşırı ciddi savaşçı mantığı' ile karşılaştığındaki doğal kontrastından kaynaklanır.
-Komedi İlkesi
-Kahkaha noktası sadece şunlardan gelebilir: görev hedefi çok sıradan; Kılıç Ölümsüzü Kız Kardeş'in görevi ele alış biçimi çok ciddi; tüm koruma kaynaklarını pastaya verdi; son küçük peçete hafif bir kapanış oluşturuyor.
-
-VI. Tek Tip Teknik Gereksinimler
-15 saniyelik kesin toplam süre. 16:9 geniş ekran, 24fps. Üç temiz çekim. Aynı konumda kesintisiz tamamlandı. Karakter kimlikleri sabit, kıyafetler sabit, bisiklet sabit, pasta sabit, uzun kılıç sabit, altı kılıç gölgesi sayısı sabit. Mandarin dudak senkronizasyonu doğru. Stereo yağmur sesleri, gök gürültüsü, tekerlek sıçraması, zincir sesleri, kılıç vızıltıları ve diyaloğun doğal eşzamanlı üretimi. Ekranda altyazı oluşturulmaz.
-
-VII. Kesin Kaçınılması Gerekenler
-bulanık, kötü kalite, düşük kalite, düşük çözünürlük, gürültülü, jpeg artefaktları, filigran, metin, hata, deforme, mutasyona uğramış, kötü anatomi, kötü çizilmiş eller, kötü kompozisyon, çerçeve dışı, şekli bozulmuş, tutarsız karakter, değişen kıyafetler, yüz morflama, arka plan kayması, aksak kesimler, kaybolan donanımlar.
-Ek Yasaklar: Konum değiştirme, AI morf geçişleri, pastanın aniden boyut değiştirmesi, teslimat kutusunun kaybolması, bisiklet yapısal değişiklikleri, uçan kılıç sayısının rastgele değişmesi, aşırı güçlü fantezi ışık kirliliği, karakterlerin havada süzülmesi/kayması, yağmur perdesinin 2D doku gibi görünmesi, ıslak zemin yansımalarının donması, aşırı oyunculuk içeren komedi, abartılı bozuk ifadeler.
-
-VIII. Nihai Etki Hedefi
-Filmin tamamı, gerçekten çekilmiş bir kısa film gibi hissettirmelidir: yağmur fırtınasında pasta taşımak görsel olarak bir Xianxia görevi gibi, duygusal olarak ise ciddi bir iş gibi görünmeli ve sonunda son derece hafif, ifadesiz bir kahkaha noktasına ulaşmalıdır.
-Nihai Algı Anahtar Kelimeleri: Xianxia eskortu, yağmur fırtınası gece yürüyüşü, aşırı ciddiyet, pasta önceliği, ifadesiz mizah, sinematik gerçekçilik.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097149638088499200/img/e-jY55LtIU3iPxEL.jpg" width="600" alt="Sinematik Xianxia Teslimat Görevi Kısa Filmi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10511)**
-
-**Yazar:** [Soran](https://x.com/Soranlan) | **Kaynak:** [Link](https://x.com/Soranlan/status/2097150285303177683) | **Yayınlandı:** Sep 8, 2026
-
----
-### Woodland Alchemist Karakter Sayfası Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Biyolüminesans elementlere sahip atmosferik orman ortamları ve detaylı karakter eylemleri içeren, bir orman simyacısı için karakter sayfası oluşturmak üzere tasarlanmış çok sahneli bir komut.
-
-#### 📝 İstem
-
-```
-Nemli ve yaşlı bir ormanda şafak vakti, ağaç gövdeleri arasında alçak sis. Küçük orman simyacısı, üzerinde mantarlar yetişmiş devrilmiş bir kütüğün üzerine çömelmiş; başında canlı bir ağaç kütüğü ve gerçek mantarlardan oluşan bir kapüşon var. Bir parmağıyla mantarın lamellerini kazıyor, ardından yüzü neredeyse ona değene kadar eğiliyor; yuvarlak kavanoz gözlükleri ıslak kabuğa karşı yeşil bir parıltı yayıyor. Soğuk bir merak, tam bir odaklanma, gülümseme yok. (2sn)
-- Kara ormandaki bir derede gece, biyolüminesans yosunlar. Saha asistanı olan kurbağa, açık avucunun üzerine zıplıyor. Her şeyi bırakıyor, hayvanın ne yaptığını izlemek için elini yavaşça çeviriyor, ardından gözlerini ondan ayırmadan numune kemerine bağlı küçük not defterine yazıyor. Çalışıyor, sevgi gösterisinde bulunmuyor. (2sn)
-- Sadece mantar ışığıyla aydınlanan içi boş bir kütüğün içi. Cam bir numune kavanozunu ışığa karşı kaldırıp döndürüyor, içindeki eğrelti otu kökü hala hafifçe parlıyor. Yüzü hayranlıktan ziyade dikkatle sertleşiyor, çenesi kenetlenmiş, gözleri yeşil kavanoz gözlüklerinin ardında kısılıyor. (2sn)
-- Orman zeminini döven şiddetli yağmur. Kaçmıyor. Omuzlarını numune kavanozunun üzerine eğiyor, tüm vücuduyla onu koruyor ve aynı acele etmeyen tempoyla çamurun içinde yürümeye devam ediyor, kapüşonundaki mantarlar damlaların altında titriyor. (2sn)
-- Öğleden sonra eğik ışık alan bir açıklık. Yazmayı bırakıyor, uzanıp küçük bir hayvanın sırtındaki keneyi hızlı ve törensiz bir çimdikle çekip alıyor, fırlatıp atıyor ve hemen not defterine geri dönüyor. Nazik ama tatlı değil; tüm hareket bir saniye sürüyor. (2sn)
-- Nötr karanlık boş arka plan, çevre yok. İmzası haline gelen görünümüyle geri dönüyor: canlı kütük kapüşon, yosunlu pelerin, numune kemeri. Çerçevenin ortasına doğru iki adım atıyor, duruyor, çenesini kaldırıyor ve kuru bir yarım gülümsemeyle doğrudan lense bakıyor. Kavanoz gözlükleri yeşil parlıyor, bir kenar ışığı silüetini belirginleştiriyor ve geri kalan her şey karanlığa gömülüyor. (3sn)
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2097135269308743680/pu/img/KTxNtFUAe0x3qBcU.jpg" width="600" alt="Woodland Alchemist Karakter Sayfası Videosu">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10508)**
-
-**Yazar:** [Borderless 🌐](https://x.com/BorderleSint) | **Kaynak:** [Link](https://x.com/BorderleSint/status/2097135299302215772) | **Yayınlandı:** Sep 8, 2026
-
----
-### Kadın İdol Sokak Dansı Koreografisi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir kadın idolün dans stüdyosunda hip hop dansı yaptığı, akıcı hareketlere ve referans görselden karakter tutarlılığına odaklanan bir video oluşturma istemi.
-
-#### 📝 İstem
-
-```
-Karakter için referans görseli kullanın. Bir kadın idol, dans stüdyosunda beyaz bir atlet, üzerinde siyah bir Adidas ceket, kargo pantolon ve siyah bir beyzbol şapkası ile hip hop koreografisi sergiliyor. Hareketler nispeten zorlayıcı ancak aynı zamanda rahat, zahmetsiz ve doğal görünmeli; yüz ifadesi kontrolü ise doğal olmalı.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097105569165578240/img/ScZbPkzrveqjZtr-.jpg" width="600" alt="Kadın İdol Sokak Dansı Koreografisi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10509)**
-
-**Yazar:** [Shinning](https://x.com/Shinning1010) | **Kaynak:** [Link](https://x.com/Shinning1010/status/2097106940501639234) | **Yayınlandı:** Sep 7, 2026
-
----
-### 1984 Showa Dönemi Ev Videosu
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Bu istem, 1980'lerin nostaljik ev videosu estetiğini yeniden yaratarak, Japonya'daki bir toplu konut parkında oynayan bir grup çocuğu gerçekçi dönem detaylarıyla gözler önüne seriyor.
-
-#### 📝 İstem
-
-```
-[Genel Bakış] 1984 yılında bir toplu konut parkında "teneke devirme" oyunu oynayan 8 yaşındaki bir erkek çocukla akşam saatlerine kadar. Bir baba, yeni aldığı ev tipi video kamerasıyla konuşmadan uzaktan kayıt yapıyor. 480p, 16:9, 15 saniye. Farklı mekanlarda geçen, her biri yaklaşık 2 saniyelik 7 sert kesim (hard cut). Geçiş veya kararma efekti yok. Özne kameraya karşı hiçbir şey yapmıyor: göz teması yok, nesne gösterme yok, el sallama yok, poz verme yok. Tamamen oyuna dalmış durumda. Oyunculuk değil, günlük yaşamdan kesitler. Hiçbir konuşma, diyalog veya dış ses yok.
-
-[Özne] Güzellik Tanımı: Çocuk oyuncu olarak seçilebilecek kadar sevimli bir Japon çocuk. Oyuna dalmış yüzü en iyisi. Yüz: Kısa kesim siyah saçlar, kalın düz kaşlar, belirgin çift kapaklı büyük gözler, güneşten yanmış ten (gerçekçi doku), burun ucunda bir yara bandı, çıkmakta olan ve arasında boşluk bulunan bir ön diş. Kıyafet (günlük giyim): Beyaz atlet (yakası hafif esnemiş), mavi şort, beyaz lastik tabanlı spor ayakkabılar (burunları kirli), boynunda bir tenugui havlu. Alışkanlık: Koşarken kollarını genişçe sallar, neredeyse tökezlese bile durmaz. Yüz, saç ve kıyafet tüm çekimlerde tamamen aynı.
-
-[Karakterler] 3 Oyun Arkadaşı: Küt saçlı ve kırmızı etekli bir kız, beyzbol şapkalı hafif toplu bir çocuk, siyah çerçeveli gözlüklü zayıf bir çocuk. Hepsi bronzlaşmış, spor ayakkabılı. Kimse kameraya bakmıyor. Anne: 7. çekimde balkonda uzakta küçük bir figür olarak duruyor (yüzü seçilemiyor).
-
-[Dönem, Mekan, Işık] 1984 yazında bir toplu konut sitesi. 1. Sitenin dış merdivenleri (öğleden sonra beyaz ışığı) 2. Parktaki kum havuzunun yanı (Teneke devirme: ebenin yerdeki bir tenekeyi koruduğu, saklanan çocukların ise onu devirmek için koştuğu oyun. Teneke, üzerinde yazı olmayan sade gümüş rengi) 3. Parktaki beton borunun içi 4. Tırmanma demirinin tepesi (mavi gökyüzü) 5. Parktaki su çeşmesi (sıçrayan sudaki ışık) 6. Su kulesinin altındaki gölge 7. Sitedeki gün batımı yolu (uzun turuncu gölgeler). Ekranda hiçbir tabela veya yazı yok.
-
-[Kamera] 1984 ev tipi video kamera dokusu: renk kaymaları, düşük çözünürlük, patlamış parlak gökyüzü, yumuşak hatlar. Tarih göstergesi yok. Omuz üstü elde çekim, doğal sarsıntı, kusurlu kompozisyon, zoom arayışı, pozlama dalgalanmaları. Özneye 3–6 metre mesafe. Özne kamerayı görmezden geliyor. Sabitleme, gimbal, drone, ağır çekim, sinematik ışık veya ticari renk düzenlemesi yok. Kamera her zaman çekim yapan kişinin göz hizasında (ayakta, otururken, çömelmiş, yürürken). İmkansız açılar yok (havadan, suyun içinden, tavandan vb.). Orada bulunan bir kişi olarak çekim yapan kişi hareketi hafif bir gecikmeyle takip ediyor ve kompozisyon bazen gevşek.
-
-[Çekimler] (Her biri yaklaşık 2 saniye. Her satır = Mekan/Işık / Aktivite / İçsel duygu ve küçük sızıntı hareket / Kamera konumu)
-1. Site merdivenleri, öğleden sonra. Basamakları atlayarak aşağı koşuyor, sonuncusunda neredeyse tökezliyor, koşmaya devam ediyor. Duygu: Hızlıca oynamak istiyor. Sadece ileriye bakıyor. Kamera: Merdivenlerin altından yukarı bakış.
-2. Kum havuzunun yanı. Tenekeyi yere koyuyor, ayağıyla sabitliyor, her iki eliyle gözlerini kapatıyor. Duygu: Ebe olma konusunda ciddi. Ağzı kapalı. Arkadaşlar dağılıyor. Kamera: Yandan, arka planda koşan çocuklar.
-3. Borunun içi. Karanlıktan yüzünü yarım gösteriyor, nefesini tutuyor, sadece gözlerini hareket ettiriyor. Duygu: Neredeyse bulunacak olmanın heyecanı. Kamera: Borunun dışından içeri göz atış.
-4. Tırmanma demirinin tepesi, mavi gökyüzü. Tepede duruyor, uzaktaki bir arkadaşını işaret ediyor. Duygu: Zafer kazanmış. Göğsü dışarıda, ağzı kocaman açık (ses yok). Kamera: Yukarı bakış, gökyüzü patlamış.
-5. Su çeşmesi. Kafasını ıslatmak için musluğu açıyor, köpek gibi kafasını sallıyor. Duygu: İyi hissediyor. Gözleri kapalı gülümsüyor. Kamera: Baba yaklaşıyor, su lense sıçrıyor, küçük bir kahkaha kaçıyor.
-6. Su kulesinin altındaki gölge. Arkadaşlarıyla oturuyor, dizindeki sıyrığa bakıyor, parmağıyla dürtüyor. Duygu: Yorgun ve tatmin olmuş. Omuzları çökmüş. Kamera: Yandan, biraz uzaktan.
-7. Gün batımı site yolu. Uzaktaki balkonda anneyi fark ediyor, isteksizce koşmaya başlıyor. Silüeti site girişinin gölgesinde kayboluyor. Duygu: Eve gitmek istemiyor ama gidiyor. Kamera: Yolun ortasında duruyor, uzaklaşan sırtını izliyor. 00:14 civarında kayıt aniden karararak kesiliyor. Kararma (fade out) yok.
-
-[Öğe Detayları] Teneke sade gümüş renginde ve ezik. Spor ayakkabıların burunları toprakla kararmış. Tenugui beyaz üzerine çivit mavisi desenli. Yara bandı ten rengi. Su çeşmesi metal musluklu kare bir beton blok. Boru, içinde grafiti olmayan gri beton.
-
-[Metin Yasağı] Okunabilir metin, logo, tabela, etiket veya numara yok. Teneke sade.
-
-[Fizik/Tutarlılık] Gerçek dünya fiziği. Fazladan parmak, birleşmiş eller, bozuk anatomi yok. Ayaklar yere basıyor. Yara bandı, atlet ve arkadaşların kıyafetleri tüm çekimlerde aynı.
-
-[Ses] Sadece doğal ortam sesleri: ağustos böcekleri, merdivenlerdeki ayak sesleri, teneke sesi, uzaktan çocuk sesleri (kahkaha/ayak sesleri, anlaşılır kelimeler değil), su çeşmesi sesi, su kulesindeki rüzgar, akşam kargaları. Hiçbir kelime yok. Çekim yapan kişinin ve öznenin ara sıra çıkan küçük kahkahaları/nefes alışları olabilir. Müzik yok. Dış ses yok. Yapay ses efektleri yok.
-
-[Atmosfer] Showa dönemi bir toplu konut sitesinde bir çocuğun sıradan gününe dair, yetişkinlere "böyle bir akşam vardı" dedirten bir kayıt. Oyunculuk değil, sürükleyici oyunun parçaları. Nostaljik, parlak ve derinlemesine insani. Kameranın sadece orada bulunmuş olma hissine öncelik verin.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094095520038027264/img/M97-yPhrbh-yljjP.jpg" width="600" alt="1984 Showa Dönemi Ev Videosu">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10512)**
-
-**Yazar:** [妖精アーヤ](https://x.com/aiehon_aya) | **Kaynak:** [Link](https://x.com/aiehon_aya/status/2097082482306720232) | **Yayınlandı:** Sep 7, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -5471,6 +5306,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-23T03:49:46.613Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-24T03:40:29.810Z</sub>
 
 </div>

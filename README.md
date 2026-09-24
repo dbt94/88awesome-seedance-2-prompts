@@ -68,9 +68,9 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **6411** |
+| 📝 Total Prompts | **6415** |
 | ⭐ Featured Prompts | **6** |
-| 🔄 Last Updated | **2026-09-23** |
+| 🔄 Last Updated | **2026-09-24** |
 
 ---
 
@@ -365,43 +365,128 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 
 > 📝 Sorted by publish date (newest first)
 
-### Rainy Porch Cinematic Sequence Prompt
+### Romantic Coastal Town Love Story Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed prompt for a cinematic video sequence of a woman under a porch during heavy rain, including specific actions like adjusting cap, inserting earphones, and eating an apple.
+> A cinematic video prompt for Seedance 2.0 depicting a romantic first meeting between a Korean girl and boy in a coastal town during golden hour.
 
 #### 📝 Prompt
 
 ```
-A cinematic close-to-medium shot of a young East Asian woman standing under a weathered wooden porch during heavy rain. She wears a wet black baseball cap, a slightly translucent wet white oversized t-shirt, and a beige tote bag strap over her shoulder. Her dark hair is tied in a messy bun with wet strands sticking to her face and neck. White wired earphones are in her ears.
-
-Rain pours steadily from a rusty metal downpipe, dripping off the corrugated roof. Lush green forest and misty mountains fade into the background. Soft natural lighting, cool teal-green color grade, shallow depth of field, filmic grain, melancholic and quiet atmosphere.
-
-Sequence:
-- She looks down, then slowly raises her hand to adjust her wet cap.
-- She takes out white earphones and inserts them one by one.
-- She leans against the wooden post and gazes out at the rain.
-- She extends her palm into the falling rain, watching droplets hit her hand.
-- Close-up: she wipes a shiny red apple with a white cloth.
-- She takes a large bite of the apple, juice dripping from her lips and chin.
-- She chews slowly, looking sideways with a calm, slightly distant expression while rain continues to fall.
-
-Ultra-realistic, 35mm film look, natural skin texture with rain droplets on face and cap, wet fabric details, no makeup, quiet rainy-day mood.
+A beautiful Korean girl with long, straight black hair walks through a peaceful coastal Korean town during golden hour, wearing a stylish beige trench coat and carrying a handbag. A handsome Korean boy in a dark leather jacket stands near a railway crossing as a vintage tram passes by. The girl slowly approaches him along the seaside street, with warm sunlight glowing on her face. Cinematic camera movements, natural walking motion, realistic facial expressions, soft ocean breeze, and detailed Korean street scenery. Capture their first eye contact with a gentle romantic atmosphere, shallow depth of field, warm color grading, and photorealistic quality. Create a beautiful 15-second cinematic love story with smooth transitions, natural lighting, and emotional storytelling.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102269103058960384/img/8INOQXR20vXAFwWT.jpg" width="600" alt="Rainy Porch Cinematic Sequence Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102607613376811008/img/f7CrIsdVKZtqZhPE.jpg" width="600" alt="Romantic Coastal Town Love Story Prompt">
 
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11107)**
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11153)**
 
-**Author:** [Elisia](https://x.com/AiwithElisia) | **Source:** [Link](https://x.com/AiwithElisia/status/2102269278489903244) | **Published:** Sep 22, 2026
+**Author:** [Ayat](https://x.com/aiwithaayat) | **Source:** [Link](https://x.com/aiwithaayat/status/2102607673501892691) | **Published:** Sep 23, 2026
 
 ---
-### Korean Marketplace Cinematic Video Prompt
+### Early 2000s Home Video Style Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt for creating a cinematic video of a Korean girl walking and running through a traditional marketplace, focusing on character consistency and natural motion.
+> An extremely detailed prompt for Seedance 2.0 to generate a lo-fi, early 2000s Sony MiniDV style home video of a Korean woman waking up and interacting with a rainy window.
+
+#### 📝 Prompt
+
+```
+Main Subject: Young Korean woman, 24, naturally attractive, realistic skin, minimal makeup, long dark hair loosely down. Wearing an oversized maroon hoodie and loose casual pants. Preserve her exact identity, facial features, hairstyle, body proportions and appearance throughout.
+
+Location: Small old Seoul apartment during a dark, rainy early morning. A large rain-covered bedroom window overlooking blurred neighboring apartment buildings, wet rooftops and faint city lights. Simple wooden furniture, a small bedside table and a quiet lived-in bedroom.
+
+Lighting & Atmosphere: Deep early-morning blue-hour ambience. Cold blue-gray light coming through the rainy window with a very weak warm glow from a bedside lamp. Dark cloudy sky, muted colors, soft shadows, slightly underexposed interior and a peaceful sleepy atmosphere.
+
+Style: Ultra-realistic early-2000s Sony MiniDV home video filmed by another person holding the camcorder. Completely candid and unstaged. Natural handheld movement, subtle human shake, imperfect framing, gentle reframing, occasional autofocus hunting, mild exposure shifts, faded colors, soft contrast, authentic DV compression, subtle low-light digital noise and microphone noise. Smooth continuous real-time motion throughout. No stuttering, judder, frame skipping, duplicated frames, stop-motion appearance, excessive motion blur, speed changes or low-frame-rate look. No stabilization or modern cinematic movement.
+
+00:00–00:03 — WAKING WINDOW: She walks slowly toward the bedroom window, still sleepy, and gently pulls the curtain aside. The dark rainy Seoul morning is revealed.
+
+00:03–00:06 — CONDENSATION: She notices the glass is covered with condensation. She raises one finger and slowly wipes a small clear patch across the fogged window.
+
+00:06–00:09 — LITTLE DRAWING: She absentmindedly draws a tiny simple smiley face in the condensation with her fingertip. She looks at it for a moment with a faint amused smile.
+
+00:09–00:12 — RAIN: She leans closer to the cleared section and watches raindrops running down the glass. The camera gently moves closer, catching the blurred Seoul buildings beyond.
+
+00:12–00:15 — QUIET MOMENT: She rests her forehead lightly against the cool glass for a second, listening to the rain. She gives a tiny peaceful smile as the camera slowly drifts toward the rainy view and cuts.
+
+Audio: Natural location sound only—steady rain against the window, faint wind, distant traffic, subtle room ambience, soft footsteps and quiet fabric movement. No music, narration or added sound effects.
+
+Goal: Feel like a completely ordinary, intimate early-2000s home-video moment. Nothing dramatic happens; the atmosphere comes from the rainy window, condensation, her tiny smile and the quiet early morning. It should feel accidentally captured rather than deliberately performed.
+
+Motion quality: Keep her movements extremely natural and smooth, especially the finger moving through condensation and her slow approach
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102471023140761600/img/VEaSlLn6iLvgftCa.jpg" width="600" alt="Early 2000s Home Video Style Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11157)**
+
+**Author:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Source:** [Link](https://x.com/iamahmedfaraz66/status/2102606380863472099) | **Published:** Sep 23, 2026
+
+---
+### Anime Girl Falling Through Skyscraper Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A dynamic video prompt for Seedance 2.0 featuring an anime-style girl falling through a futuristic skyscraper and transforming into a powerful flying entity with cinematic effects.
+
+#### 📝 Prompt
+
+```
+Created a dramatic top-down shot of a pink-haired anime-style girl falling through a futuristic glass skyscraper at night, surrounded by reflections, lights, and intense motion blur. The camera rapidly rotates and follows her descent, then cut to a dark close-up where she looks calm and mysterious. Show detailed shots of her pink outfit, clenched hand, and flowing hair. Build tension with cinematic lighting and deep shadows, then transition into a powerful final shot where she flies forward toward the camera with glowing golden eyes, wind blowing through her hair, bright warm light and wings-like energy behind her. Ultra-detailed 3D anime cinematic style, realistic motion, smooth camera movement, dramatic depth of field, high-quality lighting, dynamic action, consistent character design, epic cinematic atmosphere.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102572803275014144/img/XeqJhRczWJCHRoVl.jpg" width="600" alt="Anime Girl Falling Through Skyscraper Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11154)**
+
+**Author:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2102572922674225517) | **Published:** Sep 23, 2026
+
+---
+### University Physics Lab Educational Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for creating a realistic educational video in a university physics lab, demonstrating gravity and acceleration with a professor and students using Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Create a cinematic, realistic educational video set inside a modern university physics laboratory. A confident male physics professor walks into the classroom carrying a coffee cup and a notebook, while students sit attentively in a large lecture hall. The scene then transitions to a hands-on physics experiment where the professor and a group of students gather around a transparent inclined track. A small metallic ball is carefully placed on the track, creating a clear visual demonstration of motion, gravity, acceleration, and energy. Show detailed close-up shots of the transparent rail, metal ball, students observing closely, and the professor guiding the experiment with natural hand movements. Use smooth camera movements, realistic depth of field, natural facial expressions, and authentic classroom interactions to make the experiment feel engaging and believable. Include cinematic laboratory lighting with soft indoor illumination and warm sunlight entering through large windows. End with the professor working at a laboratory table during golden-hour lighting, surrounded by scientific equipment, creating a thoughtful and inspiring academic atmosphere.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102331771367108608/img/zhYK8aR3asclZ4MU.jpg" width="600" alt="University Physics Lab Educational Video Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11156)**
+
+**Author:** [Ayat](https://x.com/aiwithaayat) | **Source:** [Link](https://x.com/aiwithaayat/status/2102331859657253174) | **Published:** Sep 22, 2026
+
+---
+### Cozy Cinematic Coffee Shop Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating a cozy, cinematic video showcasing coffee preparation in a modern café, focusing on realistic textures and warm lighting for Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Created this cozy cinematic coffee video, featuring the beautiful atmosphere of a modern café. The video begins with a warm cup of coffee placed on a marble table, creating a calm and inviting mood. Close-up shots capture the espresso flowing smoothly from the coffee machine into the cup. The rich coffee details, creamy texture, and warm lighting make every scene feel realistic and visually appealing. The background shows a lively café environment with natural movement and a relaxing atmosphere. Smooth camera movements and cinematic angles bring the coffee-making process to life. The combination of soft lighting, detailed visuals, and ambient café vibes creates a premium cinematic experience. This video captures the simple beauty of coffee moments in a creative and engaging way.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102329184609812480/img/KOFHaF23Ar17rSF2.jpg" width="600" alt="Cozy Cinematic Coffee Shop Video Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11155)**
+
+**Author:** [liana](https://x.com/Lianaalane) | **Source:** [Link](https://x.com/Lianaalane/status/2102330407404572896) | **Published:** Sep 22, 2026
+
+---
+### Cinematic Korean Girl in Marketplace Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed video generation prompt for Seedance 2.0 that creates a cinematic sequence of a Korean girl walking and running through a traditional marketplace, emphasizing character consistency and natural motion.
 
 #### 📝 Prompt
 
@@ -409,7 +494,7 @@ Ultra-realistic, 35mm film look, natural skin texture with rain droplets on face
 Created a beautiful Korean girl walking confidently through a traditional Korean marketplace, wearing an elegant historical outfit, with long black hair flowing naturally and a detailed ancient Korean street surrounding her. At one second, the camera gently moves closer as she walks through the busy crowd, keeping her face clear, realistic, and consistent. At two seconds, show her passing wooden market stalls, traditional Korean houses, hanging lanterns, and merchants while people move naturally around her. At three seconds, she suddenly begins running through the crowded marketplace, with her hair, clothes, and body movement responding naturally to her speed. At four seconds, use a smooth cinematic tracking shot from the front as she runs between the stalls while the background moves naturally. At five seconds, switch to a dramatic side angle showing her determined expression, realistic footsteps, flowing hair, and detailed traditional clothing. At six seconds, follow her from behind as she runs deeper into the ancient street, with sunlight, dust, lanterns, and moving people creating a cinematic atmosphere. At seven seconds, smoothly move the camera around her while maintaining perfect character consistency, realistic facial features, natural skin texture, and believable motion. At eight seconds, finish with a wide cinematic shot of the Korean girl continuing forward through the beautiful historical marketplace, with photorealistic details, natural lighting, realistic physics, smooth camera movement, and no distortion.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102259707142717440/img/Gu_7x3AVHHbndsXs.jpg" width="600" alt="Korean Marketplace Cinematic Video Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102259707142717440/img/Gu_7x3AVHHbndsXs.jpg" width="600" alt="Cinematic Korean Girl in Marketplace Video Prompt">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11106)**
 
@@ -4900,132 +4985,6 @@ SCENE BREAKDOWN (2-SECOND BEATS)
 **Author:** [𝑨𝒇𝒓𝒊𝒏](https://x.com/afrinxai) | **Source:** [Link](https://x.com/afrinxai/status/2097160058446766088) | **Published:** Sep 8, 2026
 
 ---
-### Cinematic Xianxia Cake Delivery Mission
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A detailed cinematic video prompt for Seedance 2.0 featuring a female sword immortal protecting a fragile cake from rain during a delivery mission in a modern city.
-
-#### 📝 Prompt
-
-```
-1. Task Objective
-Generate a continuous 15-second cinematic realistic short film.
-Setting: High-tension Xianxia 'escort mission' meeting an ordinary modern delivery scenario.
-Atmosphere: Cinematic realism, contrast between cold blue rain and warm city lights, realistic physics effects, and deadpan comedy.
-
-2. Character Identity
-Character A (@Image 1): Immortal Swordswoman, 25-30, East Asian, sharp eyes, long black hair, white silk hanfu, silver sword. Personality: Extremely serious and cold.
-Character B (@Image 2): Delivery Girl, 25-30, East Asian, ponytail, yellow jacket, jeans, with a bicycle and a delivery box containing a fragile cream cake.
-
-3. Scene Consistency
-Single location: A city street in heavy rain. Cold blue night light with warm ambient street lights. Realistic reflections and water splashes.
-
-4. Three-Shot Structure
-Shot 1 (0-5s): Low angle panorama. Delivery girl checks the cake box while the Immortal Swordswoman stands guard. Dialogue: 'Three minutes, no wetting, no tilting.' Swordswoman: 'I will escort.'
-Shot 2 (5-10s): Side tracking shot. Delivery girl cycles in rain while the Swordswoman glides alongside on her sword, summoning six miniature swords to form a protective array above the bike to divert rain from the cake.
-Shot 3 (10-15s): Close-up. They stop under shelter. The cake is dry and perfect. The Swordswoman is completely soaked because she only protected the cake. Delivery girl: 'Why didn't you shield yourself?' Swordswoman: 'Mission priority.' Girl offers a tiny tissue.
-
-5. Technical Requirements
-15 seconds, 16:9, 24fps. Native synchronized sound effects (rain, thunder, sword hum). Stable character and prop design. Avoid AI artifacts and inconsistent morphing.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097149638088499200/img/e-jY55LtIU3iPxEL.jpg" width="600" alt="Cinematic Xianxia Cake Delivery Mission">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10511)**
-
-**Author:** [Soran](https://x.com/Soranlan) | **Source:** [Link](https://x.com/Soranlan/status/2097150285303177683) | **Published:** Sep 8, 2026
-
----
-### Woodland Alchemist Forest Video Storyboard
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed multi-scene video generation prompt for an alchemist character exploring atmospheric forest environments in various lighting conditions.
-
-#### 📝 Prompt
-
-```
-Dawn in a wet old-growth forest, low mist between trunks. The small woodland alchemist crouches on a fallen log crusted with shelf fungus, hood of living stump and real mushrooms on her head. She scrapes the gills with one fingertip, then leans in until her face nearly touches it; the round jar-goggles flare green against the wet bark. Cold curiosity, total absorption, no smile. (2s)
-- Night at a black forest stream, bioluminescent moss. Her field-assistant toad hops onto her open palm. She stops everything, turns the hand slowly to watch what the animal does, then writes it into the small notebook strapped to her specimen harness without taking her eyes off it. Working, not cuddling. (2s)
-- Inside a hollow stump lit only by fungal glow. She raises a glass specimen jar against the light and rotates it, a fern root inside still faintly glowing. Her face hardens with attention rather than wonder, jaw set, eyes narrowing behind the green jar-goggles. (2s)
-- Heavy rain hammering the forest floor. She does not run. She hunches her shoulders over the specimen jar, shields it with her whole body and keeps walking through the mud at the same unhurried pace, the mushrooms on her hood shivering under the drops. (2s)
-- A clearing in raking afternoon light. She stops writing, reaches out and pulls a tick off the back of a small animal with a quick unceremonious pinch, flicks it away, and goes straight back to the notebook. Gentle, not sweet; the whole gesture takes a second. (2s)
-- Neutral dark empty background, no environment. She is back in her signature look: living stump hood, mossy cloak, specimen harness. She walks two steps forward into the centre of frame, stops, lifts her chin and looks straight into the lens with a dry half-smile. The jar-goggles glow green, a rim light holds her silhouette and everything else falls to black. (3s)
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2097135269308743680/pu/img/KTxNtFUAe0x3qBcU.jpg" width="600" alt="Woodland Alchemist Forest Video Storyboard">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10508)**
-
-**Author:** [Borderless 🌐](https://x.com/BorderleSint) | **Source:** [Link](https://x.com/BorderleSint/status/2097135299302215772) | **Published:** Sep 8, 2026
-
----
-### Female Idol Dance Practice
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video generation prompt for Seedance 2.0 featuring a female idol performing casual hip hop choreography in a dance studio, using a reference image for character consistency.
-
-#### 📝 Prompt
-
-```
-Use the reference image for the character. A female idol is standing in a dance practice room, wearing a white tank top with a black Adidas jacket, cargo pants, and a black baseball cap, performing hip hop choreography. The moves should be relatively difficult while still feeling casual, effortless, and laid-back, with natural facial expression control.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097105569165578240/img/ScZbPkzrveqjZtr-.jpg" width="600" alt="Female Idol Dance Practice">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10509)**
-
-**Author:** [Shinning](https://x.com/Shinning1010) | **Source:** [Link](https://x.com/Shinning1010/status/2097106940501639234) | **Published:** Sep 7, 2026
-
----
-### 1984 Showa Era Home Video
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> This prompt recreates a nostalgic 1980s home video aesthetic, showing a group of children playing in a Japanese housing complex park with realistic period details.
-
-#### 📝 Prompt
-
-```
-[Overview] Until evening with an 8-year-old boy playing 'kick the can' in a housing complex park in 1984. A father records from a distance without speaking using a newly bought home video camera. 480p, 16:9, 15 seconds. 7 shots (approx. 2s each) of hard cuts, all in different locations. No transitions or fades. The subject does nothing toward the camera: no eye contact, no showing objects, no waving, no posing. Immersed in play. Fragments of daily life, not acting. No conversation, dialogue, or narration at all.
-
-[Subject] Definition of Beauty: A Japanese boy cute enough to be cast as a child actor. The face immersed in play is best. Face: Short cropped black hair, thick straight eyebrows, clear double-lidded large eyes, sun-tanned skin (realistic texture), a bandage on the tip of the nose, one front tooth growing in with a gap. Clothing (everyday wear): White tank top (slightly stretched neck), blue shorts, white rubber-soled sneakers (dirty toes), a tenugui towel around the neck. Habit: Swings arms wide when running, doesn't stop even if nearly tripping. Face, hair, and clothing are completely identical in all shots.
-
-[Characters] 3 Playmates: A girl with a bob cut and red skirt, a slightly chubby boy with a baseball cap, a thin boy with black-rimmed glasses. All tanned, wearing sneakers. No one looks at the camera. Mother: Standing small in the distance on a balcony in the 7th shot (face indistinguishable).
-
-[Era, Place, Light] Housing complex in the summer of 1984. 1. Exterior stairs of the complex (afternoon white light) 2. Beside the park's sandbox (Kick the can: game where the 'it' guards a can on the ground while hidden kids run to kick it. Can is plain silver with no text) 3. Inside a concrete pipe in the park 4. Top of the jungle gym (blue sky) 5. Park water fountain (light in the splashing water) 6. Shade under the water tower 7. Sunset road in the complex (long orange shadows). No signs or text on screen.
-
-[Camera] 1984 home video camera texture: bleeding colors, low resolution, blown-out bright skies, soft outlines. No date display. Shoulder-mounted handheld, natural shake, imperfect composition, zoom hunting, exposure fluctuations. Distance of 3–6m from subject. Subject ignores camera. No stabilization, gimbal, drone, slow motion, cinematic lighting, or commercial color grading. Camera is always at the filmer's eye level (standing, sitting, crouching, walking). No impossible angles (air, water, ceiling, etc.). As a person present, the filmer follows movement with a slight delay and composition is sometimes loose.
-
-[Shots] (Approx. 2s each. Each line = Location/Light / Activity / Inner emotion & small leaking gesture / Camera position)
-1. Complex stairs, afternoon. Running down skipping steps, nearly tripping on the last one, continues running. Emotion: Wants to play quickly. Only looking forward. Camera: Looking up from bottom of stairs.
-2. Beside the sandbox. Placing the can on the ground, fixing it with a foot, covering eyes with both hands. Emotion: Serious about being 'it.' Mouth shut. Friends scatter. Camera: From the side, children running in background.
-3. Inside the pipe. Half showing face from darkness, holding breath, moving only eyes. Emotion: Thrilled about nearly being found. Camera: Peering in from outside the pipe.
-4. Top of jungle gym, blue sky. Standing at the top, pointing at a distant friend. Emotion: Triumphant. Chest out, mouth wide open (no sound). Camera: Looking up, sky blown out.
-5. Water fountain. Turning faucet up to douse head, shaking head like a dog. Emotion: Feels good. Smiling with eyes closed. Camera: Father steps closer, water splashes the lens, a small laugh escapes him.
-6. Shade under the water tower. Sitting with friends, staring at a scrape on the knee, poking it with a finger. Emotion: Tired and satisfied. Shoulders slumped. Camera: From the side, slightly distant.
-7. Sunset complex road. Noticing mother on the distant balcony, reluctantly starts running. Silhouette disappears into the shadow of the complex entrance. Emotion: Doesn't want to go home but does. Camera: Standing in the middle of the road, watching the receding back. Around 00:14, the recording suddenly cuts to a blackout. No fade out.
-
-[Item Details] Can is plain silver and dented. Sneakers have soil-blackened toes. Tenugui is white with indigo patterns. Bandage is skin-colored. Water fountain is a square concrete block with a metal faucet. Pipe is grey concrete with no graffiti inside.
-
-[Text Prohibition] No readable text, logos, signs, labels, or numbers. Can is plain.
-
-[Physics/Consistency] Real-world physics. No extra fingers, fused hands, distorted anatomy. Feet grounded. Bandage, tank top, and friends' clothes are same in all shots.
-
-[Sound] Natural ambient sounds only: cicadas, footsteps on stairs, sound of the can, distant children's voices (laughter/footsteps, not readable words), water fountain sound, wind at water tower, evening crows. No words at all. Occasional small laughs/breathing from filmer and subject allowed. No music. No narration. No artificial sound effects.
-
-[Atmosphere] A record of a mundane day for a child in a Showa-era housing complex that makes adults think 'there was an evening like this.' Not acting, but fragments of immersive play. Nostalgic, bright, and deeply human. Prioritize the feeling that the camera just happened to be there.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094095520038027264/img/M97-yPhrbh-yljjP.jpg" width="600" alt="1984 Showa Era Home Video">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10512)**
-
-**Author:** [妖精アーヤ](https://x.com/aiehon_aya) | **Source:** [Link](https://x.com/aiehon_aya/status/2097082482306720232) | **Published:** Sep 7, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -5087,6 +5046,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-23T03:49:29.041Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-24T03:40:04.642Z</sub>
 
 </div>
