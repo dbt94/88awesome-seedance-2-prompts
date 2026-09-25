@@ -68,9 +68,9 @@ Neden galerimizi kullanmalısınız?
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **6415** |
+| 📝 Toplam İstem | **6419** |
 | ⭐ Öne Çıkan İstemler | **6** |
-| 🔄 Son Güncelleme | **2026-09-24** |
+| 🔄 Son Güncelleme | **2026-09-25** |
 
 ---
 
@@ -361,6 +361,120 @@ Ultra gerçekçi, Hızlı ve Öfkeli esintili enerji, fotogerçekçi aydınlatma
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Dudak Parlatıcısı Güzellik Ürünü Video İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Dudak parlatıcısı uygulamasını ve yaşam tarzı estetiğini sergileyen gerçekçi bir dikey güzellik ürünü videosu oluşturmak için bir istem.
+
+#### 📝 İstem
+
+```
+İçinde premium pembe dudak parlatıcısı bulunan küçük, zarif karton kutunun açılmasını gösteren, 10 saniyelik gerçekçi bir dikey güzellik ürünü videosu oluşturun. Eller, parlatıcıyı dikkatlice kutudan çıkarır ve şık, yansıtıcı gümüş kapağı ile şeffaf pembe gövdesini ortaya koyar. Uygulayıcı pürüzsüzce alınır ve parlak pembe ürün, kremamsı ve ışıltılı dokusunu göstermek üzere elin üst kısmına sürülür. Ardından, kadının doğal hareketlerle ve hassas, yumuşak dokunuşlarla dudaklarına parlatıcıyı uyguladığı, gerçekçi cilt dokusuna sahip yakın çekim bir geçiş yapılır. Videonun sonunda, dudak parlatıcısı iki fincan sanatsal köpüklü latte'nin yanında ahşap bir kafé masasında güzelce dururken sıcak bir yaşam tarzı güzellik reklamı atmosferi yaratılır. Yumuşak doğal ışıklandırma, gerçekçi gölgeler, sığ alan derinliği, akıcı el kamerası hareketleri, premium ticari kalite, doğal cilt dokusu, doğru ürün detayları ve kesintisiz geçişler kullanın.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102952041752715264/img/Y_s6Ma6KLmmT8sp6.jpg" width="600" alt="Dudak Parlatıcısı Güzellik Ürünü Video İstemi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11186)**
+
+**Yazar:** [Maha](https://x.com/Aiwithmaha) | **Kaynak:** [Link](https://x.com/Aiwithmaha/status/2102952087823044888) | **Yayınlandı:** Sep 24, 2026
+
+---
+### Avrupa Şehir Seyahat Vlog'u İstem Metni
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Tutarlı karakter kimliğine sahip, bir Avrupa şehrini keşfeden sarışın bir kadını içeren 15 saniyelik sinematik bir seyahat vlog'u oluşturmak için kapsamlı istem.
+
+#### 📝 İstem
+
+```
+Güzel bir Avrupa şehrinde akşam saatlerini geçiren aynı genç sarışın kadını takip eden 15 saniyelik sinematik bir seyahat vlog'u oluşturun. Yüzünü, saç modelini, beyaz bol gömleğini, mavi kot pantolonunu, vücut oranlarını ve genel görünümünü her çekimde tutarlı tutun.
+Altın saatte (golden hour) hareketli tarihi bir şehir meydanında yürürken kameraya doğal bir şekilde gülümsediği el kamerası geniş açılı selfie çekimiyle başlayın. Turistler etrafında dolaşırken sıcak güneş ışığı çevredeki Avrupa mimarisinin üzerine düşer.
+Renkli tarihi binalar, açık hava kafeleri, yerel dükkânlar, asılı ışıklar ve uzakta görünen eski bir kilise kulesiyle çevrili canlı, dar yaya sokaklarına sorunsuz bir geçiş yapın. Kamera, doğal el kamerası seyahat-vlog hareketleriyle onu takip ederken o keşfetmeye devam eder.
+El yapımı seramikler, dekoratif tabaklar, sanat eserleri, tekstil ürünleri ve geleneksel el sanatlarıyla dolu renkli bir yerel hediyelik eşya dükkânına geçiş yapın. Sıcak iç mekan ışığı ve renkli ürünlerin arka planı doldurduğu sırada dükkânın önünde durup kameraya baktığını gösterin.
+Rahat bir açık hava kafesine kesme yapın. Küçük bir masada oturur, beyaz bir kahve fincanını kameraya kaldırır, doğal bir şekilde gülümser ve arka planda insanlar hafifçe hareket ederken bir yudum alır.
+Son sekans için gün batımında şehri kuşbakışı gören panoramik bir tepedeki seyir noktasına geçiş yapın. Arkasında turuncu güneş parıldarken yüzü kameraya dönük olarak başlayın. Hafif bir rüzgar saçlarını ve gevşek gömleğini hareket ettirir.
+Gözlerini kısaca kapatır, kollarını açar, ardından kameradan uzaklaşır ve yavaşça seyir noktasına doğru yürür. Uzaklaşırken, devasa şehir manzarasını ve parlayan gün batımını kademeli olarak ortaya çıkaran geniş sinematik bir çekime doğru kamerayı pürüzsüzce geriye doğru çekin.
+Sıcak turuncu gökyüzüne karşı çerçevelenmiş, yalnızca şehre dönük ayakta durarak bitirin.
+Fotogerçekçi, premium seyahat filmi estetiği, sinematik geniş çekimlerle harmanlanmış otantik el kamerası vlog görüntüleri, sorunsuz geçişler, tutarlı karakter kimliği ve kıyafetler, gerçekçi ifadeler ve vücut hareketleri, sıcak altın saat aydınlatması, doğal cilt dokusu, ince lens parlaması, hafif rüzgar, sığ alan derinliği, detaylı mimari, canlı ancak gerçekçi renkler.
+Ses: Doğal sokak ambiyansı, ayak sesleri, uzaktan kalabalık gürültüsü, ince kafe sesleri ve gün batımı finali sırasında daha duygusal hale gelen neşeli seyahat müziği.
+Diyalog yok, anlatım yok, altyazı yok, metin katmanı yok. Dikey 9:16. Süre: 15 saniye.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102950263774732288/img/Cm4e8iDwlbESrsMK.jpg" width="600" alt="Avrupa Şehir Seyahat Vlog'u İstem Metni">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11188)**
+
+**Yazar:** [Ejaz Bashir](https://x.com/Ejaz_bashir1) | **Kaynak:** [Link](https://x.com/Ejaz_bashir1/status/2102950419601543250) | **Yayınlandı:** Sep 24, 2026
+
+---
+### Seedance 2.0 Kahve Molası Moda Filmi İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Seedance 2.0 için, sıcak bir kafede kahve içen bir kızı konu alan 15 saniyelik fotogerçekçi yaşam tarzı moda filmi üreten detaylı bir istem. Karakter tutarlılığı talimatlarını, çekim planlamalarını ve görsel stil rehberlerini içerir.
+
+#### 📝 İstem
+
+```
+FORMAT: 16:9 yatay, 15 saniye, fotogerçekçi canlı aksiyon, sinematik yaşam tarzı moda filmi.
+
+KARAKTER TUTARLILIĞI:
+Yüklenen karakter sayfasını ana karakter referansı olarak kullanın. Kızın yüzünü, facial oranlarını, uzun dalgalı kahverengi saçlarını, saç modelini, saç tokasını, altın küpelerini, vücut oranlarını, bordo çizgili dar kesim gömleğini, geniş palet koyu kot pantolonunu ve beyaz spor ayakkabılarını her çekimde tam olarak tutarlı tutun. Kıyafetini, saç modelini, yaşını veya görünümünü değiştirmeyin.
+ÇEKİM 1 — 0:00–0:05
+
+Sıcak öğleden sonra güneş ışığı alan rustik ve samimi bir kafe. Kız, küçük bir omuz çantasıyla doğal bir şekilde içeri girer. Kamera, bel hizasından onu arkadan takip ederken uzun dalgalı kahverengi saçları yürürken hafifçe hareket eder. Güneş alan pencere yakınındaki küçük ahşap masaya yaklaşır.
+
+Kamera: Akıcı el kamerası takip çekimi, doğal hareket, sığ alan derinliği.
+
+ÇEKİM 2 — 0:05–0:10
+
+Rahatça oturur, bacaklarından birini diğerinin üzerine atar, basit beyaz seramik kahve fincanını alır ve gevşek bir yudum alır. Altın küpelerinin, fincanı tutan parmaklarının, bordo çizgili gömleğinin ve uçuşan saçlarının yakın plan çekimlerine geçiş yapılır.
+
+Kamera: Hafif ileri itme (push-in), gerçekçi el kamerası mikro hareketleri, yüzünde ve saçlarında sıcak güneş ışığı.
+
+ÇEKİM 3 — 0:10–0:15
+
+Kafenin penceresine huzurla baktığı yan profil çekimi. Dışarıda bir şey fark eder, küçük ve doğal bir gülümseme verir, ardından ayağa kalkıp kapıya doğru yürür. Son çekim, onu dışarı çıkarken arkadan takip eder; saçları doğal bir şekilde hareket ederken sıcak gün ışığına çıkar.
+
+GÖRSEL STİL
+
+Yumuşak feminen yaşam tarzı estetiği, sıcak Avrupa kafesi atmosferi, bej ve kahverengi tonlarında çevre, doğal güneş ışığı, gerçekçi cilt dokusu, detaylı saç telleri, ince film greni, otantik anlık ifadeler, abartısız moda editoryal hissi.
+
+ÖNEMLİ: Abartılı pozlar yok, ağır çekim yok, güzellik filtresi efekti yok, kıyafet değişikliği yok, yüz değişikliği yok, ek aksesuar yok, çizgi film/CGI görünümü yok. Performansı doğal ve zahmetsiz tutun.
+
+16:9 YATAY • 15 SANİYE • FOTOREALİSTİK • SİNEMATİK • DOĞAL KAMERA HAREKETİ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102920902602051584/img/iqI05E_HaYidE4pV.jpg" width="600" alt="Seedance 2.0 Kahve Molası Moda Filmi İstemi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11185)**
+
+**Yazar:** [Caden Flux](https://x.com/Caden_Flux) | **Kaynak:** [Link](https://x.com/Caden_Flux/status/2102920998165110878) | **Yayınlandı:** Sep 24, 2026
+
+---
+### Çift Pozlama Silüet Video İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Seedance 2.0 ile oluşturulan, deniz manzarasıyla dolu çift pozlama silüetlerini içeren sinematik bir video için şiirsel istem.
+
+#### 📝 İstem
+
+```
+Sinematik 10 saniyelik çekim, birbirine bakan bir çiftin çift pozlama silüeti; silüetlerin içinde canlı bir gün batımı deniz manzarası yer alıyor. Güneş yavaşça ufka doğru iniyor, altın rengi ışığı yarı saydam silüetlerin içinde parıldıyor ve titriyor. Okyanusun nazik dalgaları yumuşak, ağır çekimde kumlu sahile vuruyor, suyun üzerinde sıcak yansımalar dans ediyor. Bir grup martı pastel pembe-mavi gökyüzünde zarifçe süzülüyor ve uzaklara doğru uçuyor. Kum üzerindeki sonbahar akçaağaç yaprakları hafif bir esintide titriyor ve biraz sürükleniyor, bir yaprak havalanıp havada dönüyor. Son saniyelerde iki silüet alnaları neredeyse değecek şekilde birbirine doğru hafifçe eğiliyor. Yavaş, rüyamsı kamera yakınlaşması, yumuşak pastel renk paleti (şeftali, lavanta, altın, deniz mavisi), sıcak kenar ışığı, ruhani romantik atmosfer, pürüzsüz ve nazik hareket, kesme yok, metin yok.
+
+yüz bozulması yok, morfining artefaktları yok, titreyen silüet kenarları yok, metin yok, filigran yok, hızlı hareket yok, sahne değişimi yok, ekstra kişi yok
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102729242144292864/img/cThA5vFfXXvKR2Sz.jpg" width="600" alt="Çift Pozlama Silüet Video İstemi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11187)**
+
+**Yazar:** [Viki](https://x.com/churvikv) | **Kaynak:** [Link](https://x.com/churvikv/status/2102729372834639960) | **Yayınlandı:** Sep 23, 2026
+
+---
 ### Romantik Kıyı Kasabası Aşk Hikayesi İstem Metni
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -5132,119 +5246,6 @@ Ultra gerçekçi sinematik dağ yürüyüşü sahnesi, yoğun bir alpin ormanın
 **Yazar:** [AIwithMinal](https://x.com/AIwithMinal) | **Kaynak:** [Link](https://x.com/AIwithMinal/status/2097185540391211470) | **Yayınlandı:** Sep 8, 2026
 
 ---
-### Dövüş Sanatları Aksiyon Sekansı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Japon lise sınıfında geçen, fiziksel koreografiye ve sürükleyici kamera çalışmasına odaklanan, oldukça dinamik ve tek plan bir dövüş sanatı istemi.
-
-#### 📝 İstem
-
-```
-mage1, Japon lise sınıfının içinde üç rakiple yoğun ve oldukça dinamik, tek plan bir aksiyon sekansında dövüşüyor. Sınıf; ahşap sıralar, sandalyeler, okul çantaları, kara tahta, sürgülü pencereler, perdeler, floresan tavan lambaları, posterler, kitaplar ve etrafa saçılmış kağıtlarla dolu. Dövüş hızlı, fiziksel ve çevreyle oldukça etkileşimli. Kadın, sıralar arasında keskin bir çeviklikle hareket ederek üç rakibinin saldırılarından aynı anda kaçıyor. Sıraların üzerinden atlıyor, masaların üzerinde kayıyor, sandalyeleri saldırganlara doğru tekmeliyor, sınıf eşyalarını kullanarak darbeleri blokluyor, bir darbeyi savuşturmak için sırt çantasını kapıyor ve sıralar arasındaki dar koridorları momentumunu yönlendirmek için kullanıyor. Kağıtlar havada uçuşuyor, sandalyeler zeminde gıcırdıyor, sıralar devriliyor, hareketten dolayı perdeler savruluyor ve güneş ışığı pencerelerden içeri süzülerek havadaki toz parçacıklarını aydınlatıyor. Kamera son derece dinamik ve aksiyona çok yakın, asla sabit bir geniş açı değil. Dövüş boyunca sürekli takip eden, etrafında dönen, eğilen, hızla yön değiştiren ve araya giren, hızlı hareket eden tek plan bir kamera kullanın. Kamera sıralar arasında hareket ediyor, kadın döndükçe etrafında savruluyor, rakipler hücum ettikçe geriye doğru hızla kaçıyor, bacak süpürme hareketleri sırasında zemine yaklaşıyor, bir sıranın üzerinden atladığında aniden yükseliyor ve bir sonraki saldırganı göstermek için hızla dönüyor. Çerçeveleme acil, el kamerası hissi veren, sürükleyici ve sınıfın içinde fiziksel olarak oradaymışsınız hissi yaratmalı. Aksiyon; güçlü koreografi, gerçekçi vücut hareketleri, inandırıcı darbe etkileri, hızlı tepki süresi, yakın mesafe dövüşü ve sürekli hareket içermeli. Sahnenin, kesintisiz tek bir çekimde yakalanmış yüksek bütçeli bir dövüş sanatı aksiyon sekansı gibi hissettirmesini sağlayın. Pencerelerden gelen sıcak öğleden sonra güneş ışığıyla karışık doğal sınıf aydınlatması, gerçekçi gölgeler, doğal hareket bulanıklığı, gerçekçi dokular, gerçek dünya kusurları ve ham bir sinematik görünüm kullanın. Yapay zeka parlaklığı, aşırı cilalı CGI ve sabit uzun çekim çerçevelemesi olmasın. Negatif istemler: sabit kamera, yavaş hareket, titrek düşük kaliteli çekim, bulanık özne, bozuk vücut, gerçekçi olmayan savrulma fiziği, çizgi film tarzı, düz aydınlatma, donuk renkler, aşırı pozlanmış gökyüzü, yıkık binalar, boş sokaklar, düşük detay, tuhaf kamera kesmeleri, zayıf hareket sürekliliği, yapay zeka parlaklığı, aşırı cilalı CGI, plastik görünümlü cilt, mumsu cilt dokusu, aşırı pürüzsüz yüzeyler, yapay parlaklık, sahte sinematik ışık süzmesi, aşırı lens parlaması, gerçekçi olmayan HDR, aşırı doygun renkler, neon renk derecelendirmesi, oyun motoru görünümü, Unreal Engine render görünümü, sentetik aydınlatma, stüdyo aydınlatması, mükemmel temiz yansımalar, aşırı keskin dijital görüntü, yapay zeka detayı, aşırı işlenmiş görüntü, sahte alan derinliği, abartılı bokeh, doğal olmayan kontrast, aşırı pürüzsüz hareket, yüzen fizik, lastik gibi vücut hareketleri, bozuk anatomi, çarpık uzuvlar, tutarsız vücut oranları, bulanık yüz, erimiş yüz hatları, çoğaltılmış uzuvlar, kırık eller, doğal olmayan poz, sert aksiyon, düşük kaliteli hareket interpolasyonu, bulaşmış hareket bulanıklığı, hayalet görüntü, kare karıştırma hataları, dengesiz özne takibi, amaçsız kamera titremesi, tuhaf kesmeler, zayıf süreklilik, yapay şehir düzeni, boş sokaklar, tekrarlanan arabalar, çoğaltılmış binalar, çarpık gökdelenler, sahte trafik, düşük detaylı arka plan, süper kahraman kostümü, çizgi roman görünümü, stilize animasyon, aşırı dramatik VFX, gerçekçi olmayan gölgeler, sahte güneş ışınları, doğal olmayan pus, aşırı pozlanmış parlak alanlar, ezilmiş siyahlar, steril temiz ortamlar, atmosfer yok, gerçek dünya kusurları yok.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2062599158029275136/img/0EbfDQNkx1RebKrf.jpg" width="600" alt="Dövüş Sanatları Aksiyon Sekansı">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10558)**
-
-**Yazar:** [auqib](https://x.com/auqibhabib) | **Kaynak:** [Link](https://x.com/auqibhabib/status/2097183576601289042) | **Yayınlandı:** Sep 8, 2026
-
----
-### Gece Biyolüminesans Deniz Feneri Bekçisi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Sisli bir uçurumdaki yaşlı bir deniz feneri bekçisini ve okyanustan yükselen biyolüminesans küreleri konu alan atmosferik bir sahne için sinematik bir istem.
-
-#### 📝 İstem
-
-```
-Hava kararmış, sisli bir uçurumun kenarında, kalın yün bir palto giymiş ve elinde eski bir pirinç fener tutan, yüzü rüzgardan yıpranmış yaşlı bir deniz feneri bekçisi duruyor. Aşağıda, okyanus dalgaları kayalara her çarptığında yumuşak, biyolüminesans mavi bir ışıkla parlıyor. Bekçi feneri kaldırdığında, ateş böceklerini andıran onlarca yüzen parlak küre sudan yükselip sisli havaya doğru süzülüyor ve nazikçe figürünün etrafında dönüyor. Hacimsel ay ışığı huzmeleri sisi yarıp geçiyor. Kamera uçurumu geniş açıyla göstererek başlıyor, ardından küreler bekçiyi çevrelerken yavaş ve sinematik bir şekilde yüzüne doğru yaklaşıyor; kürelerin bekçinin gözlerine yansıdığı bir yakın plan çekimle sona eriyor. Turkuaz ve sıcak kehribar renk paleti, hiper gerçekçi dokular, sığ alan derinliği, film greni, atmosferik sis, 15 saniye, pürüzsüz ve kesintisiz kamera hareketi, kesme yok.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097182470462746625/img/5vvEYjNH2of4epzm.jpg" width="600" alt="Gece Biyolüminesans Deniz Feneri Bekçisi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10520)**
-
-**Yazar:** [Sarah](https://x.com/SyntheSarah) | **Kaynak:** [Link](https://x.com/SyntheSarah/status/2097182529564365135) | **Yayınlandı:** Sep 8, 2026
-
----
-### Doğu Asyalı bir kadının gerçekçi yaşam tarzı sinematik videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Doğu Asyalı bir kadının rahat bir ev ortamında yer aldığı, belirli zaman kodlu eylemleri ve doğal el kamerası hareketlerini yakalayan, 15 saniyelik, çok çekimli, yüksek detaylı bir yaşam tarzı video istemi.
-
-#### 📝 İstem
-
-```
-Rahat ve modern bir evde, uzun, düz, koyu kahverengi saçlı genç bir Doğu Asyalı kadının [referans görseli kullanın] yer aldığı, oldukça gerçekçi, sinematik bir yaşam tarzı videosu. Üzerinde beyaz dar bir üst, onun üzerinde yumuşak bej bir hırka ve rahat mavi kot pantolon var.
-
-0–3 sn: Güneş alan bir yatak odasında büyük bir pencerenin yanında duruyor, perdeleri nazikçe açıyor ve huzurlu bir gülümsemeyle dışarı bakıyor. Sıcak sabah güneşi yüzüne doğal bir şekilde vuruyor.
-
-3–6 sn: Mutfağa geçiş. Tezgaha doğru yürüyor, bir bardak su alıyor, küçük bir yudum içiyor ve ardından oyuncu bir gülümsemeyle kameraya bakıyor.
-
-6–9 sn: Oturma odasında rahat bir kanepede oturuyor, üzerine küçük bir battaniye alıyor ve kameraya bakmadan önce gelişigüzel bir şekilde telefonunda geziniyor.
-
-9–12 sn: Aniden ayağa kalkıyor, saçını düzeltirken koridorda yürüyor, ardından arkasını dönüp kameraya hızlı ve oyuncu bir gülücük atıyor.
-
-12–15 sn: Kapı eşiğinin yakınında son yakın çekim. Kameraya doğru hafifçe eğiliyor, doğal bir şekilde gülüyor, küçük bir el sallıyor ve kamera sabit kalırken oradan uzaklaşıyor.
-
-Doğal el kamerası hareketi, gerçekçi vücut hareketleri, otantik yüz ifadeleri, yumuşak güneş ışığı, sığ alan derinliği, hafif sinematik gren, sıcak nötr renk paleti, gerçekçi cilt dokusu, fotogerçekçi detaylar, pürüzsüz geçişler, samimi yaşam tarzı estetiği, dikey 9:16 kompozisyon, 15 saniyelik sosyal medya videosu, metin yok, altyazı yok, logo yok.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097172023168638976/img/ZoaWqj1ZFXhTphVD.jpg" width="600" alt="Doğu Asyalı bir kadının gerçekçi yaşam tarzı sinematik videosu">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10498)**
-
-**Yazar:** [Sairah](https://x.com/Sairah_0) | **Kaynak:** [Link](https://x.com/Sairah_0/status/2097172152072196126) | **Yayınlandı:** Sep 8, 2026
-
----
-### 2000'lerin Başından Nostaljik El Kamerası Ev Çekimleri
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Sıcak bir mahalle yürüyüşündeki bir kadının mikro anlarını, 2000'lerin başındaki kompakt kamera kayıtları tarzında işleyen 15 saniyelik bir senaryo.
-
-#### 📝 İstem
-
-```
-Format: 15 sn, 1080p, 16:9 yatay
-
-Tarz: Ultra gerçekçi nostaljik ev videosu görüntüleri
-
-Kamera: Bir arkadaş tarafından çekilmiş 2000'lerin başından kalma kompakt dijital el kamerası (doğal otomatik odaklama arayışı, hafif el titremesi)
-
-Ses: %100 diejetik (mekan içi) ses (ayak sesleri, ortamdaki sokak gürültüsü, hışırtılar, doğal kahkahalar; müzik veya dış ses yok)
-
-Karakter ve Mekan: Aynı genç kadın (20'li yaşların başında, yarısı tokalı koyu dalgalı saçlar, büyük beden haki saha ceketi, geniş paça kot pantolon, makosen ayakkabılar, bez çanta), sıcak ve kapalı bir öğleden sonra sessiz bir kanal kenarı mahallesinde yürüyor.
-
-SAHNE DÖKÜMÜ (2 SANİYELİK BÖLÜMLER)
-00:00–00:02 (1. Bölüm — Mutfak) Elinde bir bardak buzlu çay ile tezgahtan döner, lensi fark eder ve arkadaşı hızlıca zoom yapıp çekerken eğlenmiş bir şekilde yarım gülümseme atar.
-
-00:02–00:04 (2. Bölüm — Dışarı Adım Atma) Bez çantasını omzuna takar ve ağır ahşap ara sokak kapısını iter, bir bisiklet kaldırım taşları üzerinde tıkırdayarak geçerken kapıyı kamera için açık tutar.
-
-00:04–00:06 (3. Bölüm — Meyve Tezgahı) Köşedeki ahşap bir kasanın önünde durur, olgun bir şeftali alır, satıcıyla hızlıca gülüşüp bozuk para alışverişi yapar ve şeftaliyi küçük bir kağıt kese kağıdına koyar.
-
-00:06–00:08 (4. Bölüm — Köpek Selamı) Taş yaya köprüsünü geçerken, doğal bir şekilde tek dizinin üzerine çöküp komşunun golden retriever cinsi köpeğini kulaklarının arkasından sever ve ardından tekrar ayağa kalkar.
-
-00:08–00:10 (5. Bölüm — İlk Isırık) Kanal üzerindeki aşınmış köprü korkuluğuna yaslanarak meyveden taze bir ısırık alır ve kocaman, keyifli gözlerle doğrudan kameraya bakar.
-
-00:10–00:12 (6. Bölüm — Şakacı Lens Engelleme) Kamera operatörü yüzüne iyice yaklaşır; kadın yüksek sesle güler, burnunu kırıştırır ve şakacı bir tavırla avucunu lense kapatır.
-
-00:12–00:14 (7. Bölüm — İleride Yürüyüş) Elini indirir, döner ve dar yolda ileriye doğru koşmaya başlar; omzunun üzerinden arkadaşına yetişmesi için iki parmağıyla işaret ederek geriye bakar.
-
-00:14–00:15 (8. Bölüm — Ani Kesim) Kamera onu takip ederek ileriye doğru sıçrar; tam adım atarken geriye dönüp hızlıca sırıtır ve kayıt, 00:14.8'de herhangi bir kararma efekti olmadan aniden kesilir.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097158383921168384/img/IOpDlKPfXk2z6QuD.jpg" width="600" alt="2000'lerin Başından Nostaljik El Kamerası Ev Çekimleri">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10504)**
-
-**Yazar:** [𝑨𝒇𝒓𝒊𝒏](https://x.com/afrinxai) | **Kaynak:** [Link](https://x.com/afrinxai/status/2097160058446766088) | **Yayınlandı:** Sep 8, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -5306,6 +5307,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-24T03:40:29.810Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-25T03:56:55.062Z</sub>
 
 </div>

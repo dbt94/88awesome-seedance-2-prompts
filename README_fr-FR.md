@@ -68,9 +68,9 @@ Pourquoi utiliser notre galerie ?
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **6415** |
+| 📝 Total des prompts | **6419** |
 | ⭐ Prompts en vedette | **6** |
-| 🔄 Dernière mise à jour | **2026-09-24** |
+| 🔄 Dernière mise à jour | **2026-09-25** |
 
 ---
 
@@ -361,6 +361,120 @@ Ultra réaliste, énergie inspirée de Fast and Furious, éclairage photoréalis
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Prompt vidéo pour produit de beauté : Gloss à lèvres
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt pour générer une vidéo verticale réaliste de produit de beauté, mettant en valeur l'application du gloss à lèvres et une esthétique lifestyle.
+
+#### 📝 Prompt
+
+```
+Créez une vidéo verticale réaliste de 10 secondes présentant un produit de beauté. Montrez des mains ouvrant un petit emballage en carton élégant contenant un gloss à lèvres rose premium. Les mains retirent délicatement le gloss de la boîte, révélant son bouchon argenté réfléchissant et raffiné ainsi que son corps transparent rose. L'applicateur est sorti avec fluidité et le produit rose brillant est appliqué sur le dos de la main, montrant sa texture crémeuse et lumineuse. Ensuite, transitionnez vers un gros plan d'une femme appliquant naturellement le gloss sur ses lèvres avec des mouvements précis et doux, mettant en évidence une texture de peau réaliste. Terminez par une vue du gloss posé élégamment sur une table en bois de café, à côté de deux tasses de latte avec une mousse artistique, créant une ambiance publicitaire lifestyle chaleureuse. Utilisez un éclairage naturel doux, des ombres réalistes, une faible profondeur de champ, des mouvements de caméra à main levée fluides, une qualité commerciale premium, une texture de peau naturelle, des détails de produit fidèles et des transitions sans couture.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102952041752715264/img/Y_s6Ma6KLmmT8sp6.jpg" width="600" alt="Prompt vidéo pour produit de beauté : Gloss à lèvres">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11186)**
+
+**Auteur:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2102952087823044888) | **Publié:** Sep 24, 2026
+
+---
+### Prompt de Vlog Voyage en Ville Européenne
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt complet pour générer un vlog de voyage cinématographique de 15 secondes mettant en scène une femme blonde explorant une ville européenne avec une identité de personnage cohérente.
+
+#### 📝 Prompt
+
+```
+Créez un vlog de voyage cinématographique de 15 secondes suivant la même jeune femme blonde tout au long d'une soirée passée à explorer une magnifique ville européenne. Gardez son visage, sa coiffure, sa chemise blanche oversize, son jean bleu, ses proportions corporelles et son apparence générale cohérents dans chaque plan.
+Commencez par un selfie grand angle tenu à main levée alors qu'elle traverse une place historique animée pendant l'heure dorée, souriant naturellement à la caméra. Des touristes se déplacent autour d'elle tandis que la lumière chaude du soleil illumine l'architecture européenne environnante.
+Passez sans couture à une rue piétonne étroite et animée, bordée de bâtiments historiques colorés, de cafés en plein air, de boutiques locales, de guirlandes lumineuses et d'une vieille tour d'église visible au loin. Elle continue d'explorer pendant que la caméra la suit avec des mouvements naturels typiques des vlogs de voyage tenus à main levée.
+Transitionnez vers une boutique locale de souvenirs colorée remplie de céramiques faites main, d'assiettes décoratives, d'œuvres d'art, de textiles et d'artisanat traditionnel. Montrez-la s'arrêtant devant la boutique et regardant vers la caméra, tandis que la lumière intérieure chaude et les produits colorés remplissent l'arrière-plan.
+Coupez sur un café en plein air cosy. Elle est assise à une petite table, soulève une tasse de café blanche vers la caméra, sourit naturellement et boit une gorgée tandis que des gens bougent subtilement en arrière-plan.
+Pour la séquence finale, transitionnez vers un point de vue panoramique sur une colline dominant la ville au coucher du soleil. Commencez par elle faisant face à la caméra alors que le soleil orange brille derrière elle. Une légère brise fait bouger ses cheveux et sa chemise ample.
+Elle ferme brièvement les yeux, ouvre les bras, puis se détourne de la caméra et marche lentement vers le point de vue. Alors qu'elle s'éloigne, reculez doucement la caméra pour obtenir un large plan cinématographique, révélant progressivement l'immense paysage urbain et le coucher de soleil lumineux.
+Terminez par elle seule, debout et faisant face à la ville, encadrée contre le ciel orange chaud.
+Esthétique photoréaliste et premium de film de voyage, mélange authentique de séquences vlog tenues à main levée et de plans larges cinématographiques, transitions fluides, identité de personnage et vêtements cohérents, expressions et mouvements corporels réalistes, éclairage chaud de l'heure dorée, texture de peau naturelle, léger flare d'objectif, vent doux, faible profondeur de champ, architecture détaillée, couleurs vibrantes mais réalistes.
+Audio : ambiance de rue naturelle, pas de personnes marchant, foules lointaines, sons subtils de café et musique de voyage inspirante qui devient plus émotionnelle lors de la fin au coucher du soleil.
+Pas de dialogue, pas de narration, pas de sous-titres, pas de superpositions de texte. Format vertical 9:16. Durée : 15 secondes.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102950263774732288/img/Cm4e8iDwlbESrsMK.jpg" width="600" alt="Prompt de Vlog Voyage en Ville Européenne">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11188)**
+
+**Auteur:** [Ejaz Bashir](https://x.com/Ejaz_bashir1) | **Source:** [Link](https://x.com/Ejaz_bashir1/status/2102950419601543250) | **Publié:** Sep 24, 2026
+
+---
+### Prompt de Film de Mode Lifestyle : Pause Café avec Seedance 2.0
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt détaillé pour Seedance 2.0 afin de générer un film de mode lifestyle photoréaliste de 15 secondes mettant en scène une jeune femme prenant un café dans un salon de thé cosy. Il inclut des instructions spécifiques pour la cohérence du personnage, le découpage des plans et les directives de style visuel.
+
+#### 📝 Prompt
+
+```
+FORMAT : Paysage 16:9, 15 secondes, prise de vue réelle photoréaliste, film de mode lifestyle cinématographique.
+
+COHÉRENCE DU PERSONNAGE :
+Utilisez la fiche de personnage téléversée comme référence principale. Gardez le visage de la jeune femme, ses proportions faciales, ses longs cheveux bruns ondulés, sa coiffure, son accessoire capillaire, ses boucles d'oreilles dorées, ses proportions corporelles, sa chemise ajustée bordeaux à fines rayures, son jean large foncé et ses baskets blanches parfaitement cohérents dans chaque plan. Ne modifiez pas sa tenue, sa coiffure, son âge ou son apparence.
+PLAN 1 — 0:00–0:05
+
+Un salon de thé rustique et cosy baigné par la lumière chaude de l'après-midi. La jeune femme entre naturellement, portant une petite sacoche bandoulière. La caméra la suit depuis derrière, au niveau de la taille, alors que ses longs cheveux bruns ondulés bougent doucement tandis qu'elle marche. Elle s'approche d'une petite table en bois près d'une fenêtre ensoleillée.
+
+Caméra : Plan-séquence fluide à l'épaule (handheld), mouvement naturel, faible profondeur de champ.
+
+PLAN 2 — 0:05–0:10
+
+Elle s'assoit confortablement, croise une jambe sur l'autre, prend une simple tasse de café en céramique blanche et boit une gorgée détendue. Coupe sur des gros plans intimes de ses boucles d'oreilles dorées, de ses doigts autour de la tasse, de sa chemise bordeaux à rayures et de ses cheveux qui tombent librement.
+
+Caméra : Léger travelling avant (push-in), micro-mouvement réaliste à l'épaule, lumière du soleil chaude sur son visage et ses cheveux.
+
+PLAN 3 — 0:10–0:15
+
+Plan de profil alors qu'elle regarde paisiblement vers la fenêtre du café. Elle remarque quelque chose dehors, esquisse un petit sourire naturel, puis se lève et marche vers la porte. Le dernier plan la suit depuis derrière alors qu'elle sort dans la lumière du jour chaude, ses cheveux bougeant naturellement.
+
+STYLE VISUEL
+
+Esthétique lifestyle douce et féminine, atmosphère cosy de café européen, environnements beiges et bruns chauds, lumière naturelle, texture de peau réaliste, mèches de cheveux détaillées, grain de film subtil, expressions authentiques et spontanées, sentiment éditorial de mode discret.
+
+IMPORTANT : Pas de poses exagérées, pas de ralenti, pas d'effet de filtre beauté, pas de changement de tenue, pas de modification du visage, pas d'accessoires supplémentaires, pas d'apparence cartoon/CGI. Gardez la performance naturelle et sans effort.
+
+PAYSAGE 16:9 • 15 SECONDES • PHOTORÉALISTE • CINÉMATOGRAPHIQUE • MOUVEMENT DE CAMÉRA NATUREL
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102920902602051584/img/iqI05E_HaYidE4pV.jpg" width="600" alt="Prompt de Film de Mode Lifestyle : Pause Café avec Seedance 2.0">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11185)**
+
+**Auteur:** [Caden Flux](https://x.com/Caden_Flux) | **Source:** [Link](https://x.com/Caden_Flux/status/2102920998165110878) | **Publié:** Sep 24, 2026
+
+---
+### Prompt vidéo de silhouette en double exposition
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt poétique pour une vidéo cinématographique mettant en scène des silhouettes en double exposition remplies d'un paysage marin, créé avec Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Plan cinématographique de 10 secondes, silhouette en double exposition d'un couple face à face, leurs silhouettes étant remplies par un coucher de soleil marin vivant. Le soleil descend lentement vers l'horizon, sa lumière dorée scintille et vacille à l'intérieur des silhouettes translucides. Des vagues douces roulent sur la plage de sable en mouvement lent et gracieux, des reflets chauds dansent sur l'eau. Un vol de mouettes glisse élégamment à travers le ciel pastel rose et bleu, s'éloignant vers l'horizon. Les feuilles d'érable automnales sur le sable tremblent et dérivent légèrement sous une brise légère, une feuille s'envole et tourbillonne dans les airs. Dans les dernières secondes, les deux silhouettes se penchent subtilement l'une vers l'autre, presque front contre front. Mouvement de caméra lent et onirique (push-in), palette de couleurs pastel douce (pêche, lavande, or, bleu marine), éclairage de contour chaud, atmosphère romantique éthérée, mouvement fluide et doux, sans coupures, sans texte.
+
+pas de distorsion du visage, pas d'artefacts de morphing, pas de clignotement des bords des silhouettes, pas de texte, pas de filigrane, pas de mouvement rapide, pas de changement de scène, pas de personnes supplémentaires
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102729242144292864/img/cThA5vFfXXvKR2Sz.jpg" width="600" alt="Prompt vidéo de silhouette en double exposition">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11187)**
+
+**Auteur:** [Viki](https://x.com/churvikv) | **Source:** [Link](https://x.com/churvikv/status/2102729372834639960) | **Publié:** Sep 23, 2026
+
+---
 ### Prompt pour une histoire d'amour dans une ville côtière romantique
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -5086,119 +5200,6 @@ Scène de randonnée en montagne cinématographique ultra-réaliste, un sentier 
 **Auteur:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2097185540391211470) | **Publié:** Sep 8, 2026
 
 ---
-### Séquence d'action d'arts martiaux
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de combat d'arts martiaux en plan-séquence hautement dynamique situé dans une salle de classe japonaise, mettant l'accent sur la chorégraphie physique et une caméra immersive.
-
-#### 📝 Prompt
-
-```
-mage1 affronte trois adversaires à l'intérieur d'une salle de classe japonaise dans une séquence d'action intense et hautement dynamique en plan-séquence. La salle de classe est remplie de bureaux en bois, de chaises, de cartables, d'un tableau noir, de fenêtres coulissantes, de rideaux, de néons au plafond, d'affiches, de livres et de papiers éparpillés. Le combat est rapide, physique et hautement interactif avec l'environnement. La femme se déplace entre les bureaux avec une agilité tranchante, esquivant les attaques des trois adversaires simultanément. Elle saute par-dessus les bureaux, glisse sur les tables, projette des chaises sur les assaillants, bloque les coups en utilisant des objets de la classe, saisit un sac à dos pour dévier un coup et utilise les allées étroites entre les bureaux pour rediriger son élan. Des papiers volent dans les airs, les chaises grincent sur le sol, les bureaux basculent, les rideaux fouettent sous l'effet du mouvement et la lumière du soleil traverse les fenêtres, capturant les particules de poussière dans l'air. La caméra est extrêmement dynamique et proche de l'action, sans jamais recourir à un plan large statique. Utilisez une caméra en plan-séquence rapide qui suit, tourne, plonge, fouette et se faufile constamment à travers le combat. La caméra se déplace entre les bureaux, pivote autour de la femme lorsqu'elle se retourne, recule précipitamment lorsque les adversaires chargent, descend près du sol lors des balayages de jambes, remonte soudainement lorsqu'elle saute par-dessus un bureau et pivote rapidement pour révéler l'attaquant suivant. Le cadrage doit paraître urgent, porté à l'épaule, immersif et physiquement présent dans la salle de classe. L'action doit présenter une chorégraphie solide, des mouvements corporels réalistes, des impacts crédibles, un timing de réaction rapide, un combat rapproché et un mouvement continu. Donnez à la scène l'aspect d'une séquence d'action d'arts martiaux à gros budget capturée en un seul plan ininterrompu. Utilisez un éclairage naturel de salle de classe mélangé à la lumière chaude du soleil de l'après-midi traversant les fenêtres, des ombres réalistes, un flou de mouvement pratique, des textures ancrées dans la réalité, des imperfections du monde réel et un rendu cinématographique brut. Pas de finition IA brillante, pas de CGI trop poli, et pas de cadrage en plan large statique. Prompts négatifs : caméra statique, mouvement lent, images tremblantes de basse qualité, sujet flou, corps déformé, physique de balancement irréaliste, style dessin animé, éclairage plat, couleurs ternes, ciel surexposé, bâtiments brisés, rues vides, peu de détails, coupes de caméra maladroites, mauvaise continuité de mouvement, aspect IA brillant, CGI trop poli, peau à l'aspect plastique, texture de peau cireuse, surfaces hyper-lisses, éclat artificiel, faux flou cinématographique, reflets d'objectif excessifs, HDR irréaliste, couleurs sursaturées, étalonnage des couleurs néon, aspect moteur de jeu, rendu Unreal Engine, éclairage synthétique, éclairage de studio, reflets parfaits et propres, image numérique trop nette, détail IA croustillant, image surtraitée, fausse profondeur de champ, bokeh exagéré, contraste non naturel, mouvement trop fluide, physique flottante, mouvement corporel caoutchouteux, anatomie déformée, membres déformés, proportions corporelles incohérentes, visage flou, traits du visage fondus, membres dupliqués, mains cassées, pose non naturelle, action rigide, interpolation de mouvement de basse qualité, flou de mouvement maculé, images fantômes, artefacts de mélange d'images, suivi de sujet instable, tremblement de caméra sans but, coupes maladroites, mauvaise continuité, aménagement urbain artificiel, rues vides, voitures répétées, bâtiments dupliqués, gratte-ciel déformés, faux trafic, arrière-plan peu détaillé, costume de super-héros, aspect bande dessinée, animation stylisée, effets visuels trop dramatiques, ombres irréalistes, faux rayons de soleil, brume non naturelle, hautes lumières surexposées, noirs écrasés, environnements stériles et propres, aucune atmosphère, aucune imperfection du monde réel.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2062599158029275136/img/0EbfDQNkx1RebKrf.jpg" width="600" alt="Séquence d'action d'arts martiaux">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=10558)**
-
-**Auteur:** [auqib](https://x.com/auqibhabib) | **Source:** [Link](https://x.com/auqibhabib/status/2097183576601289042) | **Publié:** Sep 8, 2026
-
----
-### Gardien de phare bioluminescent dans la nuit
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinématographique pour une scène atmosphérique mettant en scène un vieux gardien de phare sur une falaise brumeuse, tandis que des orbes bioluminescents s'élèvent de l'océan.
-
-#### 📝 Prompt
-
-```
-Un vieux gardien de phare au visage marqué se tient sur une falaise brumeuse en pleine nuit, vêtu d'un épais manteau de laine, tenant une lanterne en laiton vieilli. En contrebas, les vagues de l'océan brillent d'une douce lumière bleue bioluminescente à chaque impact contre les rochers. Alors qu'il lève sa lanterne, des dizaines d'orbes flottants et lumineux (semblables à des lucioles) s'élèvent de l'eau et dérivent dans l'air embrumé, tourbillonnant doucement autour de lui. Des faisceaux de clair de lune volumétriques percent le brouillard. La caméra commence par un plan large sur la falaise, puis effectue un lent travelling cinématographique vers le visage du gardien tandis que les orbes l'entourent, pour finir sur un gros plan où les orbes se reflètent dans ses yeux. Étalonnage aux tons bleu sarcelle et ambre chaud, textures hyper-réalistes, faible profondeur de champ, grain de film, brouillard atmosphérique, 15 secondes, mouvement de caméra fluide et continu, sans coupure.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097182470462746625/img/5vvEYjNH2of4epzm.jpg" width="600" alt="Gardien de phare bioluminescent dans la nuit">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=10520)**
-
-**Auteur:** [Sarah](https://x.com/SyntheSarah) | **Source:** [Link](https://x.com/SyntheSarah/status/2097182529564365135) | **Publié:** Sep 8, 2026
-
----
-### Vidéo cinématique réaliste de style de vie d'une femme est-asiatique
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo de style de vie multi-plans très détaillé de 15 secondes mettant en scène une femme est-asiatique dans un intérieur chaleureux, capturant des actions précises avec timecode et des mouvements de caméra naturels à l'épaule.
-
-#### 📝 Prompt
-
-```
-Une vidéo cinématique de style de vie ultra-réaliste mettant en scène une jeune femme est-asiatique [utiliser l'image de référence] aux longs cheveux brun foncé lisses dans une maison moderne et chaleureuse. Elle porte un cardigan beige doux sur un haut blanc ajusté et un jean bleu décontracté.
-
-0–3 s : Elle se tient près d'une grande fenêtre dans une chambre baignée de soleil, ouvre doucement les rideaux et regarde dehors avec un sourire paisible. La lumière chaude du matin éclaire naturellement son visage.
-
-3–6 s : Coupe vers la cuisine. Elle marche vers le comptoir, prend un verre d'eau, en boit une petite gorgée, puis jette un coup d'œil vers la caméra avec un sourire espiègle.
-
-6–9 s : Elle est assise sur un canapé confortable dans le salon, se drape dans une petite couverture et fait défiler son téléphone avec désinvolture avant de lever les yeux vers la caméra.
-
-9–12 s : Elle se lève soudainement, traverse le couloir en se recoiffant, puis se retourne et adresse un sourire rapide et espiègle à la caméra.
-
-12–15 s : Gros plan final près de l'encadrement de la porte. Elle se penche légèrement vers la caméra, rit naturellement, fait un petit signe de la main et s'éloigne tandis que la caméra reste fixe.
-
-Mouvement de caméra naturel à l'épaule, mouvement corporel réaliste, expressions faciales authentiques, lumière du soleil douce, faible profondeur de champ, grain cinématographique subtil, palette de couleurs neutres et chaudes, texture de peau réaliste, détails photoréalistes, transitions fluides, esthétique de style de vie spontané, composition verticale 9:16, vidéo pour réseaux sociaux de 15 secondes, sans texte, sans sous-titres, sans logos.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097172023168638976/img/ZoaWqj1ZFXhTphVD.jpg" width="600" alt="Vidéo cinématique réaliste de style de vie d'une femme est-asiatique">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=10498)**
-
-**Auteur:** [Sairah](https://x.com/Sairah_0) | **Source:** [Link](https://x.com/Sairah_0/status/2097172152072196126) | **Publié:** Sep 8, 2026
-
----
-### Séquences vidéo nostalgiques style années 2000
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un script de 15 secondes détaillant des micro-moments d'une femme lors d'une promenade chaleureuse dans son quartier, filmé dans le style caractéristique des appareils photo compacts du début des années 2000.
-
-#### 📝 Prompt
-
-```
-Format : 15s, 1080p, paysage 16:9
-
-Style : Vidéo amateur nostalgique ultra-réaliste
-
-Caméra : Appareil photo numérique compact du début des années 2000 tenu à la main par un ami (mise au point automatique naturelle, léger tremblement de la main)
-
-Audio : 100 % son diégétique (bruits de pas, ambiance de rue, bruissements, rires naturels ; pas de musique, pas de voix off)
-
-Personnage et décor : Une jeune femme (début vingtaine, cheveux bruns ondulés à moitié attachés, veste militaire olive oversize, jean large, mocassins, sac fourre-tout en toile) marchant dans un quartier calme au bord d'un canal par un après-midi chaud et nuageux.
-
-DÉCOUPAGE DES SCÈNES (SÉQUENCES DE 2 SECONDES)
-00:00–00:02 (Séquence 1 — La cuisine) Elle se détourne du comptoir avec un verre de thé glacé, remarque l'objectif et esquisse un demi-sourire amusé tandis que l'ami zoome et dézoome rapidement.
-
-00:02–00:04 (Séquence 2 — Sortie) Elle ajuste son sac en toile sur l'épaule et pousse la lourde porte en bois de l'allée, la tenant pour la caméra tandis qu'un vélo passe en faisant vibrer les pavés.
-
-00:04–00:06 (Séquence 3 — L'étal de fruits) S'arrêtant devant une caisse en bois au coin de la rue, elle prend une pêche mûre, échange un rire et quelques pièces avec le vendeur, et glisse le fruit dans un petit sachet en papier.
-
-00:06–00:08 (Séquence 4 — La rencontre avec le chien) Traversant le pont piétonnier en pierre, elle s'agenouille naturellement pour gratter les oreilles du golden retriever d'un voisin avant de se relever.
-
-00:08–00:10 (Séquence 5 — La première bouchée) Appuyée contre la rambarde usée du pont au-dessus du canal, elle croque dans le fruit et regarde droit vers la caméra avec des yeux grands et ravis.
-
-00:10–00:12 (Séquence 6 — Jeu avec l'objectif) L'opérateur s'approche très près de son visage ; elle éclate de rire, fronce le nez et pose malicieusement sa main sur l'objectif pour le masquer.
-
-00:12–00:14 (Séquence 7 — Elle s'éloigne) Elle baisse la main, se retourne et trottine dans l'allée étroite, jetant un coup d'œil par-dessus son épaule avec un signe de la main pour inviter son ami à la rattraper.
-
-00:14–00:15 (Séquence 8 — Coupure abrupte) La caméra bondit en avant pour la suivre ; en pleine foulée, elle se retourne avec un sourire rapide, et l'enregistrement s'arrête brusquement à 00:14.8 sans fondu.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097158383921168384/img/IOpDlKPfXk2z6QuD.jpg" width="600" alt="Séquences vidéo nostalgiques style années 2000">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=10504)**
-
-**Auteur:** [𝑨𝒇𝒓𝒊𝒏](https://x.com/afrinxai) | **Source:** [Link](https://x.com/afrinxai/status/2097160058446766088) | **Publié:** Sep 8, 2026
-
----
 ---
 
 ## 📚 Plus de prompts disponibles
@@ -5260,6 +5261,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-09-24T03:40:23.619Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-09-25T03:56:50.207Z</sub>
 
 </div>

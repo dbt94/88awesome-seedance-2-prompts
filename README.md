@@ -68,9 +68,9 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **6415** |
+| 📝 Total Prompts | **6419** |
 | ⭐ Featured Prompts | **6** |
-| 🔄 Last Updated | **2026-09-24** |
+| 🔄 Last Updated | **2026-09-25** |
 
 ---
 
@@ -365,11 +365,125 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 
 > 📝 Sorted by publish date (newest first)
 
-### Romantic Coastal Town Love Story Prompt
+### Lip Gloss Beauty Product Video Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt for Seedance 2.0 depicting a romantic first meeting between a Korean girl and boy in a coastal town during golden hour.
+> A prompt for generating a realistic vertical beauty product video showcasing lip gloss application and lifestyle aesthetics.
+
+#### 📝 Prompt
+
+```
+Create a realistic 10-second vertical beauty product video showing hands opening a small elegant cardboard package containing a premium pink lip gloss. The hands carefully remove the gloss from the box and reveal its sleek reflective silver cap and transparent pink body. The applicator is taken out smoothly and the glossy pink product is swatched on the back of the hand, showing its creamy, shiny texture. Then transition to a close-up of a woman naturally applying the gloss to her lips with precise, gentle movements and realistic skin texture. Finish with the lip gloss standing beautifully on a wooden café table beside two cups of latte with artistic foam, creating a warm lifestyle beauty-ad atmosphere. Use soft natural lighting, realistic shadows, shallow depth of field, smooth handheld camera movement, premium commercial quality, natural skin texture, accurate product details, and seamless transitions.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102952041752715264/img/Y_s6Ma6KLmmT8sp6.jpg" width="600" alt="Lip Gloss Beauty Product Video Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11186)**
+
+**Author:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2102952087823044888) | **Published:** Sep 24, 2026
+
+---
+### European City Travel Vlog Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A comprehensive prompt for generating a 15-second cinematic travel vlog featuring a blonde woman exploring a European city with consistent character identity.
+
+#### 📝 Prompt
+
+```
+Create a 15-second cinematic travel vlog following the same young blonde woman throughout an evening exploring a beautiful European city. Keep her face, hairstyle, white oversized shirt, blue jeans, body proportions, and overall appearance consistent across every shot.
+Start with a handheld wide-angle selfie shot as she walks through a busy historic city square during golden hour, smiling naturally at the camera. Tourists move around her while warm sunlight falls across the surrounding European architecture.
+Seamlessly transition into a lively narrow pedestrian street lined with colorful historic buildings, outdoor cafés, local shops, hanging lights, and an old church tower visible in the distance. She continues exploring while the camera follows with natural handheld travel-vlog movement.
+Transition to a colorful local souvenir shop filled with handmade ceramics, decorative plates, artwork, textiles, and traditional crafts. Show her stopping outside the shop and looking toward the camera as warm interior light and colorful products fill the background.
+Cut to a cozy outdoor café. She sits at a small table, lifts a white coffee cup toward the camera, smiles naturally, and takes a sip while people move subtly in the background.
+For the final sequence, transition to a panoramic hilltop viewpoint overlooking the city at sunset. Begin with her facing the camera as the orange sun glows behind her. A gentle breeze moves her hair and loose shirt.
+She closes her eyes briefly, opens her arms, then turns away from the camera and slowly walks toward the viewpoint. As she walks away, smoothly pull the camera backward into a wide cinematic shot, gradually revealing the enormous cityscape and glowing sunset.
+End with her standing alone facing the city, framed against the warm orange sky.
+Photorealistic, premium travel-film aesthetic, authentic handheld vlog footage mixed with cinematic wide shots, seamless transitions, consistent character identity and clothing, realistic expressions and body movement, warm golden-hour lighting, natural skin texture, subtle lens flare, gentle wind, shallow depth of field, detailed architecture, vibrant but realistic colors.
+Audio: natural street ambience, footsteps, distant crowds, subtle café sounds, and uplifting travel music that becomes more emotional during the sunset ending.
+No dialogue, no narration, no subtitles, no text overlays. Vertical 9:16. Duration: 15 seconds.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102950263774732288/img/Cm4e8iDwlbESrsMK.jpg" width="600" alt="European City Travel Vlog Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11188)**
+
+**Author:** [Ejaz Bashir](https://x.com/Ejaz_bashir1) | **Source:** [Link](https://x.com/Ejaz_bashir1/status/2102950419601543250) | **Published:** Sep 24, 2026
+
+---
+### Seedance 2.0 Coffee Run Fashion Film Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for Seedance 2.0 to generate a 15-second photorealistic lifestyle fashion film featuring a girl having coffee in a cozy café. It includes specific character consistency instructions, shot breakdowns, and visual style guidelines.
+
+#### 📝 Prompt
+
+```
+FORMAT: 16:9 landscape, 15 seconds, photorealistic live-action, cinematic lifestyle fashion film.
+
+CHARACTER CONSISTENCY:
+Use the uploaded character sheet as the master character reference. Keep the girl’s face, facial proportions, long wavy brown hair, hairstyle, hair clip, gold earrings, body proportions, burgundy pinstriped fitted shirt, wide-leg dark denim, and white sneakers exactly consistent throughout every shot. Do not change her outfit, hairstyle, age, or appearance.
+SHOT 1 — 0:00–0:05
+
+A cozy rustic café in warm afternoon sunlight. The girl enters naturally carrying a small shoulder bag. Camera follows her from behind at waist height as her long wavy brown hair moves gently while she walks. She approaches a small wooden table near a sunlit window.
+
+Camera: smooth handheld tracking shot, natural movement, shallow depth of field.
+
+SHOT 2 — 0:05–0:10
+
+She sits comfortably, crosses one leg over the other, picks up a simple white ceramic coffee cup, and takes a relaxed sip. Cut to intimate close-ups of her gold earrings, fingers around the cup, burgundy striped shirt, and flowing hair.
+
+Camera: subtle push-in, realistic handheld micro-movement, warm sunlight across her face and hair.
+
+SHOT 3 — 0:10–0:15
+
+Side-profile shot as she looks peacefully toward the café window. She notices something outside, gives a tiny natural smile, then stands and walks toward the door. Final shot follows her from behind as she exits into warm daylight, her hair moving naturally.
+
+VISUAL STYLE
+
+Soft feminine lifestyle aesthetic, cozy European café atmosphere, warm beige and brown surroundings, natural sunlight, realistic skin texture, detailed hair strands, subtle film grain, authentic candid expressions, understated fashion editorial feeling.
+
+IMPORTANT: No exaggerated posing, no slow motion, no beauty-filter effect, no outfit changes, no face changes, no additional accessories, no cartoon/CGI appearance. Keep the performance natural and effortless.
+
+16:9 LANDSCAPE • 15 SECONDS • PHOTOREALISTIC • CINEMATIC • NATURAL CAMERA MOVEMENT
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102920902602051584/img/iqI05E_HaYidE4pV.jpg" width="600" alt="Seedance 2.0 Coffee Run Fashion Film Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11185)**
+
+**Author:** [Caden Flux](https://x.com/Caden_Flux) | **Source:** [Link](https://x.com/Caden_Flux/status/2102920998165110878) | **Published:** Sep 24, 2026
+
+---
+### Double Exposure Silhouette Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A poetic prompt for a cinematic video featuring double-exposure silhouettes filled with a seascape, created with Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Cinematic 10-second shot, double-exposure silhouette of a couple facing each other, their silhouettes filled with a living sunset seascape. The sun slowly descends toward the horizon, its golden light shimmering and flickering inside the translucent silhouettes. Gentle ocean waves roll onto the sandy beach in soft, slow motion, warm reflections dancing on the water. A flock of seagulls glides gracefully across the pastel pink-and-blue sky, flying away into the distance. Autumn maple leaves on the sand tremble and drift slightly in a light breeze, one leaf lifts and swirls into the air. In the final seconds the two silhouettes lean subtly toward each other, almost touching foreheads. Slow dreamy camera push-in, soft pastel color palette (peach, lavender, gold, sea-blue), warm rim light, ethereal romantic atmosphere, smooth gentle motion, no cuts, no text.
+
+no face distortion, no morphing artifacts, no flickering silhouette edges, no text, no watermark, no fast motion, no scene change, no extra people
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102729242144292864/img/cThA5vFfXXvKR2Sz.jpg" width="600" alt="Double Exposure Silhouette Video Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11187)**
+
+**Author:** [Viki](https://x.com/churvikv) | **Source:** [Link](https://x.com/churvikv/status/2102729372834639960) | **Published:** Sep 23, 2026
+
+---
+### Korean Love Story Cinematic Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for a romantic cinematic video featuring a couple meeting in a Korean coastal town during golden hour.
 
 #### 📝 Prompt
 
@@ -377,18 +491,18 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 A beautiful Korean girl with long, straight black hair walks through a peaceful coastal Korean town during golden hour, wearing a stylish beige trench coat and carrying a handbag. A handsome Korean boy in a dark leather jacket stands near a railway crossing as a vintage tram passes by. The girl slowly approaches him along the seaside street, with warm sunlight glowing on her face. Cinematic camera movements, natural walking motion, realistic facial expressions, soft ocean breeze, and detailed Korean street scenery. Capture their first eye contact with a gentle romantic atmosphere, shallow depth of field, warm color grading, and photorealistic quality. Create a beautiful 15-second cinematic love story with smooth transitions, natural lighting, and emotional storytelling.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102607613376811008/img/f7CrIsdVKZtqZhPE.jpg" width="600" alt="Romantic Coastal Town Love Story Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102607613376811008/img/f7CrIsdVKZtqZhPE.jpg" width="600" alt="Korean Love Story Cinematic Prompt">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11153)**
 
 **Author:** [Ayat](https://x.com/aiwithaayat) | **Source:** [Link](https://x.com/aiwithaayat/status/2102607673501892691) | **Published:** Sep 23, 2026
 
 ---
-### Early 2000s Home Video Style Prompt
+### Seoul Rainy Morning Home Video Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An extremely detailed prompt for Seedance 2.0 to generate a lo-fi, early 2000s Sony MiniDV style home video of a Korean woman waking up and interacting with a rainy window.
+> A highly detailed prompt for a realistic early-2000s style home video of a woman in a Seoul apartment during a rainy morning.
 
 #### 📝 Prompt
 
@@ -413,12 +527,10 @@ Style: Ultra-realistic early-2000s Sony MiniDV home video filmed by another pers
 
 Audio: Natural location sound only—steady rain against the window, faint wind, distant traffic, subtle room ambience, soft footsteps and quiet fabric movement. No music, narration or added sound effects.
 
-Goal: Feel like a completely ordinary, intimate early-2000s home-video moment. Nothing dramatic happens; the atmosphere comes from the rainy window, condensation, her tiny smile and the quiet early morning. It should feel accidentally captured rather than deliberately performed.
-
-Motion quality: Keep her movements extremely natural and smooth, especially the finger moving through condensation and her slow approach
+Goal: Feel like a completely ordinary, intimate early-2000s home-video moment. Nothing dramatic happens; the atmosphere comes from the rainy window,
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102471023140761600/img/VEaSlLn6iLvgftCa.jpg" width="600" alt="Early 2000s Home Video Style Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102471023140761600/img/VEaSlLn6iLvgftCa.jpg" width="600" alt="Seoul Rainy Morning Home Video Prompt">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11157)**
 
@@ -429,7 +541,7 @@ Motion quality: Keep her movements extremely natural and smooth, especially the 
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A dynamic video prompt for Seedance 2.0 featuring an anime-style girl falling through a futuristic skyscraper and transforming into a powerful flying entity with cinematic effects.
+> A detailed prompt for a dramatic anime-style video featuring a girl falling through a futuristic skyscraper and transforming.
 
 #### 📝 Prompt
 
@@ -4872,119 +4984,6 @@ Ultra-realistic cinematic mountain hiking scene, a narrow rugged trail winding t
 **Author:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2097185540391211470) | **Published:** Sep 8, 2026
 
 ---
-### Martial Arts Action Sequence
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly dynamic one-take martial arts fight prompt set in a Japanese high school classroom, emphasizing physical choreography and immersive camera work.
-
-#### 📝 Prompt
-
-```
-mage1 fights three opponents inside a Japanese high school classroom in an intense, highly dynamic one-take action sequence. The classroom is filled with wooden desks, chairs, school bags, a chalkboard, sliding windows, curtains, fluorescent ceiling lights, posters, books, and scattered papers. The fight is fast, physical, and highly interactive with the environment. The woman moves between the desks with sharp agility, dodging attacks from all three opponents at once. She vaults over desks, slides across tabletops, kicks chairs into attackers, blocks strikes using classroom objects, grabs a backpack to deflect a hit, and uses the narrow aisles between desks to redirect momentum. Papers fly through the air, chairs scrape across the floor, desks topple, curtains whip from the movement, and sunlight cuts through the windows, catching dust particles in the air. The camera is extremely dynamic and close to the action, never a static wide shot. Use a fast-moving one-take camera that constantly follows, circles, ducks, whips, and pushes through the fight. The camera moves between desks, swings around the woman as she turns, rushes backward as opponents charge, drops low near the floor during leg sweeps, rises suddenly as she jumps over a desk, and whips around quickly to reveal the next attacker. The framing should feel urgent, handheld, immersive, and physically present inside the classroom. The action should feature strong choreography, realistic body movement, believable impact, fast reaction timing, close-range combat, and continuous motion. Make the scene feel like a high-budget martial arts action sequence captured in one uninterrupted shot. Use natural classroom lighting mixed with warm afternoon sunlight through the windows, realistic shadows, practical motion blur, grounded textures, real-world imperfections, and a raw cinematic look. No glossy AI finish, no overly polished CGI, and no static long-shot framing. Negative prompts: static camera, slow movement, shaky low-quality footage, blurry subject, distorted body, unrealistic swinging physics, cartoon style, flat lighting, dull colors, overexposed sky, broken buildings, empty streets, low detail, awkward camera cuts, poor motion continuity, AI glossy look, overly polished CGI, plastic-looking skin, waxy skin texture, hyper-smooth surfaces, artificial shine, fake cinematic bloom, excessive lens flare, unrealistic HDR, oversaturated colors, neon color grading, game-engine look, Unreal Engine render look, synthetic lighting, studio lighting, perfect clean reflections, overly sharp digital image, crispy AI detail, overprocessed image, fake depth of field, exaggerated bokeh, unnatural contrast, overly smooth motion, floating physics, rubbery body movement, distorted anatomy, warped limbs, inconsistent body proportions, blurry face, melted facial features, duplicated limbs, broken hands, unnatural pose, stiff action, low-quality motion interpolation, smeared motion blur, ghosting, frame blending artifacts, unstable subject tracking, camera jitter without purpose, awkward cuts, poor continuity, artificial city layout, empty streets, repeated cars, duplicated buildings, warped skyscrapers, fake traffic, low-detail background, superhero suit, comic-book look, stylized animation, overly dramatic VFX, unrealistic shadows, fake sun rays, unnatural haze, overexposed highlights, crushed blacks, sterile clean environments, no atmosphere, no real-world imperfections.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2062599158029275136/img/0EbfDQNkx1RebKrf.jpg" width="600" alt="Martial Arts Action Sequence">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10558)**
-
-**Author:** [auqib](https://x.com/auqibhabib) | **Source:** [Link](https://x.com/auqibhabib/status/2097183576601289042) | **Published:** Sep 8, 2026
-
----
-### Cinematic Bioluminescent Ocean Lighthouse Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed cinematic video prompt for a 15-second shot of a lighthouse keeper watching bioluminescent waves and floating orbs at night, featuring specific camera movements and color grading instructions.
-
-#### 📝 Prompt
-
-```
-A weathered old lighthouse keeper stands on a foggy cliff at night, wearing a thick wool coat, holding an old brass lantern. Below him, the ocean waves glow with soft bioluminescent blue light with each crash against the rocks. As he raises the lantern, dozens of floating glowing orbs (like fireflies) rise up from the water and drift past him into the misty air, swirling gently around his figure. Volumetric moonlight beams cut through the fog. Camera starts wide on the cliff, then does a slow cinematic push-in toward the keeper's face as the orbs surround him, ending on a close-up with orbs reflecting in his eyes. Teal and warm-amber color grade, hyper-realistic textures, shallow depth of field, film grain, atmospheric fog, 15 seconds, smooth continuous camera motion, no cuts.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097182470462746625/img/5vvEYjNH2of4epzm.jpg" width="600" alt="Cinematic Bioluminescent Ocean Lighthouse Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10520)**
-
-**Author:** [Sarah](https://x.com/SyntheSarah) | **Source:** [Link](https://x.com/SyntheSarah/status/2097182529564365135) | **Published:** Sep 8, 2026
-
----
-### Realistic lifestyle cinematic video of an East Asian woman
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed, 15-second multi-shot lifestyle video prompt featuring an East Asian woman in a cozy home setting, capturing specific timecoded actions and natural handheld camera movements.
-
-#### 📝 Prompt
-
-```
-A highly realistic cinematic lifestyle video featuring a young East Asian woman [use reference image] with long, straight dark-brown hair in a cozy modern home. She wears a soft beige cardigan over a white fitted top with relaxed blue jeans.
-
-0–3 sec: She stands beside a large window in a sunlit bedroom, gently opens the curtains, and looks outside with a peaceful smile. Warm morning sunlight falls naturally across her face.
-
-3–6 sec: Cut to the kitchen. She walks toward the counter, picks up a glass of water, takes a small sip, then glances toward the camera with a playful smile.
-
-6–9 sec: She sits on a comfortable sofa in the living room, pulls a small blanket around herself, and casually scrolls through her phone before looking up at the camera.
-
-9–12 sec: She suddenly gets up, walks through the hallway while fixing her hair, then turns around and gives the camera a quick playful smile.
-
-12–15 sec: Final close-up near the doorway. She leans slightly toward the camera, laughs naturally, gives a small wave, and walks away as the camera remains stationary.
-
-Natural handheld camera movement, realistic body motion, authentic facial expressions, soft sunlight, shallow depth of field, subtle cinematic grain, warm neutral color palette, realistic skin texture, photorealistic details, smooth transitions, candid lifestyle aesthetic, vertical 9:16 composition, 15-second social-media video, no text, no subtitles, no logos.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097172023168638976/img/ZoaWqj1ZFXhTphVD.jpg" width="600" alt="Realistic lifestyle cinematic video of an East Asian woman">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10498)**
-
-**Author:** [Sairah](https://x.com/Sairah_0) | **Source:** [Link](https://x.com/Sairah_0/status/2097172152072196126) | **Published:** Sep 8, 2026
-
----
-### Nostalgic Early 2000s Handheld Home Footage
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A 15-second script breaking down micro-moments of a woman on a warm neighborhood walk, styled explicitly like early 2000s compact camera recordings.
-
-#### 📝 Prompt
-
-```
-Format: 15s, 1080p, 16:9 landscape
-
-Style: Ultra-realistic nostalgic home-video footage
-
-Camera: Handheld early-2000s compact digital camera filmed by a friend (natural autofocus hunting, minor handheld shake)
-
-Audio: 100% diegetic location sound (footsteps, ambient street noise, rustling, natural laughter; no music, no voiceover)
-
-Character & Setting: Same young woman (early 20s, dark wavy hair half-clipped, oversized olive field jacket, wide-leg jeans, loafers, canvas tote) walking through the quiet canal-side neighborhood on a warm, overcast afternoon.
-
-SCENE BREAKDOWN (2-SECOND BEATS)
-00:00–00:02 (Beat 1 — The Kitchen) She turns from the counter holding a glass of iced tea, spots the lens, and flashes an amused half-smile as the friend quickly taps zoom in and out.
-
-00:02–00:04 (Beat 2 — Stepping Outside) She shoulders her canvas tote and pushes open the heavy wooden alley door, holding it open for the camera while a bicycle rattles past on cobblestones.
-
-00:04–00:06 (Beat 3 — The Fruit Stand) Pausing at a corner wooden crate, she picks up a ripe peach, exchanges a quick laugh and coins with the vendor, and drops it into a small paper sleeve.
-
-00:06–00:08 (Beat 4 — The Dog Greeting) Crossing the stone pedestrian bridge, she naturally drops to one knee to scratch a neighbor’s golden retriever behind the ears before stepping back up.
-
-00:08–00:10 (Beat 5 — The First Bite) Leaning against the weathered bridge railing over the canal, she takes a fresh bite of the fruit and looks right at the camera with wide, delighted eyes.
-
-00:10–00:12 (Beat 6 — Playful Lens Block) the camera operator pushes in close to her face; she laughs out loud, scrunches her nose, and playfully slaps her palm over the lens to block it.
-
-00:12–00:14 (Beat 7 — Walking Ahead) She drops her hand, turns, and jogs ahead down the narrow lane, glancing back over her shoulder with a two-finger gesture for her friend to catch up.
-
-00:14–00:15 (Beat 8 — Abrupt Cut) Camera bounds forward following behind her; mid-stride, she looks back with a quick grin, and the recording abruptly cuts off at 00:14.8 without a fade.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097158383921168384/img/IOpDlKPfXk2z6QuD.jpg" width="600" alt="Nostalgic Early 2000s Handheld Home Footage">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10504)**
-
-**Author:** [𝑨𝒇𝒓𝒊𝒏](https://x.com/afrinxai) | **Source:** [Link](https://x.com/afrinxai/status/2097160058446766088) | **Published:** Sep 8, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -5046,6 +5045,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-24T03:40:04.642Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-25T03:56:35.999Z</sub>
 
 </div>
