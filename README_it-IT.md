@@ -68,9 +68,9 @@ Perché usare la nostra galleria?
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **6419** |
+| 📝 Totale prompt | **6423** |
 | ⭐ Prompt in evidenza | **6** |
-| 🔄 Ultimo aggiornamento | **2026-09-25** |
+| 🔄 Ultimo aggiornamento | **2026-09-26** |
 
 ---
 
@@ -361,6 +361,159 @@ Ultra realistico, energia ispirata a Fast and Furious, illuminazione fotorealist
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Prompt Video per Cabina Invernale Cinematografica
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt dettagliato per generare un video cinematografico realistico di una donna in una confortevole cabina invernale, con movimenti di camera specifici e dettagli atmosferici.
+
+#### 📝 Prompt
+
+```
+Crea un video invernale cinematografico altamente realistico di una donna serena che soggiorna in una confortevole cabina di legno circondata da un bellissimo paesaggio montano innevato. Inizia con un intimo primo piano della donna che riposa pacificamente all'interno mentre la calda luce dorata del sole filtra dolcemente attraverso la finestra sul suo viso. Passa a una vista panoramica cinematografica del balcone innevato della cabina, dei pini alti, delle montagne lontane e di un caldo alba che illumina il paesaggio. Mostra piccoli uccelli che volano e si posano sulla ringhiera di legno coperta di neve mentre la donna tende delicatamente la mano per dar loro da mangiare. Cattura texture dettagliate della neve, movimenti naturali degli uccelli, un leggero vento invernale e una luce solare realistica. Quindi mostrala all'interno della cabina mentre prepara una tazza di tè caldo accanto a un tradizionale bollitore vicino alla finestra. Concentrati sulle sue mani, sulla tazza fumante, sul comodo maglione lavorato a maglia e sulla tranquilla scena innevata esterna. Seguila mentre cammina lentamente lungo un sentiero di legno coperto di neve indossando un caldo maglione color crema e pantaloni scuri. Termina con una vasta vista aerea cinematografica delle cabine silenziose coperte di neve, della foresta di pini, delle montagne e del tramonto o dell'alba luminosa in lontananza. Usa texture fotorealistiche, movimento umano naturale, illuminazione realistica, profondità di campo sottile, movimento fluido della camera, dettagli atmosferici invernali e una gradazione cromatica cinematografica autentica, facendo sembrare l'intero video come riprese reali piuttosto che generate dall'AI.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103359076004691968/img/ivUZ2Dqzi2ShtzCi.jpg" width="600" alt="Prompt Video per Cabina Invernale Cinematografica">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=11230)**
+
+**Autore:** [liana](https://x.com/Lianaalane) | **Fonte:** [Link](https://x.com/Lianaalane/status/2103359307874226667) | **Pubblicato:** Sep 25, 2026
+
+---
+### Prompt Video Avventura Montagna Artica
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt completo per generare un video di avventura invernale cinematografico con una donna coreana in un paesaggio artico.
+
+#### 📝 Prompt
+
+```
+Crea un video di avventura invernale cinematografico ultra-realistico di 15 secondi ambientato in uno spettacolare paesaggio montano innevato in stile artico.
+Una bella giovane donna coreana, tra i 20 e i 25 anni, con tratti somatici coreani naturali, pelle chiara, occhi marrone scuro espressivi e delicati, lunghi capelli lisci scuri, trucco naturale discreto ed espressione gentile e realistica. Mantieni il suo viso, la pettinatura, le proporzioni del corpo, l'abbigliamento e l'identità complessiva perfettamente coerenti per tutta la durata del video. Indossa un outfit invernale premium bianco e crema: una calda giacca invernale imbottita color crema con cappuccio peloso, un berretto a maglia beige, una morbida sciarpa color crema, guanti invernali, pantaloni invernali scuri, stivali da neve e un piccolo zainetto scuro. I suoi vestiti devono muoversi naturalmente con il vento freddo della montagna.
+Una vasta valle montana innevata ispirata all'Artico, con enormi vette coperte di neve, laghi ghiacciati turchesi, distese di neve incontaminata, rocce ghiacciate, pini ricoperti di neve, ghiacciai lontani e leggera nevicata. L'ambiente deve apparire fotorealistico e maestoso, come un film di viaggio cinematografico ad alto budget.
+Luce solare invernale naturale e soffusa, tonalità fredde blu-bianche della neve, luce dorata sottile che tocca le cime delle montagne, foschia atmosferica realistica, luce volumetrica, ombre naturali, riflessi realistici sul lago ghiacciato e texture della neve dettagliata.
+Fotocamera cinematografica di fascia alta, profondità di campo realistica, caratteristiche naturali dell'obiettivo, movimento fluido e controllato della camera, realismo sottile della ripresa a mano libera, composizione cinematografica, motion blur realistico, texture della pelle dettagliata, movimento realistico dei capelli, particelle di neve realistiche. Nessun aspetto CGI artificiale.
+Inizia con un epico piano largo di stabilizzazione di un'enorme catena montuosa artica coperta di neve e un lago turchese ghiacciato. La giovane donna coreana appare piccola in primo piano, con le spalle rivolte alla telecamera, mentre guarda le montagne. Fiocchi di neve cadono dolcemente intorno a lei. La telecamera avanza lentamente verso di lei. Transizione in un fluido piano sequenza medio mentre inizia a camminare su un sentiero innevato accanto al lago ghiacciato. I suoi stivali lasciano impronte realistiche nella neve fresca. I suoi lunghi capelli scuri e la sciarpa si muovono dolcemente nel vento freddo. La telecamera la segue da dietro e leggermente di lato.
+Taglio su un intimo primo piano cinematografico del suo viso. Si gira lentamente verso la telecamera e regala un sorriso naturale e sottile. Piccoli fiocchi di neve atterrano sui suoi capelli e sulle sue ciglia. Il suo respiro diventa visibile nell'aria gelida. Cattura la texture realistica della pelle, il movimento naturale degli occhi, l'espressione dolce e la profondità di campo ridotta.
+Passa a un bellissimo profilo laterale. Si ferma vicino al bordo del lago ghiacciato e guarda verso le enormi montagne innevate. La telecamera le gira lentamente intorno mentre la luce solare crea una morbida luce di contorno attorno ai suoi capelli. Particelle di neve fluttuano naturalmente attraverso l'inquadratura.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103346104557522944/img/AaBPCXKEhfGCn6BN.jpg" width="600" alt="Prompt Video Avventura Montagna Artica">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=11232)**
+
+**Autore:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Fonte:** [Link](https://x.com/ayzalnooor24521/status/2103346184081605052) | **Pubblicato:** Sep 25, 2026
+
+---
+### Prompt per video di abbraccio tra corvo e gatto
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt dettagliato per creare un video divertente e commovente, girato con telefono in mano, che mostra un corvo che abbraccia un gatto nel corridoio di un appartamento.
+
+#### 📝 Prompt
+
+```
+Crea un video realistico, divertente e commovente, girato con telefono in mano, che mostri un corvo nero dall'aspetto autentico e un gatto grigio soffice e realistico all'interno del corridoio semplice di un appartamento.
+
+Il gatto grigio indossa un piccolo fiocco rosa attaccato naturalmente sulla sommità della testa. Il fiocco rimane saldamente al suo posto per tutta la durata del video.
+
+0–3 sec:
+Il corvo si trova al centro del corridoio e si guarda intorno in modo naturale. Il gatto grigio appare in lontananza e nota il corvo. Corre immediatamente verso di lui con energia eccitata e giocosa.
+
+3–6 sec:
+Il gatto raggiunge il corvo. Il corvo si gira verso di lei e le avvolge delicatamente entrambe le ali attorno, creando l'illusione di un dolce piccolo abbraccio. Il gatto si accuccia affettuosamente contro il corvo. L'interazione deve sembrare spontanea e fisicamente credibile.
+
+6–10 sec:
+Dopo l'abbraccio, il corvo inizia a camminare avanti lungo il corridoio mentre il gatto grigio gli cammina accanto molto vicino. Si muovono insieme come una strana ma tenera coppia di amici. Il corvo ogni tanto guarda verso il gatto mentre camminano.
+
+10–12 sec:
+Il gatto alza brevemente lo sguardo verso il corvo, poi continuano ad allontanarsi insieme.
+
+Stile visivo
+
+Animali estremamente realistici
+
+Anatomia reale del corvo, piume, zampe e becco
+
+Pelo del gatto grigio soffice e movimento naturale
+
+Piccolo fiocco rosa sulla testa del gatto
+
+Corridoio ordinario di un appartamento
+
+Telecamera smartphone portatile
+
+Leggero tremolio della telecamera e inquadratura imperfetta
+
+Illuminazione interna naturale
+
+Estetica video virale da social media leggermente compressa, 144p/bassa qualità
+
+Leggero motion blur e autofocus della fotocamera del telefono
+
+Nessuna color grading cinematografica
+
+Nessun aspetto CGI
+
+Nessun look cartonesco
+
+Nessuna espressione facciale esagerata
+
+Nessuna mano umana
+
+Mantieni gli animali anatomicamente realistici rendendo l'abbraccio fisicamente credibile
+
+Sensazione di video internet spontaneo, divertente e sano
+
+Scatto continuo singolo, senza tagli o transizioni
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103054180785217536/img/tvcRUMhxysJaCxdS.jpg" width="600" alt="Prompt per video di abbraccio tra corvo e gatto">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=11231)**
+
+**Autore:** [Soulful Ai](https://x.com/soulful__ai) | **Fonte:** [Link](https://x.com/soulful__ai/status/2103056454395855115) | **Pubblicato:** Sep 24, 2026
+
+---
+### Scena dello schiaffo con superpoteri al liceo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt cinematografico per generare una scena di un cortometraggio in un corridoio del liceo, dove una ragazza rivela i suoi superpoteri dopo essere stata schiaffeggiata, caratterizzata da design specifici dei personaggi, effetti energetici e movimenti di camera.
+
+#### 📝 Prompt
+
+```
+Live-action cinematografico 16:9, 24 secondi, corridoio realistico di un liceo, illuminazione fluorescente brillante, pavimento lucido, armadietti grigi, profondità di campo ridotta. Personaggi: Ragazza A: capelli castani lunghi e ondulati, camicia a quadri blu sopra una canotta bianca, jeans. Ragazza B: caschetto corto scuro, giacca da college navy e crema con una "R" rossa.
+
+Scena 1 (0-2s): Campo lungo. La Ragazza A è appoggiata agli armadietti, la Ragazza B le sta davanti, affrontandola. Gli studenti camminano sullo sfondo.
+
+Scena 2 (2-4s): Primo piano della Ragazza A, nervosa ma calma, con la testa della Ragazza B sfocata in primo piano. Stacco sul primo piano della Ragazza B, che sogghigna.
+
+Scena 3 (4-7s): Mezza figura su due soggetti, inquadratura oltre la spalla della Ragazza B. La Ragazza A sembra tesa e ricambia lo sguardo.
+
+Scena 4 (7-8s): La Ragazza B schiaffeggia la Ragazza A. La testa della Ragazza A si gira bruscamente di lato, i capelli volano via e i suoi occhi brillano di luce bianca.
+
+Scena 5 (8-9s): Campo lungo con camera a mano. La Ragazza A, con gli occhi luminosi, protende il braccio, mentre energia elettrica bianco-blu crepita lungo l'arto. Gli studenti nel corridoio osservano scioccati.
+
+Scena 6 (10-15s): Primo piano. Il viso della Ragazza A, occhi bianchi luminosi, arrabbiata e scossa. La sua mano luminosa si alza verso la telecamera, con scintille di energia attorno alle dita.
+
+Scena 7 (16-19s): Campo lungo del corridoio. Due giocatori di football con giacche da college si precipitano sulla Ragazza A. Lei scatena strisce di energia bianca che li sbalzano all'indietro nell'aria.
+
+Scena 8 (20-24s): Inquadratura frontale con movimento di tracking. La Ragazza A cammina nel corridoio vuoto verso la telecamera, con energia luminosa sulle braccia e negli occhi. Il bagliore svanisce, i suoi occhi tornano normali e appare senza fiato e sotto shock.
+
+Stile: dramma superhero adolescenziale realistico, texture naturale della pelle, motion blur sugli effetti energetici, movimenti fluidi della camera, bagliore freddo bianco-blu, nessun testo o sottotitolo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102993862717550593/img/rSpxmx_tj3MnvVAC.jpg" width="600" alt="Scena dello schiaffo con superpoteri al liceo">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=11199)**
+
+**Autore:** [Sᴀɪʀᴀ](https://x.com/itsSaira_1) | **Fonte:** [Link](https://x.com/itsSaira_1/status/2102994561144434785) | **Pubblicato:** Sep 24, 2026
+
+---
 ### Prompt Video per Prodotto di Bellezza: Lip Gloss
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -5189,91 +5342,6 @@ Audio: Un 'smack' nitido.
 **Autore:** [探路AI](https://x.com/TanLuAI) | **Fonte:** [Link](https://x.com/TanLuAI/status/2097247939857101267) | **Pubblicato:** Sep 8, 2026
 
 ---
-### Vlog mattutino: pendolarismo a Seoul
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video in stile vlog di 30 secondi che simula un sonnolento tragitto mattutino a Seoul, catturato con il realismo di uno smartphone tenuto in mano.
-
-#### 📝 Prompt
-
-```
-Crea un video amatoriale ultra-realistico di 30 secondi, in 1080p e formato 16:9 orizzontale, che mostri un'ordinaria mattina presto nella vita di una donna coreana adulta che va al lavoro a Seoul. Usa un personaggio immaginario completamente originale creato dalla descrizione scritta qui sotto. Non viene fornita né richiesta alcuna immagine di riferimento. Il video finale dovrebbe sembrare un filmato autentico registrato casualmente da un amico stretto che la accompagna durante un sonnolento tragitto mattutino. PERSONAGGIO PRINCIPALE: Una donna coreana di 23 anni con un viso ovale minuto, pelle naturalmente chiara con texture visibile, occhi castani dolci, sopracciglia dritte, un naso piccolo e naturale e labbra color corallo tenue. La zona sotto gli occhi appare leggermente gonfia per il risveglio mattutino. Indossa un trucco minimo, senza alcun effetto di levigatura artificiale della pelle. I suoi lunghi capelli neri sono raccolti in uno chignon alto, spettinato e morbido, con diverse ciocche che cadono naturalmente attorno al viso e al collo. Indossa sempre la stessa giacca di jeans blu medio oversize sopra un maglione lavorato a maglia color crema, pantaloni grigio antracite a gamba larga, mocassini neri in pelle e piccoli orecchini a lobo in argento. Una sottile borsa di tela verde scuro rimane sulla spalla sinistra e tiene lo stesso smartphone nero nella mano destra. Mantieni identici il viso, l'acconciatura, l'abbigliamento, le proporzioni corporee, la borsa, il telefono e la personalità sonnolenta in ogni scena. APPROCCIO DELLA VIDEOCAMERA: La videocamera è manovrata in orizzontale da un amico invisibile che cammina e viaggia accanto a lei. Lei non si riprende mai da sola e non prende mai la videocamera. Usa riprese autentiche da smartphone a mano con un leggero tremolio, un sottile rimbalzo dovuto al cammino, inquadrature occasionalmente imperfette, una lieve grana da scarsa illuminazione, piccoli cambiamenti di esposizione, un realistico motion blur e un autofocus che cerca brevemente il fuoco nella penombra della metropolitana. L'amico solitamente riprende ad altezza petto o occhi a una distanza conversazionale naturale. Evita composizioni troppo curate e il contatto visivo diretto e ripetuto con l'obiettivo. Fai in modo che il filmato risulti personale, spontaneo e leggermente non pianificato. APERTURA — ATTESA SULLA BANCHINA SILENZIOSA Inizia immediatamente su una banchina della metropolitana di Seoul quasi vuota prima dell'alba. Le luci fluorescenti del soffitto si riflettono dolcemente sul pavimento pulito. Una leggera condensa copre sezioni delle porte di sicurezza della banchina e vaghi segnali luminosi rossi e bianchi brillano lungo i binari in lontananza. Alcuni piccioni sono visibili al sicuro su una sezione esterna inutilizzata oltre le barriere della banchina. I primi pendolari del mattino attendono in silenzio in posizioni distanziate. La videocamera si avvicina alla donna da una posizione leggermente arretrata e alla sua sinistra. Lei è in piedi vicino a un'area di attesa contrassegnata con la borsa sulla spalla sinistra e il telefono nella mano destra. Legge qualcosa sul telefono, sbatte le palpebre lentamente e fa un piccolo sbadiglio involontario che copre con il dorso della mano sinistra. Riposiziona la mano sul cinturino della borsa e sposta delicatamente il peso da un mocassino all'altro. L'amico che riprende si avvicina, facendo perdere brevemente il fuoco alla videocamera prima di ritrovare il suo viso. Lei nota la videocamera per un momento, ma è troppo assonnata per reagire. Una ciocca di capelli neri le ricade sulla guancia mentre gli altri pendolari continuano a comportarsi naturalmente sullo sfondo. ARRIVO DEL TRENO — ARIA MATTUTINA E MOVIMENTO Il rombo di un treno in lontananza si fa più forte. Lei blocca il telefono e lo abbassa accanto alla coscia destra, mantenendo una presa sicura. La videocamera si gira brevemente verso il tunnel mentre i fari in avvicinamento illuminano dietro le barriere di vetro. Il treno entra in stazione con un forte spostamento d'aria. Le ciocche di capelli sciolti e la giacca di jeans oversize si muovono naturalmente nella corrente. Lei socchiude gli occhi, gira il viso lontano dal vento e stringe più forte il cinturino della borsa con la mano sinistra. I riflessi dei finestrini del treno in transito scorrono rapidamente sul suo viso e sui vestiti. Quando le porte della banchina e del treno si allineano e si aprono, lei aspetta che due passeggeri scendano prima di salire a bordo. L'amico la segue subito dietro e l'inquadratura è brevemente ostruita dalla spalla di un altro pendolare. La videocamera corregge la posizione naturalmente invece di produrre una transizione perfetta. Mostra un rapido momento all'interno mentre lei sta in piedi accanto alla porta del treno, tenendosi a un palo di sostegno con la mano sinistra mentre la borsa rimane bloccata saldamente tra il braccio e il corpo. Chiude brevemente gli occhi come se potesse addormentarsi in piedi. Mantieni l'interno del treno ordinario, moderatamente illuminato e poco affollato. USCITA IN STRADA — PRIMA LUCE DEL GIORNO Transizione con un semplice taglio naturale verso la donna che sale le ultime scale di un'uscita della metropolitana. L'amico invisibile segue due passi dietro. La luce esterna è azzurrina e leggermente più luminosa della stazione, facendo sì che l'esposizione dello smartphone si regoli gradualmente. Lei raggiunge la strada silenziosa, strizza gli occhi alla luce dell'alba e fa un respiro più profondo di aria fredda. Sposta brevemente il telefono nella mano sinistra, allunga il braccio destro sopra la testa e ruota una spalla sotto la giacca oversize. Dopo lo stretching, riporta il telefono nella mano destra e risistema la borsa nella posizione originale sulla spalla sinistra. Il quartiere di Seoul sta appena iniziando a svegliarsi. Mostra le saracinesche dei negozi chiuse, una bicicletta per le consegne appoggiata a un muro, i semafori che cambiano su un incrocio quasi vuoto, un autobus cittadino che passa in lontananza e i primi impiegati che camminano verso la stazione. Mantieni insegne e marchi sfocati, distanti e illeggibili. CARRETTO DI ODENG — UNA CALDA SOSTA MATTUTINA Mentre continua a camminare, nota un piccolo carretto di cibo da strada che si sta preparando ad aprire vicino all'uscita della metropolitana. Il vapore sale da un contenitore metallico di brodo nell'aria fredda del mattino. Un venditore sistema gli spiedini di torta di pesce mentre la luce calda del carretto contrasta naturalmente con la strada fredda. Lei si avvicina, fa un cenno educato al venditore e si ferma accanto al carretto. L'amico riprende dal suo lato destro mentre lei sceglie uno spiedino di torta di pesce ripiegato. Il venditore mette lo spiedino in un piccolo bicchiere di carta contenente un po' di brodo caldo e glielo porge. Lei accetta il bicchiere con cura con la mano sinistra continuando a tenere il telefono nella destra. Avvicina il bicchiere alle labbra, soffia delicatamente sul brodo e tenta un sorso cauto. Il brodo è più caldo del previsto. Si allontana immediatamente, alza le sopracciglia, stringe le labbra ed espira un respiro divertito dal naso. Mantieni la reazione piccola, naturale e spontanea. Poi dà un morso modesto alla torta di pesce, mastica naturalmente e ricomincia a camminare tenendo il bicchiere saldamente. Il vapore deve continuare a salire dal brodo, lo spiedino deve rimanere nello stesso bicchiere e le sue dimensioni devono ridursi naturalmente dopo il morso. MOMENTO FINALE — COMMENTO SONNOLENTO L'amico cammina all'indietro per qualche passo mentre la riprende di fronte. Lei guarda verso la videocamera con occhi stanchi e nota che la sua colazione ordinaria viene ancora filmata. Senza fermarsi, dice naturalmente in inglese: “You’re always filming the boring parts.” La sua voce è dolce, assonnata e giocosamente infastidita. Dopo aver parlato, regala all'amico un piccolo sorriso genuino, guarda di nuovo verso il marciapiede e continua a camminare. La videocamera le permette di allontanarsi leggermente prima di seguirla da dietro. Termina con la sua giacca di jeans oversize, lo chignon spettinato, la borsa verde scuro e la colazione fumante visibili mentre cammina nella strada mattutina. Concludi con una semplice dissolvenza naturale al nero. AUDIO: Usa solo il suono ambientale originale sincronizzato: rombo del treno in lontananza, mormorii degli annunci in banchina, segnali acustici delle porte del treno, aria compressa, passi sulle piastrelle della stazione, movimento del tessuto della giacca, traffico mattutino silenzioso, il venditore che sistema i contenitori metallici, il brodo che viene versato, leggero vento di strada e il suo dialogo naturale. Le conversazioni di sottofondo rimangono indistinte. Niente musica e niente narrazione. REALISMO E CONTINUITÀ:
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097208479165644800/img/9ocJj06UL25NOrPT.jpg" width="600" alt="Vlog mattutino: pendolarismo a Seoul">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10556)**
-
-**Autore:** [Elaine Wright](https://x.com/ElaineWrigari1) | **Fonte:** [Link](https://x.com/ElaineWrigari1/status/2097208674640912805) | **Pubblicato:** Sep 8, 2026
-
----
-### Collage fotografico di 9 pannelli di una donna giapponese
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt progettato per Seedance 2.5 che anima un collage fotografico statico 3x3 di una donna giapponese, utilizzando flash e segnali sonori di otturatore per dare vita alla griglia.
-
-#### 📝 Prompt
-
-```
-15 secondi, 3:4 portrait, i2v. Usa @image1 come primo fotogramma. Tema del video: Un video misterioso e carino di 15 secondi in cui un collage fotografico 3x3 da 9 riquadri inizia a muoversi come un video live, attivato dal suono dell'otturatore e dal flash per ogni riquadro. Tutti i 9 riquadri mostrano la stessa donna giapponese adulta.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097205402169720832/img/olitk_PGPYm4pKYY.jpg" width="600" alt="Collage fotografico di 9 pannelli di una donna giapponese">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10513)**
-
-**Autore:** [くろ@なんか刺さるAI美女](https://x.com/ai6vyy) | **Fonte:** [Link](https://x.com/ai6vyy/status/2097205443605189010) | **Pubblicato:** Sep 8, 2026
-
----
-### Spot pubblicitario cinematografico di gioielli di lusso
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt dettagliato di 30 secondi per una pubblicità di gioielli di lusso, caratterizzato da un elegante unboxing, riprese macro di pietre preziose e un'illuminazione cinematografica calda.
-
-#### 📝 Prompt
-
-```
-Creato un video pubblicitario cinematografico di 30 secondi per gioielli di lusso in uno stile caldo ed elegante.
-Il video si apre in una camera da letto finemente arredata, con la luce soffusa del mattino e un cofanetto regalo di gioielli premium posizionato su un tavolo in legno.
-Una donna solleva delicatamente l'elegante cofanetto, creando un momento di unboxing delicato ed emozionante.
-La telecamera si sposta su riprese cinematografiche in primo piano del suo viso e delle sue mani mentre rivela il gioiello.
-Un ciondolo con una scintillante pietra preziosa blu viene mostrato in dettagliate riprese macro con una calda illuminazione dorata.
-Lei indossa la collana con grazia, mettendone in risalto il design elegante e la lucentezza lussuosa.
-La scena prosegue con un momento di pace mattutina vicino alla finestra, mentre tiene una tazza sotto la calda luce del sole.
-I primi piani catturano il ciondolo che brilla naturalmente sulla sua pelle con ombre e riflessi realistici.
-Il video si conclude con il cofanetto di gioielli premium che mostra l'intero set coordinato.
-Illuminazione cinematografica soffusa, toni dorati caldi, estetica pubblicitaria di lusso, movimenti di camera fluidi, profondità di campo ridotta, dettagli fotorealistici, formato verticale 9:16.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097194687438204928/img/O9DLbkzZtECcMJGA.jpg" width="600" alt="Spot pubblicitario cinematografico di gioielli di lusso">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10510)**
-
-**Autore:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Fonte:** [Link](https://x.com/ayzalnooor24521/status/2097194787564658942) | **Pubblicato:** Sep 8, 2026
-
----
-### Scena cinematografica di escursionismo in montagna
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video ultra-realistico per una sequenza di escursionismo in montagna, caratterizzato da ombre drammatiche e dalla luce solare dell'ora d'oro che filtra attraverso una foresta alpina.
-
-#### 📝 Prompt
-
-```
-Scena cinematografica ultra-realistica di escursionismo in montagna, uno stretto sentiero impervio che si snoda attraverso una fitta foresta alpina, enormi rocce consumate dalle intemperie su entrambi i lati, alberi alti che proiettano ombre drammatiche, calda luce solare dell'ora d'oro che filtra tra i rami, maestose montagne stratificate visibili in lontananza, leggera foschia atmosferica, toni naturali della terra, atmosfera selvaggia e immersiva, movimento di camera cinematografico fluido, texture realistiche, illuminazione volumetrica, profondità di campo ridotta, HDR, 8K, fotorealistico, color grading cinematografico, cinematografia professionale di avventura all'aperto, verticale 9:16.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097185470707048448/img/o-YrU7nxYm5ayOKt.jpg" width="600" alt="Scena cinematografica di escursionismo in montagna">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10507)**
-
-**Autore:** [AIwithMinal](https://x.com/AIwithMinal) | **Fonte:** [Link](https://x.com/AIwithMinal/status/2097185540391211470) | **Pubblicato:** Sep 8, 2026
-
----
 ---
 
 ## 📚 Altri prompt disponibili
@@ -5335,6 +5403,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-09-25T03:56:51.215Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-09-26T04:06:22.148Z</sub>
 
 </div>

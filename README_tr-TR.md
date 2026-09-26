@@ -68,9 +68,9 @@ Neden galerimizi kullanmalısınız?
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **6419** |
+| 📝 Toplam İstem | **6423** |
 | ⭐ Öne Çıkan İstemler | **6** |
-| 🔄 Son Güncelleme | **2026-09-25** |
+| 🔄 Son Güncelleme | **2026-09-26** |
 
 ---
 
@@ -361,6 +361,160 @@ Ultra gerçekçi, Hızlı ve Öfkeli esintili enerji, fotogerçekçi aydınlatma
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Sinematik Kış Kulübesi Video İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Sıcak bir kış kulübesindeki bir kadının gerçekçi sinematik videosunu oluşturmak için, belirli kamera hareketleri ve atmosferik detaylar içeren ayrıntılı bir istem.
+
+#### 📝 İstem
+
+```
+Muhteşem karla kaplı dağ manzarasıyla çevrili, sıcak ahşap bir kulübede huzurlu bir şekilde vakit geçiren bir kadının son derece gerçekçi sinematik kış videosunu oluşturun. Sıcak altın rengi güneş ışığının pencereden yumuşakça yüzüne vurduğu, kadının içeride huzurla dinlendiği samimi bir yakın çekimle başlayın. Karlı kulübe balkonunun, uzun çam ağaçlarının, uzaktaki dağların ve manzaranın üzerinde parlayan sıcak gün doğumunun geniş sinematik görünümüne geçiş yapın. Kadın onları beslemek için nazikçe elini uzatırken, küçük kuşların uçtuğunu ve karla kaplı ahşap korkuluğa konduğunu gösterin. Detaylı kar dokularını, doğal kuş hareketlerini, hafif kış rüzgarını ve gerçekçi güneş ışığını yakalayın. Ardından onu, pencere kenarında geleneksel bir demliğin yanında sıcak bir bardak çay hazırlarken gösterin. Elleri, buharı tüten bardak, rahat örgü kazak ve dışarıdaki huzurlu kar manzarasına odaklanın. Sıcak krem rengi bir kazak ve koyu renk pantolon giymiş halde karla kaplı ahşap patikada yavaşça yürürken onu takip edin. Sakin karla kaplı kulübelerin, çam ormanının, dağların ve uzaktan parlayan gün batımının veya gün doğumunun geniş sinematik havadan görünümüyle bitirin. Fotogerçekçi dokular, doğal insan hareketleri, gerçekçi aydınlatma, ince alan derinliği, akıcı kamera hareketleri, atmosferik kış detayları ve otantik sinematik renk düzenlemesi kullanarak tüm videonun AI ile üretilmiş değil de gerçek hayat görüntüsü gibi hissettirmesini sağlayın.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103359076004691968/img/ivUZ2Dqzi2ShtzCi.jpg" width="600" alt="Sinematik Kış Kulübesi Video İstemi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11230)**
+
+**Yazar:** [liana](https://x.com/Lianaalane) | **Kaynak:** [Link](https://x.com/Lianaalane/status/2103359307874226667) | **Yayınlandı:** Sep 25, 2026
+
+---
+### Arktik Dağ Macerası Video İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Arktik manzarasında bir Koreli kadını içeren sinematik kış macerası videosu oluşturmak için kapsamlı istem.
+
+#### 📝 İstem
+
+```
+Nefes kesici Arktik tarzı karlı dağ manzarasında geçen, 15 saniyelik ultra gerçekçi sinematik bir kış macerası videosu oluşturun.
+Doğal Koreli yüz hatlarına sahip, açık tenli, yumuşak ve ifade dolu koyu kahverengi gözlü, uzun düz siyah saçlı, hafif doğal makyajlı ve nazik, gerçekçi bir ifadeye sahip yaklaşık 20–25 yaşlarında güzel genç bir Koreli kadın. Yüzünü, saç stilini, vücut oranlarını, kıyafetlerini ve genel kimliğini tüm video boyunca kusursuz bir şekilde tutarlı tutun. Sıcak krem rengi dolgulu kış ceketi, kabarık kapüşonlu, bej örgü bere, yumuşak krem rengi atkı, eldivenler, koyu renk kış pantolonu, kar botları ve küçük koyu renk sırt çantasından oluşan premium beyaz ve krem tonlarında bir kış kıyafeti giyiyor. Kıyafetleri soğuk dağ rüzgarıyla doğal hareket etmeli.
+Devasa karla kaplı zirveler, donmuş turkuaz mavisi göller, dokunulmamış kar alanları, buzlu kayalar, karla örtülü çam ağaçları, uzak buzullar ve hafif kar yağışı içeren geniş bir Arktik ilhamlı karlı dağ vadisi. Ortam, yüksek bütçeli sinematik bir seyahat filmi gibi fotogerçekçi ve görkemli görünmeli.
+Yumuşak doğal kış güneşi ışığı, soğuk mavi-beyaz kar tonları, dağ zirvelerine değen ince altın sarısı güneş ışığı, gerçekçi atmosferik pus, hacimsel ışık, doğal gölgeler, donmuş göl üzerinde gerçekçi yansımalar ve detaylı kar dokusu.
+Üst düzey sinematik kamera, gerçekçi derinlik alanı, doğal lens özellikleri, akıcı kontrollü kamera hareketi, ince el kamerası gerçekçiliği, sinematik kompozisyon, gerçekçi hareket bulanıklığı, detaylı cilt dokusu, gerçekçi saç hareketi, gerçekçi kar parçacıkları. Yapay CGI görünümü yok.
+Devasa karla kaplı Arktik dağ sırası ve donmuş turkuaz gölün epik geniş kurulum çekimiyle başlayın. Genç Koreli kadın ön planda küçük duruyor, sırtı kameraya dönük ve dağlara bakıyor. Etrafında kar taneleri usulca düşüyor. Kamera yavaşça ona doğru ilerliyor.
+Donmuş gölün yanındaki karlı patikada yürümeye başladığında, pürüzsüz orta plan takip çekimine geçiş yapın. Botları taze kar üzerinde gerçekçi ayak izleri bırakıyor. Uzun siyah saçları ve atkısı soğuk rüzgarda hafifçe dalgalanıyor. Kamera onu arkadan ve hafifçe yandan takip ediyor.
+Yüzünün samimi sinematik yakın çekimine kesin. Yavaşça kameraya döner ve ince, doğal bir gülümseme sunar. Minik kar taneleri saçlarına ve kirpiklerine konar. Nefesi dondurucu havada görünür hale gelir. Gerçekçi cilt dokusunu, doğal göz hareketini, yumuşak ifadeyi ve sığ derinlik alanını yakalayın.
+Güzel bir yan profil çekimine geçin. Donmuş gölün kenarında durur ve devasa karlı dağlara bakar. Güneş ışığı saçlarının etrafında yumuşak bir kontur ışığı oluştururken, kamera onun etrafında yavaşça dolaşır. Kar parçacıkları çerçevede doğal olarak süzülür.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103346104557522944/img/AaBPCXKEhfGCn6BN.jpg" width="600" alt="Arktik Dağ Macerası Video İstemi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11232)**
+
+**Yazar:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Kaynak:** [Link](https://x.com/ayzalnooor24521/status/2103346184081605052) | **Yayınlandı:** Sep 25, 2026
+
+---
+### Karga ve Kedi Sarılma Videosu Prompt'u
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir apartman koridorunda karganın kediyi sarıldığı, komik ve iç ısıtan bir el telefonu videosu oluşturmak için detaylı prompt.
+
+#### 📝 İstem
+
+```
+Basit bir apartman koridorunda, gerçekçi görünümlü siyah bir karga ile tüylü gri bir kediyi gösteren; gerçekçi, komik ve iç ısıtan bir el telefonu videosu oluşturun.
+
+Gri kedinin başının üst kısmına doğal bir şekilde takılmış küçük pembe bir kurdele var. Kurdele, video boyunca yerinde sabit kalır.
+
+0–3 sn:
+Karga, koridorun ortasında duruyor ve etrafına doğal bir şekilde bakınıyor. Gri kedi uzaktan beliriyor ve kargayı fark ediyor. Heyecanlı ve oyunbaz bir enerjiyle hemen ona doğru koşuyor.
+
+3–6 sn:
+Kedi kargaya ulaşıyor. Karga ona dönüyor ve iki kanadını nazikçe kedinin etrafında açarak tatlı bir sarılma görüntüsü oluşturuyor. Kedi şefkatle kargaya yaslanıyor. Etkileşimleri spontane ve fiziksel olarak inandırıcı hissedilmeli.
+
+6–10 sn:
+Sarılmanın ardından karga, gri kedi yanından ayrılmadan koridorda ileri doğru yürümeye başlıyor. Beklenmedik küçük arkadaş çiftleri gibi birlikte hareket ediyorlar. Karga yürürken zaman zaman kediye bakıyor.
+
+10–12 sn:
+Kedi kısa bir an kargaya yukarıdan bakıyor, ardından birlikte uzaklaşmaya devam ediyorlar.
+
+Görsel stil
+
+Son derece gerçekçi hayvanlar
+
+Gerçek karga anatomisi, tüyleri, ayakları ve gagası
+
+Gerçekçi tüylü gri kedi kürkü ve doğal hareketler
+
+Kedinin başında küçük pembe kurdele
+
+Sıradan bir apartman koridoru
+
+Elde tutulan akıllı telefon kamerası
+
+Hafif kamera titremesi ve kusurlu kadraj
+
+Doğal iç mekan aydınlatması
+
+Hafif sıkıştırılmış, 144p/düşük kaliteli viral sosyal medya videosu estetiği
+
+Hafif hareket bulanıklığı ve telefon kamerası otomatik odaklaması
+
+Sinematik renk düzenlemesi yok
+
+CGI görünümü yok
+
+Çizgi film görünümü yok
+
+Abartılı yüz ifadeleri yok
+
+İnsan eli yok
+
+Hayvanları anatomik olarak gerçekçi tutarken sarılmayı fiziksel olarak inandırıcı kılın
+
+Spontane, komik, sağlıklı internet videosu hissi
+
+Tek kesintisiz çekim, kesme veya geçiş yok
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103054180785217536/img/tvcRUMhxysJaCxdS.jpg" width="600" alt="Karga ve Kedi Sarılma Videosu Prompt'u">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11231)**
+
+**Yazar:** [Soulful Ai](https://x.com/soulful__ai) | **Kaynak:** [Link](https://x.com/soulful__ai/status/2103056454395855115) | **Yayınlandı:** Sep 24, 2026
+
+---
+### Lise Süper Güç Tokat Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir kızın tokat yedikten sonra süper güçlerini ortaya çıkardığı bir lise koridorunda geçen kısa film sahnesi için sinematik prompt. Belirli karakter tasarımları, enerji efektleri ve kamera hareketleri içerir.
+
+#### 📝 İstem
+
+```
+Sinematik 16:9 canlı çekim, 24 saniye, gerçekçi lise koridoru, parlak floresan aydınlatma, parlayan zemin, gri dolaplar, sığ alan derinliği. Karakterler: Kız A: uzun dalgalı kahverengi saçlar, beyaz askılı üstüne mavi ekose gömlek, kot pantolon. Kız B: kısa koyu renkli bob kesim, kırmızı "R" harfi bulunan lacivert-krem renklerinde okul takımı ceketi.
+
+Sahne 1 (0-2s): Geniş plan. Kız A dolaplara yaslanmış duruyor, Kız B ona dönük ve yüzleşiyor. Arka planda öğrenciler yürüyor.
+
+Sahne 2 (2-4s): Kız A'nın yakın çekimi, gergin ama sakin, ön planda Kız B'nin başı bulanık. Kız B'nin yakın çekimine geçiş, alaycı sırıtış.
+
+Sahne 3 (4-7s): Kız B'nin omzunun üzerinden orta iki kişilik plan. Kız A gergin görünüyor ve karşılık vererek bakıyor.
+
+Sahne 4 (7-8s): Kız B, Kız A'ya tokat atar. Kız A'nın başı yana savrulur, saçları uçar ve gözleri parlayan beyaz ışıkla yanıp söner.
+
+Sahne 5 (8-9s): Geniş el kamerası çekimi. Gözleri parlayan Kız A kolunu öne fırlatır, kolunda mavi-beyaz elektrik enerjisi çıtırdar. Koridordaki öğrenciler şok içinde izler.
+
+Sahne 6 (10-15s): Yakın çekim. Kız A'nın yüzü, parlayan beyaz gözler, öfkeli ve sarsılmış. Parlayan eli kameraya doğru yükselir, parmaklarının etrafında enerji kıvılcımları saçar.
+
+Sahne 7 (16-19s): Geniş uzun koridor çekimi. Okul takım ceketli iki sporcu Kız A'ya doğru koşar. O, onları havada geriye savuran beyaz enerji şeritleri açığa çıkarır.
+
+Sahne 8 (20-24s): Önden takip çekimi. Kız A, kollarında ve gözlerinde parlayan enerjiyle boş koridorda kameraya doğru yürür. Işıltı solar, gözleri normale döner ve nefes nefese, şaşkın görünür.
+
+Stil: Gerçekçi genç süper kahraman draması, doğal cilt dokusu, enerji efektlerinde hareket bulanıklığı, akıcı kamera hareketleri, soğuk mavi-beyaz ışıltı, metin veya altyazı yok.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102993862717550593/img/rSpxmx_tj3MnvVAC.jpg" width="600" alt="Lise Süper Güç Tokat Sahnesi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11199)**
+
+**Yazar:** [Sᴀɪʀᴀ](https://x.com/itsSaira_1) | **Kaynak:** [Link](https://x.com/itsSaira_1/status/2102994561144434785) | **Yayınlandı:** Sep 24, 2026
+
+---
 ### Dudak Parlatıcısı Güzellik Ürünü Video İstemi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -5161,91 +5315,6 @@ Ses: Net bir 'şap' sesi.
 **Yazar:** [探路AI](https://x.com/TanLuAI) | **Kaynak:** [Link](https://x.com/TanLuAI/status/2097247939857101267) | **Yayınlandı:** Sep 8, 2026
 
 ---
-### Seul Sabah İşe Gidiş Vlog'u
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seul'de uykulu bir sabah yolculuğunu simüle eden, elde tutulan akıllı telefon gerçekçiliğiyle çekilmiş 30 saniyelik vlog tarzında bir video istemi.
-
-#### 📝 İstem
-
-```
-Seul'de işe giden yetişkin bir Koreli kadının hayatındaki sıradan bir sabahı gösteren, 16:9 yatay formatta, 30 saniyelik, 1080p ultra gerçekçi bir kişisel ev videosu oluşturun. Aşağıdaki yazılı açıklamadan yola çıkarak tamamen özgün, kurgusal bir karakter kullanın. Herhangi bir referans görseli sağlanmamıştır ve gerekmemektedir. Bitmiş video, uykulu bir sabah yolculuğu sırasında ona eşlik eden yakın bir arkadaşı tarafından gelişigüzel kaydedilmiş gerçek görüntülere benzemelidir. ANA KARAKTER: Küçük oval yüzlü, belirgin dokulu doğal açık tenli, yumuşak kahverengi gözlü, düz kaşlı, küçük doğal burunlu ve mat mercan rengi dudaklı 23 yaşında bir Koreli kadın. Göz altları erken uyanmaktan dolayı hafif şişkin görünüyor. Yapay bir cilt pürüzsüzleştirme olmadan, yok denecek kadar az makyaj yapıyor. Uzun siyah saçları, yüzünün ve boynunun etrafına doğal bir şekilde düşen birkaç tutamla birlikte dağınık, gevşek bir yarım topuz şeklinde. Üzerinde krem rengi örgülü bir kazak, kömür rengi bol paça pantolon, siyah deri makosenler ve küçük gümüş küpeler var; üzerinde ise aynı büyük beden orta mavi kot ceket bulunuyor. Sol omzunda ince, koyu yeşil bir kanvas çanta asılı ve sağ elinde aynı siyah akıllı telefonu taşıyor. Her sahnede yüzünü, saç stilini, kıyafetini, vücut oranlarını, çantasını, telefonunu ve uykulu kişiliğini tam olarak koruyun. KAMERA YAKLAŞIMI: Kamera, yanında yürüyen ve işe giden görünmez bir arkadaşı tarafından yatay olarak tutuluyor. Kendini asla kaydetmiyor ve kamerayı asla eline almıyor. Hafif el titremesi, ince yürüyüş sarsıntısı, ara sıra oluşan kusurlu kadraj, hafif düşük ışık greni, küçük pozlama değişiklikleri, gerçekçi hareket bulanıklığı ve loş metro ışığında kısa süreli odak arayan otomatik odaklama ile otantik, elde tutulan akıllı telefon görüntüleri kullanın. Arkadaşı genellikle göğüs veya göz hizasından, doğal bir konuşma mesafesinden kayıt yapıyor. Cilalı kompozisyonlardan ve lensle tekrarlanan doğrudan göz temasından kaçının. Görüntülerin kişisel, spontane ve biraz plansız hissettirmesini sağlayın. AÇILIŞ — SESSİZ PERON BEKLEYİŞİ Videoya gün doğumundan önce, büyük ölçüde boş olan bir yeraltı Seul metro peronunda başlayın. Soluk floresan tavan ışıkları temiz zemine yumuşak bir şekilde yansıyor. Peron ekran kapılarının bazı bölümleri hafif buğulanmış ve uzak raylar boyunca belirsiz kırmızı ve beyaz sinyal ışıkları parlıyor. Peron bariyerlerinin ötesindeki kullanılmayan bir dış bölümde birkaç güvercin güvenli bir şekilde görülebiliyor. Sabahın ilk yolcuları, birbirinden uzak noktalarda sessizce bekliyor. Kamera, kadına arkasından ve solundan hafifçe yaklaşıyor. Çantası sol omzunda ve telefonu sağ elindeyken işaretli bir bekleme alanının yakınında duruyor. Telefonda bir şeyler okuyor, yavaşça göz kırpıyor ve sol elinin tersiyle kapattığı küçük, istemsiz bir esneme yapıyor. Elini tekrar çanta askısına koyuyor ve ağırlığını bir makoseninden diğerine hafifçe aktarıyor. Çekimi yapan arkadaşı yaklaştığında telefon kamerası kısa süreliğine odağını kaybediyor, ardından tekrar yüzüne odaklanıyor. Bir anlığına kamerayı fark ediyor ancak tepki veremeyecek kadar uykulu. Siyah saçlarından gevşek bir tutam yanağına düşerken, diğer yolcular arka planda doğal davranmaya devam ediyor. TRENİN GELİŞİ — SABAH HAVASI VE HAREKET Uzaktan gelen trenin gürültüsü yükseliyor. Telefonunu kilitliyor ve sıkıca tutmaya devam ederken sağ uyluğunun yanına indiriyor. Cam bariyerlerin arkasında yaklaşan farlar parlarken kamera kısa bir süreliğine tünele dönüyor. Tren, güçlü bir hava akımıyla istasyona giriyor. Gevşek saç tutamları ve büyük beden kot ceketi rüzgarda doğal bir şekilde hareket ediyor. Gözlerini kısıyor, yüzünü rüzgardan çeviriyor ve sol eliyle çanta askısını daha sıkı tutuyor. Geçen tren pencerelerinin yansımaları yüzünde ve kıyafetlerinde hızla ilerliyor. Peron ve tren kapıları hizalanıp açıldığında, içeri girmeden önce iki yetişkin yolcunun çıkmasını bekliyor. Arkadaşı doğrudan arkasından takip ediyor ve kadraj kısa süreliğine başka bir yolcunun omzuyla engelleniyor. Kamera, mükemmel bir geçiş yaratmak yerine konumunu doğal bir şekilde düzeltiyor. Tren kapısının yanında durduğu, sol eliyle metal bir destek direğini tuttuğu ve çantasının kolu ile vücudu arasında güvenli bir şekilde sıkıştığı kısa bir iç mekan anı gösterin. Ayakta uyuyakalacakmış gibi gözlerini kısa bir süreliğine kapatıyor. Tren içini sıradan, orta derecede aydınlatılmış ve sadece hafif dolu tutun. SOKAK ÇIKIŞI — İLK GÜN IŞIĞI Basit ve doğal bir kesmeyle kadının metro çıkışındaki son merdivenleri tırmandığı ana geçiş yapın. Görünmez arkadaşı iki adım arkasından takip ediyor. Dışarıdaki ışık soluk mavi ve istasyondan biraz daha parlak, bu da akıllı telefon pozlamasının kademeli olarak ayarlanmasına neden oluyor. Sessiz sokağa ulaşıyor, şafak ışığında gözlerini kısıyor ve soğuk havayı derin bir nefesle içine çekiyor. Telefonunu kısa süreliğine sol eline aktarıyor, sağ kolunu başının üzerine doğru esnetiyor ve büyük beden ceketin altında bir omzunu hareket ettiriyor. Esnedikten sonra telefonu tekrar sağ eline alıyor ve çantayı sol omzundaki orijinal konumuna geri yerleştiriyor. Seul mahallesi yeni yeni uyanıyor. Kapalı dükkan kepenklerini, duvara yaslanmış bir teslimat bisikletini, neredeyse boş bir kavşakta değişen trafik ışıklarını, uzaktan geçen bir şehir otobüsünü ve istasyona doğru yürüyen ilk ofis çalışanlarını gösterin. Tabelaları ve markaları yumuşak, uzak ve okunamaz tutun. ODENG ARABASI — SICAK BİR SABAH MOLASI Yürümeye devam ederken, metro çıkışının yakınında açılmaya hazırlanan küçük bir sokak yemeği arabası fark ediyor. Metal bir et suyu kabından soğuk mavi sabah havasına buhar yükseliyor. Yetişkin bir satıcı balık keki şişlerini düzenlerken, arabadan gelen sıcak ışık sokaktaki soğuk havayla doğal bir tezat oluşturuyor. Oraya doğru yürüyor, satıcıya kibarca başıyla selam veriyor ve arabanın yanında duruyor. Arkadaşı, katlanmış bir balık keki şişi seçerken onu sağ tarafından çekiyor. Satıcı, şişi içinde biraz sıcak et suyu bulunan küçük bir kağıt bardağa koyup ona uzatıyor. Bardağı sol eliyle dikkatlice alırken sağ elinde telefonunu tutmaya devam ediyor. Bardağı dudaklarına yaklaştırıyor, et suyunun üzerine hafifçe üflüyor ve temkinli bir yudum almaya çalışıyor. Et suyu beklenenden daha sıcak. Hemen geri çekiliyor, kaşlarını kaldırıyor, dudaklarını birbirine bastırıyor ve burnundan sessiz, eğlenmiş bir nefes veriyor. Tepkiyi küçük, doğal ve spontane tutun. Ardından balık kekinden mütevazı bir ısırık alıyor, doğal bir şekilde çiğniyor ve bardağı güvenli bir şekilde taşıyarak tekrar yürümeye başlıyor. Et suyundan buhar yükselmeye devam etmeli, şiş aynı bardağın içinde kalmalı ve ısırıktan sonra boyutu doğal bir şekilde küçülmelidir. SON AN — UYKULU YORUM Arkadaşı, onu önden kaydederken birkaç adım geriye doğru yürüyor. Yorgun gözlerle kameraya doğru bakıyor ve sıradan kahvaltısının hala çekildiğini fark ediyor. Durmadan, doğal bir şekilde İngilizce olarak, “You’re always filming the boring parts” (Her zaman sıkıcı kısımları çekiyorsun) diyor. Sesi yumuşak, uykulu ve şakacı bir şekilde sinirli. Konuştuktan sonra arkadaşına içten, küçük bir gülümseme veriyor, tekrar kaldırıma bakıyor ve yürümeye devam ediyor. Kamera, arkasından takip etmeden önce biraz daha ilerlemesine izin veriyor. Videoyu, soluk sabah sokağına doğru yürürken büyük beden kot ceketi, dağınık yarım topuzu, koyu yeşil çantası ve buharlı kahvaltı bardağı görünürken bitirin. Basit ve doğal bir karartma ile sonlandırın. SES: Yalnızca senkronize edilmiş orijinal ortam seslerini kullanın: uzak tren gürültüsü, hafif peron anonsu mırıltıları, tren kapısı zilleri, basınçlı hava, istasyon fayanslarındaki ayak sesleri, ceket kumaşının hareketi, sessiz sabah trafiği, satıcının metal kapları düzenlemesi, dökülen et suyu, hafif sokak rüzgarı ve kadının doğal diyaloğu. Arka plandaki konuşmalar belirsiz kalmalı. Müzik ve dış ses yok. GERÇEKÇİLİK VE DEVAMLILIK:
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097208479165644800/img/9ocJj06UL25NOrPT.jpg" width="600" alt="Seul Sabah İşe Gidiş Vlog'u">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10556)**
-
-**Yazar:** [Elaine Wright](https://x.com/ElaineWrigari1) | **Kaynak:** [Link](https://x.com/ElaineWrigari1/status/2097208674640912805) | **Yayınlandı:** Sep 8, 2026
-
----
-### 9 Panelli Japon Kadın Fotoğraf Kolajı
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Seedance 2.5 için tasarlanan bu istem, 3x3'lük statik bir Japon kadın fotoğraf kolajını; flaşlar ve deklanşör sesi ipuçlarını kullanarak canlandıran bir animasyona dönüştürür.
-
-#### 📝 İstem
-
-```
-15 saniye, 3:4 dikey, i2v. İlk kare olarak @image1 kullanın. Video teması: 3x3'lük 9 karelik fotoğraf kolajının, her kare için deklanşör sesi ve flaşla tetiklenerek canlı bir videoya dönüştüğü, gizemli ve sevimli 15 saniyelik bir video. 9 karenin tamamında aynı yetişkin Japon kadın yer almaktadır.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097205402169720832/img/olitk_PGPYm4pKYY.jpg" width="600" alt="9 Panelli Japon Kadın Fotoğraf Kolajı">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10513)**
-
-**Yazar:** [くろ@なんか刺さるAI美女](https://x.com/ai6vyy) | **Kaynak:** [Link](https://x.com/ai6vyy/status/2097205443605189010) | **Yayınlandı:** Sep 8, 2026
-
----
-### Sinematik Lüks Mücevher Reklamı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Zarif bir kutu açılışı, değerli taşların makro çekimleri ve sıcak sinematik aydınlatma içeren, lüks mücevherlere yönelik 30 saniyelik detaylı bir reklam istemi.
-
-#### 📝 İstem
-
-```
-Sıcak ve zarif bir tarzda 30 saniyelik sinematik bir lüks mücevher reklam videosu oluşturuldu.
-Video, güzel bir şekilde dekore edilmiş bir yatak odası, yumuşak sabah güneş ışığı ve ahşap bir masanın üzerinde duran birinci sınıf bir mücevher kutusu ile açılıyor.
-Bir kadın zarif kutuyu nazikçe eline alıyor ve hassas, duygusal bir kutu açılış anı yaratıyor.
-Kamera, mücevheri ortaya çıkardığı sırada yüzünün ve ellerinin sinematik yakın plan çekimlerine odaklanıyor.
-Parlak mavi bir değerli taş kolye ucu, yumuşak altın rengi aydınlatma eşliğinde detaylı makro çekimlerle gösteriliyor.
-Kadın kolyeyi zarafetle takıyor, tasarımın şıklığını ve lüks ışıltısını ön plana çıkarıyor.
-Sahne, pencere kenarında, sıcak güneş ışığında bir fincan tuttuğu huzurlu bir sabah anıyla devam ediyor.
-Yakın plan çekimler, kolye ucunun gerçekçi gölgeler ve yansımalarla cildi üzerinde doğal bir şekilde parlamasını yakalıyor.
-Video, eksiksiz uyumlu mücevher setini sergileyen birinci sınıf bir mücevher kutusuyla sona eriyor.
-Yumuşak sinematik aydınlatma, sıcak altın tonları, lüks reklam estetiği, akıcı kamera hareketleri, sığ alan derinliği, fotogerçekçi detaylar, 9:16 dikey format.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097194687438204928/img/O9DLbkzZtECcMJGA.jpg" width="600" alt="Sinematik Lüks Mücevher Reklamı">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10510)**
-
-**Yazar:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Kaynak:** [Link](https://x.com/ayzalnooor24521/status/2097194787564658942) | **Yayınlandı:** Sep 8, 2026
-
----
-### Sinematik Dağ Yürüyüşü Sahnesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Dağ yürüyüşü sekansı için dramatik gölgeler ve alpin ormanının içinden süzülen altın saat güneş ışığını içeren ultra gerçekçi bir video istemi.
-
-#### 📝 İstem
-
-```
-Ultra gerçekçi sinematik dağ yürüyüşü sahnesi, yoğun bir alpin ormanının içinden kıvrılarak geçen dar ve engebeli bir patika, her iki yanda devasa aşınmış kayalar, dramatik gölgeler oluşturan uzun ağaçlar, dalların arasından süzülen sıcak altın saat güneş ışığı, uzakta görünen görkemli katmanlı dağlar, yumuşak atmosferik pus, doğal toprak tonları, sürükleyici vahşi doğa atmosferi, akıcı sinematik kamera hareketi, gerçekçi dokular, hacimsel aydınlatma, sığ alan derinliği, HDR, 8K, fotogerçekçi, sinematik renk düzenleme, profesyonel doğa macerası sinematografisi, dikey 9:16.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097185470707048448/img/o-YrU7nxYm5ayOKt.jpg" width="600" alt="Sinematik Dağ Yürüyüşü Sahnesi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10507)**
-
-**Yazar:** [AIwithMinal](https://x.com/AIwithMinal) | **Kaynak:** [Link](https://x.com/AIwithMinal/status/2097185540391211470) | **Yayınlandı:** Sep 8, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -5307,6 +5376,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-25T03:56:55.062Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-26T04:06:26.257Z</sub>
 
 </div>

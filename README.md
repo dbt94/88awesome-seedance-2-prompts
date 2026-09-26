@@ -68,9 +68,9 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **6419** |
+| 📝 Total Prompts | **6423** |
 | ⭐ Featured Prompts | **6** |
-| 🔄 Last Updated | **2026-09-25** |
+| 🔄 Last Updated | **2026-09-26** |
 
 ---
 
@@ -365,11 +365,163 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 
 > 📝 Sorted by publish date (newest first)
 
+### Cinematic Winter Cabin Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for generating a realistic cinematic video of a woman in a cozy winter cabin, featuring specific camera movements and atmospheric details.
+
+#### 📝 Prompt
+
+```
+Create a highly realistic cinematic winter video of a peaceful woman staying in a cozy wooden cabin surrounded by a beautiful snow-covered mountain landscape. Start with an intimate close-up of the woman resting peacefully indoors as warm golden sunlight softly falls across her face through the window. Transition to a wide cinematic view of the snowy cabin balcony, tall pine trees, distant mountains, and a warm sunrise glowing over the landscape. Show small birds flying and landing on the snow-covered wooden railing as the woman gently reaches out to feed them. Capture detailed snow textures, natural bird movements, soft winter wind, and realistic sunlight. Then show her inside the cabin preparing a warm cup of tea beside a traditional kettle near the window. Focus on her hands, the steaming cup, the cozy knitted sweater, and the peaceful snowy scenery outside. Follow her as she walks slowly through a snow-covered wooden pathway wearing a warm cream sweater and dark pants. End with a wide cinematic aerial-style view of the quiet snow-covered cabins, pine forest, mountains, and glowing sunset or sunrise in the distance. Use photorealistic textures, natural human movement, realistic lighting, subtle depth of field, smooth camera motion, atmospheric winter details, and authentic cinematic color grading, making the entire video feel like real-life footage rather than AI-generated.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103359076004691968/img/ivUZ2Dqzi2ShtzCi.jpg" width="600" alt="Cinematic Winter Cabin Video Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11230)**
+
+**Author:** [liana](https://x.com/Lianaalane) | **Source:** [Link](https://x.com/Lianaalane/status/2103359307874226667) | **Published:** Sep 25, 2026
+
+---
+### Arctic Mountain Adventure Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A comprehensive prompt for generating a cinematic winter adventure video featuring a Korean woman in an Arctic landscape.
+
+#### 📝 Prompt
+
+```
+Create a 15-second ultra-realistic cinematic winter adventure video set in a breathtaking Arctic-style snowy mountain landscape.
+A beautiful young adult Korean woman, around 20–25 years old, with natural Korean facial features, fair skin, soft expressive dark-brown eyes, long straight dark hair, subtle natural makeup, and a gentle realistic expression. Keep her face, hairstyle, body proportions, clothing, and overall identity perfectly consistent throughout the entire video.She wears a premium white and cream winter outfit: a warm cream-colored padded winter jacket with a fluffy hood, beige knitted beanie, soft cream scarf, winter gloves, dark winter pants, snow boots, and a small dark backpack. Her clothing should move naturally with the cold mountain wind.A vast Arctic-inspired snowy mountain valley with enormous snow-covered peaks, frozen turquoise-blue lakes, untouched snow fields, icy rocks, pine trees covered in snow, distant glaciers, and light snowfall. The environment should look photorealistic and majestic, like a high-budget cinematic travel film.
+Soft natural winter sunlight, cool blue-white snow tones, subtle golden sunlight touching the mountain peaks, realistic atmospheric haze, volumetric light, natural shadows, realistic reflections on the frozen lake, and detailed snow texture.
+High-end cinematic camera, realistic depth of field, natural lens characteristics, smooth controlled camera movement, subtle handheld realism, cinematic composition, realistic motion blur, detailed skin texture, realistic hair movement, realistic snow particles. No artificial CGI appearance.
+Start with an epic wide establishing shot of a huge snow-covered Arctic mountain range and a frozen turquoise lake. The young Korean woman stands small in the foreground with her back toward the camera, looking at the mountains. Snowflakes gently fall around her. The camera slowly pushes forward toward her.Transition into a smooth medium tracking shot as she begins walking across a snowy path beside the frozen lake. Her boots leave realistic footprints in the fresh snow. Her long dark hair and scarf gently move in the cold wind. The camera follows her from behind and slightly to the side.
+Cut to an intimate cinematic close-up of her face. She slowly turns toward the camera and gives a subtle natural smile. Tiny snowflakes land on her hair and eyelashes. Her breath becomes visible in the freezing air. Capture realistic skin texture, natural eye movement, soft expression, and shallow depth of field.
+Move to a beautiful side-profile shot. She stops near the edge of the frozen lake and looks toward the enormous snowy mountains. The camera slowly circles around her while sunlight creates a soft rim light around her hair. Snow particles float naturally through the frame.F
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103346104557522944/img/AaBPCXKEhfGCn6BN.jpg" width="600" alt="Arctic Mountain Adventure Video Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11232)**
+
+**Author:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Source:** [Link](https://x.com/ayzalnooor24521/status/2103346184081605052) | **Published:** Sep 25, 2026
+
+---
+### Crow and Cat Hug Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for creating a funny and heartwarming handheld phone video of a crow hugging a cat in an apartment hallway.
+
+#### 📝 Prompt
+
+```
+Create a realistic, funny, heartwarming handheld phone video of a real-looking black crow and a realistic fluffy gray cat inside a simple apartment hallway.
+
+The gray cat wears a small pink bow attached naturally to the top of her head. The bow stays securely in place throughout the entire video.
+
+0–3 sec:
+The crow stands in the middle of the hallway, looking around naturally. The gray cat appears in the distance and notices the crow. She immediately runs toward him with excited, playful energy.
+
+3–6 sec:
+The cat reaches the crow. The crow turns toward her and gently spreads both wings around the cat, creating the appearance of a sweet little hug. The cat leans into the crow affectionately. Their interaction should feel spontaneous and physically believable.
+
+6–10 sec:
+After the hug, the crow starts walking forward down the hallway while the gray cat walks closely beside him. They move together like an unlikely little pair of friends. The crow occasionally looks toward the cat while walking.
+
+10–12 sec:
+The cat briefly looks up at the crow, then they continue walking away together.
+
+Visual style
+
+Extremely realistic animals
+
+Real crow anatomy, feathers, feet and beak
+
+Realistic fluffy gray cat fur and natural movement
+
+Small pink bow on the cat's head
+
+Ordinary apartment hallway
+
+Handheld smartphone camera
+
+Slight camera shake and imperfect framing
+
+Natural indoor lighting
+
+Slightly compressed, 144p/low-quality viral social-media video aesthetic
+
+Mild motion blur and phone-camera autofocus
+
+No cinematic color grading
+
+No CGI appearance
+
+No cartoon look
+
+No exaggerated facial expressions
+
+No human hands
+
+Keep the animals anatomically realistic while making the hug physically believable
+
+Spontaneous, funny, wholesome internet-video feeling
+
+Single continuous shot, no cuts or transitions
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103054180785217536/img/tvcRUMhxysJaCxdS.jpg" width="600" alt="Crow and Cat Hug Video Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11231)**
+
+**Author:** [Soulful Ai](https://x.com/soulful__ai) | **Source:** [Link](https://x.com/soulful__ai/status/2103056454395855115) | **Published:** Sep 24, 2026
+
+---
+### High School Superhero Slap Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for generating a cinematic live-action video of a high school confrontation where a girl reveals superpowers after being slapped.
+
+#### 📝 Prompt
+
+```
+Cinematic 16:9 live-action, 24 sec, realistic high school hallway, bright fluorescent lighting, shiny floor, grey lockers, shallow depth of field. Characters: Girl A: long wavy brown hair, blue plaid shirt over white tank top, jeans. Girl B: short dark bob, navy-and-cream letterman jacket with red "R".
+
+Scene 1 (0-2s): Wide shot. Girl A stands against lockers, Girl B faces her, confronting her. Students walk in the background.
+
+Scene 2 (2-4s): Close-up of Girl A, nervous and calm, Girl B's head blurred in the foreground. Cut to Girl B's close-up, smirking.
+
+Scene 3 (4-7s): Medium two-shot over Girl B's shoulder. Girl A looks tense and stares back.
+
+Scene 4 (7-8s): Girl B slaps Girl A. Girl A's head whips sideways, hair flying, and her eyes flash glowing white.
+
+Scene 5 (8-9s): Wide handheld shot. Girl A, eyes glowing, thrusts her arm out, blue-white electric energy crackles along her arm. Students in the hallway watch in shock.
+
+Scene 6 (10-15s): Close-up. Girl A's face, glowing white eyes, angry and shaken. Her glowing hand rises toward the camera, energy sparking around her fingers.
+
+Scene 7 (16-19s): Wide long hallway shot. Two jocks in varsity jackets rush at Girl A. She unleashes streaks of white energy that hurl them backward through the air.
+
+Scene 8 (20-24s): Front-facing tracking shot. Girl A walks down the empty hallway toward the camera, glowing energy on her arms and eyes. The glow fades, her eyes turn normal, and she looks breathless and shocked.
+
+Style: realistic teen superhero drama, natural skin texture, motion blur on energy effects, smooth camera moves, cool blue-white glow, no text or subtitles.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102993862717550593/img/rSpxmx_tj3MnvVAC.jpg" width="600" alt="High School Superhero Slap Scene">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11199)**
+
+**Author:** [Sᴀɪʀᴀ](https://x.com/itsSaira_1) | **Source:** [Link](https://x.com/itsSaira_1/status/2102994561144434785) | **Published:** Sep 24, 2026
+
+---
 ### Lip Gloss Beauty Product Video Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for generating a realistic vertical beauty product video showcasing lip gloss application and lifestyle aesthetics.
+> A prompt for creating a realistic vertical beauty product video featuring lip gloss application and lifestyle shots.
 
 #### 📝 Prompt
 
@@ -388,7 +540,7 @@ Create a realistic 10-second vertical beauty product video showing hands opening
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A comprehensive prompt for generating a 15-second cinematic travel vlog featuring a blonde woman exploring a European city with consistent character identity.
+> A prompt for generating a 15-second cinematic travel vlog following a blonde woman through a European city, ending with a sunset view.
 
 #### 📝 Prompt
 
@@ -413,11 +565,11 @@ No dialogue, no narration, no subtitles, no text overlays. Vertical 9:16. Durati
 **Author:** [Ejaz Bashir](https://x.com/Ejaz_bashir1) | **Source:** [Link](https://x.com/Ejaz_bashir1/status/2102950419601543250) | **Published:** Sep 24, 2026
 
 ---
-### Seedance 2.0 Coffee Run Fashion Film Prompt
+### Coffee Run Fashion Film Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt for Seedance 2.0 to generate a 15-second photorealistic lifestyle fashion film featuring a girl having coffee in a cozy café. It includes specific character consistency instructions, shot breakdowns, and visual style guidelines.
+> A detailed prompt for creating a 15-second photorealistic lifestyle fashion film featuring a coffee shop scene, specifically optimized for Seedance 2.0.
 
 #### 📝 Prompt
 
@@ -451,7 +603,7 @@ IMPORTANT: No exaggerated posing, no slow motion, no beauty-filter effect, no ou
 16:9 LANDSCAPE • 15 SECONDS • PHOTOREALISTIC • CINEMATIC • NATURAL CAMERA MOVEMENT
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2102920902602051584/img/iqI05E_HaYidE4pV.jpg" width="600" alt="Seedance 2.0 Coffee Run Fashion Film Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102920902602051584/img/iqI05E_HaYidE4pV.jpg" width="600" alt="Coffee Run Fashion Film Prompt">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11185)**
 
@@ -4899,91 +5051,6 @@ Audio: A crisp 'smack'.
 **Author:** [探路AI](https://x.com/TanLuAI) | **Source:** [Link](https://x.com/TanLuAI/status/2097247939857101267) | **Published:** Sep 8, 2026
 
 ---
-### Seoul Morning Vlog Commute
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A 30-second vlog-style video prompt simulating a sleepy morning commute in Seoul, captured with handheld smartphone realism.
-
-#### 📝 Prompt
-
-```
-Create a 30-second, 1080p ultra-realistic personal home video in 16:9 landscape, showing an ordinary early morning in the life of one adult Korean woman commuting through Seoul. Use an entirely original fictional character created from the written description below. No reference image is supplied or required. The finished video should resemble genuine footage casually recorded by a close friend accompanying her during a sleepy morning commute. MAIN CHARACTER: One 23-year-old Korean woman with a petite oval face, naturally fair skin with visible texture, soft brown eyes, straight eyebrows, a small natural nose, and muted coral lips. Her under-eyes look slightly puffy from waking early. She wears bare-minimal makeup with no artificial skin smoothing. Her long black hair is arranged in a loose, messy half-up bun with several strands falling naturally around her face and neck. She wears the same oversized medium-blue denim jacket over a cream knitted sweater, charcoal wide-leg trousers, black leather loafers, and small silver stud earrings throughout. A slim dark-green canvas tote remains on her left shoulder, and she carries the same black smartphone in her right hand. Preserve her exact face, hairstyle, clothing, body proportions, tote, phone, and sleepy personality across every scene. CAMERA APPROACH: The camera is operated horizontally by an unseen friend walking and commuting beside her. She never records herself and never takes the camera. Use authentic handheld smartphone footage with gentle hand tremor, subtle walking bounce, occasional imperfect framing, mild low-light grain, small exposure changes, realistic motion blur, and autofocus that briefly searches in the dim subway lighting. The friend usually records from chest or eye height at a natural conversational distance. Avoid polished compositions and repeated direct eye contact with the lens. Make the footage feel personal, spontaneous, and slightly unplanned. OPENING — QUIET PLATFORM WAIT Begin immediately on a mostly empty underground Seoul subway platform before sunrise. Pale fluorescent ceiling lights reflect softly across the clean floor. Light condensation covers sections of the platform-screen doors, and vague red and white signal lights glow along the distant tracks. A few pigeons can be seen safely on an unused exterior section beyond the platform barriers. The first commuters of the morning wait quietly at widely separated positions. The camera approaches the woman from slightly behind and to her left. She stands near a marked waiting area with her tote on her left shoulder and her phone in her right hand. She reads something on the phone, blinks slowly, and gives a small involuntary yawn that she covers with the back of her left hand. She places that hand back on her tote strap and gently shifts her weight from one loafer to the other. The friend filming steps closer, causing the phone camera to briefly lose focus before finding her face. She notices the camera for a moment but is still too sleepy to react. A loose strand of black hair rests across her cheek while the remaining commuters continue behaving naturally in the background. TRAIN ARRIVAL — MORNING AIR AND MOVEMENT A distant train rumble grows louder. She locks her phone and lowers it beside her right thigh while keeping a secure grip on it. The camera turns briefly toward the tunnel as the approaching headlights brighten behind the glass barriers. The train enters the station with a strong rush of air. Her loose hair strands and oversized denim jacket move naturally in the draft. She narrows her eyes, turns her face away from the wind, and holds the tote strap more securely with her left hand. Reflections of passing train windows rapidly travel over her face and clothing. When the platform and train doors align and open, she waits for two adult passengers to exit before stepping aboard. The friend follows directly behind her, and the frame is briefly obstructed by the shoulder of another commuter. The camera corrects its position naturally rather than producing a perfect transition. Show one quick interior moment as she stands beside the train door, holding a metal support pole with her left hand while the tote stays trapped securely between her arm and body. She briefly closes her eyes as if she could fall asleep while standing. Keep the train interior ordinary, moderately lit, and only lightly occupied. STREET EXIT — FIRST DAYLIGHT Transition with a simple natural cut to the woman climbing the final stairs out of a subway exit. The unseen friend follows two steps behind. The outside light is pale blue and slightly brighter than the station, causing the smartphone exposure to adjust gradually. She reaches the quiet street, squints at the dawn light, and takes a deeper breath of cold air. She transfers her phone briefly into her left hand, stretches her right arm above her head, and rolls one shoulder beneath the oversized jacket. After stretching, she returns the phone to her right hand and settles the tote back into its original position on her left shoulder. The Seoul neighborhood is only beginning to wake. Show closed storefront shutters, a delivery bicycle leaning against a wall, traffic signals changing over an almost empty intersection, a city bus passing in the distance, and the first office workers walking toward the station. Keep signs and branding soft, distant, and unreadable. ODENG CART — A WARM MORNING STOP As she continues walking, she notices a small street-food cart preparing to open near the subway exit. Steam rises from a metal broth container into the cold blue morning air. An adult vendor arranges fish-cake skewers while warm light from the cart contrasts naturally with the cool street. She walks over, politely nods to the vendor, and stops beside the cart. The friend films from her right side as she chooses one folded fish-cake skewer. The vendor places the skewer in a small paper cup containing a little hot broth and hands it to her. She accepts the cup carefully with her left hand while continuing to hold her phone in her right. She lifts the cup close to her lips, blows gently over the broth, and attempts a cautious sip. The broth is hotter than expected. She immediately pulls it away, raises her eyebrows, presses her lips together, and releases a quiet amused breath through her nose. Keep the reaction small, natural, and spontaneous. She then takes a modest bite from the fish cake, chews naturally, and begins walking again while carrying the cup securely. Steam should continue rising from the broth, the skewer must remain inside the same cup, and its size must reduce naturally after the bite. FINAL MOMENT — SLEEPY COMMENT The friend walks backward a few steps while recording her from the front. She glances toward the camera with tired eyes and notices that her ordinary breakfast is still being filmed. Without stopping, she says naturally in English, “You’re always filming the boring parts.” Her voice is soft, sleepy, and playfully annoyed. After speaking, she gives the friend a small genuine smile, looks back toward the sidewalk, and continues walking. The camera allows her to move slightly farther ahead before following from behind. End with her oversized denim jacket, messy half-up bun, dark-green tote, and steaming breakfast cup visible as she walks into the pale morning street. Finish with a simple natural fade to black. AUDIO: Use synchronized original location sound only: distant train rumble, soft platform announcement murmurs, train-door chimes, compressed air, footsteps on station tiles, jacket fabric movement, quiet early-morning traffic, the vendor arranging metal containers, broth being poured, light street wind, and her natural dialogue. Background conversations remain indistinct. No music and no narration. REALISM AND CONTINUITY:
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097208479165644800/img/9ocJj06UL25NOrPT.jpg" width="600" alt="Seoul Morning Vlog Commute">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10556)**
-
-**Author:** [Elaine Wright](https://x.com/ElaineWrigari1) | **Source:** [Link](https://x.com/ElaineWrigari1/status/2097208674640912805) | **Published:** Sep 8, 2026
-
----
-### 9-Panel Japanese Woman Photo Collage
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A prompt designed for Seedance 2.5 that animates a static 3x3 photo collage of a Japanese woman, utilizing flashes and shutter sound cues to bring the grid to life.
-
-#### 📝 Prompt
-
-```
-15 seconds, 3:4 portrait, i2v. Use @image1 as the first frame. Video theme: A mysterious and cute 15-second video where a 3x3 9-frame photo collage starts moving as a live video triggered by the shutter sound and flash for each frame. All 9 frames feature the same adult Japanese woman.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097205402169720832/img/olitk_PGPYm4pKYY.jpg" width="600" alt="9-Panel Japanese Woman Photo Collage">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10513)**
-
-**Author:** [くろ@なんか刺さるAI美女](https://x.com/ai6vyy) | **Source:** [Link](https://x.com/ai6vyy/status/2097205443605189010) | **Published:** Sep 8, 2026
-
----
-### Luxury Jewelry Advertisement
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic jewelry advertisement prompt focusing on an elegant unboxing experience, macro shots of gemstones, and warm golden lighting.
-
-#### 📝 Prompt
-
-```
-Created a 30-second cinematic luxury jewelry advertisement video in a warm and elegant style.
-The video opens with a beautifully decorated bedroom, soft morning sunlight, and a premium jewelry gift box placed on a wooden table.
-A woman gently picks up the elegant box, creating a delicate and emotional unboxing moment.
-The camera moves into cinematic close-up shots of her face and hands as she reveals the jewelry.
-A sparkling blue gemstone pendant is shown in detailed macro shots with soft golden lighting.
-She wears the necklace gracefully, highlighting its elegant design and luxurious shine.
-The scene continues with a peaceful morning moment near the window, holding a cup in warm sunlight.
-Close-up shots capture the pendant sparkling naturally against her skin with realistic shadows and reflections.
-The video ends with a premium jewelry box displaying the complete matching jewelry set.
-Soft cinematic lighting, warm golden tones, luxury commercial aesthetic, smooth camera movements, shallow depth of field, photorealistic details, 9:16 vertical format.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097194687438204928/img/O9DLbkzZtECcMJGA.jpg" width="600" alt="Luxury Jewelry Advertisement">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10510)**
-
-**Author:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Source:** [Link](https://x.com/ayzalnooor24521/status/2097194787564658942) | **Published:** Sep 8, 2026
-
----
-### Alpine Mountain Hiking Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A scenic video prompt for a rugged alpine trail during golden hour, featuring majestic mountain vistas and volumetric lighting.
-
-#### 📝 Prompt
-
-```
-Ultra-realistic cinematic mountain hiking scene, a narrow rugged trail winding through a dense alpine forest, massive weathered rocks on both sides, tall trees casting dramatic shadows, warm golden-hour sunlight filtering through the branches, majestic layered mountains visible in the distance, soft atmospheric haze, natural earthy tones, immersive wilderness atmosphere, smooth cinematic camera movement, realistic textures, volumetric lighting, shallow depth of field, HDR, 8K, photorealistic, cinematic color grading, professional outdoor adventure cinematography, vertical 9:16.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097185470707048448/img/o-YrU7nxYm5ayOKt.jpg" width="600" alt="Alpine Mountain Hiking Scene">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10507)**
-
-**Author:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2097185540391211470) | **Published:** Sep 8, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -5045,6 +5112,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-25T03:56:35.999Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-26T04:06:08.233Z</sub>
 
 </div>

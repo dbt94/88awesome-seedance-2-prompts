@@ -68,9 +68,9 @@ Tại sao nên sử dụng thư viện của chúng tôi?
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **6419** |
+| 📝 Tổng số prompt | **6423** |
 | ⭐ Prompt nổi bật | **6** |
-| 🔄 Cập nhật lần cuối | **2026-09-25** |
+| 🔄 Cập nhật lần cuối | **2026-09-26** |
 
 ---
 
@@ -361,6 +361,161 @@ Siêu thực tế, năng lượng lấy cảm hứng từ Fast and Furious, ánh
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Cinematic Winter Cabin Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for generating a realistic cinematic video of a woman in a cozy winter cabin, featuring specific camera movements and atmospheric details.
+
+#### 📝 Prompt
+
+```
+Create a highly realistic cinematic winter video of a peaceful woman staying in a cozy wooden cabin surrounded by a beautiful snow-covered mountain landscape. Start with an intimate close-up of the woman resting peacefully indoors as warm golden sunlight softly falls across her face through the window. Transition to a wide cinematic view of the snowy cabin balcony, tall pine trees, distant mountains, and a warm sunrise glowing over the landscape. Show small birds flying and landing on the snow-covered wooden railing as the woman gently reaches out to feed them. Capture detailed snow textures, natural bird movements, soft winter wind, and realistic sunlight. Then show her inside the cabin preparing a warm cup of tea beside a traditional kettle near the window. Focus on her hands, the steaming cup, the cozy knitted sweater, and the peaceful snowy scenery outside. Follow her as she walks slowly through a snow-covered wooden pathway wearing a warm cream sweater and dark pants. End with a wide cinematic aerial-style view of the quiet snow-covered cabins, pine forest, mountains, and glowing sunset or sunrise in the distance. Use photorealistic textures, natural human movement, realistic lighting, subtle depth of field, smooth camera motion, atmospheric winter details, and authentic cinematic color grading, making the entire video feel like real-life footage rather than AI-generated.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103359076004691968/img/ivUZ2Dqzi2ShtzCi.jpg" width="600" alt="Cinematic Winter Cabin Video Prompt">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11230)**
+
+**Tác giả:** [liana](https://x.com/Lianaalane) | **Nguồn:** [Link](https://x.com/Lianaalane/status/2103359307874226667) | **Đã xuất bản:** Sep 25, 2026
+
+---
+### Prompt Video Phiêu Lưu Núi Băng Bắc Cực
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một prompt toàn diện để tạo video phiêu lưu mùa đông điện ảnh, với hình ảnh một phụ nữ Hàn Quốc trong bối cảnh vùng núi Bắc Cực.
+
+#### 📝 Prompt
+
+```
+Tạo một video phiêu lưu mùa đông điện ảnh siêu thực tế dài 15 giây, lấy bối cảnh tại một vùng núi tuyết hùng vĩ mang phong cách Bắc Cực.
+Một cô gái trẻ người Hàn Quốc xinh đẹp, khoảng 20–25 tuổi, với các đặc điểm khuôn mặt tự nhiên kiểu Hàn Quốc, làn da trắng sáng, đôi mắt nâu sẫm biểu cảm dịu dàng, mái tóc đen dài thẳng mượt, lớp trang điểm tự nhiên tinh tế và biểu cảm nhẹ nhàng chân thực. Giữ cho khuôn mặt, kiểu tóc, tỷ lệ cơ thể, trang phục và danh tính tổng thể của cô ấy hoàn toàn nhất quán trong suốt video.
+Cô ấy mặc bộ trang phục mùa đông cao cấp màu trắng và kem: áo khoác phao mùa đông màu kem ấm áp có mũ lông mềm mại, mũ len beanie màu be, khăn quàng cổ màu kem mềm mại, găng tay mùa đông, quần mùa đông tối màu, ủng đi tuyết và một chiếc ba lô nhỏ màu tối. Trang phục của cô ấy phải chuyển động tự nhiên theo gió lạnh trên núi.
+Một thung lũng núi tuyết rộng lớn lấy cảm hứng từ Bắc Cực với những đỉnh núi khổng lồ phủ đầy tuyết, hồ nước đóng băng màu xanh ngọc bích, những cánh đồng tuyết nguyên sơ, đá phủ băng, cây thông phủ tuyết, sông băng xa xôi và tuyết rơi nhẹ. Môi trường phải trông chân thực như ảnh chụp và tráng lệ, giống như một bộ phim du lịch điện ảnh kinh phí cao.
+Ánh nắng mùa đông tự nhiên dịu nhẹ, tông màu tuyết xanh-trắng mát mẻ, ánh nắng vàng nhạt chạm vào các đỉnh núi, sương mù khí quyển chân thực, ánh sáng thể tích (volumetric light), bóng đổ tự nhiên, phản chiếu chân thực trên mặt hồ đóng băng và kết cấu tuyết chi tiết.
+Máy quay điện ảnh cao cấp, độ sâu trường ảnh (depth of field) chân thực, đặc tính ống kính tự nhiên, chuyển động máy quay mượt mà được kiểm soát, hiệu ứng cầm tay chân thực tinh tế, bố cục điện ảnh, mờ chuyển động (motion blur) chân thực, kết cấu da chi tiết, chuyển động tóc chân thực, hạt tuyết chân thực. Không có vẻ ngoài CGI nhân tạo.
+Bắt đầu bằng một cú máy thiết lập (establishing shot) góc rộng hoành tráng về dãy núi Bắc Cực khổng lồ phủ tuyết và hồ nước đóng băng màu xanh ngọc bích. Cô gái trẻ người Hàn Quốc đứng nhỏ bé ở tiền cảnh, quay lưng về phía máy quay, nhìn ngắm những ngọn núi. Những bông tuyết rơi nhẹ nhàng xung quanh cô. Máy quay từ từ đẩy tiến về phía cô.
+Chuyển tiếp sang một cú máy tracking trung cảnh mượt mà khi cô bắt đầu bước đi trên con đường tuyết bên cạnh hồ đóng băng. Đôi ủng của cô để lại những dấu chân chân thực trên lớp tuyết mới. Mái tóc đen dài và chiếc khăn quàng của cô lay động nhẹ nhàng trong gió lạnh. Máy quay theo sau cô từ phía sau và hơi lệch sang một bên.
+Cắt sang một cận cảnh điện ảnh thân mật trên khuôn mặt cô. Cô từ từ quay mặt về phía máy quay và nở một nụ cười tự nhiên tinh tế. Những bông tuyết nhỏ đậu trên tóc và hàng mi của cô. Hơi thở của cô hiện rõ trong không khí đóng băng. Ghi lại kết cấu da chân thực, chuyển động mắt tự nhiên, biểu cảm dịu dàng và độ sâu trường ảnh nông.
+Di chuyển sang một cú máy profile (góc nghiêng) tuyệt đẹp. Cô dừng lại gần mép hồ đóng băng và nhìn về phía những ngọn núi tuyết khổng lồ. Máy quay từ từ xoay quanh cô trong khi ánh nắng tạo ra viền sáng (rim light) mềm mại quanh tóc cô. Các hạt tuyết trôi nổi tự nhiên trong khung hình.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103346104557522944/img/AaBPCXKEhfGCn6BN.jpg" width="600" alt="Prompt Video Phiêu Lưu Núi Băng Bắc Cực">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11232)**
+
+**Tác giả:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Nguồn:** [Link](https://x.com/ayzalnooor24521/status/2103346184081605052) | **Đã xuất bản:** Sep 25, 2026
+
+---
+### Prompt Video Quạ Ôm Mèo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một prompt chi tiết để tạo ra video quay bằng điện thoại cầm tay, hài hước và ấm áp về cảnh một con quạ ôm một chú mèo trong hành lang căn hộ.
+
+#### 📝 Prompt
+
+```
+Tạo một video quay bằng điện thoại cầm tay chân thực, hài hước và ấm áp, mô tả một con quạ đen trông như thật và một chú mèo xám lông xù đáng yêu bên trong hành lang của một căn hộ đơn giản.
+
+Chú mèo xám đeo một chiếc nơ hồng nhỏ được gắn tự nhiên trên đỉnh đầu. Chiếc nơ giữ nguyên vị trí suốt toàn bộ video.
+
+0–3 giây:
+Con quạ đứng giữa hành lang, nhìn quanh một cách tự nhiên. Chú mèo xám xuất hiện ở phía xa và nhận ra con quạ. Nó ngay lập tức chạy về phía con quạ với năng lượng phấn khích và tinh nghịch.
+
+3–6 giây:
+Chú mèo đến gần con quạ. Con quạ quay lại hướng về phía nó và nhẹ nhàng dang rộng cả hai cánh bao quanh chú mèo, tạo nên hình ảnh một cái ôm ngọt ngào. Chú mèo dựa vào con quạ đầy tình cảm. Tương tác giữa chúng cần phải tự phát và hợp lý về mặt vật lý.
+
+6–10 giây:
+Sau cái ôm, con quạ bắt đầu đi về phía trước dọc theo hành lang trong khi chú mèo xám đi sát bên cạnh. Chúng di chuyển cùng nhau như một cặp đôi bạn bè bất ngờ nhưng dễ thương. Thỉnh thoảng, con quạ liếc nhìn sang chú mèo khi đang đi.
+
+10–12 giây:
+Chú mèo ngước nhìn lên con quạ trong chốc lát, sau đó cả hai tiếp tục cùng nhau bước đi xa dần.
+
+Phong cách hình ảnh
+
+Động vật cực kỳ chân thực
+
+Giải phẫu, lông, bàn chân và mỏ của quạ đúng chuẩn thực tế
+
+Lông mèo xám mềm mại, dày dặn và chuyển động tự nhiên
+
+Chiếc nơ hồng nhỏ trên đầu chú mèo
+
+Hành lang căn hộ bình thường
+
+Quay bằng camera điện thoại thông minh cầm tay
+
+Camera hơi rung và khung hình không hoàn hảo
+
+Ánh sáng nội thất tự nhiên
+
+Thẩm mỹ video mạng xã hội lan truyền (viral) chất lượng thấp, độ phân giải khoảng 144p, nén nhẹ
+
+Mờ chuyển động nhẹ và tính năng lấy nét tự động của camera điện thoại
+
+Không chỉnh màu điện ảnh
+
+Không có vẻ ngoài CGI (đồ họa máy tính)
+
+Không phong cách hoạt hình
+
+Không biểu cảm khuôn mặt phóng đại
+
+Không có bàn tay người
+
+Giữ cho động vật chân thực về giải phẫu nhưng làm cho cái ôm trở nên hợp lý về mặt vật lý
+
+Cảm giác video internet tự phát, hài hước và lành mạnh
+
+Một cú quay liên tục duy nhất, không cắt ghép hay chuyển cảnh
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103054180785217536/img/tvcRUMhxysJaCxdS.jpg" width="600" alt="Prompt Video Quạ Ôm Mèo">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11231)**
+
+**Tác giả:** [Soulful Ai](https://x.com/soulful__ai) | **Nguồn:** [Link](https://x.com/soulful__ai/status/2103056454395855115) | **Đã xuất bản:** Sep 24, 2026
+
+---
+### Cảnh Tát Bộc Lộ Siêu Năng Lực Tại Trường Trung Học
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt điện ảnh để tạo cảnh phim ngắn trong hành lang trường trung học, nơi một cô gái bộc lộ siêu năng lực sau khi bị tát, với thiết kế nhân vật cụ thể, hiệu ứng năng lượng và chuyển động máy quay.
+
+#### 📝 Prompt
+
+```
+Phim người đóng 16:9 mang phong cách điện ảnh, dài 24 giây, bối cảnh hành lang trường trung học chân thực, ánh sáng huỳnh quang rực rỡ, sàn nhà bóng loáng, tủ đồ màu xám, độ sâu trường ảnh nông. Nhân vật: Cô gái A: tóc nâu gợn sóng dài, áo sơ mi kẻ caro xanh dương khoác ngoài áo hai dây trắng, quần jean. Cô gái B: tóc bob ngắn màu tối, áo khoác letterman phối xanh navy và kem với chữ "R" màu đỏ.
+
+Cảnh 1 (0-2s): Góc máy rộng. Cô gái A đứng tựa vào tủ đồ, đối mặt với cô gái B đang chất vấn cô. Các học sinh đi lại ở hậu cảnh.
+
+Cảnh 2 (2-4s): Cận mặt cô gái A, vẻ mặt căng thẳng nhưng bình tĩnh, đầu của cô gái B mờ nhòe ở tiền cảnh. Chuyển sang cận mặt cô gái B, nở nụ cười khinh bỉ.
+
+Cảnh 3 (4-7s): Góc máy trung hai người qua vai cô gái B. Cô gái A trông căng thẳng và nhìn trả lại đầy thách thức.
+
+Cảnh 4 (7-8s): Cô gái B tát cô gái A. Đầu cô gái A hất sang một bên, tóc bay tung, đôi mắt lóe lên ánh sáng trắng.
+
+Cảnh 5 (8-9s): Góc máy rộng cầm tay. Cô gái A, đôi mắt phát sáng, đưa mạnh cánh tay ra ngoài, năng lượng điện xanh-trắng nổ lép bép dọc theo cánh tay. Các học sinh trong hành lang kinh ngạc chứng kiến.
+
+Cảnh 6 (10-15s): Cận mặt. Khuôn mặt cô gái A, đôi mắt phát sáng trắng, biểu cảm giận dữ và run rẩy. Bàn tay phát sáng của cô giơ về phía máy quay, năng lượng tia lửa bao quanh các ngón tay.
+
+Cảnh 7 (16-19s): Góc máy rộng dọc hành lang. Hai cầu thủ mặc áo đồng phục đội tuyển lao về phía cô gái A. Cô giải phóng những vệt năng lượng trắng đẩy họ bay ngược ra sau không trung.
+
+Cảnh 8 (20-24s): Góc máy tracking từ phía trước. Cô gái A bước đi dọc hành lang trống trải hướng về phía máy quay, năng lượng phát sáng trên cánh tay và đôi mắt. Ánh sáng dần tắt, đôi mắt trở lại bình thường, cô trông thở hổn hển và bàng hoàng.
+
+Phong cách: phim chính kịch siêu anh hùng tuổi teen chân thực, kết cấu da tự nhiên, làm mờ chuyển động cho hiệu ứng năng lượng, chuyển động máy quay mượt mà, ánh sáng xanh-trắng mát lạnh, không có văn bản hoặc phụ đề.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102993862717550593/img/rSpxmx_tj3MnvVAC.jpg" width="600" alt="Cảnh Tát Bộc Lộ Siêu Năng Lực Tại Trường Trung Học">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=11199)**
+
+**Tác giả:** [Sᴀɪʀᴀ](https://x.com/itsSaira_1) | **Nguồn:** [Link](https://x.com/itsSaira_1/status/2102994561144434785) | **Đã xuất bản:** Sep 24, 2026
+
+---
 ### Prompt Video Sản Phẩm Son Bóng
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -5221,91 +5376,6 @@ Chân trước của Mèo đeo thẻ ID giáng xuống nhanh chóng từ trên c
 **Tác giả:** [探路AI](https://x.com/TanLuAI) | **Nguồn:** [Link](https://x.com/TanLuAI/status/2097247939857101267) | **Đã xuất bản:** Sep 8, 2026
 
 ---
-### Vlog buổi sáng đi làm tại Seoul
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt phong cách vlog dài 30 giây mô phỏng cảnh đi làm vào buổi sáng ngái ngủ tại Seoul, được quay với độ chân thực như dùng điện thoại cầm tay.
-
-#### 📝 Prompt
-
-```
-Tạo một video cá nhân siêu thực dài 30 giây, độ phân giải 1080p, khung hình ngang 16:9, ghi lại một buổi sáng sớm bình thường trong cuộc sống của một phụ nữ Hàn Quốc trưởng thành đang đi làm tại Seoul. Sử dụng một nhân vật hư cấu hoàn toàn mới dựa trên mô tả bằng văn bản dưới đây. Không cần cung cấp hình ảnh tham khảo. Video hoàn thiện nên giống như những thước phim chân thực được quay một cách ngẫu hứng bởi một người bạn thân đi cùng cô ấy trong buổi sáng đi làm đầy ngái ngủ. NHÂN VẬT CHÍNH: Một phụ nữ Hàn Quốc 23 tuổi với khuôn mặt trái xoan nhỏ nhắn, làn da sáng tự nhiên với kết cấu da rõ nét, đôi mắt nâu dịu dàng, lông mày thẳng, chiếc mũi nhỏ tự nhiên và đôi môi màu san hô nhạt. Quầng mắt cô hơi sưng do dậy sớm. Cô trang điểm tối giản, không sử dụng kỹ thuật làm mịn da nhân tạo. Mái tóc đen dài được búi nửa đầu lỏng lẻo, rối nhẹ với vài lọn tóc buông tự nhiên quanh mặt và cổ. Cô mặc chiếc áo khoác denim màu xanh dương cỡ rộng bên ngoài áo len dệt kim màu kem, quần ống rộng màu than, giày lười da màu đen và đeo đôi khuyên tai bạc nhỏ trong suốt video. Một chiếc túi tote vải màu xanh lá đậm đeo trên vai trái và cô cầm chiếc điện thoại thông minh màu đen trên tay phải. Duy trì chính xác khuôn mặt, kiểu tóc, trang phục, tỷ lệ cơ thể, túi tote, điện thoại và vẻ ngoài ngái ngủ của cô trong mọi cảnh quay. PHƯƠNG PHÁP QUAY PHIM: Máy quay được vận hành theo chiều ngang bởi một người bạn không lộ mặt, đi bộ và di chuyển cùng cô. Cô không bao giờ tự quay mình và không bao giờ cầm máy quay. Sử dụng cảnh quay điện thoại cầm tay chân thực với độ rung nhẹ của tay, độ nảy tự nhiên khi đi bộ, khung hình đôi khi không hoàn hảo, hạt nhiễu nhẹ trong điều kiện thiếu sáng, thay đổi độ phơi sáng nhỏ, hiệu ứng nhòe chuyển động thực tế và lấy nét tự động tìm kiếm nhanh trong ánh sáng mờ của tàu điện ngầm. Người bạn thường quay từ tầm ngực hoặc tầm mắt ở khoảng cách trò chuyện tự nhiên. Tránh các bố cục quá chỉn chu và việc nhìn thẳng vào ống kính lặp đi lặp lại. Hãy làm cho thước phim mang tính cá nhân, tự phát và hơi ngẫu hứng. MỞ ĐẦU — CHỜ ĐỢI TẠI GA TÀU YÊN TĨNH Bắt đầu ngay tại sân ga tàu điện ngầm Seoul vắng vẻ trước bình minh. Ánh đèn huỳnh quang nhạt trên trần nhà phản chiếu nhẹ nhàng trên sàn nhà sạch sẽ. Một lớp hơi ẩm mỏng bao phủ các phần của cửa chắn sân ga, và những tín hiệu đèn đỏ trắng mờ ảo tỏa sáng dọc theo đường ray phía xa. Một vài chú chim bồ câu đậu an toàn trên phần ngoại khu không sử dụng ngoài rào chắn sân ga. Những hành khách đầu tiên của buổi sáng lặng lẽ chờ đợi ở các vị trí cách xa nhau. Máy quay tiến lại gần cô gái từ phía sau và hơi lệch về bên trái. Cô đứng gần khu vực chờ với chiếc túi tote trên vai trái và điện thoại trên tay phải. Cô đọc gì đó trên điện thoại, chớp mắt chậm rãi và ngáp một cái không tự chủ, lấy mu bàn tay trái che miệng. Cô đặt tay trở lại dây túi và nhẹ nhàng chuyển trọng tâm từ chân này sang chân kia. Người bạn quay phim tiến lại gần hơn, khiến máy quay điện thoại mất nét trong giây lát trước khi lấy nét lại vào khuôn mặt cô. Cô nhận ra máy quay trong một khoảnh khắc nhưng vẫn quá buồn ngủ để phản ứng. Một lọn tóc đen buông xõa trên má trong khi những hành khách khác vẫn cư xử tự nhiên ở phía sau. TÀU ĐẾN — KHÔNG KHÍ BUỔI SÁNG VÀ CHUYỂN ĐỘNG Tiếng tàu từ xa vọng lại ngày càng lớn. Cô khóa điện thoại và hạ xuống bên đùi phải trong khi vẫn cầm chắc. Máy quay xoay nhẹ về phía đường hầm khi ánh đèn pha tàu sáng dần sau các rào chắn kính. Tàu vào ga với một luồng gió mạnh. Những lọn tóc buông xõa và chiếc áo khoác denim cỡ rộng của cô chuyển động tự nhiên trong gió. Cô nheo mắt, quay mặt đi để tránh gió và giữ dây túi chắc hơn bằng tay trái. Hình ảnh phản chiếu từ cửa sổ tàu chạy nhanh qua khuôn mặt và trang phục của cô. Khi cửa sân ga và cửa tàu khớp nhau và mở ra, cô đợi hai hành khách khác bước ra trước khi bước lên tàu. Người bạn đi ngay phía sau cô, và khung hình bị che khuất một chút bởi vai của một hành khách khác. Máy quay điều chỉnh vị trí một cách tự nhiên thay vì tạo ra một sự chuyển cảnh hoàn hảo. Cho thấy một khoảnh khắc ngắn bên trong tàu khi cô đứng cạnh cửa, tay trái nắm cột hỗ trợ bằng kim loại trong khi chiếc túi tote được giữ chắc giữa cánh tay và cơ thể. Cô khép mắt lại trong giây lát như thể có thể ngủ gục khi đang đứng. Giữ không gian bên trong tàu bình thường, ánh sáng vừa phải và chỉ có ít hành khách. LỐI RA ĐƯỜNG PHỐ — ÁNH SÁNG BAN NGÀY ĐẦU TIÊN Chuyển cảnh bằng một cú cắt tự nhiên đơn giản sang cảnh cô gái leo những bậc thang cuối cùng ra khỏi lối thoát tàu điện ngầm. Người bạn đi theo sau hai bước. Ánh sáng bên ngoài là màu xanh nhạt và sáng hơn một chút so với nhà ga, khiến độ phơi sáng của điện thoại điều chỉnh dần dần. Cô đến con phố yên tĩnh, nheo mắt trước ánh sáng bình minh và hít một hơi thật sâu không khí lạnh. Cô chuyển điện thoại sang tay trái, vươn tay phải lên trên đầu và xoay vai dưới chiếc áo khoác cỡ rộng. Sau khi vươn vai, cô cầm lại điện thoại bằng tay phải và chỉnh lại túi tote về vị trí cũ trên vai trái. Khu phố Seoul chỉ mới bắt đầu thức giấc. Cho thấy các cửa hàng đóng cửa, một chiếc xe đạp giao hàng dựa vào tường, đèn giao thông thay đổi tại một ngã tư gần như trống trải, một chiếc xe buýt thành phố đi ngang qua phía xa và những nhân viên văn phòng đầu tiên đang đi bộ về phía nhà ga. Giữ các biển hiệu và thương hiệu mờ, xa và không thể đọc được. XE ĐẨY ODENG — ĐIỂM DỪNG CHÂN ẤM ÁP BUỔI SÁNG Khi tiếp tục đi bộ, cô nhận thấy một xe đẩy thức ăn đường phố nhỏ đang chuẩn bị mở cửa gần lối ra tàu điện ngầm. Hơi nước bốc lên từ nồi nước dùng kim loại vào không khí buổi sáng lạnh lẽo. Người bán hàng đang sắp xếp các xiên chả cá trong khi ánh sáng ấm áp từ xe đẩy tương phản tự nhiên với con phố mát mẻ. Cô đi tới, gật đầu lịch sự với người bán và dừng lại bên cạnh xe. Người bạn quay từ phía bên phải khi cô chọn một xiên chả cá. Người bán đặt xiên vào một chiếc cốc giấy nhỏ có chứa một ít nước dùng nóng và đưa cho cô. Cô cẩn thận nhận lấy cốc bằng tay trái trong khi vẫn cầm điện thoại bằng tay phải. Cô đưa cốc lại gần môi, thổi nhẹ vào nước dùng và thử nhấp một ngụm thận trọng. Nước dùng nóng hơn dự kiến. Cô lập tức kéo cốc ra, nhướng mày, mím môi và thở ra một hơi nhẹ nhàng đầy thích thú qua mũi. Giữ phản ứng nhỏ, tự nhiên và tự phát. Sau đó, cô cắn một miếng chả cá nhỏ, nhai tự nhiên và bắt đầu đi bộ tiếp trong khi vẫn cầm cốc chắc chắn. Hơi nước tiếp tục bốc lên từ nước dùng, xiên chả cá vẫn nằm trong cốc và kích thước của nó giảm đi tự nhiên sau miếng cắn. KHOẢNH KHẮC CUỐI CÙNG — LỜI BÌNH NGÁI NGỦ Người bạn đi lùi vài bước trong khi quay cô từ phía trước. Cô liếc nhìn về phía máy quay với đôi mắt mệt mỏi và nhận ra bữa sáng bình thường của mình vẫn đang bị quay lại. Không dừng lại, cô nói một cách tự nhiên bằng tiếng Anh: “You’re always filming the boring parts.” (Cậu lúc nào cũng quay những phần nhàm chán). Giọng cô nhẹ nhàng, ngái ngủ và hơi khó chịu một cách tinh nghịch. Sau khi nói, cô nở một nụ cười chân thành với người bạn, nhìn lại phía vỉa hè và tiếp tục đi bộ. Máy quay để cô di chuyển xa hơn một chút trước khi đi theo từ phía sau. Kết thúc với hình ảnh chiếc áo khoác denim cỡ rộng, mái tóc búi nửa đầu rối, chiếc túi tote màu xanh lá đậm và cốc bữa sáng đang bốc hơi khi cô bước vào con phố buổi sáng nhạt màu. Kết thúc bằng một hiệu ứng mờ dần sang màu đen tự nhiên. ÂM THANH: Chỉ sử dụng âm thanh hiện trường gốc được đồng bộ hóa: tiếng tàu từ xa, tiếng thông báo tại ga nhẹ nhàng, tiếng chuông cửa tàu, tiếng khí nén, tiếng bước chân trên gạch nhà ga, tiếng vải áo khoác chuyển động, tiếng giao thông buổi sáng sớm yên tĩnh, tiếng người bán hàng sắp xếp các vật dụng kim loại, tiếng rót nước dùng, gió đường phố nhẹ và lời thoại tự nhiên của cô. Các cuộc trò chuyện nền vẫn không rõ ràng. Không nhạc và không lời dẫn. TÍNH CHÂN THỰC VÀ SỰ LIÊN TỤC:
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097208479165644800/img/9ocJj06UL25NOrPT.jpg" width="600" alt="Vlog buổi sáng đi làm tại Seoul">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=10556)**
-
-**Tác giả:** [Elaine Wright](https://x.com/ElaineWrigari1) | **Nguồn:** [Link](https://x.com/ElaineWrigari1/status/2097208674640912805) | **Đã xuất bản:** Sep 8, 2026
-
----
-### Ảnh ghép 9 ô chân dung phụ nữ Nhật Bản
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Một câu lệnh được thiết kế cho Seedance 2.5 giúp tạo hiệu ứng chuyển động cho ảnh ghép 3x3 tĩnh của một phụ nữ Nhật Bản, sử dụng hiệu ứng ánh sáng đèn flash và âm thanh màn trập để làm sống động bố cục lưới.
-
-#### 📝 Prompt
-
-```
-15 giây, tỷ lệ 3:4 dọc, i2v. Sử dụng @image1 làm khung hình đầu tiên. Chủ đề video: Một video 15 giây đầy bí ẩn và dễ thương, trong đó ảnh ghép 9 ô (3x3) bắt đầu chuyển động như một video trực tiếp, được kích hoạt bởi âm thanh màn trập và đèn flash cho mỗi khung hình. Tất cả 9 khung hình đều hiển thị cùng một người phụ nữ Nhật Bản trưởng thành.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097205402169720832/img/olitk_PGPYm4pKYY.jpg" width="600" alt="Ảnh ghép 9 ô chân dung phụ nữ Nhật Bản">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=10513)**
-
-**Tác giả:** [くろ@なんか刺さるAI美女](https://x.com/ai6vyy) | **Nguồn:** [Link](https://x.com/ai6vyy/status/2097205443605189010) | **Đã xuất bản:** Sep 8, 2026
-
----
-### Quảng cáo trang sức cao cấp phong cách điện ảnh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) quảng cáo chi tiết dài 30 giây cho trang sức cao cấp, bao gồm cảnh mở hộp sang trọng, các góc quay cận cảnh đá quý và ánh sáng điện ảnh ấm áp.
-
-#### 📝 Prompt
-
-```
-Đã tạo một video quảng cáo trang sức cao cấp phong cách điện ảnh dài 30 giây với tông màu ấm áp và thanh lịch.
-Video mở đầu bằng khung cảnh phòng ngủ được trang trí đẹp mắt, ánh nắng buổi sáng dịu nhẹ và một hộp quà trang sức cao cấp đặt trên bàn gỗ.
-Một người phụ nữ nhẹ nhàng cầm chiếc hộp thanh lịch lên, tạo nên khoảnh khắc mở hộp đầy tinh tế và cảm xúc.
-Máy quay chuyển sang các góc cận cảnh điện ảnh vào khuôn mặt và đôi bàn tay của cô ấy khi cô hé lộ món trang sức.
-Một mặt dây chuyền đá quý màu xanh lấp lánh được thể hiện qua các góc quay macro chi tiết với ánh sáng vàng dịu nhẹ.
-Cô ấy đeo chiếc vòng cổ một cách duyên dáng, làm nổi bật thiết kế sang trọng và vẻ sáng bóng đẳng cấp.
-Khung cảnh tiếp tục với khoảnh khắc buổi sáng yên bình bên cửa sổ, cô cầm một tách trà trong ánh nắng ấm áp.
-Các góc quay cận cảnh bắt trọn vẻ lấp lánh tự nhiên của mặt dây chuyền trên làn da với đổ bóng và phản chiếu chân thực.
-Video kết thúc với hình ảnh hộp trang sức cao cấp trưng bày trọn bộ sản phẩm.
-Ánh sáng điện ảnh dịu nhẹ, tông màu vàng ấm, thẩm mỹ quảng cáo sang trọng, chuyển động máy quay mượt mà, độ sâu trường ảnh nông, chi tiết chân thực như ảnh chụp, định dạng dọc 9:16.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097194687438204928/img/O9DLbkzZtECcMJGA.jpg" width="600" alt="Quảng cáo trang sức cao cấp phong cách điện ảnh">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=10510)**
-
-**Tác giả:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Nguồn:** [Link](https://x.com/ayzalnooor24521/status/2097194787564658942) | **Đã xuất bản:** Sep 8, 2026
-
----
-### Cảnh đi bộ đường dài trên núi đậm chất điện ảnh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video siêu thực cho phân cảnh đi bộ đường dài trên núi, với những bóng đổ ấn tượng và ánh sáng giờ vàng xuyên qua khu rừng trên núi cao.
-
-#### 📝 Prompt
-
-```
-Cảnh đi bộ đường dài trên núi siêu thực đậm chất điện ảnh, một con đường mòn gồ ghề hẹp uốn lượn qua khu rừng trên núi cao rậm rạp, những tảng đá lớn bị phong hóa ở cả hai bên, những cái cây cao đổ bóng đầy ấn tượng, ánh sáng giờ vàng ấm áp xuyên qua các tán lá, những dãy núi hùng vĩ xếp tầng hiện ra phía xa, lớp sương mù nhẹ nhàng, tông màu đất tự nhiên, bầu không khí hoang dã đầy lôi cuốn, chuyển động máy quay điện ảnh mượt mà, kết cấu chân thực, ánh sáng thể tích, độ sâu trường ảnh nông, HDR, 8K, chân thực như ảnh chụp, chỉnh màu điện ảnh, quay phim phiêu lưu ngoài trời chuyên nghiệp, dọc 9:16.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097185470707048448/img/o-YrU7nxYm5ayOKt.jpg" width="600" alt="Cảnh đi bộ đường dài trên núi đậm chất điện ảnh">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=10507)**
-
-**Tác giả:** [AIwithMinal](https://x.com/AIwithMinal) | **Nguồn:** [Link](https://x.com/AIwithMinal/status/2097185540391211470) | **Đã xuất bản:** Sep 8, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -5367,6 +5437,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-25T03:56:44.276Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-26T04:06:14.398Z</sub>
 
 </div>
