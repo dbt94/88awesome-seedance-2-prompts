@@ -68,9 +68,9 @@ Por que usar nossa galeria?
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **6423** |
+| 📝 Total de prompts | **6435** |
 | ⭐ Prompts em destaque | **6** |
-| 🔄 Última atualização | **2026-09-26** |
+| 🔄 Última atualização | **2026-09-27** |
 
 ---
 
@@ -361,6 +361,981 @@ Ultra realista, energia inspirada em Velozes e Furiosos, iluminação fotorreali
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Roteiro de Curta-Metragem de Terror sobre Invasão Doméstica
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um roteiro detalhado, plano a plano, para um curta-metragem de terror intitulado 'The babysitter', gerado usando Seedance 2.5.
+
+#### 📝 Prompt
+
+```
+Plano 1 (0.0–1.2s): A personagem A, correspondendo ao rosto/roupa da referência, está sentada em um sofá em uma grande sala de estar suburbana à noite, com o celular na mão, luz quente do abajur contra janelas escuras.
+Plano 2 (1.2–2.4s): Plano aberto estático de um corredor vazio que leva ao andar de cima, com uma luz noturna fraca e completa imobilidade.
+Plano 3 (2.4–3.4s): Close-up do celular dela acendendo com um número desconhecido; ela hesita antes de atender.
+Plano 4 (3.4–4.4s): Ela atende. Uma voz distorcida sussurra: “Você conferiu as crianças?” Sua expressão fica inquieta.
+Plano 5 (4.4–5.4s): Ela desliga e olha nervosamente para a escada escura enquanto a casa range acima.
+Plano 6 (5.4–6.6s): Plano estático amplo da escada; ela se levanta lentamente do sofá e sobe.
+Plano 7 (6.6–7.8s): Ela sobe as escadas cautelosamente, segurando firmemente o celular, com os assoalhos rangendo.
+Plano 8 (7.8–9.0s): Longo corredor no andar de cima; ela caminha lentamente, verificando cada porta.
+Plano 9 (9.0–10.0s): Close-up dela abrindo a porta do quarto das crianças; duas crianças dormem pacificamente sob uma luz noturna suave.
+Plano 10 (10.0–11.2s): Ela exala aliviada, fecha a porta delicadamente e se vira novamente em direção às escadas.
+Plano 11 (11.2–12.4s): Seu celular toca novamente. Ela congela no meio do corredor.
+Plano 12 (12.4–13.6s): Close-up do mesmo número desconhecido. Ela atende hesitante.
+Plano 13 (13.6–14.8s): A voz distorcida repete: “Você conferiu as crianças?” Ela olha para trás, em direção ao quarto delas.
+Plano 14 (14.8–16.0s): Ela exige saber quem está ligando, sua voz tremendo enquanto o corredor parece mais escuro e maior.
+Plano 15 (16.0–17.2s): A voz diz: “Estou ligando de dentro da casa.” A linha cai imediatamente.
+Plano 16 (17.2–18.2s): Close-up do rosto aterrorizado dela enquanto a compreensão a atinge e seu celular escapa de suas mãos trêmulas.
+Plano 17 (18.2–19.2s): Plano amplo do corredor; um assoalho range subitamente de um quarto não verificado atrás dela.
+Plano 18 (19.2–20.2s): Ela se vira lentamente. Uma porta de armário no final do corredor está ligeiramente aberta.
+Plano 19 (20.2–21.2s): Ela recua em direção ao quarto das crianças, tirando o celular para pedir ajuda.
+Plano 20 (21.2–22.2s): Close-up do celular: sem sinal. O pânico aumenta.
+Plano 21 (22.2–23.0s): A porta do armário range lentamente abrindo-se mais no plano estático do corredor. Nada visível dentro.
+Plano 22 (23.0–23.8s): Ela agarra a maçaneta da porta das crianças e olha para baixo pelo corredor.
+Plano 23 (23.8–24.6s): Uma figura sombria violenta surge subitamente do armário, quebrando a imobilidade.
+Plano 24 (24.6–25.4s): Ela grita, abre a porta das crianças e a bate fechando-a enquanto passos correm em sua direção.
+Plano 25 (25.4–26.4s): Close-up: suas costas contra a porta, respirando pesadamente enquanto a maçaneta treme violentamente.
+Plano 26 (26.4–27.6s): Plano amplo das crianças acordando aterrorizadas; ela as protege enquanto a porta estremece violentamente.
+Plano 27 (27.6–30.0s): O plano final permanece na porta cedendo e seu rosto aterrorizado voltado para a câmera, terror cinematográfico de invasão doméstica, sem resolução
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103719897310306304/img/vEWjW2ltsMJDjcuV.jpg" width="600" alt="Roteiro de Curta-Metragem de Terror sobre Invasão Doméstica">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=11328)**
+
+**Autor:** [WasifAI](https://x.com/doctorwasif) | **Fonte:** [Link](https://x.com/doctorwasif/status/2103719950838104512) | **Publicado:** Sep 26, 2026
+
+---
+### Interação com Cavalo na Montanha Alpina ao Amanhecer
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt para gerar um vídeo cinematográfico e tranquilo de uma mulher interagindo com um cavalo no campo alpino nevado, sob a luz dourada da manhã.
+
+#### 📝 Prompt
+
+```
+Criei um vídeo cinematográfico fotorrealista de 15 segundos de um tranquilo campo alpino durante a luz dourada da manhã, com majestosas montanhas cobertas de neve ao fundo e uma acolhedora casa de fazenda em madeira cercada por cercas rústicas e campos abertos. Uma bela jovem de cabelos longos e escuros, vestindo um suéter de tricô creme quente e roupas naturais de inverno, caminha lentamente em direção a um cavalo marrom calmo que está parado perto do estábulo de madeira. Ela se aproxima suavemente do cavalo, sorri delicadamente e acaricia sua cabeça com carinho, enquanto o animal permanece sereno e relaxado. A câmera captura close-ups íntimos da mão dela tocando o cavalo e do rosto expressivo do animal, seguidos por planos médios fluidos que mostram a conexão entre eles. A luz solar quente atravessa os picos das montanhas, criando destaques cinematográficos suaves e flare natural de lente. Uma leve névoa matinal flutua ao redor das cabanas distantes e das montanhas, enquanto uma sutil fumaça sobe da chaminé da casa de fazenda. A câmera acompanha lentamente a mulher ao lado enquanto ela retorna em direção à acolhedora casa de madeira, mantendo sua aparência e roupa consistentes ao longo de toda a cena. Movimento realista do cavalo, movimento corporal natural, textura detalhada de pele e cabelo, atmosfera autêntica do campo, profundidade de campo suave, color grading cinematográfico, lente de 35mm, movimento suave de câmera na mão, qualidade ultra-realista 8K, narrativa emocional tranquila, sem texto, sem logos, sem marca d'água.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103714589896790016/img/jzBNQTXy9oGLCRGj.jpg" width="600" alt="Interação com Cavalo na Montanha Alpina ao Amanhecer">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=11335)**
+
+**Autor:** [liana](https://x.com/Lianaalane) | **Fonte:** [Link](https://x.com/Lianaalane/status/2103714668993003640) | **Publicado:** Sep 26, 2026
+
+---
+### Roteiro de Sequência de Ação no Metrô
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt detalhado para um vídeo de ação cinematográfico ultra-realista de 30 segundos, apresentando uma personagem chamada Elsa em um confronto no corredor do metrô.
+
+#### 📝 Prompt
+
+```
+Crie um vídeo de ação cinematográfico ultra-realista de 1080p com duração de 30 segundos, protagonizado por Elsa.
+
+Use o Conjunto Mestre de Personagem Elsa fornecido apenas como referência estrita de identidade para Elsa. Use o Storyboard Mestre de 20 painéis fornecido como guia visual e cronológico exato para todo o vídeo.
+
+Não copie nenhuma identidade do storyboard. O storyboard controla a ação, a progressão das cenas, as localizações, o enquadramento e a coreografia, enquanto o Conjunto Mestre de Personagem controla o rosto e a identidade física de Elsa.
+
+CONSISTÊNCIA DE PERSONAGEM:
+Preserve a identidade facial exata de Elsa, proporções faciais, estilo de cabelo, tom de pele, proporções corporais e aparência reconhecível durante todo o vídeo.
+
+Mantenha sua roupa consistente: top preto curto, calças pretas ajustadas, jaqueta de couro preta, botas pretas e uma bolsa de ombro preta.
+
+A mesma Elsa deve aparecer em todas as cenas.
+
+ESTILO:
+Sequência de ação cinematográfica live-action ultra-realista ambientada dentro de um moderno corredor subterrâneo de metrô.
+
+O ambiente deve parecer real e vivido: paredes azulejadas, luzes fluorescentes no teto, pisos de concreto, passageiros ao fundo, sinalização, entradas de metrô e detalhes urbanos realistas.
+
+Use trabalho de câmera cinematográfico handheld combinado com cinematografia de ação controlada.
+
+Desfoque de movimento natural, iluminação realista, sombras realistas, movimento fisicamente preciso e reações humanas críveis.
+
+Sem poderes fantásticos, sem efeitos sobrenaturais, sem wire-fu exagerado e sem movimentos impossíveis.
+
+AÇÃO:
+Mantenha o confronto claramente fictício e coreografado para narrativa cinematográfica. Evite lesões gráficas, sangue ou gore.
+
+CENA 1 — 00:00–00:01
+Elsa caminha sozinha pelo corredor do metrô carregando sua bolsa de ombro.
+
+Use um plano médio-largo de acompanhamento frontal enquanto os passageiros se movem naturalmente ao fundo.
+
+CENA 2 — 00:01–00:02
+Corte para um ângulo lateral mais próximo enquanto Elsa percebe movimento atrás dela.
+
+Ela vira ligeiramente a cabeça e olha por cima do ombro.
+
+Sua expressão fica alerta, mas controlada.
+
+CENA 3 — 00:02–00:03
+Revele várias figuras suspeitas se aproximando por trás.
+
+Use uma perspectiva de lente longa que comprime o corredor e cria tensão.
+
+CENA 4 — 00:03–00:04
+Close-up no rosto de Elsa.
+
+Ela percebe a situação e permanece calma e focada.
+
+Use profundidade de campo rasa com o corredor do metrô suavemente desfocado atrás dela.
+
+CENA 5 — 00:04–00:05
+Elsa entra em uma passagem lateral mais estreita.
+
+A câmera segue rapidamente atrás dela enquanto a atmosfera se torna mais confinada.
+
+CENA 6 — 00:05–00:06
+As figuras bloqueiam o caminho de Elsa.
+
+Use um plano médio frontal mostrando Elsa cercada pelo grupo, mantendo a geografia espacial clara.
+
+CENA 7 — 00:06–00:08
+Um atacante alcança o braço de Elsa.
+
+Elsa reage imediatamente, puxando seu braço para longe e criando distância.
+
+Use um ângulo lateral dinâmico com mecânica corporal realista.
+
+CENA 8 — 00:08–00:09
+Elsa executa um movimento defensivo rápido para escapar da agarrada.
+
+Mantenha a coreografia controlada e realista.
+
+A câmera se move com a ação em vez de usar efeitos exagerados.
+
+CENA 9 — 00:09–00:11
+Um segundo atacante se move em direção a ela.
+
+Elsa gira para fora do caminho e usa um contra-ataque defensivo controlado, fazendo o atacante perder o equilíbrio e cair com segurança.
+
+Use um plano mais amplo para que o movimento completo seja legível.
+
+CENA 10 — 00:11–00:12
+Elsa cria espaço entre ela e os atacantes.
+
+Sua bolsa de ombro balança naturalmente com o movimento.
+
+Use um ajuste rápido de câmera handheld.
+
+CENA 11 — 00:12–00:14
+Um atacante se move em direção a Elsa novamente.
+
+Elsa usa a bolsa de ombro defensivamente para criar distância e escapar da ameaça imediata.
+
+Não retrate impacto gráfico.
+
+CENA 12 — 00:14–00:15
+Elsa executa um chute rápido e controlado que impede o avanço do atacante.
+
+Use um ângulo baixo de três quartos enfatizando o movimento, mantendo proporções realistas.
+
+CENA 13 — 00:15–00:17
+Outro atacante se aproxima.
+
+Elsa muda rapidamente de direção, evade o movimento entrante e executa um golpe defensivo controlado.
+
+Use uma câmera de rastreamento dinâmica.
+
+CENA 14 — 00:17–00:18
+Batida de ação próxima enquanto Elsa completa a sequência defensiva e cria separação.
+
+Mantenha o movimento realista e claramente coreografado.
+
+CENA 15 — 00:18–00:20
+Plano largo do corredor.
+
+Os atacantes estão agora no chão ou recuando, enquanto Elsa permanece de pé e composta.
+
+Sem sangue, feridas ou lesões gráficas.
+
+CENA 16 — 00:20–00:22
+A tensão desaparece.
+
+Elsa ajusta calmamente seu cabelo e sua jaqueta.
+
+Use um close-up que contraste sua expressão calma com a ação que acabou de ocorrer.
+
+CENA 17 — 00:22–00:24
+Elsa pega e ajusta sua bolsa de ombro.
+
+Use um plano médio próximo com movimento handheld natural.
+
+CENA 18 — 00:24–00:27
+Elsa caminha confiante pelo corredor do metrô.
+
+A câmera rastreia para trás na frente dela.
+
+Passageiros se movem naturalmente através do fundo.
+
+CENA 19 — 00:27–00:29
+Elsa se aproxima das escadas de saída do metrô.
+
+Use um plano de rastreamento traseiro enquanto ela caminha em direção à saída mais brilhante.
+
+A iluminação gradualmente se torna mais quente e brilhante.
+
+CENA 20 — 00:29–00:30
+Antes de sair, Elsa vira brevemente a cabeça e olha para trás em direção à câmera com uma expressão calma e confiante.
+
+Segure por uma breve batida cinematográfica.
+
+Corte para preto.
+
+LINGUAGEM DE CÂMERA:
+Use uma mistura de planos abertos de estabelecimento, planos de rastreamento handheld, planos faciais próximos, ângulos laterais, ângulos baixos de três quartos e enquadramentos de ação dinâmicos.
+
+Cada movimento de câmera deve ser motivado pela ação.
+
+Use rampas de velocidade curtas apenas onde elas naturalmente enfatizam um movimento importante. Não abuse do slow motion.
+
+Mantenha continuidade espacial clara para que o espectador sempre entenda onde Elsa e os outros personagens estão posicionados.
+
+FÍSICA & CONTINUIDADE:
+Anatomia humana e movimento realistas.
+Transferência de peso realista.
+Movimento natural de cabelo e roupas.
+Física natural da bolsa de ombro.
+Passos realistas e impulso corporal.
+Sem teletransporte.
+Sem personagens duplicados.
+Sem adereços desaparecendo.
+Sem deformação corporal impossível.
+
+ÁUDIO:
+Ambiência autêntica de metrô durante todo o vídeo.
+
+Passos, sons distantes de trens, anúncios de estação, ventilação, passageiros conversando, movimento de roupas, movimento da bolsa e impactos sutis de ação.
+
+A música deve ser mínima e cinematográfica, construindo tensão durante o confronto e tornando-se mais silenciosa enquanto Elsa caminha em direção à saída.
+
+Sem diálogo.
+Sem legendas.
+Sem sobreposições de texto.
+Sem logotipos.
+Sem marca d'água.
+
+APARÊNCIA FINAL:
+Cinema de ação live-action premium ultra-realista com coreografia crível, forte continuidade visual e uma atmosfera urbana fundamentada.
+
+A sequência deve parecer tensa, estilosa e cinematográfica, permanecendo fisicamente realista e não gráfica.
+```
+
+<img src="https://cms-assets.youmind.com/media/1790402179796_kmi2hs_HTG6V-aaIAAj3fa.jpg" width="600" alt="Roteiro de Sequência de Ação no Metrô">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=11333)**
+
+**Autor:** [Elsa Ai](https://x.com/ElsaSofia__AI) | **Fonte:** [Link](https://x.com/ElsaSofia__AI/status/2103667614606368931) | **Publicado:** Sep 26, 2026
+
+---
+### Prompt de Vídeo FPV de Bungee Jump em Chongqing
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Um prompt detalhado para geração de vídeo com Seedance 2.0, criando um plano-sequência realista estilo handheld de uma mulher adulta realizando um bungee jump ou mergulho de altura em Chongqing. O prompt especifica movimento de câmera, iluminação, consistência de personagem e restrições de realismo físico.
+
+#### 📝 Prompt
+
+```
+15 segundos, textura realista de gravação por smartphone, plano-sequência contínuo estilo handheld, apenas breve câmera lenta durante a pirueta no ar. Personagem feminina adulta, vestindo roupa de yoga da captura de tela #2 screenshot_16-8-2026_0750_x.com, travando estritamente a cor, estilo, corte e tecido da referência; tênis brancos, cabelo preso firme, traços faciais, forma corporal e roupas consistentes ao longo de toda a cena. A cena é uma plataforma fictícia de alta altitude em balanço (cantilever) com o Raffles City Chongqing e a paisagem urbana dos dois rios ao fundo, não correspondendo a instalações reais de telhados. Duas plataformas adjacentes se estendem para fora do edifício, separadas por uma lacuna estreita de largura fixa, conectadas pelo lado do edifício por uma passarela contínua. A mulher salta lateralmente de uma plataforma para a outra, direção do movimento aproximadamente paralela à fachada do edifício; a plataforma oposta possui uma área clara e espaçosa de aterrissagem e rolagem. A abertura estabelece simultaneamente a plataforma de decolagem, a lacuna estreita, a área de aterrissagem e a passarela interna, a estrutura permanece inalterada thereafter. Luz solar natural da tarde, leve névoa em Chongqing, reflexo suave na superfície distante do rio, sombras no solo consistentes com a fonte de luz. 0-3s: A mulher já está trotando para frente na plataforma de decolagem, câmera posicionada atrás e ao lado perto do edifício, seguindo ligeiramente abaixo da altura do peito. O quadro retém seu corpo inteiro, a lacuna frontal e a área de aterrissagem oposta, a cidade distante abaixo da borda externa fornece sensação de altura. Outro homem adulto vestido de preto fica para trás no lado interno da plataforma de decolagem, segurando um celular filmando, não entra no caminho dela. Passos e vento audíveis, rajadas ocasionais de vento roçam o microfone do celular. 3-5s: Ela acelera brevemente, olhar fixo na plataforma oposta, ação transiciona naturalmente de correr para pular sem pausa/pose. O fotógrafo principal avança ao longo da passarela de conexão interna, formando uma vista lateral, a lente sempre vê plataformas sólidas nos dois lados da lacuna. Após deixar o chão, ela se move em direção à plataforma oposta, iniciando uma única pirueta frontal contínua; toda a ação é direcionada para a área de aterrissagem, não derivando para fora do edifício. 5-8s: Fase aérea breve após a decolagem apresentada em câmera lenta. Corpo inteiro entra completamente no quadro, centro de gravidade segue um arco contínuo subindo e depois descendo, mudança de velocidade da pirueta coerente, pontas dos cabelos e tecido têm inércia natural. Ela completa apenas uma pirueta frontal, então o corpo se estende, pés se aproximando da plataforma oposta. A lente ainda filma da passarela interna, não vai ao redor do exterior do edifício, não passa sob a pessoa; a câmera lenta não aumenta o tempo real no ar, sem flutuação no ar. 8-11s: Retorno à velocidade normal antes que as solas dos sapatos entrem em contato com a plataforma. Ela aterrissa dentro da plataforma oposta, corpo afunda claramente ao contato, então usa o momento forward restante para completar uma rolagem compacta, continuando a mover-se para dentro. Sequência de contato das solas dos sapatos, mãos e corpo com o chão é clara, sem clipping ou deslizamento sem atrito. O fotógrafo principal continua avançando ao longo da passarela interna, alcança a frente-lado quando ela desacelera da rolagem, para e gira a lente, retendo totalmente o processo de aterrissagem e rolagem. 11-15s: Ela se levanta nas proximidades, inclina-se com as mãos nos joelhos após estabilizar, exala rapidamente, ombros e costas sobem/descem naturalmente. Expressão muda de alta concentração para leve atordoamento após liberação da tensão, então olha para cima na câmera, respiração ainda não totalmente assentada. Fotógrafo avança apenas ligeiramente, quadro aperta naturalmente de corpo inteiro para acima da cintura, não se torna subitamente close-up facial. Homem de preto ainda segura o celular no lado interno da plataforma de decolagem traseira, posição inalterada. Retenha pele real, suor leve, estiramento do tecido e motion blur natural. Câmera tem ondulação leve mas ações de contato chave são visíveis, não use tremores violentos para esconder piruetas ou aterrissagens. Proibido mudar tamanho da plataforma, exagerar distância do salto, teletransportar personagens, piruetas repetidas, acelerar no ar, hiperextensão articular, mudanças de roupa e aterrissagens flutuantes. Sem música, legendas, marcas d'água ou elementos de UI.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103644585570242560/img/KckJhg9BmHEcLgqh.jpg" width="600" alt="Prompt de Vídeo FPV de Bungee Jump em Chongqing">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=11337)**
+
+**Autor:** [John](https://x.com/john87445528) | **Fonte:** [Link](https://x.com/john87445528/status/2103644638275891546) | **Publicado:** Sep 26, 2026
+
+---
+### Colapso da Estação de Mecânica Espacial
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo de ficção científica de alta adrenalina, mostrando um mecânico espacial escapando de uma doca orbital em colapso enquanto uma nave espacial cai.
+
+#### 📝 Prompt
+
+```
+Um mecânico espacial vestindo um traje espacial completo selado, com capacete de proteção claramente visível e viseira fechada, corre por uma doca de carga orbital em colapso enquanto uma gigantesca nave espacial se choca lateralmente contra a estação atrás dele. 
+
+O capacete e o traje permanecem intactos durante todo o vídeo. A câmera ao nível do solo acompanha suas botas enquanto explosões destroem o convés. Ele passa pela câmera, que gira rapidamente no momento em que um enorme contêiner de carga esmaga o chão à sua frente. Ele se abaixa enquanto o contêiner desliza sobre ele, espalhando faíscas. 
+
+De repente, o piso se rompe. A câmera cai junto com ele enquanto ele atravessa a estação, colide com uma plataforma de manutenção inferior e agarra um cabo pendurado. 
+
+Cena final: a câmera balança abaixo dele, revelando metade da estação orbital se despedaçando acima, enquanto centenas de fragmentos em chamas caem em direção ao planeta. Ficção científica ultra-realista, velocidade brutal, destruição massiva, física clara, escala enorme, qualidade IMAX. Capacete sempre visível, viseira sempre fechada, nunca remover o capacete, sem cabeça ou rosto expostos. Sem rostos famosos ou reconhecíveis.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103608936020475904/img/wZXmsso-yu6IKvmH.jpg" width="600" alt="Colapso da Estação de Mecânica Espacial">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=11336)**
+
+**Autor:** [DeCat](https://x.com/DeCat2025) | **Fonte:** [Link](https://x.com/DeCat2025/status/2103615529986699498) | **Publicado:** Sep 25, 2026
+
+---
+### Roteiro de Anomalia em Gravação de CCTV
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt detalhado para gerar uma gravação realista e estática de câmera de segurança de um corredor de apartamento, envolvendo uma anomalia sobrenatural com uma sombra desprendida.
+
+#### 📝 Prompt
+
+```
+Crie uma gravação realista de 30 segundos de uma câmera de segurança fixa dentro do corredor de um prédio residencial comum à noite.
+
+IMPORTANTE: Esta é UMA TOMADA ESTÁTICA ÚNICA E CONTÍNUA. A câmera nunca se move, nunca faz zoom e nunca muda o ângulo.
+
+O corredor possui um elevador claramente visível no CENTRO do quadro. O elevador tem duas portas deslizantes claramente visíveis. O homem deve caminhar diretamente em direção às portas do elevador, parar na frente delas, entrar no elevador pelas portas abertas e, então, as portas do elevador devem fechar.
+
+NÃO deixe o homem andar contra a parede. NÃO altere o layout do corredor. NÃO mova o elevador. NÃO introduza nenhuma outra pessoa.
+
+ESTILO VISUAL:
+Gravação autêntica de baixa qualidade de CCTV de apartamento.
+Câmera de segurança fixa montada no teto.
+Quadro amplo 16:9.
+Leve distorção fisheye (olho de peixe).
+Ruído digital de baixa luminosidade.
+Artefatos leves de compressão.
+Iluminação plana e fluorescente do corredor.
+Pequeno timestamp no canto.
+Sem movimento cinematográfico da câmera.
+Sem color grading dramático.
+Sem efeitos de filme de terror.
+
+LINHA DO TEMPO:
+
+0–7 segundos:
+O corredor é completamente normal e vazio.
+
+Um homem entra no quadro pela extremidade distante e caminha casualmente em direção ao elevador no CENTRO do corredor.
+
+Sua sombra humana normal é claramente visível no chão abaixo e atrás dele.
+
+7–12 segundos:
+O homem alcança o elevador.
+
+As portas do elevador ABREM claramente.
+
+O homem atravessa a porta aberta do elevador e fica DENTRO do elevador.
+
+Ele é completamente visível dentro do elevador.
+
+As portas do elevador então FECHAM completamente.
+
+12–16 segundos:
+O corredor está vazio.
+
+O elevador fechado permanece completamente normal.
+
+A sombra do homem não é mais visível porque ele está dentro do elevador fechado.
+
+Nada acontece por alguns segundos.
+
+16–20 segundos:
+Uma anomalia sutil começa.
+
+Uma sombra escura em forma humana aparece lentamente debaixo das portas FECHADAS do elevador.
+
+Não há PESSOA lá fora criando esta sombra.
+
+A sombra está claramente desprendida de qualquer pessoa física.
+
+Ela se estende lentamente mais longe pelo chão do corredor.
+
+20–25 segundos:
+A sombra desprendida continua se afastando do elevador pelo chão.
+
+Ela se move como a sombra de uma pessoa caminhando, embora não haja NENHUMA PESSOA em lugar nenhum do corredor.
+
+As portas do elevador permanecem FECHADAS durante todo esse tempo.
+
+O ambiente físico permanece completamente inalterado.
+
+25–30 segundos:
+A sombra desprendida alcança o meio do corredor.
+
+Ela para subitamente.
+
+Mantenha o foco no corredor vazio com a sombra impossível visível no chão.
+
+Então, corte abruptamente PARA PRETO.
+
+PRIORIDADES ABSOLUTAS:
+
+1. O homem DEVE entrar no elevador, não na parede.
+2. O elevador deve estar claramente visível e centralizado.
+3. As portas do elevador devem abrir visivelmente antes que ele entre.
+4. O homem deve estar completamente DENTRO do elevador antes que as portas fechem.
+5. As portas do elevador devem permanecer FECHADAS enquanto a sombra desprendida emerge.
+6. A sombra desprendida
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103492335661359105/img/BfCHLQcbLaAaTy-h.jpg" width="600" alt="Roteiro de Anomalia em Gravação de CCTV">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=11334)**
+
+**Autor:** [Meem](https://x.com/mehvishs25) | **Fonte:** [Link](https://x.com/mehvishs25/status/2103492588095304088) | **Publicado:** Sep 25, 2026
+
+---
+### Prompt de Estilo Camcorder para Vlog de Academia
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt projetado para gerar um vídeo divertido de vlog de academia com estética retrô de camcorder DV, incluindo detalhes específicos dos personagens, cenário e cortes do storyboard.
+
+#### 📝 Prompt
+
+```
+**CÂMERA:**
+Sensação de câmera de mão DV 16mm. POV da CHASE segurando a câmera ela mesma, ocasionalmente apoiando-a no chão ou em uma esteira para planos de core sem as mãos. Tremor de mão, enquadramento desalinhado, ajustes de foco atrasados, zooms desajeitados, enquadramentos que cortam o rosto ocasionalmente, imperfeições nas tomadas. A câmera nunca aparece na tela.
+
+**VISUAL:**
+Qualidade de fita suave, levemente desfocada, ruído sutil de fita, realces estourados sob a iluminação da academia, exposição automática piscante, contraste atenuado, tons de pele realistas.
+
+**ESTILO:**
+Tom de vlog de academia divertido e autodepreciativo — esforço genuíno misturado com humor, reclamando do treino de core enquanto ainda persiste nele. Cortes rápidos feitos à mão, mantendo a energia leve e engraçada durante todo o tempo, em vez de totalmente exausta.
+
+**Personagem**
+
+CHASE — Ídolo coreana, 20 anos. Cabelo preto longo preso em um rabo de cavalo alto, pele brilhante com um leve brilho de suor, olhos grandes e expressivos. Corpo atlético esguio. Top esportivo modesto de manga longa, calças de moletom largas ou leggings justas (braços e torso totalmente cobertos), tênis fora ou meias, sem joias.
+
+**Cenário**
+
+Uma área de esteiras na academia à noite — parede espelhada próxima, garrafa de água no chão, iluminação suave overhead, outros equipamentos visíveis ao fundo.
+
+**Storyboard (15s, 6 cortes)**
+
+1. *(~2.5s, câmera apoiada, plano médio)* Ela se deita na esteira, apoiando-se nos cotovelos, já suspirando dramaticamente. CHASE: "Ok, dia de core — meu dia menos favorito."
+
+2. *(~2.5s, câmera apoiada, posição de prancha)* Ela segura uma prancha, braços tremendo ligeiramente, falando entre dentes cerrados. CHASE (com esforço): "Por que isso fica mais difícil toda vez—"
+
+3. *(~2.5s, plano médio apoiado, abdominais)* Ela entra em uma série de abdominais, respirando pesadamente, reclamando entre as repetições. CHASE: "Ninguém avisa o quanto isso realmente queima."
+
+4. *(~2s, inserção macro, profundidade de campo rasa)* Close-up nas mãos dela agarrando as bordas da esteira durante uma elevação de pernas, abdômen visivelmente trabalhando. Sem diálogo — apenas som ambiente da academia.
+
+5. *(~2.5s, câmera de mão, elevações de pernas)* Ela termina uma série lenta de elevações de pernas, jogando-se de volta na esteira imediatamente depois, rindo de si mesma. CHASE (sem fôlego): "Ok— é isso, terminei—"
+
+6. *(~3s, final selfie com braço estendido)* Ainda deitada na esteira, ela levanta a câmera acima do rosto, sorrindo cansada. CHASE: "Dia de core nunca fica mais fácil — vejo vocês amanhã, espero."
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103476166715899904/img/5_rzHDdpEsX2PWPt.jpg" width="600" alt="Prompt de Estilo Camcorder para Vlog de Academia">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=11330)**
+
+**Autor:** [WasifAI](https://x.com/doctorwasif) | **Fonte:** [Link](https://x.com/doctorwasif/status/2103476205760774263) | **Publicado:** Sep 25, 2026
+
+---
+### Roteiro de Comercial de Perfume de Luxo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt detalhado para gerar um comercial de perfume de luxo de 15 segundos, incluindo efeitos visuais específicos, movimentos de câmera e instruções de consistência de personagem.
+
+#### 📝 Prompt
+
+```
+Comercial de perfume de luxo de 15 segundos, proporção 16:9. Filme fashion cinematográfico fotorrealista, luxo minimalista, ambiente esmeralda rico, iluminação de alto contraste com acentos dourados suaves e elegantes, reflexos brilhantes e cinematografia macro premium do produto.
+
+Use a Imagem 2 APENAS como referência da modelo. Use a Imagem 1 APENAS como referência do frasco de perfume Wizstar. Mantenha a identidade da modelo, rosto, cabelo, proporções corporais e vestido de seda esmeralda consistentes. Mantenha o design do frasco de perfume, forma, rótulo, tampa e materiais idênticos durante todo o vídeo.
+
+0–3s — ABERTURA HEROICA:
+Comece imediatamente com a mulher claramente visível, centralizada em uma pose fashion confiante, vestindo um vestido de seda esmeralda e segurando o frasco Wizstar perto do peito. Seu rosto, vestido e frasco devem estar claramente visíveis desde o primeiro quadro. Fundo esmeralda rico com destaques dourados suaves. Brilhante, premium e elegante. Sem sombras escuras, fundo cinza, quadro vazio ou fade-in.
+
+3–6s — SPRAY:
+Mova-se suavemente para um close-up cinematográfico. Ela levanta o frasco Wizstar e aplica um spray em direção ao pescoço. A névoa fina do perfume captura a luz dourada. Ela abaixa o frasco e toca delicadamente na clavícula. Movimento elegante e controlado com reflexos realistas e névoa.
+
+6–9s — MOVIMENTO FASHION:
+Corte para um plano mais aberto. Ela gira lentamente e caminha para frente enquanto a câmera recua. Seu vestido de seda esmeralda e cabelo se movem naturalmente. A atmosfera esmeralda se expande ao seu redor com névoa sutil e faixas de luz dourada fluindo.
+
+9–12s — PRODUTO EM DESTAQUE:
+Transição para um shot macro premium do frasco Wizstar flutuando no ambiente esmeralda. O frasco inclina-se lentamente e captura destaques dourados. Mostre vidro realista, reflexos de líquido, trilhas sutis de vapor e partículas de âmbar refinadas. Mantenha a geometria do frasco perfeitamente estável.
+
+12–13.5s — MODELO FINAL:
+Volte para um shot fashion apertado. Ela vira gentilmente a cabeça em direção à câmera com uma expressão confiante e elegante. Cabelo e tecido de seda se movem suavemente no ar. Uma luz de contorno dourada destaca sua silhueta.
+
+13.5–15s — PACKSHOT FINAL:
+Corte para um packshot limpo e luxuoso. Frasco Wizstar centralizado contra um fundo preto profundo com um brilho esmeralda e luz de contorno dourada refinada. Exiba as palavras:
+“ELEGANCE, DISTILLED.”
+Uma voz feminina refinada diz claramente: “Elegance, distilled.”
+
+ESTILO:
+Publicidade de fragrância ultra-premium, visual cinematográfico 35mm, textura realista de pele e tecido, movimento de câmera controlado, profundidade de campo rasa, transições de foco precisas, l
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103296432761675776/img/cWwrABmrEVtOTaLD.jpg" width="600" alt="Roteiro de Comercial de Perfume de Luxo">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=11329)**
+
+**Autor:** [Meenakshi Yadav](https://x.com/MeenakshiYACS) | **Fonte:** [Link](https://x.com/MeenakshiYACS/status/2103462025871372380) | **Publicado:** Sep 25, 2026
+
+---
+### Prompt de anúncio cinematográfico premium para motocicleta
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt detalhado para um anúncio cinematográfico de alta produção com narrativa de mistério e revelação.
+
+#### 📝 Prompt
+
+```
+Crie um anúncio cinematográfico premium de 30 segundos centrado em uma poderosa motocicleta pesada e uma piloto adulta marcante.
+
+O filme deve inicialmente parecer um thriller de ação cinematográfico sério e de alto orçamento — NÃO um comercial de motocicleta.
+
+Nos primeiros 20 segundos, crie mistério e tensão. O público deve se perguntar para onde ela está indo, o que ela está procurando e por que ela está pilotando sozinha através de um ambiente tão perigoso.
+
+A motocicleta deve parecer pesada, poderosa, cara e mecanicamente realista.
+
+A história deve construir naturalmente a partir de:
+
+MISTÉRIO → PERSEGUIÇÃO → PERIGO → DESTINO → REVELAÇÃO → PRODUTO HEROICO
+
+NÃO copie nenhum anúncio, filme, comercial, personagem, composição, cena ou sequência visual existente. Crie uma história totalmente original.
+
+ESTILO VISUAL
+
+Filmagem cinematográfica fotorrealista.
+
+Produção de comercial automotivo premium de alto orçamento.
+
+Visual de cinema de grande formato com fotografia anamórfica de 35mm.
+
+Contraste cinematográfico profundo, textura natural da pele, materiais realistas de motocicleta, metal, couro, vidro e borracha.
+
+Vibração realista do motor, movimento da suspensão e movimento mecânico.
+
+Grão de filme sutil, desfoque de movimento natural e iluminação ambiental realista.
+
+Sem aparência de desenho animado.
+Sem estética genérica de IA.
+A motocicleta deve permanecer fisicamente crível e visualmente consistente ao longo de todo o filme.
+
+Use paisagens amplas dramáticas contrastadas com close-ups íntimos.
+
+A paleta de cores começa fria e dessaturada e gradualmente transita para tons dourados ricos e quentes rumo à revelação final.
+
+PERSONAGEM PRINCIPAL
+
+Uma mulher adulta deslumbrante no final dos seus 20 anos.
+
+Cabelos escuros e fluidos naturalmente presos sob um capacete de motocicleta preto premium.
+
+Expressão confiante e focada.
+
+Maquiagem natural.
+
+Ela veste uma jaqueta de couro preta ajustada de motociclista, calças escuras de pilotagem, luvas pretas e botas de proteção realistas.
+
+Sua aparência, roupas, capacete e motocicleta permanecem perfeitamente consistentes ao longo de todo o filme.
+
+Ela deve parecer uma piloto profissional real, não uma modelo de moda posando em uma motocicleta.
+
+MOTOCICLETA
+
+Uma motocicleta pesada premium maciça.
+
+Proporções musculares.
+
+Motor grande.
+
+Pneu traseiro largo.
+
+Quadro metálico pesado.
+
+Acabamentos premium em preto e metal escovado.
+
+Movimento realista da suspensão.
+
+Vibração visível do motor.
+
+Farol poderoso.
+
+Reflexos sutis no tanque de combustível.
+
+A motocicleta deve parecer extremamente poderosa, mas elegante.
+
+Mantenha o design exato da motocicleta consistente em cada plano.
+
+CENA 1 — A ESTRADA DESCONHECIDA
+
+0–5 SEGUNDOS
+
+PLANO CINEMATOGRÁFICO EXTREMO ABERTO.
+
+Uma estrada de montanha vazia gigantesca desaparece na névoa densa.
+
+Atmosfera fria de início de manhã.
+
+O vento move-se pela paisagem.
+
+Nada mais é visível.
+
+Um rugido distante de motor cresce lentamente.
+
+Uma motocicleta pesada emerge subitamente da névoa.
+
+A piloto feminina permanece completamente estável enquanto a máquina enorme avança pela estrada vazia.
+
+A câmera aproxima-se gradualmente.
+
+CORTE PARA um extreme close-up de seus olhos dentro do capacete.
+
+Focados. Sem emoção.
+
+Ela olha para algo muito à frente.
+
+Sua mão aperta sutilmente o acelerador.
+
+O som do motor aumenta.
+
+Transição natural para o próximo plano mantendo movimento e som contínuos.
+
+CENA 2 — A PERSEGUIÇÃO
+
+5–10 SEGUNDOS
+
+Sequência cinematográfica rápida.
+
+A motocicleta acelera através de uma estrada sinuosa de montanha.
+
+Câmera baixa quase tocando o asfalto.
+
+O pneu traseiro lança pequenas partículas de água da estrada molhada.
+
+Close-up de sua mão enluvada torcendo o acelerador.
+
+O motor responde com um rugido mecânico profundo.
+
+Close-up de sua bota mudando naturalmente a marcha.
+
+Close-up do velocímetro subindo.
+
+Plano aéreo amplo estilo drone:
+
+A pequena motocicleta corta uma paisagem de montanha imensa.
+
+Ela subitamente verifica seu espelho retrovisor.
+
+Algo parece estar seguindo-a à distância, mas nunca é claramente revelado.
+
+A música intensifica.
+
+Ela acelera mais forte.
+
+Mantenha fluxo visual contínuo entre os planos sem quadros pretos ou transições desnecessárias.
+
+CENA 3 — O PERIGO
+
+10–16 SEGUNDOS
+
+O clima torna-se violento subitamente.
+
+Começa chuva forte.
+
+Relâmpagos iluminam brevemente as montanhas.
+
+A estrada estreita dramaticamente ao lado de um penhasco maciço.
+
+A piloto desacelera.
+
+Uma árvore caída grande bloqueia parcialmente a estrada.
+
+Ela para.
+
+Por um momento, tudo fica silencioso exceto pelo motor da motocicleta funcionando na chuva.
+
+Ela olha para o obstáculo.
+
+Então nota um caminho estreito de terra desaparecendo na floresta escura.
+
+Um sorriso sutil e confiante.
+
+Ela vira o guidão.
+
+A motocicleta pesada deixa a estrada pavimentada.
+
+Os pneus maciços esmagam cascalho molhado.
+
+Lama e água respingam naturalmente ao redor das rodas.
+
+A câmera segue de perto enquanto ela entra na floresta.
+
+Ela desaparece mais fundo na escuridão.
+
+CENA 4 — O DESTINO
+
+16–21 SEGUNDOS
+
+A floresta escura abre-se subitamente.
+
+A motocicleta emerge em um mirante de montanha espetacular.
+
+A tempestade passou.
+
+A luz solar dourada rompe através das nuvens.
+
+Toda a atmosfera visual transforma-se de fria e dessaturada para tons cinematográficos ricos e quentes.
+
+A piloto para lentamente.
+
+Ela remove o capacete.
+
+Seus cabelos escuros caem naturalmente sobre os ombros.
+
+Ela olha para o horizonte imenso.
+
+Pela primeira vez, o mistério torna-se claro:
+
+Ela não estava fugindo de nada.
+
+Ela estava procurando este lugar.
+
+Ela caminha em direção à borda do mirante.
+
+Então vira lentamente de volta para a motocicleta.
+
+CENA 5 — A REVELAÇÃO DA MOTOCICLETA
+
+21–26 SEGUNDOS
+
+A música cai para um momento restrito, quase silencioso.
+
+A câmera inicia uma órbita cinematográfica lenta e elegante ao redor da motocicleta.
+
+A luz solar dourada desliza sobre a carroceria metálica.
+
+Mostre detalhes macro belos através de transições fluidas:
+
+Componentes do motor.
+
+Quadro de metal escovado.
+
+Reflexos no tanque de combustível.
+
+Farol.
+
+Assento de couro.
+
+Conjunto de freios.
+
+Pneu traseiro largo.
+
+Suspensão.
+
+Pequenas vibrações mecânicas são visíveis enquanto o motor funciona em marcha lenta.
+
+A piloto senta-se novamente na motocicleta.
+
+Ela liga o motor.
+
+Um som mecânico profundo e poderoso preenche a paisagem de montanha.
+
+Ela dá uma torcida controlada no acelerador.
+
+NARRAÇÃO (VOICEOVER):
+
+“Algumas estradas não foram feitas para serem fáceis.”
+
+Breve pausa.
+
+“Elas foram feitas para serem lembradas.”
+
+Nenhum texto aparece na tela durante a história.
+
+CENA 6 — PLANO HEROICO FINAL
+
+26–30 SEGUNDOS
+
+Plano heroico cinematográfico ultra-premium.
+
+A mulher senta-se confiantemente na motocicleta pesada na borda do mirante de montanha.
+
+Pôr do sol dourado atrás dela.
+
+O vento move seus cabelos e jaqueta de couro naturalmente.
+
+A motocicleta domina o primeiro plano.
+
+A câmera empurra lentamente em direção ao farol frontal.
+
+O farol acende.
+
+Segure para uma composição final poderosa.
+
+Somente agora introduza tipografia mínima e elegante:
+
+FEITA PARA A ESTRADA.
+
+Após uma breve batida, revele o nome da marca da motocicleta abaixo.
+
+Som final:
+
+UM ACELERADOR PROFUNDO DO MOTOR.
+
+CORTE PARA PRETO APENAS NO MUITO FINAL.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103455049800110080/img/nradV-JDctghwpd8.jpg" width="600" alt="Prompt de anúncio cinematográfico premium para motocicleta">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=11327)**
+
+**Autor:** [H A J R A](https://x.com/codewithhajra) | **Fonte:** [Link](https://x.com/codewithhajra/status/2103455108738539821) | **Publicado:** Sep 25, 2026
+
+---
+### Prompt de cena de terror zumbi cinematográfico coreano
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt detalhado para gerar um vídeo de terror zumbi cinematográfico coreano fotorrealista, apresentando um confronto emocional entre sobreviventes em uma fazenda abandonada.
+
+#### 📝 Prompt
+
+```
+Crie uma curta cena de terror zumbi cinematográfico coreano fotorrealista em proporção 16:9, ambientada na cozinha de uma fazenda abandonada. Uma sobrevivente feminina coreana chorando, com cabelos escuros desgrenhados, sangue seco na testa e vestindo um anorak verde-oliva sujo com capuz, aponta uma pistola preta para seu amante infectado. Ela está tremendo, com lágrimas escorrendo pelo rosto, mas não consegue puxar o gatilho.
+
+O homem infectado tem cabelos escuros emaranhados, pele pálida e suja, olhos leitosos, veias escuras, roupas rasgadas e uma expressão cada vez mais selvagem. Ele rosna alto e grita diretamente para ela. Ela lentamente abaixa a pistola, deixa-a cair ao lado dela e abre os braços em sua direção. Ele subitamente grita novamente, avança violentamente e agarra o rosto dela com força.
+
+Corte abrupto (smash-cut) para memórias quentes da hora dourada do mesmo casal felizmente juntos em um vasto campo de trigo — rindo, abraçando-se, caminhando de mãos dadas pela grama dourada e sentados juntos sob o pôr do sol. Faça o contraste entre o presente frio e as belas memórias ser emocionalmente poderoso.
+
+Cinema live-action fotorrealista, pele e lágrimas naturais, olhos e expressões faciais realistas dos infectados, câmera na mão, horror com efeitos práticos, granulação de filme 35mm, movimento e iluminação críveis. Sem tiro, sem gore, sem diálogo, sem câmera lenta, sem enredo extra, sem aparência CGI, sem animação, sem anatomia distorcida, sem personagens duplicados, sem legendas, sem texto, sem marca d'água.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103422758864719872/img/uyeU0c2yFYwSrEq_.jpg" width="600" alt="Prompt de cena de terror zumbi cinematográfico coreano">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=11320)**
+
+**Autor:** [ORHAN](https://x.com/OrhanGhazi65942) | **Fonte:** [Link](https://x.com/OrhanGhazi65942/status/2103422813743046993) | **Publicado:** Sep 25, 2026
+
+---
+### Timelapse da Construção de uma Aldeia ao Redor de uma Árvore Gigante
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt para um timelapse vertical fotorealista de 30 segundos mostrando a construção em miniatura de uma aldeia ao redor de uma árvore antiga.
+
+#### 📝 Prompt
+
+```
+Crie um timelapse de construção em miniatura ultra-fotorrealista, vertical (9:16), com duração de 30 segundos: uma aldeia espetacular construída fisicamente ao redor de UMA árvore antiga e enorme. Centenas de pequenos trabalhadores adultos realistas são visíveis continuamente, trabalhando simultaneamente com ferramentas, escadas, cordas, carroças e guindastes em miniatura. Construção rápida, mas legível, fotografia cinematográfica macro, luz solar natural, madeira, pedra, solo, musgo e vegetação realistas, 4K HDR, realismo de ação ao vivo.
+
+0–2s: Os trabalhadores limpam o terreno, marcam as fundações e cavam ao redor das raízes da árvore gigante.
+
+2–4s: Pedras de fundação e vigas de piso de madeira são colocadas; os trabalhadores erguem os primeiros postes de madeira.
+
+4–6s: Painéis de parede, tábuas de piso e vigas de suporte são montados peça por peça.
+
+6–8s: Os trabalhadores levantam as treliças, constroem telhados inclinados e colocam telhas de madeira uma a uma.
+
+8–10s: Equipes sobem no tronco e constroem plataformas elevadas ao redor dos galhos maciços.
+
+10–12s: As casas na árvore surgem enquanto os trabalhadores instalam paredes, janelas, portas, varandas e telhados.
+
+12–14s: Os trabalhadores constroem pontes de madeira e escadas em espiral conectando as casas na árvore.
+
+14–16s: Mais chalés são construídos fisicamente para fora da árvore gigante, desde a fundação até o telhado.
+
+16–18s: Centenas de trabalhadores assentam caminhos de pedra, cercas e uma pequena ponte de madeira sobre um riacho.
+
+18–20s: Um mercado é montado sob a árvore com barracas, balcões e cabanas de armazenamento.
+
+20–22s: Plataformas superiores, varandas e casas na árvore conectadas se expandem através dos galhos.
+
+22–24s: Os trabalhadores instalam corrimãos, escadas, pontes de corda, postes de lanternas e caixas de flores.
+
+24–26s: Equipes colocam pedras, plantam flores e árvores, criam jardins e finalizam caminhos sinuosos.
+
+26–28s: Detalhes finais da construção são fixados enquanto centenas de trabalhadores continuam movendo materiais e trabalhando em toda a aldeia.
+
+28–30s: Revelação na hora dourada. Pequenos aldeões cruzam pontes e caminhos enquanto a câmera recua suavemente e sobe, revelando a enorme árvore antiga cercada pela aldeia multi-níveis concluída.
+
+REGRA CHAVE: A cada 2 segundos é introduzida uma NOVA etapa de construção visível, enquanto as equipes anteriores continuam trabalhando. Os edifícios devem progredir visivelmente: fundação → vigas → paredes → telhado → detalhes. Sem conclusão instantânea.
+
+NEGATIVO: desenho animado, brinquedo, plástico, aparência CGI, construção mágica, aparecimento instantâneo, morphing, teletransporte, objetos flutuantes, materiais desaparecendo, trabalhadores duplicados, humanos gigantes, crianças, falhas anatômicas, mudança da árvore, arquitetura inconsistente, cenas vazias, texto, logotipos, marca d'água.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103399617383825408/img/eZVzam3YTDOfq84q.jpg" width="600" alt="Timelapse da Construção de uma Aldeia ao Redor de uma Árvore Gigante">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=11332)**
+
+**Autor:** [Maverick | AI](https://x.com/RizwanAly07) | **Fonte:** [Link](https://x.com/RizwanAly07/status/2103399820824289472) | **Publicado:** Sep 25, 2026
+
+---
+### Ação de Terror: Criatura do Museu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt detalhado baseado em cronograma para um curta-metragem cinematográfico de terror e ação, apresentando uma criatura escapando de uma vitrine de museu.
+
+#### 📝 Prompt
+
+```
+Curta-metragem cinematográfico de terror e ação ambientado em um salão de exposições de museu. Abre com um gancho forte imediato, trabalho de câmera dinâmico ao máximo e estilo realista com efeitos práticos. O museu está cheio de vitrines de vidro contendo várias exposições de criaturas — figuras alienígenas, espécimes preservados, seres mitológicos — visitantes caminhando admirando as exibições sob iluminação dramática das vitrines. Classificação de cores autêntica e suave, som diegético natural durante todo o filme, trilha sonora de tensão entrando imediatamente.
+>
+> **[0-1s]** Corte seco: uma vitrine de vidro racha violentamente e depois se estilhaça para fora.
+>
+> **[1-2s]** Uma criatura espectro-sombra emerge — forma translúcida, semelhante a fumaça, membros com garras, olhos vermelhos brilhantes.
+>
+> **[2-3s]** Ela avança sobre o visitante mais próximo com velocidade antinatural, fechando a distância instantaneamente.
+>
+> **[3-4s]** Ele é derrubado com força, desabando no chão sem movimento.
+>
+> **[4-5s]** Visitantes próximos gritam, recuando apressadamente da exposição.
+>
+> **[5-6s]** A criatura vira rapidamente, abatendo um segundo visitante com a mesma rapidez.
+>
+> **[6-7s]** O pânico se espalha pelo salão, pessoas correndo em direção às saídas.
+>
+> **[7-8s]** Dois seguranças entram correndo, armas em punho, escaneando o caos.
+>
+> **[8-9s]** Eles abrem fogo na posição da criatura, mas ela se move em uma explosão antinatural de velocidade.
+>
+> **[9-10s]** Os tiros erram completamente, atingindo uma vitrine atrás de onde ela estava.
+>
+> **[10-11s]** A criatura desaparece nas sombras entre as exposições, saindo de vista.
+>
+> **[11-12s]** Plano aberto: visitantes se escondem atrás de pilares e vitrines, seguranças se dispersam cautelosamente.
+>
+> **[12-14s]** Mais seguranças chegam, formando uma linha de busca lenta e cuidadosa através do salão.
+>
+> **[14-16s]** Plano de acompanhamento: eles se movem deliberadamente entre as exposições, armas erguidas, escaneando cada sombra.
+>
+> **[16-17s]** A lanterna de um segurança capta um breve vislumbre de olhos vermelhos em um canto escuro.
+>
+> **[17-18s]** A criatura irrompe subitamente, abatendo dois seguranças em rápida sucessão.
+>
+> **[18-19s]** Os seguranças restantes recuam, reagrupando-se rapidamente perto de uma exposição central.
+>
+> **[19-20s]** Inserção em CÂMERA LENTA: a criatura vira-se para o segurança líder, avançando para frente.
+>
+> **[20-21s]** Ele mantém sua posição, rastreando seu movimento cuidadosamente apesar do perigo.
+>
+> **[21-22s]** Ele dispara um tiro preciso e bem direcionado assim que ela se aproxima.
+>
+> **[22-23s]** O tiro acerta solidamente, a forma da criatura tremulando violentamente.
+>
+> **[23-24s]** Ela cambaleia, seu corpo translúcido desestabilizando-se rapidamente.
+>
+> **[24-25s]** Ela desaba no chão, sua forma dissolvendo-se em fios de fumaça escura.
+>
+> **[25-27s]** Plano aberto: os seguranças baixam suas armas lentamente, ofegantes.
+>
+> **[27-29s]** Eles verificam os visitantes e seguranças caídos, alguns ainda vivos, outros não respondendo.
+>
+> **[29-30s]** Silêncio tenso. A câmera foca em uma vitrine intacta refletindo a cena.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2103363374046429184/img/5AwgBF7THBLxOxpO.jpg" width="600" alt="Ação de Terror: Criatura do Museu">
+
+**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=11331)**
+
+**Autor:** [auqib](https://x.com/auqibhabib) | **Fonte:** [Link](https://x.com/auqibhabib/status/2103363732965556355) | **Publicado:** Sep 25, 2026
+
+---
 ### Prompt de Vídeo Cinematográfico de Cabana de Inverno
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -4812,494 +5787,6 @@ Transição suave para o
 **Autor:** [Maverick | AI](https://x.com/RizwanAly07) | **Fonte:** [Link](https://x.com/RizwanAly07/status/2097547054189027792) | **Publicado:** Sep 9, 2026
 
 ---
-### Anúncio de Moda Retrô Rosa Sonhador
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um comercial de moda com estética vintage dos anos 90, apresentando um quarto rosa, luz solar matinal e a transformação de uma personagem.
-
-#### 📝 Prompt
-
-```
-Crie um comercial de moda cinematográfico de 25 segundos com um estilo retrô rosa sonhador, ambientado dentro de um quarto feminino aconchegante. Tudo apresenta uma paleta de cores rosa pastel suave, luz solar matinal quente, estética vintage dos anos 90, papel de parede floral, cama rosa, espelho de toucador, telefone retrô fofo, acessórios cor-de-rosa e cortinas leves.
-
-Cena 1: Plano geral de cima de um lindo quarto rosa sob luz solar quente, sombras suaves caindo sobre a cama, atmosfera nostálgica e sonhadora.
-
-Cena 2: Uma jovem em um traje de dormir fofo rosa pastel deitada confortavelmente na cama usando uma máscara de dormir rosa, segurando um telefone rosa vintage. Um copo térmico rosa está ao lado dela. Movimento de câmera cinematográfico lento.
-
-Cena 3: Close-up de beleza do rosto dela enquanto ela levanta levemente a máscara de dormir e fala ao telefone, pele com brilho suave, maquiagem natural, expressões gentis, profundidade de campo rasa.
-
-Cena 4: Ela sai da cama e caminha em direção ao toucador. Movimento de câmera acompanhando-a suavemente pelo quarto iluminado pelo sol.
-
-Cena 5: No toucador vintage, ela se senta em frente a um grande espelho oval e se arruma, cercada por perfumes, maquiagem, acessórios de cabelo e joias. Mostre closes elegantes dela escovando o cabelo e aplicando maquiagem.
-
-Cena 6: Ela olha em direção à porta do quarto, caminha até lá e espreita lentamente para fora com uma expressão divertida.
-
-Cena 7: Tomada final glamorosa no espelho: ela agora está totalmente vestida com um traje elegante rosa pastel, em pé com confiança em frente ao espelho do toucador. Luz solar suave, pose elegante, atmosfera de comercial romântico e sonhador.
-
-Estilo visual: fotografia cinematográfica ultrarrealista, tons de rosa pastel, luz solar natural quente, estética nostálgica dos anos 1990, granulação de filme suave, brilho sonhador, textura de pele realista, profundidade de campo rasa, movimentos de câmera suaves, reflexo de lente sutil, comercial de moda premium, altamente detalhado, 4K, personagem e guarda-roupa consistentes, sem texto, sem marca d'água.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097545078915129344/img/wt5xjifGTW9sdyBu.jpg" width="600" alt="Anúncio de Moda Retrô Rosa Sonhador">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=10547)**
-
-**Autor:** [Noor](https://x.com/noorlewisx) | **Fonte:** [Link](https://x.com/noorlewisx/status/2097545178013950280) | **Publicado:** Sep 9, 2026
-
----
-### Terror de Sobrevivência Cinematográfico na Floresta
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um curta-metragem de terror aterrorizante de 30 segundos que acompanha três amigos em uma floresta enquanto encontram uma horda de zumbis, apresentando gore realista e sequências de perseguição intensas.
-
-#### 📝 Prompt
-
-```
-Use a imagem do storyboard enviada como referência visual exata. Mantenha os mesmos três personagens, os mesmos trajes, o mesmo ambiente de floresta, a mesma atmosfera de terror e o mesmo estilo cinematográfico durante todo o vídeo. Faça com que os personagens pareçam atores humanos reais, com expressões faciais naturais, movimentos realistas e qualidade de filme live-action.
-Crie um curta-metragem de terror cinematográfico ultrarrealista de 30 segundos com progressão contínua da história.
-Cena 1 (0–5s): Início Pacífico
-Um casal de jovens adultos senta-se perto de uma árvore grande em uma área de floresta escura e abandonada, enquanto o amigo deles explora as redondezas com uma lanterna. A atmosfera parece uma viagem de aventura. Iluminação noturna fria, neblina leve, vento realista movendo as folhas e o cabelo. A câmera se aproxima lentamente do casal, mantendo a aparência exata dos personagens da referência.
-Cena 2 (5–8s): O Aviso da Gota de Sangue
-A garota sente de repente algo caindo de cima. Uma pequena gota de sangue cai de um galho de árvore e atinge seu rosto. Ela toca lentamente a bochecha, confusa. O rapaz percebe, olha para cima e sua expressão muda de calma para medo. Adicione um som de terror tenso, movimento lento de câmera e reações realistas.
-Cena 3 (8–12s): Revelação da Horda de Zumbis
-O rapaz vira-se lentamente e olha para trás da garota. A câmera se move sobre seu ombro e revela um grande grupo de zumbis emergindo da neblina da floresta escura. Dezenas de zumbis se aproximam lentamente. O rapaz parece chocado e em pânico. A garota e o outro amigo percebem o perigo.
-Cena 4 (12–17s): O Ataque Começa
-Os zumbis começam a persegui-los de repente. Os três personagens correm pela floresta em pânico. O amigo remove obstáculos do caminho enquanto corre. A garota luta para acompanhar, respirando com dificuldade, parecendo aterrorizada. Use o estilo de câmera tremida na mão, como em um filme real de terror de sobrevivência.
-Cena 5 (17–22s): Esconderijo na Cabana Antiga
-Eles alcançam uma cabana de madeira abandonada e correm para dentro. Eles empurram uma porta de madeira pesada e tentam bloqueá-la enquanto os zumbis batem do lado de fora. Mostre o medo, a exaustão e a luta deles. Iluminação de lanterna, interior escuro, sombras realistas.
-Cena 6 (22–27s): Ataque pela Janela
-De repente, um zumbi atravessa a janela lateral. O vidro quebra e cai. Os três personagens recuam com medo. Eles procuram desesperadamente por outra rota de fuga. Mostre pânico realista, movimentos rápidos e uma atmosfera de terror intensa.
-Cena 7 (27–30s): Fuga Final
-Os três correm para fora da cabana em direção a um túnel antigo e escuro na floresta. A horda de zumbis segue logo atrás. A câmera acompanha por trás com um movimento de rastreamento cinematográfico. Eles entram no túnel enquanto os zumbis se aproximam. Termine com um suspense sombrio.
-Estilo Visual:
-Filme de terror live-action ultrarrealista, rostos humanos naturais, movimento corporal realista, iluminação cinematográfica, gradação de cores azul-esverdeada escura, floresta com neblina, física realista, câmera na mão
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097544557995208705/img/TDNH3OaWVPAIfIGw.jpg" width="600" alt="Terror de Sobrevivência Cinematográfico na Floresta">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=10552)**
-
-**Autor:** [shah_zadii](https://x.com/sha_zdiii) | **Fonte:** [Link](https://x.com/sha_zdiii/status/2097544751318991209) | **Publicado:** Sep 9, 2026
-
----
-### Ritual de Horror Folclórico Coreano
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt cinematográfico de 30 segundos de horror folclórico coreano envolvendo um ritual sombrio com velas, talismãs e uma possessão sobrenatural.
-
-#### 📝 Prompt
-
-```
-Ritual de horror folclórico coreano cinematográfico de 30 segundos. Mantenha o rosto e o traje da personagem do Word consistentes durante todo o vídeo.
-
-1. 0–4s: A personagem do Word ajoelha-se, pálida e fraca, em uma casa tradicional coreana mal iluminada; família preocupada, velas, incenso, xamã preparando o ritual.
-2. 4–8s: Um círculo de sal e talismãs a cercam; a luz das velas tremeluz enquanto seus olhos se contraem e seus dedos convulsionam.
-3. 8–12s: Sua cabeça vira de forma não natural; voz gutural inumana, veias escuras se espalhando, corpo contorcendo-se à medida que o ritual se intensifica.
-4. 12–16s: Seus olhos ficam pretos; o xamã canta freneticamente e joga arroz/sal; seu corpo convulsiona violentamente.
-5. 16–20s: Ela se levanta de forma não natural; o xamã pressiona um talismã em chamas contra sua testa enquanto o vento rasga o cômodo fechado.
-6. 20–24s: O talismã queima, as chamas aumentam, ela desmaia e fica completamente imóvel.
-7. 24–27s: Seus olhos reabrem humanos; a família corre até ela em alívio enquanto o xamã exausto observa.
-8. 27–30s: Plano geral do resultado: sal espalhado, talismãs queimados, velas derretidas. Um talismã intacto emite uma leve fumaça escura, deixando um final inquietante e sem resolução.
-
-Estilo: horror folclórico coreano cinematográfico, interior de madeira escura, luz de velas quente, sombras profundas, atmosfera tensa, realista, inquietante, movimento de câmera dramático.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097533707557236736/img/z7pl2BAUQ6FgvZUl.jpg" width="600" alt="Ritual de Horror Folclórico Coreano">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=10549)**
-
-**Autor:** [WasifAI](https://x.com/doctorwasif) | **Fonte:** [Link](https://x.com/doctorwasif/status/2097533759944090052) | **Publicado:** Sep 9, 2026
-
----
-### Cena de comédia de ação em bairro coreano
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt detalhado para uma cena de comédia ambientada em uma área residencial coreana, com foco na consistência dos personagens e na estética de filmadora portátil.
-
-#### 📝 Prompt
-
-```
-Crie uma cena de comédia de ação de 30 segundos, em 1080p e ultra-realista, em um bairro coreano, usando as imagens enviadas como referências visuais exatas. Mantenha os mesmos personagens, rostos, cabelos, roupas e ambiente consistentes durante toda a cena.
-PERSONAGENS:
-Jovem coreana, na casa dos 20 anos, cabelos longos e lisos pretos, blusa verde de manga comprida e corte curto, calça jeans larga e joias prateadas; confiante, expressiva e destemida.
-Jovem coreano, na casa dos 20 anos, cabelo curto preto, camisa cinza de botões, calça escura e tênis branco; convencido no início, depois cada vez mais nervoso.
-TOMADA 1
-A mulher caminha por uma rua residencial tranquila carregando uma pequena sacola de compras. Ela percebe o homem vindo em sua direção em uma pequena scooter elétrica, rápido demais.
-TOMADA 2
-Ele toca a campainha repetidamente e gesticula para que ela saia do caminho. Ela se desvia calmamente, observando-o passar com uma expressão de irritação.
-TOMADA 3
-Alguns segundos depois, a scooter volta para o enquadramento sozinha. O homem corre atrás dela, tentando desesperadamente alcançá-la.
-TOMADA 4
-A mulher o observa passar correndo por ela. Ela casualmente estica um pé e para a scooter antes que ela role para a rua.
-TOMADA 5
-Ele finalmente a alcança, sem fôlego, e diz: “Espere… você parou a scooter?” Ela simplesmente olha para ele e diz: “De nada.”
-TOMADA 6
-Ele pega a scooter e tenta sair andando novamente, mas a mulher percebe que a sacola de compras dele se abriu e os vegetais estão rolando pela calçada.
-TOMADA 7
-Ela rapidamente pega vários vegetais antes que cheguem à rua. O homem fica ali, envergonhado, enquanto uma vizinha idosa observa e ri baixinho.
-TOMADA 8
-A mulher devolve tudo a ele, dá um olhar divertido de “sério mesmo?” e vai embora.
-TOMADA 9 — FINAL
-O homem começa a sair com a scooter, então percebe que o capacete ainda está na mão dela. Ela o levanta acima da cabeça com um pequeno sorriso de satisfação. Ele para, vira-se e caminha de volta em direção a ela enquanto ela ri.
-ESTILO VISUAL:
-Bairro residencial coreano ultra-realista, estética de filmadora MiniDV do início dos anos 2000, câmera na mão, enquadramento imperfeito, leve busca de foco automático, mudanças naturais de exposição, leve desfoque de movimento, detalhes digitais suaves, luz solar quente da tarde, casas coreanas realistas, scooters estacionadas, postes de energia, ruas estreitas e uma atmosfera cotidiana autêntica. Timing cômico rápido, linguagem corporal natural e cortes secos entre as tomadas.
-ÁUDIO:
-Apenas som diegético natural — passos, motor da scooter, campainha, tráfego distante, pássaros, ambiente do bairro, vegetais batendo no chão, diálogo natural e risadas. Absolutamente nenhuma música ou trilha sonora.
-PROMPT NEGATIVO:
-Sem sangue, ferimentos graves, mudança de identidade, trocas de roupa, pessoas duplicadas, membros extras, mãos distorcidas, teletransporte, física impossível, reações de desenho animado, aparência de CGI, legendas, textos, logotipos ou marcas d'água.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097532301538394112/img/IRE7C5Mf6hyBG4qM.jpg" width="600" alt="Cena de comédia de ação em bairro coreano">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=10629)**
-
-**Autor:** [Synthia](https://x.com/AIwithSynthia) | **Fonte:** [Link](https://x.com/AIwithSynthia/status/2097532372921229702) | **Publicado:** Sep 9, 2026
-
----
-### Prompt de Sequência de Personagem Multi-Shot
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Um prompt de sequenciamento de vídeo estrutural projetado para manter alta consistência de personagem e cenário em vários cortes secos.
-
-#### 📝 Prompt
-
-```
-30 segundos | 16:9 | 8 planos | Sequência multi-shot | Cortes secos
-
-Sequência multi-shot com cortes secos explícitos entre os planos. O vídeo inteiro mantém a mesma Zhixia, o mesmo gato malhado @a2b2a146-e6b3-4238-9a2b-f7130db0c416 "Peanut", a mesma bola fofa colorida, lógica ambiental unificada e estilo visual. Sem música, sem trilha sonora, apenas som ambiente realista e natural.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097445457312038912/img/oHtiW8c8r17rZJGH.jpg" width="600" alt="Prompt de Sequência de Personagem Multi-Shot">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=10564)**
-
-**Autor:** [往事随风](https://x.com/fngfng435609) | **Fonte:** [Link](https://x.com/fngfng435609/status/2097445713978524041) | **Publicado:** Sep 8, 2026
-
----
-### Prompt de Vídeo: Garota em Conjunto Habitacional Japonês de 1986
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Um prompt meticuloso e detalhado de recriação histórica em múltiplas sequências, mapeando o dia de uma jovem em um conjunto habitacional suburbano japonês em 1986.
-
-#### 📝 Prompt
-
-```
-[Visão Geral] Em 1986, o dia de uma menina de 8 anos que vive em um conjunto habitacional público. Gravado por sua mãe à distância, usando a câmera de vídeo do pai, sem falar com ela. 480p, 16:9, 15 segundos. 7 planos (aprox. 2 segundos cada) com cortes secos em 7 locais completamente diferentes. Sem transições ou fades. O sujeito não faz nada voltado para a câmera: sem olhares, sem mostrar objetos, sem acenar, sem posar. Absorta em brincadeiras e tarefas. Fragmentos que cortam a vida cotidiana crua, não atuação. Sem diálogos, falas ou narração.
-
-[Sujeito] Padrão de aparência: Uma menina japonesa fofa o suficiente para ser uma atriz mirim, conhecida como a mais bonita da classe. Um rosto focado e um rosto que sorri naturalmente ao ter sucesso são os melhores. Rosto: cabelo chanel cortado de forma limpa (franja reta), rosto redondo, olhos grandes com íris pretas proeminentes, nariz pequeno arrebitado, bochechas vermelhas (textura de pele realista), um dente da frente faltando. Roupas (uso diário): blusa branca com gola redonda (gola levemente larga), saia jardineira vermelha, meias brancas altas (uma caindo), tênis de lona brancos, um grampo vermelho no lado esquerdo do cabelo. Hábitos comportamentais: olhar para as coisas que terminou bem na frente do rosto, puxar as meias para cima. Rosto, cabelo e roupas são totalmente consistentes em todos os planos.
-
-[Personagens] 2 amigas: uma menina com rabo de cavalo em uma camiseta amarela (sardas), uma menina com tranças em um vestido azul claro (óculos). Nenhuma olha para a câmera.
-
-[Época/Local/Luz] Um conjunto habitacional no verão de 1986. (1) Varanda (entre roupas secando, luz da manhã) (2) Jogo de elástico no pátio (duas pessoas esticando elásticos planos longos na altura do tornozelo de ambos os lados, pulando no meio; luz da manhã) (3) Sombra sob a caixa d'água (4) Meio-fio em frente ao centro comunitário (jogo de cama de gato usando um barbante em laço ao redor das mãos; raios de sol) (5) Caixa de areia do parque (bolinhos de lama: esferas feitas de lama cobertas com areia seca e polidas à mão até brilharem; luz branca) (6) Em frente às caixas de correio (luz alaranjada do entardecer) (7) Escadas do conjunto (entardecer). Sem placas ou letras na tela. Não exibir detalhes de endereço nos envelopes.
-
-[Câmera] Estética de uma câmera de vídeo caseira de 1986: cores com sangramento, baixa resolução, céus brilhantes estourados, contornos suaves. Sem carimbos de data. Câmera na mão com tremores realistas, enquadramento imperfeito, zoom hesitante, exposição variável. Distância de 2 a 5 metros do sujeito. O sujeito ignora a câmera. Sem estabilização, gimbals, drones, câmera lenta, configuração cinematográfica ou correção de cor comercial. A câmera é sempre gravada a partir da posição física ocupada pelo operador (em pé, sentado, agachado, caminhando, assento ao lado). Evite perspectivas de locais impossíveis (no ar, debaixo d'água, teto, diretamente acima, fora de veículos em movimento, a centímetros do rosto). O operador age como uma pessoa real compartilhando o ambiente, acompanhando com um curto atraso quando o sujeito se move, às vezes perdendo o enquadramento ideal.
-
-[Planos] (aprox. 2 segundos cada. Cada linha = local/luz / foco / emoção interna expressa através de movimentos sutis / posição da câmera)
-1. Varanda, manhã. Passando por entre as roupas secando enquanto ajusta seu grampo de cabelo vermelho. Emoção: motivada. Boca fechada enquanto empurra o grampo. Câmera: de dentro para fora, lençóis brilhando em branco na contraluz.
-2. Pátio, jogo de elástico. Pulando o elástico, prendendo o pé e quase caindo, rindo espontaneamente. Emoção: totalmente imersa e feliz. Câmera: vista frontal, altura da cintura, levemente atrás.
-3. Sombra da caixa d'água. Três meninas sentadas juntas, bebendo chá de cevada de um copo térmico. Olhando para o céu distante com o copo pressionado contra a boca antes de passá-lo para a próxima criança. Emoção: calor, mas aliviada. Câmera: vista lateral.
-4. Meio-fio em frente ao centro comunitário, raios de sol. Completando o padrão de "escada" na cama de gato, olhando para as mãos e sorrindo. Emoção: satisfeita com o sucesso. Câmera: ângulo frontal oblíquo, focando nas mãos.
-5. Caixa de areia. Envolvendo um bolinho de lama polido com as duas mãos, inclinando-o contra a luz para observar os ângulos. Emoção: orgulhosa. Olhos brilhantes. Câmera: agachada perto do bolinho de lama.
-6. Em frente às caixas de correio, entardecer. Ficando na ponta dos pés para olhar dentro, puxando um envelope (simples, escondendo endereços) e segurando-o contra o peito. Emoção: antecipação animada. Câmera: vista lateral.
-7. Escadas do conjunto, entardecer. Vista de costas dela correndo para cima segurando o envelope. Virando após o patamar para fora de vista. Emoção: ansiosa para compartilhar. Câmera: olhando de baixo da base das escadas. Por volta de 00:14, o vídeo corta abruptamente para uma tela preta. Sem fade-out.
-
-[Detalhes de Itens/Adereços] O elástico é uma faixa branca, plana e larga. A garrafa térmica é de plástico vermelho com uma tampa que serve como copo. Os bolinhos de lama são marrom-escuros brilhantes. O barbante da cama de gato é um laço de lã vermelha. O envelope é branco simples. O grampo vermelho é de plástico com topo redondo.
-
-[Proibição de Texto] Nenhum texto legível, logotipos, sinais, etiquetas ou números na tela. O envelope está em branco.
-
-[Física/Consistência] Física do mundo real. Sem dígitos em excesso, membros fundidos, anatomia distorcida, itens flutuantes, objetos que desaparecem ou transformações repentinas. Os pés tocam o chão corretamente. O grampo vermelho, a saia jardineira e as roupas das amigas permanecem uniformes em todas as cenas.
-
-[Áudio] Apenas sons ambientais naturais (cortando com cada plano): roupas balançando, batidas de pés e risadas do jogo de elástico, ruídos da garrafa térmica, pássaros nos raios de sol, areia sendo movida, cliques metálicos de caixas de correio, passos nas escadas. Sem diálogos falados. Apenas risadinhas/respiração ocasionais do operador da câmera ou do sujeito permitidas. Sem música. Sem narração. Sem efeitos de produção de som sintético.
-
-[Atmosfera] Replicando um dia simples para uma menina da era Showa que faz os adultos pensarem "eu costumava fazer isso". Fragmentos de brincadeiras e tarefas padrão em vez de atuação simulada. Nostálgico, cativante, profundamente humano. Priorize uma presença de câmera aleatória e orgânica.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094095827740614656/img/L4BWpao8od0AneNR.jpg" width="600" alt="Prompt de Vídeo: Garota em Conjunto Habitacional Japonês de 1986">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=10565)**
-
-**Autor:** [妖精アーヤ](https://x.com/aiehon_aya) | **Fonte:** [Link](https://x.com/aiehon_aya/status/2097444871862689972) | **Publicado:** Sep 8, 2026
-
----
-### Comédia de rua filmada com smartphone
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Uma instrução de roteiro detalhada em um plano-sequência (one-shot) envolvendo uma mulher que dá uma lição em um robô humanoide desajeitado após ele tentar roubar sua bolsa.
-
-#### 📝 Prompt
-
-```
-Um vídeo vertical de 15 segundos em 9:16, filmado com smartphone, com qualidade de live-action extremamente realista. Durante o dia, filmado da janela de um prédio residencial voltado para a rua, olhando diagonalmente para baixo, uma mulher adulta, fria e elegante, tem sua bolsa roubada na calçada por um robô humanoide. O robô tropeça e cai enquanto foge, a mulher recupera calmamente sua bolsa e o pune de uma maneira inesperada. [Perspectiva de filmagem] O fotógrafo está na janela do apartamento, com a lente do telefone apontada diagonalmente para baixo, para a calçada próxima e a estrada de asfalto adjacente. Uma moldura de janela escura e muito estreita é visível na borda esquerda da tela, a calçada de concreto cinza-claro fica à esquerda e a estrada cinza-escura à direita, com o meio-fio estendendo-se como uma linha diagonal no quadro. Sem céu, horizonte distante ou panoramas urbanos em grande escala. O plano em ângulo alto permite a visualização simultânea do topo da cabeça, ombros, parte da frente do corpo e passos completos dos personagens. Os personagens são grandes o suficiente para identificar o roubo da bolsa, a queda, o ato de pegar a bolsa e os movimentos dos braços, evitando que fiquem pequenos demais, como em uma filmagem aérea de alta altitude. O telefone mantém basicamente sua direção original, com apenas um leve tremor natural de mão e uma correção de enquadramento muito pequena e levemente atrasada durante ações repentinas. Sempre filmado da mesma janela, em um plano-sequência contínuo até o fim, sem movimentos de câmera cinematográficos, cortes, inserções de close-up ou transições de cena. [Personagens e Adereços] A protagonista usa a Adult Preset Heroine #1, mantendo o rosto, penteado, físico e identidade predefinidos, vestindo completamente a Preset Clothing #2, com sapatos e acessórios seguindo o padrão, sem modificar os estilos por conta própria. Ela carrega uma bolsa estampada de tamanho médio na mão esquerda, com a boca da bolsa fechada, e a alça não está enrolada no pulso. Há apenas uma bolsa em todo o vídeo e não são usados muletas. Ela caminha com um andar natural e contido, estilo sereia: ombros relaxados e caídos, pescoço estendido, queixo levemente levantado, corpo formando uma curva em S suave e fluida com a mudança de gravidade; o comprimento do passo é moderado, os pés alternam naturalmente ao longo de um caminho mais estreito, as pernas ficam desencontradas, mas não cruzadas intencionalmente. Sua expressão é fria e distante, sem balançar o quadril de forma exagerada, diferente de um desfile de moda. Mantém o equilíbrio humano realista ao girar, curvar-se e exercer força. Um robô humanoide futurista preto e branco ceYCnpdUfKl6 segue alguns passos atrás dela. O robô possui um corpo mecânico suave e verossímil, placas de armadura brancas, articulações pretas, um visor escuro sem traços faciais, próximo à altura de um adulto humano. O movimento das articulações tem peso mecânico, e o visor não exibe expressões, texto ou padrões. [0—3 segundos] A protagonista caminha lentamente pela calçada em direção à parte inferior da tela, a bolsa estampada em sua mão esquerda balançando suavemente. O robô caminha normalmente atrás dela, depois acelera dois passos, aproximando-se pelo lado mais próximo da estrada. O segmento de aproximação não parece engraçado de antemão, fazendo o robô parecer que está genuinamente procurando uma oportunidade para roubar a bolsa. A protagonista não percebe, nem se vira para olhar. [3—6 segundos] O robô estende a mão direita, agarra a alça da bolsa estampada, rouba a bolsa da mão esquerda da protagonista de repente, depois pisa fora do meio-fio, virando para a estrada para escapar. O braço esquerdo da protagonista é puxado levemente, ela imediatamente solta para se manter firme, virando a cabeça para olhar o robô, sem cair ou ser arrastada. O robô olha para trás após correr apenas dois passos, falhando ao coordenar a virada e a colocação dos pés, com um dedo do pé atingindo o outro tornozelo. Ele dá passos curtos e contínuos tentando recuperar o equilíbrio, mas seu corpo balança cada vez mais, finalmente caindo de lado sobre o quadril, virando de costas, com as duas pernas levantando brevemente antes de cair sobre a superfície de asfalto. A queda é repentina, desajeitada e pesada, com um erro claro de pé e processo de recuperação, sem mortais para trás, sem rotação suspensa. A mão direita solta no impacto, a bolsa cai perto da calçada, ao lado do ombro direito do robô. A boca da bolsa permanece fechada. [6—9 segundos] A protagonista pausa por meio segundo, olha para o robô estatelado, depois caminha calmamente até o lado dele. Ela se mantém firme com os dois pés, dobra levemente os joelhos e pega sua bolsa com a mão esquerda. O robô está deitado de costas, cotovelo direito dobrado, a mão direita que acabou de roubar a bolsa sobe lentamente, palma meio aberta. Após pegar a bolsa de volta, o olhar da protagonista cai sobre aquela mão mecânica. Em vez de sair imediatamente, ela pausa por um momento, estendendo sua mão direita livre para agarrar o pulso direito dele. [9—12 segundos: Ação cômica principal] A protagonista segura a bolsa na mão esquerda, agarra o pulso direito do robô com a mão direita, movendo seu antebraço relaxado, deixando que ele dê um tapa na própria armadura da testa com a própria palma. "Tapa". Ela puxa a palma dele para longe por uma dúzia de centímetros, pausa brevemente e dá outro tapa. "Tapa". Dois tapas distintos e nítidos, o processo de contato completamente visível: o robô usou esta mão para roubar a bolsa agora pouco, agora a protagonista usa diretamente esta mão para dar uma lição nele mesmo. O cotovelo direito do robô mantém uma curvatura natural, a articulação do ombro não está invertida. A protagonista move apenas um dos antebraços relaxados, não levantando o robô inteiro. Cada vez que atinge a testa, a cabeça do robô apenas balança suavemente, sem voar, fraturar ou explodir faíscas. O comportamento da protagonista permanece frio durante todo o tempo, seus movimentos são precisos, sem gritos ou acenos exagerados de braço. Após o tapa, ela solta o pulso dele, e aquele antebraço mecânico cai de volta sobre a armadura do peito sob a gravidade, fazendo um curto barulho metálico. [12—15 segundos] A protagonista se endireita, ajusta a alça da bolsa na mão esquerda, vira-se de volta para sua direção original de viagem, retomando naturalmente seu andar frio e elegante estilo sereia. Ela continua a caminhar calmamente, como se tivesse acabado de lidar com um pequeno problema. O robô ainda está deitado de costas na estrada, mão direita descansando no peito, pernas desajeitadamente espalhadas. O final mantém o corpo inteiro da protagonista saindo e o robô no chão, permitindo que a humana calma e o ladrão mecânico fracassado apareçam simultaneamente no quadro. Nenhuma nova ação de reviravolta é adicionada. [Realismo visual] Luz do dia natural e sombras arquitetônicas realistas, juntas de concreto, desgaste do meio-fio, partículas de asfalto e pequenas manchas são claras e verossímeis. As rugas da roupa mudam com os movimentos do corpo, a bolsa balança com a inércia, a armadura do robô reflete o ambiente real ao redor, e os personagens e o robô compartilham luz consistente e sombras de contato. O projeto geral possui credibilidade de material e iluminação de nível cinematográfico, mas ainda parece um incidente de rua capturado acidentalmente por um telefone. Retém leve tremor de mão, compressão de telefone apropriada, desfoque de movimento natural e variações sutis de exposição automática. Não usa filtros de beleza, nitidez excessiva, desfoque de profundidade de campo exagerado, iluminação comercial ou filtros de filme pesados. [Som] Gravação de rua natural sob a distância da janela do apartamento: leve som de vento, ruído ambiente da cidade distante, passos distantes, o som mecânico abafado do robô atingindo o chão e dois breves sons de colisão de palma na armadura. O som mantém a distância espacial, não como se gravado perto dos personagens. Sem diálogo, sem narração, sem música de fundo, sem risadas gravadas, sem efeitos sonoros de desenho animado. [Requisitos de continuidade] Aparência e roupas da protagonista, aparência do robô, bolsa, estrutura da rua, direção da luz consistentes durante todo o vídeo. A bolsa segue estritamente: carregada pela mão esquerda da protagonista — roubada pela mão direita do robô — cai com o robô — pega pela mão esquerda da protagonista — levada pela protagonista. A ação de bater mantém estritamente a mão direita da protagonista segurando o pulso direito do robô, o robô usando sua própria palma direita para dar um tapa na própria testa. Estruturas de pulso, cotovelo e ombro contínuas, sem membros adicionados, sem trocas de esquerda-direita, sem cortes. Sem edição, sem transições de cena, sem câmera lenta, sem texto, sem legendas, sem marcas d'água, sem efeitos especiais de CGI excessivos.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097342410372055040/img/JmkW7gS6gbADfqj4.jpg" width="600" alt="Comédia de rua filmada com smartphone">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=10563)**
-
-**Autor:** [John](https://x.com/john87445528) | **Fonte:** [Link](https://x.com/john87445528/status/2097357544679493898) | **Publicado:** Sep 8, 2026
-
----
-### Transição de Look POV Controlada por Dispositivo Móvel
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Um roteiro detalhado para um vídeo Seedance 2.5 apresentando uma perspectiva em primeira pessoa onde o look de uma personagem muda instantaneamente através de uma interface de aplicativo móvel. Inclui tempo específico, efeitos sonoros e restrições de movimento.
-
-#### 📝 Prompt
-
-```
-Duração: 20 segundos
-Proporção: 9:16
-Estilo geral: Curta-metragem de drama em POV (ponto de vista) de namorado, filmagem realista com celular na mão com leve tremor de respiração, luz natural interna transparente, troca instantânea de look ao deslizar e clicar no celular, ritmo acelerado e doce, tela vertical.
-
-[Cenário] Sala de estar/quarto iluminado, luz natural vindo de janelas do chão ao teto, fundo simples e aconchegante, chão limpo sem bagunça.
-[Personagem] Protagonista feminina (@Image 1, vestindo a roupa original da personagem no início); protagonista masculino é a perspectiva POV, sem mostrar o rosto em nenhum momento, apenas as mãos masculinas segurando um celular aparecendo na parte inferior da tela.
-[Adereços] Um celular moderno de tela cheia, segurado verticalmente. A tela exibe um aplicativo de looks simples e estiloso: uma imagem de prévia grande no topo e cartões de roupas com rolagem horizontal na parte inferior. Cada deslize tem inércia de acompanhamento, e há uma leve escala na interface e um feedback de vibração curto ao clicar em um cartão.
-
-CENA 1 (00:00-00:03.5) Exibição Inicial
-Visual: POV, protagonista feminina em pé no centro da tela, girando alegremente meio círculo para mostrar seu look, levantando levemente a bainha, olhos brilhantes olhando para a câmera.
-Diálogo: Protagonista feminina: "Amor, o que você acha do meu look de hoje?"
-Áudio: Ruído ambiente interno, sons leves de tecido.
-Restrições: Protagonista feminina de corpo inteiro na cena, roupa inicial = roupa original da personagem.
-
-CENA 2 (00:03.5-00:06.5) Pegando o celular + Primeiro deslize
-Visual: A mão do protagonista masculino segurando o celular entra na tela pela parte inferior, a tela acende mostrando o aplicativo de looks. O polegar desliza os cartões da direita para a esquerda, parando no cartão do @Outfit 1, a prévia aumenta.
-Diálogo: Protagonista masculino (Locução, preguiçoso): "Está ok. Tente este conjunto."
-Áudio: Som de fricção ao deslizar na tela.
-Restrições: Tela do celular claramente legível, cartão mostra @Outfit 1; protagonista masculino mostra apenas as mãos, sem rosto.
-
-CENA 3 (00:06.5-00:09.5) Primeiro clique e troca instantânea
-Visual: O polegar clica no cartão @Outfit 1, a tela vibra. No mesmo quadro do clique, a roupa muda instantaneamente para @Outfit 1, com posição, postura e penteado completamente contínuos; ela olha para as roupas, olhos arregalados, boca aberta, então olha de volta para a câmera.
-Diálogo: Protagonista feminina (Surpresa): "Eh?!"
-Áudio: "Bip" agudo + "ding" de mudança, som de tecido se desenrolando.
-Restrições: A troca de roupa acontece no quadro exato do clique, transição de quadro único; um suave brilho de luz de cima para baixo pode ser adicionado; sem dissoluções, quadros pretos ou saltos da personagem.
-
-CENA 4 (00:09.5-00:13) Segundo deslize + Clique e troca instantânea
-Visual: O polegar desliza para a esquerda novamente, o cartão para no @Outfit 2, clique. Muda instantaneamente para @Outfit 2; desta vez ela reage, bochechas levemente vermelhas, dedos se entrelaçando na frente, virando-se timidamente, evitando contato visual, mas incapaz de resistir a olhar para a câmera.
-Diálogo: Protagonista masculino (Locução): "Este conjunto também funciona."
-Protagonista feminina (Sussurrando): "Você... clicando aleatoriamente."
-Áudio: Som de deslize + "bip" + "ding", música leve começa a subir.
-Restrições: O deslize deve mostrar completamente o movimento do cartão @Outfit 1 para o @Outfit 2; a mudança permanece um corte instantâneo no clique.
-
-CENA 5 (00:13-00:16.5) Terceiro deslize + Clique e troca instantânea
-Visual: Desliza para @Outfit 3, clique. Muda instantaneamente para @Outfit 3; ela já está acostumada, morde o lábio inferior, ajusta a nova gola/bainha da saia, olha para a câmera com um pouco de orgulho.
-Diálogo: Protagonista feminina: "Este conjunto... na verdade parece bem bonito."
-Áudio: "Bip" + "ding", ritmo da música acelera meio batimento.
-Restrições: Três reações progridem: surpresa → timidez → orgulho; cada uma tem pequenos movimentos, sem ficar parada.
-
-CENA 6 (00:16.5-00:20) Quarto deslize + Clique + Encerramento
-Visual: Um último deslize para @Outfit 4, o polegar clica. Muda instantaneamente para @Outfit 4; ela ri, dá um passo em direção à câmera, semicerra os olhos de forma brincalhona. O celular permanece na parte inferior da tela, mostrando a prévia do @Outfit 4.
-Diálogo: Protagonista masculino (Locução, satisfeito): "Este é o escolhido."
-Protagonista feminina (Rindo e inclinando-se, fingindo repreender): "Você é tão mau — mas eu adoro!"
-Áudio: "Bip" + "ding", música atinge uma batida doce e forte no final do diálogo.
-Restrições: No final, ela se inclina, mas não excessivamente perto da lente; celular sempre visível na parte inferior; sequência de looks fixa: Início = Original → @Outfit 1 → @Outfit 2 → @Outfit 3 → @Outfit 4, sem desvios.
-
-[Regras do Diretor]
-1. Regra de Transição: Cada mudança deve ocorrer no mesmo quadro do 'clique', mudança instantânea de quadro único. A posição, pose, penteado e formato do rosto da personagem devem ser perfeitamente contínuos durante o quadro de transição.
-2. Regra de POV: Câmera = olhos do protagonista masculino, leve tremor de respiração de filmagem manual durante todo o tempo; protagonista masculino mostra apenas mãos + locução, sem rosto.
-3. Regra do Celular: Deve deslizar e depois clicar todas as vezes, a troca de cartões deve ser clara; sem mudanças flutuantes sem interação.
-4. Referência de Ativos: Início = roupas originais @Image 1; 1º = @Outfit 1; 2º = @Outfit 2; 3º = @Outfit 3; 4º = @Outfit 4.
-5. Sincronia labial do diálogo clara e alinhada com o ritmo do clique.
-
-Negativo: Mudanças por dissolução, quadros pretos, flashes brancos, fumaça, transições giratórias, teletransporte da personagem, quebra de postura, mudanças faciais, mudanças de penteado, mudanças de sapato (a menos que na imagem do look), revelação do rosto do protagonista masculino, tela horizontal, legendas, marcas d'água, logotipos, mudança repentina de fundo, pessoas extras, roupas de casa largas a menos que no ativo, tremor excessivo da câmera, tela ilegível.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097320111853932544/img/RxNvZckTVJnpiKFi.jpg" width="600" alt="Transição de Look POV Controlada por Dispositivo Móvel">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=10561)**
-
-**Autor:** [John](https://x.com/johnAGI168) | **Fonte:** [Link](https://x.com/johnAGI168/status/2097320255139795072) | **Publicado:** Sep 8, 2026
-
----
-### Vídeo caseiro de Seul nos anos 2000
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo nostálgico de 15 segundos que simula uma gravação caseira em Sony MiniDV de uma mulher estendendo roupas em um apartamento em Seul.
-
-#### 📝 Prompt
-
-```
-Crie um vídeo caseiro de 15 segundos ultra-realista no estilo Sony MiniDV do início dos anos 2000.
-
-Assunto: Jovem mulher coreana, naturalmente atraente, pele realista, maquiagem mínima, cabelos longos e escuros presos de forma despojada. Camiseta oversized lilás desbotada, calça de moletom cinza folgada, meias brancas, colar de prata fino. Preserve a identidade, rosto, cabelo, proporções e aparência idênticos durante todo o vídeo.
-
-Localização: Varanda de um pequeno apartamento antigo em Seul em uma manhã ensolarada de verão — paredes de concreto, grade de metal, varal, roupas coloridas, cesta de plástico, vasos de plantas, prédios vizinhos e telhados distantes. Luz solar brilhante e levemente nebulosa.
-
-Estilo: Filmagem autêntica de MiniDV do início dos anos 2000, com balanço suave de câmera na mão, enquadramento imperfeito, ajustes sutis de foco automático/exposição, cores desbotadas, contraste suave, compressão DV e leve ruído digital. Movimento contínuo e fluido durante todo o vídeo: sem travamentos, solavancos, quadros pulados, quadros duplicados, stop-motion, desfoque de movimento excessivo, mudanças de velocidade, aparência de baixa taxa de quadros, estabilização ou movimento cinematográfico.
-
-00–03s: Ela traz a cesta de roupas para a varanda, coloca-a no chão e prende a primeira camisa no varal.
-
-03–06s: Ela estende calmamente várias outras roupas enquanto a câmera segue naturalmente suas mãos.
-
-06–09s: Ela desdobra e estende um lençol branco; ele preenche brevemente o quadro antes de se mover suavemente com a brisa.
-
-09–12s: Ela dá um passo atrás e ajeita uma manga torta. Apartamentos vizinhos e o céu azul de verão são visíveis atrás dela.
-
-12–15s: Ela se senta em uma pequena cadeira de plástico, bebe água e olha para os telhados com um leve sorriso relaxado. A câmera se desloca em direção às roupas balançando com a brisa e corta.
-
-Áudio: Apenas ambiente natural — pássaros, tráfego distante, vozes fracas do apartamento, farfalhar de tecido, sons de prendedores de roupa, sons da cesta, zumbido de ar-condicionado e brisa suave. Sem música, narração ou efeitos adicionais.
-
-Objetivo: Uma gravação de família comum e esquecida do início dos anos 2000 — calorosa, mundana, íntima e espontânea. A nostalgia vem da vida cotidiana em Seul e da qualidade de imagem autêntica de MiniDV, não de uma taxa de quadros reduzida.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097284790026399744/img/aMwZ2QTRIEfx2G7P.jpg" width="600" alt="Vídeo caseiro de Seul nos anos 2000">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=10555)**
-
-**Autor:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Fonte:** [Link](https://x.com/iamahmedfaraz66/status/2097291359132532803) | **Publicado:** Sep 8, 2026
-
----
-### Sequência de Transformação Apocalíptica de Gato
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Uma sequência narrativa de várias tomadas apresentando uma jovem e um gato infectado em uma mansão, com uma transição para uma cena saudável e lúdica em uma quadra de basquete.
-
-#### 📝 Prompt
-
-```
-Sequência de várias tomadas com cortes secos entre elas. Mantenha os mesmos personagens, gato, ambientes e estilo visual durante toda a cena. Sem música ou trilha sonora — apenas som diegético natural.
-TOMADA 1
-Uma jovem de 18 anos, suja e exausta, com cabelos castanho-avermelhados presos em um rabo de cavalo baixo e bagunçado, olhos castanhos quentes, jaqueta militar verde-oliva desbotada, mochila e luvas, segura um rifle de ferrolho dentro de uma mansão ornamentada abandonada. Suor, sujeira, um arranhão na bochecha e lágrimas cobrem seu rosto. Suas mãos tremem. Ela fecha os olhos enquanto uma lágrima escorre pelo rosto, então ouve um som fraco e abaixa lentamente o rifle, visivelmente de coração partido.
-TOMADA 2
-Por cima do ombro dela, um gato malhado dourado-alaranjado infectado senta-se fracamente no piso de parquet coberto de detritos. Sua pelagem está suja e emaranhada, os olhos turvos e pálidos, com pequenas feridas e veias infectadas escuras visíveis sob o pelo. O gato treme e solta um miado suave e assustado.
-TOMADA 3
-Ela se agacha lentamente ao lado do gato, coloca cuidadosamente o rifle no chão, enxuga as lágrimas e dá a ele um pequeno sorriso triste. Ela fala baixinho com o gato em uma voz gentil, coloca a mão na jaqueta e tira um pequeno rato de brinquedo vermelho e gasto. Ela o coloca gentilmente no chão e o empurra em direção ao gato.
-TOMADA 4
-Close-up em ângulo extremamente baixo do pequeno rato de brinquedo vermelho deslizando lentamente pela poeira sobre o piso de parquet rachado. Ele para diretamente na frente das patas do gato. O gato olha para ele. Mantenha o foco no brinquedo parado e nas patas trêmulas do gato.
-CORTE SECO / TRANSFORMAÇÃO
-TOMADA 5
-Mesmo ângulo de câmera baixo e posição exata do brinquedo, mas agora em uma quadra de basquete residencial limpa e ensolarada. Um gato malhado dourado-alaranjado saudável estica-se de repente e agarra o rato de brinquedo. Seus olhos estão claros e calorosos, a pelagem limpa e fofa, movimentos enérgicos e brincalhões. O gato rebate o brinquedo com entusiasmo.
-TOMADA 6
-Plano aberto da quadra de basquete. A mulher joga gentilmente o rato de brinquedo pela quadra. O gato feliz corre atrás dele, salta sobre ele, brinca, depois corre de volta para ela e solta o brinquedo aos seus pés, pronto para brincar novamente.
-TOMADA 7
-Close-up da mulher limpa e ilesa rindo calorosamente enquanto coça afetuosamente o gato atrás das orelhas e acaricia suavemente seu pescoço. O gato ronrona, encosta-se na mão dela e balança a cauda alegremente.
-TOMADA 8
-Plano aberto e pacífico. A mulher e o gato sentam-se juntos ao lado de um conversível vintage verde-escuro impecável estacionado ao lado da quadra de basquete. Ela senta no chão ao lado do carro, abre uma pequena lata de ração para gatos e alimenta o gato gentilmente. O gato come pacificamente, depois esfrega a cabeça na mão dela. Ela sorri e acaricia gentilmente suas costas.
-CONSISTÊNCIA
-Mesma mulher durante toda a cena: cabelos castanho-avermelhados, rabo de cavalo baixo e solto, olhos castanhos quentes, jaqueta militar verde-oliva, calças cargo cáqui e botas marrons.
-Mesmo gato durante toda a cena: pelagem malhada dourado-alaranjada, marcas faciais distintas, mesmo formato de olhos, mesmo tamanho e proporções corporais. Infectado, ferido e assustado na mansão; completamente saudável, limpo, brincalhão.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097289253827035136/img/KMWo4rAFPhTPKqZs.jpg" width="600" alt="Sequência de Transformação Apocalíptica de Gato">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=10551)**
-
-**Autor:** [Synthia](https://x.com/AIwithSynthia) | **Fonte:** [Link](https://x.com/AIwithSynthia/status/2097289309154091436) | **Publicado:** Sep 8, 2026
-
----
-### Storyboard de Filme de Ação e Desastre Estilo Hollywood
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Uma sequência de sobrevivência de alta intensidade com 30 segundos, ambientada em Kuala Lumpur, apresentando colapsos realistas de edifícios, caos veicular e ação contínua do personagem.
-
-#### 📝 Prompt
-
-```
-TÍTULO: A FUGA PELA SOBREVIVÊNCIA
-
-Crie um storyboard de ação e desastre estilo Hollywood de página única e alta qualidade, em formato widescreen 16:9, com 12 quadros cinematográficos cobrindo uma sequência contínua de 30 segundos de sobrevivência.
-
-IMAGEM DE REFERÊNCIA 1 (Image1):
-Use como referência EXATA do personagem principal. Mantenha a mesma identidade facial, penteado, barba, proporções corporais, camisa preta, calças pretas e aparência geral de forma consistente em todos os quadros. Sem alterações de personagem, rosto, penteado ou vestuário. Poeira e detritos podem aparecer gradualmente conforme o desastre progride.
-
-IMAGEM DE REFERÊNCIA 2 (Image2):
-Use como referência EXATA de design e layout do storyboard. Combine seu arranjo de quadros cinematográficos premium, numeração, códigos de tempo, faixas de legenda pretas, hierarquia tipográfica, bordas e apresentação profissional de storyboard de Hollywood.
-
-ESTILO:
-Filme de desastre de Hollywood fotorrealista em live-action, ARRI Alexa 35, lente cinematográfica anamórfica, Kuala Lumpur (Malásia) realista, realismo de dublês práticos, física de destruição verossímil, câmera na mão (handheld tracking), iluminação cinematográfica, desfoque de movimento, poeira, vidro estilhaçado, faíscas e detritos realistas.
-
-REGRA PRINCIPAL:
-UMA ÚNICA CENA CONTÍNUA DE SOBREVIVÊNCIA. Cada movimento deve se conectar logicamente. Sem teletransporte ou mudanças de local inexplicáveis. O mesmo homem corre, tropeça, se recupera, pula, usa Slides e muda de direção constantemente enquanto a cidade em colapso se torna a antagonista.
-
-QUADROS DO STORYBOARD:
-
-1. 00:00–00:03 — TERREMOTO
-Ângulo baixo atrás dos pés dele enquanto corre por Kuala Lumpur. O chão treme, edifícios balançam, vidros explodem e concreto desaba atrás dele. Ele olha para trás e acelera.
-
-2. 00:03–00:06 — COLAPSO
-Plano de acompanhamento frontal. A fachada de um edifício desaba atrás dele. Ele muda de direção e pula sobre uma barreira de metal enquanto os detritos destroem seu caminho original.
-
-3. 00:06–00:09 — IMPACTO DE VEÍCULO
-Em um cruzamento, veículos deslizam em sua direção. Ele mergulha no último segundo, um carro passa por cima, ele rola, se recupera e continua correndo.
-
-4. 00:09–00:12 — RACHA NA ESTRADA
-Uma enorme fissura rasga a estrada. Ele corre sobre um carro danificado como trampolim e salta sobre o pavimento em colapso.
-
-5. 00:12–00:15 — VIDROS CAINDO
-Plano de acompanhamento lateral. Janelas de arranha-céus explodem acima dele. Vidros chovem enquanto ele protege o rosto e se abaixa sob uma placa que cai.
-
-6. 00:15–00:18 — COLAPSO
-Um edifício desaba à frente. Ele avista uma fresta estreita, abaixa-se e usa Slides sob os detritos que caem, depois emerge coberto de poeira e corre.
-
-7. 00:18–00:21 — CAOS VEICULAR
-Um ônibus colide com carros. Um veículo girando se aproxima. Ele pula no capô, salta sobre o teto e aterrissa na calçada oposta.
-
-8. 00:21–00:24 — FALHA NA VIA ELEVADA
-Uma via elevada desaba à frente. Ele realiza um salto desesperado sobre o vão, aterrissa com impacto, rola, se recupera e corre.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097267326810980352/img/g1Wstu5Qp9w8z-mo.jpg" width="600" alt="Storyboard de Filme de Ação e Desastre Estilo Hollywood">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=10550)**
-
-**Autor:** [Zar⭕on](https://x.com/Xaroon_x) | **Fonte:** [Link](https://x.com/Xaroon_x/status/2097267405399396457) | **Publicado:** Sep 8, 2026
-
----
-### Vídeo Narrativo de Gatos Antropomórficos Jogando Mahjong
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Um prompt de vídeo de cena contínua altamente detalhado, retratando um gato cowboy e um gato observador envolvidos em um jogo de Mahjong cômico e tenso, com temporização de sequência explícita e direções cinematográficas de múltiplos ângulos.
-
-#### 📝 Prompt
-
-```
-[Estilo] Vídeo curto engraçado de gatos antropomórficos com realismo de live-action. Os gatos mantêm pelos, rostos, bigodes, orelhas e almofadas das patas realistas. Seus corpos podem sentar-se eretos, cruzar os braços e manipular peças de mahjong como humanos, mas não devem se transformar em rostos, mãos ou corpos de desenho animado humanos. Iluminação interna suave, detalhes claros de pelos naturais, texturas de couro e reflexos de plástico nas peças de mahjong. O humor depende de ações, pausas e das reações dos dois gatos, evitando efeitos exagerados de desenho animado.
-[Duração] 10 segundos, tela vertical 9:16. Tomada única contínua durante todo o tempo em velocidade normal, sem cortes de close-up, sem câmera lenta.
-[Cena] Sala de mahjong doméstica moderna, paredes esbranquiçadas, pinturas decorativas simples, cortinas cinza-claras que vão do teto ao chão no canto traseiro direito, teto com sancas quadradas e iluminação embutida. O primeiro plano apresenta uma mesa de mahjong automática de camurça verde com uma moldura escura, revelando parte de um painel de controle circular no canto inferior esquerdo. As peças de mahjong têm versos azuis e faces brancas com padrões vermelhos, verdes e pretos. Algumas peças descartadas estão espalhadas no meio da mesa, e as fileiras de peças de outros jogadores estão alinhadas no lado próximo e nos lados esquerdo/direito. À frente do Gato Cowboy Ocidental há uma fileira de peças de mahjong alinhadas horizontalmente, com os versos azuis voltados para a câmera, obscurecendo os padrões internos. Ocasionalmente, mãos e antebraços humanos reais de outros jogadores aparecem na parte inferior e direita do quadro para comprar, descartar ou organizar as fileiras de peças sem mostrar os rostos.
-[Personagem 1: Gato Cowboy Sentado Jogando Mahjong] Emprega a figura do gato cinza-amarronzado da primeira imagem de referência. Ele senta-se em uma cadeira escura em frente à mesa de mahjong, posicionado no centro-direita, de frente para a câmera. A altura da mesa fica em torno do seu abdômen, permitindo que ambas as patas dianteiras se estendam naturalmente até a superfície da mesa. A aba do chapéu curva-se levemente para cima, mantendo os olhos claramente visíveis. A aura imita um mestre de expressão séria que acredita em habilidades superiores no jogo; quanto mais sofisticado o movimento, mais calma a expressão. Segura um cigarro na boca, exalando uma vibe descolada e desafiadora. Pegue apenas a aparência e o traje de cowboy da foto de referência; ele manipula apenas peças de mahjong e exclui armas, skates, textos de cartões de estatísticas ou outros equipamentos exibidos na foto de referência.
-[Personagem 2: Gato com Crachá em Pé Observando] Usa o gato malhado cinza-prateado da segunda imagem de referência: usa um cordão no pescoço com um porta-crachá transparente pendurado no peito. A foto de identificação do gato dentro do porta-crachá tem tamanho moderado e é reconhecível durante todo o tempo. O Gato com Crachá fica em pé atrás e ligeiramente à esquerda do Gato Cowboy, com a cabeça posicionada mais alta que a do gato sentado, expondo a parte superior do corpo. Na primeira metade, suas patas dianteiras cruzam sobre o peito, com o crachá aparecendo abaixo dos antebraços dobrados. Ele encara sem expressão os movimentos do Gato Cowboy com um olhar de escrutínio e desprezo, permanecendo quase imóvel para contrastar com os movimentos exibicionistas do Gato Cowboy.
-[Câmera e Composição] A câmera está do outro lado da mesa de mahjong, perto da altura dos olhos de um jogador sentado, filmando ligeiramente para baixo em direção ao tampo da mesa. A mesa de mahjong verde ocupa a metade inferior, enquanto os dois gatos ocupam a porção média-superior. O Gato Cowboy senta-se na frente, no centro-direita, e o Gato com Crachá fica em pé no fundo à esquerda, mantendo essa relação de primeiro plano e segundo plano. Grande angular leve de smartphone, filmado na mão com micro-tremores a partir de um ponto fixo. Os rostos de ambos os gatos, as patas do Gato Cowboy, a fileira completa de peças e o crachá do Gato com Crachá devem permanecer dentro do quadro o máximo possível. Sem movimentos de câmera (pan) ou zooms abruptos, usando a ação para criar impacto no final.
-[00:00–00:01.40] Seção de Ação 1:
-No início, o Gato Cowboy já está sentado, peito estufado, queixo levemente levantado, olhos semicerrados, projetando absoluta confiança. Ele primeiro estende sua pata dianteira direita rapidamente ao longo da mesa para a esquerda para empurrar uma peça de mahjong, depois a retrai. Subsequentemente, ambas as patas dianteiras pressionam as extremidades esquerda e direita da fileira de peças (todos os versos azuis voltados para fora) à sua frente, juntando-as suavemente para alinhar a fileira. O movimento é limpo e preciso, com os ombros mal se movendo, agindo com total controle. O Gato com Crachá observa atrás com os braços cruzados, rastreando os movimentos das patas apenas com os olhos, sem oferecer sorriso ou ajuda. À direita, uma mão humana real coloca uma peça no meio da mesa e retira-se rapidamente.
-Áudio: Estalo nítido das peças de mahjong, som ambiente leve da sala.
-[00:01.40–00:03.20] Seção de Ação 2:
-O Gato Cowboy pega uma peça de mahjong de verso azul da fileira. Sua pata dianteira esquerda abre-se através do peito e abdômen com a almofada da pata voltada para cima, formando um gesto de recepção. A pata dianteira direita pressiona a peça contra a pata esquerda, acariciando-a suavemente, mostrando uma expressão que implica que ele conhece a peça sem olhar. O Gato com Crachá permanece imóvel com os braços cruzados, olhos direcionados para baixo, encarando as patas que se esfregam.
-Áudio: Alguns sons de mahjong em ritmo acelerado: 'click, clack, snap'.
-[00:03.20–00:05.80] Seção de Ação 3:
-O Gato Cowboy agarra uma peça com a pata direita novamente, levanta-a da mesa e faz uma entrega de curta distância em direção à pata esquerda aberta. A peça vira rapidamente entre ambas as patas, depois é trazida de volta à mesa pela pata direita, batendo suavemente ao lado da fileira. Ele se inclina ligeiramente para frente, deslizando ambas as patas ao longo da camurça verde para as laterais de sua fileira de peças, alinhando o layout horizontal em uma linha reta novamente. Após terminar, ele pausa por meio tempo, levanta os olhos em direção à câmera, levanta o queixo e mantém uma expressão intencionalmente profunda, altamente confiante e calma. Mãos humanas reais à direita e na parte inferior da mesa continuam comprando e organizando peças normalmente, destacando o exibicionismo deliberado do Gato Cowboy. O Gato com Crachá abaixa a cabeça levemente com um olhar mais severo, mas mantém os braços cruzados.
-Áudio: Som suave de peças raspando na camurça, ruídos dispersos de toque nas peças; o áudio diminui durante a pausa para enfatizar seu comportamento de exibicionista.
-[00:05.80–00:07.70] Seção de Ação 4:
-O Gato Cowboy inclina o tronco para frente, estendendo a pata dianteira direita de sua frente em direção à parede de peças de verso azul no canto inferior esquerdo. A almofada da pata pressiona a peça mais externa, arrastando-a para fora da borda da parede e trazendo-a de volta ao longo da mesa. À medida que a pata direita retrai, seu corpo senta-se ereto novamente, mas ele deliberadamente inclina a cabeça para cima, olhando para o topo à direita, como se estivesse navegando sem precisar olhar. A pata esquerda descansa ao lado de sua fileira de peças, e a pata direita coloca a peça recém-comprada nas proximidades.
-Áudio: Um 'click' ao comprar uma peça, seguido por um breve e estranho silêncio.
-[00:07.70–00:08.65] Seção de Ação 5:
-Com uma expressão confiante, o Gato Cowboy faz um movimento como se declarasse uma mão vencedora (Mahjong Hu): ele estende ambas as patas dianteiras para as extremidades de sua fileira completa de peças, apertando a linha para dentro, tentando levantar e virar a fileira inteira simultaneamente. Seus cotovelos dobram e as patas levantam rapidamente, mas as peças do meio carecem de suporte, fazendo com que a fileira quebre instantaneamente a partir do centro. Algumas peças perto das patas levantam primeiro, enquanto várias peças do meio escorregam e caem sequencialmente; versos azuis e faces brancas alternam-se virando no ar, caindo de volta sobre o tampo da mesa verde. O erro acontece a uma altura muito curta acima da mesa; as peças colidem, quicam e viram em ângulos diferentes, espalhando-se em direção ao centro e às laterais, perturbando as peças descartadas próximas. A fileira ordenada transforma-se em caos total, embora a mesa em si não vire. As patas do Gato Cowboy congelam no ar, segurando brevemente a pose de exibição pretendida antes de perceber que suas patas estão vazias. A aura de mestre de expressão séria do Gato Cowboy desaparece instantaneamente, substituída por uma expressão ligeiramente constrangida.
-Áudio: Muda rapidamente de um único 'crack' de falha para um denso 'clatter, crash, pitter-patter', terminando com algumas peças quicando espalhadas.
-[00:08.65–00:09.25] Seção de Ação 6:
-O Gato Cowboy suspende as patas de forma desajeitada na frente do peito, primeiro olhando para as peças bagunçadas, depois virando lentamente a cabeça para olhar para o Gato com Crachá atrás dele. Suas orelhas achatam-se levemente para os lados, os olhos se arregalam e sua expressão muda de confiante para culpada. O Gato com Crachá olha para a mesa, depois para o Gato Cowboy, com os olhos estreitando-se levemente. Ele finalmente descruza as patas dianteiras, levantando uma do peito, com o cotovelo dobrado e a almofada da pata voltada para o topo do chapéu do Gato Cowboy. O crachá em seu peito balança suavemente com o movimento do braço. Uma breve pausa de confronto é mantida, permitindo que o público veja o Gato Cowboy percebendo que causou problemas primeiro.
-Áudio: Som suave da última peça se acomodando.
-[00:09.25–00:10.00] Seção de Ação 7:
-A pata dianteira levantada do Gato com Crachá atinge rapidamente de cima para baixo, dando um tapa firme no Gato Cowboy no topo do seu chapéu e na parte de trás da cabeça com sua almofada macia. A ação é curta e precisa, como um lembrete de desprezo pelo truque fracassado. O chapéu de cowboy voa com o impacto. O Gato Cowboy instantaneamente encolhe o pescoço, abaixa a cabeça e esquiva-se para o lado direito da tela, instintivamente levantando ambas as patas para bloquear o rosto e a aba do chapéu enquanto encolhe os ombros. Ele permanece sentado na cadeira, sem cair ou sair do quadro. A pata dianteira do Gato com Crachá estende-se diretamente seguindo o movimento, depois começa a retrair, seu rosto mantendo uma expressão séria e sem palavras durante todo o tempo; o crachá em seu peito balança suavemente com o golpe. As peças de mahjong espalhadas permanecem na mesa, e as mãos humanas reais de outros jogadores pausam brevemente pela borda.
-Áudio: Um 'smack' nítido.
-[Requisitos de Movimento e Consistência] Aquele que joga mahjong é sempre o Gato Cowboy Ocidental, e aquele que está em pé atrás observando e dando o tapa no final é sempre o Gato com Crachá; sem troca de posições, roupas ou identidades. O chapéu de cowboy, lenço, jaqueta de couro, listras de gato malhado e crachá permanecem contínuos e consistentes. A primeira metade destaca 'rosto frio, sentar firme, esfregar peças com estilo e olhar para cima como um mestre', enquanto a segunda metade destaca 'falha ao levantar a fileira de peças, peças de mahjong espalhadas, congelar com patas vazias, olhar para trás com culpa e levar um tapa na aba do chapéu'. O erro das peças deve acontecer antes da reação e do tapa do Gato com Crachá. As peças de mahjong são blocos retangulares espessos e rígidos com versos azuis e faces brancas, mostrando suporte claro ao tocar as patas e demonstrando gravidade, colisão e quique ao cair. As peças não clonam do nada, não se transformam em papel nem levitam por longos períodos. ID Card
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097247015583531008/img/xVlJohiOVf9IQ6cJ.jpg" width="600" alt="Vídeo Narrativo de Gatos Antropomórficos Jogando Mahjong">
-
-**[🎬 Assistir vídeo →](https://youmind.com/pt-PT/seedance-2-0-prompts?id=10559)**
-
-**Autor:** [探路AI](https://x.com/TanLuAI) | **Fonte:** [Link](https://x.com/TanLuAI/status/2097247939857101267) | **Publicado:** Sep 8, 2026
-
----
 ---
 
 ## 📚 Mais prompts disponíveis
@@ -5361,6 +5848,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-09-26T04:06:24.807Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-09-27T04:14:01.872Z</sub>
 
 </div>
