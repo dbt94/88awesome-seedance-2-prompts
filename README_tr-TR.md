@@ -68,9 +68,9 @@ Neden galerimizi kullanmalısınız?
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **6447** |
+| 📝 Toplam İstem | **6450** |
 | ⭐ Öne Çıkan İstemler | **6** |
-| 🔄 Son Güncelleme | **2026-09-29** |
+| 🔄 Son Güncelleme | **2026-09-30** |
 
 ---
 
@@ -361,6 +361,77 @@ Ultra gerçekçi, Hızlı ve Öfkeli esintili enerji, fotogerçekçi aydınlatma
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Lüks Saat Yapımı Reklam Videosu İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Dişli ve montaj yakın çekimlerini içeren sinematik, ultra gerçekçi bir lüks saat yapımı reklamı oluşturmak için detaylı bir istem.
+
+#### 📝 İstem
+
+```
+Sinematik, ultra gerçekçi bir lüks saat yapımı reklam videosu oluşturun. Karanlık, üst düzey bir atölyede deneyimli bir saatçinin karmaşık mekanik altın saati özenle monte ettiğini gösterin. Küçük dişliler, vidalar ve hareketli mekanizmaların yakın çekimleriyle başlayın, ardından ellerinin profesyonel aletlerle hassas bileşenleri tam olarak yerleştirdiğini gösterin. Tamamlanan saatin yavaşça cilalanıp bileğine takıldığını ortaya koyun. Bitmiş saatin ve hareketli mekanik dişlilerinin aşırı makro çekimiyle sonlandırın. Karanlık ve zarif aydınlatma, gerçekçi metal yansımaları, sığ alan derinliği, akıcı kamera hareketleri, detaylı el işçiliği, premium lüks reklam estetiği, fotogerçekçi 3D animasyon. Metin, logo veya filigran yok.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104757790166355968/img/d0xOimgJzLaG9Hem.jpg" width="600" alt="Lüks Saat Yapımı Reklam Videosu İstemi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11545)**
+
+**Yazar:** [Aynah](https://x.com/AynahhX) | **Kaynak:** [Link](https://x.com/AynahhX/status/2104757960425795714) | **Yayınlandı:** Sep 29, 2026
+
+---
+### Su Ateş Savaşçıları Dövüşü İçin Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Yıkık bir antik şehirde su savaşçısı ile ateş savaşçısı arasında geçen 15 saniyelik sinematik fantastik dövüş sahnesi için prompt.
+
+#### 📝 İstem
+
+```
+Gün batımında yıkık bir antik şehirde, dramatik altın renkli gökyüzü, yanan binalar, duman ve tahrip olmuş taş yapılarla 15 saniyelik sinematik bir fantastik dövüş sahnesi oluşturuldu. Güçlü mavi zırh giymiş koyu saçlı kadın savaşçı, soluk pembe saçlı ve küçük kırmızı boynuzlu azılı bir ateş savaşçısıyla yüzleşiyor. Mavi savaşçı parlayan devasa su dalgalarını kontrol ederken, ateş savaşçısı elleri ve vücudu etrafında yoğun turuncu alevler yaratıyor. İkisinin hızlı, dinamik dövüş hareketleriyle birbirlerine doğru hamle yaptığını, sihirli enerji izleri, uçan kıvılcımlar, duman ve enkaz parçalarıyla gösterin. Aksiyonu yakın çekim bir yüzleşmeden, her iki element gücünün savaş alanının merkezinde çarpıştığı geniş bir sinematik çekime doğru inşa edin. Devasa bir mavi su dalgasının, buhar, parlayan partiküller ve muhteşem bir enerji şok dalgası yaratan devasa bir ateş patlamasına çarpmasıyla bitirin. Gerçekçi sinematik aydınlatma, detaylı karakterler, akıcı kamera hareketleri, epik fantastik atmosfer, yüksek kaliteli VFX, dramatik derinlik alanı ve güçlü bir film fragmanı tarzı son kullanın.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104754359011840000/img/2nMLHjTAV9rXdUwk.jpg" width="600" alt="Su Ateş Savaşçıları Dövüşü İçin Prompt">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11547)**
+
+**Yazar:** [Maha](https://x.com/Aiwithmaha) | **Kaynak:** [Link](https://x.com/Aiwithmaha/status/2104754431434887271) | **Yayınlandı:** Sep 29, 2026
+
+---
+### Seedance 2.5 Hızlı Tekne Takla Videosu Promptu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir sürat teknesinin dev dalgalarla çarpışan ve yolcuları havaya fırlatan şişme botu çektiği sinematik bir hava videosu için detaylı prompt.
+
+#### 📝 İstem
+
+```
+Video Prompt 1 (0-10 saniye): Yüksek Hızda Çekim + Dev Dalgalar + Takla + Yüksek Fırlatma
+SÜRE: 2 Bölümden 1.'si (10 saniye) | EN BOY ORANI: 9:16 | STİL: Fotogerçekçi sinematik hava aksiyonu, 4K, 60fps, güçlü hareket bulanıklığı, tam yüksek hız temposu, yavaşlatılmış görüntü yok
+ÖZNE: Parlak sarı ve kırmızı renkli şişme bir bot rafting seti, hızlı beyaz bir sürat teknesine halatla bağlı. Turuncu can yelekleri giyen dört yetişkin, kollarını sıkıca kavrayarak bota binmiş, heyecandan gülüyor ve bağırıyorlar. Kristal berraklığında turkuaz tropikal okyanus.
+KAMERA: Yüksek irtifada sinematik bir drone çekimi, neredeyse dümdüz aşağı bakıyor, ardından alçalıp açısal olarak botun arkasından takip ediyor. Hızlı, akıcı hareketler ve yolcuları takip etmek için hızlı whip-tilt (ani dikey kaydırma) kullanımı. Kesintisiz tek bir çekim, kesme yok.
+IŞIKLANDIRMA: Parlak öğle vakti tropikal güneş ışığı, dalgalarda parlayan yansımalar, canlı doygun renkler, su sıçramalarında güneş parlaması.
+ZAMAN ÇİZELGESİ:
+0-3s: Yukarıdan bakıldığında, sürat teknesi aşırı hızla ileri atılıyor ve botu çekiyor. Her ikisinin de arkasında kalın beyaz izler bırakıyor. Yolcular gülüyor ve kollarını sıkıca tutuyor, saçları rüzgarda uçuşuyor ve bot suyun üzerinde sekerek ilerliyor.
+3-6s: Önlerinde birkaç metre yüksekliğinde, büyük ve hızlı akan okyanus dalgaları yükseliyor. Tekne bu dalgalardan geçerken, bot ilk dev dalgaya çarpıyor, kısa süreliğine havaya fırlıyor ve büyük su sıçramalarıyla tekrar suya düşüyor. Yolcular sevinçten bağırarak sıkıca tutunuyorlar.
+6-8s: Tekne, yükselen bir dalga tepesinden sert bir şekilde kesiyor. Bot, tam hızla tepeyi yakalıyor ve şiddetli bir şekilde takla atıyor.
+8-10s: Yolcular havaya son derece yüksek bir şekilde fırlatılıyor, takla atıyor ve dönüyor, kolları savruluyor. Kamera, onları parlak gökyüzüne karşı takip etmek için keskin bir şekilde yukarı tilt yapıyor. Segment, yolcular denizin çok üstünde yaylarının zirvesine doğru yükselirken sona eriyor.
+SES: Gürleyen sürat teknesi motoru, uğuldayan rüzgar, çarpan dalgalar, ağır su sıçramaları, halat gerilimi ve heyecanlı çığlıklar. Sadece doğal ambiyans, müzik yok.
+[Devamlılık Kilidi] Bot, aynı boyutta ve parlak sarı-kırmızı renklerde kalır; turuncu can yelekli aynı dört yolcu, tüm süreç boyunca aynı yüzleri, saçları ve kıyafetleriyle korunur. Tekne beyaz kalır ve aynı halat bağlantısını sürdürür. Turkuaz okyanus ve gündüz ışığı tutarlı kalır. Tam olarak bir bot, bir tekne ve dört yolcu vardır; kopyalama veya ekstra kişi yoktur. Kamerada kesme veya sahne değişikliği yapılmaz.
+[Ses Kilidi] Motor ve dalga ambiyansı sürekli çalışır ve hızla artar. Her su sıçraması ve çarpma görselle senkronize olur, sessiz boşluklar yoktur.
+[Fizik Kuralları] Gerçekçi yerçekimi ve su fiziği. Fırlatma, botun dalga tepesine çarpması ve takla atması sonucu gerçekleşir. Uçma, yaralanma, kanama veya ölüm içermez. Yolcular güvenli bir şekilde havada döner ve suya iner.
+NOT: Bu prompt, Seedance 2.5 modelinin yüksek dinamik hareket ve fizik simülasyonu yeteneklerini en iyi şekilde sergilemek için optimize edilmiştir.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104579217300049920/img/W_5AykCmdRVR5N1E.jpg" width="600" alt="Seedance 2.5 Hızlı Tekne Takla Videosu Promptu">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11538)**
+
+**Yazar:** [Abkr Sadiq | AI](https://x.com/abs_uiux) | **Kaynak:** [Link](https://x.com/abs_uiux/status/2104579354567000516) | **Yayınlandı:** Sep 28, 2026
+
+---
 ### Orta Çağ Savaşçı vs Şövalye Dövüşü Promptu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -5711,102 +5782,6 @@ Stil ve Parametreler: Fotogerçekçi 3D render, zarif estetik, yumuşak pastel r
 **Yazar:** [AIスタジオワンルーム（AIアニメ、動画、漫画）](https://x.com/studio_oneroom) | **Kaynak:** [Link](https://x.com/studio_oneroom/status/2098015859839234473) | **Yayınlandı:** Sep 10, 2026
 
 ---
-### Savaşçı ve İblis Canavar Savaşı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Terk edilmiş endüstriyel bir ortamda cesur bir savaşçının korkunç, devasa ve karanlık bir iblis canavarla yüzleşmesini konu alan epik bir fantastik sinematik istemi.
-
-#### 📝 İstem
-
-```
-Devasa kaslı uzuvlara, keskin kıvrımlı boynuzlara ve parlayan kırmızı gözlere sahip, korkunç ve devasa bir karanlık iblis canavarın, yalnız bir savaşçının üzerinde yükselerek agresif bir şekilde kükrediği ultra gerçekçi bir sinematik sahne oluşturun. Savaşçı, yaratığın önünde korkusuzca duruyor, silahını sıkıca kavrıyor ve savaşa hazırlanıyor. Sahneyi, karanlık ve kapalı bir gökyüzü altında, sis, toz, dramatik atmosferik ışıklandırma, gerçekçi gölgeler, detaylı yaratık derisi ve dokuları, yoğun aksiyon kompozisyonu, düşük açılı kamera, sinematik alan derinliği, fotogerçekçi CGI, 8K, HDR, yüksek detay seviyesi, epik fantastik film estetiği ve dikey 9:16 kompozisyon ile terk edilmiş endüstriyel bir spor sahasında kurgulayın.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097981027507736576/img/p61gt_Mq6dI8OXEv.jpg" width="600" alt="Savaşçı ve İblis Canavar Savaşı">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10699)**
-
-**Yazar:** [AIwithMinal](https://x.com/AIwithMinal) | **Kaynak:** [Link](https://x.com/AIwithMinal/status/2097981077029863798) | **Yayınlandı:** Sep 10, 2026
-
----
-### Kore Mahallesi Vlog Yürüyüşü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kore'deki bir yerleşim bölgesinde doğal bir yürüyüşü tasvir ederken karakter tutarlılığını korumak için referans görsel kullanan, detaylı bir vlog tarzı video istemi.
-
-#### 📝 İstem
-
-```
-REFERANS KURALI: @image yalnızca karakter kimliği referansıdır. Kızın göründüğü her sahnede @image kullanın. Yüz kimliğini, yüz yapısını, gözlerini, burnunu, dudaklarını, cilt tonunu, doğal yüz oranlarını ve tanınabilir saç stili özelliklerini tam olarak koruyun. Referans görselin orijinal pozunu, kıyafetini, arka planını, kompozisyonunu veya ışıklandırmasını kopyalamayın. Tüm ortamları, eylemleri, gardırobu ve sinematografiyi bu istemden oluşturun. STİL Ultra gerçekçi Kore günlük yaşam vlog'u, sinematik belgesel gerçekçiliği, dikey 9:16, 4K, 24fps. Doğal elde tutulan akıllı telefon kamerası, hafif gerçekçi kamera sarsıntısı, otantik Kore mahallesi atmosferi, gerçekçi alan derinliği, doğal cilt dokusu, hafif film greni. Günlük ve kurgulanmamış, asla parlak veya ticari değil. KARAKTER @image tabanlı genç Koreli kadın. Yumuşak dokulu ve birkaç dağınık tutamı olan omuz hizasında doğal dağınık koyu kahverengi saçlar, minimal doğal makyaj, gerçekçi cilt. Kıyafet: büyük beden açık mavi düğmeli gömlek, temiz beyaz tişört, rahat bej pantolon, beyaz spor ayakkabılar, küçük koyu renkli çapraz çanta. 30 saniye boyunca aynı yüzü, saçı, kıyafeti, aksesuarları, vücut oranlarını ve yaş görünümünü koruyun. ZAMAN ÇİZELGESİ 00–02s @image apartman girişini açar ve sessiz bir Kore yerleşim bölgesine adım atar. Çapraz çantasını düzeltir ve yürümeye başlar. Yakındaki binaların arasından yumuşak öğleden sonra gün ışığı düşer. 02–04s Yandan takip eden elde tutulan çekim. @image tuğla duvarlar, apartmanlar, saksı bitkileri, balkonlar, elektrik direkleri, park edilmiş bisikletler ve küçük Kore mahallesi tabelalarıyla dolu dar bir yerleşim sokağında yürür. 04–06s Küçük bir yerel dükkanın önünden geçer. Başını kısaca pencereye doğru çevirir, içeride ilginç bir şey fark eder, sonra önüne bakar ve doğal bir şekilde yürümeye devam eder. 06–08s Kaldırımda hareket eden beyaz spor ayakkabılarına odaklanan düşük sinematik açı. Ağaç dalları hareketli ışık ve gölge yamaları oluşturur. Gölgesi vücuduyla birlikte doğru şekilde hareket eder. 08–10s Bir apartman kapısının önünde saksı bitkilerini sulayan bir komşusunu fark eder. Hafifçe yavaşlar, nazik bir gülümseme ve baş selamıyla selamlaşır, sonra yürümeye devam eder. Etkileşimi gündelik ve abartısız tutun. 10–12s Bir otomatın önüne gelir. Soğuk şişe içecek seçen elinin yakın çekimi. Makine şişeyi doğal bir şekilde verir. Şişeyi alır ve yüzeyindeki yoğuşmayı kontrol eder. 12–15s İçeceği tutarak otomatın önünden uzaklaştığı orta takip çekimi. Yürürken şişeyi elinde nazikçe döndürür, güneş ışığı şeffaf plastikten doğal bir şekilde yansır. 15–17s İçeceğe bakar, sonra doğal bir şekilde dudaklarına götürür ve aynı yürüyüş temposunda ilerlemeye devam ederken küçük, ferahlatıcı bir yudum alır. 17–19s Yakın yan profil çekimi. Şişeyi indirir, hafifçe nefes verir ve küçük, memnun bir gülümseme atar. Hafif bir öğleden sonra esintisi saç tutamlarını ve gömleğinin ucunu hareket ettirir. 19–21s Küçük bir mahalle fırın-kafesinin önünden geçer. Cam pencereden basit hamur işleri, şişe içecekler ve günlük müşteriler görünür. Durmadan içeriye kısaca bakar. 21–23s Yapraklı bir ağacın altındaki küçük ahşap bir bankı fark eder. Yavaşlar ve çapraz çantasının askısını düzelterek ona doğru yürür. 23–25s Ağacın altındaki banka doğal bir şekilde oturur. İçeceği bir anlığına yanına koyar, omuzlarını gevşetir ve sessizce sokağa doğru bakar. 25–27s Şişeyi tekrar eline alır ve bir yudum daha içer. Yakın çekim; gerçekçi yoğuşmayı, parmakları, şişe tutuşunu, hafif yutkunmayı ve doğal yüz hareketlerini yakalar. 27–29s Karşıdan geçen arabalara ve yayalara bakar, sonra kendi kendine nazikçe gülümser. Güneş ışığı üzerindeki yaprakların arasından yumuşakça hareket eder. 29–30s Ayağa kalkar, çapraz çantasını alır ve ağaçlıklı mahallenin derinliklerine doğru yürümeye devam eder. Kamera arkadan ve hafif yandan yavaşça takip eder, o sokakta ilerledikçe çekim doğal bir şekilde sona erer. KAMERA & HAREKET Doğal elde tutulan akıllı telefon/belgesel sinematografisi. Hafif mikro sarsıntı, inandırıcı operatör hareketi, pürüzsüz yan takip, ara sıra düşük açı, orta yakın çekim ve nazik arkadan takip çekimi. Doğal odak geçişleri ve gerçekçi lens davranışı. İmkansız kamera hareketi, aşırı sabitleme, drone benzeri hareket veya ani coğrafi değişiklikler yok. IŞIKLANDIRMA & RENK Sadece öğleden sonra. Yumuşak nötr gün ışığı, hafif soğuk gölgeler, nazik sıcak vurgular, gerçekçi cilt tonları, soluk yeşiller, doğal beton ve tuğla renkleri, kısıtlı sinematik kontrast, hafif film greni. Sabah ışığı, gün doğumu, gün batımı, yoğun altın saat, turuncu ton, HDR, aşırı doygunluk, yapay parlama veya aşırı ışık süzmesi yok. FİZİKSEL GERÇEKÇİLİK Doğru yürüyüş ritmi ve ayak teması, gerçekçi kol sallanışı, doğru el-şişe etkileşimi, gerçekçi şişe ağırlığı, yoğuşma, yutkunma, saç hareketi, kumaş hareketi, gölgeler, yansımalar ve nesne sürekliliği. Çevresel unsurlar çekimden çekime mekansal olarak tutarlı kalır. SES Sadece doğal ortam sesi: kaldırımda ayak sesleri, uzaktan Kore trafiği, bisiklet zili, yaprak hışırtısı, sulama hortumu, otomat bip sesi, şişe verme sesi, şişe kapağı tıkırtısı, hafif yudumlama/yutkunma, kafe ambiyansı, yumuşak mahalle sesleri. Arka plan müziği yok, dış ses yok, diyalog yok.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097965463355756545/img/4Qu76GlINJHuYu0R.jpg" width="600" alt="Kore Mahallesi Vlog Yürüyüşü">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10697)**
-
-**Yazar:** [𝑨𝒇𝒓𝒊𝒏](https://x.com/afrinxai) | **Kaynak:** [Link](https://x.com/afrinxai/status/2097966053116752181) | **Yayınlandı:** Sep 10, 2026
-
----
-### Korku Anime Fragman Şablonu
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Seedance 2.0 için belirli çekim listeleriyle yüksek kaliteli 2D anime korku fragmanı oluşturmaya yönelik yapılandırılmış bir istem şablonu.
-
-#### 📝 İstem
-
-```
-[Ana Karakter] = Siyah saçlı kız
-[Partner/Hedef] = At kuyruklu anne
-[Mekan] = Bir evin içi
-[Anomali Hilesi] = TV ekranı
-
-[Video Stili]
-15 saniye. Japon tam renkli anime. 500 milyon yen bütçe ölçeğinde yüksek yoğunluklu 2D animasyon. Film fragmanı gibi hızlı kesmeler. Gözler, eller, ayaklar, sırt, yansımalar, geniş açılı çekimler ve hızlı yakınlaştırmalar arasında geçişler. Altyazı yok, filigran yok, arka plan müziği yok. Sesler arasında nefes alma, ortam gürültüsü, her kesme için kısa ses efektleri ve son bir replik yer alıyor.
-
-[Görsel Kompozisyon]
-[Mekan] ve [Hedef]'in anlamı, tamamen [Ana Karakter]'in bakış açısıyla değişir. [Anomali Hilesi] her çekimi birbirine bağlamak için kullanılır ve sonunda 'izleyen' ile 'izlenen' rolleri yer değiştirir.
-
-[Çekim 1: Tek Göz Kancası]
-[Ana Karakter]'in ekranı dolduran gözlerinden birinin yakın planı. [Mekan] göz bebeğine yansır. [Anomali Hilesi] gözün derinliklerinde hareket eder.
-
-[Çekim 2: Ayaklar]
-[Mekan]'ın zemini. Tek bir ayak sesi. Ayaklar ışığa ve gölgeye basar.
-
-[Çekim 3: Eller]
-[Ana Karakter]'in eli hafifçe hareket eder. Bir şeyi yakalamadan hemen önce durur.
-
-[Çekim 4: Hedef]
-[Hedef] sadece bir anlığına gösterilir. Sığ odak, yüzü veya tüm vücudu çok net göstermez.
-
-[Çekim 5: Yansıma]
-[Ana Karakter] bir aynada, pencerede, akıllı telefonda, metalde veya göz yansımasında görünür. Gerçekteki konum ile yansımadaki konum biraz farklıdır.
-
-[Çekim 6: Geniş Açı]
-[Mekan]'ın tamamının kısa bir gösterimi. [Ana Karakter]'in nerede olduğunun belirsiz olduğu bir kompozisyon.
-
-[Çekim 7: Yaklaşım]
-Hızlı yakınlaştırma. [Anomali Hilesi] doğrudan [Hedef]'in yanında belirir.
-
-[Çekim 8: Tersine Dönüş]
-Kamera arkaya bakıyormuş gibi yüksek hızlı bir pan çekimi. [Ana Karakter] orada sessizce durmaktadır.
-
-[Çekim 9: Sabit Bakış]
-[Ana Karakter] kameraya dik dik bakar. Hareket etmez. Sadece arka plan hafifçe titrer.
-
-[Çekim 10: Son Replik]
-[Ana Karakter] kısaca 'Başından beri izliyordum' der. Son kare, gözlerden birinin yakın planına geri döner ve biter.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094091613106757632/img/EOm3U04viJUVt5D5.jpg" width="600" alt="Korku Anime Fragman Şablonu">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10639)**
-
-**Yazar:** [妖精アーヤ](https://x.com/aiehon_aya) | **Kaynak:** [Link](https://x.com/aiehon_aya/status/2097882765026840629) | **Yayınlandı:** Sep 10, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -5868,6 +5843,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-29T00:34:53.651Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-30T04:28:59.552Z</sub>
 
 </div>

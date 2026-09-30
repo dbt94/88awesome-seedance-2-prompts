@@ -68,9 +68,9 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **6447** |
+| 📝 Total Prompts | **6450** |
 | ⭐ Featured Prompts | **6** |
-| 🔄 Last Updated | **2026-09-29** |
+| 🔄 Last Updated | **2026-09-30** |
 
 ---
 
@@ -365,11 +365,82 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 
 > 📝 Sorted by publish date (newest first)
 
-### Medieval Warrior vs Knight Battle Prompt
+### Luxury Watchmaking Commercial Video Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for an ultra-realistic cinematic medieval battle scene featuring a female warrior in ivory dress fighting an armored knight, optimized for vertical 9:16 composition in Seedance 2.0.
+> A detailed prompt for generating a cinematic, ultra-realistic luxury watchmaking commercial featuring close-ups of gears and assembly.
+
+#### 📝 Prompt
+
+```
+Create a cinematic, ultra-realistic luxury watchmaking commercial. Show a skilled watchmaker in a dark premium workshop carefully assembling an intricate mechanical gold watch. Start with close-ups of tiny gears, screws and moving mechanisms, then show his hands precisely placing the delicate components with professional tools. Slowly reveal the complete watch being polished and placed on his wrist. End with an extreme macro shot of the finished watch and its moving mechanical gears. Dark elegant lighting, realistic metal reflections, shallow depth of field, smooth camera movement, detailed craftsmanship, premium luxury advertisement aesthetic, photorealistic 3D animation. No text, logos or watermark.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104757790166355968/img/d0xOimgJzLaG9Hem.jpg" width="600" alt="Luxury Watchmaking Commercial Video Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11545)**
+
+**Author:** [Aynah](https://x.com/AynahhX) | **Source:** [Link](https://x.com/AynahhX/status/2104757960425795714) | **Published:** Sep 29, 2026
+
+---
+### Water vs Fire Warrior Battle Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for a 15-second cinematic fantasy battle scene between a water warrior and a fire warrior in a ruined ancient city.
+
+#### 📝 Prompt
+
+```
+Created a 15-second cinematic fantasy battle scene in a ruined ancient city at sunset, with dramatic golden skies, burning buildings, smoke, and destroyed stone structures. A powerful blue-clad female warrior with dark hair faces a fierce female fire warrior with pale pink hair and small red horns. The blue warrior controls massive waves of glowing water while the fire warrior creates intense orange flames around her hands and body. Show them charging toward each other with fast, dynamic combat movements, magical energy trails, flying sparks, smoke, and debris. Build the action from a close-up confrontation into a wide cinematic shot of both elemental powers colliding in the center of the battlefield. End with an enormous blue water wave crashing against a giant fire explosion, creating steam, glowing particles, and a spectacular energy shockwave. Use realistic cinematic lighting, detailed characters, smooth camera movement, epic fantasy atmosphere, high-quality VFX, dramatic depth of field, and a powerful movie-trailer style ending.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104754359011840000/img/2nMLHjTAV9rXdUwk.jpg" width="600" alt="Water vs Fire Warrior Battle Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11547)**
+
+**Author:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2104754431434887271) | **Published:** Sep 29, 2026
+
+---
+### Seedance 2.5 High-Speed Boat Flip Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for generating a cinematic aerial video of a speedboat pulling an inflatable tube raft that hits giant waves and flips the riders into the air.
+
+#### 📝 Prompt
+
+```
+Video Prompt 1 (0-10 seconds): High-Speed Pull + Giant Waves + Flip + High Launch
+DURATION: Part 1 of 2 (10 seconds) | ASPECT RATIO: 9:16 | STYLE: Photorealistic cinematic aerial action, 4K, 60fps, strong motion blur, full high-speed pace, no slow motion
+SUBJECT: A bright yellow and red inflatable tube raft, tethered by a tow rope to a fast white speedboat. Four adults in orange life jackets ride the raft, gripping the handles tightly, laughing and screaming with excitement. Crystal-clear turquoise tropical ocean.
+CAMERA: A cinematic drone shot at high altitude, looking almost straight down, then dropping lower and tracking the raft from behind at an angle. Fast, smooth movement with fast whip-tilts to follow the riders. One continuous shot, no cuts.
+LIGHTING: Bright midday tropical sunlight, sparkling reflections on the waves, vivid saturated colors, sun glare on the water spray.
+TIMELINE:
+0-3s: From above, the speedboat roars forward, pulling the raft at extreme speed. Thick white wakes trail behind both. The riders laugh and grip the handles, hair whipping in the wind, and the raft skips over the water.
+3-6s: Huge, fast-rolling ocean waves, several meters tall, rise ahead. The boat carves through them and the raft slams into the first giant wave, launching briefly into the air and crashing back down with massive spray. The riders cling on, screaming with joy.
+6-8s: The boat cuts hard across a towering wave crest. The raft catches the peak at full speed and flips violently.
+8-10s: The riders are catapulted extremely high into the air, tumbling and spinning, arms flailing. The camera tilts up sharply to track them against the bright sky. End the segment as the riders climb toward the top of their arc, high above the sea.
+SOUND: A roaring speedboat engine, rushing wind, crashing waves, heavy splashes, rope tension, and excited screams. Natural ambience only, no music.
+[Continuity Lock] The raft stays bright yellow and red and the same size, with the same four riders in orange life jackets, all keeping the same faces, hair, and outfits throughout. The boat stays white, with the same tow rope connection. The turquoise ocean and daylight stay consistent. There is exactly one raft, one boat, and four riders, with no duplicates and no extra people. The camera makes no cuts or scene changes.
+[Sound Lock] The engine and wave ambience run continuously and build with the speed. Each splash and impact syncs to the visual, and there are no silent gaps.
+[Physics Rules] Realistic gravity and water physics. The launch is caused by the raft hitting the wave crest and flipping, with no flying or anti-gravity. This is a playful water-sport ride with no injuries, no blood, and no distress.
+NEGATIVE: No cartoon look, no slow motion, no cuts, no duplicated riders or rafts, no distorted or extra limbs, no changed clothing or colors, no floating bodies, no unrealistic water
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104579217300049920/img/W_5AykCmdRVR5N1E.jpg" width="600" alt="Seedance 2.5 High-Speed Boat Flip Video Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11538)**
+
+**Author:** [Abkr Sadiq | AI](https://x.com/abs_uiux) | **Source:** [Link](https://x.com/abs_uiux/status/2104579354567000516) | **Published:** Sep 28, 2026
+
+---
+### Medieval Woman Warrior Battle Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for an ultra-realistic cinematic medieval battle scene featuring a woman in an ivory dress fighting an armored knight.
 
 #### 📝 Prompt
 
@@ -377,18 +448,18 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 Ultra-realistic cinematic medieval battle scene, a brave young woman warrior in an elegant flowing ivory medieval dress with black fitted sleeves, standing on an ancient stone courtyard while fighting a heavily armored knight wielding a large medieval mace. Dynamic combat pose, realistic steel armor reflections, detailed fabric movement, dramatic overhead camera angle, intense action, historical European castle setting, cinematic lighting, realistic skin and hair, atmospheric depth, subtle motion blur, highly detailed textures, epic fantasy atmosphere, photorealistic, HDR, 8K, professional film still, shallow depth of field, vertical 9:16 composition.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104442940575924224/img/Wc3lyQr_BLSu0cxX.jpg" width="600" alt="Medieval Warrior vs Knight Battle Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104442940575924224/img/Wc3lyQr_BLSu0cxX.jpg" width="600" alt="Medieval Woman Warrior Battle Prompt">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11481)**
 
 **Author:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2104443130758013027) | **Published:** Sep 28, 2026
 
 ---
-### Cute Cat Kitchen Disaster Cartoon Prompt
+### Cute Cat Kitchen Disaster Animation
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for a cinematic cartoon-style video featuring a woman and a cat causing a kitchen disaster, designed for Seedance 2.0 with consistency constraints.
+> A prompt for a cinematic cartoon-style video featuring a woman and a cat causing a funny kitchen disaster with flour and food flying everywhere.
 
 #### 📝 Prompt
 
@@ -396,18 +467,18 @@ Ultra-realistic cinematic medieval battle scene, a brave young woman warrior in 
 Created a video, a cinematic cartoon-style kitchen story featuring a curly red-haired woman and a cute fluffy gray cat in a warm, cozy home kitchen. The video begins with the woman entering the kitchen while the curious gray cat stays nearby, creating a playful and innocent atmosphere. The camera then moves closer to the cat as it reaches toward a button on the kitchen counter with its tiny paw. Suddenly, a funny kitchen mishap begins, filling the room with clouds of flour and food flying through the air. The woman reacts with surprise as the cat remains at the center of the chaos, making the scene humorous and energetic. Show dynamic camera movements, expressive facial reactions, detailed character animation, and natural body movement throughout the sequence. Gradually reveal the messy kitchen with flour, food, and ingredients scattered across the counters and floor. End with the woman and the cat sitting together in the messy kitchen, looking innocent and confused after the hilarious disaster. Keep the same characters, appearance, hairstyle, clothing, kitchen environment, lighting, and visual style consistent from beginning to end, with polished cinematic cartoon-quality animation.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104431020124815360/img/imqTdC50LF1U_vpi.jpg" width="600" alt="Cute Cat Kitchen Disaster Cartoon Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104431020124815360/img/imqTdC50LF1U_vpi.jpg" width="600" alt="Cute Cat Kitchen Disaster Animation">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11480)**
 
 **Author:** [liana](https://x.com/Lianaalane) | **Source:** [Link](https://x.com/Lianaalane/status/2104431076089414068) | **Published:** Sep 28, 2026
 
 ---
-### Dark Fantasy Dragon Fossil Awakening Prompt
+### Underground Dragon Skeleton Awakening
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed 15-second dark fantasy prompt for Seedance 2.0 Fast involving explorers discovering a fossilized dragon skeleton that begins to 'wake up' physically without magical transformation.
+> A 15-second photorealistic dark fantasy prompt where explorers discover a fossilized dragon skeleton that begins to beat like a heart.
 
 #### 📝 Prompt
 
@@ -425,18 +496,18 @@ Created a video, a cinematic cartoon-style kitchen story featuring a curly red-h
 CUT TO BLACK.  Sound: cavern ambience, increasingly powerful heartbeats resonating through bone, falling grit, grinding fossilized joints, final enormous breath.  Photorealistic and physically grounded. The dragon remains a fossilized skeleton throughout - no flesh regeneration, transformation, magical glow or fire. Keep exactly two explorers and one consistent skeleton. Real bone weight, dust and rock interaction. No extra limbs, changing anatomy, glowing eyes, fantasy particles or CGI look.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104413921100570624/img/5S5spIm_GjV4SABc.jpg" width="600" alt="Dark Fantasy Dragon Fossil Awakening Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104413921100570624/img/5S5spIm_GjV4SABc.jpg" width="600" alt="Underground Dragon Skeleton Awakening">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11479)**
 
 **Author:** [DeCat](https://x.com/DeCat2025) | **Source:** [Link](https://x.com/DeCat2025/status/2104414219047166049) | **Published:** Sep 28, 2026
 
 ---
-### Cinematic Female Superhero Battle Video Prompt
+### Futuristic Superhero Battle Sequence Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt for generating a 31-second ultra-realistic cinematic action sequence featuring a female superhero in futuristic armor fighting a monster in a destroyed city, created with Seedance 2.0.
+> A complex prompt for a 31-second ultra-realistic cinematic action sequence featuring a female superhero with mechanical wings fighting a monster in a destroyed city.
 
 #### 📝 Prompt
 
@@ -444,7 +515,7 @@ CUT TO BLACK.  Sound: cavern ambience, increasingly powerful heartbeats resonati
 Create a 31-second ultra-realistic cinematic action sequence set in a destroyed modern city, featuring a powerful female superhero in a sleek black futuristic armored suit with glowing red details, running through a city street as a massive explosion erupts behind her, then transition into a dark urban passage where she moves at high speed with dramatic camera tracking, powerful mechanical wings emerging from her armor as she prepares for battle, followed by intense close-up shots of her fighting a huge monstrous creature with glowing red eyes and massive strength, show fast aerial movements, powerful punches, kicks, sparks, smoke, flying debris and realistic impact effects, then capture her flying through the city with large black mechanical wings glowing with red energy before landing dramatically on the damaged road, maintain consistent character appearance, armor design, face, wings and creature throughout the entire video, with dark blue cinematic lighting, red highlights, realistic destruction, dynamic camera movement, dramatic slow motion moments, detailed textures, volumetric smoke, cinematic depth of field and high-end Hollywood-style visual effects, ending with the superhero standing firmly in the destroyed city as smoke and debris move around her.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2104389789583810560/img/Nwu4qrlYAxzqERN0.jpg" width="600" alt="Cinematic Female Superhero Battle Video Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104389789583810560/img/Nwu4qrlYAxzqERN0.jpg" width="600" alt="Futuristic Superhero Battle Sequence Prompt">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11477)**
 
@@ -5735,102 +5806,6 @@ Style & Parameters: Photorealistic 3D rendering, elegant aesthetic, soft pastel 
 **Author:** [AIスタジオワンルーム（AIアニメ、動画、漫画）](https://x.com/studio_oneroom) | **Source:** [Link](https://x.com/studio_oneroom/status/2098015859839234473) | **Published:** Sep 10, 2026
 
 ---
-### Warrior vs Demonic Monster Battle
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An epic fantasy cinematic prompt depicting a brave warrior confronting a terrifying giant dark demonic monster in an abandoned industrial setting.
-
-#### 📝 Prompt
-
-```
-Create an ultra-realistic cinematic scene of a terrifying giant dark demonic monster with massive muscular limbs, sharp curved horns and glowing red eyes, roaring aggressively while towering over a lone warrior. The warrior stands fearlessly in front of the creature, gripping a weapon and preparing for battle. Set the scene in an abandoned industrial sports field under a dark overcast sky, with mist, dust, dramatic atmospheric lighting, realistic shadows, detailed creature skin and textures, intense action composition, low-angle camera, cinematic depth of field, photorealistic CGI, 8K, HDR, highly detailed, epic fantasy movie aesthetic, vertical 9:16 composition.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097981027507736576/img/p61gt_Mq6dI8OXEv.jpg" width="600" alt="Warrior vs Demonic Monster Battle">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10699)**
-
-**Author:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2097981077029863798) | **Published:** Sep 10, 2026
-
----
-### Korean Neighborhood Vlog Walk
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed vlog-style video prompt that uses a reference image to maintain character consistency while depicting a natural walk through a Korean residential neighborhood.
-
-#### 📝 Prompt
-
-```
-REFERENCE RULE: @image is the character identity reference only. Use @image every time the girl is visible. Preserve her exact facial identity, facial structure, eyes, nose, lips, skin tone, natural facial proportions, and recognizable hairstyle characteristics. Do not copy the reference image’s original pose, clothing, background, composition, or lighting. Generate all environments, actions, wardrobe, and cinematography from this prompt. STYLE Ultra-realistic Korean daily-life vlog, cinematic documentary realism, vertical 9:16, 4K, 24fps. Natural handheld smartphone camera, subtle realistic camera shake, authentic Korean neighborhood atmosphere, realistic depth of field, natural skin texture, subtle film grain. Everyday and unstaged, never glossy or commercial. CHARACTER Young Korean woman based on @image. Shoulder-length naturally messy dark-brown hair with soft texture and a few loose strands, minimal natural makeup, realistic skin. Outfit: oversized pale-blue button-up shirt, clean white T-shirt, relaxed beige trousers, white sneakers, small dark crossbody bag. Keep the same face, hair, outfit, accessories, body proportions, and age appearance throughout all 30 seconds. TIMELINE 00–02s @image opens her apartment entrance and steps outside into a quiet Korean residential neighborhood. She adjusts her crossbody bag and begins walking. Soft afternoon daylight falls between nearby buildings. 02–04s Side-following handheld shot. @image walks through a narrow residential lane with brick walls, apartment buildings, potted plants, balconies, utility poles, parked bicycles, and small Korean neighborhood signs. 04–06s She passes a small local shop. She briefly turns her head toward the window, notices something interesting inside, then looks forward and keeps walking naturally. 06–08s Lower cinematic angle focused on her white sneakers moving across the pavement. Tree branches cast moving patches of light and shadow. Her shadow moves correctly with her body. 08–10s She notices a neighbor watering potted plants outside an apartment doorway. She slows slightly, exchanges a subtle polite smile and nod, then continues walking. Keep the interaction casual and understated. 10–12s She arrives at a vending machine. Close-up of her hand selecting a cold bottled drink. The machine dispenses the bottle naturally. She picks it up and checks the condensation on the surface. 12–15s Medium tracking shot as she walks away from the vending machine holding the drink. She gently rotates the bottle in her hand while walking, sunlight reflecting naturally through the transparent plastic. 15–17s She glances down at the drink, then raises it naturally toward her lips and takes a small refreshing sip while continuing forward at the same walking pace. 17–19s Close side-profile shot. She lowers the bottle, exhales softly, and gives a tiny satisfied smile. A light afternoon breeze moves loose strands of hair and the hem of her shirt. 19–21s She passes a small neighborhood bakery-café. Through the glass window, simple pastries, bottled drinks, and everyday customers are visible. She briefly looks inside without stopping. 21–23s She notices a small wooden public bench beneath a leafy tree. She slows down and walks toward it, casually adjusting her crossbody strap. 23–25s She sits naturally on the bench beneath the tree. She places the drink beside her for a moment, relaxes her shoulders, and looks quietly toward the street. 25–27s She picks the bottle back up and takes another short sip. Close-up captures realistic condensation, fingers, bottle grip, subtle swallowing, and natural facial movement. 27–29s She looks across the street at passing cars and pedestrians, then gently smiles to herself. Sunlight moves softly through the leaves above her. 29–30s She stands, picks up her crossbody bag, and resumes walking deeper into the tree-lined neighborhood. Camera slowly follows from behind and slightly to the side, ending naturally as she moves farther down the street. CAMERA & MOTION Natural handheld smartphone/documentary cinematography. Subtle micro-shake, believable operator movement, smooth side tracking, occasional low angle, medium close-up, and gentle rear-following shot. Natural focus pulls and realistic lens behavior. No impossible camera movement, excessive stabilization, drone-like motion, or abrupt geography changes. LIGHTING & COLOR Afternoon only. Soft neutral daylight, slightly cool shadows, gentle warm highlights, realistic skin tones, muted greens, natural concrete and brick colors, restrained cinematic contrast, subtle film grain. No morning light, sunrise, sunset, heavy golden hour, orange cast, HDR, oversaturation, artificial bloom, or excessive glow. PHYSICAL REALISM Accurate walking rhythm and foot contact, realistic arm swing, correct hand-to-bottle interaction, realistic bottle weight, condensation, swallowing, hair movement, fabric movement, shadows, reflections, and object permanence. Environmental elements remain spatially consistent from shot to shot. AUDIO Natural location sound only: footsteps on pavement, distant Korean traffic, bicycle bell, leaves rustling, watering hose, vending-machine beep, bottle dispensing sound, bottle cap click, subtle sipping/swallowing, café ambience, soft neighborhood sounds. No background music, no narration, no dialogue.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097965463355756545/img/4Qu76GlINJHuYu0R.jpg" width="600" alt="Korean Neighborhood Vlog Walk">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10697)**
-
-**Author:** [𝑨𝒇𝒓𝒊𝒏](https://x.com/afrinxai) | **Source:** [Link](https://x.com/afrinxai/status/2097966053116752181) | **Published:** Sep 10, 2026
-
----
-### Horror Mystery Trailer Template
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A versatile template for generating high-density 2D anime movie trailers with a focus on horror and mystery themes, utilizing rapid cuts and specific shot compositions.
-
-#### 📝 Prompt
-
-```
-[Main Character] = Girl with black hair
-[Target/Other] = Mother with a ponytail
-[Setting] = Inside the house
-[Anomaly Gimmick] = TV screen
-
-[Video Style]
-15 seconds. Japanese full-color anime. High-density 2D animation on a 500 million yen budget scale. Fast cuts like a trailer. Alternates between eyes, hands, feet, back, reflections, wide-angle pulls, and rapid push-ins. No subtitles, no watermarks, no BGM. Sounds are breathing, environmental noise, short sound effects per cut, and a final line.
-
-[Visual Composition]
-The meaning of the [Setting] and [Target/Other] changes based only on the [Main Character]'s perspective. Use the [Anomaly Gimmick] as a transition for each shot, ending with a reversal between the "observer" and the "observed."
-
-[Shot 1: Single Eye Hook]
-A close-up of the [Main Character]'s single eye filling the screen. The [Setting] is reflected in the pupil. The [Anomaly Gimmick] crosses deep within the eye.
-
-[Shot 2: Feet]
-The floor of the [Setting]. A single footstep. Only the feet step on light or shadows.
-
-[Shot 3: Hands]
-The [Main Character]'s hand moves slightly, stopping just before grabbing something.
-
-[Shot 4: Target]
-The [Target/Other] appears for a brief moment. Shallow focus, not showing too much of the face or whole body.
-
-[Shot 5: Reflection]
-The [Main Character] is reflected in mirrors, windows, smartphones, metal, or pupils. The physical position and reflection position differ slightly.
-
-[Shot 6: Wide Angle Pull]
-Briefly show the entire [Setting]. A composition where it's unclear where the [Main Character] is located.
-
-[Shot 7: Approach]
-Rapid push-in. The [Anomaly Gimmick] appears very close to the [Target/Other].
-
-[Shot 8: Reversal]
-High-speed pan as if the camera is looking back. The [Main Character] is standing there quietly.
-
-[Shot 9: Fixed Gaze]
-The [Main Character] stares at the camera. Still. Only the background sways slightly.
-
-[Shot 10: Final Line]
-The [Main Character] says shortly, "I was watching from the start." The last frame returns to the single eye close-up to end.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094091613106757632/img/EOm3U04viJUVt5D5.jpg" width="600" alt="Horror Mystery Trailer Template">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10639)**
-
-**Author:** [妖精アーヤ](https://x.com/aiehon_aya) | **Source:** [Link](https://x.com/aiehon_aya/status/2097882765026840629) | **Published:** Sep 10, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -5892,6 +5867,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-29T00:34:33.171Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-30T04:28:38.703Z</sub>
 
 </div>

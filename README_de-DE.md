@@ -68,9 +68,9 @@ Warum unsere Galerie nutzen?
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **6447** |
+| 📝 Gesamtanzahl Prompts | **6450** |
 | ⭐ Ausgewählte Prompts | **6** |
-| 🔄 Zuletzt aktualisiert | **2026-09-29** |
+| 🔄 Zuletzt aktualisiert | **2026-09-30** |
 
 ---
 
@@ -361,6 +361,77 @@ Ultra-realistisch, inspiriert von der Energie von Fast and Furious, fotorealisti
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Luxuriöse Uhrenherstellung: Video-Prompt für Werbespot
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Prompt zur Erstellung eines kinoreifen, ultra-realistischen Werbespots über die luxuriöse Uhrmacherei mit Nahaufnahmen von Zahnrädern und Montage.
+
+#### 📝 Prompt
+
+```
+Erstellen Sie einen kinoreifen, ultra-realistischen Werbespot für luxuriöse Uhrmacherei. Zeigen Sie einen erfahrenen Uhrmacher in einer dunklen Premium-Werkstatt, der sorgfältig eine komplexe mechanische Golduhr zusammenbaut. Beginnen Sie mit Nahaufnahmen winziger Zahnräder, Schrauben und beweglicher Mechanismen, bevor seine Hände präzise die empfindlichen Komponenten mit professionellem Werkzeug einsetzen. Enthüllen Sie langsam die vollständige Uhr, wie sie poliert und an seinem Handgelenk angelegt wird. Beenden Sie den Spot mit einer extremen Makroaufnahme der fertigen Uhr und ihrer sich bewegenden mechanischen Zahnräder. Dunkle, elegante Beleuchtung, realistische Metallreflexionen, geringe Schärfentiefe, sanfte Kamerabewegungen, detailreiche Handwerkskunst, ästhetischer Look einer Premium-Luxuswerbung, fotorealistische 3D-Animation. Kein Text, keine Logos oder Wasserzeichen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104757790166355968/img/d0xOimgJzLaG9Hem.jpg" width="600" alt="Luxuriöse Uhrenherstellung: Video-Prompt für Werbespot">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11545)**
+
+**Autor:** [Aynah](https://x.com/AynahhX) | **Quelle:** [Link](https://x.com/AynahhX/status/2104757960425795714) | **Veröffentlicht:** Sep 29, 2026
+
+---
+### Wasser- vs. Feuer-Krieger: Schlacht-Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt für eine 15-sekündige cineastische Fantasy-Schlachtszene zwischen einem Wasser- und einem Feuerkrieger in einer zerstörten antiken Stadt.
+
+#### 📝 Prompt
+
+```
+Erstelle eine 15-sekündige cineastische Fantasy-Schlachtszene in einer zerstörten antiken Stadt bei Sonnenuntergang, mit dramatischen goldenen Himmeln, brennenden Gebäuden, Rauch und eingestürzten Steinstrukturen. Eine mächtige blau gekleidete Kriegerin mit dunklen Haaren stellt sich einer wilden Feuerkriegerin mit hellrosa Haaren und kleinen roten Hörnern gegenüber. Die blaue Kriegerin kontrolliert gewaltige Wellen aus leuchtendem Wasser, während die Feuerkriegerin intensive orangefarbene Flammen um ihre Hände und ihren Körper erzeugt. Zeige sie im schnellen, dynamischen Kampf aufeinander zulaufend, mit magischen Energiespuren, fliegenden Funken, Rauch und Trümmern. Baue die Action von einer Nahaufnahme der Konfrontation zu einer weiten cineastischen Aufnahme auf, in der beide Elementarkräfte in der Mitte des Schlachtfelds kollidieren. Beende die Szene damit, dass eine riesige blaue Wasserwelle gegen eine gigantische Feuerexplosion prallt, was Dampf, leuchtende Partikel und eine spektakuläre Energieschockwelle erzeugt. Verwende realistisches cineastisches Lichting, detaillierte Charaktere, sanfte Kamerabewegungen, epische Fantasy-Atmosphäre, hochwertige VFX, dramatische Tiefenschärfe und ein kraftvolles Ende im Stil eines Filmtrailers.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104754359011840000/img/2nMLHjTAV9rXdUwk.jpg" width="600" alt="Wasser- vs. Feuer-Krieger: Schlacht-Prompt">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11547)**
+
+**Autor:** [Maha](https://x.com/Aiwithmaha) | **Quelle:** [Link](https://x.com/Aiwithmaha/status/2104754431434887271) | **Veröffentlicht:** Sep 29, 2026
+
+---
+### Seedance 2.5 High-Speed Boat Flip Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Prompt zur Generierung eines cineastischen Drohnenvideos von einem Schnellboot, das ein aufblasbares Schlauchboot zieht, welches auf riesige Wellen trifft und die Insassen in die Luft schleudert.
+
+#### 📝 Prompt
+
+```
+Video-Prompt 1 (0-10 Sekunden): Hochgeschwindigkeitszug + Riesige Wellen + Überschlag + Hoher Abwurf
+DAUER: Teil 1 von 2 (10 Sekunden) | SEITENVERHÄLTNIS: 9:16 | STIL: Fotorealistische cineastische Drohnen-Aktionsaufnahme, 4K, 60fps, starke Bewegungsunschärfe, hohes Tempo, keine Zeitlupe
+SUBJEKT: Ein helles gelb-rotes aufblasbares Schlauchboot, das durch ein Abschleppseil an einem schnellen weißen Schnellboot befestigt ist. Vier Erwachsene in orangefarbenen Schwimmwesten sitzen im Boot, klammern sich fest an den Griffen, lachen und schreien vor Aufregung. Kristallklares türkisfarbenes tropisches Meer.
+KAMERA: Eine cineastische Drohnenaufnahme aus großer Höhe, fast senkrecht nach unten blickend, dann absinkend und das Boot aus einer hinteren Perspektive verfolgend. Schnelle, flüssige Bewegung mit schnellen Schwenks, um die Insassen zu verfolgen. Eine kontinuierliche Aufnahme, keine Schnitte.
+BELEUCHTUNG: Helles tropisches Mittagssonnenlicht, funkelnde Reflexionen auf den Wellen, lebendige gesättigte Farben, Sonnenblendung auf dem Wassersprühnebel.
+ZEITACHSE:
+0-3s: Von oben gesehen rast das Schnellboot vorwärts und zieht das Boot mit extremer Geschwindigkeit. Dicke weiße Kielwasser-Spuren folgen beiden. Die Insassen lachen und halten sich fest, ihre Haare wehen im Wind, und das Boot springt über das Wasser.
+3-6s: Riesige, schnell rollende Ozeanwellen, mehrere Meter hoch, erheben sich voraus. Das Boot schneidet durch sie hindurch, und das Schlauchboot kracht gegen die erste Riesenwelle, wird kurz in die Luft geschleudert und schlägt mit gewaltigem Spritzwasser wieder auf. Die Insassen klammern sich fest und schreien vor Freude.
+6-8s: Das Boot schneidet hart über den Gipfel einer turmhohen Welle. Das Schlauchboot fängt den Gipfel bei voller Geschwindigkeit ab und kippt heftig.
+8-10s: Die Insassen werden extrem hoch in die Luft katapultiert, überschlagen sich und drehen sich, die Arme rudern wild. Die Kamera neigt sich scharf nach oben, um sie vor dem hellen Himmel zu verfolgen. Beenden Sie das Segment, während die Insassen den Scheitelpunkt ihrer Flugbahn erreichen, hoch über dem Meer.
+TON: Ein brüllender Schnellboot-Motor, rasender Wind, krachende Wellen, schwere Spritzer, Seilspannung und aufgeregte Schreie. Nur natürliche Umgebung, keine Musik.
+[Kontinuitäts-Lock] Das Schlauchboot bleibt hellgelb und rot und gleich groß, mit denselben vier Insassen in orangefarbenen Schwimmwesten, alle behalten dieselben Gesichter, Frisuren und Outfits bei. Das Boot bleibt weiß, mit derselben Abschleppseil-Verbindung. Das türkisfarbene Meer und das Tageslicht bleiben konsistent. Es gibt genau ein Schlauchboot, ein Boot und vier Insassen, ohne Duplikate und ohne zusätzliche Personen. Die Kamera macht keine Schnitte oder Szenenwechsel.
+[Ton-Lock] Der Motor- und Wellen-Ambiente läuft kontinuierlich und baut sich mit der Geschwindigkeit auf. Jeder Spritzer und jede Kollision synchronisiert sich mit dem Bild, und es gibt keine stillen Lücken.
+[Physik-Regeln] Realistische Gravitation und Wasserphysik. Der Abwurf wird durch das Treffen des Schlauchboots auf den Wellenkamm und das Kippen verursacht, ohne Fliegen oder Anti-Gravitation. Dies ist eine spielerische Wassersport-Fahrt ohne Verletzungen, ohne Blut und ohne Notlage.
+NEGATIV: Kein Cartoon-Stil, keine Zeitlupe, keine Schnitte, keine verzerrten oder zusätzlichen Gliedmaßen, keine veränderten Outfits oder Farben, kein unrealistisches Wasser.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104579217300049920/img/W_5AykCmdRVR5N1E.jpg" width="600" alt="Seedance 2.5 High-Speed Boat Flip Video Prompt">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11538)**
+
+**Autor:** [Abkr Sadiq | AI](https://x.com/abs_uiux) | **Quelle:** [Link](https://x.com/abs_uiux/status/2104579354567000516) | **Veröffentlicht:** Sep 28, 2026
+
+---
 ### Mittelalterlicher Krieger vs. Ritter Kampf-Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -5673,102 +5744,6 @@ Stil & Parameter: Fotorealistisches 3D-Rendering, elegante Ästhetik, sanftes Pa
 **Autor:** [AIスタジオワンルーム（AIアニメ、動画、漫画）](https://x.com/studio_oneroom) | **Quelle:** [Link](https://x.com/studio_oneroom/status/2098015859839234473) | **Veröffentlicht:** Sep 10, 2026
 
 ---
-### Kampf zwischen Krieger und Dämonenmonster
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein epischer Fantasy-Cinematic-Prompt, der einen tapferen Krieger zeigt, der sich in einer verlassenen Industrieumgebung einem furchterregenden, riesigen dunklen Dämonenmonster stellt.
-
-#### 📝 Prompt
-
-```
-Erstelle eine ultrarealistische filmische Szene eines furchterregenden, riesigen dunklen Dämonenmonsters mit massiven muskulösen Gliedmaßen, scharfen, gebogenen Hörnern und leuchtend roten Augen, das aggressiv brüllend über einem einsamen Krieger aufragt. Der Krieger steht furchtlos vor der Kreatur, umklammert eine Waffe und bereitet sich auf den Kampf vor. Die Szene spielt auf einem verlassenen industriellen Sportplatz unter einem dunklen, bewölkten Himmel, mit Nebel, Staub, dramatischer atmosphärischer Beleuchtung, realistischen Schatten, detaillierter Haut und Texturen der Kreatur, intensiver Action-Komposition, Froschperspektive, filmischer Schärfentiefe, fotorealistischem CGI, 8K, HDR, hochdetailliert, epische Fantasy-Film-Ästhetik, vertikale 9:16-Komposition.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097981027507736576/img/p61gt_Mq6dI8OXEv.jpg" width="600" alt="Kampf zwischen Krieger und Dämonenmonster">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=10699)**
-
-**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Quelle:** [Link](https://x.com/AIwithMinal/status/2097981077029863798) | **Veröffentlicht:** Sep 10, 2026
-
----
-### Vlog-Spaziergang durch ein koreanisches Wohnviertel
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Video-Prompt im Vlog-Stil, der ein Referenzbild verwendet, um die Konsistenz der Figur bei einem natürlichen Spaziergang durch ein koreanisches Wohnviertel zu wahren.
-
-#### 📝 Prompt
-
-```
-REFERENZ-REGEL: @image dient ausschließlich als Referenz für die Identität der Figur. Verwenden Sie @image jedes Mal, wenn das Mädchen zu sehen ist. Bewahren Sie ihre exakte Gesichtsidentität, Gesichtsstruktur, Augen, Nase, Lippen, Hautton, natürliche Gesichtsproportionen und erkennbare Frisurmerkmale. Kopieren Sie nicht die ursprüngliche Pose, Kleidung, den Hintergrund, die Komposition oder die Beleuchtung des Referenzbildes. Generieren Sie alle Umgebungen, Aktionen, Garderoben und Kameraeinstellungen basierend auf diesem Prompt. STIL Ultra-realistischer koreanischer Alltags-Vlog, filmischer Dokumentar-Realismus, vertikal 9:16, 4K, 24fps. Natürliche Smartphone-Handkamera, subtiles realistisches Kamera-Wackeln, authentische Atmosphäre eines koreanischen Wohnviertels, realistische Schärfentiefe, natürliche Hauttextur, dezentes Filmkorn. Alltäglich und ungestellt, niemals glänzend oder kommerziell. FIGUR Junge Koreanerin basierend auf @image. Schulterlanges, natürlich zerzaustes, dunkelbraunes Haar mit weicher Textur und einigen losen Strähnen, minimales natürliches Make-up, realistische Haut. Outfit: übergroßes hellblaues Button-up-Hemd, schlichtes weißes T-Shirt, lockere beigefarbene Hose, weiße Sneaker, kleine dunkle Umhängetasche. Behalten Sie Gesicht, Haare, Outfit, Accessoires, Körperproportionen und das Alter während der gesamten 30 Sekunden bei. ZEITPLAN 00–02s @image öffnet ihren Wohnungseingang und tritt hinaus in ein ruhiges koreanisches Wohnviertel. Sie rückt ihre Umhängetasche zurecht und beginnt zu gehen. Weiches Nachmittagslicht fällt zwischen die umliegenden Gebäude. 02–04s Seitliche Handkamera-Verfolgung. @image geht durch eine schmale Wohnstraße mit Ziegelmauern, Apartmentgebäuden, Topfpflanzen, Balkonen, Strommasten, geparkten Fahrrädern und kleinen koreanischen Straßenschildern. 04–06s Sie geht an einem kleinen lokalen Laden vorbei. Sie dreht kurz den Kopf zum Fenster, bemerkt etwas Interessantes im Inneren, schaut dann nach vorne und geht natürlich weiter. 06–08s Tiefer filmischer Winkel, fokussiert auf ihre weißen Sneaker, die sich über den Gehweg bewegen. Baumzweige werfen sich bewegende Licht- und Schattenflecken. Ihr Schatten bewegt sich korrekt mit ihrem Körper. 08–10s Sie bemerkt einen Nachbarn, der vor einem Hauseingang Topfpflanzen gießt. Sie wird etwas langsamer, tauscht ein subtiles, höfliches Lächeln und Nicken aus und geht dann weiter. Die Interaktion soll beiläufig und dezent bleiben. 10–12s Sie erreicht einen Verkaufsautomaten. Nahaufnahme ihrer Hand, wie sie ein kaltes Getränk in der Flasche auswählt. Der Automat gibt die Flasche natürlich aus. Sie nimmt sie heraus und prüft das Kondenswasser auf der Oberfläche. 12–15s Mittlere Verfolgungsaufnahme, während sie mit dem Getränk vom Automaten weggeht. Sie dreht die Flasche beim Gehen sanft in der Hand, wobei sich das Sonnenlicht natürlich im transparenten Kunststoff spiegelt. 15–17s Sie schaut kurz auf das Getränk, führt es dann natürlich zum Mund und nimmt einen kleinen, erfrischenden Schluck, während sie im gleichen Tempo weitergeht. 17–19s Seitliche Nahaufnahme im Profil. Sie senkt die Flasche, atmet leise aus und lächelt zufrieden. Eine leichte Nachmittagsbrise bewegt lose Haarsträhnen und den Saum ihres Hemdes. 19–21s Sie geht an einer kleinen Bäckerei mit Café vorbei. Durch das Glasfenster sind einfache Backwaren, Getränke und Kunden zu sehen. Sie schaut kurz hinein, ohne anzuhalten. 21–23s Sie bemerkt eine kleine öffentliche Holzbank unter einem belaubten Baum. Sie wird langsamer und geht darauf zu, wobei sie beiläufig ihren Umhängeriemen zurechtrückt. 23–25s Sie setzt sich natürlich auf die Bank unter dem Baum. Sie stellt das Getränk kurz neben sich ab, entspannt die Schultern und schaut ruhig auf die Straße. 25–27s Sie nimmt die Flasche wieder auf und nimmt einen weiteren kurzen Schluck. Die Nahaufnahme fängt realistisches Kondenswasser, Finger, den Flaschengriff, subtiles Schlucken und natürliche Gesichtsbewegungen ein. 27–29s Sie schaut über die Straße auf vorbeifahrende Autos und Fußgänger und lächelt dann sanft vor sich hin. Sonnenlicht bewegt sich weich durch die Blätter über ihr. 29–30s Sie steht auf, nimmt ihre Umhängetasche und geht weiter tiefer in das baumbestandene Viertel. Die Kamera folgt langsam von hinten und leicht von der Seite, wobei die Aufnahme natürlich endet, während sie die Straße weiter hinuntergeht. KAMERA & BEWEGUNG Natürliche Smartphone-Handkamera/dokumentarische Kameraführung. Subtiles Mikrowackeln, glaubwürdige Kamerabewegungen, flüssige seitliche Verfolgung, gelegentliche tiefe Winkel, mittlere Nahaufnahmen und sanfte Verfolgung von hinten. Natürliche Fokusverlagerungen und realistisches Objektivverhalten. Keine unmöglichen Kamerabewegungen, übermäßige Stabilisierung, drohnenartige Bewegungen oder abrupte geografische Sprünge. BELEUCHTUNG & FARBE Nur Nachmittag. Weiches, neutrales Tageslicht, leicht kühle Schatten, sanfte warme Highlights, realistische Hauttöne, gedämpfte Grüntöne, natürliche Beton- und Ziegelfarben, zurückhaltender filmischer Kontrast, dezentes Filmkorn. Kein Morgenlicht, Sonnenaufgang, Sonnenuntergang, starke goldene Stunde, Orangestich, HDR, Übersättigung, künstliches Leuchten oder übermäßiger Glanz. PHYSISCHER REALISMUS Präziser Geh-Rhythmus und Bodenkontakt, realistisches Mitschwingen der Arme, korrekte Interaktion zwischen Hand und Flasche, realistisches Flaschengewicht, Kondenswasser, Schlucken, Haarbewegungen, Stoffbewegungen, Schatten, Reflexionen und Objektpermanenz. Umgebungselemente bleiben von Einstellung zu Einstellung räumlich konsistent. AUDIO Nur natürlicher Umgebungston: Schritte auf dem Gehweg, entfernter koreanischer Verkehr, Fahrradklingel, raschelnde Blätter, Gartenschlauch, Piepen des Verkaufsautomaten, Geräusch der Flaschenausgabe, Klicken des Flaschenverschlusses, subtiles Schlucken, Café-Atmosphäre, leise Umgebungsgeräusche. Keine Hintergrundmusik, keine Erzählstimme, keine Dialoge.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097965463355756545/img/4Qu76GlINJHuYu0R.jpg" width="600" alt="Vlog-Spaziergang durch ein koreanisches Wohnviertel">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=10697)**
-
-**Autor:** [𝑨𝒇𝒓𝒊𝒏](https://x.com/afrinxai) | **Quelle:** [Link](https://x.com/afrinxai/status/2097966053116752181) | **Veröffentlicht:** Sep 10, 2026
-
----
-### Horror-Anime-Trailer-Vorlage
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Eine strukturierte Prompt-Vorlage für Seedance 2.0 zur Erstellung eines hochwertigen 2D-Anime-Horror-Trailers mit spezifischen Shot-Listen.
-
-#### 📝 Prompt
-
-```
-[Hauptfigur] = Mädchen mit schwarzen Haaren
-[Partner/Zielperson] = Mutter mit Pferdeschwanz
-[Schauplatz] = Im Haus
-[Anomalie-Gimmick] = Fernsehbildschirm
-
-[Videostil]
-15 Sekunden. Japanischer Vollfarb-Anime. Hochdichte 2D-Animation mit einem Budget von 500 Millionen Yen. Schnelle Schnitte wie in einem Filmtrailer. Wechsel zwischen Augen, Händen, Füßen, Rücken, Spiegelungen, Totalen und schnellen Push-ins. Keine Untertitel, kein Wasserzeichen, keine Hintergrundmusik. Die Tonspur enthält Atemgeräusche, Umgebungsgeräusche, kurze Soundeffekte für jeden Schnitt und einen letzten Satz.
-
-[Visuelle Komposition]
-Die Bedeutung von [Schauplatz] und [Zielperson] ändert sich allein durch die Perspektive der [Hauptfigur]. Das [Anomalie-Gimmick] dient als Verbindung zwischen den einzelnen Einstellungen, bis sich schließlich die Rollen von „Beobachter“ und „Beobachtetem“ umkehren.
-
-[Einstellung 1: Der Augen-Hook]
-Eine Nahaufnahme eines Auges der [Hauptfigur], das den gesamten Bildschirm ausfüllt. Der [Schauplatz] spiegelt sich in der Pupille wider. Das [Anomalie-Gimmick] kreuzt tief im Inneren des Auges.
-
-[Einstellung 2: Füße]
-Der Boden des [Schauplatzes]. Ein einzelner Schritt. Die Füße treten auf Licht und Schatten.
-
-[Einstellung 3: Hände]
-Die Hand der [Hauptfigur] bewegt sich leicht. Sie hält kurz inne, bevor sie nach etwas greift.
-
-[Einstellung 4: Zielperson]
-Die [Zielperson] ist nur für einen Moment zu sehen. Geringe Schärfentiefe, Gesicht oder ganzer Körper sind nicht zu deutlich erkennbar.
-
-[Einstellung 5: Spiegelung]
-Die [Hauptfigur] spiegelt sich in einem Spiegel, Fenster, Smartphone, Metall oder in einer Augenreflexion. Die Position in der Realität und in der Spiegelung unterscheiden sich leicht.
-
-[Einstellung 6: Totale]
-Ein kurzer Einblick in den gesamten [Schauplatz]. Eine Komposition, bei der unklar bleibt, wo sich die [Hauptfigur] befindet.
-
-[Einstellung 7: Annäherung]
-Schneller Push-in. Das [Anomalie-Gimmick] erscheint direkt neben der [Zielperson].
-
-[Einstellung 8: Umkehrung]
-Ein Hochgeschwindigkeits-Schwenk, als würde die Kamera zurückblicken. Die [Hauptfigur] steht dort ganz still.
-
-[Einstellung 9: Fixierter Blick]
-Die [Hauptfigur] starrt direkt in die Kamera. Sie bewegt sich nicht. Nur der Hintergrund wackelt leicht.
-
-[Einstellung 10: Letzter Satz]
-Die [Hauptfigur] sagt kurz: „Ich habe von Anfang an zugesehen.“ Der letzte Frame kehrt zur Nahaufnahme eines Auges zurück und endet.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094091613106757632/img/EOm3U04viJUVt5D5.jpg" width="600" alt="Horror-Anime-Trailer-Vorlage">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=10639)**
-
-**Autor:** [妖精アーヤ](https://x.com/aiehon_aya) | **Quelle:** [Link](https://x.com/aiehon_aya/status/2097882765026840629) | **Veröffentlicht:** Sep 10, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -5830,6 +5805,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-09-29T00:34:44.382Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-09-30T04:28:52.826Z</sub>
 
 </div>

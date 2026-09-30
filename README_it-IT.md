@@ -68,9 +68,9 @@ Perché usare la nostra galleria?
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **6447** |
+| 📝 Totale prompt | **6450** |
 | ⭐ Prompt in evidenza | **6** |
-| 🔄 Ultimo aggiornamento | **2026-09-29** |
+| 🔄 Ultimo aggiornamento | **2026-09-30** |
 
 ---
 
@@ -361,6 +361,77 @@ Ultra realistico, energia ispirata a Fast and Furious, illuminazione fotorealist
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Prompt per Video Commerciale di Alta Orologeria
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt dettagliato per generare un video commerciale cinematografico e ultra-realistico di alta orologeria, con primi piani su ingranaggi e assemblaggio.
+
+#### 📝 Prompt
+
+```
+Crea un video commerciale cinematografico e ultra-realistico di alta orologeria. Mostra un orologiaio esperto in un laboratorio scuro e premium mentre assembla con cura un intricato orologio meccanico in oro. Inizia con primi piani di piccoli ingranaggi, viti e meccanismi in movimento, poi mostra le sue mani che posizionano con precisione i delicati componenti utilizzando strumenti professionali. Rivela lentamente l'orologio completo mentre viene lucidato e indossato al polso. Termina con una ripresa macro estrema dell'orologio finito e dei suoi ingranaggi meccanici in movimento. Illuminazione elegante e scura, riflessi metallici realistici, profondità di campo ridotta, movimenti di camera fluidi, artigianato dettagliato, estetica pubblicitaria di lusso premium, animazione 3D fotorealistica. Nessun testo, logo o filigrana.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104757790166355968/img/d0xOimgJzLaG9Hem.jpg" width="600" alt="Prompt per Video Commerciale di Alta Orologeria">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=11545)**
+
+**Autore:** [Aynah](https://x.com/AynahhX) | **Fonte:** [Link](https://x.com/AynahhX/status/2104757960425795714) | **Pubblicato:** Sep 29, 2026
+
+---
+### Prompt per Battaglia tra Guerriero dell'Acqua e del Fuoco
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt per una scena di battaglia fantasy cinematografica di 15 secondi tra un guerriero dell'acqua e un guerriero del fuoco in una città antica in rovina.
+
+#### 📝 Prompt
+
+```
+Crea una scena di battaglia fantasy cinematografica di 15 secondi ambientata in una città antica in rovina al tramonto, con cieli dorati drammatici, edifici in fiamme, fumo e strutture in pietra distrutte. Una potente guerriera dai capelli scuri vestita di blu affronta una feroce guerriera del fuoco dai capelli rosa pallido e piccole corna rosse. La guerriera dell'acqua controlla enormi onde d'acqua luminosa, mentre la guerriera del fuoco crea intense fiamme arancioni attorno alle mani e al corpo. Mostrale mentre si caricano a vicenda con movimenti di combattimento rapidi e dinamici, scie di energia magica, scintille volanti, fumo e detriti. Costruisci l'azione partendo da un confronto ravvicinato fino a un'ampia inquadratura cinematografica dei due poteri elementali che collidono al centro del campo di battaglia. Termina con un'enorme onda d'acqua blu che si schianta contro una gigantesca esplosione di fuoco, creando vapore, particelle luminose e uno spettacolare shockwave energetico. Usa illuminazione cinematografica realistica, personaggi dettagliati, movimento fluido della telecamera, atmosfera epica fantasy, VFX di alta qualità, profondità di campo drammatica e un finale potente in stile trailer cinematografico.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104754359011840000/img/2nMLHjTAV9rXdUwk.jpg" width="600" alt="Prompt per Battaglia tra Guerriero dell'Acqua e del Fuoco">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=11547)**
+
+**Autore:** [Maha](https://x.com/Aiwithmaha) | **Fonte:** [Link](https://x.com/Aiwithmaha/status/2104754431434887271) | **Pubblicato:** Sep 29, 2026
+
+---
+### Prompt Video per Seedance 2.5: Capovolgimento di Barca a Alta Velocità
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt dettagliato per generare un video aereo cinematografico di una motoscafo che traina un gommone su onde giganti, lanciando i passeggeri in aria.
+
+#### 📝 Prompt
+
+```
+Video Prompt 1 (0-10 secondi): Traino ad Alta Velocità + Onde Giganti + Capovolgimento + Lancio Elevato
+DURATA: Parte 1 di 2 (10 secondi) | RAPPORTO D'ASPETTO: 9:16 | STILE: Azione aerea cinematografica fotorealistica, 4K, 60fps, forte motion blur, ritmo completamente veloce, nessun rallentatore
+SOGETTO: Un gommone gonfiabile rosso e giallo brillante, trainato da una cima da rimorchio collegata a un motoscafo bianco veloce. Quattro adulti con giubbotti di salvataggio arancioni cavalcano il gommone, stringendo saldamente le maniglie, ridendo e urlando di eccitazione. Oceano tropicale turchese cristallino.
+MACCHINA DA PRESA: Una ripresa drone cinematografica ad alta quota, con visuale quasi perpendicolare dall'alto, poi si abbassa e segue il gommone da dietro con un angolo. Movimento rapido e fluido con whip-tilt veloci per seguire i passeggeri. Un'unica ripresa continua, senza tagli.
+ILLUMINAZIONE: Luce solare tropicale intensa di mezzogiorno, riflessi scintillanti sulle onde, colori vividi e saturi, bagliori del sole sugli schizzi d'acqua.
+CRONOLOGIA:
+0-3s: Dall'alto, il motoscafo ruggisce in avanti, trascinando il gommone a velocità estrema. Spesse scie bianche seguono entrambi. I passeggeri ridono e stringono le maniglie, i capelli sbattuti dal vento, mentre il gommone salta sull'acqua.
+3-6s: Enormi onde oceaniche che rotolano velocemente, alte diversi metri, si alzano davanti. La barca le attraversa e il gommone si schianta contro la prima onda gigante, venendo lanciato brevemente in aria e ricadendo con enormi spruzzi. I passeggeri si aggrappano, urlando di gioia.
+6-8s: La barca taglia con forza la cresta di un'onda torreggiante. Il gommone coglie la vetta a piena velocità e si capovolge violentemente.
+8-10s: I passeggeri vengono catapultati estremamente in alto nell'aria, roteando e girando, con le braccia che si agitano. La camera si inclina bruscamente verso l'alto per seguirli contro il cielo luminoso. Termina la segmento mentre i passeggeri raggiungono il punto più alto della loro parabola, ben sopra il mare.
+AUDIO: Ruggito del motore del motoscafo, vento impetuoso, onde che si infrangono, forti schizzi, tensione della cima e urla di eccitazione. Solo ambiente naturale, nessuna musica.
+[Continuity Lock] Il gommone rimane rosso e giallo brillante e delle stesse dimensioni, con gli stessi quattro passeggeri in giubbotti di salvataggio arancioni, tutti mantengono gli stessi volti, capelli e vestiti per tutta la durata. La barca rimane bianca, con lo stesso collegamento alla cima da rimorchio. L'oceano turchese e la luce diurna rimangono coerenti. C'è esattamente un gommone, una barca e quattro passeggeri, senza duplicati e senza persone extra. La camera non effettua tagli o cambi di scena.
+[Sound Lock] Il rumore del motore e l'ambiente delle onde scorrono continuamente e aumentano con la velocità. Ogni schizzo e impatto è sincronizzato con il visivo, e non ci sono pause silenziose.
+[Physics Rules] Gravità realistica e fisica dell'acqua. Il lancio è causato dall'impatto del gommone sulla cresta dell'onda e dal suo capovolgimento, senza voli o anti-gravità. Si tratta di un giro acquatico ludico senza ferite, sangue o angoscia.
+NEGATIVE: Nessun aspetto cartoon, nessun rallentatore, nessun taglio, nessun passeggero o gommone duplicato, nessun arto distorto o extra, nessun cambio di vestiti o colori, nessun corpo fluttuante, acqua non realistica
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104579217300049920/img/W_5AykCmdRVR5N1E.jpg" width="600" alt="Prompt Video per Seedance 2.5: Capovolgimento di Barca a Alta Velocità">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=11538)**
+
+**Autore:** [Abkr Sadiq | AI](https://x.com/abs_uiux) | **Fonte:** [Link](https://x.com/abs_uiux/status/2104579354567000516) | **Pubblicato:** Sep 28, 2026
+
+---
 ### Prompt Battaglia Medievale: Guerriera vs Cavaliere
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -5736,102 +5807,6 @@ Stile e parametri: Rendering 3D fotorealistico, estetica elegante, color grading
 **Autore:** [AIスタジオワンルーム（AIアニメ、動画、漫画）](https://x.com/studio_oneroom) | **Fonte:** [Link](https://x.com/studio_oneroom/status/2098015859839234473) | **Pubblicato:** Sep 10, 2026
 
 ---
-### Battaglia tra guerriero e mostro demoniaco
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinematografico fantasy epico che ritrae un coraggioso guerriero che affronta un terrificante mostro demoniaco oscuro e gigantesco in un contesto industriale abbandonato.
-
-#### 📝 Prompt
-
-```
-Crea una scena cinematografica ultra-realistica di un terrificante mostro demoniaco oscuro e gigantesco, con arti muscolosi massicci, corna ricurve affilate e occhi rossi luminosi, che ruggisce in modo aggressivo sovrastando un guerriero solitario. Il guerriero si erge senza paura di fronte alla creatura, impugnando un'arma e preparandosi alla battaglia. Ambienta la scena in un campo sportivo industriale abbandonato sotto un cielo scuro e coperto, con nebbia, polvere, illuminazione atmosferica drammatica, ombre realistiche, pelle e texture della creatura dettagliate, composizione d'azione intensa, inquadratura dal basso, profondità di campo cinematografica, CGI fotorealistica, 8K, HDR, altamente dettagliato, estetica da film fantasy epico, composizione verticale 9:16.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097981027507736576/img/p61gt_Mq6dI8OXEv.jpg" width="600" alt="Battaglia tra guerriero e mostro demoniaco">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10699)**
-
-**Autore:** [AIwithMinal](https://x.com/AIwithMinal) | **Fonte:** [Link](https://x.com/AIwithMinal/status/2097981077029863798) | **Pubblicato:** Sep 10, 2026
-
----
-### Vlog di una passeggiata in un quartiere coreano
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video dettagliato in stile vlog che utilizza un'immagine di riferimento per mantenere la coerenza del personaggio, ritraendo una passeggiata naturale in un quartiere residenziale coreano.
-
-#### 📝 Prompt
-
-```
-REGOLA DI RIFERIMENTO: @image è solo il riferimento per l'identità del personaggio. Usa @image ogni volta che la ragazza è visibile. Preserva l'esatta identità del volto, la struttura facciale, gli occhi, il naso, le labbra, il tono della pelle, le proporzioni naturali del viso e le caratteristiche riconoscibili dell'acconciatura. Non copiare la posa originale, l'abbigliamento, lo sfondo, la composizione o l'illuminazione dell'immagine di riferimento. Genera tutti gli ambienti, le azioni, il guardaroba e la cinematografia a partire da questo prompt. STILE Vlog di vita quotidiana coreana ultra-realistico, realismo documentaristico cinematografico, verticale 9:16, 4K, 24fps. Fotocamera da smartphone a mano naturale, leggero tremolio realistico, autentica atmosfera di un quartiere coreano, profondità di campo realistica, texture della pelle naturale, sottile grana cinematografica. Quotidiano e spontaneo, mai patinato o commerciale. PERSONAGGIO Giovane donna coreana basata su @image. Capelli castano scuro naturalmente scompigliati sulle spalle con una texture morbida e alcune ciocche libere, trucco naturale minimo, pelle realistica. Outfit: camicia oversize azzurro pallido, t-shirt bianca pulita, pantaloni beige dal taglio rilassato, sneakers bianche, piccola borsa a tracolla scura. Mantieni lo stesso viso, capelli, outfit, accessori, proporzioni corporee e aspetto dell'età per tutti i 30 secondi. TIMELINE 00–02s @image apre l'ingresso del suo appartamento ed esce in un tranquillo quartiere residenziale coreano. Si sistema la borsa a tracolla e inizia a camminare. Una morbida luce pomeridiana filtra tra gli edifici vicini. 02–04s Ripresa a mano con inseguimento laterale. @image cammina lungo uno stretto vicolo residenziale con muri in mattoni, condomini, piante in vaso, balconi, pali della luce, biciclette parcheggiate e piccoli cartelli del quartiere coreano. 04–06s Passa davanti a un piccolo negozio locale. Gira brevemente la testa verso la vetrina, nota qualcosa di interessante all'interno, poi guarda avanti e continua a camminare naturalmente. 06–08s Angolazione cinematografica bassa focalizzata sulle sue sneakers bianche che si muovono sul marciapiede. I rami degli alberi proiettano macchie di luce e ombra in movimento. La sua ombra si muove correttamente con il corpo. 08–10s Nota un vicino che annaffia le piante in vaso fuori dall'ingresso di un appartamento. Rallenta leggermente, scambia un sorriso gentile e un cenno col capo, poi continua a camminare. Mantieni l'interazione informale e sobria. 10–12s Arriva a un distributore automatico. Primo piano della sua mano che seleziona una bevanda fredda in bottiglia. Il distributore eroga la bottiglia naturalmente. Lei la prende e controlla la condensa sulla superficie. 12–15s Ripresa media in movimento mentre si allontana dal distributore tenendo la bevanda. Ruota delicatamente la bottiglia tra le mani mentre cammina, con la luce del sole che si riflette naturalmente attraverso la plastica trasparente. 15–17s Guarda la bevanda, poi la porta naturalmente verso le labbra e ne beve un piccolo sorso rinfrescante continuando ad avanzare allo stesso ritmo. 17–19s Ripresa ravvicinata di profilo. Abbassa la bottiglia, espira dolcemente e accenna un piccolo sorriso soddisfatto. Una leggera brezza pomeridiana muove le ciocche di capelli e l'orlo della camicia. 19–21s Passa davanti a una piccola panetteria-caffetteria di quartiere. Attraverso la vetrata si vedono semplici pasticcini, bevande in bottiglia e clienti abituali. Guarda brevemente all'interno senza fermarsi. 21–23s Nota una piccola panchina pubblica in legno sotto un albero frondoso. Rallenta e si dirige verso di essa, sistemandosi casualmente la tracolla della borsa. 23–25s Si siede naturalmente sulla panchina sotto l'albero. Appoggia la bevanda accanto a sé per un momento, rilassa le spalle e guarda tranquillamente verso la strada. 25–27s Riprende la bottiglia e ne beve un altro breve sorso. Il primo piano cattura la condensa realistica, le dita, la presa sulla bottiglia, il leggero movimento di deglutizione e il movimento naturale del viso. 27–29s Guarda dall'altra parte della strada le auto e i pedoni che passano, poi sorride dolcemente tra sé. La luce del sole si muove dolcemente tra le foglie sopra di lei. 29–30s Si alza, prende la borsa a tracolla e riprende a camminare addentrandosi nel quartiere alberato. La telecamera segue lentamente da dietro e leggermente di lato, terminando naturalmente mentre lei si allontana lungo la strada. FOTOCAMERA E MOVIMENTO Cinematografia naturale da smartphone a mano/documentaristica. Micro-tremolio sottile, movimento dell'operatore credibile, fluido inseguimento laterale, occasionali angolazioni dal basso, primo piano medio e delicata ripresa posteriore. Fuochi naturali e comportamento realistico dell'obiettivo. Nessun movimento di macchina impossibile, stabilizzazione eccessiva, movimento simile a un drone o bruschi cambi geografici. ILLUMINAZIONE E COLORE Solo pomeriggio. Luce diurna neutra e morbida, ombre leggermente fredde, riflessi caldi delicati, tonalità della pelle realistiche, verdi tenui, colori naturali del cemento e dei mattoni, contrasto cinematografico moderato, sottile grana cinematografica. Niente luce del mattino, alba, tramonto, ora d'oro intensa, tonalità arancione, HDR, sovrasaturazione, bagliore artificiale o luminosità eccessiva. REALISMO FISICO Ritmo di camminata accurato e contatto del piede, oscillazione realistica delle braccia, corretta interazione mano-bottiglia, peso realistico della bottiglia, condensa, deglutizione, movimento dei capelli, movimento del tessuto, ombre, riflessi e permanenza degli oggetti. Gli elementi ambientali rimangono spazialmente coerenti da un'inquadratura all'altra. AUDIO Solo suono naturale del luogo: passi sul marciapiede, traffico coreano in lontananza, campanello di bicicletta, fruscio delle foglie, tubo dell'acqua, segnale acustico del distributore, suono dell'erogazione della bottiglia, clic del tappo, sorseggiata/deglutizione sottile, atmosfera da caffè, suoni soffusi del quartiere. Niente musica di sottofondo, niente narrazione, niente dialoghi.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097965463355756545/img/4Qu76GlINJHuYu0R.jpg" width="600" alt="Vlog di una passeggiata in un quartiere coreano">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10697)**
-
-**Autore:** [𝑨𝒇𝒓𝒊𝒏](https://x.com/afrinxai) | **Fonte:** [Link](https://x.com/afrinxai/status/2097966053116752181) | **Pubblicato:** Sep 10, 2026
-
----
-### Modello per trailer di anime horror
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un modello di prompt strutturato per Seedance 2.0 per creare un trailer anime horror 2D di alta qualità con liste di inquadrature specifiche.
-
-#### 📝 Prompt
-
-```
-[Main Character] = Ragazza con capelli neri
-[Partner/Target] = Madre con coda di cavallo
-[Setting] = All'interno di una casa
-[Anomaly Gimmick] = Schermo TV
-
-[Video Style]
-15 secondi. Anime giapponese a colori. Animazione 2D ad alta densità con un budget di 500 milioni di yen. Tagli rapidi come in un trailer cinematografico. Alternanza tra occhi, mani, piedi, schiena, riflessi, campi lunghi e rapidi push-in. Senza sottotitoli, senza watermark, senza musica di sottofondo. I suoni includono respiro, rumore ambientale, brevi effetti sonori per ogni taglio e una battuta finale.
-
-[Visual Composition]
-Il significato di [Setting] e [Target] cambia esclusivamente attraverso la prospettiva del [Main Character]. L'[Anomaly Gimmick] viene utilizzato per collegare ogni inquadratura e, infine, i ruoli di 'osservatore' e 'osservato' si invertono.
-
-[Shot 1: One-Eye Hook]
-Primo piano di un occhio del [Main Character] che riempie lo schermo. Il [Setting] si riflette nella pupilla. L'[Anomaly Gimmick] attraversa le profondità dell'occhio.
-
-[Shot 2: Feet]
-Il pavimento del [Setting]. Un singolo passo. I piedi calpestano luci e ombre.
-
-[Shot 3: Hands]
-La mano del [Main Character] si muove leggermente. Si ferma appena prima di afferrare qualcosa.
-
-[Shot 4: Target]
-Il [Target] viene mostrato solo per un istante. Messa a fuoco ridotta, senza mostrare chiaramente il volto o l'intero corpo.
-
-[Shot 5: Reflection]
-Il [Main Character] è riflesso in uno specchio, una finestra, uno smartphone, del metallo o nel riflesso dell'occhio. La posizione nella realtà e quella nel riflesso sono leggermente diverse.
-
-[Shot 6: Wide Shot]
-Una breve inquadratura dell'intero [Setting]. Una composizione in cui non è chiaro dove si trovi il [Main Character].
-
-[Shot 7: Approach]
-Rapido push-in. L'[Anomaly Gimmick] appare proprio accanto al [Target].
-
-[Shot 8: Reversal]
-Una panoramica ad alta velocità come se la telecamera si stesse voltando. Il [Main Character] è lì, in piedi, silenzioso.
-
-[Shot 9: Fixed Gaze]
-Il [Main Character] fissa la telecamera. Non si muove. Solo lo sfondo trema leggermente.
-
-[Shot 10: Final Line]
-Il [Main Character] dice brevemente: 'Ti stavo guardando fin dall'inizio'. L'ultimo fotogramma torna al primo piano di un occhio e termina.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094091613106757632/img/EOm3U04viJUVt5D5.jpg" width="600" alt="Modello per trailer di anime horror">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=10639)**
-
-**Autore:** [妖精アーヤ](https://x.com/aiehon_aya) | **Fonte:** [Link](https://x.com/aiehon_aya/status/2097882765026840629) | **Pubblicato:** Sep 10, 2026
-
----
 ---
 
 ## 📚 Altri prompt disponibili
@@ -5893,6 +5868,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-09-29T00:34:47.794Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-09-30T04:28:55.590Z</sub>
 
 </div>
