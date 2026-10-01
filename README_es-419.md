@@ -68,9 +68,9 @@ Una colección curada de prompts de generación de video de alta calidad para Se
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **6450** |
+| 📝 Total de prompts | **6459** |
 | ⭐ Prompts destacados | **6** |
-| 🔄 Última actualización | **2026-09-30** |
+| 🔄 Última actualización | **2026-10-01** |
 
 ---
 
@@ -361,6 +361,593 @@ Ultra realista, energía inspirada en Fast and Furious, iluminación fotorrealis
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Prompt de Video: Batalla Nocturna de Guerrera Wuxia
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt detallado para generar un video cinematográfico estilo wuxia de 30 segundos, protagonizado por una guerrera en una aldea china antigua durante la noche. La escena incluye ropa Hanfu tradicional, faroles rojos brillantes, montañas neblinosas y combate intenso con espadas contra atacantes con efectos mágicos.
+
+#### 📝 Prompt
+
+```
+Crea un video cinematográfico ultra realista estilo wuxia de 30 segundos, ambientado en una aldea china antigua durante la noche, con edificios tradicionales de madera, una calle empedrada, un pequeño puente arqueado, montañas neblinosas de fondo y numerosos faroles rojos brillantes colgados a lo largo de la calle. Una joven hermosa vestida con un elegante Hanfu rojo fluido camina calmadamente hacia la cámara, con el cabello oscuro largo peinado de forma tradicional y una expresión seria y segura. A medida que se acerca, la cámara avanza lentamente y la sigue de manera natural, capturando la luz de los faroles, el movimiento de la tela, la niebla atmosférica y pasos realistas. Hacia el medio de la escena, ella se detiene repentinamente y desenvaina con confianza una espada mágica roja brillante, sosteniéndola horizontalmente frente a ella mientras su expresión se vuelve enfocada y poderosa. La cámara realiza un primer plano dramático de su rostro y la espada, mostrando textura de piel realista, cabello detallado, reflejos luminosos y profundidad de campo cinematográfica. Varios atacantes misteriosos vestidos de negro aparecen alrededor de ella, abalanzándose desde diferentes direcciones, creando una atmósfera tensa de artes marciales. Ella gira rápidamente y ejecuta movimientos coreografiados poderosos con la espada, bloqueando y golpeando a los atacantes con movimientos rápidos pero creíbles, mientras la espada brillante deja sutiles estelas de luz roja. Los atacantes son derribados sobre la calle empedrada a su alrededor, mientras ella permanece de pie con seguridad en el centro con la espada levantada, rodeada de faroles rojos y ligera niebla. Termina con una toma cinematográfica amplia que se aleja lentamente para revelar a la mujer de pie sola entre los atacantes caídos, con edificios de la aldea antigua y montañas detrás de ella, manteniendo una apariencia de personaje consistente, movimiento realista, iluminación cinematográfica, texturas detalladas, atmósfera dramática, movimiento de cámara suave, relación de aspecto 16:9, 30 segundos, sin texto, sin marca de agua.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105162066277568512/img/ylAZwfteWys8V_NP.jpg" width="600" alt="Prompt de Video: Batalla Nocturna de Guerrera Wuxia">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=11624)**
+
+**Autor:** [Maha](https://x.com/Aiwithmaha) | **Fuente:** [Link](https://x.com/Aiwithmaha/status/2105162931847807476) | **Publicado:** Sep 30, 2026
+
+---
+### Comedia Xianxia: La victoria preescrita
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt de video humorístico para Seedance 2.0 que presenta un duelo Xianxia donde un espadachín arrogante contrata a un escriba para escribir su victoria por adelantado, lo que lleva a la exposición cómica de su inseguridad antes de que comience la pelea.
+
+#### 📝 Prompt
+
+```
+¿Por tanto alboroto? Si quieres pelear, solo pelea.
+Prompt:
+
+Textura cinematográfica realista, estética pura de Xianxia chino antiguo.
+Contraste entre el desafío solemne y la meta-comedia de 'empaquetar la reputación'.
+Absorbe el timing de reacción del cine mudo, la lógica seca británica, la configuración/remate de la comedia de HK, estructura de tres tiempos.
+Look Arri Alexa, microexpresiones estables, grano de película, luz volumétrica.
+
+Trama Central:
+Un espadachín enemigo arrogante trae a un escriba para 'registrar objetivamente' su victoria legendaria. Antes de que comience el duelo, las heroínas descubren que ya pagó por el final.
+
+Referencia & Entorno:
+Usa @Image 1 y @Image 2 como anclas de identidad.
+Recombina los fondos en un ADN ambiental unificado.
+Los elementos del fondo (viento, agua, etc.) permanecen vivos pero narrativamente neutros.
+
+Personajes:
+ID A (Hermana Mayor): Hanfu de seda blanca, espada plateada. Calma.
+ID B (Hermana Menor): Hanfu de lino verde, espada de acero. Pequeña, vivaz.
+Espadachín Enemigo: Muy seguro, le importa la reputación.
+Escriba: De mediana edad, serio, profesional, sostiene pincel y pergamino en blanco.
+Maestro: Estable, entrega el remate final.
+
+Estructura (15s total):
+0-5s: Plano general. El enemigo entra con el Escriba. Anuncia la necesidad de un testigo. La Hermana Menor comenta 'Formal'. La Hermana Mayor está tranquila.
+5-10s: Plano medio. El duelo no ha comenzado. El Escriba susurra al Enemigo: '¿Sigo registrando como "Victoria en 10 movimientos"?'
+Silencio. El Enemigo se congela, susurra enfurecido: '¿No dijimos escribir DESPUÉS de pelear?'
+Escriba: 'El depósito fue por este final.'
+La Hermana Menor mira fijamente al Enemigo: '¿Compraste el final?'
+La Hermana Mayor levanta una ceja, interesada.
+10-15s: Primer plano. La Hermana Mayor pregunta al Escriba: '¿Y si pierde?'
+Escriba: 'Plata extra cambia esto a "Derrota Honorable".'
+Enemigo furioso: '¡No voy a perder!'
+El foco se desplaza al Maestro. Él dice: 'Registra esto: Borrador cambiado antes de la pelea.'
+El Escriba asiente, levanta el pincel. El Enemigo entra en pánico: '¡No registres eso!'
+El Escriba evalúa: 'Esa frase también es buena.'
+Primerísimo primer plano: La Hermana Menor reprime la risa. La Hermana Mayor hace un gesto educado: '¿Podemos pelear ahora?'
+El Enemigo se da cuenta de que su reputación es el verdadero peligro. Corte a negro antes de la respuesta.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105154749909901312/img/FHAnOk0OWpttMNFb.jpg" width="600" alt="Comedia Xianxia: La victoria preescrita">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=11632)**
+
+**Autor:** [Soran](https://x.com/Soranlan) | **Fuente:** [Link](https://x.com/Soranlan/status/2105156705260868087) | **Publicado:** Sep 30, 2026
+
+---
+### Video de Retrato Cinematográfico en Restaurante
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt para un video de retrato cinematográfico ultra realista de una mujer en un restaurante exclusivo por la noche. Detalla su vestimenta, acciones, iluminación, configuración de cámara y atmósfera, ideal para contenido vertical de formato corto.
+
+#### 📝 Prompt
+
+```
+Retrato cinematográfico ultra realista de una joven hermosa en un elegante restaurante exclusivo por la noche, vistiendo un sofisticado atuendo negro, sosteniendo una copa de vino transparente mientras camina con gracia a través de un interior cálido y tenuemente iluminado. Luego, retrato en primer plano mirando suavemente hacia un lado, ojos expresivos naturales, maquillaje sutil, textura de piel suave y realista, cabello castaño oscuro peinado de forma relajada con delicados mechones enmarcando su rostro, atmósfera íntima y misteriosa, luces prácticas cálidas ámbar, bokeh cremoso en el fondo, profundidad de campo reducida, iluminación cinematográfica de bajo clave, sombras realistas, fotografía editorial de lujo, lente de 85mm, f/1.4, HDR, altamente detallado, fotorealista, 8K, composición vertical 9:16.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105156099121049600/img/D7EzuGekj4c_ZCEW.jpg" width="600" alt="Video de Retrato Cinematográfico en Restaurante">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=11625)**
+
+**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Fuente:** [Link](https://x.com/AIwithMinal/status/2105156206587519482) | **Publicado:** Sep 30, 2026
+
+---
+### Batalla Xianxia: Geometría de Flechas y Espadas
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt complejo para video de acción en Seedance 2.0 que presenta un combate táctico entre una espadachina y dos enemigos (un usuario de cuchillo en combate cercano y un arquero a distancia), centrado en la geometría espacial y la colocación de las flechas, más que en efectos mágicos genéricos.
+
+#### 📝 Prompt
+
+```
+La flecha roba un paso, la espada roba una línea.
+Prompt:
+
+Textura cinematográfica realista, estética pura de combate hardcore Xianxia de la antigua China.
+Rompe con los duelos simples de armas. Enfoque central: relación geométrica de fuego cruzado entre primer plano y fondo.
+Primer plano: Maestro del cuchillo presionando de cerca. Fondo: Arquero controlando las rutas de movimiento futuras de la Hermana Mayor.
+El lenguaje de cámara absorbe la conciencia espacial clásica del wuxia sin copiar películas específicas.
+La lógica del arquero se basa en los principios de la 'Escritura de Tiro' de la Dinastía Song (estabilidad, puntería, tracción completa, ritmo).
+
+Referencia & Entorno:
+Usa @Image 1 y @Image 2 como anclas de identidad.
+Recombina las referencias de fondo en un ADN ambiental unificado (terreno, arquitectura, materiales, clima, luz, profundidad).
+Elige un eje de batalla adecuado para el ataque en profundidad (patio, puente, camino).
+El fondo debe permanecer vivo pero narrativamente neutral (viento, agua, niebla se mueven independientemente).
+Prohibiciones estrictas: No romper puentes súbitamente, no ocultar con niebla, no bloquear flechas automáticamente con árboles.
+
+Personajes:
+ID A (Hermana Mayor): 25-30 años, Hanfu de seda blanca, espada recta de plata.
+ID B (Hermana Menor): 20-25 años, Hanfu de lino verde, espada de acero. Testigo pasivo.
+Maestro: Testigo pasivo.
+Enemigos: 1 Maestro del Cuchillo en Primer Plano (equipo oscuro), 1 Arquero en el Fondo (posición estable).
+
+Estructura (15s total):
+0-5s: Plano general. El arquero dispara la primera flecha NO al cuerpo, sino al punto de retirada. El maestro del cuchillo carga. La Hermana esquiva hacia adentro porque la retirada está bloqueada. La flecha es visible en el suelo detrás de ella.
+5-10s: Plano medio. El cuchillo presiona. El arquero carga calmadamente una segunda flecha apuntando a la posición *futura*. La Hermana finge una retirada, se detiene de golpe. La flecha vuela a través del espacio vacío. La Hermana usa el impulso para arrastrar al Maestro del Cuchillo hacia la línea de fuego del Arquero. El Arquero contiene el disparo debido al riesgo de fuego amigo.
+10-15s: Primer plano. El Maestro del Cuchillo se da cuenta de la táctica, gira fuera de la línea, ataca de nuevo. El Arquero tensa una tercera flecha. La Hermana entra en la zona muerta. Usa el plano de la espada para desviar la dirección del cuchillo, rotando los cuerpos 90 grados. La flecha pasa de forma segura detrás de ellos. Ella explota la distracción de medio segundo del enemigo, envaina la espada cerca de su mandíbula. Silencio.
+Final: El Maestro dice "La flecha roba un paso, la espada roba una línea." Corte a negro.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105141798532419584/img/ad7FowT0tU3IT7ui.jpg" width="600" alt="Batalla Xianxia: Geometría de Flechas y Espadas">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=11629)**
+
+**Autor:** [Soran](https://x.com/Soranlan) | **Fuente:** [Link](https://x.com/Soranlan/status/2105142686206644692) | **Publicado:** Sep 30, 2026
+
+---
+### Combate Xianxia: Ganchos y trucos de cámara
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt de video para Seedance 2.0 que representa un duelo contra un asesino con ganchos dobles, utilizando ángulos de cámara, oclusiones y cambios de eje para crear engaño visual y claridad táctica en una secuencia de combate a alta velocidad.
+
+#### 📝 Prompt
+
+```
+Lo que está bloqueado es la espada, no su siguiente paso.
+Prompt:
+
+Textura cinematográfica realista, estética pura de combate hardcore Xianxia chino antiguo.
+Concepto central: La cámara participa engañando al espectador mediante ángulos, oclusiones y cambios de eje para revelar los giros tácticos.
+Base del movimiento: Cuerpo flexible, pies estables, avance/retroceso lógico, evasión diagonal, flujo continuo. Los 'Ganchos Dobles' del enemigo son un diseño de artes marciales cinematográfico.
+
+Referencia y entorno:
+Usa @Image 1 y @Image 2 como anclas de identidad.
+Recombina los fondos en un ADN ambiental unificado.
+El fondo permanece vivo pero neutral (el viento, el agua y la niebla se mueven independientemente).
+Reacciones locales solo al impacto (polvo, ondas, escombros).
+
+Personajes:
+ID A (Hermana Mayor): Hanfu de seda blanca, espada recta plateada.
+ID B (Hermana Menor) y Maestro: Testigos pasivos en el fondo.
+Enemigo: Asesino con ganchos dobles, equipo gris oscuro/negro.
+
+Estructura (15s total):
+0-5s: Plano general. Ángulo alto de 18mm baja hasta nivel de ojos. El enemigo carga. Plano lateral bajo de 24mm. Un gancho barre el lente. La Hermana Mayor evade mínimamente. Plano sobre el hombro de 40mm. El enemigo engancha el lomo de la espada, tira hacia afuera mientras ataca desde el lado opuesto. La Hermana Mayor pliega el cuerpo estrechamente. Corte por oclusión vía brazos/mangas. Ángulo inverso de 50mm revela los ganchos cruzados, bloqueando la espada. La fuerza de tracción desequilibra a la Hermana Mayor.
+5-10s: Plano medio. Tracking circular de 35mm. Secuencia de ataque continua (tirón ascendente, golpe bajo, manos invertidas, impacto de empuñadura). La Hermana Mayor evade mediante movimientos mínimos de cintura/paso. Primer plano de 65mm de las manos: Se forma un bloqueo mecánico. Vista cenital de 18mm muestra una zona triangular atrapada. La Hermana Menor da un paso adelante, el Maestro la detiene. La cámara cruza el eje de 180 grados a un plano inverso de 28mm. El enemigo gira los ganchos para desarmar. La Hermana Mayor acelera HACIA la tracción en lugar de resistirse.
+10-15s: Primer plano. Seguimiento handheld de 35mm. La Hermana Mayor usa la tracción del gancho como punto de pivote. El enemigo cierra la distancia con el segundo gancho. Corte por oclusión vía barrido del gancho sobre el lente. Plano inverso de 28mm revela que la Hermana Mayor ha cambiado de lado, escapando del bloqueo mediante rotación. Los ganchos se bloquean mutuamente brevemente. Órbita ajustada de 100 grados. Solo pasos reales/rotación. Primer plano extremo estático final de 85mm. La espada se detiene a un ancho de dedo de la mandíbula del enemigo. Un gancho alcanza el hombro de la Hermana Mayor medio segundo tarde. El otro gancho queda atascado en la línea media del enemigo. El sonido colapsa a respiración y resonancia metálica. El Maestro dice: "Lo bloqueado es la espada, no su siguiente paso." La Hermana Menor exhala.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105113406848344064/img/Nd5CDUONXlqwsTam.jpg" width="600" alt="Combate Xianxia: Ganchos y trucos de cámara">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=11630)**
+
+**Autor:** [Soran](https://x.com/Soranlan) | **Fuente:** [Link](https://x.com/Soranlan/status/2105113994944209371) | **Publicado:** Sep 30, 2026
+
+---
+### Drama de Oficina Moderno: Solicitud de Vacaciones
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Prompt de video para Seedance 2.0 que crea una escena realista de un entorno laboral moderno sobre la toma de vacaciones, contrastando la manipulación emocional por parte de los gerentes con la responsabilidad profesional, enfatizando la actuación natural y los detalles del entorno de oficina.
+
+#### 📝 Prompt
+
+```
+La responsabilidad significa entregar las cosas claramente, no sentirse endeudado al tomar un descanso.
+Prompt:
+
+Textura cinematográfica realista, drama laboral moderno en China.
+Enfoque en una observación social aguda pero contenida, diálogo coloquial y actuación sutilmente auténtica.
+Aspecto Arri Alexa, iluminación mixta de oficina/natural, grano de película.
+Tema: Contexto meme 'Tomar 3 días libres, descansar 13 días'. Explora la culpa que sienten los empleados incluso cuando usan sus propios derechos. Contrasta la presión tóxica con la normalidad profesional.
+
+Referencia & Entorno:
+Usa @Image 1 y @Image 2 como anclas faciales. Ajusta la ropa para una oficina moderna.
+Recombina las referencias de fondo en un espacio moderno creíble (escritorios, pantallas, ascensor, reflejos de vidrio).
+Entorno vivo pero neutral.
+
+Personajes:
+ID A (Líder de Proyecto): 27-32 años, camisa marfil, pantalones grises, reloj plateado. Calmado, profesional.
+ID B (Empleado Junior): 22-26 años, top de punto verde, sosteniendo formulario de vacaciones. Ansioso, disculpándose.
+Gerente: Semi-bromista, presionando.
+
+Estructura (15s total):
+0-5s: Plano general acercándose. El gerente presiona al Empleado Junior sobre el largo descanso. El Junior pierde confianza, comienza a explicar.
+5-10s: Plano medio. El Junior intenta retirar la solicitud. El Líder de Proyecto interviene calmadamente, pregunta si la entrega/contacto está hecho. Firma el formulario naturalmente. Lo devuelve. "Entonces ve a descansar."
+10-15s: Primer plano. El Gerente cuestiona la aprobación. El Líder lo mira: "¿De lo contrario?" Pausa. El Junior se preocupa por parecer irresponsable. El Líder dice: "La responsabilidad es entregar las cosas claramente. No sentir que le debes a alguien por tomar un descanso."
+El Junior se relaja, guarda el formulario. El Gerente queda desconcertado. Los colegas de fondo reaccionan sutilmente (uno apaga el chat de trabajo, otro sonríe).
+Final: Sin aplausos/música de victoria. El Junior camina hacia el ascensor. El Líder vuelve al trabajo. Se restaura la normalidad.
+
+Principios de Actuación:
+Junior: Preparado -> Confianza aplastada -> Culpa -> Alivio. Sin ira/llanto.
+Líder: Observador -> Confirma proceso -> Firma -> Actitud normal. Sin aire autoritario/vigilante.
+Gerente: Presión habitual -> Desconcertado, sin disculpa forzada.
+
+Requisitos Estrictos:
+15s, 16:9, 3 tomas continuas.
+Sincronización nativa en mandarín, contacto preciso de labios/ojos.
+Caras/pelo/ropa/props/layout estables.
+Física natural (papel, tela, pasos, ascensor).
+Audio sincronizado: Diálogo, crujido de papel, fricción, pasos, ding de ascensor, ruido ambiental.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105106350984634368/img/XWb4EQ7ZcxGG07Qq.jpg" width="600" alt="Drama de Oficina Moderno: Solicitud de Vacaciones">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=11631)**
+
+**Autor:** [Soran](https://x.com/Soranlan) | **Fuente:** [Link](https://x.com/Soranlan/status/2105106379610735081) | **Publicado:** Sep 30, 2026
+
+---
+### Prompt para Video de Danza Gótica Oscura
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Prompt integral para un video de danza gótica oscura de 15 segundos, protagonizado por una mujer del este asiático en un santuario en ruinas con lirios arácnidos. Incluye secciones detalladas sobre la protagonista, coreografía, dirección de cámara y entorno.
+
+#### 📝 Prompt
+
+```
+Sujeto y Personaje: Una joven misteriosa y hermosa del este asiático, de pie en un antiguo santuario en ruinas rodeado de infinitos lirios arácnidos rojos bajo un cielo oscuro y tormentoso. Viste un elegante vestido negro de inspiración tradicional gótica con acentos rojos, mangas largas y fluidas, y telas oscuras que se mueven naturalmente con su cuerpo. Su expresión es fría, melancólica e hipnótica: una mezcla de tristeza, soledad y confianza silenciosa. Mantén la apariencia original del personaje, rostro, peinado, diseño del atuendo y atmósfera cinematográfica. ⸻ Acción y Coreografía: Interpretación de danza cinematográfica intensa de 15 segundos. La mujer realiza una poderosa fusión de danza contemporánea oscura, coreografía gótica y movimientos agudos inspirados en el hip-hop. Sus movimientos son elegantes pero explosivos: * Golpes súbitos de hombro * Ondulaciones afiladas de brazos * Aislamientos corporales dramáticos * Gestos rápidos de manos como en una danza ritual * Giros poderosos * Movimientos fluidos de las mangas * Movimientos bajos en cuclillas * Congelamientos súbitos al ritmo de la música Sus mangas largas y cabello siguen cada movimiento con física realista. La danza se siente como un fantasma solitario realizando un ritual final en un mundo olvidado. Se mueve desde la quietud hacia el movimiento explosivo, expresando duelo, ira y aceptación. ⸻ Dirección de Cámara: Video cinematográfico vertical 9:16 Usa lenguaje de cámara dinámico estilo película: 0-3 segundos * Comienza con un acercamiento cinematográfico lento desde un plano general. * La mujer permanece inmóvil en medio del campo de lirios arácnidos. * El viento mueve su cabello y vestido. * Caen gotas de lluvia. 3-6 segundos * Cambio abrupto de ritmo musical (beat drop). * La cámara gira rápidamente alrededor de ella. * Ella comienza movimientos de danza afilados. * Golpes rápidos de hombros y movimientos de brazos. * Los lirios arácnidos rojos tiemblan violentamente a su alrededor. 6-10 segundos * Cámara en mano dinámica siguiendo su movimiento. * Planos contrapicados mostrando poder y elegancia. * Cortes cinematográficos rápidos: * Primer plano de sus ojos * Primer plano de sus manos * Tela negra ondeante * Pasos pisando el suelo mojado 10-13 segundos * Realiza un giro poderoso. * La cámara rota con ella. * El cabello y las mangas crean un movimiento circular. * La niebla remolina a su alrededor como una fuerza sobrenatural. 13-15 segundos * La música se detiene repentinamente. * Ella deja de moverse. * La cámara se aleja mucho. * Ella se convierte en una silueta solitaria rodeada de flores rojas infinitas. * Un solo pétalo de lirio arácnido rojo cae frente a la lente. ⸻ Entorno: Santuario japonés abandonado y oscuro. Lluvia intensa, suelo de piedra húmedo, niebla densa. Luz ambiental azul fría mezclada con un resplandor rojo profundo de las flores. Alto contraste, atmósfera sombría.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105096762365284352/img/3rffyeewPKgBFD9g.jpg" width="600" alt="Prompt para Video de Danza Gótica Oscura">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=11626)**
+
+**Autor:** [Zidan 子丹](https://x.com/liluocheng13) | **Fuente:** [Link](https://x.com/liluocheng13/status/2105097476273545558) | **Publicado:** Sep 30, 2026
+
+---
+### Drama Xianxia: La Taza Inútil
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Prompt de video para Seedance 2.0 que genera una escena cinematográfica de estilo Xianxia donde el pasatiempo aparentemente inútil de una discípula junior (hacer una taza torcida) es validado por su hermana mayor, explorando temas de valor intrínseco frente a utilidad.
+
+#### 📝 Prompt
+
+```
+Textura realista cinematográfica, estética pura de Xianxia chino antiguo.
+Principios clave:
+Sin vocabulario moderno.
+Evitar el cliché de que "los pasatiempos aparentemente inútiles ocultan habilidades supremas".
+La taza permanece como una taza ordinaria y ligeramente torcida durante toda la escena, portadora de valores del personaje más que de utilidad argumental.
+Referencias y entorno:
+Usar @Image 1 y @Image 2 estrictamente como anclas de identidad para los personajes.
+Recombinar silenciosamente las referencias de fondo subidas en un ADN ambiental unificado (arquitectura, terreno, materiales, vegetación, agua, niebla, nubes, reflejos, iluminación, profundidad).
+El entorno debe permanecer vivo pero narrativamente neutral.
+Personajes:
+ID A (Hermana Mayor): Mujer asiática oriental de 25-30 años, Hanfu de seda blanca, espada plateada, porte sereno.
+ID B (Hermana Menor): Mujer asiática oriental de 20-25 años, Hanfu de lino verde, espada de acero, complexión pequeña.
+Otros: Maestro, compañero competitivo, otros discípulos.
+Estructura (15 segundos totales):
+0-5s: Plano general. Los discípulos muestran sus logros (manuales, núcleos). La Hermana Menor muestra una taza de barro torcida. El Maestro pregunta por qué la hizo. Ella dice: "Quería aprender".
+5-10s: Plano medio. Un compañero se burla de su inutilidad. La Hermana Mayor toma la taza, vierte té y permanece en silencio.
+10-15s: Primer plano. El Maestro cuestiona la tolerancia de la Hermana Mayor. Ella admite que no es progreso, luego bebe de la taza diciendo: "Por eso es rara". Le dice a la Hermana Menor: "Las personas no son artefactos mágicos. No todo tiene que ser útil".
+Restricciones estrictas:
+Exactamente 15 segundos, formato horizontal 16:9.
+Tres tomas continuas y claras.
+Diálogo nativo sincronizado en mandarín con lip-sync preciso.
+Identidades estables de personajes, vestuario y utilería.
+Física natural para cerámica, té, tela y cabello.
+Sin subtítulos.
+Enfoque Seedance 2.0 Mini:
+Consistencia de identidad multi-referencia, jerarquía visual, acciones dramáticas limitadas, continuidad de cámara/iluminación, estabilidad de utilería, sincronización audiovisual precisa (diálogo, sonidos de objetos).
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105091998663467008/img/vF0AOG5mOeoelMRE.jpg" width="600" alt="Drama Xianxia: La Taza Inútil">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=11628)**
+
+**Autor:** [Soran](https://x.com/Soranlan) | **Fuente:** [Link](https://x.com/Soranlan/status/2105092530689999020) | **Publicado:** Sep 30, 2026
+
+---
+### Prompt de Video de China Antigua para Seedance
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Prompt de generación de video integral para Seedance 2.0 (implícito por el contexto/filtro del modelo) que describe un video vertical de 6 segundos de una mujer china antigua con atuendo de la dinastía Tang, incluyendo movimientos de cámara detallados y transiciones de escena.
+
+#### 📝 Prompt
+
+```
+Genera un video retrato ultra-realista en acción real, estilo antiguo, de 6 segundos, formato vertical 9:16 y resolución 4K.
+
+El sujeto principal es una mujer asiática oriental claramente adulta, vistiendo un hermoso, claro y elegante traje de estilo antiguo de la dinastía Tang, de pie frente a árboles florales nocturnos.
+
+La personaje tiene un rostro ovalado natural y suave, mandíbula pequeña y lisa, rasgos exquisitos pero manteniendo proporciones realistas; sin cara de plantilla de influencer, sin estructura ósea occidental.
+
+El cabello negro, denso y largo está peinado en un moño alto complejo estilo Tang, lleno y con capas, adornado en la parte superior y los lados con:
+
+Horquillas florales rosa claro
+Adornos florales azul claro
+Hojas verde esmeralda
+Cuerdas de cuentas
+Borlas de perlas
+Horquillas metálicas
+Aretes largos colgantes
+
+Ambos lados conservan mechones largos de cabello negro liso cayendo naturalmente hasta el pecho.
+
+Hay algunos cabellos sueltos finos sobre la frente.
+
+Maquillaje exquisito pero claro:
+
+Sombra de ojos rosa durazno
+Delineador negro natural
+Pestañas definidas
+Cejas naturales nativas
+Rubor rosa claro
+Labios coral rosado húmedos
+Maquillaje con ligero toque de Huadian (decoración facial tradicional)
+
+La piel permanece clara, limpia y suave, pero no plástica, reteniendo poros leves, cambios finos de textura cutánea y asimetría facial natural.
+
+⸻
+
+Vestuario
+
+La personaje lleva un vestido muy hermoso de múltiples capas estilo Tang en cian claro + verde menta + rosa pálido + blanco marfil.
+
+La capa exterior es un chal de gasa fina semitransparente y mangas anchas.
+
+Las mangas son amplias y fluidas.
+
+Los puños, cuellos y solapas tienen delicados:
+
+Bordados florales
+Ribetes de hilo dorado
+Patrones vegetales rosa-azulados claros
+
+El área del pecho presenta una estructura Ruqun de cintura alta estilo Tang.
+
+Gran área de bordado floral exquisito en la posición del pecho.
+
+La cintura usa una faja azul verdosa.
+
+El cuerpo de la falda muestra un evidente estratificado de seda y gasa.
+
+Los materiales deben mostrar:
+
+Reflejo real de seda
+Semitransparencia de gasa ligera
+Detalles de hilos de bordado
+Caída natural de las mangas
+
+No debe parecer Hanfu barato de estudio fotográfico.
+
+⸻
+
+Escenario
+
+El fondo son árboles florales en floración en un entorno nocturno o oscuro.
+
+Muchas flores blancas pálidas, rosas claras y moradas ligeras distribuidas detrás de la personaje.
+
+El fondo general es oscuro.
+
+Las flores forman acentos de color claro bajo iluminación suave.
+
+Jerarquía clara entre la personaje y el fondo.
+
+Sin efectos especiales Xianxia.
+
+Sin partículas masivas.
+
+Sin luna.
+
+Sin grandes escenas de palacio.
+
+El enfoque es:
+
+Primer plano de la personaje + fondo oscuro de árboles florales.
+
+⸻
+
+0–1s | Mirada Frontal
+
+La personaje inicial mira directamente a la cámara.
+
+El cuerpo ligeramente girado, pero la cara casi directamente mirando a la cámara.
+
+Ojos mirando directamente al lente.
+
+Esquinas de la boca con una sonrisa muy leve y suave.
+
+Mano derecha colocada naturalmente cerca del pecho.
+
+Mano izquierda oculta bajo las mangas anchas o debajo del cuerpo.
+
+Toda la persona permanece tranquila y elegante.
+
+La cámara usa un primer plano medio desde el pecho hacia arriba.
+
+⸻
+
+1–2s | Mano a la Barbilla
+
+La personaje levanta lentamente una mano desde el pecho.
+
+La muñeca permanece suavemente curvada.
+
+Dedos extendidos naturalmente.
+
+No rígidos.
+
+Dorso de la mano ligeramente hacia la cámara.
+
+La mano se mueve lentamente desde el pecho pasando por el cuello hasta debajo de la barbilla.
+
+Forma una acción clásica de dama apoyando elegantemente la barbilla.
+
+Los ojos de la personaje aún miran al lente.
+
+La sonrisa se intensifica ligeramente.
+
+⸻
+
+2–3.2s | La Mano Continúa al Moño
+
+La mano no permanece mucho tiempo en la barbilla.
+
+Continúa moviéndose lentamente hacia arriba a lo largo del lado de la cara.
+
+Pasando por:
+
+Mejilla
+Sien
+Lado de la oreja
+
+Finalmente levantada cerca de la parte superior del moño.
+
+Los dedos índice, medio y anular se acercan suavemente a los accesorios del cabello.
+
+El movimiento es suave y contenido.
+
+No agarrar el cabello con fuerza.
+
+Más bien como sostener ligeramente una horquilla o ajustar el moño.
+
+Las mangas anchas caen naturalmente mientras el brazo sube.
+
+Los puños de gasa fina forman hermosas capas.
+
+⸻
+
+3.2–4.5s | Apoyando el Cabello + Ligero Giro
+
+La personaje mantiene una mano sosteniendo ligeramente el moño.
+
+Simultáneamente, el cuerpo y la cabeza comienzan a girar con amplitud pequeña.
+
+Aproximadamente:
+
+5–10 grados.
+
+La cara cambia de frontal completa a un ángulo de 3/4 ligero.
+
+Los ojos aún mirando al lente.
+
+Las esquinas de la boca mantienen una sonrisa suave.
+
+La otra mano colocada naturalmente delante del cuerpo.
+
+Las mangas y el chal muestran un ligero balanceo.
+
+Las borlas de perlas en la horquilla también producen un balanceo natural muy pequeño.
+
+⸻
+
+4.5–6s | Sonrisa de Perfil Final
+
+La personaje mantiene la mano cerca del moño.
+
+La cabeza inclina ligeramente más.
+
+Forma un hermoso ángulo de retrato de 3/4 ligero.
+
+Los ojos aún mirando al lente.
+
+Expresión ligeramente más suave que al inicio.
+
+Sonrisa natural.
+
+Sin risa amplia mostrando dientes.
+
+Las mangas anchas mantienen su caída natural.
+
+Aretes, cuentas y accesorios del cabello oscilan ligeramente.
+
+Mantener durante aproximadamente 0.5 segundos al final.
+
+⸻
+
+Cámara y Movimiento
+
+Usar:
+
+Lente de retrato equivalente a 70–85mm
+
+Primer plano desde el pecho hacia arriba.
+
+Altura de la cámara ligeramente inferior o a nivel de los ojos de la personaje.
+
+La personaje siempre centrada en el encuadre.
+
+El video básicamente mantiene una posición de cámara fija.
+
+Solo permitir:
+
+muy sutil push-in (acercamiento)
+
+Avance débil de aproximadamente 3%-5%.
+
+También existe un ligero:
+movimiento respiratorio cinematográfico
+
+Sin paneos.
+
+Sin zooms rápidos.
+
+Sin órbitas.
+
+Sin grandes movimientos laterales.
+
+⸻
+
+Iluminación
+
+Adoptar sesión de estudio clásico suave + fondo de árbol floral nocturno.
+
+La cara de la personaje usa luz frontal-lateral suave.
+
+Cara generalmente muy brillante.
+
+Luces altas suaves en puente nasal, pómulos y labios.
+
+Bordes del cabello pueden tener ligero rim light (luz de contorno).
+
+Fondo permanece oscuro.
+
+Flores ligeramente iluminadas.
+
+Formando:
+
+Personaje brillante + Fondo oscuro + Flores de colores claros
+
+Contraste de alta gama.
+
+Sugerencia de color general:
+
+Cian claro
+Verde menta
+Rosa pálido
+Blanco perla
+Fondo negro profundo
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2104932077959614464/img/4HSmmF7aRhzTYV1E.jpg" width="600" alt="Prompt de Video de China Antigua para Seedance">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=11627)**
+
+**Autor:** [梦老湿 Dream AI](https://x.com/jackzhang123vip) | **Fuente:** [Link](https://x.com/jackzhang123vip/status/2104932159769448543) | **Publicado:** Sep 29, 2026
+
+---
 ### Prompt de Video Comercial de Relojería de Lujo
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -5542,299 +6129,6 @@ PERSONAJE 1 — LEE: Hombre asiático atlético y delgado, cabello oscuro corto,
 **Autor:** [TechieSA](https://x.com/TechieBySA) | **Fuente:** [Link](https://x.com/TechieBySA/status/2098370639748800549) | **Publicado:** Sep 11, 2026
 
 ---
-### Desayuno en stop motion con muñeca amigurumi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de stop motion de varias escenas para crear una secuencia acogedora de una muñeca de estambre amigurumi cocinando huevos y sazonando comida.
-
-#### 📝 Prompt
-
-```
-Detalles de la escena:
-Acción: La muñeca rompe huevos en una sartén de tejido de punto color gris oscuro sobre una estufa de crochet.
-Objetos: Huevos tejidos con yemas de estambre amarillo brillante, saleros y pimenteros de crochet con las etiquetas "SALT" y "PEPPER", frascos de estambre con etiquetas como "Made with Love", y un acogedor fondo de madera iluminado por la suave luz de la mañana que entra por una ventana.
-Estilo: Fotografía macro con efecto tilt-shift, texturas táctiles de lana y algodón, patrones de tejido altamente detallados, estética de animación stop-motion, estética cálida y acogedora, profundidad de campo, resolución 8k. --ar 9:16 --v 6.0
-
-Clip 1: Rompiendo huevos (0:00 - 0:08)
-Prompt: Una linda muñeca de estambre amigurumi con un chongo de cabello castaño y un atuendo de tejido morado sostiene una cáscara de huevo de crochet y rompe huevos crudos en una sartén de tejido gris oscuro sobre una estufa acogedora. Las yemas de estambre amarillo brillante se asientan suavemente en la sartén, luz suave de la mañana entrando por la ventana, animación stop-motion 3D, texturas de lana táctiles, ángulo de cámara macro.
-Clip 2: Primer plano de sazonado (0:08 - 0:15)
-Prompt: Toma macro extrema, estilo de animación stop-motion. Una niña de estambre amigurumi sostiene saleros y pimenteros miniatura de crochet etiquetados como "SALT" y "PEPPER", espolvoreando pequeñas cuentas blancas y negras sobre tres huevos de estambre fritos que chisporrotean en una sartén tejida. Detalles de lana táctiles, iluminación cálida y acogedora, poca profundidad de campo.
-Clip 3: Emplatado de la comida (0:15 - 0:23)
-Prompt: Plano medio, animación stop-motion. La niña amigurumi usa una espátula de madera diminuta para deslizar los huevos de estambre cocidos desde una sartén de crochet gris oscuro hacia un plato tejido decorativo. Fondo de cocina acogedor lleno de frascos de estambre y detalles de crochet, luz brillante de la mañana, movimiento táctil cuadro por cuadro.
-Clip 4: Desayunando (0:23 - 0:32)
-Prompt: Animación stop-motion en primer plano. La muñeca amigurumi se sienta en una mesa pequeña, usando un tenedor y cuchillo de metal miniatura para cortar un huevo de estambre frito en un plato de crochet. Iluminación suave y acogedora, patrones de tejido detallados en su suéter y delantal, estética artesanal táctil.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098365512946163715/img/4i_Oz2JEm1TbXBVL.jpg" width="600" alt="Desayuno en stop motion con muñeca amigurumi">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=10748)**
-
-**Autor:** [Maya](https://x.com/MayaAiCreator) | **Fuente:** [Link](https://x.com/MayaAiCreator/status/2098365565781917862) | **Publicado:** Sep 11, 2026
-
----
-### Prompt para video de historia de jefe de fantasía
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt narrativo cargado de historia para generar un personaje de jefe de fantasía, un guardián de piedra vinculado por juramentos antiguos, para el universo de Tales of Valdir.
-
-#### 📝 Prompt
-
-```
-OSSGAROTH, EL GUARDIÁN HUECO 🗿🔥
-
-Mucho antes de que las grietas marcaran a Valdir, una orden de guardianes de juramentos selló la primera grieta bajo la tierra. Un sello de magia por sí solo no sería suficiente, así que vincularon el alma de su mejor guardián a un cuerpo de piedra consagrada y los huesos de los guardianes caídos, enterrándolo en las catacumbas como un candado viviente.
-
-Durante mil años durmió en la oscuridad, y las raíces del mundo crecieron a través de él.
-
-Cuando las nuevas grietas desgarraron la tierra, una se abrió dentro de su tumba. La energía del vacío inundó las antiguas grietas de su cuerpo y reavivó el núcleo de brasas en su pecho. El sello se rompió. El candado ahora camina.
-
-No abandona la mazmorra porque la grieta sigue sangrando debajo de ella; está atado a la herida misma. Y así, el Guardián Hueco espera bajo la luz de las antorchas, juzgando a cada alma que desciende con una sola pregunta:
-
-¿Eres un quebrantador de juramentos?
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098339276589268992/img/4Fehe5QHeWaC362e.jpg" width="600" alt="Prompt para video de historia de jefe de fantasía">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=10754)**
-
-**Autor:** [AIスタジオワンルーム（AIアニメ、動画、漫画）](https://x.com/studio_oneroom) | **Fuente:** [Link](https://x.com/studio_oneroom/status/2098343318770028785) | **Publicado:** Sep 11, 2026
-
----
-### Video musical cinematográfico de Neon City
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un sofisticado prompt de video musical para un trío de cantantes en un centro urbano futurista de neón, que detalla movimientos de cámara específicos y consistencia de personajes.
-
-#### 📝 Prompt
-
-```
-Crea un video musical cinematográfico ultrarrealista de 30 segundos que presente a tres cantantes adultos jóvenes interpretando una canción moderna y emotiva en una ciudad iluminada por luces de neón durante la noche. El video debe lucir como una producción profesional de alto presupuesto, con humanos realistas, sincronización labial precisa, interpretaciones expresivas, iluminación atmosférica y una cinematografía sofisticada.
-
-PERSONAJES
-
-Personaje 1 — Protagonista femenina:
-Mujer adulta joven, de unos 20 años, cabello negro largo, ojos expresivos, atuendo elegante en negro y plata, personalidad segura pero emotiva.
-
-Personaje 2 — Protagonista masculino:
-Hombre adulto joven, de unos 20 años, cabello oscuro con textura, chaqueta negra elegante y camisa blanca, carismático y emocionalmente expresivo.
-
-Personaje 3 — Vocalista femenina:
-Mujer adulta joven, de unos 20 años, cabello oscuro a la altura de los hombros, atuendo moderno de color rojo intenso, presencia escénica enérgica pero natural.
-
-Mantén sus rostros, vestimenta, peinados, proporciones corporales e identidades perfectamente consistentes a lo largo de todo el video.
-
-ENTORNO
-
-Una calle céntrica futurista de noche después de una lluvia ligera. Pavimento mojado que refleja coloridos letreros de neón, escaparates brillantes, niebla sutil, tráfico a lo lejos, bokeh cinematográfico, luces urbanas atmosféricas y reflejos realistas.
-
-ESCENA POR ESCENA
-
-0–4 seg — Apertura
-Primer plano extremo de los ojos del Personaje 1. Reflejos de neón visibles en sus ojos. La cámara se aleja lentamente mientras ella comienza a cantar. Gotas de lluvia brillan en el fondo.
-
-4–8 seg — Interpretación principal
-El Personaje 1 camina lentamente por la calle mojada mientras canta directamente hacia la cámara. Toma de seguimiento suave hacia atrás. Su cabello se mueve naturalmente con la brisa nocturna.
-
-8–12 seg — Verso masculino
-Corte al Personaje 2 apoyado contra un edificio iluminado por neón. Comienza a cantar su parte. Lenta órbita cinematográfica de la cámara a su alrededor, con las coloridas luces de la ciudad desenfocadas detrás de él.
-
-12–16 seg — Vocalista femenina
-El Personaje 3 aparece caminando por la calle de neón. Canta mientras mira hacia la cámara. Toma de seguimiento lateral suave que transiciona a un primer plano.
-
-16–22 seg — Interpretación del trío
-Los tres personajes se encuentran en una amplia intersección de la ciudad y actúan juntos. La cámara gira lentamente a su alrededor mientras cantan. Interacción natural, gestos sutiles, química creíble.
-
-22–27 seg — Coro emotivo
-Secuencia rápida pero elegante de primeros planos: el Personaje 1 cantando, el Personaje 2 uniéndose, el Personaje 3 armonizando. Cada movimiento de boca sigue con precisión el audio proporcionado.
-
-27–30 seg — Toma final
-Los tres cantantes están juntos en medio de la calle mojada. La cámara se eleva lentamente y se aleja, revelando la ciudad brillante a su alrededor. Terminan la última letra juntos exactamente al ritmo. Finaliza con una toma panorámica cinematográfica dramática.
-
-CINEMATOGRAFÍA
-
-Cinematografía de video musical de alta gama, aspecto de lente anamórfica, profundidad de campo reducida, seguimiento suave con gimbal, acentos en cámara lenta, primeros planos cinematográficos, movimiento de cámara controlado, destellos de lente realistas, desenfoque de movimiento natural, hermoso bokeh y composición dinámica.
-
-AUDIO Y RENDIMIENTO
-
-Usa el
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098319436650631168/img/irrALxcEU5p3MHJc.jpg" width="600" alt="Video musical cinematográfico de Neon City">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=10749)**
-
-**Autor:** [M. Asif](https://x.com/meAsifAi) | **Fuente:** [Link](https://x.com/meAsifAi/status/2098330707374514573) | **Publicado:** Sep 11, 2026
-
----
-### Escena de desierto con ballena blanca gigante
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt surrealista y cinematográfico para generar un video vertical de un humano diminuto encontrándose con una enorme ballena blanca mítica en un paisaje desértico agrietado.
-
-#### 📝 Prompt
-
-```
-Escena cinematográfica ultrarrealista de una figura humana diminuta caminando a través de un paisaje desértico infinito, pálido y agrietado hacia una gigantesca criatura mítica similar a una ballena que descansa pacíficamente en el suelo. La enorme criatura tiene piel texturizada detallada, aletas masivas, ojos sutiles y una presencia surrealista y onírica. Una niebla suave rodea la escena, creando una atmósfera misteriosa. Composición de gran angular que enfatiza la diferencia extrema de escala entre el humano y la criatura, tonos monocromáticos apagados, iluminación suave y difusa, sombras realistas, profundidad atmosférica, texturas altamente detalladas, fotografía cinematográfica, 8K, HDR, fotorrealista, realismo de fantasía épica, composición vertical 9:16.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098284251066351616/img/dwKKtUnS3ueYNewb.jpg" width="600" alt="Escena de desierto con ballena blanca gigante">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=10698)**
-
-**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Fuente:** [Link](https://x.com/AIwithMinal/status/2098284373372018792) | **Publicado:** Sep 11, 2026
-
----
-### Mañana lluviosa en Seúl con estética vintage MiniDV
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt integral para crear una estética de video casero MiniDV nostálgica de principios de los 2000, que presenta una escena espontánea en una mañana dentro de un departamento en Seúl.
-
-#### 📝 Prompt
-
-```
-Sujeto principal: Mujer coreana joven, de 24 años, naturalmente atractiva, piel realista, maquillaje mínimo, cabello largo y oscuro suelto. Viste una camiseta casual sencilla de talla grande y pantalones de descanso holgados. Conserva su identidad exacta, rasgos faciales, peinado, proporciones corporales y apariencia en todo momento.
-
-Ubicación: Dormitorio de un pequeño y antiguo departamento en Seúl en una mañana lluviosa y tranquila. Muebles de madera sencillos, cama sin tender, escritorio pequeño, ropa colocada casualmente por la habitación y una ventana cubierta de lluvia con vista a edificios de departamentos borrosos. Lluvia constante afuera.
-
-Iluminación y atmósfera: Ambiente acogedor y tenue de la hora azul. Luz fría azul grisácea proveniente de la ventana lluviosa mezclada con la luz cálida y débil de una lámpara de noche. Cielo oscuro y nublado, colores apagados, sombras suaves e interior ligeramente subexpuesto. Atmósfera íntima y somnolienta de una mañana lluviosa.
-
-Estilo: Video casero ultra realista de una Sony MiniDV de principios de los 2000. Completamente espontáneo y sin preparación. Movimiento natural de cámara en mano, ligero temblor de cámara, encuadre imperfecto, búsqueda ocasional de enfoque automático, cambios leves de exposición, colores desvanecidos, contraste suave, compresión DV auténtica, ruido digital sutil de baja iluminación y ruido de micrófono. Movimiento continuo y fluido en tiempo real en todo momento. Sin tartamudeo, vibración, saltos de fotogramas, fotogramas duplicados, apariencia de stop-motion, desenfoque de movimiento excesivo, cambios de velocidad o aspecto de baja velocidad de fotogramas. Sin estabilización ni movimiento cinematográfico moderno.
-
-00:00–00:04: Ella está de pie junto a su escritorio organizando casualmente algunas cosas pequeñas, mirando ocasionalmente hacia la ventana lluviosa. La videocámara observa desde un ángulo ligeramente imperfecto.
-
-00:04–00:07: De repente siente que va a estornudar. Se detiene, arruga un poco la cara y lleva la mano hacia su nariz.
-
-00:07–00:10: Estornuda naturalmente en su mano. Por un momento se ve un poco sorprendida por lo repentino que fue.
-
-00:10–00:13: Baja la mano y mira directamente hacia la videocámara con una expresión ligeramente avergonzada, al darse cuenta de que la estaban grabando.
-
-00:13–00:15: Lanza una pequeña sonrisa divertida y se ríe suavemente de sí misma antes de volver a mirar hacia la ventana.
-
-Audio: Solo sonido natural del lugar: lluvia constante contra el cristal, ambiente suave de la habitación, movimiento de la tela, tráfico distante, sonidos tenues del departamento y el estornudo natural. Sin música, narración ni efectos de sonido añadidos.
-
-Objetivo: Que se sienta como un pequeño momento accidental capturado por un familiar en una vieja videocámara MiniDV. Lindo, natural y discreto. Su reacción posterior debe sentirse genuina en lugar de actuada.
-
-Calidad de movimiento: Mantén todo el movimiento del cuerpo y de la cámara fluido y continuo. El estornudo debe ser un movimiento natural y fluido en lugar de exagerado o repetido. El aspecto vintage proviene de las características auténticas de la imagen MiniDV, no de una velocidad de fotogramas baja o inconsistente.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098085864387821568/img/IhFaLi3jiQcHWCN2.jpg" width="600" alt="Mañana lluviosa en Seúl con estética vintage MiniDV">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=10695)**
-
-**Autor:** [Ahmad Faraz](https://x.com/iamahmedfaraz66) | **Fuente:** [Link](https://x.com/iamahmedfaraz66/status/2098257726145171832) | **Publicado:** Sep 11, 2026
-
----
-### Rutina diaria de la infancia en la palma de tu mano
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt detallado al estilo storyboard para un video de 15 segundos grabado con smartphone, tipo cámara en mano, que captura fragmentos de la vida cotidiana de una niña de 5 años, desde el jardín de infantes hasta la hora de dormir.
-
-#### 📝 Prompt
-
-```
-[Overview] A record of a 5-year-old girl from after kindergarten until she sleeps. The mother is recording with a smartphone from a short distance without speaking. Modern era. 480p, 16:9, 15 seconds. 7 hard-cut shots (approx. 2s each) in 7 different locations. No transitions or fades. The subject does not interact with the camera: no eye contact, showing items, waving, or posing. She is absorbed in what is in front of her. Not acting, but fragments of daily life. No dialogue, lines, or narration.
-
-[Subject] Definition of beauty: A Japanese girl cute enough to pass a child actor audition. The profile view while absorbed in something is the cutest. Face: Puffy round cheeks, large double-lidded black eyes, long lashes, small round nose, a small mouth that shows baby teeth when smiling, translucent white skin with flush on cheeks (realistic texture). Hair: Shoulder-length black hair in pigtails, with one side coming undone. Clothes: Light blue cotton dress (slight stain on knee), white leggings, light-up sneakers, a small backpack with rabbit ears (no text). Habit: Hopping on one leg, getting too close to things of interest. Face, hair, and clothes are identical in all shots.
-
-[Characters] Mother (Camera Operator): Not on screen, but occasional small laughs, breaths, or the sound of clothes as she readjusts the camera are included (no words). Only the mother's hand enters the frame in the first shot.
-
-[Time/Place/Light] Modern summer evening to night. 1. Path in front of kindergarten (orange evening light, no signs). 2. Flowerbed on the way home (low western sun). 3. Park drinking fountain (evening light). 4. House entrance (warm lighting). 5. Living room floor (crayons, warm lighting). 6. Washroom (hairdryer, white lighting; no mirror). 7. Futon (dim nightlight). Choose locations/angles where signs, text, logos, or screens are not visible.
-
-[Camera] Horizontal handheld smartphone video. Natural shake, imperfect composition, low angle at child's height, occasional autofocus hunting, exposure fluctuations. 1.5-3m distance from subject. Subject ignores camera. No stabilization, gimbal, drone, slow motion, cinematic lighting, or commercial color grading. Camera is always at the operator's hand position (standing, sitting, kneeling, walking). No impossible angles (air, underwater, ceiling, etc.). The operator is a real person in the same space, following the subject with a slight delay.
-
-[Shots] 1. Kindergarten path/Evening. Holding mother's hand, hopping on one leg with joy. Emotion: Happy to meet. Backpack sways. Camera: Kneeling height, side view. 2. Flowerbed/Western sun. Squatting close to a flower, nose touching a petal, rubbing nose. Emotion: Gentle feelings. Camera: Side view, momentary focus on flower. 3. Drinking fountain. Turning the tap, water gushes out, face gets drenched, stunned expression. Emotion: Surprised then amused. Camera: From a distance. 4. Entrance. Tripping while trying to take off shoes, stunned then laughing. Emotion: Funny. Camera: Looking down from the hallway. 5. Living room floor. Finishing a crayon drawing, holding it up, nodding with satisfaction. Emotion: Proud. Camera: Near floor, diagonal rear view. 6. Washroom/Dryer. Laughing as the dryer air messes up her face. Emotion: Ticklish and fun. Camera: Close up, hair fluttering. 7. Futon/Nightlight. Eyelids drooping during a book, fighting sleep and losing. Emotion: Sleepy but won't admit it. Camera: Gently approaching. Blackout at 0:14 without fade.
-
-[Props] Rabbit backpack has slightly dirty felt ears. Light-up shoes are pink with heel lights. 16-color crayons (no text on box). Book cover not shown. White plastic hairdryer.
-
-[Prohibitions] No readable text, logos, signs, labels, packages, or digital displays.
-
-[Physics/Consistency] Realistic physics. No extra fingers, merged hands, floating objects, or sudden morphing. Feet on ground. Hair, backpack, and shoes consistent.
-
-[Sound] Natural ambient sounds only: birds, insects, water, shoe sounds, crayon scratching, dryer, rustling clothes. No words. Occasional small laughs/breaths from operator and subject allowed. No music or narration.
-
-[Atmosphere] A record of an ordinary evening that makes one think 'my child was like this.' Not acting, just fragments of focus. Dear, warm, and deeply human. Priority on the feeling that a camera just happened to be there.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2097996183176409088/img/uZPOueJjq50-8SIf.jpg" width="600" alt="Rutina diaria de la infancia en la palma de tu mano">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=10755)**
-
-**Autor:** [妖精アーヤ](https://x.com/aiehon_aya) | **Fuente:** [Link](https://x.com/aiehon_aya/status/2098245151000776724) | **Publicado:** Sep 11, 2026
-
----
-### De cuadrícula de imágenes a animación de video de apertura
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt diseñado para animar una cuadrícula de 16 imágenes y convertirla en un video musical estilo apertura de 30 segundos con tiempos de segmento específicos.
-
-#### 📝 Prompt
-
-```
-Convierte esta imagen en un video musical estilo OP animándola en orden desde la esquina superior izquierda como ①, luego ② a su derecha, hasta llegar al 16 en la esquina inferior derecha, durante 2 segundos cada una.
-
-Seedance 2.5, 30 segundos, relación de aspecto 16:9.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098063643548307456/img/ZolvCiAtP2xQyNHK.jpg" width="600" alt="De cuadrícula de imágenes a animación de video de apertura">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=10705)**
-
-**Autor:** [咲山(AIイラスト・AI動画垢)](https://x.com/z933TfmXkaISSVc) | **Fuente:** [Link](https://x.com/z933TfmXkaISSVc/status/2098063747470565699) | **Publicado:** Sep 10, 2026
-
----
-### Video 4K de decoración lujosa para despedida de soltera
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt sofisticado para generar metraje cinematográfico de eventos de alta calidad, enfocado específicamente en decoraciones elegantes para despedidas de soltera con movimientos de cámara fluidos y texturas detalladas.
-
-#### 📝 Prompt
-
-```
-Un video cinematográfico de 15 segundos que muestra una lujosa decoración para despedida de soltera en calidad 4K fotorrealista. Un movimiento de cámara ultra fluido y estabilizado se desliza a través de un espacio para eventos elegante y de alta gama.
-
-0:00–0:05: Paneo fluido a la altura de los ojos que revela un montaje refinado con vajilla de porcelana fina, cristalería con bordes dorados, arreglos florales en tonos pastel y velas cónicas parpadeantes sobre un camino de mesa de seda transparente.
-
-0:05–0:10: Primer plano macro dinámico que sigue tarjetas de lugar acrílicas personalizadas, delicados lazos de cinta en servilletas de lino y burbujas de champán brillantes subiendo en copas de cristal.
-
-0:10–0:15: Acercamiento lento hacia un opulento fondo floral con eucalipto, rosas blancas y peonías ruborizadas que rodean un letrero de neón personalizado, bañado en una luz ambiental suave y cálida con un efecto bokeh cremoso.
-
-Estilo y parámetros: Renderizado 3D fotorrealista, estética elegante, gradación de color en tonos pastel suaves, iluminación cálida de hora dorada, profundidad de campo reducida, 60 fps, texturas de vidrio y tela ultra detalladas.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098040044149964800/img/G7tYESAln04L5nRC.jpg" width="600" alt="Video 4K de decoración lujosa para despedida de soltera">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=10694)**
-
-**Autor:** [Maya](https://x.com/MayaAiCreator) | **Fuente:** [Link](https://x.com/MayaAiCreator/status/2098040077284745362) | **Publicado:** Sep 10, 2026
-
----
-### Video de anime de puesto de Pho cyberpunk
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt estructurado y detallado para generar una escena de anime cinematográfica de alta calidad de un puesto de comida callejera cyberpunk futurista en un entorno del sudeste asiático.
-
-#### 📝 Prompt
-
-```
-[Definición del rol del material] @Image1 define los rasgos faciales, el peinado, el color de cabello y la vestimenta de la <Propietaria>. El fondo, los accesorios, la composición y la pose de la imagen no se utilizan. [Configuración general] Definición del personaje: La propietaria es la única persona que aparece en pantalla. No muestre clientes, transeúntes, ni manos, rostros u hombros de otras personas. El lado del mostrador destinado a los clientes permanece vacío durante todo el video, y los taburetes redondos de madera están desocupados. La propietaria siempre permanece detrás del mostrador y no se mueve hacia el frente. Definición de movimiento: Todos los objetos son movidos por las manos de la propietaria. Los ingredientes, tazones, cucharones, pinzas y palillos no se mueven por sí solos, no caen desde fuera del encuadre ni aparecen suspendidos en el aire. Al añadir algo al tazón, la mano de la propietaria debe introducirlo en el encuadre, llevarlo directamente sobre el tazón y luego soltarlo. La mano permanece en el encuadre hasta que el objeto es liberado. Línea de cámara: En principio, la cámara está en el exterior, en el lado de la calle del mostrador. La única excepción es la Etapa 4, donde la cámara se coloca en el interior a través de una abertura en el costado del puesto cerca del suelo, capturando a la propietaria desde atrás. En otras etapas, la cámara no entra al puesto; al mostrar la espalda o el cuello de la propietaria, la cámara no gira alrededor, sino que la propietaria se vuelve hacia la olla. Siga esta línea y, dentro de ese rango, varíe significativamente el ángulo, la altura y la lente en cada etapa para no crear una toma similar dos veces. Utilice activamente vistas cenitales, tomas en ángulo bajo cerca del suelo, primeros planos macro y planos medios frontales. Definición de bokeh en primer plano: En cada etapa, coloque algo en la posición más cercana a la cámara y desenfóquelo significativamente. Utilice solo estos 7 elementos para el bokeh en primer plano y no añada elementos nuevos: estelas de vapor, manojos de fideos secos y tiras de vinilo colgando de los aleros, bokeh de globos de luz colgantes, el borde frontal del mostrador, estelas de gotas de lluvia cayendo de los aleros, pequeños platos de condimentos, el arco del borde del tazón. Coloque el bokeh en primer plano en los bordes o en la mitad inferior de la pantalla, sin cubrir al sujeto. El enfoque siempre está en la propietaria en el plano medio y sus manos; el bokeh en primer plano está desenfocado hasta perder su contorno. Definición de paralaje: El primer plano, el plano medio y el fondo se mueven a diferentes velocidades. El vapor y los objetos colgantes en primer plano fluyen y se balancean más rápida y lentamente, la propietaria y el puesto en el plano medio no cambian de posición, y las luces de la ciudad en el fondo apenas se mueven. En las etapas donde la cámara se mueve, el primer plano fluye rápidamente a través de la pantalla, el plano medio se desplaza ligeramente debido al paralaje y el fondo parece estacionario. Entorno: Un pequeño puesto de pho frente a un callejón en una zona céntrica del sudeste asiático en una noche de un futuro cercano. Sigue cayendo una lluvia ligera y la superficie de la carretera refleja la luz. Priorice la representación realista del vapor, las gotas de agua, el brillo del aceite en la sopa, los finos arañazos en el acero inoxidable y las viejas manchas en el mostrador de madera. El puesto es una estructura antigua hecha a mano de madera y metal, con un lado abierto sin pared, lo que permite ver hasta los pies de la propietaria. Manojos de fideos secos y tiras de vinilo descoloridas cuelgan de los aleros, con nueva tecnología injertada de forma rudimentaria. Estilo: Anime teatral japonés a todo color. Dibujo cinematográfico de alta calidad. Profundidad de campo extremadamente reducida equivalente a un sensor full-frame de 35 mm F1.4, con un sutil grano de película. Gradación de color bicolor con azul verdoso frío para la noche de la ciudad y ámbar para el puesto. Las sombras no se aplastan hasta el negro, sino que se hunden en un gris azulado. Solo el ámbar del puesto y las luces artificiales del fondo tienen saturación. Diseño: La olla flotante está a la izquierda de la pantalla, la bandeja de acero inoxidable con trozos de carne estofada está en el centro, y el tazón blanco profundo y los platos pequeños de condimentos están a la derecha. El trabajo se mueve de izquierda a derecha. Mantenga esta relación izquierda-derecha. Sin embargo, solo en la Etapa 4, debido a que la cámara está detrás de la propietaria, la izquierda y la derecha en la pantalla están invertidas: la olla aparece a la derecha y el tazón profundo a la izquierda. Esto es correcto; en todas las etapas excepto la Etapa 4, la olla está a la izquierda y el tazón profundo a la derecha. Luz: La fuente de luz principal es un globo de luz ámbar cálido que cuelga de los aleros. No tiene filamento; una esfera del tamaño de un puño flota y brilla al final de un soporte. La luz auxiliar es el azul frío de la noche de la ciudad. Mantenga la iluminación y la hora del día consistentes en todo momento. Elementos del futuro cercano: Solo los siguientes 6 elementos; todas las demás herramientas, ingredientes y acciones son el mismo trabajo manual que en los puestos modernos. 1. La lluvia se rompe en una fina niebla en un límite invisible fuera de los aleros, fluyendo de lado en lugar de caer. El contorno del límite se difumina en colores iridiscentes, y el interior del puesto permanece seco. 2. Una línea de vehículos de levitación magnética pasa silenciosamente por encima, y una franja de luz blanca lame el mostrador de atrás hacia adelante y desaparece. 3. La olla flota unos centímetros sobre el soporte, con una fina capa de luz azul entre ella y la base. 4. El vapor es succionado hacia una fina ranura detrás de los aleros, arremolinándose justo antes de entrar. 5. Finos marcos de exoesqueleto negro mate en ambos antebrazos de la propietaria. Desde las muñecas hacia abajo son manos desnudas, con piel humana en dedos y palmas. 6. Un pequeño terminal de conexión está incrustado en la línea del cabello de la propietaria en la nuca, parpadeando en un azul tenue al ritmo de su respiración. Comida: Solo un tazón de pho de res. Toda la carne de res está bien cocida tras una larga cocción, luciendo un color marrón tostado tranquilo con una banda blanca de grasa en los bordes. Nunca muestre carne roja cruda, color de sangre o ingredientes que cambien de color durante la cocción. El tazón contiene fideos planos blancos, finas rodajas de carne estofada, albóndigas de res redondas, sopa ámbar clara, cebollino picado, cebolla en rodajas y cilantro. Los platos pequeños tienen brotes de soja, albahaca tailandesa, rodajas de lima y aros de chile rojo. Todos los ingredientes ya están cortados y cocidos, dispuestos en bandejas y platos pequeños. El tazón es de porcelana blanca vieja con grietas y desportilladuras; solo se muestra uno hasta el final. [Diseño de personaje] <Propietaria> Una mujer del sudeste asiático de unos 20 y tantos años. Refiérase estrictamente a @Image1 para los rasgos faciales, el peinado, el color de cabello y la vestimenta; lo siguiente se añade para elementos no mostrados en la imagen. La piel es de un color miel cálido, con una fina película de sudor apareciendo en el cuello y la clavícula por el calor de la olla, brillando ligeramente bajo la luz. Mantenga los poros reales y la textura de la piel. Algunos mechones de cabello suelto se pegan a la línea del cabello en la frente y la nuca debido a la humedad. La tela fina sigue la piel debido al calor y la humedad, trazando silenciosamente las líneas naturales del cuerpo con cada movimiento. Un delantal de algodón en la cintura. Una estructura ósea esbelta y flexible. Los ojos siempre están hacia abajo, hacia las manos, y nunca miran a la cámara; la expresión apenas cambia, una mirada ligeramente apática. Acciones vulnerables durante el trabajo, sin ser consciente de ser observada por otros. [Núcleo de actuación] Cuente la historia a través de las yemas de los dedos, el dorso de las manos, las muñecas, el cuello, la nuca, la clavícula, la línea del pecho, los omóplatos, la línea del muslo, el perfil y la espalda, en lugar de todo el rostro. En las etapas que muestran una parte del cuerpo, haga zoom como un primer plano de esa parte, representando incluso la física de la tela siguiendo, balanceándose, separándose y regresando a la piel. Muestre el contraste entre la piel humana y los marcos negros en los antebrazos. Todos los movimientos son lentos, sin omitir pasos intermedios. [Etapa 1] 0-3 segundos Puesto vacío. Cámara: Plano general, posición baja cerca de la superficie de la carretera. Acérquese lentamente al puesto manteniendo microvibraciones de cámara en mano. El bokeh en primer plano es la superficie mojada de la carretera que ocupa el tercio inferior de la pantalla, donde anillos de luz reflejada fluyen rápidamente hacia la izquierda. El puesto en el plano medio crece lentamente y las luces de la ciudad en el fondo están estacionarias. La propietaria está detrás del mostrador en la parte central trasera, mirando la olla. El rostro es pequeño y la expresión es ilegible. Eventos principales: Comienza una lluvia ligera, las gotas de lluvia se rompen en niebla en un límite invisible fuera de los aleros, creando un contorno brillante iridiscente que fluye de lado y desaparece. Una línea de vehículos pasa por encima y una franja de luz blanca lame el mostrador de atrás hacia adelante una vez y desaparece. Estado final: La cámara se detiene frente al mostrador. La propietaria está en la parte central trasera, la olla a la izquierda, la bandeja en el centro, el tazón a la derecha. Los tres taburetes redondos de madera están vacíos. La lluvia continúa a partir de este punto. Sonido: Lluvia ligera, el sonido seco y fino de las gotas de lluvia rompiéndose en el límite, zumbido electromagnético bajo, la olla hirviendo a fuego lento. [Etapa 2] 3-7 segundos Limpiando el mostrador. Cámara: Vista cenital, fija. Las cuatro esquinas están oscuras y solo el mostrador central está iluminado en ámbar. El bokeh en primer plano es un globo de luz colgante en gran parte en la esquina superior derecha, convirtiéndose en un orbe dorado borroso que se balancea ligeramente. El rostro de la propietaria no está en el encuadre. Eventos principales: La propietaria se inclina hacia adelante y limpia lentamente el mostrador de madera con un paño húmedo en su mano derecha. La tela fina sigue su espalda y los omóplatos se elevan alternativamente bajo la tela. A través de los huecos en el cabello suelto pegado a la nuca, se puede ver el azul tenue del terminal incrustado parpadeando al ritmo de su respiración. El marco negro en el antebrazo se desliza ligeramente sobre la piel. Estado final: La mitad frontal del mostrador está húmeda y refleja la luz. La propietaria dobla el paño con su mano derecha, lo coloca en el extremo derecho del mostrador, se endereza y se vuelve hacia la olla a la izquierda. Sonido: El sonido bajo de un paño húmedo frotando madera vieja, la olla hirviendo a fuego lento, lluvia. [Etapa 3] 7-12 segundos Comprobando el aroma de la sopa. Cámara: Zoom en tres pasos. Primero, un primer plano extremo de la olla desde abajo en diagonal. Una fina capa de luz azul llena el espacio entre el fondo de la olla y el soporte en la parte inferior de la pantalla; sobre ella, la sopa ámbar hierve a fuego lento, el anís estrellado y el jengibre carbonizado se arremolinan lentamente, y pequeñas estrellas de aceite brillan en la superficie. El bokeh en primer plano es una estela de vapor cruzando el frente. Luego, la cámara desciende al nivel del borde de la olla e inclina hacia arriba en diagonal. El tercio inferior de la pantalla está lleno de vapor ascendente. Sobre ese vapor, en el centro de la pantalla, la línea desde el cuello de la propietaria hasta la clavícula y el pecho es visible a través del vapor. La tela fina cuelga ligeramente separada del cuerpo en la postura inclinada y vuelve a seguir la piel húmeda por el sudor. La película de sudor brilla ligeramente bajo la luz. El rostro se ve borroso en el borde superior del encuadre a través del vapor. Finalmente, un plano de busto, regresando a un ligero ángulo bajo desde el otro lado del mostrador, con el rostro de la propietaria en el centro de la mitad superior de la pantalla. Eventos principales: La propietaria se inclina lentamente sobre la olla, acercando su rostro al vapor ascendente para comprobar el aroma. Entrecierra los ojos e inhala silenciosamente. Luego se endereza, toma un cucharón con su mano derecha, recoge la sopa, levanta el brazo en alto y la vierte de nuevo en la olla en un arco fino. El líquido brilla en el vapor. Luego, la propietaria toca el borde del cucharón con sus labios, toma un sorbo de la sopa, su garganta se mueve lentamente, cierra los ojos y asiente levemente. En ese momento, una línea de vehículos pasa por encima y una franja de luz blanca perfila momentáneamente el hueco de su clavícula y mandíbula antes de desaparecer. Estado final: La propietaria cuelga el cucharón en el borde de la olla con su mano derecha. Su cuerpo está erguido, sus ojos están abiertos y su mirada vuelve a sus manos. Sonido: El sonido del líquido cayendo, la olla hirviendo a fuego lento, respiración tranquila, el sonido bajo de corte de viento de la línea de vehículos. [Etapa 4] 12-17 segundos Escaldando los fideos. Cámara: Solo para esta etapa, coloque la cámara en el interior a través de la abertura en el costado del puesto, a una altura de 30 cm del suelo. Una composición en primer plano que captura a la propietaria desde atrás en diagonal. La cámara permanece cerca de la propietaria, apuntando a su espalda, y se eleva verticalmente unos 60 cm hasta la altura de la cintura durante cinco segundos, con el ángulo de inclinación volviéndose más superficial a medida que sube. El ascenso es una toma continua. Al inicio del ascenso, el suelo mojado y los talones de las sandalias están en la parte inferior de la pantalla, la línea de los muslos desde el dobladillo del delantal hasta arriba de las rodillas está en el centro, y el vapor está en la parte superior. A medida que la cámara sube, la pantalla se mueve hacia el nudo del delantal y la línea de las caderas que se elevan desde la cintura, deteniéndose finalmente justo por encima de la cintura. El bokeh en primer plano es vapor arrastrándose por el suelo, cubriendo suavemente el borde inferior de la pantalla. El vapor a contraluz perfila el cuerpo en blanco, y las luces de la ciudad del fondo se asoman a través del costado del cuerpo como pequeños círculos de bokeh. El rostro y la parte posterior de la cabeza de la propietaria no están en el encuadre. Eventos principales: La propietaria está de pie con las piernas ligeramente separadas frente a la olla de fideos en la parte trasera del puesto, de espaldas a la cámara. La posición de sus pies y la altura de su cintura no cambian en absoluto de principio a fin; solo sus brazos, la parte superior del cuerpo y la cámara se mueven. La propietaria sostiene un colador de fideos de metal con fideos planos blancos en ambas manos, lo sumerge lentamente en el agua hirviendo y lo agita silenciosamente dos o tres veces. Las cuerdas del delantal en la parte posterior de la cintura se balancean lentamente con el movimiento de sus brazos, y la tela fina se mueve a lo largo de las líneas de su cuerpo. El vapor sube vigorosamente, desenfocando la parte superior de la pantalla, y se arremolina justo antes de ser succionado hacia la ranura de los aleros. Luego levanta el colador con ambas manos, escurre el agua, lo lleva directamente sobre el tazón profundo en el lado derecho de su cuerpo e inclina el colador para deslizar los fideos en el fondo del tazón. Estado final: Solo los fideos blancos están en el fondo del tazón profundo. La propietaria está en la misma posición a la misma altura de espaldas, colocando el colador vacío junto al agua caliente. La cámara se ha detenido justo por encima de la cintura. Sonido: El agua hirviendo, el sonido del colador golpeando la superficie, gotas de agua cayendo, el sonido de una fina corriente de aire. [Etapa 5] 17-21 segundos Disposición de la carne. Cámara: Plano medio desde arriba en diagonal a través del mostrador, capturando desde el pecho de la propietaria hasta el tazón. El rostro de la propietaria está cortado en el borde superior del encuadre y no aparece en pantalla. Solo durante esta etapa, la cámara se mueve horizontalmente unos 30 cm hacia la derecha muy lentamente. El bokeh en primer plano consiste en manojos de fideos secos y tiras de vinilo descoloridas que cuelgan de los aleros, ocupando el borde izquierdo de la pantalla y fluyendo rápidamente hacia la izquierda. La propietaria y el tazón en el plano medio se desplazan solo ligeramente debido al paralaje, mientras que las luces de la ciudad en el fondo parecen estacionarias. Eventos principales: La propietaria toma unas pinzas de metal con su mano derecha y recoge una fina rodaja de carne de res estofada de color marrón tostado de la bandeja central. Su mano izquierda sostiene el borde del tazón. La mano derecha lleva la rodaja directamente sobre el tazón, la coloca silenciosamente sobre los fideos y abre las pinzas. Repita la misma acción tres veces, con la carne superponiéndose ligeramente en forma de abanico. Luego, la mano derecha coloca las pinzas en el borde de la bandeja, toma un cucharón ranurado grande, recoge tres albóndigas de res redondas, las lleva directamente sobre el tazón e inclina el cucharón para dejar caer suavemente las albóndigas. Estado final: Fideos blancos en el tazón, cubiertos con carne marrón tostada superpuesta en forma de abanico y tres albóndigas redondas al frente. La mano derecha de la propietaria está en el encuadre sosteniendo el cucharón ranurado. Su mano izquierda sigue sosteniendo el borde del tazón. El movimiento horizontal de la cámara se detiene aquí. Sonido: El sonido duro de las pinzas tocando la bandeja de metal, el sonido húmedo de la carne tocando los fideos, el sonido sordo de las albóndigas tocando el fondo del tazón. [Etapa 6] 21-26 segundos Vertiendo de espaldas, liberando calor. Cámara: Descendiendo en dos pasos. Primero, un plano medio a través del mostrador a la altura de los ojos, fijo. El bokeh en primer plano son estelas de vapor fluyendo constantemente al frente, cubriendo suavemente la mitad inferior de la pantalla. Luego, la cámara desciende al nivel del borde del tazón e inclina hacia arriba en diagonal desde justo al lado del tazón. El bokeh en primer plano es el arco del borde del tazón y vapor espeso subiendo directamente sobre él. A través de ese vapor, en la mitad superior de la pantalla, está la línea desde el cuello de la propietaria hasta la clavícula y el pecho mientras se inclina sobre el tazón. La tela fina cuelga ligeramente separada del cuerpo en la postura inclinada. El rostro está cortado en el borde superior del encuadre y no aparece en pantalla. Eventos principales: La propietaria se vuelve hacia la olla a la izquierda de la pantalla, mostrando su espalda y hombro izquierdo a la cámara. Un mechón de cabello húmedo se pega a su nuca, el azul del terminal parpadea al ritmo de su respiración en el hueco, y las líneas de sus omóplatos se elevan alternativamente a través de la tela fina. La propietaria recoge sopa en el cucharón con su mano derecha, regresa lentamente su cuerpo para inclinarse sobre el tazón, baja el cucharón directamente a la altura del borde del tazón e inclina para verter la sopa ámbar caliente. El vapor sube particularmente espeso. Al terminar de verter, la mano derecha regresa el cucharón al borde de la olla, y la mano izquierda libre pellizca suavemente el cuello, tirando lentamente de la tela para separarla de la piel. El calor escapa del cuello, interrumpiendo el vapor, y cuando los dedos sueltan, la tela regresa silenciosamente para seguir la piel húmeda. Luego, la mano izquierda levanta un pequeño recipiente de acero inoxidable con cebollino picado y cebolla en rodajas, llevándolo directamente sobre el tazón. El recipiente siempre está en pantalla. Los dedos de la mano derecha pellizcan la cebolla y el cebollino del recipiente, dejándolos caer silenciosamente sobre la sopa en el tazón, y finalmente coloca dos hojas de cilantro de la misma manera con los dedos. La mano izquierda regresa el recipiente al mostrador. Estado final: El tazón está lleno de sopa, con carne marrón tostada, albóndigas redondas y hojas verdes flotando en ella. El cucharón está en el borde de la olla, el recipiente está en el centro del mostrador. La propietaria se endereza para mirar al frente del mostrador, con ambas manos a los lados del tazón. Sonido: El sonido de la sopa cayendo en el tazón, el sonido tenue de las hojas tocando la superficie de la sopa, el sonido del recipiente tocando la madera, lluvia. [Etapa 7] 26-30 segundos Colocando y apartando el cabello. Cámara: Plano medio desde el otro lado del mostrador frente a la propietaria. La altura de la cámara está a la altura de los ojos de una persona sentada. La parte superior del cuerpo de la propietaria desde la cintura hacia arriba está en el encuadre, y su rostro está en el centro de la mitad superior de la pantalla. El bokeh en primer plano es el pequeño plato de condimentos en la esquina inferior derecha y estelas de vapor subiendo al frente. El borde frontal del mostrador cruza el borde inferior de la pantalla; el otro lado está vacío, con solo la parte posterior de un taburete redondo de madera visible ligeramente en la esquina. Eventos principales: La propietaria levanta el tazón con ambas manos, lo lleva directamente a través de su frente hasta el borde frontal del mostrador y lo coloca lentamente. Retira sus manos del tazón, toma un par de palillos con su mano derecha y los coloca horizontalmente frente al tazón a la derecha. Luego se queda de pie con la espalda recta, levanta su mano derecha y aparta lentamente un mechón de cabello húmedo que había caído sobre su mejilla detrás de su oreja. Justo cuando el cuello queda expuesto, una línea de vehículos pasa por encima y una franja de luz blanca se desliza desde el cuello hasta la clavícula y desaparece. La propietaria baja la mirada y da un paso atrás. Estado final: El tazón está en el borde frontal del mostrador, una estela de vapor subiendo y siendo succionada hacia la ranura de los aleros. Los palillos están horizontales frente al tazón a la derecha. La propietaria está de pie detrás del mostrador, con las manos a los lados. Los asientos de los clientes permanecen vacíos hasta el final. Sonido: El sonido bajo del tazón tocando la madera vieja, el sonido ligero de los palillos tocando, los sonidos del trabajo se asientan en silencio, dejando solo el sonido de la lluvia y la niebla rompiéndose. [Prohibiciones] No muestre a nadie más que a la propietaria en pantalla. No hay clientes, transeúntes, manos, rostros, hombros o sombras de otras personas. Mantenga los taburetes de los clientes vacíos hasta el final. Los ingredientes y herramientas no deben caer desde fuera del encuadre, flotar en el aire o moverse por sí solos. Cuando algo se mueve, la mano de la propietaria debe estar sosteniéndolo. Nunca muestre carne roja cruda, color de sangre o ingredientes que cambien de color durante la cocción. La carne de res debe ser de color marrón tostado y estar estofada de principio a fin. Nunca represente la acción de cortar ingredientes. No muestre cuchillos, tablas de cortar o cuchillas en pantalla. No muestre el momento en que un ingrediente se divide en dos. Excepto en la Etapa 4, no permita que la cámara gire hacia el interior del mostrador. No mueva el punto de vista hacia el lado de la cocina para tomar una foto de la propietaria desde atrás, excepto en la Etapa 4. No permita que el rostro y el cuerpo de la propietaria invadan los primeros planos de las manos. No muestre el rostro en las etapas donde se especifica que no debe estar en el encuadre. No coloque nada más que los 7 elementos especificados en el bokeh en primer plano. No oculte completamente al sujeto con el bokeh en primer plano. No enfoque el bokeh en primer plano. La propietaria no debe posar. No adopte una postura para mostrar el cuerpo a la cámara. Todos los movimientos deben fluir naturalmente como procedimientos de cocina. La propietaria no debe ponerse en cuclillas. No doble las rodillas para bajar la cintura. No haga sentadillas ni mueva el cuerpo hacia arriba y hacia abajo. La posición de los pies y la altura de la cintura de la propietaria son constantes en todo momento. El movimiento de inclinarse hacia adelante debe hacerse solo una vez en cada etapa; no mueva la parte superior del cuerpo hacia arriba y hacia abajo repetidamente. No genere música de fondo, diálogo, narración, subtítulos o superposiciones de texto. No muestre caracteres, números, logotipos o texto de letreros en pantalla. Desenfoque los letreros y hologramas como bloques de color sin texto. Las únicas cosas que brillan son los globos de luz flotantes, la capa azul en el fondo de la olla, las articulaciones del marco del antebrazo, el terminal en la nuca y la línea de vehículos que pasa. No añada otros brillos o contornos de luz. No rompa el número de dedos o articulaciones. No convierta a la propietaria en un cyborg completo. El rostro, el cuello, los hombros, las piernas y los dedos permanecen con piel humana. La propietaria no debe sonreír ni mostrar los dientes. No mire a la cámara. No utilice fundidos o disolvencias. No dibuje criaturas en la sopa. No saque ingredientes no solicitados o tazones extra. Robot ar.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2098015222951030784/img/FwhLFzzrkhLsEjW4.jpg" width="600" alt="Video de anime de puesto de Pho cyberpunk">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=10704)**
-
-**Autor:** [AIスタジオワンルーム（AIアニメ、動画、漫画）](https://x.com/studio_oneroom) | **Fuente:** [Link](https://x.com/studio_oneroom/status/2098015859839234473) | **Publicado:** Sep 10, 2026
-
----
 ---
 
 ## 📚 Más prompts disponibles
@@ -5896,6 +6190,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-09-30T04:28:51.503Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-10-01T04:49:36.084Z</sub>
 
 </div>
