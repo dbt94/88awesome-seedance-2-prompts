@@ -68,9 +68,9 @@ Neden galerimizi kullanmalısınız?
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **6490** |
+| 📝 Toplam İstem | **6495** |
 | ⭐ Öne Çıkan İstemler | **6** |
-| 🔄 Son Güncelleme | **2026-10-04** |
+| 🔄 Son Güncelleme | **2026-10-05** |
 
 ---
 
@@ -361,6 +361,872 @@ Ultra gerçekçi, Hızlı ve Öfkeli esintili enerji, fotogerçekçi aydınlatma
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Bilim Kurgu Savaşçı Koridor Dövüşü İstem Metni
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Endüstriyel bir koridorda enerji kılıcıyla koşan bir savaşçının yer aldığı ultra gerçekçi sinematik bilim kurgu aksiyon sahnesi için istem metni.
+
+#### 📝 İstem
+
+```
+Ultra gerçekçi sinematik bilim kurgu aksiyon sahnesi, akıcı bej renkli fütüristik kıyafet giyen güçlü bir savaşçı, devasa endüstriyel bir koridorda koşarken parlayan mavi enerji kılıcını kullanıyor, önden yaklaşan iki zırhlı düşman, dramatik eğik kamera açısı, yoğun hareket, dinamik hareket, gerçekçi kumaş detayları, metalik fütüristik mimari, atmosferik aydınlatma, hacimsel gölgeler, sinematik alan derinliği, yüksek kontrast, fotogerçekçi, 8K, epik Hollywood bilim kurgu filmi estetiği, 35mm lens, dikey 9:16 kompozisyon.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106610479351365632/img/ZHmFCfa_f0mlJa67.jpg" width="600" alt="Bilim Kurgu Savaşçı Koridor Dövüşü İstem Metni">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11851)**
+
+**Yazar:** [AIwithMinal](https://x.com/AIwithMinal) | **Kaynak:** [Link](https://x.com/AIwithMinal/status/2106610541636837770) | **Yayınlandı:** Oct 4, 2026
+
+---
+### Gökyüzünü Ören Fantastik Video İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Seedance 2.0 ile oluşturulan, yaşlı bir kadının ördüğü şalın gece gökyüzüne dönüştüğü 15 saniyelik video için detaylı istem.
+
+#### 📝 İstem
+
+```
+Gökyüzünü Örmek
+0–5s: Gümüş saçlı yaşlı bir kadın, gece vakti açık bir pencerenin yanındaki ahşap sallanan sandalyede yalnız oturur ve iki ahşap şişle örgü örer. Uzun, koyu mavi bir şal kucağından ahşap zemine dökülür. Sıcak kehribar rengi lamba ışığı, yumuşak gölgeler. Orta plan çekimi.
+5–10s: Görüntüleyici onun ellerine ve şala yaklaşır; koyu renkli iplik, ilmeklere işlenmiş küçük parlayan yıldızları ve yavaşça dönen galaksileri ortaya çıkarır. Bir yıldız, şişinin ucuna takılıp parıldar. Yüzü sessiz bir gülümsemeyle yumuşar. Yakın plan çekimi.
+10–15s: Son ilmeği bağlar ve şalı nazikçe açık pencereden dışarı atar; şal çatıların üzerine doğru açılarak gerçek gece gökyüzüne dönüşür, yıldızlar yerlerine oturur. Evin dışından yukarıya bakan geniş açı çekim, aşağıda sıcak pencere ışığı, yukarıda derin mavi gökyüzü.
+Olumsuz İstem (Negative Prompt): ekstra parmaklar, ekstra eller, deforme olmuş eller, yapışık parmaklar, ikiden fazla örgü şişi, eriyen şişler, bozuk iplik, ikinci kadın, kopyalanmış kişi, çocuk, modern mobilya, televizyon, telefon, sert beyaz aydınlatma, neon renkler, çizgi film tarzı, anime tarzı, plastik cilt, bozuk yüz, titreme, hata artefaktları, metin, filigran, logo, hızlı kamera sarsıntısı, ağır çekim, şalın katılaşması, parlayan yüz, aşırı parlama, lens parlaması spam'i, havai fişek, gündüz gökyüzü
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106558771078029312/img/hZPtgXieC5nDSGJi.jpg" width="600" alt="Gökyüzünü Ören Fantastik Video İstemi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11848)**
+
+**Yazar:** [DeCat](https://x.com/DeCat2025) | **Kaynak:** [Link](https://x.com/DeCat2025/status/2106559472432795987) | **Yayınlandı:** Oct 4, 2026
+
+---
+### Anime Temizlik Dönüşümü Video İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kirli bir ayakkabı tabanının köpük spreyi ve fırçalama ile tatmin edici bir şekilde temizlenmesini gösteren, 15 saniyelik dikey anime tarzı video için detaylı istem.
+
+#### 📝 İstem
+
+```
+15 saniye dikey 9:16 Japon 2D anime kısa filmi, tatmin edici temizlik dönüşümü. El çizimi cel animasyon görünümü, net siyah mürekkep konturları, canlı renkler, yumuşak cel gölgeleme, hız çizgileri, halftone screentone noktaları, parıltı efektleri ve beyaz çarpma flaşları ile manga tarzı kurgu. Stüdyo kalitesinde anime prodüksiyonu, akıcı hareket, 24fps. Konu: Fırçalanmış paslanmaz çelik tezgahın üzerinde yatan, yıpranmış kirli bir ayakkabı tabanı (kahverengi-altın lekeler, ayak izi baskısı), tam tepeden çekim. Anime tarzı bir el (yüz yok, vücut yok, sadece el ve ön kol görünüyor) yeşil kapaklı küçük siyah bir sprey şişesi tutuyor. Yumuşak pencere ışığı ve minik su damlacıkları olan soğuk gümüş arka plan. Çekim 1: Sabit tepeden çekim, 3 saniye. Kirli taban çelik tezgahın üzerinde duruyor, bir el onu düzleştiriyor. Toz zerrecikleri havada süzülüyor, köşelerde ince halftone vignette, kenarlardan içeri doğru ince hız çizgileri kayıyor. Çekim 2: Yakın tepeden çekim, 3 saniye. Sprey şişesi tabana ince bir sis püskürtüyor, kalın beyaz köpük dışa doğru patlıyor ve yüzeyde yayılıyor, kabarcıklar parıltıları yakalıyor. İlk köpük patlamasında radyal mürekkep çizgileriyle tek kare beyaz çarpma flaşı. Çekim 3: Sıkı tepeden çekim, 3 saniye. El köpüğü dairesel hareketlerle ovuşturuyor, kahverengi-altın kir beyaz köpüğün içinde çözünüyor ve kıvrılan mürekkep benzeri girdaplarla kenara doğru akıyor. Dinamik hareket çizgileri eli takip ediyor. Çekim 4: Tepeden çekim, 3 saniye. Duru suyun durulaması köpüğü yıkayıp götürüyor, taban tek bir hızlı savurma hareketiyle çevriliyor ve parlak temiz beyaz bir yüzey ortaya çıkıyor. Parlayan ışıltılar ve parlaklık şeritleri üzerinde beliriyor. Çekim 5: Yukarıdan yavaş yakınlaşma, 3 saniye. Lekesiz beyaz taban çelik tezgahda parlıyor, el şişeyi köşeye bırakıyor. Son parıltı patlaması, yumuşak parlayan ışık, manga tarzı screentone vignette, son anlarda manga kapak paneli gibi sabit tutuluyor. Ses: Net sprey sesi, köpürme çıtırtısı, ritmik ovuşturma, akan su, her parlaklık efektinde tiz bir ışıltı çıngırağı, altında yumuşak neşeli Japon lo-fi beat. Konuşma yok, şarkı yok. Kaçınılacaklar: Yüzler, gerçekçi canlı aksiyon görünümü, 3D render, metin, altyazı, logolar, marka isimleri, fazla parmak, deforme eller, titreme. 15 saniye dikey 9:16 Japon 2D anime, tatmin edici temizlik dönüşümü, tepeden çekim. Anime tarzı bir el (yüz yok), paslanmaz çelik tezgah üzerindeki kirli kahverengi ayakkabı tabanına köpük sıkıyor, köpüğü daireler halinde ovuşturuyor, duruluyor ve taban ışıltı efektleriyle parlak temiz beyaza dönüyor. Manga tarzı hız çizgileri, halftone noktalar ve ilk köpük patlamasında beyaz çarpma flaşı. Ses: Sprey sesi, köpürme, ovuşturma, su, parlaklık efektlerinde ışıltı çıngırağı, altta yumuşak lo-fi beat.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106554700040679424/img/6e1kkIefx27oeGQA.jpg" width="600" alt="Anime Temizlik Dönüşümü Video İstemi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11847)**
+
+**Yazar:** [Nadya](https://x.com/nadyamaje) | **Kaynak:** [Link](https://x.com/nadyamaje/status/2106554883235356947) | **Yayınlandı:** Oct 4, 2026
+
+---
+### Seedance 2.0 Mini Wuxia Dövüş Promptu
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Seedance 2.0 Mini kullanarak iki kadın kılıç ustası arasında yüksek gerilimli bir wuxia dövüş sahnesi oluşturmak için detaylı bir prompt. Senkronize taktiksel hareketlere ve sinematik sürekliliğe odaklanır.
+
+#### 📝 İstem
+
+```
+Sinematik fotogerçekçi doku, saf antik Çin Xianxia yüksek gerilimli çift dövüş.
+
+Bu sefer önceki modlardan tamamen çıkın:
+
+Sürekli silah değişimi
+Tekli dövüş kırılması
+
+Temel şudur:
+İki başrol karakteri, sürekli hareket eden çift bir taktik sistemidir.
+Biri önden gelen baskıyı emer
+
+Diğeri kanattan durumu değiştirir
+Bir sonraki saniyede rolleri anında takas eder
+Gerçek heyecan gösterişli kılıç qi'si değil, iki başrolün birbirini kontrol etmek için neredeyse hiç arkalarına bakmadan, sürekli kör noktaları kapatmaları ve giderek daha güçlü bir sezgisel uyum ve gerilim oluşturmalarıdır.
+
+Karakter ve Varlık Kilitleme
+
+Yalnızca @image 1 ve @image 2'yi iki temel karakter olarak kesinlikle kilitleyin.
+
+@image 1 | Kılıç Ölümsüz Abla
+
+Görsel 1 Kılıç Ölümsüz Abla orijinal haliyle kalır:
+
+Yetişkin Doğu Asyalı kadın kimliği
+Yüz
+
+Siyah uzun saç yarısı toplu
+Beyaz yeşim tokası
+Uzun ince vücut oranları
+Beyaz nakışlı ipek Hanfu
+Yarı saydam katmanlı geniş kollar
+Gümüş bel mührü
+Yeşim kolye
+Beyaz bez botlar
+Yalnızca bir gümüş düz kılıç
+@image 2 | Küçük Abla
+Görsel 2 Küçük Abla orijinal haliyle kalır:
+
+Yetişkin Doğu Asyalı kadın kimliği
+Yüz
+
+Örgülü siyah saç
+Yeşil keten Hanfu
+Koyu kemer
+Ahşap toka
+Siyah bez ayakkabılar
+Yalnızca bir koyu çelik kılıç
+Diğer Karakterler
+Düşmanlar, Usta, Yoldan Geçenler yalnızca işlevsel karakterlerdir, karmaşık yüz veya kıyafet kilitlemeye gerek yoktur.
+
+Ortam DNA'sı
+Bu turda yüklenen tüm arka plan ve mekan referans görselleri aynı Ortam DNA setini belirler.
+
+Resmi üretimden önce, bunlar arasındaki uyumlu unsurları sessizce analiz edin:
+
+Arazi
+
+Mimarlık
+
+Yükseklik farkları
+
+Mekansal ölçek
+Malzeme yaşı
+Bitki örtüsü
+Su kütleleri
+Hava durumu
+Dağ sisi
+Işıklandırma
+Yansımalar
+Hava derinliği
+Karakterlerin geçebileceği yollar
+Ardından bu tur için benzersiz ama inandırıcı yeni bir mekanda yeniden birleştirin.
+Mekan ve Yol İlkeleri
+Tüm 15 saniye, kesintisiz anlaşılır bir dövüş rotasında gerçekleşmelidir, aniden başka bir dünyaya geçilemez.
+
+Arka plan dinamik olarak aktif ancak anlatısal olarak nötr kalır:
+
+Rüzgar
+
+Su
+
+Sis
+
+Yapraklar
+
+Kıyafet etekleri
+Yansımalar
+Uzak figürler
+Her zaman doğal olarak aktiftir.
+Yalnızca karakterler gerçekten:
+Adım attığında
+Çarpıştığında
+
+Sıyırarak geçtiğinde
+
+Silahlar çevreyle temas ettiğinde
+Şunlar ortaya çıkar:
+Toz
+Dalgalanmalar
+Enkaz parçaları
+
+Çizikler
+
+Kıyafet yer değiştirmesi
+vb. pasif fiziksel geri bildirimler.
+Kesinlikle Yasak
+Aniden köprünün yıkılması
+Aniden sisi insanları kurtarması
+
+Aniden ağacın kılıcı engellemesi
+
+Binanın kendi kendine çöküp taraflardan birine yardım etmesi
+Segment Yapısı
+0–5s | Geniş çekimden orta çekime giriş
+Aynı beyaz giysili Kılıç Ölümsüz Abla ve aynı yeşil giysili Küçük Abla sırt sırta duruyor.
+Üç düşman kılıç ustası, yalnızca dövüş işlevi taşıyan, farklı yönlerden aktif olarak yaklaşıyor.
+0–1s
+
+24mm sabit geniş panoramik kullanın, izleyicinin hemen anlamasını sağlayın:
+
+Beş kişinin konumları
+
+Saldırı yönleri
+
+Sonraki hareket için mevcut alan
+Küçük Abla sesini alçaltır, tek bir cümle söyler:
+
+"Bu sefer, beni kurtarmak için arkana bakma."
+Abla hiç arkasına bakmaz, sakin cevap verir:
+
+"Tamam."
+Son kelime biter bitmez, düşmanlar uyarı olmadan eş zamanlı saldırır.
+Kamera hızlıca sabit 24mm'den 35mm orta-yakın mesafe harekete geçer, ancak rastgele titremez, bunun yerine karakterlerin gerçek hareket hatlarıyla içeri alınır.
+
+İlk Çatışma Turu
+
+Bir düşman Ablaya yukarıdan saldırır
+
+Başka bir düşman Küçük Ablanın kör tarafına aynı anda girer
+
+İki kadın neredeyse anında zıt yönlere patlar:
+
+Abla ilk kılıcın saldırı hattını kısa süreliğine değiştirir ve doğrudan pozisyon alır
+
+Küçük Abla ikinci saldırıya karşı ağırlık merkezini düşürerek süzülür, yalnızca düşmanın silah yoluna karşı saldırır, poz vermek için durmaz
+
+İkisi hemen referans ortamda gerçekten var olan yollar boyunca ileri doğru göç etmeye başlar.
+Hızlı ön plandan geçen bir düşman bedeni lensi kısa süreliğine doldurur, bu gerçek örtmeyi ilk gizli kesiti tamamlamak için kullanır, izleyici kamera açısının değiştiğini zar zor hisseder.
+5–10s | Orta çekim sürekli takip
+Şunları koruyun:
+
+Aynı mekan
+Aynı iki başrol
+
+Aynı silah sahipliği
+
+Düşmanlar kesinlikle sıra ile hamle gönderemez, onlar sürekli:
+Kovalar
+
+Sarıp kuşatır
+
+Engeller
+Bu sırada:
+Abla iki düşmandan sürekli baskı taşır
+Küçük Abla başka bir düşmanla karşı karşıyadır
+
+Ekranı "iki ayrı dövüş" olarak bölmeyin, iki dövüş hattının sürekli iç içe geçmesine izin verin.
+
+İlk Taktiksel Tamamlama
+Abla bilinçli olarak yarım adım geri çekilir, kovalayan bir düşmanı Küçük Ablanın ilerleyen saldırı hattına getirir.
+Küçük Abla Ablaya hiç bakmaz, yalnızca düşmanın kılıç ucu gerçekten onun alanına girdiği anda, koyu çelik kılıçla kısa süreliğine yakalar ve silah yönünü değiştirir, hemen bırakır, önündeki kişiyle ilgilenmeye devam eder.
+
+İkinci Taktiksel Tamamlama
+Bir saniyeden az bir süre sonra, tam tersi tekrar olur.
+Başka bir düşman Küçük Ablanın arkasından gerçek bir saldırı başlatır.
+Aynı beyaz giysili Kılıç Ölümsüz bile arkasına dönmez, gümüş kılıç ucu kadrajın diğer tarafından yüksek hızla girer, yalnızca çok kısa bir metalik çarpışmayla o kılıcı Küçük Ablanın arkasındaki tehlikeli hattan iter, ardından gümüş kılıç hemen kadrajdan çıkar, Abla kendi dövüşüne devam eder.
+
+Temel Durum
+
+İki kişi birbirlerinin konumlarını asla teyit etmez, ancak diğerinin nerede olduğunu kesinlikle bilir.
+Kamera ön plan ve orta plan arasında pürüzsüzce kayar, lensin önünden yüksek hızla geçen şu unsurları kullanarak 2-3 son derece doğal gizli geçiş oluşturur:
+
+Düşman omuzları
+
+Beyaz geniş kollar
+Yeşil kıyafet eteği
+
+Silahlar
+Ritim Gereksinimleri
+Eylem ritmi baştan sona tek hızda değildir, ancak:
+İki hızlı değişim
+
+Gerçekten ağırlıklı bir silah çarpışması
+
+Yarım beat sessizlik
+Ardından ani patlama
+Aynı yaşlı Usta uzak güvenli bölgede gözlemlemeye devam eder, baştan sona eyleme geçmez, kimseye sorun çözmez.
+10–15s | Yakın çekimden final geniş orta çekime giriş
+
+Üç düşman tekli kovalamanın etkisiz olduğunu keşfeder, ilk kez stratejilerini aynı anda değiştirir, üç yönden alanı sıkıştırır, Abloyu ve Küçük Ablayı aynı merkezi alana zorlar.
+Belirgin bir çıkmaz oluşturur.
+
+İkisi geri çekilmeye devam etmez.
+Aynı beyaz giysili Kılıç Ölümsüz ve aynı yeşil giysili Küçük Abla aniden birbirlerine doğru koşarak patlar.
+Kamera hemen kesmez, izleyicinin tam olarak görmesini sağlar:
+İki omuz hattı yüksek hızda süzülür, bedenler minimum mesafeyle birbirinin içinden geçer.
+Geçiş anında, ikisi tam olarak öne-arkaya pozisyonlarını takas eder.
+Ve ikisi de birbirine bakmaz.
+
+Takas Sonrası Taktiksel Flip
+
+Abla Küçük Ablanın yanından geçerken, doğrudan Küçük Ablanın kör tarafına saldıran düşmanı devralır
+
+Küçük Abla aynı anda Ablayı kovalayan düşmanın hattına girer
+
+Bir düşman uzun kılıcı tüm kamerayı yüksek hızla tarar, yalnızca bir belirgin silah örtme sert kesiti oluşturur.
+
+Yepyeni ters eksene kes:
+
+Abla artık Küçük Ablanın az önce terk ettiği pozisyonda durur
+
+Küçük Abla da Ablanın az önce terk ettiği pozisyonda durur
+
+İkisi hemen iki son derece kısa, son derece doğrudan, gösterişsiz dönüşlü ters kırılma tamamlar:
+Gümüş kılıç ucu bir düşmanın çenesinin önünde bir parmak genişliğinde güvenle durur
+
+Koyu çelik kılıç aynı anda başka bir düşmanın kılıç tutan bileğinin dışında güvenle durur
+Üçüncü düşman tekrar vurmaya hazırlanır, ancak her iki etkili saldırı hattının da arkadaşının pozisyonu tarafından tamamen bloke edildiğini bulur, yalnızca geri çekilmeye zorlanır.
+
+Ani Duruş Anı
+Öncesindeki yoğun:
+Vızıltı sesleri
+
+Metalik çarpışmalar
+
+Ayak tabanı kayma sesleri
+
+Bu anda aniden çöker.
+Yalnızca şunlar kalır:
+
+İki kadının gerçek nefesleri
+
+Kılıçların son derece hafif kalan titreşimi
+İpek kıyafet etekleri yavaşça düşer
+
+Abla hala önündeki düşmana bakar, kafasını çevirmeden sorar:
+
+"Hala hayatta?"
+Küçük Abla neredeyse hiç duraksamaz:
+
+"Senden kolay."
+Ablanın dudak köşesi yalnızca son derece kısa, son derece hafif bir gülümseme ipucu gösterir.
+Uzaktaki aynı Usta sonunda tuttuğu nefesi hafifçe verir, ancak vaaz vermez, ikisinin arasındaki ilişkiyi açıklamaz.
+
+Final Durumu
+
+Zafer doğrulandıktan sonra, kesinlikle zafer pozları yok.
+
+İki kadın kılıç uçlarını aynı anda indirir, orijinal tempolarıyla aynı mekanda ilerlemeye devam eder; üç düşman içgüdüsel olarak yolu açar.
+Saç, kıyafet etekleri, çevresel rüzgar, su sisi, enkaz doğal hareketlerine devam eder, görüntü karakterler hala ilerlerken doğrudan sona erer.
+Kamera ve Kurgu Gereksinimleri
+
+Kesin toplam süre 15 saniye
+
+16:9 yatay
+
+0–5s / 5–10s / 10–15s üç net anlatı segmentini koruyun
+
+Görsel olarak tek bir kesintisiz ipeksi kamera yoluyla domine edilsin
+
+Tüm film yalnızca yaklaşık 4-5 gizli kesite veya çarpışmalarla tetiklenen gerçek kesitlere izin verir
+
+"Aksiyon hissi" için çılgınca parçalı kesim yasaktır
+
+Seedance 2.0 Mini Uygulama Odak Noktası
+Seedance 2.0 Mini için prompt bütçesini aktif olarak kontrol edin.
+
+En önemlisi:
+
+Görsel 1, Görsel 2 iki başrol kimliklerinin stabil olması
+
+İki kılıcın sahipliğinin stabil olması
+
+Ellerin ve bedenlerin kesintisiz olması
+
+İki kişinin mekansal ilişkisinin kesintisiz olması
+Temel ortam yolunun kesintisiz olması
+Üç düşman yalnızca şunu korumalı:
+Antik tarz düşman kılıç ustaları
+Temel işlevsel görünüm
+Bu yeterlidir, modeli yüzleri, kıyafetleri ve detayları kesinlikle kilitlemek için dikkat harcamayın.
+
+Ses ve Hareket Gereksinimleri
+
+Doğal senkronize Mandarin diyalog
+
+Doğal senkronize uzamsal ses efektleri
+
+Odak güçlendirme:
+
+Kılıç ucunun kısa vızıltısı
+Gerçek metalik çarpışmalar
+Ayak tabanı sürtünmesi
+İpek kıyafet eteği titremesi
+Karakterlerin gerçek nefesleri
+
+Final ani sessizlik ses kontrastı
+
+Hareket Dokusu
+24fps sinematik hareket dokusu
+
+Doğal hareket bulanıklığı
+
+Eylemlerde net şunlar olmalı:
+Başlangıç
+Hızlanma
+Kuvvet uygulama
+Hat değişikliği
+Atalet
+Frenleme
+
+Kesinlikle Yasak
+Işınlama (Teleportasyon)
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106386731285245952/img/oyhTyHCArGSxRsNP.jpg" width="600" alt="Seedance 2.0 Mini Wuxia Dövüş Promptu">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11852)**
+
+**Yazar:** [Soran](https://x.com/Soranlan) | **Kaynak:** [Link](https://x.com/Soranlan/status/2106388571863253309) | **Yayınlandı:** Oct 3, 2026
+
+---
+### Yüksek Moda Futbol Ayakkabısı Reklam Videosu İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Altın metalik kramponların geniş bir sahada sinematik çekimlerle öne çıktığı, Seedance 2.0 kullanılarak oluşturulacak 15 saniyelik yüksek moda futbol ayakkabısı reklamı için detaylı istem.
+
+#### 📝 İstem
+
+```
+Altın metalik futbol kramponları, beyaz diz üstü çoraplar ve vintage kadın futbol stili için yüklenen referans görselleri kullanarak 15 saniyelik yüksek moda futbol ayakkabısı reklamı oluşturun. Video boyunca ayakkabı tasarımı, renkleri, dokuları ve oranları tutarlı tutun.
+
+Ortam: Muhteşem pastel mavi-pembe gökyüzü altında tamamen açık ufuk çizgisine sahip, yemyeşil doğal çimlerle kaplı devasa açık hava futbol sahası. Saha ferah ve bakir hissettirmeli. Stadyum yok, seyirci yok, bina yok, tribün yok, kapalı alan yok, yakın mesafede çit yok.
+
+0–3 sn: Geniş sinematik çekim; genç yetişkin bir kadın futbolcu, uçsuz bucaksız açık sahanın tam ortasında tek başına duruyor. Referans görsellerdeki aynı zarif vintage tarzı kıyafeti, beyaz diz üstü çorapları ve altın metalik futbol kramponlarını giyiyor. Ayağını nazikçe topun üzerine koyuyor. Kamera ona doğru yavaşça ilerlerken güneş ışığı kramponlardan güzelce yansıyor.
+
+3–6 sn: Altın kramponların dramatik yakın plan çekimlerine geçiş. Ayağı çime sağlamca basıyor, krampon dişleri çimlere doğal şekilde giriyor ve bağcıklarını sıkılaştırıyor. Makro kamera hareketiyle metalik doku, dikişler, taban ve dişler ortaya çıkıyor. Ayakkabıları görsel kahraman yapın.
+
+6–10 sn: Tamamen açık sahada futbol oynamaya başlıyor, topu hızlı ve kendinden emin şekilde sürüyor. Yön değiştirirken, hızlanırken ve topa hakim olurken ayaklarına ve kramponlarına odaklanan düşük açı takip kamerası kullanın. Akıcı kıyafeti hareketleriyle doğal uyum içinde dalgalanıyor.
+
+10–13 sn: Güçlü bir koşu hamlesi yapıp topa altın kramponla vuruyor. Vuruşu sinematik ağır çekimde yakalayın; ayakkabının topa temasını, havaya uçuşan çim parçacıklarını ve topun açık sahada fırlamasını gösterin.
+
+13–15 sn: Premium ana görüntü. Futbol topu, altın kramponlarının yanında duruyor. Sıcak güneş ışığı metalik ayakkabıları aydınlatırken, o geniş yeşil sahanın arka planında kendinden emin şekilde duruyor. Kamera yavaşça kramponlara doğru itiliyor ve keskin, ürün odaklı bir yakın planla son buluyor.
+
+Görsel stil: Lüks spor moda kampanyası, rüyamsı editoryal fotoğrafçılık, sinematik doğal ışıklandırma, gerçekçi futbol hareketleri, gerçekçi çim fiziği, zarif kadın stili, dinamik kamera hareketleri, makro ayakkabı detayları, sığ alan derinliği, premium ticari kalite, fotogerçekçi, hafif film dokusu.
+
+Önemli: Altın futbol kramponlarını video boyunca birebir aynı tutun. Ayakkabı tasarımında değişiklik yok, bozuk ayaklar yok, ekstra uzuvlar yok, deforme olmuş top yok, yapay CGI görünümü yok. Tüm video, tek bir devasa açık futbol sahasında dış mekanda gerçekleşiyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106319331823165440/img/HRw0Mc4qjR1ZtqNR.jpg" width="600" alt="Yüksek Moda Futbol Ayakkabısı Reklam Videosu İstemi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11849)**
+
+**Yazar:** [Soulful Ai](https://x.com/soulful__ai) | **Kaynak:** [Link](https://x.com/soulful__ai/status/2106321511212544372) | **Yayınlandı:** Oct 3, 2026
+
+---
+### Epik Xianxia Savaş Videosu İstemi
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Gökyüzünde süzülen adalarda canavar sürülerine karşı savaşan bir kadın kılıç ustasının yüksek kaliteli 3D CG animasyonunu oluşturmak için detaylı bir istem. Belirli görsel efektler ve kamera hareketleri içerir.
+
+#### 📝 İstem
+
+```
+[Küresel Görüntü Kalitesi Ayarları]
+
+UE5.4 Path Tracing, Lumen Küresel Aydınlatma, Nanite, PBR Fiziksel Malzemeler. Yüksek kaliteli Çin tarzı Xianxia 3D CG animasyonu, 8K, HDR, ACES renk yönetimi, sinematik kamera çalışması, 60fps yüksek hızlı akıcılık.
+
+Chaos fizik yıkımı, yerçekimi yaylarıyla gerçekçi rijit cisim enkazı, kumaş simülasyonu, hacimsel aydınlatma, tanrı ışınları (godrays), temas gölgeleri, ışın izlemeli yansımalar.
+
+Şafaktan önce dokuz kat göğün üzerinde, sonsuz bulut denizi arasında sayısız ölümsüz ada süzülüyor.
+
+Sahne ağırlıklı olarak şunlardan oluşuyor:
+
+Beyaz yeşim köprüleri
+Yıkık ölümsüz sarayları
+Süzülen taş platformlar
+Dev kırık heykeller
+Bulut denizi
+Yıldızlı gök çatlakları
+Yüksek irtifalı ölümsüz ada grupları
+
+Üstten görünüm derin yıldızlı nehir olarak kalırken, uzak ufukta şafağın ilk altın ışığı beliriyor.
+
+Genel olarak düşük doygunlukta indigo gri, ay beyazı, buz mavisi ve koyu altın tonları kullanılıyor.
+
+Büyük yeteneklerin farklı element ışık renkleri var, ancak Hanjin'in buz mavisi ve koyu altın görselini her zaman birleşik temel olarak koruyun.
+
+Savaşın neden olduğu çatlaklar, buz tabakaları, yanık izleri, kırık köprüler, dev çukurlar, kılıç izleri ve canavar enkazları sürekli birikir ve otomatik olarak iyileşmez.
+
+Çakıl, beyaz yeşim parçaları ve canavar kabukları gerçek yerçekimine ve ataletlere uyar.
+
+Bulut denizi, şok dalgaları, fırtınalar ve büyük enerji yetenekleri nedeniyle hacimsel yuvarlanmalar yaşayacak.
+
+Karakter saçları, cübbeleri ve püskülleri her zaman yüksek hızlı hareket ve yüksek irtifa hava akışından etkilenir.
+
+16:9.
+
+[Protagonist | Kıdemli Abla · Hanjin Kılıç Ustası]
+
+Karakter varlığı @Image1.
+
+Şunları kesinlikle koruyun:
+
+Soğuk Doğu Asyalı kadın yüzü.
+
+Siyah at kuyruğu uzun saç.
+
+Alında üç mavi desen işareti.
+
+Derin mavi-siyah katmanlı savaş cübbesi ve zırhı.
+
+Koyu gümüş, bakır altın oyma yapı.
+
+Mavi püsküller ve yeşim süslemeler.
+
+Çok açılı karakter referansları aynı role aittir.
+
+Tüm filmde yalnızca bir kıdemli abla bulunur.
+
+Yasaklar: Yüz değiştirme, saç modeli değişikliği, alın işaretinin değişmesi, vücut tipi modifikasyonu, rastgele kıyafet değişikliği veya karakter klonları oluşturma.
+
+[Silah | Hanjin]
+
+Silah varlığı @Image2.
+
+Hanjin tüm filmdeki tek silahtır.
+
+Buz mavisi şeffaf kristal bıçak, buz çatlakları, koyu gümüş oyma kabza, mavi mücevher, koyu kılıç sapı ve mavi püskülü koruyun.
+
+Hanjin her zaman tüm büyük yetenek aktivasyonlarının çekirdeğidir.
+
+Farklı elementler kılıcın dış ışık efektlerini ve çevresel renklendirmesini değiştirebilir, ancak fiziksel silahı yeniden tasarlayamaz.
+
+Yasaklar: Çoğaltma, çift tutuş, rastgele renk değişiklikleri, kılıç şeklini değiştirme veya kını ikinci bir silah olarak üretme.
+
+[Canavarlar | Yıldız Yutan Sürü]
+
+Savaş alanında birçok homojen tasarımlı yıldız yutan canavar vardır.
+
+Ortak piyonlar ağırlıklı olarak şunlardan oluşur:
+
+Obsidyen boşluk gövdesi + yüzsüz obsidyen kabuk + mor yıldız çekirdeği + pençeler.
+
+Havada hızlı uçan yıldız yutan yaratıklar bulunur.
+
+Büyük birimler, ölümsüz saray binalarından önemli ölçüde daha büyüktür; dev avuçlar, obsidyen kayalar ve yıldız çekirdek enerjisiyle saldırırlar.
+
+Canavar dalgaları şuralardan takviye alır:
+
+Yıldızlı gök çatlakları.
+
+Süzülen adaların arkası.
+
+Bulut denizinin altı.
+
+Ölümsüz saray harabeleri.
+
+Canavarlar aktif olarak şunları yapmalıdır:
+
+Kovalamak.
+
+Öldürmek.
+
+Sarmalamak.
+
+Hava bombardımanı.
+
+Uzun menzilli baskılama.
+
+Sadece protagonistin etrafında durup yok edilmeyi bekleyemezler.
+
+Yenildiklerinde, canavarlar obsidyen parçalara, mor yıldız tozuna ve sönmüş yıldız çekirdeklerine ayrışır.
+
+Enkaz, süzülen adalara ve harabelere düşer ve kalıcı olur.
+
+[Küresel Savaş Kuralları]
+
+30 saniyelik yüksek hızlı 1vN Xianxia hack-and-slash.
+
+Diyalog yok.
+
+Savaş naraları yok.
+
+Yetenek adı bağırma yok.
+
+Ağır çekim yok.
+
+Donmuş kareler yok.
+
+Vuruş duraksaması (hit-stop) yok.
+
+Ana savaş unsurları şunlardır:
+
+Yüksek hızlı hareket + Dev yetenekler + Büyük ölçekli canavar dalgası temizleme.
+
+Tüm film on büyük yetenek patlaması içerir.
+
+On tür yetenek, sadece rengi değiştirilmiş aynı kılıç qi'si değil, net görsel kavramlara sahip olmalıdır.
+
+Yetenek element sistemi şunları kapsayabilir:
+
+Yıldız Nehri.
+
+Gök Gürültüsü.
+
+Fırtına.
+
+Göksel Cisim Düşüşü.
+
+Ay Işığı ve Ayna Işığı.
+
+Güneş Olayı.
+
+Büyük Kılıç Dizilimi.
+
+Uzay Çatlağı.
+
+Kutup Işığı Gökyüzü Perdesi.
+
+Gök Kubbesi Sonlandırma Olayı.
+
+Bu elementlerin metinde göründükleri sırayla uygulanmasına gerek yoktur.
+
+Farklı elementlerin net görsel farklılıkları olmalıdır.
+
+[Yüksek Hızlı Hareket]
+
+Kıdemli Abla her zaman yüksek mobilite durumundadır.
+
+Ana hareket yöntemleri şunları içerir:
+
+Zemin süzülerek hücum.
+
+Yüksek hızlı yan dönüş.
+
+Süzülen adalar arasında atlama.
+
+Kısa mesafe ışınlanma.
+
+Dikey yükseliş.
+
+Dalış.
+
+Yan daire çizme.
+
+Havada yön değiştirme.
+
+Kısa mesafe ışınlanma, net bir bitiş noktasıyla buz mavisi ve koyu altın artçı görüntüler bırakır.
+
+Karakter, bitiş noktasına ulaştığında hemen dövüşmeye devam eder.
+
+Artçı görüntüler fiziksel klonlar değildir.
+
+Yasak: Karakteri uzun süre tanınamaz enerji çizgilerine dönüştürme.
+
+[Küçük Yetenekler]
+
+Büyük yetenekler arasında yalnızca son derece kısa yardımcı eylemler kullanılır.
+
+Bunlar şunları içerir:
+
+Kısa mesafe kılıç qi'si.
+
+Adım değişikliği pozisyonu.
+
+Yüksek hızlı ardışık kesikler.
+
+Tek atış tarzı kılıç ışığı.
+
+Bu eylemler ağırlıklı olarak şunlara hizmet eder:
+
+Yakın mesafe canavarlarla ilgilenmek.
+
+Mekansal pozisyonu ayarlamak.
+
+Bir sonraki büyük yeteneğe bağlanmak.
+
+Zamanı geciktirmek için çok sayıda normal saldırı kullanmayın.
+
+[Dev Yetenek Sistemi]
+
+Yıldız Nehri Serisi
+
+Hanjin yüksek irtifa yıldız nehrini harekete geçirebilir.
+
+Devasa buz mavisi yıldız nehri enerjisi gök kubbeden savaş alanına girer, süzülen adalar ve köprüler arasında muazzam bir akış oluşturur.
+
+Canavar sürüleri yıldız nehri seli tarafından dağıtılır ve bulut denizi çarpışmadan sonra iki yana yuvarlanır.
+
+Savaş alanı donmuş yıldız nehri izleri veya buz mavisi enerji bantları bırakabilir.
+
+Gök Gürültüsü Serisi
+
+Gök gürültüsü bulutları Hanjin'e karşılık verir.
+
+Muazzam yıldırımlar ana savaş bölgesine iner.
+
+Yıldırımlar şunları oluşturabilir:
+
+Yıldırım kılıçları.
+
+Yıldırım sütunları.
+
+Ark ağları.
+
+Büyük kılıç dizilimleri.
+
+Canavar sürüleri yoğun yıldırımlarda dengelerini kaybeder ve sürekli savrulur.
+
+Süzülen ada yüzeylerinde yanmış, elektrik çarpması ve çatlak izleri görülür.
+
+Fırtına Serisi
+
+Hanjin kılıcıyla devasa bir buz mavisi fırtına başlatır.
+
+Birden fazla dev kasırga süzülen adalar ve bulut denizi boyunca uzanır.
+
+Fırtına aynı anda şunları süpürebilir:
+
+Canavarlar.
+
+Çakıl.
+
+Bulut sisi.
+
+Ölümsüz saray enkazı.
+
+Kıdemli Abla, fırtınanın içinden hızla geçerek takibe devam eder.
+
+Çevre belirgin rüzgar aşınması ve dönel hasar gösterir.
+
+Göksel Cisim Serisi
+
+Yüksek irtifa yıldız nehrinde anomaliler meydana gelir.
+
+Buz kristalleri, yıldız ışığı veya koyu altın enerjiye sahip birçok göksel cisim gökten hızla düşer.
+
+Farklı süzülen adalar sürekli büyük çarpışmalara maruz kalır.
+
+Şunları üretir:
+
+Dev çukurlar.
+
+Soğuk sis.
+
+Çakıl.
+
+Şok dalgaları.
+
+Büyük ölçekli canavar dalgası ayrışması.
+
+Ay Işığı Serisi
+
+Savaş alanında büyük ölçekli ay beyazı görsel olaylar ortaya çıkar.
+
+Şunlarla başarılabilir:
+
+Ay ışığı aynaları.
+
+Buz kristali yansıması.
+
+Çok yönlü kırılan kılıç ışığı.
+
+Geniş alanlı bir kesme ağı oluşturarak.
+
+Kesme ışıkları canavar dalgalarını birden fazla yönden aynı anda keser.
+
+Bazı ay ışığı yapıları yetenek bittikten sonra çevrede kalır.
+
+Güneş Serisi
+
+Şafak yaklaşırken, ilk güneş ışığı savaş alanına girer.
+
+Hanjin koyu altın güneş enerjisini harekete geçirebilir.
+
+Devasa altın ilahi kuşlar, alevli güneş kılıç ateşi veya büyük ölçekli altın göksel olaylar süzülen ada grubunu geçer.
+
+Buz mavisi ve koyu altın güçlü soğuk-sıcak örtüşme oluşturur.
+
+Birçok canavar sürüsü güneş enerjisi altında yıldız tozuna ayrışır.
+
+Kılıç Dizilimi Serisi
+
+Büyük ölümsüz saray meydanları veya süzülen ada zeminleri Hanjin'in kılıç niyetiyle aktive edilir.
+
+Birçok buz mavisi dev kılıç binalardan, buz tabakalarından veya zeminden ortaya çıkar.
+
+Kılıç ölçeği normal silahlardan çok daha büyüktür.
+
+Tüm alan hızla büyük bir kılıç ormanı veya dizilimi oluşturur.
+
+Kıdemli Abla kılıç dizilimi içinde yüksek hızda hareket eder.
+
+Canavarlar farklı konumlardan art arda savrulur, enerji cisimleriyle delinir veya havaya fırlatılır.
+
+Çatlak Serisi
+
+Hanjin savaş alanı uzayını kısaca yırtabilir.
+
+Gök veya süzülen adalar arasında devasa siyah uzay çatlakları oluşur.
+
+Çatlak kenarları buz mavisi ve koyu altın enerjiyle çevrilidir.
+
+Birçok kılıç ışığı veya uzay kesimi çatlak kenarları boyunca dışa doğru yayılır.
+
+Kıdemli Abla çatlağın etrafında hızla pozisyon değiştirebilir.
+
+Uzay çatlakları bittikten sonra belirgin görsel kalıntılar kalır.
+
+Yasak: Uzay çatlakları yerine sıradan kara delik yutma kullanma.
+
+Kutup Işığı Serisi
+
+Yüksek gökyüzünde geniş alanlı buz mavisi, ay beyazı ve soluk altın kutup ışıkları belirir.
+
+Kutup ışıkları gök kubbeden iner, birden fazla süzülen adayı kaplar.
+
+Kutup ışığı perdeleri muazzam derinlik ve mekansal ölçeğe sahiptir.
+
+İçlerine giren canavarlar:
+
+Donar.
+
+Dengelerini kaybeder.
+
+Enerjiye ayrışır.
+
+Kıdemli Abla farklı kutup ışığı katmanları arasında yüksek hızda gidip gelir.
+
+Bu aşama tüm savaş alanını yavaşça final doruğuna taşır.
+
+[Final Aşaması]
+
+Önceki savaşlardan kalan görseller sahnede hala mevcuttur.
+
+Örneğin:
+
+Buz tabakaları.
+
+Yanık izleri.
+
+Rüzgar aşınması.
+
+Çarpma kraterleri.
+
+Ayna parçaları.
+
+Kılıç ormanları.
+
+Uzay çatlakları.
+
+Kutup ışığı artığı.
+
+Canavar enkazı.
+
+Final aşamasında, bu görsel unsurların hepsinin doğrudan aynı yeteneğe dönüşmesine gerek yoktur, ancak bazı düzeylerde çevresel rezonans üretmelidirler.
+
+Hanjin nihai enerji çekirdeği haline gelir.
+
+Kıdemli Abla, ana süzülen ada grubunu ve gökyüzünü kaplayan büyük ölçekli bir sonlandırma olayı serbest bırakır.
+
+Şunlarla tezahür edebilir:
+
+Devasa yıldız halkaları.
+
+Çok katmanlı gök kubbe şok dalgaları.
+
+Buz mavisi ve koyu altın halka şeklinde kılıç ışığı.
+
+Büyük menzilli yıldızlı gök enerjisi genişlemesi.
+
+Sonlandırma yeteneğinin ölçeği, önceki tek elementli yeteneklerden açıkça daha yüksek olmalıdır.
+
+Yıldız nehri, yıldırım, güneş/ay ve kutup ışığı görselleri sonlandırma efektinde kısaca görünebilir, ancak önceki yetenekleri tam olarak tekrar oynayamaz.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105684524055322625/img/NCD7cVCLLuAfyOyU.jpg" width="600" alt="Epik Xianxia Savaş Videosu İstemi">
+
+**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11850)**
+
+**Yazar:** [Arvin](https://x.com/Arvin010717) | **Kaynak:** [Link](https://x.com/Arvin010717/status/2106241257895084452) | **Yayınlandı:** Oct 3, 2026
+
+---
 ### Kayak Kulübesinde Buz Canavarı Saldırısı
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -438,45 +1304,6 @@ Dağ kayak merkezindeki bir kulübede geçen sinematik korku-gerilim kısa filmi
 **[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11813)**
 
 **Yazar:** [auqib](https://x.com/auqibhabib) | **Kaynak:** [Link](https://x.com/auqibhabib/status/2106235341548273915) | **Yayınlandı:** Oct 3, 2026
-
----
-### Altın Saat Geçişleriyle Kore Yaşam Tarzı Vlog
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Koreli bir kadının, kafeden şehir sokağına, çatı katı gün batımına ve sonunda gece kafesine geçişini içeren, ruh hali ve görsel tutarlılığı vurgulayan 60 saniyelik ultra gerçekçi yaşam tarzı vlog için istem.
-
-#### 📝 İstem
-
-```
-Uzun koyu kahverengi saçları, yumuşak doğal makyajı ve nazik gülümsemesiyle güzel genç bir Koreli kadını konu alan, 60 saniyelik ultra gerçekçi sinematik bir yaşam tarzı vlog oluşturun. Zarif beyaz çiçekli bir elbise, açık krem rengi bir hırka giyiyor ve küçük beyaz bir el çantası taşıyor.
-
-**Sahne 1:** Yemyeşil bitkiler ve cam pencerelerle çevrili modern estetik bir kafenin dışında duruyor. Buzlu kahvesini tutuyor, bir yudum alıyor, nazikçe saçlarını düzeltiyor ve kameraya doğal bir şekilde gülümsüyor.
-
-**Sahne 2:** Kahvesinin tadını çıkarırken yüzünün yakın plan sinematik çekimleri. Yumuşak güneş ışığı yüzünü aydınlatıyor. Rahat ve mutlu görünüyor, ince doğal hareketlerle.
-
-**Sahne 3:** Aynı kıyafetle altın saatte güzel bir şehir sokağında yürüyor. Kamera onu arkadan takip ediyor ve zarif yan profil çekimleri yakalıyor.
-
-**Sahne 4:** Gün batımı sırasında güzel bir şehir siluetine bakan bir çatı terası manzarasına ulaşıyor. Altın güneş binaların arkasında yavaşça batıyor. Bir bankta oturuyor, gün batımına bakıyor ve huzurlu atmosferin tadını çıkarıyor.
-
-**Sahne 5:** Mavi saatte, parlayan sokak lambaları ve geçen arabalarla dolu modern bir şehir sokağında yürüyor. Kamera, sinematik takip çekiminde onun güzel yan profilini ve uçuşan saçlarını yakalıyor.
-
-**Sahne 6:** Üstünde sıcak peri ışıkları asılı olan gece dış mekan kafesi. Buzlu kahvesi ve çantasıyla rahat ahşap bir masada oturuyor. Kameraya gülümsüyor, içeceğini kaldırıyor, bir yudum alıyor ve neşeli bir ifadeyle el sallayarak vedalaşıyor.
-
-**Görsel stil:** Ultra gerçekçi 4K, fotogerçekçi cilt dokusu, doğal yüz ifadeleri, sinematik derinlik alanı, yumuşak ışıklandırma, sıcak altın saat tonları, güzel bokeh, akıcı kamera hareketleri, profesyonel renk düzenleme, gerçekçi saç fiziği, doğal beden hareketleri, estetik Kore yaşam tarzı vlog, hayal gibi huzurlu atmosfer.
-
-**Kamera:** Geniş açılar, orta planlar, yakın çekimler, ağır çekim detaylar, akıcı takip çekimleri ve nazik sinematik geçişlerin karışımı.
-
-**Ruh hali:** Huzurlu, romantik, samimi, zarif, hayal gibi günlük hayat.
-
-Tüm sahnelerde kusursuz karakter tutarlılığını, aynı yüz özelliklerini, saç stilini, kıyafeti ve aksesuarları koruyun. Bozuk eller yok, titreme yok, yüz değişiklikleri yok, doğa dışı hareketler yok, metin yok, filigran yok.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106230180654280704/img/_LwGOY5NSucEMO71.jpg" width="600" alt="Altın Saat Geçişleriyle Kore Yaşam Tarzı Vlog">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=11812)**
-
-**Yazar:** [Zorvia](https://x.com/ZorviaLux) | **Kaynak:** [Link](https://x.com/ZorviaLux/status/2106230270282313997) | **Yayınlandı:** Oct 3, 2026
 
 ---
 ### Sinematik Sokak Futbolu Çocukluk Anısı
@@ -5139,123 +5966,6 @@ Zarif Paris sokaklarında yürüyen güzel genç bir kadını konu alan sinemati
 **Yazar:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Kaynak:** [Link](https://x.com/ayzalnooor24521/status/2100456445900710158) | **Yayınlandı:** Sep 17, 2026
 
 ---
-### Kore Maaş Günü Vlog'u
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Maaş gününü kutlayan bir Koreli kadının yer aldığı, detaylı sahne açıklamaları ve görsel stil talimatları içeren 30 saniyelik ultra gerçekçi UGC tarzı mini vlog için prompt.
-
-#### 📝 İstem
-
-```
-Maaşını aldıktan sonraki en mutlu günü belgeleyen şık bir Koreli 'baddie' kızın yer aldığı, 30 saniyelik ultra gerçekçi UGC tarzı bir mini vlog oluşturun.
-
-Sahne 1 — 0–5 sn:
-Sabah yatak odasında selfie. Uyanır, telefonuna bakar, maaşının hesabına yattığını görür ve anında heyecanla gülümser. Doğal dağınık yatak estetiği, yumuşak sabah güneşi ışığı. Kameraya bakar ve mutlu bir şekilde, "Maaşım nihayet yattı!" der.
-
-Sahne 2 — 5–9 sn:
-Hazırlanırken hızlı geçiş. Ferahlatıcı bir duş alır, basit cilt bakımı yapar, saçını düzeltir ve trendy bir 'baddie' tarzı kıyafet giyer. Ayna selfieleri, gerçekçi el kamerası hareketleri.
-
-Sahne 3 — 9–19 sn:
-Modern lüks bir alışveriş merkezine gider. Kendini filme alarak girişten yürürken, moda mağazalarına göz atarken, kıyafet denerken, aksesuarlara bakarken ve mutlu bir şekilde alışveriş poşetlerini taşırken gösterin. Hızlı doğal çekimler, heyecanlı ifadeler, gerçekçi mağaza aydınlatması ve doğal UGC kamera sarsıntısı ekleyin.
-
-Sahne 4 — 19–25 sn:
-Alışveriş merkezinin içindeki rahat bir kafede, yanında alışveriş poşetleriyle oturur. Sıcak bir fincan çay sipariş eder, çayın servis edilmesini kaydeder, bir yudum alır ve memnuniyetle gülümser.
-
-Sahne 5 — 25–30 sn:
-Altın saat/akşam çekimi. Alışveriş poşetleri ve çayıyla alışveriş merkezinin dışına çıkar, kamerayı kendisine çevirir, gülümser ve "Maaş günü resmen benim favori günüm." der. Rahat bir kahkaha ve doğal kamera hareketiyle bitirin.
-
-Görsel stil: Ultra gerçekçi akıllı telefon görüntüleri, otantik UGC vlog, Kore moda estetiği, özgüvenli 'baddie' enerjisi, sinematik ancak aşırı cilalı olmayan, doğal cilt dokusu, gerçekçi aydınlatma, pürüzsüz geçişler, ince arka plan sesleri, gerçekçi yüz ifadeleri, elde tutulan telefon kamerası, sosyal medya uyumlu dikey 9:16, 4K kalite.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100452060642852864/img/R0oS8fEzuAmWvRq5.jpg" width="600" alt="Kore Maaş Günü Vlog'u">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10952)**
-
-**Yazar:** [Noor 🌸](https://x.com/Noor_ul_ain43) | **Kaynak:** [Link](https://x.com/Noor_ul_ain43/status/2100452341996728475) | **Yayınlandı:** Sep 17, 2026
-
----
-### Koreli Dövüş Sanatları Savaşçı Portresi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Geleneksel Kore dövüş sanatları kıyafeti giyen, kararlı ve güçlü genç bir kadının ultra gerçekçi sinematik sahnesini oluşturmak için hazırlanmış bir istem.
-
-#### 📝 İstem
-
-```
-Geleneksel Kore dövüş sanatları avlusunda kendinden emin duran, siyah beyaz yakalı dövüş sanatları üniforması giyen, kısa koyu saçları rüzgarda doğal hareket eden, yoğun ve odaklanmış ifadeye sahip kararlı genç bir kadının ultra gerçekçi sinematik sahnesi. Arka planda geleneksel Kore mimarisi ve taş duvarlar, dramatik sıcak güneş ışığı, hafif hareket bulanıklığı, gerçekçi cilt dokusu, detaylı kumaş, sığ alan derinliği, sinematik renk düzenlemesi, yüksek kontrast, 8K HDR, profesyonel film karesi, dinamik atmosfer, 35mm lens, dikey 9:16 kompozisyon.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100444654605070336/img/BWb5GjmmEgP2Mxrn.jpg" width="600" alt="Koreli Dövüş Sanatları Savaşçı Portresi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10955)**
-
-**Yazar:** [AIwithMinal](https://x.com/AIwithMinal) | **Kaynak:** [Link](https://x.com/AIwithMinal/status/2100444829880914240) | **Yayınlandı:** Sep 17, 2026
-
----
-### Kore Yaz Vlog Video İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Seedance 2.0 için, bir kızın dere kenarında karpuz yediği huzurlu bir Kore yaz sahnesi oluşturan detaylı video üretim istemi.
-
-#### 📝 İstem
-
-```
-Yumuşak beyaz bir yaz elbisesi ve doğal hasır güneş şapkası giyen, taze ve zarif bir Kore yaşam tarzı estetiğine sahip güzel bir Koreli kız. Kısa, yumuşak dalgalı koyu saçları, minimal makyajı ve nazik, doğal bir ifadesi var. Güzel bir dağ deresi yanında huzurlu bir yaz gününün tadını çıkarıyor. Suyun yakınında oturuyor, sakin bir şekilde bir dilim karpuz yiyor ve ferahlatıcı atmosferin keyfini çıkarıyor. Şapkasını düzeltirken ve manzaraya bakarken rahat açık hava alanında yavaşça yürüyor. Güneş ışığı ağaçların arasından yumuşakça süzülerek sıcak sinematik vurgular ve doğal lens parlamaları oluşturuyor. Ahşap evin yanındaki beyaz perde, yaz rüzgarında hafifçe hareket ediyor. Küçük bir piknik sepeti taşıyor ve sessiz kırsal çevrenin tadını çıkarıyor. Kamera yakın çekimler, orta planlar ve akıcı sinematik geniş açılarla görüntüleri yakalıyor. Fotogerçekçi, sıcak, hayalperest, huzurlu Kore yaz vlog stili, doğal renkler, yumuşak aydınlatma, gerçekçi hareket ve sinematik 4K kalite.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100423624889114624/img/_Dz_jZArR-f_XNwO.jpg" width="600" alt="Kore Yaz Vlog Video İstemi">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10951)**
-
-**Yazar:** [Sahil Verma](https://x.com/sahilvermaai) | **Kaynak:** [Link](https://x.com/sahilvermaai/status/2100423982898115050) | **Yayınlandı:** Sep 17, 2026
-
----
-### Seedance 2.0 Ejderha Savaşı İstem Metni
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Fırtınalı bir gökyüzünde bir savaşçı ve ejderhayı içeren, belirli zamanlama ve görsel efekt talimatlarına sahip Seedance 2.0 için detaylı sinematik fantastik savaş istem metni.
-
-#### 📝 İstem
-
-```
-Referansla eşleşen 15 saniyelik sinematik bir fantastik savaş videosu oluşturun: 0–1 sn, geleceğe ait zırhlı bir savaşçı karanlık fırtınalı bir gökyüzünde süzülürken arkasında devasa siyah bir ejderha uçuyor; 1–2 sn, kamera yavaşça yaklaşırken savaşçının etrafını parlayan mavi enerji sarıyor; 2–3 sn, ejderha bulutların arasından hızla yaklaşıyor ve savaşçı ona dönüyor; 3–5 sn, ejderha ağzını açarak güçlü bir parlak turuncu ateş akışı püskürtürken savaşçı fırtına içinde geriye doğru savruluyor; 5–7 sn, ejderhanın yüzünün ve parlayan gözlerinin, savaşçıyı kovalarken dramatik yakın çekimi gösteriliyor; 7–9 sn, savaşçı havada ejderhaya karşı duruyor, arkalarında şimşekler çakıyor ve zırhından mavi enerji yayılıyor; 9–11 sn, ejderha yoğun ateşle tekrar saldırırken savaşçı yüksek hızda bulutların arasından manevra yapıyor; 11–13 sn, ateş ve mavi enerjinin fırtınayı aydınlattığı epik bir hava kapışmasında iki karakterin birbirine doğru uçtuğu görülüyor; 13–15 sn, savaşçı aniden bulutların içine kaybolurken ejderha onu takip ediyor ve sahne, karanlık gökyüzünün dramatik geniş çekimiyle sonlanıyor; gerçekçi sinematik CGI, detaylı zırhlar, devasa ejderha kanatları, hacimsel bulutlar, dinamik kamera hareketleri, dramatik ışıklandırma, yüksek detay, 4K kalite.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100417296351346688/img/OBZDOXdtVRddRk7O.jpg" width="600" alt="Seedance 2.0 Ejderha Savaşı İstem Metni">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10949)**
-
-**Yazar:** [Maha](https://x.com/Aiwithmaha) | **Kaynak:** [Link](https://x.com/Aiwithmaha/status/2100417339716141116) | **Yayınlandı:** Sep 17, 2026
-
----
-### Seedance 2.0 Masaüstü Ekran Kırılma Videosu
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Bir kadının bıçakla bilgisayar ekran camını kırıp ardından parlaklığı düşürerek onardığı bir video oluşturmak için Seedance 2.0'a yönelik detaylı istem.
-
-#### 📝 İstem
-
-```
-Sağlanan Apple masaüstü görselini ilk kare olarak kullanın, 16:9 en-boy oranı, 15 saniye süre, sabit kamera, tek kesintisiz çekim. Kadının yüz hatlarındaki, siyah suikastçı kostümündeki, saç modelindeki ve mavi sisli arka plandaki tutarlılığı koruyun; masaüstü simgelerini, menü çubuğunu ve Dock'u muhafaza edin.
-0-4s: Masaüstü duvar kağıdındaki kadın aniden hareket eder, sakin görünür, aynı kısa bıçağı yukarı doğru iki kez sürekli atıp yakalar, bıçak havada döner, hareketler doğaldır, saçlar hafifçe uçuşur.
-4-6s: Üçüncü atışta kontrolünü kaybeder, bıçak elinden kayar, ucu izleyiciye doğru savrulur ve ekran camına çarpar. Camın kırılmasına eşlik eden net bir sesle birlikte, örümcek ağı şeklinde çatlaklar çarpma noktasından anında yayılır, karakterin önünü ve masaüstü arayüzünü kaplar, görüntü kısa bir an titrer.
-6-9s: Kadın önce donar, ardından gözlerini kocaman açar, kaşlarını çatar, sorun çıkardıktan sonra belirgin bir endişe ve panik sergiler. Çatlaklara, sonra izleyiciye bakar, çatlakları örtmeye çalışır ancak başarısız olur.
-9-14s: Aniden bir çözüm düşünür, sağ üst köşedeki Kontrol Merkezi'ne tıklamak için uzanır, güneş simgeli ekran parlaklık kontrolünü açar ve aceleyle parlaklık kaydırıcısını sola sürükler. Her işlem tüm ekranı senkronize olarak karartır; karakterler, arka plan, simgeler ve çatlaklar yavaşça karanlığa gömülür; işlem sırasında suçlulukla izleyiciye bakar, sonunda parlaklığı minimuma indirir.
-14-15s: Ekran tamamen kararır, bir saniye boyunca öyle kalır, herhangi bir metin veya logo belirmesin. Ses: Hafif dövüş sanatları enstrümantal müziği ve dönen bıçağın vızıltısı ile başlar; çarpma anında müzik ani bir şekilde durur, camın kırılma sesi vurgulanır; ardından telaşlı kumaş hışırtıları ve arayüz tıklama sesleri korunur, sessizce sonlanır. Kısıtlamalar: Kesme yok, karakter değişikliği yok, arka plan değişikliği yok, yeni karakter veya bıçak yok, fiziksel bilgisayar çerçevesi veya klavye görünmesin. Çatlaklar ekran camı düzleminde sabit kalsın. Son kararma, ani bir kesintiyle değil, kadının parlaklık kontrolünü kullanmasıyla tetiklenmeli.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100404208872919040/img/JMxfQF64saAPo_ae.jpg" width="600" alt="Seedance 2.0 Masaüstü Ekran Kırılma Videosu">
-
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/seedance-2-0-prompts?id=10956)**
-
-**Yazar:** [探路AI](https://x.com/TanLuAI) | **Kaynak:** [Link](https://x.com/TanLuAI/status/2100405863123173606) | **Yayınlandı:** Sep 17, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -5317,6 +6027,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-10-04T04:50:04.147Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-10-05T04:48:01.827Z</sub>
 
 </div>

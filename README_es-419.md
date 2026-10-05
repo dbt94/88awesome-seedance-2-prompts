@@ -68,9 +68,9 @@ Una colección curada de prompts de generación de video de alta calidad para Se
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **6490** |
+| 📝 Total de prompts | **6495** |
 | ⭐ Prompts destacados | **6** |
-| 🔄 Última actualización | **2026-10-04** |
+| 🔄 Última actualización | **2026-10-05** |
 
 ---
 
@@ -361,6 +361,874 @@ Ultra realista, energía inspirada en Fast and Furious, iluminación fotorrealis
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Prompt de Batalla en Pasillo: Guerrero Sci-Fi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt para una escena de acción cinematográfica de ciencia ficción ultra realista, con un guerrero corriendo por un pasillo industrial empuñando una espada de energía.
+
+#### 📝 Prompt
+
+```
+Escena de acción cinematográfica de ciencia ficción ultra realista, un guerrero poderoso con un traje futurista beige fluido corre a toda velocidad por un enorme pasillo industrial mientras empuña una espada de energía azul brillante, dos enemigos blindados se acercan al frente, ángulo de cámara dramático inclinado, movimiento intenso, dinámica fluida, detalles realistas de la tela, arquitectura metálica futurista, iluminación atmosférica, sombras volumétricas, profundidad de campo cinematográfica, alto contraste, fotorrealismo, 8K, estética épica de película de Hollywood de ciencia ficción, lente de 35 mm, composición vertical 9:16.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106610479351365632/img/ZHmFCfa_f0mlJa67.jpg" width="600" alt="Prompt de Batalla en Pasillo: Guerrero Sci-Fi">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=11851)**
+
+**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Fuente:** [Link](https://x.com/AIwithMinal/status/2106610541636837770) | **Publicado:** Oct 4, 2026
+
+---
+### Prompt de Video Fantástico: Tejiendo el Cielo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt detallado para un video de 15 segundos donde una anciana teje una bufanda que se transforma en el cielo nocturno, generado con Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Tejiendo el cielo
+0–5s: Una anciana de cabello plateado está sentada sola en una mecedora de madera junto a una ventana abierta durante la noche, tejiendo con dos agujas de madera. Una larga bufanda azul oscuro cae desde su regazo hasta el suelo de madera. Luz cálida y ámbar de lámpara, sombras suaves. Plano medio.
+5–10s: El espectador se acerca a sus manos y a la bufanda; el hilo oscuro revela pequeñas estrellas brillantes y galaxias que giran lentamente tejidas en las puntadas. Una estrella se engancha en la punta de su aguja y brilla. Su rostro se suaviza en una sonrisa tranquila. Primer plano.
+10–15s: Ella termina la última puntada y lanza suavemente la bufanda por la ventana abierta, donde se desenrolla hacia arriba sobre los tejados y se convierte en el verdadero cielo nocturno, con las estrellas asentándose en su lugar. Plano general desde fuera de la casa mirando hacia arriba, con el resplandor cálido de la ventana abajo y el cielo azul profundo arriba.
+Negative Prompt: dedos extra, manos extra, manos deformadas, dedos fusionados, más de dos agujas de tejer, agujas derretidas, hilo distorsionado, segunda mujer, persona duplicada, niño, muebles modernos, televisión, teléfono, iluminación blanca dura, colores neón, estilo caricatura, estilo anime, piel plástica, cara distorsionada, parpadeo, artefactos de glitch, texto, marca de agua, logo, sacudida rápida de cámara, cámara lenta, bufanda volviéndose sólida, cara brillante, exceso de destellos, abuso de reflejos de lente, fuegos artificiales, cielo diurno
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106558771078029312/img/hZPtgXieC5nDSGJi.jpg" width="600" alt="Prompt de Video Fantástico: Tejiendo el Cielo">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=11848)**
+
+**Autor:** [DeCat](https://x.com/DeCat2025) | **Fuente:** [Link](https://x.com/DeCat2025/status/2106559472432795987) | **Publicado:** Oct 4, 2026
+
+---
+### Prompt de Video de Transformación y Limpieza en Estilo Anime
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt detallado para generar un video vertical de estilo anime de 15 segundos que muestra una satisfactoria transformación de limpieza de una plantilla de zapato sucia usando espuma en spray y fregado.
+
+#### 📝 Prompt
+
+```
+Corto de anime japonés 2D vertical 9:16 de 15 segundos, transformación de limpieza satisfactoria. Aspecto de animación cel dibujada a mano, contornos de tinta negra limpios, colores vívidos, sombreado cel suave, edición estilo manga con líneas de velocidad, puntos de semitono, efectos de brillo y destellos blancos de impacto. Producción de anime de calidad de estudio, movimiento fluido, 24fps. Sujeto: una plantilla de zapato desgastada y sucia (manchas marrón-dorado, huella del pie) sobre una encimera de acero inoxidable cepillado, filmada desde arriba directamente. Una mano estilo anime (sin rostro, sin cuerpo, solo se ve la mano y el antebrazo) sostiene una pequeña botella de spray negra con tapa verde. Fondo plateado frío con luz suave de ventana y pequeñas gotas de agua. Plano 1: Plano superior fijo, 3 segundos. La plantilla sucia está sobre la encimera de acero, una mano la presiona plana. Partículas de polvo flotan, viñeta sutil de semitono en las esquinas, finas líneas de velocidad entran desde los bordes. Plano 2: Primer plano superior, 3 segundos. La botella de spray rocía una niebla fina sobre la plantilla, una espuma blanca espesa estalla hacia afuera y se extiende por la superficie, burbujas capturando brillos. Un destello blanco de impacto de un fotograma con líneas radiales de tinta en la primera explosión de espuma. Plano 3: Plano cenital ajustado, 3 segundos. La mano frota la espuma en movimientos circulares, la suciedad marrón-dorado se disuelve en la espuma blanca y fluye hacia el borde en remolinos curvos similares a tinta. Líneas de movimiento dinámico siguen la mano. Plano 4: Plano cenital, 3 segundos. Un enjuague con agua clara lava la espuma, la plantilla se voltea en un rápido movimiento de latigazo, revelando una superficie blanca brillante y limpia. Destellos brillantes y rayos de luz aparecen sobre ella. Plano 5: Empuje lento desde arriba, 3 segundos. La plantilla blanca impecable brilla sobre la encimera de acero, la mano deja la botella en la esquina. Explosión final de brillo, luz suave resplandeciente, viñeta de semitono estilo manga, mantenida en el último tiempo como una portada de manga. Audio: siseo nítido del spray, crepitación de la espuma efervescente, fregado rítmico, flujo de agua, un chime brillante de brillo en cada efecto de luz, beat lo-fi japonés suave y alegre de fondo. Sin diálogo, sin canto. Evitar: rostros, aspecto realista de acción en vivo, render 3D, texto, subtítulos, logos, nombres de marca, dedos extra, manos deformadas, parpadeo. Corto de anime japonés 2D vertical 9:16 de 15 segundos, transformación de limpieza satisfactoria, plano cenital. Una mano estilo anime (sin rostro) rocía espuma sobre una plantilla de zapato marrón sucia sobre una encimera de acero inoxidable, frota la espuma en círculos, la enjuaga, y la plantilla se vuelve blanca limpia y brillante con efectos de brillo. Líneas de velocidad estilo manga, puntos de semitono y un destello blanco de impacto en la primera explosión de espuma. Audio: siseo del spray, crepitación de la espuma, fregado, agua, chimes ligeros de brillo, beat lo-fi suave. Sin rostros, sin texto, sin logos.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106554700040679424/img/6e1kkIefx27oeGQA.jpg" width="600" alt="Prompt de Video de Transformación y Limpieza en Estilo Anime">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=11847)**
+
+**Autor:** [Nadya](https://x.com/nadyamaje) | **Fuente:** [Link](https://x.com/nadyamaje/status/2106554883235356947) | **Publicado:** Oct 4, 2026
+
+---
+### Prompt de Batalla Wuxia Seedance 2.0 Mini
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt detallado para generar una escena de batalla wuxia de alta tensión entre dos cultivadoras de espadas femeninas utilizando Seedance 2.0 Mini, centrado en movimientos tácticos sincronizados y continuidad cinematográfica.
+
+#### 📝 Prompt
+
+```
+Textura fotorealista cinematográfica, combate dual de alta tensión puro estilo Xianxia chino antiguo.
+
+Esta vez rompe completamente con los modos anteriores:
+
+Cambios constantes de arma
+Ruptura del combate individual
+
+El núcleo se convierte en:
+Las dos protagonistas son un sistema táctico dual en movimiento continuo.
+Una absorbe la presión frontal
+
+La otra cambia la situación desde el flanco
+Intercambian roles inmediatamente al segundo siguiente
+La verdadera emoción no es el qi de espada llamativo, sino que las dos protagonistas casi no necesitan girarse para confirmar, pueden cubrir constantemente los puntos ciegos de la otra, formando una comprensión tácita y tensión cada vez más fuertes.
+
+Bloqueo de Personajes y Activos
+
+Bloquea estrictamente solo @image 1 y @image 2 como los dos personajes centrales.
+
+@image 1 | Hermana Mayor Inmortal de la Espada
+
+La Imagen 1 Hermana Mayor Inmortal de la Espada siempre mantiene original:
+
+Identidad femenina adulta del este asiático
+Rostro
+
+Pelo negro largo medio recogido
+Horquilla de jade blanco
+Proporción alta y delgada
+Hanfu de seda blanca bordada
+Mangas anchas semitransparentes en capas
+Sello de cintura plateado
+Colgante de jade
+Botas de tela blanca
+Solo una espada recta plateada
+@image 2 | Hermana Menor
+La Imagen 2 Hermana Menor siempre mantiene original:
+
+Identidad femenina adulta del este asiático
+Rostro
+
+Pelo negro trenzado
+Hanfu de lino verde
+Cinturón oscuro
+Horquilla de madera
+Zapatos negros de tela
+Solo una espada de acero oscuro
+Otros Personajes
+Enemigos, Maestro, Transeúntes son todos personajes funcionales únicamente, no se requiere bloqueo complejo de rostros ni ropa.
+
+ADN del Entorno
+Todas las imágenes de fondo y referencia de ubicación cargadas esta ronda determinan conjuntamente el mismo ADN del Entorno.
+
+Antes de la generación formal, analiza silenciosamente los elementos compatibles entre ellos:
+
+Terreno
+
+Arquitectura
+
+Diferencias de altura
+
+Escala espacial
+Edad de materiales
+Vegetación
+Cuerpos de agua
+Clima
+Niebla de montaña
+Iluminación
+Reflejos
+Profundidad atmosférica
+Rutas transitables por los personajes
+Luego recombinar en un espacio nuevo único pero creíble para esta ronda.
+Principios de Espacio y Ruta
+Los 15 segundos completos deben ocurrir en una ruta de combate continua comprensible, no puede cambiar súbitamente a otro mundo.
+
+El fondo permanece dinámicamente activo pero narrativamente neutral:
+
+Viento
+
+Agua
+
+Niebla
+
+Hojas
+
+Bajos de ropa
+Reflejos
+Figuras distantes
+Siempre naturalmente activos.
+Solo cuando los personajes realmente:
+Pisan
+Colisionan
+
+Rozan
+
+Armas tocando el entorno
+
+Aparecen estos:
+Polvo
+Ondulaciones
+Escombros
+
+Rayones
+
+Desplazamiento de ropa
+etc. retroalimentación física pasiva.
+Estrictamente Prohibido
+Puente rompiéndose súbitamente
+Niebla salvando personas súbitamente
+
+Árbol bloqueando espada súbitamente
+
+Edificio colapsándose solo para ayudar a algún lado
+Estructura Segmentada
+0–5s | Plano general entrando a plano medio
+La misma Hermana Mayor Inmortal de la Espada vestida de blanco y la misma Hermana Menor vestida de verde están de pie espalda con espalda.
+Tres espadachines enemigos que solo tienen función de combate presionan activamente desde diferentes direcciones.
+0–1s
+
+Usa panorama fijo de 24mm, permitiendo a la audiencia entender de inmediato:
+
+Posiciones de cinco personas
+
+Direcciones de ataque
+
+Espacio disponible para moverse después
+La Hermana Menor baja la voz, dice solo una línea:
+
+"Esta vez, no te gires para salvarme."
+La Hermana Mayor nunca se gira durante todo el tiempo, responde calmadamente:
+
+"Bien."
+Tan pronto cae la última palabra, los enemigos lanzan simultáneamente sin advertencia.
+La cámara se mueve rápidamente de 24mm fijo a rango medio-corto de 35mm en movimiento, pero no tiembla aleatoriamente, sino que es traída por las líneas de movimiento reales de los personajes.
+
+Primer Encuentro
+
+Un enemigo ataca a la Hermana Mayor desde arriba
+
+Otro enemigo corta hacia el lado ciego de la Hermana Menor simultáneamente
+
+Las dos mujeres explotan en direcciones opuestas casi instantáneamente:
+
+La Hermana Mayor brevemente cambia la línea de ataque de la primera espada luego avanza directamente posición
+
+La Hermana Menor baja el centro de gravedad rozando el segundo ataque, solo contraataca la trayectoria del arma enemiga, no se detiene para posar
+
+Dos inmediatamente empiezan a migrar hacia adelante a lo largo de rutas que realmente existen en el entorno de referencia.
+Un cuerpo enemigo pasando por primer plano a alta velocidad llena brevemente la lente, usando esta oclusión real para completar el primer corte oculto, la audiencia apenas siente que la posición de la cámara ha cambiado.
+5–10s | Seguimiento continuo en plano medio
+Mantener:
+
+Mismo espacio
+Mismas dos protagonistas
+
+Misma propiedad de armas
+
+Los enemigos absolutamente no pueden hacer fila para enviar movimientos, ellos continuamente:
+
+Persiguen
+
+Rodean
+
+Interceptan
+En este momento:
+La Hermana Mayor soporta presión continua de dos enemigos
+La Hermana Menor enfrenta a otro enemigo
+
+No dividir pantalla en "dos peleando por separado", debe dejar que dos líneas de combate se entrelacen constantemente.
+
+Primer Complemento Táctico
+La Hermana Mayor deliberadamente cede medio paso, trayendo a un enemigo persiguiendo dentro de la línea de ataque avanzando de la Hermana Menor.
+La Hermana Menor no mira a la Hermana Mayor en absoluto, solo en el instante en que la punta de espada enemiga realmente entra en su espacio, brevemente atrapa y cambia dirección del arma con espada de acero oscuro, inmediatamente libera, continúa manejando persona delante.
+
+Segundo Complemento Táctico
+Menos de un segundo después, exactamente lo contrario ocurre de nuevo.
+Otro enemigo lanza verdadero ataque detrás de la Hermana Menor.
+La misma Inmortal de la Espada vestida de blanco ni siquiera se gira, punta de espada plateada entra desde otro lado del cuadro a alta velocidad, usa solo un impacto metálico extremadamente corto para empujar esa espada fuera de línea peligrosa detrás de la Hermana Menor, luego espada plateada inmediatamente deja cuadro, Hermana Mayor continúa propia pelea.
+
+Estado Central
+
+Dos personas nunca confirman posiciones de la otra, aún así saben exactamente dónde está la otra.
+Cámara desliza suavemente entre primer plano y plano medio, utilizando siguientes elementos barriendo lente a alta velocidad para formar 2-3 transiciones ocultas extremadamente naturales:
+
+Hombros enemigos
+
+Mangas anchas blancas
+Bajo de ropa verde
+
+Armas
+Requisitos de Ritmo
+Ritmo de acción no es una velocidad de principio a fin, sino:
+Dos intercambios rápidos
+
+Una colisión de arma verdaderamente pesada
+
+Silencio de medio beat
+Luego explosión repentina
+El mismo Maestro mayor permanece en zona segura distante observando, no actúa de principio a fin, no resuelve problemas para nadie.
+10–15s | Plano cercano entrando a plano medio final más amplio
+
+Tres enemigos descubren persecución individual ineficaz, primera vez cambian estrategia simultáneamente de verdad, comprimiendo espacio desde tres direcciones, forzando Hermana Mayor y Hermana Menor hacia misma área central.
+Forman bloqueo obvio.
+
+Dos no continúan retirándose.
+La misma Inmortal de la Espada vestida de blanco y la misma Hermana Menor vestida de verde repentinamente estallan sprint hacia cada una simultáneamente.
+Cámara no corta inmediatamente, deja audiencia ver completamente:
+Dos líneas de hombros rozan a alta velocidad, cuerpos cruzan a través de cada uno con distancia mínima.
+En momento de cruce, dos intercambian completamente posiciones frente-atrás.
+Y ninguna mira a la otra.
+
+Volteo Táctico Después de Intercambio
+
+Hermana Mayor mientras pasa Hermana Menor, directamente toma sobre enemigo originalmente atacando lado ciego de Hermana Menor
+
+Hermana Menor simultáneamente corta en línea de enemigo originalmente persiguiendo Hermana Mayor
+
+Un enemigo sable largo barre a través de toda cámara a alta velocidad, formando solo una oclusión de arma obvia hard cut.
+
+Corte a nuevo eje inverso:
+
+Hermana Mayor ahora está parada en posición Hermana Menor acaba de dejar
+
+Hermana Menor también está parada en posición Hermana Mayor acaba de dejar
+
+Ambas inmediatamente completan dos rotaciones inversas extremadamente cortas, extremadamente directas, sin mostrar:
+Punta de espada plateada se detiene con seguridad un ancho de dedo antes de mentón de un enemigo
+
+Espada de acero oscuro simultáneamente se detiene con seguridad afuera de muñeca empuñando espada de otro enemigo
+Tercer enemigo prepara golpear de nuevo, pero encuentra ambas líneas efectivas de ataque completamente bloqueadas por posición de compañero, solo puede forzar retirada.
+
+Momento de Parada Repentina
+Previamente denso:
+Sonidos silbantes
+
+Colisiones metálicas
+
+Sonidos deslizamiento suela zapatos
+
+Colapso repentinamente en este momento.
+Dejando solo:
+
+Respiración real de dos mujeres
+
+Vibración residual extremadamente ligera de espadas
+Bajos de ropa de seda cayendo gradualmente
+
+Hermana Mayor todavía mirando enemigo delante, pregunta sin girar cabeza:
+
+"¿Aún vivo?"
+Hermana Menor pausa casi ninguno:
+
+"Más fácil que tú."
+Esquina de boca de Hermana Mayor muestra solo indicio extremadamente breve, extremadamente ligero de sonrisa.
+Maestro mismo distante finalmente exhala ligeramente respiración sostenida durante todo, pero no predica, no explica relación entre dos.
+
+Estado Final
+
+Después victoria confirmada, absolutamente no poses de victoria.
+
+Dos mujeres bajan puntas de espada simultáneamente, mantienen ritmo original continuando hacia adelante a través de mismo espacio; tres enemigos instintivamente ceden camino.
+Pelo, bajos de ropa, viento ambiental, niebla de agua, escombros continúan movimiento natural, imagen termina directamente mientras personajes aún moviéndose hacia adelante.
+Requisitos de Cámara y Edición
+
+Duración total estricta 15 segundos
+
+16:9 horizontal
+
+Mantener 0–5s / 5–10s / 10–15s tres segmentos narrativos claros
+
+Visualmente dominado por una trayectoria de cámara continua sedosa
+
+Película completa permite solo aproximadamente 4-5 cortes ocultos o cortes realmente disparados por impactos
+
+Prohibir corte fragmentado loco para "sensación de acción"
+
+Foco de Ejecución Seedance 2.0 Mini
+Para Seedance 2.0 Mini, controla activamente presupuesto de prompt.
+
+Lo más importante es:
+
+Imagen 1, Imagen 2 identidades de dos protagonistas estables
+
+Propiedad de dos espadas estable
+
+Manos y cuerpos continuos
+
+Relación espacial de dos personas continua
+Ruta de entorno central continua
+Tres enemigos solo necesitan mantener:
+Espadachines enemigos estilo antiguo
+Apariencia funcional básica
+Eso es suficiente, no desperdicies atención del modelo bloqueando estrictamente rostros, ropa y detalles.
+
+Requisitos de Sonido y Movimiento
+
+Diálogo nativo sincronizado mandarín
+
+Efectos de sonido espacial nativos sincronizados
+
+Fortalecimiento de foco:
+
+Silbato breve punta de espada
+Colisiones metálicas reales
+Fricción suela zapatos
+Temblor bajo de ropa de seda
+Respiración real de personajes
+
+Contraste de sonido silencio repentino final
+
+Textura de Movimiento
+Textura de movimiento cinematográfico 24fps
+
+Desenfoque de movimiento natural
+
+Acciones deben tener claro:
+Inicio
+Aceleración
+Aplicación de fuerza
+Cambio de línea
+Inercia
+Frenado
+
+Estrictamente Prohibido
+Teletransportación
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106386731285245952/img/oyhTyHCArGSxRsNP.jpg" width="600" alt="Prompt de Batalla Wuxia Seedance 2.0 Mini">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=11852)**
+
+**Autor:** [Soran](https://x.com/Soranlan) | **Fuente:** [Link](https://x.com/Soranlan/status/2106388571863253309) | **Publicado:** Oct 3, 2026
+
+---
+### Prompt de Video para Anuncio de Zapatos de Fútbol de Alta Moda
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt detallado para generar un anuncio de video de 15 segundos de zapatos de fútbol de alta moda utilizando Seedance 2.0, con tomas cinematográficas de botines dorados metálicos en un campo abierto.
+
+#### 📝 Prompt
+
+```
+Crea un anuncio de video de 15 segundos de zapatos de fútbol de alta moda utilizando las imágenes de referencia cargadas para los botines de fútbol dorados metálicos, calcetines blancos hasta la rodilla y un estilo femenino vintage de fútbol. Mantén el diseño del calzado, los colores, las texturas y las proporciones consistentes durante todo el video.
+
+Entorno: Un enorme campo de fútbol al aire libre, cubierto de hierba natural verde exuberante, con un horizonte completamente abierto y un cielo azul pastel y rosa hermoso y soñador. El campo debe sentirse espacioso e intocable. Sin estadio, sin espectadores, sin edificios, sin gradas, sin entorno interior, sin cercas cercanas.
+
+0–3 seg: Toma cinematográfica amplia de una joven adulta futbolista parada sola en medio del vasto campo abierto. Lleva el mismo atuendo elegante inspirado en el vintage de las imágenes de referencia, con calcetines blancos hasta la rodilla y los botines de fútbol dorados metálicos. Coloca suavemente un pie sobre un balón de fútbol. La cámara se mueve lentamente hacia ella mientras la luz del sol se refleja hermosamente en los botines.
+
+3–6 seg: Corte a tomas dramáticas en primer plano de los botines dorados. Su pisa firmemente sobre la hierba, los tacos presionan naturalmente en el césped y ella ajusta los cordones. El movimiento macro de la cámara revela la textura metálica, las costuras, la suela y los tacos. Haz que los zapatos sean el héroe visual.
+
+6–10 seg: Comienza a jugar fútbol a través del campo completamente abierto, driblando el balón rápida y confiadamente. Usa una cámara de seguimiento en ángulo bajo enfocada en sus pies y botines mientras cambia de dirección, acelera y controla el balón. Su atuendo fluido se mueve naturalmente con su movimiento.
+
+10–13 seg: Realiza una carrera potente y golpea el balón de fútbol con el botín dorado. Captura el disparo en cámara lenta cinematográfica, mostrando el zapato haciendo contacto con el balón, partículas de hierba volando naturalmente y el balón lanzándose a través del campo abierto.
+
+13–15 seg: Toma heroica premium. El balón de fútbol rueda hasta detenerse junto a sus botines dorados. Ella permanece parada con confianza en el fondo sobre el vasto campo verde mientras la luz cálida del sol atrapa los zapatos metálicos. La cámara empuja lentamente hacia los botines y termina en un primer plano nítido enfocado en el producto.
+
+Estilo visual: campaña de moda deportiva de lujo, fotografía editorial soñadora, iluminación natural cinematográfica, movimiento realista de fútbol, física realista de la hierba, estilo femenino elegante, movimiento dinámico de cámara, detalles macro del zapato, profundidad de campo reducida, calidad comercial premium, fotorrealismo, textura sutil de película.
+
+Importante: Mantén los botines de fútbol dorados idénticos durante todo el video. Sin cambios en el diseño del zapato, sin pies distorsionados, sin extremidades extra, sin balón deformado, sin apariencia CGI artificial. Todo el video transcurre al aire libre en un único campo de fútbol abierto y vasto.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106319331823165440/img/HRw0Mc4qjR1ZtqNR.jpg" width="600" alt="Prompt de Video para Anuncio de Zapatos de Fútbol de Alta Moda">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=11849)**
+
+**Autor:** [Soulful Ai](https://x.com/soulful__ai) | **Fuente:** [Link](https://x.com/soulful__ai/status/2106321511212544372) | **Publicado:** Oct 3, 2026
+
+---
+### Prompt de Video de Batalla Épica Xianxia
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt detallado para generar una animación CG 3D de alta calidad de una espadachina luchando contra hordas de monstruos en un reino celestial flotante, con efectos visuales específicos y movimientos de cámara.
+
+#### 📝 Prompt
+
+```
+[Configuración Global de Calidad de Imagen]
+
+UE5.4 Path Tracing, Lumen Global Illumination, Nanite, Materiales Físicos PBR. Animación CG 3D de estilo Xianxia chino de alta calidad, 8K, HDR, gestión de color ACES, trabajo de cámara cinematográfico, fluidez suave a 60fps.
+
+Destrucción física Chaos, escombros rígidos realistas con arcos de gravedad, simulación de tela, iluminación volumétrica, rayos de luz (godrays), sombras de contacto, reflejos trazados por rayos.
+
+Sobre los nueve cielos antes del amanecer, numerosas islas inmortales flotantes se suspenden en medio de un mar de nubes sin fin.
+
+La escena consiste principalmente en:
+
+Puentes de jade blanco
+Palacios inmortales rotos
+Plataformas de piedra flotantes
+Estatuas gigantes rotas
+Mar de nubes
+Grietas en el cielo estrellado
+Grupos de islas inmortales de gran altitud
+
+La vista superior permanece como un río estelar profundo, mientras que el horizonte lejano revela la primera luz dorada del amanecer.
+
+Uso general de tonos índigo gris de baja saturación, blanco lunar, azul hielo y oro oscuro.
+
+Las habilidades grandes tienen diferentes colores de luz elemental, pero siempre mantienen el visual azul hielo y oro oscuro de Hanjin como base unificada.
+
+Las grietas causadas por la batalla, capas de hielo, marcas de quemaduras, puentes rotos, cráteres gigantes, marcas de espada y restos de monstruos se acumulan continuamente y no se recuperan automáticamente.
+
+La grava, fragmentos de jade blanco y caparazones de monstruos siguen la gravedad e inercia reales.
+
+El mar de nubes experimentará rodadura volumétrica debido a ondas de choque, tormentas y grandes habilidades de energía.
+
+El cabello, túnicas y borlas del personaje siempre se ven afectados por el movimiento rápido y el flujo de aire de gran altitud.
+
+16:9.
+
+[Protagonista | Hermana Mayor · Espadachín Hanjin]
+
+Recurso de personaje @Image1.
+
+Mantener estrictamente:
+
+Rostro femenino oriental frío.
+
+Cabello largo negro recogido en cola de caballo alta.
+
+Tres marcas azules de patrón en la frente.
+
+Túnica de batalla y armadura estratificada azul oscuro-negro.
+
+Estructura tallada en plata oscura y oro cobre.
+
+Borlas azules y adornos de jade.
+
+Referencias de personaje desde múltiples ángulos pertenecen al mismo rol.
+
+Solo una hermana mayor en toda la película.
+
+Prohibido: cambio de rostro, cambio de peinado, cambio de marca en la frente, modificación del tipo de cuerpo, cambio aleatorio de vestuario o generación de clones de personajes.
+
+[Arma | Hanjin]
+
+Recurso de arma @Image2.
+
+Hanjin es la única arma en toda la película.
+
+Mantener hoja de cristal transparente azul hielo, grietas de hielo, guarda tallada en plata oscura, gema azul, mango de espada oscuro y borla azul.
+
+Hanjin es siempre el núcleo de todas las activaciones de habilidades grandes.
+
+Los diferentes elementos pueden cambiar los efectos de luz externos y la coloración ambiental de la espada, pero no pueden rediseñar el arma física.
+
+Prohibido: duplicación, empuñadura doble, cambios de color aleatorios, cambio de forma de la espada o generar la funda como una segunda arma.
+
+[Monstruos | Horda Devoradora de Estrellas]
+
+Hay muchos monstruos devoradores de estrellas con diseño uniforme en el campo de batalla.
+
+Los súbditos comunes consisten principalmente en:
+
+Cuerpo vacío de obsidiana + caparazón de obsidiana sin rostro + núcleo estelar púrpura + garras.
+
+Criaturas voladoras rápidas devoradoras de estrellas existen en el aire.
+
+Las unidades grandes tienen un tamaño significativamente mayor que los edificios del palacio inmortal, atacando con palmas gigantes, rocas de obsidiana y energía de núcleo estelar.
+
+Las mareas de monstruos se reponen desde:
+
+Grietas en el cielo estrellado.
+
+Parte trasera de las islas flotantes.
+
+Debajo del mar de nubes.
+
+Ruinas del palacio inmortal.
+
+Los monstruos deben activamente:
+
+Perseguir.
+
+Matar.
+
+Rodear.
+
+Ataque aéreo.
+
+Supresión de largo alcance.
+
+No pueden simplemente quedarse quietos alrededor de la protagonista esperando ser destruidos.
+
+Cuando son derrotados, los monstruos se desintegran en fragmentos de obsidiana, polvo estelar púrpura y núcleos estelares apagados.
+
+Los escombros caen sobre las islas flotantes y ruinas y persisten.
+
+[Reglas Globales de Batalla]
+
+Hack-and-slash Xianxia 1vN de alta velocidad de 30 segundos.
+
+Sin diálogo.
+
+Sin gritos de batalla.
+
+Sin gritar nombres de habilidades.
+
+Sin cámara lenta.
+
+Sin congelamiento de imagen.
+
+Sin pausa de impacto (hit-stop).
+
+Los elementos principales de combate son:
+
+Movimiento rápido + Habilidades gigantes + Despeje masivo de mareas de monstruos.
+
+Toda la película incluye diez ráfagas de habilidades grandes.
+
+Diez tipos de habilidades deben tener conceptos visuales distintos, no solo el mismo qi de espada con colores cambiados.
+
+El sistema de elementos de habilidades puede cubrir:
+
+Río Estelar.
+
+Trueno.
+
+Tormenta.
+
+Caída de Cuerpos Celestes.
+
+Luz Lunar y Luz de Espejo.
+
+Fenómeno Solar.
+
+Gran Formación de Espadas.
+
+Grieta Espacial.
+
+Cortina Aurora del Cielo.
+
+Fenómeno Terminador de Domo Celestial.
+
+Estos elementos no necesitan ejecutarse en el orden en que aparecen en el texto.
+
+Los diferentes elementos deben tener diferencias visuales claras.
+
+[Movimiento Rápido]
+
+La Hermana Mayor está siempre en un estado de alta movilidad.
+
+Los métodos principales de movimiento incluyen:
+
+Carga deslizándose por el suelo.
+
+Giro lateral rápido hacia atrás.
+
+Saltos entre islas flotantes.
+
+Teletransporte de corta distancia.
+
+Ascenso vertical.
+
+Picado.
+
+Circulación lateral.
+
+Cambio de dirección en el aire.
+
+El teletransporte de corta distancia retiene imágenes residuales azul hielo y oro oscuro con un punto final claro.
+
+El personaje continúa luchando inmediatamente al alcanzar el punto final.
+
+Las imágenes residuales no son clones físicos.
+
+Prohibido: convertir al personaje en líneas de energía irreconocibles durante mucho tiempo.
+
+[Habilidades Pequeñas]
+
+Solo se usan acciones auxiliares extremadamente cortas entre las habilidades grandes.
+
+Incluyendo:
+
+Qi de espada de corta distancia.
+
+Cambio de posición paso a paso.
+
+Cortes consecutivos rápidos.
+
+Luz de espada estilo disparo puntual.
+
+Estas acciones sirven principalmente para:
+
+Manejar monstruos cercanos.
+
+Ajustar la posición espacial.
+
+Conectar con la siguiente habilidad grande.
+
+No usar muchos ataques normales para retrasar el tiempo.
+
+[Sistema de Habilidades Gigantes]
+
+Serie Río Estelar
+
+Hanjin puede movilizar el río estelar de gran altitud.
+
+Una enorme energía de río estelar azul hielo entra en el campo de batalla desde el domo celeste, formando un flujo masivo entre islas flotantes y puentes.
+
+Las hordas de monstruos son dispersadas por el torrente del río estelar, y el mar de nubes rueda hacia ambos lados después del impacto.
+
+El campo de batalla puede dejar rastros de río estelar congelado o bandas de energía azul hielo.
+
+Serie Trueno
+
+Las nubes de trueno del cielo responden a Hanjin.
+
+Rayos masivos descienden sobre la zona central de guerra.
+
+Los rayos pueden formar:
+
+Espadas de trueno.
+
+Pilares de trueno.
+
+Redes de arco eléctrico.
+
+Grandes formaciones de espadas.
+
+Las hordas de monstruos pierden el equilibrio y son lanzadas continuamente en densos relámpagos.
+
+Las superficies de las islas flotantes muestran marcas carbonizadas, de descarga eléctrica y grietas.
+
+Serie Tormenta
+
+Hanjin desenvaina su espada causando una gran tormenta azul hielo.
+
+Múltiples tornados gigantes abarcan islas flotantes y mar de nubes.
+
+La tormenta puede barrer simultáneamente:
+
+Monstruos.
+
+Grava.
+
+Niebla de nubes.
+
+Escombros del palacio inmortal.
+
+La Hermana Mayor se mueve rápidamente a través del interior de la tormenta continuando la persecución.
+
+El entorno muestra erosión por viento y daño rotacional obvio.
+
+Serie Cuerpos Celestes
+
+Anomalías ocurren en el río estelar de gran altitud.
+
+Muchos cuerpos celestes con cristales de hielo, luz estelar o energía de oro oscuro caen rápidamente del cielo.
+
+Diferentes islas flotantes sufren impactos grandes continuos.
+
+Produciendo:
+
+Cráteres gigantes.
+
+Niebla fría.
+
+Grava.
+
+Ondas de choque.
+
+Desintegración masiva de mareas de monstruos.
+
+Serie Luz Lunar
+
+Fenómenos visuales blancos lunares a gran escala aparecen en el campo de batalla.
+
+Se pueden lograr mediante:
+
+Espejos de luz lunar.
+
+Reflexión de cristales de hielo.
+
+Luz de espada refractada multidireccional.
+
+Formando una red de corte de área grande.
+
+Las luces de corte atraviesan las mareas de monstruos desde múltiples direcciones simultáneamente.
+
+Algunas estructuras de luz lunar permanecen en el entorno después de que termina la habilidad.
+
+Serie Sol
+
+Mientras se acerca el amanecer, la primera luz solar entra en el campo de batalla.
+
+Hanjin puede movilizar energía solar de oro oscuro.
+
+Aves divinas doradas gigantes, fuego de espada sol ardiente o fenómenos celestes dorados a gran escala atraviesan el grupo de islas flotantes.
+
+Azul hielo y oro oscuro forman una fuerte superposición frío-calor.
+
+Muchas hordas de monstruos se desintegran en polvo estelar bajo la energía solar.
+
+Serie Formación de Espadas
+
+Grandes plazas del palacio inmortal o terrenos de islas flotantes son activados por la intención de espada de Hanjin.
+
+Muchas espadas gigantes azul hielo emergen de edificios, capas de hielo o el suelo.
+
+La escala de las espadas es mucho mayor que las armas normales.
+
+Toda el área forma rápidamente un gran bosque de espadas o formación.
+
+La Hermana Mayor se mueve a alta velocidad dentro de la formación de espadas.
+
+Los monstruos son golpeados consecutivamente, perforados por cuerpos de energía o lanzados al aire desde diferentes posiciones.
+
+Serie Grieta
+
+Hanjin puede rasgar brevemente el espacio del campo de batalla.
+
+Enormes grietas espaciales negras se forman entre el cielo o las islas flotantes.
+
+Los bordes de las grietas están delineados por energía azul hielo y oro oscuro.
+
+Muchas luces de espada o cortes espaciales se extienden hacia afuera a lo largo de los bordes de las grietas.
+
+La Hermana Mayor puede cambiar rápidamente de posiciones alrededor de la grieta.
+
+Residuos visuales obvios permanecen después de que terminan las grietas espaciales.
+
+Prohibido: usar agujeros negros ordinarios que traguen todo en lugar de grietas espaciales.
+
+Serie Aurora
+
+Auroras azul hielo, blancas lunares y doradas pálidas de área grande aparecen en el cielo alto.
+
+Las auroras descienden del domo celeste, cubriendo múltiples islas flotantes.
+
+Las cortinas de aurora tienen enorme profundidad y escala espacial.
+
+Los monstruos que entran en ellas:
+
+Se congelan.
+
+Pierden el equilibrio.
+
+Se desintegran en energía.
+
+La Hermana Mayor se desplaza a alta velocidad entre diferentes capas de aurora.
+
+Esta etapa lleva gradualmente todo el campo de batalla al clímax final.
+
+[Fase Final]
+
+Los visuales dejados por batallas anteriores aún existen en la escena.
+
+Por ejemplo:
+
+Capas de hielo.
+
+Marcas de quemaduras.
+
+Erosión por viento.
+
+Cráteres de impacto.
+
+Fragmentos de espejo.
+
+Bosques de espadas.
+
+Grietas espaciales.
+
+Resplandor posterior de aurora.
+
+Restos de monstruos.
+
+En la fase final, estos elementos visuales no necesitan convertirse todos directamente en la misma habilidad, pero deberían producir algún grado de resonancia ambiental.
+
+Hanjin se convierte en el núcleo de energía final.
+
+La Hermana Mayor libera un fenómeno terminador a gran escala que cubre el grupo de islas flotantes centrales y el cielo.
+
+Puede manifestarse como:
+
+Anillos estelares gigantes.
+
+Ondas de choque de domo celeste multicapa.
+
+Luz de espada anular azul hielo y oro oscuro.
+
+Expansión de energía del cielo estrellado de gran rango.
+
+La escala de la habilidad terminadora debe ser obviamente mayor que las habilidades de elemento único anteriores.
+
+Los visuales de río estelar, rayos, sol/luna y aurora pueden aparecer brevemente en el efecto terminador, pero no pueden reproducir completamente las habilidades anteriores.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105684524055322625/img/NCD7cVCLLuAfyOyU.jpg" width="600" alt="Prompt de Video de Batalla Épica Xianxia">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=11850)**
+
+**Autor:** [Arvin](https://x.com/Arvin010717) | **Fuente:** [Link](https://x.com/Arvin010717/status/2106241257895084452) | **Publicado:** Oct 3, 2026
+
+---
 ### Ataque del Monstruo de Hielo en la Cabaña de Esquí
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -428,45 +1296,6 @@ Cortometraje cinematográfico de terror y suspenso ambientado en la cabaña de u
 **[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=11813)**
 
 **Autor:** [auqib](https://x.com/auqibhabib) | **Fuente:** [Link](https://x.com/auqibhabib/status/2106235341548273915) | **Publicado:** Oct 3, 2026
-
----
-### Vlog de estilo de vida coreano con transiciones de hora dorada
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt para un vlog de estilo de vida ultra realista de 60 segundos que presenta a una mujer coreana, moviéndose desde una cafetería hasta una calle de la ciudad, un atardecer en la azotea y finalmente una cafetería nocturna, enfatizando el estado de ánimo y la consistencia visual.
-
-#### 📝 Prompt
-
-```
-Crea un vlog cinematográfico de estilo de vida ultra realista de 60 segundos que presenta a una hermosa joven coreana con cabello largo castaño oscuro, maquillaje natural suave y una sonrisa gentil. Lleva un delicado vestido blanco floral con una cárdigan crema ligera y lleva un pequeño bolso de mano blanco.
-
-**Escena 1:** Ella está afuera de una moderna cafetería estética rodeada de exuberantes plantas verdes y ventanas de vidrio. Sostiene un café con hielo, toma un sorbo, ajusta suavemente su cabello y sonríe naturalmente a la cámara.
-
-**Escena 2:** Tomas cinematográficas en primer plano de su rostro mientras disfruta de su café. La luz solar suave ilumina su rostro. Se ve relajada y feliz, con movimientos naturales sutiles.
-
-**Escena 3:** Camina por una hermosa calle de la ciudad durante la hora dorada, vistiendo el mismo atuendo. La cámara la sigue desde atrás y captura elegantes tomas de perfil lateral.
-
-**Escena 4:** Llega a un mirador en la azotea con vista a un hermoso horizonte de la ciudad durante el atardecer. El sol dorado se pone lentamente detrás de los edificios. Ella se sienta en un banco, contempla el atardecer y disfruta de la atmósfera pacífica.
-
-**Escena 5:** Durante la hora azul, camina por una calle urbana moderna con farolas brillantes y autos pasando. La cámara captura su hermoso perfil lateral y su cabello ondeando en una toma de seguimiento cinematográfica.
-
-**Escena 6:** Cafetería al aire libre por la noche con cálidas luces hadas colgando sobre ella. Está sentada en una acogedora mesa de madera con su café con hielo y su bolso. Sonríe a la cámara, levanta su bebida, toma un sorbo y se despide con una expresión alegre.
-
-**Estilo visual:** Ultra realista 4K, textura de piel fotorrealista, expresiones faciales naturales, profundidad de campo cinematográfica, iluminación suave, tonos cálidos de hora dorada, hermoso bokeh, movimientos de cámara fluidos, corrección de color profesional, física del cabello realista, movimientos corporales naturales, vlog estético de estilo de vida coreano, atmósfera onírica y pacífica.
-
-**Cámara:** Mezcla de planos abiertos, planos medios, primeros planos, detalles en cámara lenta, tomas de seguimiento fluidas y transiciones cinematográficas suaves.
-
-**Estado de ánimo:** Pacífico, romántico, acogedor, elegante, vida cotidiana onírica.
-
-Mantén una perfecta consistencia de personaje, rasgos faciales idénticos, peinado, ropa y accesorios en todas las escenas. Sin manos distorsionadas, sin parpadeos, sin cambios de rostro, sin movimientos antinaturales, sin texto, sin marca de agua.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106230180654280704/img/_LwGOY5NSucEMO71.jpg" width="600" alt="Vlog de estilo de vida coreano con transiciones de hora dorada">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=11812)**
-
-**Autor:** [Zorvia](https://x.com/ZorviaLux) | **Fuente:** [Link](https://x.com/ZorviaLux/status/2106230270282313997) | **Publicado:** Oct 3, 2026
 
 ---
 ### Recuerdo de infancia: fútbol callejero cinematográfico
@@ -5141,123 +5970,6 @@ Crea un video cinematográfico de transformación de moda que presenta a una jov
 **Autor:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Fuente:** [Link](https://x.com/ayzalnooor24521/status/2100456445900710158) | **Publicado:** Sep 17, 2026
 
 ---
-### Vlog del Día de Pago en Corea
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt para un mini vlog estilo UGC ultra realista de 30 segundos que muestra a una mujer coreana celebrando el día de pago, con desglose detallado de escenas e instrucciones de estilo visual.
-
-#### 📝 Prompt
-
-```
-Crea un mini vlog estilo UGC ultra realista de 30 segundos que muestre a una chica coreana con estilo "baddie" documentando el día más feliz tras recibir su salario.
-
-Escena 1 — 0–5 seg:
-Selfie matutina en el dormitorio. Ella se despierta, revisa su teléfono, ve que le han depositado el salario y sonríe instantáneamente con emoción. Estética natural de cama revuelta, luz suave de la mañana. Mira a la cámara y dice felizmente: “¡Por fin me han depositado mi salario!”
-
-Escena 2 — 5–9 seg:
-Transición rápida a ella arreglándose. Toma una ducha refrescante, hace una rutina simple de skincare, se peina y se pone un atuendo trendy estilo baddie. Tomas de selfie frente al espejo, movimiento realista de teléfono en mano.
-
-Escena 3 — 9–19 seg:
-Ella va a un centro comercial moderno y lujoso. Caminando por la entrada mientras se graba, mirando tiendas de moda, probándose ropa, revisando accesorios y llevando bolsas de compras felizmente. Incluye tomas candidatas rápidas, expresiones emocionadas, iluminación realista del mall y temblor natural de cámara UGC.
-
-Escena 4 — 19–25 seg:
-Se sienta en una cafetería acogedora dentro del mall con sus bolsas de compras a su lado. Pide una taza caliente de té, graba cómo le sirven el té, toma un sorbo y sonríe satisfecha.
-
-Escena 5 — 25–30 seg:
-Toma de hora dorada/noche. Camina fuera del mall con sus bolsas de compras y el té, gira la cámara hacia sí misma, sonríe y dice: “El día de pago es oficialmente mi día favorito.” Termina con una risa casual y movimiento natural de cámara.
-
-Estilo visual: metraje ultra realista de smartphone, vlog UGC auténtico, estética de moda coreana, energía segura de baddie, cinematográfico pero no excesivamente pulido, textura de piel natural, iluminación realista, transiciones suaves, sonidos ambientales sutiles, expresiones faciales realistas, cámara de teléfono en mano, formato vertical 9:16 listo para redes sociales, calidad 4K.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100452060642852864/img/R0oS8fEzuAmWvRq5.jpg" width="600" alt="Vlog del Día de Pago en Corea">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=10952)**
-
-**Autor:** [Noor 🌸](https://x.com/Noor_ul_ain43) | **Fuente:** [Link](https://x.com/Noor_ul_ain43/status/2100452341996728475) | **Publicado:** Sep 17, 2026
-
----
-### Retrato de Guerrera de Artes Marciales Coreanas
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt para generar una escena cinematográfica ultrarrealista de una joven feroz con atuendo tradicional de artes marciales coreanas.
-
-#### 📝 Prompt
-
-```
-Escena cinematográfica ultrarrealista de una joven feroz que se planta con confianza en un patio tradicional de artes marciales coreanas, vistiendo un uniforme negro de artes marciales con cuello blanco, cabello oscuro corto moviéndose naturalmente al viento, expresión intensa y concentrada, luz solar cálida y dramática, arquitectura tradicional coreana y muros de piedra en el fondo, desenfoque de movimiento sutil, textura realista de la piel, tela detallada, profundidad de campo reducida, graduación de color cinematográfica, alto contraste, 8K HDR, fotograma profesional de película, atmósfera dinámica, lente de 35 mm, composición vertical 9:16.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100444654605070336/img/BWb5GjmmEgP2Mxrn.jpg" width="600" alt="Retrato de Guerrera de Artes Marciales Coreanas">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=10955)**
-
-**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Fuente:** [Link](https://x.com/AIwithMinal/status/2100444829880914240) | **Publicado:** Sep 17, 2026
-
----
-### Prompt de Video para Vlog de Verano Coreano
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt detallado para la generación de videos con Seedance 2.0, que crea una escena tranquila de verano coreano con una chica comiendo sandía junto a un arroyo.
-
-#### 📝 Prompt
-
-```
-Una hermosa chica coreana vestida con un suave vestido blanco de verano y un sombrero natural de paja, con una estética fresca y elegante del estilo de vida coreano. Tiene el cabello oscuro corto y suavemente ondulado, maquillaje mínimo y una expresión natural y gentil. Disfruta de un apacible día de verano junto a un hermoso arroyo de montaña. Se sienta cerca del agua, comiendo tranquilamente una rebanada de sandía y disfrutando de la atmósfera refrescante. Camina lentamente por el acogedor espacio exterior mientras ajusta su sombrero y contempla el paisaje. La luz del sol se filtra suavemente entre los árboles, creando cálidos destellos cinematográficos y reflejos naturales de lente. Una cortina blanca se mueve gentilmente con la brisa de verano junto a la casa de madera. Lleva una pequeña cesta de picnic y disfruta de la tranquilidad del entorno rural. La cámara captura primeros planos, planos medios y tomas abiertas cinematográficas fluidas. Estilo fotorrealista, cálido, onírico y pacífico de vlog de verano coreano, colores naturales, iluminación suave, movimiento realista y calidad cinematográfica en 4K.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100423624889114624/img/_Dz_jZArR-f_XNwO.jpg" width="600" alt="Prompt de Video para Vlog de Verano Coreano">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=10951)**
-
-**Autor:** [Sahil Verma](https://x.com/sahilvermaai) | **Fuente:** [Link](https://x.com/sahilvermaai/status/2100423982898115050) | **Publicado:** Sep 17, 2026
-
----
-### Prompt de Batalla de Dragones para Seedance 2.0
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt detallado de batalla fantástica cinematográfica para Seedance 2.0, que presenta a un guerrero y un dragón en un cielo tormentoso, con instrucciones específicas de tiempo y efectos visuales.
-
-#### 📝 Prompt
-
-```
-Crea un video de batalla fantástica cinematográfico de 15 segundos que coincida con la referencia: 0–1 s, un guerrero futurista con armadura flota en un cielo oscuro y tormentoso mientras un enorme dragón negro vuela detrás de él; 1–2 s, una energía azul brillante rodea al guerrero mientras la cámara se acerca lentamente; 2–3 s, el dragón se acerca rápidamente entre las nubes y el guerrero se gira hacia él; 3–5 s, el dragón abre la boca y exhala un poderoso chorro de fuego naranja brillante mientras el guerrero vuela hacia atrás a través de la tormenta; 5–7 s, muestra un primer plano dramático del rostro del dragón y sus ojos brillantes mientras persigue al guerrero; 7–9 s, el guerrero enfrenta al dragón en el aire con relámpagos detrás de ellos y energía azul emanando de su armadura; 9–11 s, el dragón ataca nuevamente con fuego intenso mientras el guerrero esquiva a alta velocidad entre las nubes; 11–13 s, muestra a ambos personajes volando uno hacia el otro en una confrontación aérea épica, con fuego y energía azul iluminando la tormenta; 13–15 s, el guerrero se mueve repentinamente hacia las nubes mientras el dragón lo sigue, terminando con una toma amplia dramática del cielo oscuro, CGI cinematográfico realista, armadura detallada, alas masivas de dragón, nubes volumétricas, movimiento dinámico de cámara, iluminación dramática, alto detalle, calidad 4K.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100417296351346688/img/OBZDOXdtVRddRk7O.jpg" width="600" alt="Prompt de Batalla de Dragones para Seedance 2.0">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=10949)**
-
-**Autor:** [Maha](https://x.com/Aiwithmaha) | **Fuente:** [Link](https://x.com/Aiwithmaha/status/2100417339716141116) | **Publicado:** Sep 17, 2026
-
----
-### Video de Ruptura de Pantalla con Seedance 2.0 para Escritorio
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Prompt detallado para Seedance 2.0 que genera un video donde una mujer rompe el vidrio de la pantalla de la computadora con un cuchillo, y luego lo arregla bajando el brillo.
-
-#### 📝 Prompt
-
-```
-Utiliza la imagen del escritorio de Apple proporcionada como primer fotograma, relación de aspecto 16:9, duración de 15 segundos, cámara fija, toma continua única. Mantén la consistencia de los rasgos faciales de la mujer, su traje negro de asesina, su peinado y el fondo de niebla azul; preserva los iconos del escritorio, la barra de menú y el Dock.
-0-4s: La mujer en el fondo de pantalla del escritorio se mueve repentinamente, con expresión tranquila, lanzando y atrapando continuamente el mismo cuchillo corto dos veces hacia arriba, la hoja girando en el aire, movimientos naturales, cabello flotando suavemente.
-4-6s: En el tercer lanzamiento, pierde el control, el cuchillo se escapa de su mano, la punta volando hacia la audiencia, golpeando el vidrio de la pantalla. Acompañado por un sonido nítido de vidrio rompiéndose, grietas tipo telaraña se extienden instantáneamente desde el punto de impacto, cubriendo el frente del personaje y la interfaz de usuario del escritorio, la imagen tiembla brevemente una vez.
-6-9s: La mujer se congela primero, luego abre mucho los ojos, frunce el ceño, mostrando ansiedad y pánico evidentes después de causar problemas. Mira las grietas, luego a la audiencia, intentando frenéticamente cubrir las grietas pero sin éxito.
-9-14s: De repente piensa en una solución, extiende la mano para hacer clic en el Centro de Control en la esquina superior derecha, abre el control de brillo de la pantalla con el icono del sol, y arrastra apresuradamente el deslizador de brillo hacia la izquierda. Cada operación oscurece toda la pantalla sincronizadamente, personajes, fondo, iconos y grietas se desvanecen gradualmente en la oscuridad; mientras opera, mira culpablemente a la audiencia, finalmente bajando el brillo al mínimo.
-14-15s: La pantalla se vuelve completamente negra, mantenida durante un segundo, no aparecen textos ni logotipos. Audio: Comienza con música instrumental ligera de artes marciales y el silbido del cuchillo girando; la música se detiene abruptamente al impacto, destacando el sonido del vidrio rompiéndose; luego retiene sonidos de tela revoloteando frenéticamente y clics de interfaz, terminando en silencio. Restricciones: Sin cortes, sin cambios de personaje, sin cambios de fondo, sin nuevos personajes o cuchillos, sin marco físico de computadora o teclado visible. Las grietas permanecen fijas en el plano del vidrio de la pantalla. El apagón final debe ser provocado por la mujer operando el control de brillo, no un corte repentino a negro.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100404208872919040/img/JMxfQF64saAPo_ae.jpg" width="600" alt="Video de Ruptura de Pantalla con Seedance 2.0 para Escritorio">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=10956)**
-
-**Autor:** [探路AI](https://x.com/TanLuAI) | **Fuente:** [Link](https://x.com/TanLuAI/status/2100405863123173606) | **Publicado:** Sep 17, 2026
-
----
 ---
 
 ## 📚 Más prompts disponibles
@@ -5319,6 +6031,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-10-04T04:49:53.955Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-10-05T04:47:48.464Z</sub>
 
 </div>

@@ -68,9 +68,9 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **6490** |
+| 📝 Total Prompts | **6495** |
 | ⭐ Featured Prompts | **6** |
-| 🔄 Last Updated | **2026-10-04** |
+| 🔄 Last Updated | **2026-10-05** |
 
 ---
 
@@ -365,6 +365,875 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 
 > 📝 Sorted by publish date (newest first)
 
+### Sci-Fi Warrior Corridor Battle Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for an ultra-realistic cinematic sci-fi action scene featuring a warrior sprinting down an industrial corridor with an energy blade.
+
+#### 📝 Prompt
+
+```
+Ultra-realistic cinematic sci-fi action scene, a powerful warrior in a flowing beige futuristic outfit sprinting down a massive industrial corridor while wielding a glowing blue energy blade, two armored enemies approaching ahead, dramatic tilted camera angle, intense motion, dynamic movement, realistic fabric details, metallic futuristic architecture, atmospheric lighting, volumetric shadows, cinematic depth of field, high contrast, photorealistic, 8K, epic Hollywood sci-fi movie aesthetic, 35mm lens, vertical 9:16 composition.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106610479351365632/img/ZHmFCfa_f0mlJa67.jpg" width="600" alt="Sci-Fi Warrior Corridor Battle Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11851)**
+
+**Author:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2106610541636837770) | **Published:** Oct 4, 2026
+
+---
+### Knitting the Sky Fantasy Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for a 15-second video where an elderly woman knits a scarf that transforms into the night sky, generated with Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Knitting the sky
+0–5s: One elderly woman with silver hair sits alone in a wooden rocking chair beside an open window at night, knitting with two wooden needles. A long dark blue scarf spills from her lap across the wooden floor. Warm amber lamp light, soft shadows. Medium shot.
+5–10s: The viewer moves closer to her hands and the scarf, and the dark yarn reveals tiny glowing stars and slowly swirling galaxies woven into the stitches. One star catches on the tip of her needle and sparkles. Her face softens into a quiet smile. Close-up.
+10–15s: She ties off the final stitch and gently tosses the scarf out the open window, where it unrolls upward over the rooftops and becomes the real night sky, stars settling into place. Wide shot from outside the house looking up, warm window glow below, deep blue sky above.
+Negative Prompt: extra fingers, extra hands, deformed hands, fused fingers, more than two knitting needles, melting needles, warped yarn, second woman, duplicate person, child, modern furniture, television, phone, harsh white lighting, neon colors, cartoon style, anime style, plastic skin, distorted face, flickering, glitch artifacts, text, watermark, logo, fast camera shake, slow motion, scarf turning solid, glowing face, sparkle overload, lens flare spam, fireworks, daytime sky
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106558771078029312/img/hZPtgXieC5nDSGJi.jpg" width="600" alt="Knitting the Sky Fantasy Video Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11848)**
+
+**Author:** [DeCat](https://x.com/DeCat2025) | **Source:** [Link](https://x.com/DeCat2025/status/2106559472432795987) | **Published:** Oct 4, 2026
+
+---
+### Anime Cleaning Transformation Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for generating a 15-second vertical anime-style video showing a satisfying cleaning transformation of a dirty shoe insole using spray foam and scrubbing.
+
+#### 📝 Prompt
+
+```
+15-second vertical 9:16 Japanese 2D anime short, satisfying cleaning transformation. Hand-drawn cel animation look, clean black ink outlines, vivid colors, soft cel shading, manga-style editing with speed lines, halftone screentone dots, sparkle effects and white impact flashes. Studio-quality anime production, smooth motion, 24fps. Subject: a worn, dirty shoe insole (brown-gold stains, footprint imprint) lying on a brushed stainless steel counter, shot from directly above. An anime-style hand (no face, no body, only hand and forearm visible) holds a small black spray bottle with a green cap. Cool silver background with soft window light and tiny water droplets. Shot 1: Locked top-down shot, 3 seconds. The dirty insole lies on the steel counter, a hand presses it flat. Dust motes float, subtle halftone vignette at the corners, thin speed lines drift in from the edges. Shot 2: Close top-down shot, 3 seconds. The spray bottle sprays a fine mist onto the insole, thick white foam bursts outward and spreads across the surface, bubbles catching sparkles. A one-frame white impact flash with radial ink lines on the first burst of foam. Shot 3: Tight overhead shot, 3 seconds. The hand rubs the foam in circular motions, the brown-gold dirt dissolves into the white foam and streams toward the edge in curling ink-like swirls. Dynamic motion lines follow the hand. Shot 4: Overhead shot, 3 seconds. A rinse of clear water washes the foam away, the insole is flipped over in one quick whip motion, revealing a bright clean white surface. Glittering sparkles and shine streaks pop across it. Shot 5: Slow push-in from above, 3 seconds. The spotless white insole gleams on the steel counter, the hand sets the bottle down at the corner. Final sparkle burst, soft glowing light, manga-style screentone vignette, held for the last beat like a manga cover panel. Audio: crisp spray hiss, fizzing foam crackle, rhythmic scrubbing, flowing water, a bright sparkle chime on each shine effect, soft upbeat Japanese lo-fi beat underneath. No speech, no singing. Avoid: faces, realistic live-action look, 3D render, text, subtitles, logos, brand names, extra fingers, deformed hands, flicker.  15-second vertical 9:16 Japanese 2D anime, satisfying cleaning transformation, top-down shot. An anime-style hand (no face) sprays foam onto a dirty brown shoe insole on a stainless steel counter, scrubs the foam in circles, rinses it, and the insole turns bright clean white with sparkle effects. Manga-style speed lines, halftone dots, and a white impact flash on the first foam burst. Audio: spray hiss, foam crackle, scrubbing, water, light sparkle chimes, soft lo-fi beat. No faces, no text, no logos.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106554700040679424/img/6e1kkIefx27oeGQA.jpg" width="600" alt="Anime Cleaning Transformation Video Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11847)**
+
+**Author:** [Nadya](https://x.com/nadyamaje) | **Source:** [Link](https://x.com/nadyamaje/status/2106554883235356947) | **Published:** Oct 4, 2026
+
+---
+### Seedance 2.0 Mini Wuxia Battle Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A detailed prompt for generating a high-tension wuxia battle scene between two female sword cultivators using Seedance 2.0 Mini, focusing on synchronized tactical movements and cinematic continuity.
+
+#### 📝 Prompt
+
+```
+Cinematic photorealistic texture, pure ancient Chinese Xianxia high-tension dual combat.
+
+This time completely break out of previous modes:
+
+Constant weapon changes
+Single combat breaking
+
+The core becomes:
+The two protagonists themselves are a continuously moving dual tactical system.
+One absorbs pressure from the front
+
+The other changes the situation from the flank
+Immediately swap roles in the next second
+The real thrill is not flashy sword qi, but that the two protagonists almost don't need to turn back to confirm, can constantly cover each other's blind spots, forming stronger and stronger tacit understanding and tension.
+
+Character and Asset Locking
+
+Strictly lock only @image 1 and @image 2 as the two core characters.
+
+@image 1 | Sword Immortal Senior Sister
+
+Image 1 Sword Immortal Senior Sister always maintains original:
+
+Adult East Asian female identity
+Face
+
+Black long hair half-up
+White jade hairpin
+Tall slender proportion
+White embroidered silk Hanfu
+Semi-transparent layered wide sleeves
+Silver waist seal
+Jade pendant
+White cloth boots
+Only one silver straight sword
+@image 2 | Junior Sister
+Image 2 Junior Sister always maintains original:
+
+Adult East Asian female identity
+Face
+
+Braided black hair
+Green linen Hanfu
+Dark belt
+Wooden hairpin
+Black cloth shoes
+Only one dark steel sword
+Other Characters
+Enemies, Master, Passersby are all functional characters only, no need for complex face locking, clothing locking.
+
+Environment DNA
+All uploaded background and location reference images this round jointly determine the same set of Environment DNA.
+
+Before formal generation, silently analyze compatible elements among them:
+
+Terrain
+
+Architecture
+
+Height differences
+
+Spatial scale
+Material age
+Vegetation
+Water bodies
+Weather
+Mountain mist
+Lighting
+Reflections
+Air depth
+Routes passable by characters
+Then recombine into a unique but credible new space for this round.
+Space and Route Principles
+The entire 15 seconds must occur in a continuous understandable combat route, cannot suddenly switch to another world.
+
+Background remains dynamically active but narratively neutral:
+
+Wind
+
+Water
+
+Mist
+
+Leaves
+
+Clothing hems
+Reflections
+Distant figures
+Always naturally active.
+Only when characters truly:
+Step
+Collide
+
+Grazing
+
+Weapons touching environment
+
+Do these appear:
+Dust
+Ripples
+Debris
+
+Scratches
+
+Clothing displacement
+etc. passive physical feedback.
+Strictly Prohibited
+Bridge suddenly breaking
+Mist suddenly saving people
+
+Tree suddenly blocking sword
+
+Building collapsing itself to help either side
+Segmented Structure
+0–5s | Wide shot entering medium shot
+Same white-robed Sword Immortal Senior Sister and same green-robed Junior Sister standing back-to-back.
+Three enemy swordsmen who only bear combat function press in actively from different directions.
+0–1s
+
+Use 24mm fixed wide panorama, letting audience understand at once:
+
+Positions of five people
+
+Attack directions
+
+Space available for movement next
+Junior Sister lowers voice, says only one line:
+
+"This time, don't turn back to save me."
+Senior Sister never turns back throughout, calmly answers:
+
+"Good."
+As soon as the last word lands, enemies launch simultaneously without warning.
+Camera quickly moves from fixed 24mm into 35mm medium-close range motion, but doesn't shake randomly, instead brought in by the characters' true movement lines.
+
+First Round Engagement
+
+One enemy attacks Senior Sister from above
+
+Another enemy cuts into Junior Sister's blind side simultaneously
+
+The two women explode in opposite directions almost instantly:
+
+Senior Sister briefly changes attack line of first sword then directly advances position
+
+Junior Sister lowers center of gravity grazing second attack, only counter-attacks enemy's weapon path, doesn't stop to pose
+
+Two immediately start migrating forward along routes truly existing in reference environment.
+A high-speed foreground passing enemy body briefly fills lens, using this real occlusion to complete first hidden cut, audience barely feels camera position has changed.
+5–10s | Medium shot continuous follow
+Maintain:
+
+Same space
+Same two protagonists
+
+Same weapon ownership
+
+Enemies absolutely cannot queue up to send moves, they continuously:
+
+Chase
+
+Surround
+
+Intercept
+At this time:
+Senior Sister bears continuous pressure from two enemies
+Junior Sister faces another enemy
+
+Cannot split screen into "two fighting separately", must let two combat lines constantly interweave.
+
+First Tactical Complement
+Senior Sister deliberately yields half step, bringing one pursuing enemy into Junior Sister's advancing attack line.
+Junior Sister doesn't look at Senior Sister at all, only at the instant enemy's sword tip truly enters her space, briefly catches and changes weapon direction with dark steel sword, immediately releases, continues handling person in front.
+
+Second Tactical Complement
+Less than a second later, exact opposite happens again.
+Another enemy launches true attack from behind Junior Sister.
+Same white-robed Sword Immortal doesn't even turn back, silver sword tip enters from other side of frame at high speed, uses only one extremely short metal impact to push that sword out of dangerous line behind Junior Sister, then silver sword immediately leaves frame, Senior Sister continues own fight.
+
+Core State
+
+Two people never confirm each other's positions, yet accurately know where the other is.
+Camera glides smoothly between foreground and midground, utilizing following elements sweeping past lens at high speed to form 2-3 extremely natural hidden transitions:
+
+Enemy shoulders
+
+White wide sleeves
+Green clothing hem
+
+Weapons
+Rhythm Requirements
+Action rhythm isn't one speed from start to finish, but:
+Two fast exchanges
+
+One truly weighted weapon collision
+
+Half-beat silence
+Then sudden explosion
+Same older Master stays in distant safe zone observing, doesn't act from start to finish, doesn't solve problems for anyone.
+10–15s | Close shot entering final wider medium shot
+
+Three enemies discover single pursuit ineffective, first time truly change strategy simultaneously, compressing space from three directions, forcing Senior Sister and Junior Sister toward same central area.
+Form obvious deadlock.
+
+Two don't continue retreating.
+Same white-robed Sword Immortal and same green-robed Junior Sister suddenly burst sprint towards each other simultaneously.
+Camera doesn't cut immediately, lets audience fully see:
+Two shoulder lines graze in high speed, bodies cross through each other with minimal distance.
+At moment of crossing, two fully swap front-back positions.
+And neither looks at the other.
+
+Tactical Flip After Swap
+
+Senior Sister while passing Junior Sister, directly takes over enemy originally attacking Junior Sister's blind side
+
+Junior Sister simultaneously cuts into line of enemy originally chasing Senior Sister
+
+One enemy longsword sweeps across entire camera at high speed, forming only one obvious weapon occlusion hard cut.
+
+Cut to brand new reverse axis:
+
+Senior Sister now stands at position Junior Sister just left
+
+Junior Sister also stands at position Senior Sister just left
+
+Both immediately complete two extremely short, extremely direct, no showy rotation reverse breaks:
+Silver sword tip safely stops one finger-width before an enemy's chin
+
+Dark steel sword simultaneously safely stops outside another enemy's sword-wielding wrist
+Third enemy prepares to strike again, but finds both effective attack lines completely blocked by companion's position, can only force retreat.
+
+Sudden Stop Moment
+Previously dense:
+Whooshing sounds
+
+Metal collisions
+
+Shoe sole skid sounds
+
+Collapse suddenly at this moment.
+Leaving only:
+
+Two women's true breathing
+
+Extremely light residual vibration of swords
+Silk clothing hems gradually falling
+
+Senior Sister still looking at enemy in front, asks without turning head:
+
+"Still alive?"
+Junior Sister pauses almost none:
+
+"Easier than you."
+Senior Sister's mouth corner shows only extremely brief, extremely light hint of smile.
+Distant same Master finally lightly exhales breath held throughout, but doesn't preach, doesn't explain relationship between two.
+
+Ending State
+
+After victory confirmed, absolutely no victory poses.
+
+Two women lower sword tips simultaneously, maintain original pace continuing forward through same space; three enemies instinctively yield road.
+Hair, clothing hems, environmental wind, water mist, debris continue natural movement, picture ends directly while characters still moving forward.
+Camera and Editing Requirements
+
+Strict total duration 15 seconds
+
+16:9 landscape
+
+Maintain 0–5s / 5–10s / 10–15s three clear narrative segments
+
+Visually dominated by one continuous silky camera path
+
+Whole film allows only about 4-5 hidden cuts or cuts truly triggered by impacts
+
+Prohibit crazy fragmented cutting for "action feel"
+
+Seedance 2.0 Mini Execution Focus
+For Seedance 2.0 Mini, actively control prompt budget.
+
+Most important is:
+
+Image 1, Image 2 two protagonist identities stable
+
+Two swords' ownership stable
+
+Hands and bodies continuous
+
+Two people's spatial relationship continuous
+Core environment route continuous
+Three enemies only need to maintain:
+Ancient style enemy swordsmen
+Basic functional appearance
+That's enough, don't waste model attention strictly locking faces, clothes and details.
+
+Sound and Motion Requirements
+
+Native synchronized Mandarin dialogue
+
+Native synchronized spatial audio effects
+
+Focus strengthening:
+
+Sword tip brief whoosh
+Real metal collisions
+Shoe sole friction
+Silk clothing hem twitching
+Characters' true breathing
+
+Final sudden quiet sound contrast
+
+Motion Texture
+24fps cinematic motion texture
+
+Natural motion blur
+
+Actions must have clear:
+Start
+Acceleration
+Force application
+Line change
+Inertia
+Braking
+
+Strictly Prohibited
+
+Teleportation
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106386731285245952/img/oyhTyHCArGSxRsNP.jpg" width="600" alt="Seedance 2.0 Mini Wuxia Battle Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11852)**
+
+**Author:** [Soran](https://x.com/Soranlan) | **Source:** [Link](https://x.com/Soranlan/status/2106388571863253309) | **Published:** Oct 3, 2026
+
+---
+### High-Fashion Football Shoe Ad Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for generating a 15-second high-fashion football shoe advertisement using Seedance 2.0, featuring cinematic shots of gold metallic cleats on an open field.
+
+#### 📝 Prompt
+
+```
+Create a 15-second high-fashion football shoe advertisement using the uploaded reference images for the gold metallic football cleats, white knee-high socks, and vintage feminine football styling. Keep the footwear design, colors, textures, and proportions consistent throughout the entire video.
+
+Environment: An enormous open outdoor football field, covered in lush natural green grass, with a completely open horizon and a beautiful dreamy pastel blue-and-pink sky. The field should feel spacious and untouched. No stadium, no spectators, no buildings, no bleachers, no indoor environment, no close fences.
+
+0–3 sec: Wide cinematic shot of a young adult female footballer standing alone in the middle of the vast open field. She wears the same elegant vintage-inspired outfit from the reference images with white knee-high socks and the gold metallic football cleats. She gently places one foot on a football. Camera slowly moves toward her while sunlight reflects beautifully off the cleats.
+
+3–6 sec: Cut to dramatic close-up shots of the gold cleats. Her foot steps firmly onto the grass, the studs press naturally into the turf, and she tightens the laces. Macro camera movement reveals the metallic texture, stitching, sole, and studs. Make the shoes the visual hero.
+
+6–10 sec: She starts playing football across the completely open field, dribbling the ball quickly and confidently. Use a low-angle tracking camera focused on her feet and cleats as she changes direction, accelerates, and controls the ball. Her flowing outfit moves naturally with her movement.
+
+10–13 sec: She takes a powerful run-up and strikes the football with the gold cleat. Capture the kick in cinematic slow motion, showing the shoe making contact with the ball, grass particles flying naturally, and the ball launching across the open field.
+
+13–15 sec: Premium hero shot. The football rolls to a stop beside her gold cleats. She stands confidently in the background on the vast green field as warm sunlight catches the metallic shoes. Camera slowly pushes toward the cleats and ends on a sharp product-focused close-up.
+
+Visual style: luxury sports fashion campaign, dreamy editorial photography, cinematic natural lighting, realistic football movement, realistic grass physics, elegant feminine styling, dynamic camera movement, macro shoe details, shallow depth of field, premium commercial quality, photorealistic, subtle film texture.
+
+Important: Keep the gold football cleats identical throughout the video. No changing shoe design, no distorted feet, no extra limbs, no warped football, no artificial CGI appearance. The entire video takes place outdoors on one vast open football field.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106319331823165440/img/HRw0Mc4qjR1ZtqNR.jpg" width="600" alt="High-Fashion Football Shoe Ad Video Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11849)**
+
+**Author:** [Soulful Ai](https://x.com/soulful__ai) | **Source:** [Link](https://x.com/soulful__ai/status/2106321511212544372) | **Published:** Oct 3, 2026
+
+---
+### Epic Xianxia Battle Video Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A detailed prompt for generating a high-quality 3D CG animation of a female swordswoman fighting hordes of monsters in a floating celestial realm, featuring specific visual effects and camera movements.
+
+#### 📝 Prompt
+
+```
+[Global Image Quality Settings]
+
+UE5.4 Path Tracing, Lumen Global Illumination, Nanite, PBR Physical Materials. High-quality Chinese-style Xianxia 3D CG animation, 8K, HDR, ACES color management, cinematic camera work, 60fps high-speed smoothness.
+
+Chaos physics destruction, realistic rigid-body debris with gravity arcs, cloth simulation, volumetric lighting, godrays, contact shadows, ray-traced reflections.
+
+Above the nine heavens before dawn, numerous floating immortal islands hover amidst an endless sea of clouds.
+
+The scene consists mainly of:
+
+White jade bridges
+Broken immortal palaces
+Floating stone platforms
+Giant broken statues
+Sea of clouds
+Starry sky rifts
+High-altitude immortal island groups
+
+The overhead view remains a deep starry river, while the distant horizon reveals the first golden light of dawn.
+
+Overall use low-saturation indigo gray, moon white, ice blue, and dark gold tones.
+
+Large skills have different element light colors, but always maintain Hanjin's ice-blue and dark-gold visual as the unified base.
+
+Battle-caused cracks, ice layers, scorch marks, broken bridges, giant pits, sword marks, and monster debris accumulate continuously and do not auto-recover.
+
+Gravel, white jade fragments, and monster shells follow real gravity and inertia.
+
+The sea of clouds will experience volumetric rolling due to shockwaves, storms, and large energy skills.
+
+Character hair, robes, and tassels are always affected by high-speed movement and high-altitude airflow.
+
+16:9.
+
+[Protagonist | Senior Sister · Hanjin Swordsman]
+
+Character asset @Image1.
+
+Strictly maintain:
+
+Cold Eastern female face.
+
+Black high ponytail long hair.
+
+Three blue pattern marks on forehead.
+
+Deep blue-black layered battle robe and armor.
+
+Dark silver, copper gold carved structure.
+
+Blue tassels and jade ornaments.
+
+Multi-angle character references belong to the same role.
+
+Only one senior sister in the entire film.
+
+Forbidden: face swap, hairstyle change, forehead mark change, body type modification, random outfit change, or generating character clones.
+
+[Weapon | Hanjin]
+
+Weapon asset @Image2.
+
+Hanjin is the only weapon in the entire film.
+
+Maintain ice-blue transparent crystal blade, ice cracks, dark silver carved guard, blue gemstone, dark sword handle, and blue tassel.
+
+Hanjin is always the core of all large skill activations.
+
+Different elements can change the external light effects and environmental coloring of the sword, but cannot redesign the physical weapon.
+
+Forbidden: duplication, dual wielding, random color changes, changing sword shape, or generating the sheath as a second weapon.
+
+[Monsters | Star-Devouring Horde]
+
+There are many uniformly designed star-devouring monsters on the battlefield.
+
+Common minions mainly consist of:
+
+Obsidian void body + faceless obsidian shell + purple star core + claws.
+
+Fast-flying star-devouring creatures exist in the air.
+
+Large units have a size significantly larger than immortal palace buildings, attacking with giant palms, obsidian boulders, and star core energy.
+
+Monster tides replenish from:
+
+Starry sky rifts.
+
+Back of floating islands.
+
+Below the sea of clouds.
+
+Immortal palace ruins.
+
+Monsters must actively:
+
+Chase.
+
+Kill.
+
+Surround.
+
+Air raid.
+
+Long-range suppression.
+
+Cannot just stand still around the protagonist waiting to be destroyed.
+
+When defeated, monsters disintegrate into obsidian shards, purple stardust, and extinguished star cores.
+
+Debris falls on floating islands and ruins and persists.
+
+[Global Battle Rules]
+
+30-second high-speed 1vN Xianxia hack-and-slash.
+
+No dialogue.
+
+No battle cries.
+
+No skill name shouting.
+
+No slow motion.
+
+No freeze frames.
+
+No hit-stop.
+
+Main combat elements are:
+
+High-speed movement + Giant skills + Large-scale monster tide clearing.
+
+The entire film includes ten large skill bursts.
+
+Ten types of skills must have distinct visual concepts, not just the same sword qi with changed colors.
+
+Skill element system can cover:
+
+Star River.
+
+Thunder.
+
+Storm.
+
+Celestial Body Fall.
+
+Moonlight and Mirror Light.
+
+Sun Phenomenon.
+
+Large Sword Array.
+
+Space Rift.
+
+Aurora Sky Curtain.
+
+Sky Dome Termination Phenomenon.
+
+These elements do not need to be executed in the order they appear in text.
+
+Different elements must have clear visual differences.
+
+[High-Speed Movement]
+
+Senior Sister is always in a high-mobility state.
+
+Main movement methods include:
+
+Ground-skimming charge.
+
+High-speed lateral turn-back.
+
+Jumping between floating islands.
+
+Short-distance teleportation.
+
+Vertical ascent.
+
+Dive.
+
+Side circling.
+
+Mid-air direction change.
+
+Short-distance teleportation retains ice-blue and dark-gold afterimages with a clear endpoint.
+
+Character continues fighting immediately upon reaching endpoint.
+
+Afterimages are not physical clones.
+
+Forbidden: turning the character into unrecognizable energy lines for a long time.
+
+[Small Skills]
+
+Only extremely short auxiliary actions are used between large skills.
+
+Including:
+
+Short-distance sword qi.
+
+Step-change position.
+
+High-speed consecutive slashes.
+
+Point-shot style sword light.
+
+These actions mainly serve to:
+
+Handle close-range monsters.
+
+Adjust spatial position.
+
+Connect to the next large skill.
+
+Do not use many normal attacks to delay time.
+
+[Giant Skill System]
+
+Star River Series
+
+Hanjin can mobilize the high-altitude star river.
+
+Huge ice-blue star river energy enters the battlefield from the sky dome, forming a massive flow between floating islands and bridges.
+
+Monster hordes are scattered by the star river torrent, and the sea of clouds rolls to both sides after impact.
+
+The battlefield can leave frozen star river traces or ice-blue energy bands.
+
+Thunder Series
+
+Sky thunder clouds respond to Hanjin.
+
+Massive lightning descends on the core war zone.
+
+Lightning can form:
+
+Thunder swords.
+
+Thunder pillars.
+
+Arc networks.
+
+Large sword arrays.
+
+Monster hordes lose balance and are thrown continuously in dense lightning.
+
+Floating island surfaces show charred, electric shock, and crack marks.
+
+Storm Series
+
+Hanjin swings sword causing a large ice-blue storm.
+
+Multiple giant whirlwinds span across floating islands and sea of clouds.
+
+Storm can simultaneously sweep up:
+
+Monsters.
+
+Gravel.
+
+Cloud mist.
+
+Immortal palace debris.
+
+Senior Sister speeds through the inside of the storm continuing pursuit.
+
+Environment shows obvious wind erosion and rotational damage.
+
+Celestial Body Series
+
+Anomalies occur in the high-altitude star river.
+
+Many celestial bodies with ice crystals, starlight, or dark gold energy fall rapidly from the sky.
+
+Different floating islands suffer continuous large impacts.
+
+Producing:
+
+Giant pits.
+
+Cold fog.
+
+Gravel.
+
+Shockwaves.
+
+Large-scale monster tide disintegration.
+
+Moonlight Series
+
+Large-scale moon-white visual phenomena appear on the battlefield.
+
+Can be achieved through:
+
+Moonlight mirrors.
+
+Ice crystal reflection.
+
+Multi-directional refracted sword light.
+
+Forming a large-area slashing network.
+
+Slash lights cut through monster tides from multiple directions simultaneously.
+
+Some moonlight structures remain in the environment after the skill ends.
+
+Sun Series
+
+As dawn approaches, the first sunlight enters the battlefield.
+
+Hanjin can mobilize dark gold solar energy.
+
+Giant golden divine birds, blazing sun sword fire, or large-scale golden celestial phenomena traverse the floating island group.
+
+Ice-blue and dark gold form strong cold-warm overlay.
+
+Many monster hordes disintegrate into stardust under solar energy.
+
+Sword Array Series
+
+Large immortal palace squares or floating island grounds are activated by Hanjin's sword intent.
+
+Many ice-blue giant swords emerge from buildings, ice layers, or ground.
+
+Sword scale is far larger than normal weapons.
+
+The entire area quickly forms a large sword forest or array.
+
+Senior Sister moves at high speed within the sword array.
+
+Monsters are consecutively knocked away, pierced by energy bodies, or thrown into the air from different positions.
+
+Rift Series
+
+Hanjin can briefly tear open battlefield space.
+
+Huge black space rifts form between sky or floating islands.
+
+Rift edges are outlined by ice-blue and dark gold energy.
+
+Many sword lights or space cuts spread outward along rift edges.
+
+Senior Sister can quickly change positions around the rift.
+
+Obvious visual residuals remain after space rifts end.
+
+Forbidden: using ordinary black hole swallowing instead of space rifts.
+
+Aurora Series
+
+Large-area ice-blue, moon-white, and pale gold auroras appear in the high sky.
+
+Auroras descend from the sky dome, covering multiple floating islands.
+
+Aurora curtains have huge depth and spatial scale.
+
+Monsters entering them:
+
+Freeze.
+
+Lose balance.
+
+Disintegrate into energy.
+
+Senior Sister shuttles at high speed between different aurora layers.
+
+This stage gradually brings the entire battlefield to the final climax.
+
+[Final Phase]
+
+Visuals left by previous battles still exist in the scene.
+
+For example:
+
+Ice layers.
+
+Scorch marks.
+
+Wind erosion.
+
+Impact craters.
+
+Mirror fragments.
+
+Sword forests.
+
+Space cracks.
+
+Aurora afterglow.
+
+Monster debris.
+
+In the final phase, these visual elements don't need to all become the same skill directly, but should produce some degree of environmental resonance.
+
+Hanjin becomes the final energy core.
+
+Senior Sister releases a large-scale termination phenomenon covering the core floating island group and sky.
+
+Can be manifested as:
+
+Giant star rings.
+
+Multi-layer sky dome shockwaves.
+
+Ice-blue and dark gold ring-shaped sword light.
+
+Large-range starry sky energy expansion.
+
+Termination skill scale must be obviously higher than previous single-element skills.
+
+Star river, lightning, sun/moon, and aurora visuals can briefly appear in the termination effect, but cannot fully replay previous skills.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105684524055322625/img/NCD7cVCLLuAfyOyU.jpg" width="600" alt="Epic Xianxia Battle Video Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11850)**
+
+**Author:** [Arvin](https://x.com/Arvin010717) | **Source:** [Link](https://x.com/Arvin010717/status/2106241257895084452) | **Published:** Oct 3, 2026
+
+---
 ### Ice Monster Attack in Ski Lodge
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -432,50 +1301,11 @@ Cinematic horror-thriller short film set at a mountain ski resort lodge during a
 **Author:** [auqib](https://x.com/auqibhabib) | **Source:** [Link](https://x.com/auqibhabib/status/2106235341548273915) | **Published:** Oct 3, 2026
 
 ---
-### Korean Lifestyle Vlog with Golden Hour Transitions
+### Childhood Street Football Match Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for a 60-second ultra-realistic lifestyle vlog featuring a Korean woman, moving from a café to a city street, rooftop sunset, and finally a night café, emphasizing mood and visual consistency.
-
-#### 📝 Prompt
-
-```
-Create a 60-second ultra-realistic cinematic lifestyle vlog featuring a beautiful young Korean woman with long dark brown hair, soft natural makeup, and a gentle smile. She wears a delicate white floral dress with a light cream cardigan and carries a small white handbag.
-
-**Scene 1:** She stands outside a modern aesthetic café surrounded by lush green plants and glass windows. She holds an iced coffee, takes a sip, gently adjusts her hair, and smiles naturally at the camera.
-
-**Scene 2:** Close-up cinematic shots of her face as she enjoys her coffee. Soft sunlight illuminates her face. She looks relaxed and happy, with subtle natural movements.
-
-**Scene 3:** She walks along a beautiful city street during golden hour, wearing the same outfit. The camera follows her from behind and captures elegant side-profile shots.
-
-**Scene 4:** She arrives at a rooftop viewpoint overlooking a beautiful city skyline during sunset. The golden sun slowly sets behind the buildings. She sits on a bench, gazes at the sunset, and enjoys the peaceful atmosphere.
-
-**Scene 5:** At blue hour, she walks along a modern urban street with glowing streetlights and passing cars. The camera captures her beautiful side profile and flowing hair in a cinematic tracking shot.
-
-**Scene 6:** Nighttime outdoor café with warm fairy lights hanging overhead. She sits at a cozy wooden table with her iced coffee and handbag. She smiles at the camera, raises her drink, takes a sip, and waves goodbye with a cheerful expression.
-
-**Visual style:** Ultra-realistic 4K, photorealistic skin texture, natural facial expressions, cinematic depth of field, soft lighting, warm golden-hour tones, beautiful bokeh, smooth camera movements, professional color grading, realistic hair physics, natural body movements, aesthetic Korean lifestyle vlog, dreamy peaceful atmosphere.
-
-**Camera:** Mix of wide shots, medium shots, close-ups, slow-motion details, smooth tracking shots, and gentle cinematic transitions.
-
-**Mood:** Peaceful, romantic, cozy, elegant, dreamy everyday life.
-
-Maintain perfect character consistency, identical facial features, hairstyle, clothing, and accessories across all scenes. No distorted hands, no flickering, no face changes, no unnatural movements, no text, no watermark.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106230180654280704/img/_LwGOY5NSucEMO71.jpg" width="600" alt="Korean Lifestyle Vlog with Golden Hour Transitions">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11812)**
-
-**Author:** [Zorvia](https://x.com/ZorviaLux) | **Source:** [Link](https://x.com/ZorviaLux/status/2106230270282313997) | **Published:** Oct 3, 2026
-
----
-### Cinematic Street Football Childhood Memory
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for generating a nostalgic, ultra-realistic video of children playing street football at golden hour with dynamic camera movements and slow-motion celebrations.
+> A prompt for generating a nostalgic, ultra-realistic sequence of children playing street football at golden hour, ending with a celebration.
 
 #### 📝 Prompt
 
@@ -483,7 +1313,7 @@ Maintain perfect character consistency, identical facial features, hairstyle, cl
 Create a cinematic, ultra-realistic live-action sequence set in a warm, dusty neighborhood at golden hour. Start with an aerial view of a lively residential area → close-up of a child placing a worn football on the dusty ground → kids begin playing an intense street football match → dynamic low-angle shots of quick dribbles, footwork and the ball flying through the air → end with a cinematic slow-motion shot of the kids celebrating after scoring. Warm golden sunlight, realistic dust particles, natural movement, handheld camera feel, shallow depth of field, detailed environments, authentic emotions, smooth cinematic transitions, photorealistic live-action, nostalgic coming-of-age atmosphere. No text, subtitles, logos or watermark.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106206604773437440/img/CTdbn4tRQamgI8cz.jpg" width="600" alt="Cinematic Street Football Childhood Memory">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106206604773437440/img/CTdbn4tRQamgI8cz.jpg" width="600" alt="Childhood Street Football Match Prompt">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11815)**
 
@@ -533,11 +1363,11 @@ Visual style: premium cinematic 3D animation, adorable family-friendly character
 **Author:** [Zarnab Ai](https://x.com/Zarnab_with_Ai) | **Source:** [Link](https://x.com/Zarnab_with_Ai/status/2106198477533544868) | **Published:** Oct 3, 2026
 
 ---
-### Sci-Fi Ocean Rising Space Battle
+### Sci-Fi Ocean Rising Fleet Battle Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt for a high-intensity sci-fi action short featuring a fleet encountering an alien planet where the entire ocean lifts into space, triggering combat and a mysterious structure emergence.
+> A detailed prompt for a 15-second cinematic sci-fi action short featuring a human fleet encountering an alien planet where the entire ocean rises into space.
 
 #### 📝 Prompt
 
@@ -562,7 +1392,7 @@ CUT TO BLACK.
 Photorealistic, breathtaking planetary scale, extreme motion, spectacular space combat, enormous water physics, dynamic camera angles, cinematic lighting, intense escalation, no text, no logos, no anime, no cartoon.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106196933731659776/img/QTjMfzWCl_mIf5Nt.jpg" width="600" alt="Sci-Fi Ocean Rising Space Battle">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106196933731659776/img/QTjMfzWCl_mIf5Nt.jpg" width="600" alt="Sci-Fi Ocean Rising Fleet Battle Prompt">
 
 **[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=11817)**
 
@@ -5789,123 +6619,6 @@ Created a cinematic fashion transformation video featuring a beautiful young wom
 **Author:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Source:** [Link](https://x.com/ayzalnooor24521/status/2100456445900710158) | **Published:** Sep 17, 2026
 
 ---
-### Korean Salary Day Vlog
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for a 30-second ultra-realistic UGC-style mini vlog featuring a Korean woman celebrating salary day, with detailed scene breakdowns and visual style instructions.
-
-#### 📝 Prompt
-
-```
-Create a 30-second ultra-realistic UGC-style mini vlog featuring a stylish Korean baddie girl documenting the happiest day after receiving her salary.
-
-Scene 1 — 0–5 sec:
-Morning bedroom selfie. She wakes up, checks her phone, sees her salary has been credited, and instantly smiles with excitement. Natural messy-bed aesthetic, soft morning sunlight. She looks into the camera and says happily, “My salary is finally credited!”
-
-Scene 2 — 5–9 sec:
-Quick transition to her getting ready. She takes a refreshing shower, does simple skincare, fixes her hair, and puts on a trendy baddie-style outfit. Mirror selfie shots, realistic handheld phone movement.
-
-Scene 3 — 9–19 sec:
-She heads to a modern luxury shopping mall. Walking through the entrance while filming herself, browsing fashion stores, trying on clothes, checking accessories, and happily carrying shopping bags. Include quick candid shots, excited expressions, realistic mall lighting and natural UGC camera shake.
-
-Scene 4 — 19–25 sec:
-She sits at a cozy café inside the mall with her shopping bags beside her. She orders a hot cup of tea, records the tea being served, takes a sip, and smiles contentedly.
-
-Scene 5 — 25–30 sec:
-Golden-hour/evening shot. She walks outside the mall with her shopping bags and tea, turns the camera toward herself, smiles and says, “Salary day is officially my favorite day.” End with a casual laugh and natural camera movement.
-
-Visual style: ultra-realistic smartphone footage, authentic UGC vlog, Korean fashion aesthetic, confident baddie energy, cinematic but not overly polished, natural skin texture, realistic lighting, smooth transitions, subtle background sounds, realistic facial expressions, handheld phone camera, social-media-ready vertical 9:16, 4K quality.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100452060642852864/img/R0oS8fEzuAmWvRq5.jpg" width="600" alt="Korean Salary Day Vlog">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10952)**
-
-**Author:** [Noor 🌸](https://x.com/Noor_ul_ain43) | **Source:** [Link](https://x.com/Noor_ul_ain43/status/2100452341996728475) | **Published:** Sep 17, 2026
-
----
-### Korean Martial Arts Warrior Cinematic Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for generating an ultra-realistic cinematic scene of a fierce young woman in a traditional Korean martial arts courtyard, emphasizing lighting, composition, and realism.
-
-#### 📝 Prompt
-
-```
-Ultra-realistic cinematic scene of a fierce young woman standing confidently in a traditional Korean martial-arts courtyard, wearing a black martial-arts uniform with a white collar, short dark hair moving naturally in the wind, intense focused expression, dramatic warm sunlight, traditional Korean architecture and stone walls in the background, subtle motion blur, realistic skin texture, detailed fabric, shallow depth of field, cinematic color grading, high contrast, 8K HDR, professional film still, dynamic atmosphere, 35mm lens, vertical 9:16 composition.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100444654605070336/img/BWb5GjmmEgP2Mxrn.jpg" width="600" alt="Korean Martial Arts Warrior Cinematic Scene">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10955)**
-
-**Author:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2100444829880914240) | **Published:** Sep 17, 2026
-
----
-### Korean Summer Escape Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for generating a peaceful Korean summer escape video featuring a girl in a white dress, soft breeze, and nature scenery, created using Seedance 2.0.
-
-#### 📝 Prompt
-
-```
-A Beautiful Korean Girl wearing a soft white summer dress and a natural straw sun hat is walking through a field of tall green grass under bright sunshine. The scene captures simple moments with a gentle breeze moving the grass and her hair. Fresh scenery surrounds her, and she holds a small slice of watermelon, enjoying the perfect day atmosphere.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100423624889114624/img/_Dz_jZArR-f_XNwO.jpg" width="600" alt="Korean Summer Escape Video Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10951)**
-
-**Author:** [Sahil Verma](https://x.com/sahilvermaai) | **Source:** [Link](https://x.com/sahilvermaai/status/2100423982898115050) | **Published:** Sep 17, 2026
-
----
-### Cinematic Fantasy Battle Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for generating a 15-second cinematic fantasy battle scene featuring a warrior and a dragon in a stormy sky, designed for video generation models like Seedance.
-
-#### 📝 Prompt
-
-```
-Create a 15-second cinematic fantasy battle video matching the reference: 0–1s, a futuristic armored warrior floats in a dark stormy sky while a huge black dragon flies behind him; 1–2s, glowing blue energy surrounds the warrior as the camera slowly moves closer; 2–3s, the dragon approaches rapidly through the clouds and the warrior turns toward it; 3–5s, the dragon opens its mouth and breathes a powerful stream of bright orange fire while the warrior flies backward through the storm; 5–7s, show a dramatic close-up of the dragon’s face and glowing eyes as it chases the warrior; 7–9s, the warrior faces the dragon in mid-air with lightning flashing behind them and blue energy glowing from his armor; 9–11s, the dragon attacks again with intense fire while the warrior dodges through the clouds at high speed; 11–13s, show both characters flying toward each other in an epic aerial confrontation, with fire and blue energy lighting the storm; 13–15s, the warrior suddenly moves away into the clouds as the dragon follows, ending on a dramatic wide shot of the dark sky, realistic cinematic CGI, detailed armor, massive dragon wings, volumetric clouds, dynamic camera movement, dramatic lighting, high detail, 4K quality.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100417296351346688/img/OBZDOXdtVRddRk7O.jpg" width="600" alt="Cinematic Fantasy Battle Video Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10949)**
-
-**Author:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2100417339716141116) | **Published:** Sep 17, 2026
-
----
-### Seedance 2.0 Desktop Breaking Video Prompt
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A prompt for creating a funny desktop wallpaper animation where a character breaks the screen glass, involving specific timing, actions, and transitions.
-
-#### 📝 Prompt
-
-```
-Use the provided Apple desktop image as the first frame, 16:9, 15 seconds, fixed camera, single take. Maintain consistency of the woman's facial features, black swordsman costume, hairstyle, and blue mist background; retain desktop icons, menu bar, and Dock.
-0-4s: The woman in the desktop wallpaper suddenly moves, looking calm, continuously tossing and catching the same short knife upwards twice, blade spinning in air, natural movements, hair gently floating.
-4-6s: On the third toss, she misses, the knife slips from her hand, tip flying towards the audience, hitting the screen glass. Accompanied by crisp glass breaking sound, spiderweb cracks instantly spread from impact point, covering foreground of character and desktop UI, screen shakes briefly once.
-6-9s: Woman first stunned, then widens eyes, frowns, showing obvious panic after causing trouble. She looks at cracks, then at audience, frantically tries to cover cracks, realizes she can't.
-9-14s: Suddenly thinks of a solution, reaches for top-right control center, opens screen brightness control with sun icon, hurriedly drags brightness slider left to lower it. Each operation darkens entire screen synchronously, character, background, icons, and cracks gradually fade into darkness; while operating, she guiltily looks at audience, finally lowering brightness to minimum.
-14-15s: Screen completely pure black, hold for one second, no text or logos appear. Sound: Starts with lively martial arts instrumental and whooshing sound of spinning knife; music stops abruptly upon impact, emphasizing glass breaking sound; retains frantic fabric rustling and UI click sounds, ending quietly. Constraints: No cuts, no character changes, no background changes, no new characters or knives, no physical computer frame or keyboard appearance. Cracks always fixed on screen glass plane. Final blackout must be triggered by woman operating brightness control, cannot suddenly cut to black.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100404208872919040/img/JMxfQF64saAPo_ae.jpg" width="600" alt="Seedance 2.0 Desktop Breaking Video Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=10956)**
-
-**Author:** [探路AI](https://x.com/TanLuAI) | **Source:** [Link](https://x.com/TanLuAI/status/2100405863123173606) | **Published:** Sep 17, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -5967,6 +6680,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-04T04:49:38.003Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-05T04:47:36.708Z</sub>
 
 </div>

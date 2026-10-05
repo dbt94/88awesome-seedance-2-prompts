@@ -68,9 +68,9 @@ Warum unsere Galerie nutzen?
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **6490** |
+| 📝 Gesamtanzahl Prompts | **6495** |
 | ⭐ Ausgewählte Prompts | **6** |
-| 🔄 Zuletzt aktualisiert | **2026-10-04** |
+| 🔄 Zuletzt aktualisiert | **2026-10-05** |
 
 ---
 
@@ -361,6 +361,873 @@ Ultra-realistisch, inspiriert von der Energie von Fast and Furious, fotorealisti
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Sci-Fi-Krieger: Schlacht im Korridor – Bild-Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt für eine ultra-realistische, cineastische Sci-Fi-Action-Szene mit einem Krieger, der einen industriellen Korridor entlangrennt und eine Energiewaffe schwingt.
+
+#### 📝 Prompt
+
+```
+Ultra-realistische cineastische Sci-Fi-Action-Szene, ein kraftvoller Krieger in fließendem beigem futuristischem Outfit rennt durch einen riesigen industriellen Korridor und schwingt eine leuchtend blaue Energieklinge, zwei gepanzerte Feinde nähern sich von vorne, dramatischer gekippter Kamerawinkel, intensive Bewegung, dynamische Action, realistische Stoffdetails, metallische futuristische Architektur, atmosphärische Beleuchtung, volumetrische Schatten, cineastische Tiefenschärfe, hoher Kontrast, fotorealistisch, 8K, epische Hollywood-Sci-Fi-Filmästhetik, 35-mm-Objektiv, vertikale 9:16-Komposition.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106610479351365632/img/ZHmFCfa_f0mlJa67.jpg" width="600" alt="Sci-Fi-Krieger: Schlacht im Korridor – Bild-Prompt">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11851)**
+
+**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Quelle:** [Link](https://x.com/AIwithMinal/status/2106610541636837770) | **Veröffentlicht:** Oct 4, 2026
+
+---
+### Fantasy-Video-Prompt: Den Himmel stricken
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Prompt für ein 15-sekündiges Video, in dem eine ältere Frau einen Schal strickt, der sich in den Nachthimmel verwandelt, generiert mit Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Den Himmel stricken
+0–5s: Eine ältere Frau mit silbergrauem Haar sitzt allein nachts in einem hölzernen Schaukelstuhl neben einem offenen Fenster und strickt mit zwei Holzstricknadeln. Ein langer dunkelblauer Schal fällt von ihrem Schoß auf den Holzboden. Warmes bernsteinfarbenes Lampenlicht, weiche Schatten. Mittlere Einstellung.
+5–10s: Die Kamera rückt näher an ihre Hände und den Schal heran; das dunkle Garn enthüllt winzige leuchtende Sterne und langsam wirbelnde Galaxien, die in die Maschen eingewoben sind. Ein Stern verfängt sich an der Spitze ihrer Nadel und funkelt. Ihr Gesicht wird sanft zu einem stillen Lächeln. Nahaufnahme.
+10–15s: Sie schließt die letzte Masche ab und wirft den Schal vorsichtig aus dem offenen Fenster, wo er sich über die Dächer hinweg nach oben entrollt und zum echten Nachthimmel wird, während sich die Sterne an ihren Platz setzen. Weite Aufnahme von außerhalb des Hauses nach oben blickend, unten das warme Fensterlicht, oben der tiefblaue Himmel.
+Negativ-Prompt: zusätzliche Finger, zusätzliche Hände, deformierte Hände, verschmolzene Finger, mehr als zwei Stricknadeln, schmelzende Nadeln, verzerrtes Garn, zweite Frau, doppelte Person, Kind, moderne Möbel, Fernseher, Telefon, hartes weißes Licht, Neonfarben, Cartoon-Stil, Anime-Stil, plastische Haut, verzerrtes Gesicht, Flackern, Glitch-Artefakte, Text, Wasserzeichen, Logo, schnelle Kamerawackler, Zeitlupe, Schal wird fest, leuchtendes Gesicht, übermäßiges Funkeln, übertriebenes Lens Flare, Feuerwerk, Taghimmel
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106558771078029312/img/hZPtgXieC5nDSGJi.jpg" width="600" alt="Fantasy-Video-Prompt: Den Himmel stricken">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11848)**
+
+**Autor:** [DeCat](https://x.com/DeCat2025) | **Quelle:** [Link](https://x.com/DeCat2025/status/2106559472432795987) | **Veröffentlicht:** Oct 4, 2026
+
+---
+### Anime-Reinigungstransformation Video-Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Prompt zur Generierung eines 15-sekündigen vertikalen Anime-Videos, das eine befriedigende Reinigungstransformation einer schmutzigen Schuhsohle mittels Sprühschaum und Schrubben zeigt.
+
+#### 📝 Prompt
+
+```
+15-sekündiges vertikales 9:16 japanisches 2D-Anime-Kurzvideo, befriedigende Reinigungstransformation. Handgezeichneter Cel-Animations-Look, saubere schwarze Tintenumrisse, lebendige Farben, weiches Cel-Shading, Manga-Stil-Schnitt mit Geschwindigkeitslinien, Halbton-Rasterpunkte, Funkel-Effekte und weiße Blitzlichter bei Aufprall. Studioqualität Anime-Produktion, flüssige Bewegung, 24fps. Motiv: Eine abgenutzte, schmutzige Schuhsohle (braun-goldene Flecken, Fußabdruck) liegt auf einer gebürsteten Edelstahl-Theke, aufgenommen von oben. Eine Anime-Stil-Hand (kein Gesicht, kein Körper, nur Hand und Unterarm sichtbar) hält eine kleine schwarze Sprayflasche mit grünem Verschluss. Kühler silberner Hintergrund mit weichem Fensterlicht und winzigen Wassertropfen. Shot 1: Feste Top-Down-Aufnahme, 3 Sekunden. Die schmutzige Sohle liegt auf der Stahltheke, eine Hand drückt sie flach. Staubpartikel schweben, dezente Halbton-Vignette an den Ecken, dünne Geschwindigkeitslinien driften von den Rändern herein. Shot 2: Nahaufnahme von oben, 3 Sekunden. Die Sprayflasche sprüht einen feinen Nebel auf die Sohle, dicker weißer Schaum bricht nach außen hervor und breitet sich über die Oberfläche aus, Blasen fangen Glitzer ein. Ein Einzelbild-Blitzlicht bei Aufprall mit radialen Tintenlinien beim ersten Schaumausbruch. Shot 3: Enge Überkopf-Aufnahme, 3 Sekunden. Die Hand reibt den Schaum in kreisenden Bewegungen, der braun-goldene Schmutz löst sich im weißen Schaum auf und strömt in wirbelnden tintenartigen Schwüngen zum Rand. Dynamische Bewegungslinien folgen der Hand. Shot 4: Überkopf-Aufnahme, 3 Sekunden. Eine Spülung mit klarem Wasser wäscht den Schaum weg, die Sohle wird in einer schnellen Peitschenbewegung umgedreht und enthüllt eine helle, saubere weiße Oberfläche. Glitzernde Funken und Lichtstreifen poppen darüber auf. Shot 5: Langsamer Push-In von oben, 3 Sekunden. Die makellose weiße Sohle glänzt auf der Stahltheke, die Hand stellt die Flasche in der Ecke ab. Letzter Funkenausbruch, sanftes Leuchten, Manga-Stil-Raster-Vignette, gehalten für den letzten Moment wie ein Manga-Cover-Panel. Audio: Knackiges Spray-Zischen, knisternder Schaum, rhythmisches Schrubben, fließendes Wasser, ein helles Funkel-Chime bei jedem Glanzeffekt, ein sanfter upbeat japanischer Lo-Fi-Beat darunter. Keine Sprache, kein Gesang. Vermeiden: Gesichter, realistischer Live-Action-Look, 3D-Render, Text, Untertitel, Logos, Markennamen, zusätzliche Finger, deformierte Hände, Flackern. 15-sekündiges vertikales 9:16 japanisches 2D-Anime, befriedigende Reinigungstransformation, Top-Down-Aufnahme. Eine Anime-Stil-Hand (kein Gesicht) sprüht Schaum auf eine schmutzige braune Schuhsohle auf einer Edelstahl-Theke, schrubbt den Schaum in Kreisen, spült ihn ab, und die Sohle wird hell sauber weiß mit Funkel-Effekten. Manga-Stil-Geschwindigkeitslinien, Halbtonpunkte und ein weißer Blitzlichteffekt beim ersten Schaumausbruch. Audio: Spray-Zischen, Schaumknistern, Schrubben, Wasser, leichte Funkel-Chimes, sanfter Lo-Fi-Beat. Keine Gesichter, kein Text, keine Logos.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106554700040679424/img/6e1kkIefx27oeGQA.jpg" width="600" alt="Anime-Reinigungstransformation Video-Prompt">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11847)**
+
+**Autor:** [Nadya](https://x.com/nadyamaje) | **Quelle:** [Link](https://x.com/nadyamaje/status/2106554883235356947) | **Veröffentlicht:** Oct 4, 2026
+
+---
+### Seedance 2.0 Mini Wuxia Kampfszenen-Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein detaillierter Prompt zur Generierung einer spannungsgeladenen Wuxia-Kampfszene zwischen zwei weiblichen Schwertkultivierern mit Seedance 2.0 Mini, fokussiert auf synchronisierte taktische Bewegungen und kinematografische Kontinuität.
+
+#### 📝 Prompt
+
+```
+Kino-photorealistische Textur, reine antike chinesische Xianxia-Hochspannungs-Duellkampfszene.
+
+Dieses Mal brechen wir vollständig aus den vorherigen Modi aus:
+
+Ständiger Waffenwechsel
+Einzelkampf-Aufbrechen
+
+Der Kern wird zu:
+Die beiden Protagonistinnen selbst sind ein kontinuierlich bewegtes duales Taktiksystem.
+Eine absorbiert Druck von vorne
+
+Die andere verändert die Situation von der Flanke
+Sofortige Rollenwechsel in der nächsten Sekunde
+Der wahre Nervenkitzel liegt nicht in spektakulärem Schwert-Qi, sondern darin, dass die beiden Protagonistinnen sich fast nicht umdrehen müssen, um zu bestätigen, dass sie ständig die blinden Flecken des anderen abdecken und so eine immer stärkere stille Übereinstimmung und Spannung bilden.
+
+Charakter- und Asset-Locking
+
+Nur @image 1 und @image 2 als die zwei Kerncharaktere strikt sperren.
+
+@image 1 | Schwert-Unsterbliche Senior-Schwester
+
+Bild 1 Schwert-Unsterbliche Senior-Schwester behält immer das Original bei:
+
+Erwachsene ostasiatische weibliche Identität
+Gesicht
+
+Schwarzes langes Haar halb hochgesteckt
+Weißer Jade-Haarnadel
+Große schlanke Proportion
+Weiße bestickte Seiden-Hanfu
+Halbdurchsichtige geschichtete weite Ärmel
+Silberne Gürtelschließe
+Jade-Anhänger
+Weiße Stoffstiefel
+Nur ein silbernes gerades Schwert
+@image 2 | Junior-Schwester
+Bild 2 Junior-Schwester behält immer das Original bei:
+
+Erwachsene ostasiatische weibliche Identität
+Gesicht
+
+Geflochtenes schwarzes Haar
+Grüne Leinen-Hanfu
+Dunkler Gürtel
+Hölzerne Haarnadel
+Schwarze Stoffschuhe
+Nur ein dunkles Stahl-Schwert
+Andere Charaktere
+Feinde, Meister, Passanten sind nur funktionale Charaktere, kein komplexes Gesichts-Locking oder Kleidung-Locking erforderlich.
+
+Umgebungs-DNA
+Alle hochgeladenen Hintergrund- und Ortsreferenzbilder dieser Runde bestimmen gemeinsam denselben Satz Umgebungs-DNA.
+
+Vor der formellen Generierung still analysieren Sie kompatible Elemente unter ihnen:
+
+Gelände
+
+Architektur
+
+Höhenunterschiede
+
+Räumlicher Maßstab
+Materialalter
+Vegetation
+Gewässer
+Wetter
+Bergnebel
+Beleuchtung
+Reflexionen
+Lufttiefe
+Von Charakteren passierbare Routen
+Dann rekombinieren Sie diese zu einem einzigartigen, aber glaubwürdigen neuen Raum für diese Runde.
+Raum- und Routenprinzipien
+Die gesamten 15 Sekunden müssen in einer kontinuierlichen verständlichen Kampfroute stattfinden, können nicht plötzlich in eine andere Welt wechseln.
+
+Der Hintergrund bleibt dynamisch aktiv, aber narrativ neutral:
+
+Wind
+
+Wasser
+
+Nebel
+
+Blätter
+
+Kleidersäume
+Reflexionen
+Entfernte Figuren
+Immer natürlich aktiv.
+Nur wenn Charaktere wirklich:
+Treten
+Kollidieren
+
+Streifen
+
+Waffen berühren die Umgebung
+
+Erscheinen diese:
+Staub
+Wellen
+Trümmer
+
+Kratzer
+
+Kleiderverschiebung
+usw. passive physische Rückmeldungen.
+Streng verboten
+Brücke bricht plötzlich
+Nebel rettet plötzlich Menschen
+
+Baum blockiert plötzlich Schwert
+
+Gebäude stürzt von selbst ein, um einer Seite zu helfen
+Segmentierte Struktur
+0–5s | Weitwinkel geht in Mittelaufnahme über
+Dieselbe weiß gekleidete Schwert-Unsterbliche Senior-Schwester und dieselbe grün gekleidete Junior-Schwester stehen Rücken an Rücken.
+Drei feindliche Schwertkämpfer, die nur Kampffunktion tragen, drängen aktiv aus verschiedenen Richtungen vor.
+0–1s
+
+Verwenden Sie 24mm feste Weitpanorama, damit das Publikum sofort versteht:
+
+Positionen der fünf Personen
+
+Angriffsrichtungen
+
+Für Bewegung verfügbare Räume als nächstes
+Junior-Schwester senkt die Stimme, sagt nur eine Zeile:
+
+"Diesmal dreh dich nicht um, um mich zu retten."
+Senior-Schwester dreht sich nie um, antwortet ruhig:
+
+"Gut."
+Sobald das letzte Wort fällt, starten die Feinde gleichzeitig ohne Warnung.
+Die Kamera bewegt sich schnell vom festen 24mm in die 35mm Mittel-Nahaufnahme-Bewegung, wackelt aber nicht zufällig, sondern wird durch die echten Bewegungslinien der Charaktere gebracht.
+
+Erste Engagement-Runde
+
+Ein Feind greift Senior-Schwester von oben an
+
+Ein anderer Feind schneidet gleichzeitig in die blinde Seite der Junior-Schwester
+
+Die beiden Frauen explodieren fast augenblicklich in entgegengesetzte Richtungen:
+
+Senior-Schwester ändert kurz die Angriffslinie des ersten Schwertes und rückt direkt vor
+
+Junior-Schwester senkt den Schwerpunkt, streift den zweiten Angriff, kontert nur den Waffenweg des Feindes, hält nicht an, um zu posieren
+
+Beide beginnen sofort, entlang der Routen vorwärts zu migrieren, die tatsächlich in der Referenzumgebung existieren.
+Ein schneller Vordergrund-Vorbeiflug eines Feindkörpers füllt kurz die Linse, nutzt diese echte Verdeckung, um den ersten versteckten Schnitt abzuschließen, das Publikum spürt kaum, dass sich die Kameraposition geändert hat.
+5–10s | Mittelaufnahme kontinuierliche Verfolgung
+Aufrechterhalten:
+
+Derselbe Raum
+Dieselben zwei Protagonisten
+
+Dasselbe Waffenbesitzrecht
+
+Feinde können absolut nicht Schlange stehen, um Züge zu senden, sie tun kontinuierlich:
+Verfolgen
+
+Umzingeln
+
+Abfangen
+Zu diesem Zeitpunkt:
+Senior-Schwester trägt kontinuierlichen Druck von zwei Feinden
+Junior-Schwester steht einem weiteren Feind gegenüber
+
+Den Bildschirm nicht in "zwei kämpfen getrennt" teilen, muss zwei Kampflinien ständig verweben lassen.
+
+Erste taktische Ergänzung
+Senior-Schwester weicht absichtlich einen halben Schritt zurück, bringt einen verfolgenden Feind in die vorrückende Angriffslinie der Junior-Schwester.
+Junior-Schwester schaut überhaupt nicht zur Senior-Schwester, nur im Augenblick, als die Schwertspitze des Feindes ihren Raum betritt, fängt sie kurz und ändert die Waffenrichtung mit dem dunklen Stahl-Schwert, lässt sofort los, behandelt weiter die Person vor ihr.
+
+Zweite taktische Ergänzung
+Weniger als eine Sekunde später passiert genau das Gegenteil erneut.
+Ein weiterer Feind startet einen echten Angriff von hinten gegen die Junior-Schwester.
+Dieselbe weiß gekleidete Schwert-Unsterbliche dreht sich nicht einmal um, die Silber-Schwertspitze tritt von der anderen Seite des Bildes mit hoher Geschwindigkeit ein, nutzt nur einen extrem kurzen Metallimpakt, um dieses Schwert aus der gefährlichen Linie hinter der Junior-Schwester zu schieben, dann verlässt das Silber-Schwert sofort das Bild, Senior-Schwester setzt ihren eigenen Kampf fort.
+
+Kernzustand
+
+Die beiden bestätigen niemals die Position des anderen, wissen aber genau, wo der andere ist.
+Die Kamera gleitet sanft zwischen Vorder- und Mittelgrund, nutzt folgende Elemente, die mit hoher Geschwindigkeit über die Linse streifen, um 2-3 extrem natürliche versteckte Übergänge zu bilden:
+
+Feindschultern
+
+Weite weiße Ärmel
+Grüner Kleidersaum
+
+Waffen
+Rhythmusanforderungen
+Der Aktionsrhythmus ist nicht von Anfang bis Ende gleich schnell, sondern:
+Zwei schnelle Austausche
+
+Ein echt gewichteter Waffenimpakt
+
+Halbtakt Stille
+Dann plötzliche Explosion
+Derselbe ältere Meister bleibt in der entfernten sicheren Zone beobachtend, handelt von Anfang bis Ende nicht, löst keine Probleme für jemanden.
+10–15s | Nahaufnahme geht in finale breitere Mittelaufnahme über
+
+Drei Feinde entdecken, dass einzelne Verfolgung wirkungslos ist, ändern zum ersten Mal gleichzeitig ihre Strategie, komprimieren den Raum aus drei Richtungen, zwingen Senior-Schwester und Junior-Schwester in denselben zentralen Bereich.
+Bilden eine offensichtliche Pattsituation.
+
+Die beiden setzen den Rückzug nicht fort.
+Dieselbe weiß gekleidete Schwert-Unsterbliche und dieselbe grün gekleidete Junior-Schwester brechen plötzlich gleichzeitig sprintend aufeinander zu.
+Die Kamera schneidet nicht sofort, lässt das Publikum vollständig sehen:
+Zwei Schulterlinien streifen mit hoher Geschwindigkeit, Körper kreuzen sich mit minimalem Abstand.
+Im Moment der Kreuzung tauschen beide vollständig die Vorder-Hinter-Positionen.
+Und keiner schaut zum anderen.
+
+Taktischer Flip nach dem Swap
+
+Senior-Schwester übernimmt beim Vorbeigehen an der Junior-Schwester direkt den Feind, der ursprünglich die blinde Seite der Junior-Schwester angriff
+
+Junior-Schwester schneidet gleichzeitig in die Linie des Feindes, der ursprünglich die Senior-Schwester verfolgte
+
+Ein langer Feindschwertstreif fegt über die gesamte Kamera mit hoher Geschwindigkeit, bildet nur einen offensichtlichen Waffenverdeckungs-Hardschnitt.
+
+Schnitt auf neue Gegenachse:
+
+Senior-Schwester steht nun an der Position, die die Junior-Schwester gerade verlassen hat
+
+Junior-Schwester steht auch an der Position, die die Senior-Schwester gerade verlassen hat
+
+Beide vervollständigen sofort zwei extrem kurze, extrem direkte, keine prahlerischen Rotations-Gegenbrüche:
+Silber-Schwertspitze stoppt sicher fingerbreit vor dem Kinn eines Feindes
+
+Dunkles Stahl-Schwert stoppt gleichzeitig sicher außerhalb des schwertschwingenden Handgelenks eines anderen Feindes
+Der dritte Feind bereitet sich auf einen weiteren Schlag vor, findet aber, dass beide effektiven Angriffslinien vollständig durch die Position des Gefährten blockiert sind, kann nur gezwungen zurückweichen.
+
+Plötzlicher Stop-Moment
+Zuvor dicht:
+Sausrufe
+
+Metallimpakte
+
+Sohlenschlurfgeräusche
+
+Zusammenbruch plötzlich in diesem Moment.
+Lässt nur übrig:
+
+Das echte Atmen der beiden Frauen
+
+Extrem leichte Restvibration der Schwerter
+Seidenkleidersäume fallen allmählich
+
+Senior-Schwester schaut immer noch auf den Feind vor ihr, fragt ohne Kopfumdrehen:
+
+"Noch am Leben?"
+Junior-Schwester pausiert fast nicht:
+
+"Leichter als du."
+Der Mundwinkel der Senior-Schwester zeigt nur einen extrem kurzen, extrem leichten Hauch eines Lächelns.
+Der entfernte derselbe Meister atmet endlich leicht den Atem aus, den er die ganze Zeit angehalten hatte, predigt aber nicht, erklärt nicht die Beziehung zwischen den beiden.
+
+Endzustand
+
+Nach Bestätigung des Sieges absolut keine Siegerposen.
+
+Die beiden Frauen senken gleichzeitig die Schwertspitzen, behalten das ursprüngliche Tempo bei, fahren durch denselben Raum vorwärts; drei Feinde weichen instinktiv den Weg frei.
+Haar, Kleidersäume, Umweltwind, Wassernebel, Trümmer setzen natürliche Bewegung fort, das Bild endet direkt, während die Charaktere noch vorwärts bewegen.
+Kamera- und Bearbeitungsanforderungen
+
+Strikte Gesamtdauer 15 Sekunden
+
+16:9 Querformat
+
+Behalten Sie 0–5s / 5–10s / 10–15s drei klare narrative Segmente bei
+
+Visuell dominiert von einem kontinuierlichen seidigen Kamerapfad
+
+Der gesamte Film erlaubt nur etwa 4-5 versteckte Schnitte oder Schnitte, die wirklich durch Impakte ausgelöst werden
+
+Verbot von verrücktem fragmentiertem Schneiden für "Aktionsgefühl"
+
+Seedance 2.0 Mini Ausführungs-Fokus
+Für Seedance 2.0 Mini steuern Sie aktiv das Prompt-Budget.
+
+Am wichtigsten ist:
+
+Bild 1, Bild 2 zwei Protagonistenidentitäten stabil
+
+Besitzrecht der zwei Schwerter stabil
+
+Hände und Körper kontinuierlich
+
+Räumliche Beziehung der beiden Personen kontinuierlich
+Kern-Umweltroute kontinuierlich
+Drei Feinde müssen nur beibehalten:
+Antikstil-Feindschwertkämpfer
+Grundlegende funktionale Erscheinung
+Das reicht, verschwenden Sie keine Modellattention für striktes Locking von Gesichtern, Kleidern und Details.
+
+Ton- und Bewegungsanforderungen
+
+Natives synchronisiertes Mandarin-Dialog
+
+Natives synchronisiertes räumliches Audioeffekt
+
+Fokusverstärkung:
+
+Kurzes Sausen der Schwertspitze
+Echte Metallimpakte
+Sohlenreibung
+Zucken der Seidenkleidersäume
+Echtes Atmen der Charaktere
+
+Finaler plötzlicher ruhiger Klangkontrast
+
+Bewegungsstruktur
+24fps Kino-Bewegungsstruktur
+
+Natürliche Bewegungsunschärfe
+
+Aktionen müssen klar haben:
+Start
+Beschleunigung
+Kraftanwendung
+Linienänderung
+Trägheit
+Bremsen
+
+Streng verboten
+Teleportation
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106386731285245952/img/oyhTyHCArGSxRsNP.jpg" width="600" alt="Seedance 2.0 Mini Wuxia Kampfszenen-Prompt">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11852)**
+
+**Autor:** [Soran](https://x.com/Soranlan) | **Quelle:** [Link](https://x.com/Soranlan/status/2106388571863253309) | **Veröffentlicht:** Oct 3, 2026
+
+---
+### High-Fashion Fußballschuh-Werbeprompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Prompt zur Erstellung einer 15-sekündigen High-Fashion-Werbung für Fußballschuhe mit Seedance 2.0, featuring cineastische Aufnahmen von goldfarbenen metallischen Stollen auf einem offenen Feld.
+
+#### 📝 Prompt
+
+```
+Erstellen Sie eine 15-sekündige High-Fashion-Werbung für Fußballschuhe unter Verwendung der hochgeladenen Referenzbilder für die goldfarbenen metallischen Fußballstollen, die weißen kniehohen Socken und das vintage feminine Fußball-Styling. Halten Sie das Design, die Farben, die Texturen und die Proportionen des Schuhwerks während des gesamten Videos konsistent.
+
+Umgebung: Ein riesiges offenes Outdoor-Fußballfeld, bedeckt mit üppigem natürlichem grünen Gras, mit einem vollständig offenen Horizont und einem wunderschönen traumhaften pastellblau-rosa Himmel. Das Feld sollte sich weitläufig und unberührt anfühlen. Kein Stadion, keine Zuschauer, keine Gebäude, keine Tribünen, keine Innenräume, keine nahen Zäune.
+
+0–3 Sek.: Weitwinkel-Cineastik-Aufnahme einer jungen erwachsenen Fußballerin, die allein in der Mitte des weiten offenen Feldes steht. Sie trägt dasselbe elegante, vom Vintage inspirierte Outfit aus den Referenzbildern mit weißen kniehohen Socken und den goldfarbenen metallischen Fußballstollen. Sie legt sanft einen Fuß auf einen Fußball. Die Kamera bewegt sich langsam auf sie zu, während das Sonnenlicht wunderschön von den Stollen reflektiert wird.
+
+3–6 Sek.: Schnitt zu dramatischen Nahaufnahmen der goldenen Stollen. Ihr Fuß tritt fest auf das Gras, die Stollen drücken sich natürlich in den Rasen, und sie zieht die Schnürsenkel fest. Makro-Kamerabewegungen enthüllen die metallische Textur, die Nähte, die Sohle und die Stollen. Machen Sie die Schuhe zum visuellen Helden.
+
+6–10 Sek.: Sie beginnt, über das vollständig offene Feld Fußball zu spielen, dribbelt den Ball schnell und selbstbewusst. Verwenden Sie eine Tiefwinkel-Tracking-Kamera, fokussiert auf ihre Füße und Stollen, während sie die Richtung wechselt, beschleunigt und den Ball kontrolliert. Ihr fließendes Outfit bewegt sich natürlich mit ihrer Bewegung.
+
+10–13 Sek.: Sie nimmt einen kraftvollen Anlauf und schlägt den Fußball mit dem goldenen Stollen. Erfassen Sie den Tritt in cineastischer Zeitlupe, zeigen Sie den Kontakt des Schuhs mit dem Ball, natürlich fliegende Grasteilchen und den Ball, der über das offene Feld geschossen wird.
+
+13–15 Sek.: Premium-Hero-Shot. Der Fußball rollt neben ihren goldenen Stollen zum Stillstand. Sie steht im Hintergrund selbstbewusst auf dem weiten grünen Feld, während warmes Sonnenlicht die metallischen Schuhe einfängt. Die Kamera schiebt sich langsam auf die Stollen zu und endet mit einer scharfen, produktfokussierten Nahaufnahme.
+
+Visueller Stil: Luxus-Sportmode-Kampagne, traumhafte Editorial-Fotografie, cineastisches natürliches Licht, realistische Fußballbewegung, realistische Grasphysik, elegantes feminines Styling, dynamische Kamerabewegung, Makro-Schuhdetails, geringe Schärfentiefe, kommerzielle Premium-Qualität, fotorealistisch, subtiler Filmtextur-Effekt.
+
+Wichtig: Halten Sie die goldenen Fußballstollen während des gesamten Videos identisch. Keine Änderung des Schuhdesigns, keine verzerrten Füße, keine zusätzlichen Gliedmaßen, kein verformter Fußball, kein künstliches CGI-Aussehen. Das gesamte Video spielt draußen auf einem einzigen weiten offenen Fußballfeld.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106319331823165440/img/HRw0Mc4qjR1ZtqNR.jpg" width="600" alt="High-Fashion Fußballschuh-Werbeprompt">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11849)**
+
+**Autor:** [Soulful Ai](https://x.com/soulful__ai) | **Quelle:** [Link](https://x.com/soulful__ai/status/2106321511212544372) | **Veröffentlicht:** Oct 3, 2026
+
+---
+### Episches Xianxia-Schlacht-Video-Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein detaillierter Prompt zur Generierung einer hochwertigen 3D-CG-Animation einer Schwertkämpferin, die in einem schwebenden himmlischen Reich gegen Monsterhorden kämpft, mit spezifischen visuellen Effekten und Kamerabewegungen.
+
+#### 📝 Prompt
+
+```
+[Globale Bildqualitäts-Einstellungen]
+
+UE5.4 Path Tracing, Lumen Global Illumination, Nanite, PBR Physical Materials. Hochwertige chinesische Xianxia-3D-CG-Animation, 8K, HDR, ACES Farbmanagement, kinematografische Kameraarbeit, 60fps Hochgeschwindigkeitsflüssigkeit.
+
+Chaos Physics Destruction, realistische starre Trümmer mit Gravitationsbögen, Cloth Simulation, volumetrisches Licht, Godrays, Contact Shadows, Ray-Traced Reflections.
+
+Über den neun Himmeln vor der Morgendämmerung schweben zahlreiche unsterbliche Inseln in einem endlosen Wolkenmeer.
+
+Die Szene besteht hauptsächlich aus:
+
+Brücken aus weißem Jade
+Zerbrochenen unsterblichen Palästen
+Schwebenden Steinplattformen
+Riesigen zerbrochenen Statuen
+Wolkenmeer
+Sternenhimmel-Rissen
+Hochgelegenen unsterblichen Inselgruppen
+
+Die Draufsicht bleibt ein tiefer Sternenhimmel, während am fernen Horizont das erste goldene Licht der Dämmerung erscheint.
+
+Verwenden Sie insgesamt entsättigte Indigo-Grau-, Mondweiß-, Eisblau- und Dunklgold-Töne.
+
+Große Fertigkeiten haben unterschiedliche Element-Lichtfarben, behalten aber immer Hanjins eisblaue und dunkelgoldene visuelle Basis als einheitliches Fundament bei.
+
+Durch Kämpfe verursachte Risse, Eisschichten, Brandspuren, zerbrochene Brücken, riesige Krater, Schwerthiebe und Monstertrümmer akkumulieren kontinuierlich und erholen sich nicht automatisch.
+
+Kies, weiße Jadesplitter und Monsterganzteile folgen der echten Schwerkraft und Trägheit.
+
+Das Wolkenmeer erfährt volumetrische Wälzbewegungen durch Stoßwellen, Stürme und große Energiefertigkeiten.
+
+Charakterhaare, Roben und Quasten werden immer von Hochgeschwindigkeitsbewegungen und dem Luftstrom in großer Höhe beeinflusst.
+
+16:9.
+
+[Protagonist | Senior Sister · Hanjin Schwertkämpferin]
+
+Charakter-Asset @Image1.
+
+Strikt beibehalten:
+
+Kaltes östliches weibliches Gesicht.
+
+Schwarzer hoher Pferdeschwanz mit langem Haar.
+
+Drei blaue Mustermarkierungen auf der Stirn.
+
+Tiefblau-schwarze geschichtete Kampfroben und Rüstung.
+
+Dunkelsilberne, kupfergoldene geschnitzte Strukturen.
+
+Blaue Quasten und Jadeornamente.
+
+Multi-Winkel-Charakterreferenzen gehören zur selben Rolle.
+
+Nur eine Senior Sister im gesamten Film.
+
+Verboten: Gesichtswechsel, Frisurenänderung, Änderung der Stirnmarkierung, Körpermodifikation, zufälliger Outfitwechsel oder das Erzeugen von Charakterklonen.
+
+[Waffe | Hanjin]
+
+Waffen-Asset @Image2.
+
+Hanjin ist die einzige Waffe im gesamten Film.
+
+Beibehalten: Eisblauer transparenter Kristallklinge, Eissprünge, dunkelsilberner geschnitzter Parierstange, blauer Edelstein, dunkler Griff und blaue Quaste.
+
+Hanjin ist immer der Kern aller großen Fertigungsaktivierungen.
+
+Unterschiedliche Elemente können die externen Lichteffekte und die Umgebungsfärbung des Schwertes ändern, aber das physische Waffendesign nicht neu gestalten.
+
+Verboten: Duplizierung, Zweihandkampf, zufällige Farbänderungen, Änderung der Schwertform oder das Erzeugen der Scheide als zweite Waffe.
+
+[Monster | Sternenverschlingende Horde]
+
+Auf dem Schlachtfeld gibt es viele einheitlich gestaltete sternverschlingende Monster.
+
+Gewöhnliche Minions bestehen hauptsächlich aus:
+
+Obsidian-Void-Körper + gesichtslose Obsidian-Hülle + purpurner Sternenkern + Klauen.
+
+Schnell fliegende sternverschlingende Kreaturen existieren in der Luft.
+
+Große Einheiten sind deutlich größer als unsterbliche Palastgebäude und greifen mit riesigen Handflächen, Obsidian-Felsbrocken und Sternenkernenergie an.
+
+Monsterwellen füllen sich nach aus:
+
+Sternenhimmel-Rissen.
+
+Rückseite der schwebenden Inseln.
+
+Unterhalb des Wolkenmeeres.
+
+Ruinen der unsterblichen Paläste.
+
+Monster müssen aktiv:
+
+Verfolgen.
+
+Töten.
+
+Einkesseln.
+
+Luftangriffe durchführen.
+
+Fernunterdrückung ausüben.
+
+Sie dürfen nicht einfach still um die Protagonistin herumstehen und darauf warten, zerstört zu werden.
+
+Wenn sie besiegt werden, zerfallen Monster in Obsidiansplitter, purpurnen Sternenstaub und erloschene Sternkerne.
+
+Trümmer fallen auf schwebende Inseln und Ruinen und bleiben dort liegen.
+
+[Globale Kampfregeln]
+
+30-sekündiges Hochgeschwindigkeits-1vN-Xianxia-Hack-and-Slash.
+
+Keine Dialoge.
+
+Keine Kampfschreie.
+
+Kein Ausrufen von Fertigungsnamen.
+
+Keine Zeitlupe.
+
+Keine Standbilder.
+
+Kein Hit-Stop.
+
+Hauptkampfelemente sind:
+
+Hochgeschwindigkeitsbewegung + Riesige Fertigkeiten + Großskalige Monsterwellen-Beseitigung.
+
+Der gesamte Film enthält zehn große Fertigungs-Ausbrüche.
+
+Zehn Arten von Fertigkeiten müssen eindeutige visuelle Konzepte haben, nicht nur dieselbe Schwert-Qi mit geänderten Farben.
+
+Das Elementsystem für Fertigkeiten kann abdecken:
+
+Sternenfluss.
+
+Donner.
+
+Sturm.
+
+Himmelskörper-Sturz.
+
+Mondlicht und Spiegellicht.
+
+Sonnenphänomen.
+
+Großes Schwert-Array.
+
+Raumriss.
+
+Aurora-Himmelsvorhang.
+
+Himmelskuppel-Abschlussphänomen.
+
+Diese Elemente müssen nicht in der Reihenfolge ausgeführt werden, in der sie im Text erscheinen.
+
+Unterschiedliche Elemente müssen klare visuelle Unterschiede aufweisen.
+
+[Hochgeschwindigkeitsbewegung]
+
+Senior Sister ist immer in einem hochmobilen Zustand.
+
+Hauptbewegungsmethoden umfassen:
+
+Bodenstreifender Ansturm.
+
+Hochgeschwindigkeitsseitlicher Richtungswechsel.
+
+Springen zwischen schwebenden Inseln.
+
+Kurzstrecken-Teleportation.
+
+Vertikaler Aufstieg.
+
+Tauchgang.
+
+Seitliches Kreisen.
+
+Richtungswechsel in der Luft.
+
+Kurzstrecken-Teleportation behält eisblaue und dunkelgoldene Nachbilder mit klarem Endpunkt bei.
+
+Der Charakter setzt den Kampf sofort fort, wenn er den Endpunkt erreicht.
+
+Nachbilder sind keine physischen Klone.
+
+Verboten: Den Charakter lange Zeit in unerkennbare Energielinien verwandeln.
+
+[Kleine Fertigkeiten]
+
+Zwischen großen Fertigkeiten werden nur extrem kurze Hilfsaktionen verwendet.
+
+Inklusive:
+
+Kurzstrecken-Schwert-Qi.
+
+Positionssprung.
+
+Hochgeschwindigkeits-Kombinationshiebe.
+
+Punkt-Schuss-artiger Schwertlichtstrahl.
+
+Diese Aktionen dienen hauptsächlich dazu:
+
+Nahkampfmonster zu erledigen.
+
+Die räumliche Position anzupassen.
+
+Zur nächsten großen Fertigkeit überzuleiten.
+
+Verwenden Sie nicht viele normale Angriffe, um Zeit zu verzögern.
+
+[Riesiges Fertigungssystem]
+
+Sternenfluss-Serie
+
+Hanjin kann den hochgelegenen Sternenfluss mobilisieren.
+
+Enorme eisblaue Sternenfluss-Energie strömt vom Himmelsgewölbe ins Schlachtfeld und bildet einen massiven Strom zwischen schwebenden Inseln und Brücken.
+
+Monsterhorden werden vom Sternenfluss-Strom verstreut, und das Wolkenmeer wälzt sich nach dem Aufprall zur Seite.
+
+Das Schlachtfeld kann gefrorene Sternenfluss-Spuren oder eisblaue Energiebänder hinterlassen.
+
+Donner-Serie
+
+Himmelsdonnerwolken reagieren auf Hanjin.
+
+Massive Blitze schlagen im Kernkriegsgebiet ein.
+
+Blitze können bilden:
+
+Donnerschwerter.
+
+Donnersäulen.
+
+Lichtbogen-Netzwerke.
+
+Große Schwert-Arrays.
+
+Monsterhorden verlieren das Gleichgewicht und werden in dichten Blitzen kontinuierlich weggeschleudert.
+
+Oberflächen der schwebenden Inseln zeigen verkohlte, elektrisierte und rissige Markierungen.
+
+Sturm-Serie
+
+Hanjin schwingt das Schwert und erzeugt einen großen eisblauen Sturm.
+
+Mehrere riesige Wirbelwinde spannen sich über schwebende Inseln und das Wolkenmeer.
+
+Der Sturm kann gleichzeitig hochwirbeln:
+
+Monster.
+
+Kies.
+
+Wolkennebel.
+
+Unsterbliche Palast-Trümmer.
+
+Senior Sister rast durch das Innere des Sturms und setzt die Verfolgung fort.
+
+Die Umgebung zeigt offensichtliche Winderosion und rotierende Schäden.
+
+Himmelskörper-Serie
+
+Anomalien treten im hochgelegenen Sternenfluss auf.
+
+Viele Himmelskörper mit Eiskristallen, Sternenlicht oder dunkelgoldener Energie fallen schnell vom Himmel.
+
+Verschiedene schwebende Inseln erleiden kontinuierliche große Einschläge.
+
+Produzieren:
+
+Riesige Krater.
+
+Kaltnebel.
+
+Kies.
+
+Stoßwellen.
+
+Großskalige Auflösung der Monsterwellen.
+
+Mondlicht-Serie
+
+Großskalige mondweiße visuelle Phänomene erscheinen auf dem Schlachtfeld.
+
+Erreichbar durch:
+
+Mondlichtspiegel.
+
+Eiskristallreflexion.
+
+Multidirektionale gebrochene Schwertlichtstrahlen.
+
+Bildung eines großflächigen Schnittnetzwerks.
+
+Schnittlichter schneiden aus mehreren Richtungen gleichzeitig durch die Monsterwellen.
+
+Einige Mondlichtstrukturen bleiben nach Ende der Fertigkeit in der Umgebung erhalten.
+
+Sonnenserie
+
+Da die Dämmerung näher rückt, fällt das erste Sonnenlicht ins Schlachtfeld.
+
+Hanjin kann dunkelgoldene Sonnenenergie mobilisieren.
+
+Riesige goldene Göttervögel, lodernde Sonnenschwertfeuer oder großskalige goldene Himmelsphänomene durchqueren die Inselgruppe.
+
+Eisblau und Dunkelgold bilden eine starke kalt-warme Überlagerung.
+
+Viele Monsterhorden zerfallen unter Sonnenenergie zu Sternenstaub.
+
+Schwert-Array-Serie
+
+Große Plätze der unsterblichen Paläste oder schwebende Inselböden werden durch Hanjins Schwertabsicht aktiviert.
+
+Viele eisblaue Riesenschwerter tauchen aus Gebäuden, Eisschichten oder dem Boden auf.
+
+Die Größe der Schwerter ist weit größer als die normaler Waffen.
+
+Der gesamte Bereich bildet schnell einen großen Schwertwald oder ein Array.
+
+Senior Sister bewegt sich hochschnell innerhalb des Schwertarrays.
+
+Monster werden nacheinander weggeschlagen, von Energiekörpern durchbohrt oder aus verschiedenen Positionen in die Luft geworfen.
+
+Riss-Serie
+
+Hanjin kann kurzzeitig den Raum des Schlachtfeldes aufreißen.
+
+Riesige schwarze Raumrisse bilden sich zwischen Himmel oder schwebenden Inseln.
+
+Risskanten werden von eisblauer und dunkelgoldener Energie umrandet.
+
+Viele Schwertlichter oder Raumschnitte breiten sich entlang der Risskanten nach außen aus.
+
+Senior Sister kann schnell Positionen um den Riss herum wechseln.
+
+Offensichtliche visuelle Residuen bleiben nach Ende der Raumrisse zurück.
+
+Verboten: Gewöhnliche Schwarze Löcher zum Verschlingen verwenden, statt Raumrisse.
+
+Aurora-Serie
+
+Großflächige eisblaue, mondweiße und blassgoldene Auroras erscheinen im hohen Himmel.
+
+Auroras steigen vom Himmelsgewölbe herab und bedecken mehrere schwebende Inseln.
+
+Auroravorhänge haben enorme Tiefe und räumliche Skalierung.
+
+Monster, die eintreten:
+
+Einfrieren.
+
+Gleichgewicht verlieren.
+
+Zu Energie zerfallen.
+
+Senior Sister pendelt hochschnell zwischen verschiedenen Aurora-Schichten.
+
+Diese Phase führt das gesamte Schlachtfeld allmählich zum finalen Höhepunkt.
+
+[Finale Phase]
+
+Visuelle Spuren früherer Kämpfe existieren weiterhin in der Szene.
+
+Zum Beispiel:
+
+Eisschichten.
+
+Brandspuren.
+
+Winderosion.
+
+Einschlagkrater.
+
+Spiegelfragmente.
+
+Schwertwälder.
+
+Raumrisse.
+
+Aurora-Nachglühen.
+
+Monstertrümmer.
+
+In der finalen Phase müssen diese visuellen Elemente nicht alle direkt zu derselben Fertigkeit werden, sollten aber eine gewisse Umweltresonanz erzeugen.
+
+Hanjin wird zum finalen Energiekern.
+
+Senior Sister löst ein großskaliges Abschlussphänomen aus, das die Kern-Inselgruppe und den Himmel bedeckt.
+
+Manifestierbar als:
+
+Riesige Sternringe.
+
+Mehrschichtige Himmelsgewölbe-Stoßwellen.
+
+Eisblaue und dunkelgoldene ringförmige Schwertlichter.
+
+Großskalige Ausbreitung von Sternenenergie.
+
+Die Skala der Abschlussfertigkeit muss deutlich höher sein als die der vorherigen Einzel-Element-Fertigkeiten.
+
+Sternenfluss, Blitz, Sonne/Mond und Aurora-Visuelles können kurzzeitig im Abschlussphänomen erscheinen, dürfen aber frühere Fertigkeiten nicht vollständig replizieren.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105684524055322625/img/NCD7cVCLLuAfyOyU.jpg" width="600" alt="Episches Xianxia-Schlacht-Video-Prompt">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11850)**
+
+**Autor:** [Arvin](https://x.com/Arvin010717) | **Quelle:** [Link](https://x.com/Arvin010717/status/2106241257895084452) | **Veröffentlicht:** Oct 3, 2026
+
+---
 ### Eismonster-Angriff in der Skihütte
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -426,45 +1293,6 @@ Cinematic horror-thriller short film set at a mountain ski resort lodge during a
 **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11813)**
 
 **Autor:** [auqib](https://x.com/auqibhabib) | **Quelle:** [Link](https://x.com/auqibhabib/status/2106235341548273915) | **Veröffentlicht:** Oct 3, 2026
-
----
-### Koreanischer Lifestyle-Vlog mit Golden-Hour-Übergängen
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt für einen 60-sekündigen ultra-realistischen Lifestyle-Vlog, der eine koreanische Frau zeigt und von einem Café über eine Stadtstraße zum Sonnenuntergang auf einer Dachterrasse und schließlich zu einem nächtlichen Café führt, wobei Stimmung und visuelle Konsistenz im Vordergrund stehen.
-
-#### 📝 Prompt
-
-```
-Erstelle einen 60-sekündigen ultra-realistischen cineastischen Lifestyle-Vlog, der eine schöne junge Koreanerin mit langen dunkelbraunen Haaren, sanftem natürlichem Make-up und einem freundlichen Lächeln zeigt. Sie trägt ein zartes weißes Blumenkleid mit einer hellen cremefarbenen Strickjacke und hält eine kleine weiße Handtasche.
-
-**Szene 1:** Sie steht vor einem modernen ästhetischen Café, umgeben von üppigen grünen Pflanzen und Glasfenstern. Sie hält einen Eiskaffee in der Hand, nimmt einen Schluck, richtet sanft ihre Haare und lächelt natürlich in die Kamera.
-
-**Szene 2:** Cineastische Nahaufnahmen ihres Gesichts, während sie ihren Kaffee genießt. Weiches Sonnenlicht beleuchtet ihr Gesicht. Sie wirkt entspannt und glücklich, mit subtilen natürlichen Bewegungen.
-
-**Szene 3:** Sie geht während der Golden Hour entlang einer wunderschönen Stadtstraße und trägt dasselbe Outfit. Die Kamera folgt ihr von hinten und fängt elegante Profilansichten ein.
-
-**Szene 4:** Sie erreicht einen Aussichtspunkt auf einer Dachterrasse mit Blick auf eine wunderschöne Skyline bei Sonnenuntergang. Die goldene Sonne geht langsam hinter den Gebäuden unter. Sie sitzt auf einer Bank, blickt auf den Sonnenuntergang und genießt die friedliche Atmosphäre.
-
-**Szene 5:** Während der Blue Hour geht sie entlang einer modernen urbanen Straße mit leuchtenden Straßenlaternen und vorbeifahrenden Autos. Die Kamera erfasst ihr schönes Profil und ihr wehendes Haar in einer cineastischen Tracking-Aufnahme.
-
-**Szene 6:** Nächtliches Outdoor-Café mit warmen Lichterketten über ihr. Sie sitzt an einem gemütlichen Holztisch mit ihrem Eiskaffee und ihrer Handtasche. Sie lächelt in die Kamera, hebt ihr Getränk, nimmt einen Schluck und winkt fröhlich zum Abschied.
-
-**Visueller Stil:** Ultra-realistisch in 4K, fotorealistische Hauttextur, natürliche Gesichtsausdrücke, cineastische Tiefenschärfe, weiche Beleuchtung, warme Golden-Hour-Töne, schönes Bokeh, flüssige Kamerabewegungen, professionelles Color Grading, realistische Haarphysik, natürliche Körperbewegungen, ästhetischer koreanischer Lifestyle-Vlog, traumhaft friedliche Atmosphäre.
-
-**Kamera:** Mischung aus Weitwinkel-, Halbtotalen-, Nahaufnahmen, Zeitlupendetails, flüssigen Tracking-Shots und sanften cineastischen Übergängen.
-
-**Stimmung:** Friedlich, romantisch, gemütlich, elegant, traumhafter Alltag.
-
-Perfekte Charakterkonsistenz beibehalten: identische Gesichtszüge, Frisur, Kleidung und Accessoires über alle Szenen hinweg. Keine verzerrten Hände, kein Flackern, keine Gesichtsveränderungen, keine unnatürlichen Bewegungen, kein Text, kein Wasserzeichen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106230180654280704/img/_LwGOY5NSucEMO71.jpg" width="600" alt="Koreanischer Lifestyle-Vlog mit Golden-Hour-Übergängen">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=11812)**
-
-**Autor:** [Zorvia](https://x.com/ZorviaLux) | **Quelle:** [Link](https://x.com/ZorviaLux/status/2106230270282313997) | **Veröffentlicht:** Oct 3, 2026
 
 ---
 ### Cineastische Kindheitserinnerung an Straßenfußball
@@ -5145,123 +5973,6 @@ Erstellung eines kinematografischen Mode-Transformationsvideos mit einer schöne
 **Autor:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Quelle:** [Link](https://x.com/ayzalnooor24521/status/2100456445900710158) | **Veröffentlicht:** Sep 17, 2026
 
 ---
-### Korean Salary Day Vlog
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt für einen 30-sekündigen, ultra-realistischen Mini-Vlog im UGC-Stil mit einer Koreanerin, die den Gehaltstag feiert, inklusive detaillierter Szenenbeschreibungen und Anweisungen zum visuellen Stil.
-
-#### 📝 Prompt
-
-```
-Erstelle einen 30-sekündigen, ultra-realistischen Mini-Vlog im UGC-Stil mit einem stilvollen koreanischen Girl, das den glücklichsten Tag nach dem Erhalt seines Gehalts dokumentiert.
-
-Szene 1 — 0–5 Sek.:
-Morgendliches Selfie im Schlafzimmer. Sie wacht auf, prüft ihr Handy, sieht, dass ihr Gehalt gutgeschrieben wurde, und lächelt sofort vor Aufregung. Natürliche Messy-Bed-Ästhetik, weiches Morgenlicht. Sie schaut in die Kamera und sagt fröhlich: „Mein Gehalt ist endlich da!“
-
-Szene 2 — 5–9 Sek.:
-Schneller Übergang zu ihrem Ready-to-go-Moment. Sie nimmt eine erfrischende Dusche, macht eine einfache Hautpflege-Routine, richtet ihre Haare und zieht ein trendiges Outfit im Baddie-Stil an. Spiegel-Selfies, realistische Handkamera-Bewegung des Smartphones.
-
-Szene 3 — 9–19 Sek.:
-Sie geht in ein modernes Luxus-Einkaufszentrum. Filmt sich beim Betreten durch den Eingang, stöbert in Modegeschäften, probiert Kleidung an, checkt Accessoires und trägt freudig Einkaufstaschen. Füge schnelle Candid-Aufnahmen hinzu, aufgeregte Gesichtsausdrücke, realistisches Mall-Licht und natürliches UGC-Kamera-Shake.
-
-Szene 4 — 19–25 Sek.:
-Sie sitzt in einem gemütlichen Café im Einkaufszentrum, neben ihr liegen ihre Einkaufstaschen. Sie bestellt eine heiße Tasse Tee, filmt, wie der Tee serviert wird, nimmt einen Schluck und lächelt zufrieden.
-
-Szene 5 — 25–30 Sek.:
-Golden-Hour-/Abendaufnahme. Sie geht mit ihren Einkaufstaschen und dem Tee aus dem Einkaufszentrum, dreht die Kamera auf sich selbst, lächelt und sagt: „Der Gehaltstag ist offiziell mein Lieblingstag.“ Ende mit einem lockeren Lachen und natürlicher Kamerabewegung.
-
-Visueller Stil: Ultra-realistische Smartphone-Aufnahmen, authentischer UGC-Vlog, koreanische Mode-Ästhetik, selbstbewusste Baddie-Energie, cineastisch aber nicht überpoliert, natürliche Hauttextur, realistisches Licht, sanfte Übergänge, dezente Hintergrundgeräusche, realistische Gesichtsausdrücke, Handkamera-Filmung mit dem Smartphone, Social-Media-fertiges vertikales Format 9:16, 4K-Qualität.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100452060642852864/img/R0oS8fEzuAmWvRq5.jpg" width="600" alt="Korean Salary Day Vlog">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=10952)**
-
-**Autor:** [Noor 🌸](https://x.com/Noor_ul_ain43) | **Quelle:** [Link](https://x.com/Noor_ul_ain43/status/2100452341996728475) | **Veröffentlicht:** Sep 17, 2026
-
----
-### Koreanischer Kampfkunst-Kriegerin-Porträt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt zur Generierung einer ultrarealistischen, kinoreifen Szene einer entschlossenen jungen Frau in traditioneller koreanischer Kampfkunstkleidung.
-
-#### 📝 Prompt
-
-```
-Ultrarealistische, kinoreife Szene einer entschlossenen jungen Frau, die selbstbewusst in einem traditionellen koreanischen Kampfkunst-Innenhof steht. Sie trägt einen schwarzen Kampfkunstanzug mit weißem Kragen, ihre kurzen dunklen Haare bewegen sich natürlich im Wind. Ihr Ausdruck ist intensiv und konzentriert. Dramatisches warmes Sonnenlicht, traditionelle koreanische Architektur und Steinmauern im Hintergrund, dezente Bewegungsunschärfe, realistische Hauttextur, detaillierter Stoff, geringe Schärfentiefe, cineastisches Color Grading, hoher Kontrast, 8K HDR, professionelles Filmstill, dynamische Atmosphäre, 35-mm-Objektiv, vertikale 9:16-Komposition.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100444654605070336/img/BWb5GjmmEgP2Mxrn.jpg" width="600" alt="Koreanischer Kampfkunst-Kriegerin-Porträt">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=10955)**
-
-**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Quelle:** [Link](https://x.com/AIwithMinal/status/2100444829880914240) | **Veröffentlicht:** Sep 17, 2026
-
----
-### Koreanischer Sommer-Vlog Video-Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Video-Generierungs-Prompt für Seedance 2.0, der eine friedvolle koreanische Sommerszene mit einem Mädchen zeigt, das am Bach Wassermelone isst.
-
-#### 📝 Prompt
-
-```
-Eine schöne Koreanerin in einem weichen weißen Sommerkleid und einem natürlichen Sonnenhut aus Stroh, mit einer frischen und eleganten ästhetik des koreanischen Lebensstils. Sie hat kurzes, sanft gewelltes dunkles Haar, minimales Make-up und einen sanften, natürlichen Gesichtsausdruck. Sie genießt einen friedvollen Sommertag neben einem wunderschönen Gebirgsbach. Sie sitzt nahe am Wasser, isst ruhig ein Stück Wassermelone und genießt die erfrischende Atmosphäre. Sie geht langsam durch den gemütlichen Außenbereich, richtet ihren Hut und betrachtet die Landschaft. Das Sonnenlicht scheint sanft durch die Bäume und erzeugt warme cineastische Highlights und natürliche Linsenreflexionen. Ein weißer Vorhang bewegt sich sanft im Sommerwind neben dem Holzhaus. Sie trägt einen kleinen Picknickkorb und genießt die ruhige ländliche Umgebung. Die Kamera erfasst Nahaufnahmen, mittlere Einstellungen und sanfte cineastische Weitwinkel-Aufnahmen. Fotorealistisch, warm, traumhaft, im Stil eines friedvollen koreanischen Sommer-Vlogs, mit natürlichen Farben, weichem Licht, realistischer Bewegung und cineastischer 4K-Qualität.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100423624889114624/img/_Dz_jZArR-f_XNwO.jpg" width="600" alt="Koreanischer Sommer-Vlog Video-Prompt">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=10951)**
-
-**Autor:** [Sahil Verma](https://x.com/sahilvermaai) | **Quelle:** [Link](https://x.com/sahilvermaai/status/2100423982898115050) | **Veröffentlicht:** Sep 17, 2026
-
----
-### Seedance 2.0 Drachenkampf-Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter cineastischer Fantasy-Kampf-Prompt für Seedance 2.0 mit einem Krieger und einem Drachen in einem stürmischen Himmel, inklusive spezifischer Zeitangaben und Anweisungen zu visuellen Effekten.
-
-#### 📝 Prompt
-
-```
-Erstelle ein 15-sekündiges cineastisches Fantasy-Kampfvideo, das der Referenz entspricht: 0–1 s schwebt ein futuristisch gepanzerter Krieger in einem dunklen, stürmischen Himmel, während hinter ihm ein riesiger schwarzer Drache fliegt; 1–2 s umgibt leuchtende blaue Energie den Krieger, während sich die Kamera langsam annähert; 2–3 s nähert sich der Drache schnell durch die Wolken, und der Krieger dreht sich ihm zu; 3–5 s öffnet der Drache sein Maul und speit einen kraftvollen Strahl hellorangenen Feuers, während der Krieger rückwärts durch den Sturm fliegt; 5–7 s zeigt eine dramatische Nahaufnahme des Drachengesichts und seiner leuchtenden Augen, während er den Krieger verfolgt; 7–9 s stellt sich der Krieger dem Drachen mitten in der Luft gegenüber, wobei Blitze hinter ihnen zucken und blaue Energie aus seiner Rüstung strahlt; 9–11 s greift der Drache erneut mit intensivem Feuer an, während der Krieger mit hoher Geschwindigkeit durch die Wolken ausweicht; 11–13 s zeigen beide Charaktere, wie sie aufeinander zufliegen, in einer epischen Luftkonfrontation, wobei Feuer und blaue Energie den Sturm erleuchten; 13–15 s bewegt sich der Krieger plötzlich in die Wolken zurück, während der Drache folgt, endend mit einer dramatischen Totale des dunklen Himmels, realistisches cineastisches CGI, detaillierte Rüstung, massive Drachenflügel, volumetrische Wolken, dynamische Kamerabewegung, dramatische Beleuchtung, hohe Detailtreue, 4K-Qualität.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100417296351346688/img/OBZDOXdtVRddRk7O.jpg" width="600" alt="Seedance 2.0 Drachenkampf-Prompt">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=10949)**
-
-**Autor:** [Maha](https://x.com/Aiwithmaha) | **Quelle:** [Link](https://x.com/Aiwithmaha/status/2100417339716141116) | **Veröffentlicht:** Sep 17, 2026
-
----
-### Seedance 2.0 Desktop Break Video
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Ein detaillierter Prompt für Seedance 2.0 zur Generierung eines Videos, in dem eine Frau mit einem Messer den Computerbildschirm zerbricht und ihn anschließend durch das Absenken der Helligkeit repariert.
-
-#### 📝 Prompt
-
-```
-Verwenden Sie das bereitgestellte Apple-Desktop-Bild als ersten Frame, Seitenverhältnis 16:9, Dauer 15 Sekunden, feste Kamera, eine durchgehende Aufnahme. Bewahren Sie die Konsistenz der Gesichtszüge der Frau, des schwarzen Assassinen-Kostüms, der Frisur und des blauen Nebelhintergrunds bei; erhalten Sie Desktop-Symbole, Menüleiste und Dock.
-0-4s: Die Frau im Desktop-Hintergrund bewegt sich plötzlich, wirkt ruhig und wirft zweimal hintereinander dasselbe kurze Messer nach oben, wobei die Klinge in der Luft rotiert, natürliche Bewegungen, Haare schweben sanft.
-4-6s: Beim dritten Wurf verliert sie die Kontrolle, das Messer rutscht aus ihrer Hand, die Spitze fliegt auf das Publikum zu und trifft das Bildschirmglas. Begleitet von einem klirrenden Geräusch zerspringenden Glases breiten sich augenblicklich Spinnennetz-Risse vom Einschlagpunkt aus, bedecken die Vorderseite des Charakters und die Desktop-UI, das Bild wackelt kurz einmal.
-6-9s: Die Frau erstarrt zuerst, dann öffnet sie weit die Augen, runzelt die Stirn und zeigt offensichtliche Angst und Panik, nachdem sie Ärger verursacht hat. Sie schaut auf die Risse, dann zum Publikum und versucht hastig, die Risse zu verdecken, scheitert aber.
-9-14s: Ihr fällt plötzlich eine Lösung ein, sie greift aus, um das Kontrollzentrum in der oberen rechten Ecke anzuklicken, öffnet die Bildschirmhelligkeitssteuerung mit dem Sonnensymbol und zieht den Helligkeitsregler hastig nach links. Jede Bedienung verdunkelt den gesamten Bildschirm synchron, Charakter, Hintergrund, Symbole und Risse verblassen allmählich in Dunkelheit; während der Bedienung blickt sie schuldbewusst zum Publikum und senkt schließlich die Helligkeit auf das Minimum.
-14-15s: Der Bildschirm wird vollständig schwarz, bleibt eine Sekunde lang so, es erscheinen keine Texte oder Logos. Audio: Beginnt mit leichter Kampfsport-Instrumentalmusik und dem Sausgeräusch des rotierenden Messers; die Musik stoppt abrupt beim Aufprall, hebt das Geräusch des brechenden Glases hervor; behält dann die Geräusche von hektischem Rascheln der Kleidung und UI-Klicks bei, endet leise. Einschränkungen: Keine Schnitte, keine Charakterwechsel, keine Hintergrundwechsel, keine neuen Charaktere oder Messer, kein physischer Computerrahmen oder Tastatur sichtbar. Die Risse bleiben fest auf der Ebene des Bildschirmglases. Der finale Schwarzbildschirm muss durch die Bedienung der Helligkeitssteuerung durch die Frau ausgelöst werden, nicht durch einen plötzlichen Schnitt ins Schwarz.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100404208872919040/img/JMxfQF64saAPo_ae.jpg" width="600" alt="Seedance 2.0 Desktop Break Video">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=10956)**
-
-**Autor:** [探路AI](https://x.com/TanLuAI) | **Quelle:** [Link](https://x.com/TanLuAI/status/2100405863123173606) | **Veröffentlicht:** Sep 17, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -5323,6 +6034,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-10-04T04:49:55.627Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-10-05T04:47:52.912Z</sub>
 
 </div>

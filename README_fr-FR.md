@@ -68,9 +68,9 @@ Pourquoi utiliser notre galerie ?
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **6490** |
+| 📝 Total des prompts | **6495** |
 | ⭐ Prompts en vedette | **6** |
-| 🔄 Dernière mise à jour | **2026-10-04** |
+| 🔄 Dernière mise à jour | **2026-10-05** |
 
 ---
 
@@ -361,6 +361,873 @@ Ultra réaliste, énergie inspirée de Fast and Furious, éclairage photoréalis
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Prompt de Bataille dans un Couloir de Guerrier Sci-Fi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt pour une scène d'action de science-fiction cinématographique ultra-réaliste, mettant en vedette un guerrier courant dans un couloir industriel avec une lame énergétique.
+
+#### 📝 Prompt
+
+```
+Scène d'action de science-fiction cinématographique ultra-réaliste, un puissant guerrier vêtu d'une tenue futuriste beige fluide courant dans un immense couloir industriel tout en brandissant une lame énergétique bleue lumineuse, deux ennemis blindés approchant devant lui, angle de caméra incliné dramatique, mouvement intense, dynamique réaliste des tissus, architecture métallique futuriste, éclairage atmosphérique, ombres volumétriques, profondeur de champ cinématographique, contraste élevé, photoréalisme, 8K, esthétique épique de film de science-fiction hollywoodien, objectif 35 mm, composition verticale 9:16.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106610479351365632/img/ZHmFCfa_f0mlJa67.jpg" width="600" alt="Prompt de Bataille dans un Couloir de Guerrier Sci-Fi">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11851)**
+
+**Auteur:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2106610541636837770) | **Publié:** Oct 4, 2026
+
+---
+### Prompt vidéo fantastique : Tricoter le ciel
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt détaillé pour une vidéo de 15 secondes où une femme âgée tricote une écharpe qui se transforme en ciel nocturne, générée avec Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Tricoter le ciel
+0–5 s : Une femme âgée aux cheveux argentés est assise seule dans un fauteuil à bascule en bois près d'une fenêtre ouverte la nuit, tricotant avec deux aiguilles en bois. Une longue écharpe bleu foncé déborde de ses genoux et s'étale sur le plancher en bois. Lumière chaude et ambrée d'une lampe, ombres douces. Plan moyen.
+5–10 s : Le spectateur se rapproche de ses mains et de l'écharpe ; le fil sombre révèle de minuscules étoiles brillantes et des galaxies tourbillonnant lentement tissées dans les mailles. Une étoile accroche la pointe de son aiguille et scintille. Son visage s'adoucit en un sourire discret. Gros plan.
+10–15 s : Elle noue la dernière maille et lance doucement l'écharpe par la fenêtre ouverte, où elle se déroule vers le haut au-dessus des toits et devient le véritable ciel nocturne, les étoiles s'installant à leur place. Plan large depuis l'extérieur de la maison, regardant vers le haut, avec la lueur chaude de la fenêtre en bas et le ciel bleu profond en haut.
+Negative Prompt : doigts supplémentaires, mains supplémentaires, mains déformées, doigts fusionnés, plus de deux aiguilles à tricoter, aiguilles fondantes, fil déformé, deuxième femme, personne dupliquée, enfant, mobilier moderne, télévision, téléphone, éclairage blanc harsh, couleurs néon, style cartoon, style anime, peau plastique, visage déformé, clignotement, artefacts de glitch, texte, filigrane, logo, tremblement de caméra rapide, ralenti, écharpe devenant solide, visage lumineux, excès de scintillement, abus de flares d'objectif, feux d'artifice, ciel diurne
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106558771078029312/img/hZPtgXieC5nDSGJi.jpg" width="600" alt="Prompt vidéo fantastique : Tricoter le ciel">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11848)**
+
+**Auteur:** [DeCat](https://x.com/DeCat2025) | **Source:** [Link](https://x.com/DeCat2025/status/2106559472432795987) | **Publié:** Oct 4, 2026
+
+---
+### Prompt Vidéo Anime : Transformation Nettoyage
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt détaillé pour générer une vidéo verticale de style anime de 15 secondes, montrant la transformation satisfaisante d'une semelle de chaussure sale nettoyée avec de la mousse en spray et un frottement.
+
+#### 📝 Prompt
+
+```
+Court métrage anime japonais 2D vertical 9:16 de 15 secondes, transformation nettoyage satisfaisante. Look d'animation cel hand-drawn, contours à l'encre noire nets, couleurs vives, ombrage cel doux, montage style manga avec lignes de vitesse, trames de points halftone, effets de scintillement et flashs d'impact blancs. Production anime qualité studio, mouvement fluide, 24fps. Sujet : une semelle de chaussure usée et sale (taches brun-or, empreinte de pied) posée sur un comptoir en acier brossé, vue directement de dessus. Une main style anime (pas de visage, pas de corps, seulement la main et l'avant-bras visibles) tient une petite bouteille de spray noire avec un capuchon vert. Fond argenté froid avec lumière douce de fenêtre et minuscules gouttelettes d'eau. Plan 1 : Plan fixe de dessus, 3 secondes. La semelle sale est posée sur le comptoir en acier, une main l'aplatit. Poussière flottante, vignette halftone subtile aux coins, fines lignes de vitesse dérivant depuis les bords. Plan 2 : Gros plan de dessus, 3 secondes. Le spray pulvérise une brume fine sur la semelle, une épaisse mousse blanche éclate vers l'extérieur et s'étale sur la surface, les bulles capturant des étincelles. Un flash d'impact blanc d'une seule image avec des lignes d'encre radiales au premier jaillissement de mousse. Plan 3 : Plan serré de dessus, 3 secondes. La main frotte la mousse en mouvements circulaires, la saleté brun-or se dissout dans la mousse blanche et coule vers le bord en volutes semblables à de l'encre. Des lignes de mouvement dynamiques suivent la main. Plan 4 : Plan de dessus, 3 secondes. Un rinçage à l'eau claire emporte la mousse, la semelle est retournée d'un mouvement rapide de fouet, révélant une surface blanche brillante et propre. Des paillettes scintillantes et des traînées de brillance apparaissent dessus. Plan 5 : Lent zoom avant de dessus, 3 secondes. La semelle blanche impeccable brille sur le comptoir en acier, la main pose la bouteille dans le coin. Éclat final de scintillement, lumière douce et lumineuse, vignette screentone style manga, tenue pour la dernière mesure comme une couverture de manga. Audio : sifflement net du spray, crépitement de la mousse qui pétille, frottement rythmique, eau qui coule, carillon scintillant lumineux à chaque effet de brillance, beat lo-fi japonais doux et joyeux en fond. Pas de dialogue, pas de chant. À éviter : visages, look live-action réaliste, rendu 3D, texte, sous-titres, logos, noms de marques, doigts supplémentaires, mains déformées, clignotement. Court métrage anime japonais 2D vertical 9:16 de 15 secondes, transformation nettoyage satisfaisante, vue de dessus. Une main style anime (sans visage) vaporise de la mousse sur une semelle de chaussure brune sale posée sur un comptoir en acier inoxydable, frotte la mousse en cercles, rince, et la semelle devient blanche brillante et propre avec des effets de scintillement. Lignes de vitesse style manga, points halftone, et un flash d'impact blanc au premier jaillissement de mousse. Audio : sifflement du spray, crépitement de la mousse, frottement, eau, légers carillons scintillants, beat lo-fi doux. Pas de visages, pas de texte, pas de logos.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106554700040679424/img/6e1kkIefx27oeGQA.jpg" width="600" alt="Prompt Vidéo Anime : Transformation Nettoyage">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11847)**
+
+**Auteur:** [Nadya](https://x.com/nadyamaje) | **Source:** [Link](https://x.com/nadyamaje/status/2106554883235356947) | **Publié:** Oct 4, 2026
+
+---
+### Prompt de combat Wuxia Seedance 2.0 Mini
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt détaillé pour générer une scène de combat wuxia à haute tension entre deux cultivatrices épéistes féminines utilisant Seedance 2.0 Mini, mettant l'accent sur des mouvements tactiques synchronisés et une continuité cinématographique.
+
+#### 📝 Prompt
+
+```
+Texture photoréaliste cinématographique, combat dual à haute tension Xianxia chinois ancien pur.
+
+Cette fois, sortez complètement des modes précédents :
+
+Changements d'armes constants
+Rupture du combat singulier
+
+Le cœur devient :
+Les deux protagonistes sont elles-mêmes un système tactique dual en mouvement continu.
+L'une absorbe la pression venant de l'avant
+
+L'autre change la situation depuis le flanc
+Inversez immédiatement les rôles à la seconde suivante
+Le vrai frisson n'est pas dans le qi d'épée flashy, mais dans le fait que les deux protagonistes n'ont presque pas besoin de se retourner pour confirmer, pouvant constamment couvrir les angles morts l'une de l'autre, formant une compréhension tacite et une tension de plus en plus fortes.
+
+Verrouillage des personnages et des ressources
+
+Verrouillez strictement uniquement @image 1 et @image 2 comme les deux personnages principaux.
+
+@image 1 | Sœur Aînée Immortelle Épéiste
+
+La Sœur Aînée Immortelle Épéiste de l'image 1 maintient toujours l'original :
+
+Identité féminine adulte est-asiatique
+Visage
+
+Cheveux longs noirs mi-attachés
+Épingle à cheveux en jade blanc
+Proportion grande et élancée
+Hanfu en soie blanche brodée
+Manches larges superposées semi-transparentes
+Sceau de taille en argent
+Pendentif en jade
+Bottes en tissu blanc
+Une seule épée droite en argent
+@image 2 | Sœur Cadette
+La Sœur Cadette de l'image 2 maintient toujours l'original :
+
+Identité féminine adulte est-asiatique
+Visage
+
+Cheveux noirs tressés
+Hanfu en lin vert
+Ceinture foncée
+Épingle à cheveux en bois
+Chaussures en tissu noir
+Une seule épée en acier sombre
+Autres personnages
+Les ennemis, le Maître et les passants sont tous des personnages fonctionnels uniquement, aucun besoin de verrouillage complexe du visage ou des vêtements.
+
+ADN de l'environnement
+Toutes les images de référence d'arrière-plan et de lieu téléchargées lors de cette session déterminent conjointement le même ADN environnemental.
+
+Avant la génération formelle, analysez silencieusement les éléments compatibles parmi eux :
+
+Terrain
+
+Architecture
+
+Différences de hauteur
+
+Échelle spatiale
+Âge des matériaux
+Végétation
+Plans d'eau
+Météo
+Brume de montagne
+Éclairage
+Réflexions
+Profondeur atmosphérique
+Itinéraires praticables par les personnages
+Recombinez ensuite ces éléments en un espace nouveau unique mais crédible pour cette session.
+Principes d'espace et d'itinéraire
+Les 15 secondes entières doivent se dérouler dans un itinéraire de combat continu compréhensible, sans basculement soudain vers un autre monde.
+
+L'arrière-plan reste dynamiquement actif mais narrativement neutre :
+
+Vent
+
+Eau
+
+Brume
+
+Feuilles
+
+Ourlets de vêtements
+Réflexions
+Figures lointaines
+Toujours naturellement actifs.
+Seulement lorsque les personnages réellement :
+Marchent
+Entrent en collision
+
+Effleurent
+
+Armes touchant l'environnement
+
+Cela apparaît :
+Poussière
+Ondulations
+Débris
+
+Rayures
+
+Déplacement des vêtements
+etc. rétroaction physique passive.
+Strictement interdit
+Pont qui s'effondre soudainement
+Brume qui sauve soudainement quelqu'un
+
+Arbre qui bloque soudainement une épée
+
+Bâtiment qui s'effondre seul pour aider l'un des camps
+Structure segmentée
+0–5s | Plan large entrant en plan moyen
+La même Sœur Aînée Immortelle Épéiste en robe blanche et la même Sœur Cadette en robe verte se tiennent dos à dos.
+Trois épéistes ennemis ayant uniquement une fonction de combat avancent activement depuis différentes directions.
+0–1s
+
+Utilisez un panorama fixe grand-angle 24mm, permettant au public de comprendre immédiatement :
+
+Positions des cinq personnes
+
+Directions d'attaque
+
+Espace disponible pour le mouvement suivant
+La Sœur Cadette baisse la voix, ne dit qu'une ligne :
+
+"Cette fois, ne te retourne pas pour me sauver."
+La Sœur Aînée ne se retourne jamais tout au long, répond calmement :
+
+"D'accord."
+Dès que le dernier mot tombe, les ennemis lancent simultanément leur attaque sans avertissement.
+La caméra passe rapidement du 24mm fixe au mouvement en plan moyen-proche 35mm, mais ne tremble pas aléatoirement ; elle est amenée par les lignes de mouvement réelles des personnages.
+
+Premier engagement
+
+Un ennemi attaque la Sœur Aînée depuis le haut
+
+Un autre ennemi coupe dans l'angle mort de la Sœur Cadette simultanément
+
+Les deux femmes explosent dans des directions opposées presque instantanément :
+
+La Sœur Aînée change brièvement la ligne d'attaque de sa première épée puis avance directement sa position
+
+La Sœur Cadette abaisse son centre de gravité en effleurant la deuxième attaque, contre-attaque uniquement la trajectoire de l'arme de l'ennemi, ne s'arrête pas pour poser
+
+Les deux commencent immédiatement à migrer vers l'avant le long des itinéraires existant réellement dans l'environnement de référence.
+Un corps d'ennemi passant rapidement au premier plan remplit brièvement l'objectif, utilisant cette occlusion réelle pour compléter la première coupe cachée, le public ressent à peine que la position de la caméra a changé.
+5–10s | Suivi continu en plan moyen
+Maintenez :
+
+Même espace
+Mêmes deux protagonistes
+
+Même propriété des armes
+
+Les ennemis ne peuvent absolument pas faire la queue pour envoyer des attaques, ils continuent de :
+
+Poursuivre
+
+Encerceler
+
+Intercepter
+À ce moment-là :
+La Sœur Aînée supporte la pression continue de deux ennemis
+La Sœur Cadette affronte un autre ennemi
+
+Ne divisez pas l'écran en "deux combats séparés", laissez les deux lignes de combat s'entrelacer constamment.
+
+Premier complément tactique
+La Sœur Aînée cède délibérément un demi-pas, amenant un ennemi poursuivant dans la ligne d'attaque avancée de la Sœur Cadette.
+La Sœur Cadette ne regarde pas du tout la Sœur Aînée, seulement à l'instant où la pointe de l'épée de l'ennemi entre vraiment dans son espace, elle attrape brièvement et change la direction de l'arme avec son épée en acier sombre, libère immédiatement, continue de gérer la personne devant elle.
+
+Deuxième complément tactique
+Moins d'une seconde plus tard, l'exact inverse se produit à nouveau.
+Un autre ennemi lance une vraie attaque derrière la Sœur Cadette.
+La même Immortelle Épéiste en robe blanche ne se retourne même pas, la pointe de l'épée en argent entre depuis l'autre côté du cadre à grande vitesse, utilise une seule impact métallique extrêmement court pour pousser cette épée hors de la ligne dangereuse derrière la Sœur Cadette, puis l'épée en argent quitte immédiatement le cadre, la Sœur Aînée continue son propre combat.
+
+État central
+
+Les deux personnes ne confirment jamais les positions l'une de l'autre, pourtant savent exactement où se trouve l'autre.
+La caméra glisse doucement entre le premier plan et le plan médian, utilisant les éléments suivants passant devant l'objectif à grande vitesse pour former 2-3 transitions cachées extrêmement naturelles :
+
+Épaules des ennemis
+
+Grandes manches blanches
+Ourlet de vêtement vert
+
+Armes
+Exigences rythmiques
+Le rythme de l'action n'est pas une vitesse constante du début à la fin, mais :
+Deux échanges rapides
+
+Une collision d'armes véritablement pondérée
+
+Silence d'un demi-temps
+Puis explosion soudaine
+Le même Maître âgé reste dans une zone sûre lointaine observant, n'agit pas du début à la fin, ne résout les problèmes de personne.
+10–15s | Plan rapproché entrant en plan moyen final plus large
+
+Les trois ennemis découvrent que la poursuite individuelle est inefficace, changent stratégiquement simultanément pour la première fois, compressant l'espace depuis trois directions, forçant la Sœur Aînée et la Sœur Cadette vers la même zone centrale.
+Formez une impasse évidente.
+
+Les deux ne continuent pas à reculer.
+La même Immortelle Épéiste en robe blanche et la même Sœur Cadette en robe verte éclatent soudainement en sprint l'une vers l'autre simultanément.
+La caméra ne coupe pas immédiatement, laisse le public voir pleinement :
+Les deux lignes d'épaules se frôlent à grande vitesse, les corps se croisent avec une distance minimale.
+Au moment du croisement, les deux échangent complètement leurs positions avant-arrière.
+Et aucune ne regarde l'autre.
+
+Retournement tactique après échange
+
+La Sœur Aînée, en passant près de la Sœur Cadette, prend directement en charge l'ennemi attaquant initialement l'angle mort de la Sœur Cadette
+
+La Sœur Cadette coupe simultanément dans la ligne de l'ennemi poursuivant initialement la Sœur Aînée
+
+Une longue épée d'ennemi balaye toute la caméra à grande vitesse, formant une seule coupe dure d'occlusion d'arme évidente.
+
+Coupez vers un nouvel axe inversé :
+
+La Sœur Aînée se tient maintenant à la position que la Sœur Cadette vient de quitter
+
+La Sœur Cadette se tient aussi à la position que la Sœur Aînée vient de quitter
+Les deux complètent immédiatement deux ruptures inversées extrêmement courtes, directes, sans rotation ostentatoire :
+La pointe de l'épée en argent s'arrête en sécurité à un doigt du menton d'un ennemi
+
+L'épée en acier sombre s'arrête simultanément en sécurité à l'extérieur du poignet tenant l'épée d'un autre ennemi
+Le troisième ennemi prépare une nouvelle frappe, mais trouve les deux lignes d'attaque efficaces complètement bloquées par la position de son compagnon, ne peut que forcer une retraite.
+
+Moment d'arrêt soudain
+Auparavant dense :
+Sifflements
+
+Collisions métalliques
+
+Bruits de semelles glissant
+
+S'effondrent soudainement à ce moment.
+Ne laissant que :
+
+La respiration réelle des deux femmes
+
+Vibration résiduelle extrêmement légère des épées
+Ourlets de vêtements en soie tombant progressivement
+
+La Sœur Aînée regarde toujours l'ennemi devant elle, demande sans tourner la tête :
+
+"Toujours vivante ?"
+La Sœur Cadette marque une pause quasi nulle :
+
+"Plus facile que toi."
+Le coin de la bouche de la Sœur Aînée montre seulement un indice de sourire extrêmement bref et léger.
+Le même Maître distant expire finalement légèrement le souffle retenu tout du long, mais ne prêche pas, n'explique pas la relation entre les deux.
+
+État final
+
+Après confirmation de la victoire, absolument aucune pose de victoire.
+
+Les deux femmes abaissent les pointes de leurs épées simultanément, maintiennent leur cadence originale en continuant à avancer à travers le même espace ; les trois ennemis cèdent instinctivement la route.
+Cheveux, ourlets de vêtements, vent environnemental, brume d'eau, débris continuent leur mouvement naturel, l'image se termine directement alors que les personnages sont encore en mouvement vers l'avant.
+Exigences de caméra et de montage
+
+Durée totale stricte de 15 secondes
+
+Format paysage 16:9
+
+Maintenez les trois segments narratifs clairs 0–5s / 5–10s / 10–15s
+
+Dominance visuelle par un chemin de caméra continu et soyeux
+
+Le film entier permet seulement environ 4-5 coupes cachées ou coupes réellement déclenchées par des impacts
+
+Interdiction de découpage fragmenté fou pour créer une "impression d'action"
+
+Focus d'exécution Seedance 2.0 Mini
+Pour Seedance 2.0 Mini, contrôlez activement le budget du prompt.
+
+Le plus important est :
+
+Stabilité des identités des protagonistes Image 1, Image 2
+
+Stabilité de la propriété des deux épées
+
+Continuité des mains et des corps
+
+Continuité de la relation spatiale des deux personnes
+Continuité de l'itinéraire environnemental principal
+Les trois ennemis ont seulement besoin de maintenir :
+Épéistes ennemis de style ancien
+Apparence fonctionnelle de base
+Cela suffit, ne gaspillez pas l'attention du modèle pour verrouiller strictement les visages, les vêtements et les détails.
+
+Exigences sonores et de mouvement
+
+Dialogue mandarin natif synchronisé
+
+Effets audio spatiaux natifs synchronisés
+
+Renforcement de la focalisation :
+
+Sifflement bref de la pointe d'épée
+Collisions métalliques réelles
+Friction des semelles
+Tremblement des ourlets de vêtements en soie
+Respiration réelle des personnages
+
+Contraste sonore de silence soudain final
+
+Texture de mouvement
+Texture de mouvement cinématographique 24fps
+
+Flou de mouvement naturel
+
+Les actions doivent avoir clairement :
+Départ
+Accélération
+Application de force
+Changement de ligne
+Inertie
+Freinage
+
+Strictement interdit
+Téléportation
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106386731285245952/img/oyhTyHCArGSxRsNP.jpg" width="600" alt="Prompt de combat Wuxia Seedance 2.0 Mini">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11852)**
+
+**Auteur:** [Soran](https://x.com/Soranlan) | **Source:** [Link](https://x.com/Soranlan/status/2106388571863253309) | **Publié:** Oct 3, 2026
+
+---
+### Prompt Vidéo Publicitaire Chaussures de Football Haute Couture
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt détaillé pour générer une publicité vidéo de chaussures de football haute couture de 15 secondes avec Seedance 2.0, mettant en scène des crampons dorés métalliques sur un terrain ouvert.
+
+#### 📝 Prompt
+
+```
+Créez une publicité vidéo de 15 secondes pour des chaussures de football haute couture en utilisant les images de référence téléchargées pour les crampons de football dorés métalliques, les chaussettes blanches montantes et le style féminin vintage du football. Maintenez la cohérence du design, des couleurs, des textures et des proportions de la chaussure tout au long de la vidéo.
+
+Environnement : Un immense terrain de football extérieur ouvert, recouvert d'une herbe verte naturelle luxuriante, avec un horizon entièrement dégagé et un ciel pastel bleu et rose onirique. Le terrain doit paraître spacieux et intact. Pas de stade, pas de spectateurs, pas de bâtiments, pas de tribunes, pas d'environnement intérieur, pas de clôtures proches.
+
+0–3 sec : Plan cinématographique large d'une jeune femme footballeuse adulte se tenant seule au milieu du vaste terrain ouvert. Elle porte la même tenue élégante inspirée du vintage que dans les images de référence, avec des chaussettes blanches montantes et les crampons de football dorés métalliques. Elle pose doucement un pied sur un ballon de football. La caméra avance lentement vers elle tandis que la lumière du soleil se reflète magnifiquement sur les crampons.
+
+3–6 sec : Coupé à des gros plans dramatiques des crampons dorés. Son pied s'enfonce fermement dans l'herbe, les crampons pressent naturellement dans le gazon, et elle resserre les lacets. Un mouvement de caméra macro révèle la texture métallique, les coutures, la semelle et les crampons. Faites de la chaussure le héros visuel.
+
+6–10 sec : Elle commence à jouer au football sur le terrain entièrement ouvert, dribblant le ballon rapidement et avec assurance. Utilisez une caméra de suivi à angle bas centrée sur ses pieds et ses crampons alors qu'elle change de direction, accélère et contrôle le ballon. Sa tenue fluide bouge naturellement avec ses mouvements.
+
+10–13 sec : Elle prend un élan puissant et frappe le ballon de football avec le crampon doré. Capturez le tir en ralenti cinématographique, montrant la chaussure entrant en contact avec le ballon, des particules d'herbe volant naturellement, et le ballon filant à travers le terrain ouvert.
+
+13–15 sec : Plan héroïque premium. Le ballon de football roule jusqu'à s'arrêter à côté de ses crampons dorés. Elle se tient avec assurance en arrière-plan sur le vaste terrain vert tandis que la lumière chaude du soleil capte les chaussures métalliques. La caméra avance lentement vers les crampons et termine sur un gros plan net axé sur le produit.
+
+Style visuel : campagne de mode sportive de luxe, photographie éditoriale onirique, éclairage naturel cinématographique, mouvement réaliste de football, physique réaliste de l'herbe, stylisme féminin élégant, mouvement dynamique de caméra, détails macro de la chaussure, faible profondeur de champ, qualité commerciale premium, photoréalisme, texture filmique subtile.
+
+Important : Gardez les crampons de football dorés identiques tout au long de la vidéo. Pas de changement de design de chaussure, pas de déformation des pieds, pas de membres supplémentaires, pas de ballon déformé, pas d'apparence CGI artificielle. Toute la vidéo se déroule en extérieur sur un seul vaste terrain de football ouvert.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2106319331823165440/img/HRw0Mc4qjR1ZtqNR.jpg" width="600" alt="Prompt Vidéo Publicitaire Chaussures de Football Haute Couture">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11849)**
+
+**Auteur:** [Soulful Ai](https://x.com/soulful__ai) | **Source:** [Link](https://x.com/soulful__ai/status/2106321511212544372) | **Publié:** Oct 3, 2026
+
+---
+### Prompt Vidéo de Bataille Xianxia Épique
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt détaillé pour générer une animation 3D CG de haute qualité mettant en scène une épéiste féminine combattant des hordes de monstres dans un royaume céleste flottant, avec des effets visuels spécifiques et des mouvements de caméra.
+
+#### 📝 Prompt
+
+```
+[Paramètres Globaux de Qualité d'Image]
+
+UE5.4 Path Tracing, Lumen Global Illumination, Nanite, Matériaux Physiques PBR. Animation 3D CG de style Xianxia chinois de haute qualité, 8K, HDR, gestion des couleurs ACES, travail de caméra cinématographique, fluidité à grande vitesse 60fps.
+
+Destruction physique Chaos, débris rigides réalistes avec arcs gravitationnels, simulation de tissu, éclairage volumétrique, rayons divins (godrays), ombres de contact, réflexions par lancer de rayons.
+
+Au-dessus des neuf cieux avant l'aube, de nombreuses îles immortelles flottantes planent au milieu d'une mer de nuages sans fin.
+
+La scène se compose principalement de :
+
+Ponts en jade blanc
+Palais immortels brisés
+Plateformes de pierre flottantes
+Gigantesques statues brisées
+Mer de nuages
+Fissures dans le ciel étoilé
+Groupes d'îles immortelles en haute altitude
+
+La vue plongeante reste celle d'un fleuve étoilé profond, tandis que l'horizon lointain révèle la première lumière dorée de l'aube.
+
+Utilisation globale de tons indigo-gris peu saturés, blanc lune, bleu glace et or sombre.
+
+Les grandes compétences ont différentes couleurs de lumière élémentaire, mais maintiennent toujours le visuel bleu glace et or sombre de Hanjin comme base unifiée.
+
+Les fissures causées par le combat, les couches de glace, les marques de brûlure, les ponts brisés, les cratères géants, les marques d'épée et les débris de monstres s'accumulent continuellement et ne se régénèrent pas automatiquement.
+
+Le gravier, les fragments de jade blanc et les carapaces de monstres suivent la gravité et l'inertie réelles.
+
+La mer de nuages subira un roulement volumétrique dû aux ondes de choc, aux tempêtes et aux grandes compétences énergétiques.
+
+Les cheveux, les robes et les glands du personnage sont toujours affectés par les mouvements rapides et les flux d'air en haute altitude.
+
+16:9.
+
+[Protagoniste | Sœur Aînée · Épéiste Hanjin]
+
+Asset de personnage @Image1.
+
+Maintenir strictement :
+
+Visage féminin oriental froid.
+
+Longue chevelure noire attachée en queue de cheval haute.
+
+Trois marques bleues sur le front.
+
+Robe de combat et armure superposées bleu foncé-noir.
+
+Structure sculptée en argent sombre et cuivre-or.
+
+Glands bleus et ornements en jade.
+
+Les références de personnages sous plusieurs angles appartiennent au même rôle.
+
+Une seule sœur aînée dans tout le film.
+
+Interdit : échange de visage, changement de coiffure, modification des marques du front, modification de la morphologie, changement aléatoire de tenue ou génération de clones de personnages.
+
+[Arme | Hanjin]
+
+Asset d'arme @Image2.
+
+Hanjin est la seule arme dans tout le film.
+
+Maintenir la lame transparente en cristal bleu glace, les fissures de glace, la garde sculptée en argent sombre, la gemme bleue, la poignée d'épée sombre et le gland bleu.
+
+Hanjin est toujours le cœur de toutes les activations de grandes compétences.
+
+Différents éléments peuvent modifier les effets lumineux externes et la coloration environnementale de l'épée, mais ne peuvent pas redessiner l'arme physique.
+
+Interdit : duplication, maniement à deux mains, changements de couleur aléatoires, modification de la forme de l'épée ou génération du fourreau comme seconde arme.
+
+[Monstres | Horde Dévoreuse d'Étoiles]
+
+Il y a de nombreux monstres dévoreurs d'étoiles au design uniforme sur le champ de bataille.
+
+Les sbires communs sont principalement composés de :
+
+Corps vide obsidienne + carapace obsidienne sans visage + noyau stellaire violet + griffes.
+
+Des créatures dévoreuses d'étoiles volantes rapides existent dans l'air.
+
+Les unités de grande taille ont une taille significativement plus grande que les bâtiments des palais immortels, attaquant avec des paumes géantes, des rochers d'obsidienne et de l'énergie de noyau stellaire.
+
+Les marées de monstres se reconstituent depuis :
+
+Les fissures du ciel étoilé.
+
+L'arrière des îles flottantes.
+
+Sous la mer de nuages.
+
+Les ruines des palais immortels.
+
+Les monstres doivent activement :
+
+Poursuivre.
+
+Tuer.
+
+Encercler.
+
+Effectuer des raids aériens.
+
+Exercer une suppression à longue portée.
+
+Ils ne peuvent pas simplement rester immobiles autour du protagoniste en attendant d'être détruits.
+
+Lorsqu'ils sont vaincus, les monstres se désintègrent en éclats d'obsidienne, poussière d'étoiles violette et noyaux stellaires éteints.
+
+Les débris tombent sur les îles flottantes et les ruines et persistent.
+
+[Règles Globales de Combat]
+
+Hack-and-slash Xianxia 1vN à grande vitesse de 30 secondes.
+
+Pas de dialogue.
+
+Pas de cris de guerre.
+
+Pas de cri des noms de compétences.
+
+Pas de ralenti.
+
+Pas d'images figées.
+
+Pas de temps d'arrêt à l'impact.
+
+Les principaux éléments de combat sont :
+
+Mouvement rapide + Grandes compétences + Élimination massive de marées de monstres.
+
+Le film entier comprend dix explosions de grandes compétences.
+
+Les dix types de compétences doivent avoir des concepts visuels distincts, pas seulement le même qi d'épée avec des couleurs changées.
+
+Le système d'éléments de compétence peut couvrir :
+
+Fleuve Stellaire.
+
+Tonnerre.
+
+Tempête.
+
+Chute de Corps Célestes.
+
+Lumière Lunaire et Lumière Miroir.
+
+Phénomène Solaire.
+
+Grande Formation d'Épées.
+
+Fissure Spatiale.
+
+Rideau Aurore Céleste.
+
+Phénomène de Terminaison de la Voûte Céleste.
+
+Ces éléments n'ont pas besoin d'être exécutés dans l'ordre où ils apparaissent dans le texte.
+
+Les différents éléments doivent avoir des différences visuelles claires.
+
+[Mouvement Rapide]
+
+La Sœur Aînée est toujours dans un état de haute mobilité.
+
+Les principales méthodes de mouvement incluent :
+
+Charge rasante au sol.
+
+Demi-tour latéral rapide.
+
+Sauts entre les îles flottantes.
+
+Téléportation à courte distance.
+
+Ascension verticale.
+
+Plongeon.
+
+Cercle latéral.
+
+Changement de direction en plein air.
+
+La téléportation à courte distance conserve des images résiduelles bleu glace et or sombre avec un point final clair.
+
+Le personnage continue immédiatement à se battre dès qu'il atteint le point final.
+
+Les images résiduelles ne sont pas des clones physiques.
+
+Interdit : transformer le personnage en lignes d'énergie méconnaissables pendant longtemps.
+
+[Petites Compétences]
+
+Seules des actions auxiliaires extrêmement courtes sont utilisées entre les grandes compétences.
+
+Incluant :
+
+Qi d'épée à courte distance.
+
+Changement de position par pas.
+
+Taillades consécutives rapides.
+
+Lumière d'épée style tir ponctuel.
+
+Ces actions servent principalement à :
+
+Traiter les monstres à courte portée.
+
+Ajuster la position spatiale.
+
+Se connecter à la prochaine grande compétence.
+
+Ne pas utiliser beaucoup d'attaques normales pour gagner du temps.
+
+[Système de Compétences Géantes]
+
+Série Fleuve Stellaire
+
+Hanjin peut mobiliser le fleuve stellaire en haute altitude.
+
+Une énorme énergie de fleuve stellaire bleu glace entre sur le champ de bataille depuis la voûte céleste, formant un flux massif entre les îles flottantes et les ponts.
+
+Les hordes de monstres sont dispersées par le torrent du fleuve stellaire, et la mer de nuages roule des deux côtés après l'impact.
+
+Le champ de bataille peut laisser des traces gelées du fleuve stellaire ou des bandes d'énergie bleu glace.
+
+Série Tonnerre
+
+Les nuages de tonnerre céleste répondent à Hanjin.
+
+Un éclair massif descend sur la zone centrale de guerre.
+
+L'éclair peut former :
+
+Épées de tonnerre.
+
+Piliers de tonnerre.
+
+Réseaux d'arcs électriques.
+
+Grandes formations d'épées.
+
+Les hordes de monstres perdent l'équilibre et sont projetées continuellement dans la densité électrique.
+
+Les surfaces des îles flottantes montrent des marques de brûlure, d'électrocution et de fissuration.
+
+Série Tempête
+
+Hanjin brandit son épée provoquant une grande tempête bleu glace.
+
+Plusieurs tourbillons géants traversent les îles flottantes et la mer de nuages.
+
+La tempête peut simultanément soulever :
+
+Monstres.
+
+Gravier.
+
+Brume de nuages.
+
+Débris de palais immortels.
+
+La Sœur Aînée traverse rapidement l'intérieur de la tempête en continuant sa poursuite.
+
+L'environnement montre une érosion par le vent et des dommages rotationnels évidents.
+
+Série Corps Célestes
+
+Des anomalies se produisent dans le fleuve stellaire en haute altitude.
+
+De nombreux corps célestes avec des cristaux de glace, de la lumière stellaire ou de l'énergie or sombre tombent rapidement du ciel.
+
+Différentes îles flottantes subissent des impacts massifs continus.
+
+Produisant :
+
+Cratères géants.
+
+Brouillard froid.
+
+Gravier.
+
+Ondes de choc.
+
+Désintégration massive de la marée de monstres.
+
+Série Lumière Lunaire
+
+Des phénomènes visuels blancs lune à grande échelle apparaissent sur le champ de bataille.
+
+Peut être réalisé via :
+
+Miroirs lunaires.
+
+Réflexion de cristaux de glace.
+
+Lumière d'épée réfractée multidirectionnelle.
+
+Formant un réseau de taillades à grande surface.
+
+Les lumières de taillade coupent les marées de monstres depuis plusieurs directions simultanément.
+
+Certaines structures lunaires restent dans l'environnement après la fin de la compétence.
+
+Série Solaire
+
+Alors que l'aube approche, la première lumière solaire entre sur le champ de bataille.
+
+Hanjin peut mobiliser l'énergie solaire or sombre.
+
+Des oiseaux divins dorés géants, du feu d'épée soleil ardent, ou de grands phénomènes célestes dorés traversent le groupe d'îles flottantes.
+
+Le bleu glace et l'or sombre forment un fort chevauchement froid-chaud.
+
+De nombreuses hordes de monstres se désintègrent en poussière d'étoiles sous l'énergie solaire.
+
+Série Formation d'Épées
+
+De grandes places de palais immortels ou des sols d'îles flottantes sont activés par l'intention d'épée de Hanjin.
+
+De nombreuses épées géantes bleu glace émergent des bâtiments, des couches de glace ou du sol.
+
+L'échelle des épées est bien plus grande que les armes normales.
+
+Toute la zone forme rapidement une grande forêt d'épées ou une formation.
+
+La Sœur Aînée se déplace à grande vitesse dans la formation d'épées.
+
+Les monstres sont consécutivement repoussés, percés par des corps d'énergie, ou projetés en l'air depuis différentes positions.
+
+Série Fissure
+
+Hanjin peut brièvement déchirer l'espace du champ de bataille.
+
+D'immenses fissures spatiales noires se forment entre le ciel ou les îles flottantes.
+
+Les bords des fissures sont soulignés par de l'énergie bleu glace et or sombre.
+
+De nombreuses lumières d'épée ou coupures spatiales se propagent vers l'extérieur le long des bords des fissures.
+
+La Sœur Aînée peut changer rapidement de position autour de la fissure.
+
+Des résidus visuels évidents restent après la fin des fissures spatiales.
+
+Interdit : utiliser un trou noir ordinaire qui avale au lieu de fissures spatiales.
+
+Série Aurore
+
+De vastes aurores bleu glace, blanches lune et or pâle apparaissent dans le ciel élevé.
+
+Les aurores descendent de la voûte céleste, couvrant plusieurs îles flottantes.
+
+Les rideaux d'aurore ont une profondeur et une échelle spatiale énormes.
+
+Les monstres qui y entrent :
+
+Gèlent.
+
+Perdent l'équilibre.
+
+Se désintègrent en énergie.
+
+La Sœur Aînée fait la navette à grande vitesse entre différentes couches d'aurore.
+
+Cette étape amène progressivement l'ensemble du champ de bataille vers le climax final.
+
+[Phase Finale]
+
+Les visuels laissés par les combats précédents existent toujours dans la scène.
+
+Par exemple :
+
+Couches de glace.
+
+Marques de brûlure.
+
+Érosion par le vent.
+
+Cratères d'impact.
+
+Fragments de miroir.
+
+Forêts d'épées.
+
+Fissures spatiales.
+
+Après-lueur d'aurore.
+
+Débris de monstres.
+
+Dans la phase finale, ces éléments visuels n'ont pas besoin de tous devenir la même compétence directement, mais devraient produire un certain degré de résonance environnementale.
+
+Hanjin devient le cœur énergétique final.
+
+La Sœur Aînée libère un phénomène de terminaison à grande échelle couvrant le groupe d'îles flottantes central et le ciel.
+
+Peut se manifester comme :
+
+Anneaux stellaires géants.
+
+Ondes de choc de voûte céleste multi-couches.
+
+Lumière d'épée circulaire bleu glace et or sombre.
+
+Expansion d'énergie de ciel étoilé à grande portée.
+
+L'échelle de la compétence de terminaison doit être clairement supérieure aux compétences mono-élémentaires précédentes.
+
+Les visuels du fleuve stellaire, de l'éclair, du soleil/lune et de l'aurore peuvent brièvement apparaître dans l'effet de terminaison, mais ne peuvent pas rejouer entièrement les compétences précédentes.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2105684524055322625/img/NCD7cVCLLuAfyOyU.jpg" width="600" alt="Prompt Vidéo de Bataille Xianxia Épique">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11850)**
+
+**Auteur:** [Arvin](https://x.com/Arvin010717) | **Source:** [Link](https://x.com/Arvin010717/status/2106241257895084452) | **Publié:** Oct 3, 2026
+
+---
 ### Attaque du Monstre de Glace dans une Auberge de Ski
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -426,45 +1293,6 @@ Court-métrage cinématographique d'horreur-thriller situé dans une auberge d'u
 **[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11813)**
 
 **Auteur:** [auqib](https://x.com/auqibhabib) | **Source:** [Link](https://x.com/auqibhabib/status/2106235341548273915) | **Publié:** Oct 3, 2026
-
----
-### Vlog lifestyle coréen avec transitions en heure dorée
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt pour un vlog lifestyle ultra-réaliste de 60 secondes mettant en scène une femme coréenne, passant d'un café à une rue de la ville, puis au coucher du soleil sur un toit, et enfin à un café nocturne, en mettant l'accent sur l'ambiance et la cohérence visuelle.
-
-#### 📝 Prompt
-
-```
-Créez un vlog lifestyle cinématographique ultra-réaliste de 60 secondes mettant en scène une belle jeune femme coréenne aux longs cheveux brun foncé, au maquillage naturel doux et au sourire bienveillant. Elle porte une délicate robe blanche à motifs floraux avec un cardigan crème léger et tient une petite sacoche blanche.
-
-**Scène 1 :** Elle se tient devant un café moderne et esthétique, entourée de plantes vertes luxuriantes et de fenêtres vitrées. Elle tient un café glacé, en prend une gorgée, ajuste doucement ses cheveux et sourit naturellement à la caméra.
-
-**Scène 2 :** Plans serrés cinématographiques de son visage alors qu'elle savoure son café. Une lumière douce illumine son visage. Elle semble détendue et heureuse, avec des mouvements naturels subtils.
-
-**Scène 3 :** Elle marche dans une belle rue de la ville pendant l'heure dorée, portant la même tenue. La caméra la suit par derrière et capture des profils élégants.
-
-**Scène 4 :** Elle arrive sur un point de vue en rooftop surplombant un magnifique panorama urbain au coucher du soleil. Le soleil doré se couche lentement derrière les immeubles. Elle s'assoit sur un banc, contemple le coucher de soleil et profite de l'atmosphère paisible.
-
-**Scène 5 :** À l'heure bleue, elle marche dans une rue urbaine moderne éclairée par des lampadaires lumineux et des voitures qui passent. La caméra capture son beau profil et ses cheveux flottants dans un travelling cinématographique fluide.
-
-**Scène 6 :** Café extérieur nocturne avec des guirlandes lumineuses chaudes suspendues au-dessus. Elle est assise à une table en bois confortable avec son café glacé et sa sacoche. Elle sourit à la caméra, lève son verre, en prend une gorgée et fait un signe d'au revoir avec une expression joyeuse.
-
-**Style visuel :** Ultra-réaliste 4K, texture de peau photoréaliste, expressions faciales naturelles, profondeur de champ cinématographique, éclairage doux, tons chauds de l'heure dorée, joli bokeh, mouvements de caméra fluides, étalonnage professionnel, physique réaliste des cheveux, mouvements corporels naturels, vlog lifestyle coréen esthétique, atmosphère onirique et paisible.
-
-**Caméra :** Mélange de plans larges, plans moyens, gros plans, détails en ralenti, travellings fluides et transitions cinématographiques douces.
-
-**Ambiance :** Paisible, romantique, cosy, élégante, vie quotidienne onirique.
-
-Maintenez une parfaite cohérence du personnage, des traits du visage identiques, une coiffure, des vêtements et des accessoires constants dans toutes les scènes. Pas de mains déformées, pas de scintillement, pas de changement de visage, pas de mouvements unnatural, pas de texte, pas de filigrane.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2106230180654280704/img/_LwGOY5NSucEMO71.jpg" width="600" alt="Vlog lifestyle coréen avec transitions en heure dorée">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=11812)**
-
-**Auteur:** [Zorvia](https://x.com/ZorviaLux) | **Source:** [Link](https://x.com/ZorviaLux/status/2106230270282313997) | **Publié:** Oct 3, 2026
 
 ---
 ### Souvenir d'enfance de football de rue cinématographique
@@ -4948,123 +5776,6 @@ Création d'une vidéo cinématographique de transformation mode mettant en scè
 **Auteur:** [ayzalnoor](https://x.com/ayzalnooor24521) | **Source:** [Link](https://x.com/ayzalnooor24521/status/2100456445900710158) | **Publié:** Sep 17, 2026
 
 ---
-### Vlog du jour de paie en Corée
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt pour un mini-vlog UGC ultra-réaliste de 30 secondes mettant en scène une femme coréenne célébrant le jour de sa paie, avec des instructions détaillées sur les scènes et le style visuel.
-
-#### 📝 Prompt
-
-```
-Créez un mini-vlog UGC ultra-réaliste de 30 secondes mettant en scène une jeune femme coréenne stylée documentant le jour le plus heureux après avoir reçu son salaire.
-
-Scène 1 — 0–5 sec :
-Selfie matinal dans la chambre. Elle se réveille, vérifie son téléphone, voit que son salaire a été crédité et sourit instantanément d'excitation. Esthétique naturelle « lit défait », douce lumière du matin. Elle regarde la caméra et dit joyeusement : « Mon salaire est enfin arrivé ! »
-
-Scène 2 — 5–9 sec :
-Transition rapide vers sa préparation. Elle prend une douche rafraîchissante, fait une routine soin simple, coiffe ses cheveux et enfile une tenue tendance style « baddie ». Plans selfie devant le miroir, mouvement réaliste de téléphone à main levée.
-
-Scène 3 — 9–19 sec :
-Elle se dirige vers un centre commercial moderne et luxueux. Elle entre en se filmant, parcourt les boutiques de mode, essaie des vêtements, examine des accessoires et porte joyeusement des sacs de shopping. Incluez des plans volés rapides, des expressions enthousiastes, un éclairage réaliste du centre commercial et un tremblement naturel de la caméra UGC.
-
-Scène 4 — 19–25 sec :
-Elle s'assoit dans un café cosy à l'intérieur du centre commercial, ses sacs de shopping posés à côté d'elle. Elle commande une tasse de thé chaud, filme le service du thé, en boit une gorgée et sourit avec satisfaction.
-
-Scène 5 — 25–30 sec :
-Plan à l'heure dorée / en soirée. Elle marche à l'extérieur du centre commercial avec ses sacs et son thé, tourne la caméra vers elle-même, sourit et dit : « Le jour de la paie est officiellement mon jour préféré. » Finissez par un rire décontracté et un mouvement naturel de la caméra.
-
-Style visuel : séquence smartphone ultra-réaliste, vlog UGC authentique, esthétique mode coréenne, énergie confiante « baddie », cinématographique mais pas trop léché, texture de peau naturelle, éclairage réaliste, transitions fluides, sons d'arrière-plan subtils, expressions faciales réalistes, caméra téléphonique à main levée, format vertical 9:16 prêt pour les réseaux sociaux, qualité 4K.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100452060642852864/img/R0oS8fEzuAmWvRq5.jpg" width="600" alt="Vlog du jour de paie en Corée">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=10952)**
-
-**Auteur:** [Noor 🌸](https://x.com/Noor_ul_ain43) | **Source:** [Link](https://x.com/Noor_ul_ain43/status/2100452341996728475) | **Publié:** Sep 17, 2026
-
----
-### Portrait de Guerrière en Arts Martiaux Coréens
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Une invite pour générer une scène cinématographique ultra-réaliste d'une jeune femme féroce vêtue d'un habit traditionnel d'arts martiaux coréens.
-
-#### 📝 Prompt
-
-```
-Scène cinématographique ultra-réaliste d'une jeune femme au regard intense, se tenant avec assurance dans une cour traditionnelle dédiée aux arts martiaux coréens. Elle porte un uniforme noir d'arts martiaux à col blanc, ses cheveux courts et sombres bougent naturellement sous l'effet du vent. Son expression est concentrée et déterminée, baignée par une lumière solaire chaude et dramatique. En arrière-plan, on distingue une architecture coréenne traditionnelle et des murs en pierre. L'image présente un léger flou de mouvement, une texture de peau réaliste, des détails précis sur le tissu, une faible profondeur de champ, un étalonnage colorimétrique cinématographique, un contraste élevé, une résolution 8K HDR, un rendu professionnel type film still, une atmosphère dynamique, une prise de vue au objectif 35 mm et une composition verticale 9:16.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100444654605070336/img/BWb5GjmmEgP2Mxrn.jpg" width="600" alt="Portrait de Guerrière en Arts Martiaux Coréens">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=10955)**
-
-**Auteur:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2100444829880914240) | **Publié:** Sep 17, 2026
-
----
-### Prompt Vidéo Vlog Été Coréen
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt détaillé pour la génération vidéo avec Seedance 2.0, créant une scène d'été coréen paisible où une jeune femme mange de la pastèque au bord d'un ruisseau.
-
-#### 📝 Prompt
-
-```
-Une belle jeune femme coréenne portant une robe d'été blanche et douce ainsi qu'un chapeau de soleil en paille naturelle, incarnant une esthétique de mode de vie coréenne fraîche et élégante. Elle a des cheveux courts, foncés et légèrement ondulés, un maquillage minimaliste et une expression naturelle et douce. Elle profite d'une journée d'été paisible au bord d'un magnifique ruisseau de montagne. Assise près de l'eau, elle mange calmement une tranche de pastèque et apprécie l'atmosphère rafraîchissante. Elle se promène lentement dans cet espace extérieur cosy, ajustant son chapeau et admirant le paysage. La lumière du soleil filtre doucement à travers les arbres, créant des reflets cinématographiques chauds et des flares naturels. Un rideau blanc bouge délicatement dans la brise estivale à côté de la maison en bois. Elle porte un petit panier de pique-nique et savoure le calme des environs champêtres. La caméra capture des gros plans, des plans moyens et des plans larges cinématographiques fluides. Style vlog d'été coréen photoréaliste, chaleureux, onirique et paisible, couleurs naturelles, éclairage doux, mouvement réaliste et qualité cinématographique 4K.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100423624889114624/img/_Dz_jZArR-f_XNwO.jpg" width="600" alt="Prompt Vidéo Vlog Été Coréen">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=10951)**
-
-**Auteur:** [Sahil Verma](https://x.com/sahilvermaai) | **Source:** [Link](https://x.com/sahilvermaai/status/2100423982898115050) | **Publié:** Sep 17, 2026
-
----
-### Prompt de combat de dragon Seedance 2.0
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt détaillé pour une bataille fantastique cinématographique sur Seedance 2.0, mettant en scène un guerrier et un dragon dans un ciel orageux, avec des instructions spécifiques de timing et d'effets visuels.
-
-#### 📝 Prompt
-
-```
-Créez une vidéo de combat fantastique cinématographique de 15 secondes correspondant à la référence : 0–1 s, un guerrier futuriste en armure flotte dans un ciel sombre et orageux tandis qu'un énorme dragon noir vole derrière lui ; 1–2 s, une énergie bleue lumineuse entoure le guerrier alors que la caméra s'approche lentement ; 2–3 s, le dragon traverse rapidement les nuages et le guerrier se tourne vers lui ; 3–5 s, le dragon ouvre la gueule et crache un puissant jet de feu orange vif tandis que le guerrier recule à travers la tempête ; 5–7 s, gros plan dramatique du visage du dragon et de ses yeux lumineux alors qu'il poursuit le guerrier ; 7–9 s, le guerrier affronte le dragon en plein air avec des éclairs qui illuminent l'arrière-plan et une énergie bleue émanant de son armure ; 9–11 s, le dragon attaque à nouveau avec un feu intense tandis que le guerrier esquive à grande vitesse à travers les nuages ; 11–13 s, les deux personnages volent l'un vers l'autre dans une confrontation aérienne épique, éclairés par le feu et l'énergie bleue au milieu de la tempête ; 13–15 s, le guerrier disparaît soudainement dans les nuages alors que le dragon le suit, finissant sur un large plan dramatique du ciel sombre, CGI cinématographique réaliste, armure détaillée, ailes massives du dragon, nuages volumétriques, mouvement dynamique de la caméra, éclairage dramatique, haute définition, qualité 4K.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100417296351346688/img/OBZDOXdtVRddRk7O.jpg" width="600" alt="Prompt de combat de dragon Seedance 2.0">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=10949)**
-
-**Auteur:** [Maha](https://x.com/Aiwithmaha) | **Source:** [Link](https://x.com/Aiwithmaha/status/2100417339716141116) | **Publié:** Sep 17, 2026
-
----
-### Vidéo de bris d'écran Seedance 2.0 Desktop
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt détaillé pour Seedance 2.0 générant une vidéo où une femme brise le verre de l'écran d'ordinateur avec un couteau, puis répare les dégâts en baissant la luminosité.
-
-#### 📝 Prompt
-
-```
-Utilisez l'image du bureau Apple fournie comme première image, format 16:9, durée de 15 secondes, caméra fixe, plan-séquence continu. Maintenez la cohérence des traits du visage de la femme, de son costume noir d'assassin, de sa coiffure et de l'arrière-plan de brume bleue ; conservez les icônes du bureau, la barre de menu et le Dock.
-0-4s : La femme dans le fond d'écran du bureau bouge soudainement, l'air calme, lançant et rattrapant continuellement deux fois vers le haut le même couteau court, la lame tournant en plein air, mouvements naturels, cheveux flottant doucement.
-4-6s : Au troisième lancer, elle perd le contrôle, le couteau glisse de sa main, la pointe volant vers l'audience, frappant le verre de l'écran. Accompagné d'un son net de verre brisé, des fissures en toile d'araignée se propagent instantanément depuis le point d'impact, couvrant le devant du personnage et l'interface utilisateur du bureau, l'image tremble brièvement une fois.
-6-9s : La femme se fige d'abord, puis ouvre grand les yeux, fronce les sourcils, montrant une anxiété et une panique évidentes après avoir causé des problèmes. Elle regarde les fissures, puis l'audience, tentant frénétiquement de couvrir les fissures mais échoue.
-9-14s : Elle pense soudainement à une solution, tend la main pour cliquer sur le Centre de contrôle dans le coin supérieur droit, ouvre le contrôle de la luminosité de l'écran avec l'icône soleil, et fait glisser précipitamment le curseur de luminosité vers la gauche. Chaque opération assombrit synchroniquement tout l'écran, les personnages, l'arrière-plan, les icônes et les fissures s'estompent progressivement dans l'obscurité ; pendant l'opération, elle regarde l'audience avec culpabilité, finissant par baisser la luminosité au minimum.
-14-15s : L'écran devient complètement noir, maintenu pendant une seconde, aucun texte ou logo n'apparaît. Audio : Commence avec une légère musique instrumentale d'arts martiaux et le sifflement du couteau qui tourne ; la musique s'arrête abruptement lors de l'impact, mettant en évidence le son du verre brisé ; puis conserve les sons de froissement frénétique de tissu et de clics d'interface, finissant silencieusement. Contraintes : Pas de coupures, pas de changements de personnage, pas de changements d'arrière-plan, pas de nouveaux personnages ou couteaux, pas de cadre physique d'ordinateur ou de clavier visible. Les fissures restent fixes sur le plan du verre de l'écran. Le blackout final doit être déclenché par la femme opérant le contrôle de luminosité, et non par une coupure brutale au noir.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2100404208872919040/img/JMxfQF64saAPo_ae.jpg" width="600" alt="Vidéo de bris d'écran Seedance 2.0 Desktop">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=10956)**
-
-**Auteur:** [探路AI](https://x.com/TanLuAI) | **Source:** [Link](https://x.com/TanLuAI/status/2100405863123173606) | **Publié:** Sep 17, 2026
-
----
 ---
 
 ## 📚 Plus de prompts disponibles
@@ -5126,6 +5837,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-10-04T04:49:57.219Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-10-05T04:47:55.187Z</sub>
 
 </div>
