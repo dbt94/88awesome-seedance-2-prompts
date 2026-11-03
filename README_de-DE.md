@@ -68,9 +68,9 @@ Warum unsere Galerie nutzen?
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **6624** |
+| 📝 Gesamtanzahl Prompts | **6640** |
 | ⭐ Ausgewählte Prompts | **6** |
-| 🔄 Zuletzt aktualisiert | **2026-11-02** |
+| 🔄 Zuletzt aktualisiert | **2026-11-03** |
 
 ---
 
@@ -361,6 +361,3442 @@ Ultra-realistisch, inspiriert von der Energie von Fast and Furious, fotorealisti
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Seedance 2.0 Mini Cinematic Xianxia Horror Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein detaillierter Prompt für Seedance 2.0 Mini zur Generierung eines 15-sekündigen kinematografischen Videos im Genre des östlichen Übernatürlichen/Xianxia. Er umfasst eine komplexe Erzählstruktur mit drei Szenen, Charakterkonsistenz durch Referenzbilder sowie spezifische Kamerabewegungen und Lichteffekte.
+
+#### 📝 Prompt
+
+```
+Seedance 2.0 Mini | „Beantworte diesen Ruf nicht"
+
+Modell: Seedance 2.0 Mini
+Dauer: Exakt 15 Sekunden
+Seitenverhältnis: 16:9 Querformat
+Genre: Eastern-Folklore-Horror / Antikes Xianxia / Psychologischer Suspense / Übernatürlicher Thriller
+Struktur: Drei durchgehende, klare filmische Einstellungen mit jeweils eigener narrativer Funktion.
+
+I. Gesamtstil und kreative Ausrichtung
+Filmreifer, hyperrealistischer Xianxia im chinesischen Stil.
+Dieses Projekt vereint:
+Eastern-Folklore-Horror
+Psychologischen Suspense
+Antikes Xianxia
+zu einem einheitlichen Genre-Ausdruck.
+
+Kernkonzept der Regie
+Nutze die Spannungsführung ausgereifter Thriller:
+Lass das Publikum zunächst an ein falsches Gefahrenziel glauben und vollziehe dann über Ton, Blicke und eine winzige körperliche Veränderung eine Informationsumkehr.
+Prinzipien des Horrors
+Verlasse dich nicht darauf, dass Figuren die Wahrheit langatmig erklären.
+Verlasse dich nicht auf übertriebene Monster-Transformationen, um Horror zu erzeugen.
+Das wirklich Unheimliche ist:
+Die instinktive Reaktion eines Menschen, wenn er die vertrauteste Stimme hört.
+
+II. Kernhandlung und Suspense-Umkehr
+Oberflächliche Handlung
+Ein Unterwelt-Bote taucht plötzlich auf.
+Er behauptet, er sei heute Nacht gekommen, um die Schwert-Unsterbliche im weißen Gewand zu holen.
+Die jüngere Schwester tritt instinktiv vor, um ihre ältere Schwester zu beschützen.
+Die wahre Umkehr
+Die Person, die der Unterwelt-Bote wirklich holen will, war von Anfang an die jüngere Schwester.
+Übernatürliche Falle
+Die Seelenlock-Laterne in der Hand des Unterwelt-Boten kann die Stimmen vertrauter Personen imitieren.
+Nur wenn das Ziel instinktiv antwortet, gibt der Docht einen roten Seelenfessel-Faden frei, der dessen Seele bindet.
+Schlüsselkausalität
+Die Stimme der älteren Schwester erklingt aus der Laterne → die jüngere Schwester antwortet instinktiv → die Seelenlock-Laterne setzt den roten Faden frei → die jüngere Schwester wird zum Ziel der Seelenernte.
+Genau in diesem Moment muss die ältere Schwester den Seelenfessel-Faden durchtrennen.
+Letzte Enthüllung
+Wird durch einen einzigen Satz offenbart:
+„Es wartet darauf, dass ich dich rufe."
+Abschluss-Suspense
+Der Unterwelt-Bote geht nicht.
+Der Kurzfilm muss genau an dem Punkt enden, an dem:
+Der erste Angriff scheitert, die eigentliche Gefahr aber noch nicht vorbei ist.
+
+III. Figurenidentität und Festlegung der Kern-Assets
+Figur A | @Image1 | Ältere Schwester, die Schwert-Unsterbliche
+Identität
+Dasselbe erwachsene ostasiatische weibliche Model, 25–30 Jahre alt.
+Die Identität der Figur aus dem Referenzbild muss strikt übernommen werden.
+Festes Erscheinungsbild
+Helles, natürliches, weiches ovales Gesicht
+Leuchtend dunkle Mandelaugen
+Langes schwarzes Haar, halb hochgesteckt
+Mit einer weißen Jade-Haarnadel fixiert
+Große, schlanke Statur
+Festes Kostüm
+Weißes, besticktes Seiden-Hanfu
+Halbtransparente, geschichtete weite Ärmel
+Silberner Taillengürtel
+Jade-Anhänger
+Weiße Stoffstiefel
+Exklusive Waffe
+Das einzelne silberne Langschwert.
+Fähigkeiten und Darstellung
+Die Stärke der älteren Schwester zeigt sich durch:
+Beobachtungsgabe
+Reaktionsschnelligkeit
+Präzises Urteilsvermögen
+Dieser Film enthält keine komplexen, durchgehenden Kampfszenen.
+Ihre Schwertkunst wird ausschließlich durch eine einzige präzise Bewegung demonstriert: das Durchtrennen des Seelenfessel-Fadens.
+
+Figur B | @Image2 | Jüngere Schwester
+Identität
+Dasselbe erwachsene ostasiatische weibliche Model, 20–25 Jahre alt.
+Vom Referenzbild müssen strikt beibehalten werden:
+Dasselbe Gesicht
+Gesichtsstruktur
+Frisur
+Körperbau
+Kostüm
+Festes Erscheinungsbild
+Rundes, strahlendes, fröhliches Gesicht
+Schwarzes Haar in Zöpfen
+Zierliche Statur
+Festes Kostüm
+Grünes Leinen-Hanfu
+Dunkler Gürtel
+Hölzerne Haarnadel
+Schwarze Stoffschuhe
+Exklusive Waffe
+Das einzelne dunkle Stahlschwert.
+Waffenbeschränkung für dieses Segment
+Die jüngere Schwester zieht ihr Schwert nicht.
+Drei zentrale Darstellungsmomente
+Sie hört die Gefahr und stellt sich aktiv vor die ältere Schwester.
+Sie hört eine vertraute Stimme und dreht sich instinktiv um.
+Sie erkennt, dass sie das wahre Ziel ist – der Wechsel von Schock zu Klarheit.
+
+IV. Neue Nebenfiguren und Assets der Seelenlock-Laterne
+Unterwelt-Bote
+Identität
+Erwachsener Mann.
+Festes Erscheinungsbild
+Tiefgraue bis schwarze antike Roben
+Bronzene Halbmaske mit Altersspuren
+Dezente Abnutzungsspuren auf der Maskenoberfläche
+Charakterausstrahlung
+Kalt
+Zurückhaltende Bewegungen
+Stabiler Gesichtsausdruck und Haltung
+Keine übertriebenen Geisterfratzen, wie sie in modernen Horrorfilmen üblich sind.
+Kern-Requisite | Antike bronzene Seelenlock-Laterne
+Der Unterwelt-Bote hält in seiner linken Hand eine kleine, antike bronzene Seelenlock-Laterne.
+Festes Erscheinungsbild
+Bronzener Laternenkörper
+Feste Größe
+Feste Farbe
+Fester Tragering
+Fester Docht
+Feste Lichtwirkung
+Flammen-Einstellung
+Im Inneren der Laterne brennt eine einzelne, fahlweiße Flamme.
+Bei Bedarf kann die Flamme dunkelrot werden.
+Asset-Kontinuität
+Es muss durchgehend dieselbe Laterne sein.
+Form, Größe, Farbe, Tragering, Docht und Lichteffekte müssen während des gesamten Films konsistent bleiben.
+Spezialfähigkeit der Seelenlock-Laterne
+Stimmenimitation
+Der Unterwelt-Bote kann die Laterne eine Stimme abgeben lassen, die exakt der der älteren Schwester entspricht.
+Auslöseregel
+Der Docht gibt den roten Seelenfessel-Faden erst frei, wenn die jüngere Schwester auf diese Stimme reagiert.
+Lippensynchronisations-Regel
+Der Unterwelt-Bote selbst muss den Mund nicht öffnen, um die ältere Schwester zu imitieren.
+Weitere Nebenfiguren
+Älterer Meister
+Befindet sich im Hintergrund und fungiert als natürlicher Zeuge.
+Zwei Sekten-Jünger
+Befinden sich im Hintergrund und fungieren als natürliche Zeugen.
+Nebenfiguren dürfen den beiden Protagonistinnen und dem Unterwelt-Boten keinen dramatischen Raum stehlen.
+
+V. Hintergrund und Umgebungs-DNA
+Alle hochgeladenen Referenzbilder für Hintergründe und Schauplätze definieren gemeinsam eine real existierende Xianxia-Welt.
+Umgebungsplanung
+Aus den Referenzbildern extrahieren und beibehalten:
+Reales Terrain
+Architektonisches Layout
+Beziehungen der Hauptlandmarken
+Materialalterung
+Räumliche Dimensionen
+Vegetation
+Gewässer
+Wetter
+Nebel/Wolken
+Hauptrichtung des Lichts
+Reflexionsbeziehungen
+Farbpalette
+Lufttiefe
+Kamera-Positionierung und räumliche Organisation
+Neu gestaltet werden dürfen:
+Kameraposition
+Schärfentiefe
+Objektausrichtung
+Figurenpositionierung
+Aber die gesamten 15 Sekunden müssen im selben durchgehenden Raum stattfinden.
+Prinzip des lebendigen Hintergrunds
+Der Hintergrund bleibt natürlich lebendig.
+Natürliche Dynamik
+Natürlicher Wind bewegt Haarsträhnen
+Natürlicher Wind bewegt Ärmel
+Wasser fließt kontinuierlich
+Bergnebel verändert sich langsam
+Wolkenschichten verändern sich langsam
+Bäume und Vegetation bewegen sich in angemessenem Rahmen
+Figuren im Hintergrund bewegen sich natürlich
+Narrative Neutralität der Umgebung
+Der Hintergrund darf die Geschichte nicht aktiv auslösen.
+Einziger übernatürlicher Handlungsgegenstand
+Der einzige Gegenstand, der in dieser Szene die übernatürliche Handlung aktiv vorantreibt, ist die Seelenlock-Laterne in der Hand des Unterwelt-Boten.
+
+VI. Vollständige 15-Sekunden-Struktur mit drei Einstellungen
+0–5s | Einstellung 1: Wer wird heute Nacht geholt?
+Narrative Funktion
+Etabliert das falsche Gefahrenziel und lässt das Publikum glauben, die ältere Schwester solle geholt werden.
+Einstellungsgröße
+Totale.
+Kamerabewegung
+Leichte Untersicht, langsames Vorwärtsfahren entlang der Konfrontationslinie zwischen den Figuren.
+Eröffnungsraum und Figurenpositionierung
+Zu Beginn stehen die ältere und die jüngere Schwester Seite an Seite in einem geografisch logischen Durchgangsbereich des Referenzhintergrunds.
+Im Hintergrund:
+Älterer Meister
+Zwei Sekten-Jünger
+Auftritt des Unterwelt-Boten
+Ein Unterwelt-Bote mit bronzener Halbmaske geht langsam von vorn auf sie zu.
+In seiner linken Hand hält er eine alte Bronzelaterne.
+Mit jedem Schritt schwingt die Laterne natürlich durch die Körperträgheit mit.
+Doch die fahle Flamme im Docht bleibt unnatürlich stabil.
+Handlungspunkt 1: Das Ziel verkünden
+Der Unterwelt-Bote bleibt wenige Schritte vor den beiden Frauen stehen.
+Sein Blick scheint auf der Schwert-Unsterblichen im weißen Gewand zu ruhen.
+Er sagt mit leiser Stimme:
+[Unterwelt-Bote] „Heute Nacht bin ich wegen der Schwert-Unsterblichen im weißen Gewand hier."
+Handlungspunkt 2: Die jüngere Schwester schützt aktiv
+Die jüngere Schwester zögert kaum.
+Sie macht einen halben Schritt nach vorn und stellt sich schützend vor die ältere Schwester.
+Leicht stirnrunzelnd blickt sie den Boten direkt an:
+[Jüngere Schwester] „Wie kannst du es wagen?"
+Handlungspunkt 3: Visueller Hinweis auf das wahre Ziel
+Der Bote wird nicht wütend.
+Er greift auch nicht sofort an.
+Er wendet lediglich langsam seinen Blick von der Schwert-Unsterblichen im weißen Gewand ab.
+Und lässt ihn schließlich auf dem Gesicht der jüngeren Schwester ruhen.
+Kameraanforderung
+Dieser Blick darf nicht durch übertriebene Kamera-Zooms betont werden.
+Er soll ein Detail sein, das:
+Natürlich wirkt, vom Publikum aber im Nachhinein verstanden wird.
+Ende der Einstellung
+Die Kamera schwenkt am Arm des Boten entlang zur Seelenlock-Laterne.
+
+5–10s | Einstellung 2: Diese Stimme stimmt nicht
+Narrative Funktion
+Löst die Falle aus und vollzieht die erste Informationsumkehr durch die Diskrepanz zwischen einer vertrauten Stimme und ihrer tatsächlichen Quelle.
+Einstellungsgröße
+Amerikanische Halbnahaufnahme (Medium Close-up).
+Kamerabewegung
+Leichter seitlicher Kameraschwenk (Tracking).
+Folgende Elemente müssen in klarer räumlicher Beziehung bleiben:
+Seelenlock-Laterne
+Jüngere Schwester
+Die echte ältere Schwester hinter ihr
+Kontinuitätsanforderungen
+Beibehalten werden müssen:
+Derselbe Unterwelt-Bote
+Dieselbe bronzene Seelenlock-Laterne
+Derselbe Ort
+Handlungspunkt 1: Die Stimme der älteren Schwester kommt aus der Laterne
+Der Bote hebt die Seelenlock-Laterne langsam ein wenig an.
+Er öffnet den Mund nicht.
+Doch plötzlich erklingt eine extrem vertraute Stimme aus dem Docht.
+Es ist die Stimme der älteren Schwester.
+Sanfter Tonfall, so als würde sie ihren Namen ganz beiläufig rufen:
+[Seelenlock-Laterne · Stimme der älteren Schwester] „Ah Ning, dreh dich um."
+Quelle und Lippensynchronisation
+Die echte ältere Schwester steht direkt hinter der jüngeren Schwester.
+Ihre Lippen bewegen sich nicht.
+Der Ton kommt aus der Bronzelaterne in der Hand des Unterwelt-Boten.
+Handlungspunkt 2: Die jüngere Schwester reagiert instinktiv
+Weil die Stimme so vertraut ist, reagiert der Körper der jüngeren Schwester schneller als der Verstand.
+Sie dreht instinktiv den Kopf zur Seite.
+Antwortet leise:
+[Jüngere Schwester] „Ältere Schwester?"
+Handlungspunkt 3: Die Seelenernte-Falle schnappt zu
+Fast in dem Moment, als das letzte Wort verklingt:
+Die ursprünglich fahle Flamme in der Seelenlock-Laterne wird plötzlich dunkelrot.
+Ein extrem dünner, dunkelroter Seelenfessel-Faden schießt aus dem Docht hervor.
+Auf einer klaren räumlichen Bahn wickelt er sich blitzschnell um das rechte Handgelenk der jüngeren Schwester.
+Physischer Zustand des Seelenfessel-Fadens
+Der rote Faden spannt sich leicht
+Die rechte Hand der jüngeren Schwester wird gezogen
+Ihr Körper neigt sich instinktiv nach vorn
+Beschränkungen der Körperdarstellung
+Keine:
+Übertriebene Schwerelosigkeit
+Unlogisches Schweben
+Handlungspunkt 4: Die ältere Schwester bemerkt die Anomalie
+Die Schwert-Unsterbliche im weißen Gewand bemerkt die Anomalie sofort.
+Ihr Blick wandert augenblicklich vom Handgelenk der jüngeren Schwester zum Docht.
+Ihre Augen werden abrupt scharf.
+Ende der Einstellung
+Schnitt in dem Moment, in dem die ältere Schwester mit der rechten Hand fest ihren Schwertgriff umfasst.
+
+10–15s | Einstellung 3: Also war ich es, auf die gewartet wurde
+Narrative Funktion
+Die ältere Schwester durchtrennt die Seelenbindung, die jüngere Schwester erkennt, dass sie das wahre Ziel ist, und die ungelöste Gefahr bleibt bestehen.
+Einstellungsgröße
+Nahaufnahme.
+Geht nach der Kernhandlung in Nahaufnahmen der Figuren über.
+Handlungspunkt 1: Präzises Durchtrennen des Seelenfessel-Fadens
+Die ältere Schwester zieht sofort ihr eigenes silbernes Langschwert.
+Sie nutzt keine übertriebene Schwertenergie.
+Nur einen schnellen, präzisen diagonalen Schwerthieb.
+Schlüsselaktion
+Die silberne Klinge durchtrennt die Verbindung:
+Den dunkelroten Seelenfessel-Faden zwischen
+dem Docht der Seelenlock-Laterne ↔ dem rechten Handgelenk der jüngeren Schwester.
+Anforderungen an die Action
+Die Klinge durchtrennt den roten Faden präzise
+Berührt dabei nicht die Haut der jüngeren Schwester
+Das Schwert wird nur einmal geschwungen
+Die Schwertbahn ist klar erkennbar
+Die Bewegung hat eine realistische physische Kontinuität
+Bruch des Seelenfessel-Fadens
+Nach dem Bruch verliert der rote Faden sofort seine Spannung.
+Er zerfällt in winzige, dunkelrote Lichtpartikel.
+Die rechte Hand der jüngeren Schwester ist wieder frei.
+Handlungspunkt 2: Die ältere Schwester zieht die jüngere zurück
+Die ältere Schwester streckt ihre freie linke Hand aus.
+Zieht die jüngere Schwester sanft an ihre Seite zurück.
+Sie flüstert:
+[Ältere Schwester] „Antworte nicht."
+Handlungspunkt 3: Die jüngere Schwester erkennt die Gefahr
+Die jüngere Schwester blickt zum Boten auf.
+Ihr Gesichtsausdruck verändert sich allmählich:
+Von der Angst, die ältere Schwester könnte geholt werden → zum Schock über die Erkenntnis, dass sie selbst das wahre Ziel ist.
+Sie fragt leise:
+[Jüngere Schwester] „Sucht es mich?"
+Handlungspunkt 4: Letzte Enthüllung
+Die ältere Schwester sieht sie nicht an.
+Ihr Blick bleibt auf die Laterne in der Hand des Unterwelt-Boten geheftet.
+Sie antwortet sehr leise:
+[Ältere Schwester] „Es wartet darauf, dass ich dich rufe."
+Handlungspunkt 5: Die Gefahr ist nicht vorbei
+Kurze Pause.
+Der Unterwelt-Bote legt langsam den Kopf schief.
+Der Blick hinter der Halbmaske richtet sich erneut auf die jüngere Schwester.
+Die fahle Flamme in der Bronzelaterne in seiner Hand entzündet sich wieder.
+Zustand des Seelenfessel-Fadens
+Der durchtrennte Seelenfessel-Faden verbindet sich nicht neu.
+Positionierung der Doppel-Protagonistinnen
+An diesem Punkt stehen die ältere und die jüngere Schwester Seite an Seite.
+Beide blicken gleichzeitig dem Boten entgegen.
+Beschränkungen für Emotionen und Handlungen
+Kein:
+Gemeinsames Weinen
+Plötzlicher Ausbruch eines komplexen Kampfes
+Komposition der letzten Einstellung
+Die Einstellung endet auf:
+Der kalten bronzenen Halbmaske des Unterwelt-Boten und der wiederentzündeten Seelenlock-Laterne.
+In der geringen Schärfentiefe dahinter:
+Die weiß gekleidete ältere Schwester
+Die grün gekleidete jüngere Schwester
+Seite an Seite stehend.
+Der Unterwelt-Bote weicht nicht zurück.
+Landung des finalen Suspense
+Das Publikum versteht endlich:
+Er hatte nie vor, die Schwert-Unsterbliche im weißen Gewand zu holen.
+Er hat lediglich ihre Identität und Stimme genutzt, damit die jüngere Schwester diesen Ruf selbst beantwortet.
+Die erste Seelenernte ist gescheitert.
+Die wahre Gefahr besteht weiterhin.
+Hier endet das Bild.
+
+VII. Einheitliche Ausführungsanforderungen für Seedance 2.0 Mini
+Grundspezifikationen
+Gesamtdauer: Exakt 15 Sekunden
+Seitenverhältnis: 16:9 Querformat
+Modell: Seedance 2.0 Mini
+Anzahl der Einstellungen: Drei
+Zeitstruktur
+Zeit | Einstellungsgröße | Kernereignis
+0–5s | Totale | Der Unterwelt-Bote erscheint, behauptet, die ältere Schwester holen zu wollen; die jüngere Schwester blockt.
+5–10s | Halbnah | Die Seelenlock-Laterne imitiert die Stimme der älteren Schwester, die jüngere Schwester antwortet instinktiv, der rote Faden bindet die Seele.
+10–15s | Nah & Figuren-Nahaufnahme | Die ältere Schwester durchtrennt den roten Faden, enthüllt das wahre Ziel, der Feind hat sich nicht zurückgezogen.
+
+VIII. Vollständige sieben Dialogzeilen und Lippensynchronisation
+Der gesamte Film enthält ausschließlich die folgenden sieben Dialogzeilen.
+0–5s
+[Unterwelt-Bote] „Heute Nacht bin ich wegen der Schwert-Unsterblichen im weißen Gewand hier."
+[Jüngere Schwester] „Wie kannst du es wagen?"
+5–10s
+[Seelenlock-Laterne · Stimme der älteren Schwester] „Ah Ning, dreh dich um."
+[Jüngere Schwester] „Ältere Schwester?"
+10–15s
+[Ältere Schwester] „Antworte nicht."
+[Jüngere Schwester] „Sucht es mich?"
+[Ältere Schwester] „Es wartet darauf, dass ich dich rufe."
+Mandarin- und Lippensynchronisations-Anforderungen
+Alle Figuren sprechen Mandarin
+Präzise Lippensynchronisation
+Keine Audioüberschneidungen
+Keine spontan hinzugefügten Dialoge
+Kein erklärender Voice-over-Kommentar
+Sonderregel für die dritte Zeile
+„Ah Ning, dreh dich um."
+Wird von der Seelenlock-Laterne abgegeben.
+Nutzt eine Stimme, die absolut identisch mit der echten älteren Schwester ist.
+Aber:
+Der Unterwelt-Bote öffnet den Mund nicht
+Die echte ältere Schwester öffnet den Mund nicht
+Die Schallquelle kommt eindeutig aus der Bronzelaterne
+Räumliche Audioeffekte müssen unterscheidbar sein
+
+IX. Kausalregeln für Seelenlock-Laterne und Seelenfessel-Faden
+Regel 1 | Roter Faden darf nicht zu früh erscheinen
+Der rote Seelenfessel-Faden erscheint nicht vorzeitig.
+Erst nachdem die jüngere Schwester auf die vertraute Stimme reagiert hat, gibt die Seelenlock-Laterne den Seelenfessel-Faden frei.
+Auslösekette
+Laterne gibt Ton ab → jüngere Schwester antwortet → Flamme wird dunkelrot → Seelenfessel-Faden schießt hervor.
+Regel 2 | Nur ein Seelenfessel-Faden
+Es gibt nur einen einzigen Seelenfessel-Faden.
+Er verbindet immer:
+Den Docht der Seelenlock-Laterne und das rechte Handgelenk der jüngeren Schwester.
+Regel 3 | Nur eine Schnittbewegung
+Die ältere Schwester schwingt das Schwert nur einmal.
+Sie durchtrennt den Seelenfessel-Faden präzise.
+Regel 4 | Zustand nach dem Bruch
+Nachdem der Seelenfessel-Faden gerissen ist:
+Verliert er sofort seine Spannung
+Zerfällt in winzige, dunkelrote Lichtpartikel
+Erlangt die jüngere Schwester ihre Bewegungsfreiheit zurück
+Regel 5 | Die Seelenlock-Laterne existiert weiter
+Die Seelenlock-Laterne existiert weiterhin.
+Auch der Unterwelt-Bote hat sich nicht zurückgezogen.
+Aber:
+Der ursprüngliche Seelenfessel-Faden kann sich nicht automatisch neu verbinden.
+
+X. Figuren- und räumliche Kontinuität
+Identität der Doppel-Protagonistinnen
+Strikt festlegen:
+@Image1
+@Image2
+Konsistent bleiben müssen:
+Gesicht
+Frisur
+Kleidung
+Schwert
+Körperproportionen
+Unterwelt-Bote
+Durchgehend verwenden:
+Dieselbe bronzene Halbmaske
+Dasselbe Set schwarz-grauer Roben
+Dieselbe Seelenlock-Laterne
+Räumliche Kontinuität
+Folgendes muss durchgehend sein:
+Figurenpositionen
+Abstände zwischen den Figuren
+Kameraachse
+Hauptrichtung des Lichts
+Alle Einstellungen spielen am selben Ort.
+Der Hintergrund erweitert sich natürlich basierend auf den Referenzbildern.
+Die Identität der Szene darf nicht verändert werden.
+
+XI. Kameraführung und Darstellung der Figuren
+Erste Einstellung
+Fotografische Funktion
+Hervorheben:
+Den seltsamen Besucher
+Die Distanzverhältnisse zwischen den Figuren
+Wie die jüngere Schwester sich aktiv vor die ältere Schwester stellt
+Visuelle Täuschung
+Das Publikum soll denken, die ältere Schwester sei das Ziel.
+Aber der letzte Blick des Boten auf die jüngere Schwester muss als ein Detail dienen, das im Nachhinein verständlich wird.
+Zweite Einstellung
+Fotografische Funktion
+Nutze die Positionierung der echten älteren Schwester hinter der jüngeren Schwester, um Folgendes zu erzeugen:
+Eine Diskrepanz zwischen Ton und tatsächlicher Quelle.
+Fokus der Darstellung
+Die Reaktion der jüngeren Schwester beim Hören der vertrauten Stimme muss sein:
+Natürlich
+Instinktiv
+Schneller als rationales Urteilsvermögen
+Dritte Einstellung
+Fotografische Funktion
+Vollziehe die kausale Umkehr durch eine einzige klare Schwertbewegung.
+Fokus der Darstellung
+Nachdem sie die Gefahr bemerkt hat, verengen sich die Augen der älteren Schwester augenblicklich.
+Ihre Reaktion spiegelt wider:
+Präzises Urteilsvermögen
+Entschlossenes Handeln
+Gezügelte Kraft
+Globale Darstellungsprinzipien
+Die Darstellung der Figuren bleibt zurückhaltend und realistisch.
+Keine langatmigen Kämpfe inszenieren.
+Nichts hinzufügen wie:
+Großflächige Magie
+Blitze
+Monster-Transformationen
+Weltuntergänge
+
+XII. Sounddesign
+Umgebungsgeräusche
+Authentische, altertümliche Raumklänge beibehalten.
+Dazu gehören:
+Natürlicher Wind
+Fließendes Wasser
+Umgebungsaktivitäten in der Ferne
+Bewegungen von Haar und Ärmeln
+Unterwelt-Bote
+Fokus auf:
+Die Schritte des Boten
+Das leichte Reibungsgeräusch des Laternen-Tragerings
+Seelenlock-Laterne
+Fokus auf:
+Eine ungewöhnlich klare, vertraute menschliche Stimme aus der Laterne, die dem Timbre der älteren Schwester exakt entspricht.
+Der Ton kommt aus der räumlichen Position der Bronzelaterne.
+Seelenfessel-Faden
+Wenn sich der rote Faden spannt, entstehen leise, seltsame Geräusche.
+Keine großflächigen, übernatürlichen Explosions-Soundeffekte verwenden.
+Silberschwert durchtrennt den Faden
+Wenn die ältere Schwester den roten Faden durchtrennt, erklingt plötzlich:
+Ein kurzes, klares Geräusch des Schwertes, das die Luft durchschneidet.
+Finaler Dialog
+Die Musik wird schnell leiser, nachdem der rote Faden durchtrennt wurde.
+Lass die letzten beiden Dialogzeilen natürlich in die Ohren des Publikums dringen:
+[Jüngere Schwester] „Sucht es mich?"
+[Ältere Schwester] „Es wartet darauf, dass ich dich rufe."
+
+XIII. Bild- und Generierungsbeschränkungen
+Bildanforderungen
+Filmreifer Fotorealismus
+Realistische menschliche Anatomie
+Klare Gesichtszüge
+Realistische Bewegung von Seidenstoffen
+Natürliche Umgebungsdynamik
+Stabiler geografischer Raum
+Präzise Schwertaktionen
+Gezügelte übernatürliche Effekte
+Strikte Verbote
+Langatmige Kämpfe
+Großflächige Magie
+Blitze
+Übertriebene Monster-Transformationen
+Weltuntergänge
+Face-Swapping
+Kleidungswechsel
+Verwechslung des Waffenbesitzes
+Plötzliche Positionswechsel der Figuren
+Veränderungen im Aussehen der Seelenlock-Laterne
+Vorzeitiges Erscheinen des Seelenfessel-Fadens
+Mehrere Seelenfessel-Fäden
+Selbstständiges Neuverbinden gerissener roter Fäden
+Aktives Auslösen der Geschichte durch den Hintergrund
+Titel
+Untertitel
+Erklärende Texte
+Zusätzliche Dialogzeilen
+
+XIV. Finale Abnahmekriterien
+Innerhalb der vollen 15 Sekunden muss klar dargestellt werden:
+Der Unterwelt-Bote erscheint und behauptet, die Schwert-Unsterbliche im weißen Gewand holen zu wollen.
+Die jüngere Schwester stellt sich aktiv vor die ältere Schwester.
+Der Bote lenkt seine wahre Aufmerksamkeit heimlich auf die jüngere Schwester.
+Die Seelenlock-Laterne gibt eine Stimme ab, die exakt der der älteren Schwester entspricht, während die echte ältere Schwester nicht spricht.
+Die jüngere Schwester antwortet instinktiv, wodurch die Seelenlock-Laterne den einzigen Seelenfessel-Faden freigibt.
+Der rote Faden wickelt sich präzise um das rechte Handgelenk der jüngeren Schwester.
+Die ältere Schwester zieht ihr Silberschwert und durchtrennt den roten Faden mit einem einzigen Hieb.
+Die jüngere Schwester erkennt, dass sie das wahre Ziel ist.
+Die ältere Schwester sagt: „Es wartet darauf, dass ich dich rufe."
+Die Seelenlock-Laterne entzündet sich neu, der Unterwelt-Bote weicht nicht zurück, die Gefahr besteht fort.
+Finale Wirkung
+Lass das Publikum erkennen:
+Die vertrauteste Stimme – jene, bei der man am leichtesten die Deckung fallen lässt – könnte auch der gefährlichste Teil der gesamten Falle sein.
+
+XV. Negative Prompt
+blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, watermark, text, error; deformed, mutated, bad anatomy, poorly drawn hands, bad composition, out of frame, disfigured; inconsistent character, changing clothes, face morphing, background shift, glitching cuts, disappearing props
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117458722943553536/img/0nIGtxVQ33xlIS7U.jpg" width="600" alt="Seedance 2.0 Mini Cinematic Xianxia Horror Prompt">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13438)**
+
+**Autor:** [Soran](https://x.com/Soranlan) | **Quelle:** [Link](https://x.com/Soranlan/status/2117463209225703771) | **Veröffentlicht:** Nov 3, 2026
+
+---
+### Im Farblicht wandeln: Monochrome Straßen-Erweckung
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Ein detaillierter Prompt zur Generierung eines cineastischen Videos, in dem eine Frau durch eine Schwarz-Weiß-Straße geht und mit ihren Schritten die Farbe in die Welt zurückbringt. Speziell optimiert für Seedance 2.0 (zweite Hälfte) und WAN 3.0 (erste Hälfte).
+
+#### 📝 Prompt
+
+```
+[Ausgabespezifikationen] Erstelle ein einfaches Character Sheet. Das Seitenverhältnis ist fest auf 16:9 vorgegeben. Generiere genau ein fertiges Bild. Füge keine Texte, Titel, Beschriftungen, Zahlen, Logos, Beschreibungen, Rahmen oder Dekorationen hinzu. Erstelle keine Designs im Poster- oder Magazin-Stil, keine Darstellungen von Produktionsprozessen, Vergleichsbilder oder geteilte Vergleichslayouts.
+[Eingabe] Hänge exakt ein fertiges Referenzbild (Anchor Image) gleichzeitig mit diesem Anweisungsdokument an. Verwende das angehängte Bild als einzige Referenz für Person, Gesicht, Haare, Körpertyp und Kostüm.
+[Zweck] Erstelle ein einfaches und gut lesbares 16:9 Character Sheet für die Videoproduktion, bei dem Person und Kostüm aus dem Referenzbild präzise beibehalten werden. Es dient als Vorlage, um die dreidimensionale Struktur von Person und Kostüm sowie die Gesichtszüge und den Eindruck der Frisur zu überprüfen.
+[Komposition] Ordne insgesamt 6 Ansichten innerhalb eines 16:9-Bildes an. Platziere von links bis zur Mitte Ganzkörper-Drei-Ansichts-Zeichnungen horizontal in der Reihenfolge „Vorderansicht ganz / Seitenansicht ganz / Rückansicht ganz“. Auf der rechten Bildseite ordnest du Gesichts-Nahaufnahmen vertikal von oben nach unten in der Reihenfolge „Leicht nach links gewandt / Frontal / Leicht nach rechts gewandt“ an.
+[Identität der Person] Behalte die Gesichtszüge, Augen, den Nasenrücken, Mund, Konturen, den Alterseindruck, Haut, Frisur, Haarfarbe, Haarlänge, Pony, Körpertyp, den Größeneindruck, das Kopf-Körper-Verhältnis, Schulterbreite, Rumpfbreite, Taillenweite, Beinlänge und Beinstärke der Person aus dem Referenzbild bei. Alle drei Ganzkörperansichten und die drei Gesichts-Nahaufnahmen müssen natürlich und stimmig dieselbe Person darstellen.
+[Ganzkörper-Drei-Ansichts-Zeichnungen] Die drei Ganzkörperansichten müssen einheitlich dieselbe Person aus drei Richtungen zeigen, wobei sie vollständig vom Scheitel bis zu den Füßen abgebildet sein müssen, ohne abgeschnitten zu werden. Nutze das Kostüm des Referenzbildes als Hauptvorlage und achte bestmöglich auf Konsistenz bei Kragen, Ärmeln, Brustbereich, Rumpfpartie, Taillendekoration, Rock-/Hosenlänge, Position der Schlitze, Stofflagen, Farbe, Muster, Textur und Schuhform. Die Vorderansicht muss Person und Kostüm des Referenzbildes am originalgetreuesten wiedergeben. Die Seitenansicht sollte ein natürliches, echtes Profil sein, das die räumliche Struktur von Person und Kostüm zeigt. Die Rückansicht muss die Rückseite der Haare, Schultern, des Rückens, der Kostümrückseite, Beine und Schuhabsätze natürlich rekonstruieren. Bei Seiten- und Rückansicht dürfen im Referenzbild nicht sichtbare Bereiche logisch ergänzt werden, solange sie nicht der Vorderansicht widersprechen.
+[Gesichts-Nahaufnahmen] Nutze das Referenzbild als Hauptvorlage für die Gesichts-Nahaufnahmen und behalte Gesichtszüge, Augen, Nasenrücken, Mund, Frisur, Haarfarbe und Ausstrahlung der referenzierten Person so weit wie möglich bei. Die drei Nahaufnahmen müssen natürlich dieselbe Person zeigen. Achte darauf, dass Haarfall und Gesichtskonturen nicht dem Referenzbild widersprechen. Kostümkragen und Schulterbereiche dürfen teilweise sichtbar sein, aber die Erkennbarkeit des Gesichts hat Priorität. „Leicht nach links gewandt“ und „Leicht nach rechts gewandt“ dürfen keine vollständigen Profile sein, sondern leichte Winkel, die ausreichen, um die Gesichtszüge klar zu erkennen.
+[Pose] Alle drei Ganzkörperansichten erfordern eine neutrale Stehhaltung. Die Vorderansicht blickt direkt nach vorn, die Arme sind leicht vom Körper entfernt und hängen natürlich herab, die Beine stehen mit geringem Abstand. Die Seitenansicht zeigt die Haltung exakt von der Seite, wobei die Arme die Körperkontur nicht vollständig verdecken dürfen. Die Rückansicht zeigt komplett nach hinten, ohne das Gesicht zur Kamera zu drehen. Verzichte auf charakteristische Posen; die strukturelle Erfassung von Körper und Kostüm steht im Vordergrund.
+[Hintergrund] Der Hintergrund ist rein leuchtend weiß oder sehr hellgrau. Keine Dekorationen oder Muster. Halte die Darstellung des Bodens minimal, damit die Person im Fokus bleibt.
+[Layout] Nutze etwa 3/4 der Bildbreite für die Ganzkörper-Drei-Ansichts-Zeichnungen und 1/4 für die vertikale Anordnung der drei Gesichts-Nahaufnahmen. Sorge dafür, dass die drei Ganzkörperfiguren groß genug sind, um den Hauptfokus zu bilden, indem du den breiten horizontalen Bereich von links bis zur Mitte nutzt. Ordne die drei Gesichts-Nahaufnahmen auf der rechten Seite vertikal gleichmäßig verteilt an. Vermeide Überschneidungen zwischen Ganzkörper- und Gesichtsansichten und schaffe eine Komposition, die sowohl die Überprüfung des Kostüms als auch des Gesichts erleichtert. Achte auf ausreichende Ränder, damit jede Ansicht gut erkennbar ist.
+[Gesamteindruck] Einfach, sauber, praxisorientiert. Leicht lesbar als Material für die Videoproduktion, mit Fokus auf die strukturelle Überprüfung von Person und Kostüm. Daraus darf kein Design-Poster werden.
+[Verbote] Texte, Titel, Beschriftungen, Zahlen, Logos, Beschreibungen, Zierrahmen, Hintergrundeffekte, Effekte im Poster-Stil, übermäßige Schatteneffekte, Veränderung der Personenidentität, Kostümwechsel, Änderungen des Farbschemas, zu starke Vereinfachung von Mustern, charakteristische Posen, überkreuzte Beine, erhobene Arme, Layouts mit zu kleinen Ganzkörperansichten, Layouts mit horizontal angeordneten Gesichts-Nahaufnahmen, Strukturen in Seiten-/Rückansichten, die der Vorderansicht widersprechen, fehlende Gliedmaßen, sich überlappende Personen.
+
+[DEKLARATION]
+FOTOREALISTISCHER, CINEMATISCHER MODEFILM. Gesamtdauer 15 Sekunden, Seitenverhältnis 1:1. Ein Realfilm-Kurzfilm über eine Frau, die durch eine farblose Schwarz-Weiß-Stadt geht. Sie ist das Einzige in dieser Welt, das Farbe trägt; mit jedem Schritt übertragen sich die drei Farben ihres Rocks als vertikale Streifen auf die Stadt. Als sie sich schließlich dreht, kehrt die Farbe in die gesamte Stadt zurück und endet in einem stillen Nachleuchten. Verbinde 9 Schnitte rhythmisch miteinander.
+
+[REFERENZ]
+<image1> zeigt die weibliche Protagonistin. Dieses Bild dient als Setting-Referenz und stellt sie allein von vorne, von der Seite, von hinten sowie das Gesicht (aus 3 Richtungen) dar. Gesicht, Frisur, Körpertyp, Kostüm und Stiefel entsprechen exakt dieser Darstellung. Im Folgenden als „die Protagonistin“ bezeichnet.
+
+[BEDINGUNG]
+Dies ist eine alte Stadt aus Stein mit einem runden Platz am Ende von Kopfsteinpflasterstraßen. Hohe Gebäude säumen beide Straßenseiten, alle haben ihre Farbe verloren wie auf alten Schwarz-Weiß-Fotografien. Himmel, Mauern, Kopfsteinpflaster und die Blumen des Floristen bilden eine Welt nur aus Grautönen, in der lediglich klares Tageslicht stille Schatten wirft. Die Protagonistin geht mit ruhigen Schritten allein hindurch. Nur ihre Gestalt behält ihre natürliche Farbe, und die Streifen in Rosenrot, Bernsteinorange und Himmelblau auf ihrem Rock wirken in dieser Stadt am lebendigsten. Wenn die Stiefel der Protagonistin auf das Kopfsteinpflaster treten, entstehen unter ihren Füßen gerade Bänder in denselben drei Farben mit scharfen Kanten, die über den Boden verlaufen und senkrecht die Mauern hinaufklettern. Nur innerhalb dieser Bänder wird die Stadt gefärbt, als wäre sie mit farbiger Tinte überlagert, während Steinfugen und Fensterdetails transparent sichtbar bleiben. Als wüsste sie, dass sich die Farbe ausbreiten wird, geht die Protagonistin mit ruhigem, selbstbewusstem Ausdruck weiter. Das Filmmaterial gleicht einem Realfilm-Modefilm, gedreht auf 35-mm-Film, mit feiner Körnung und sanft bewegter Kamera.
+
+[SCHNITTFOLGE]
+[Einstellung 1 | 0,00~2,00s]
+[START]
+Weitwinkel, der direkt die Mitte einer Schwarz-Weiß-Straße hinabblickt. Die Protagonistin kommt aus der Ferne auf die Kamera zu. Ihr ganzer Körper wirkt klein, aber die drei Farben des Rocks leuchten lebhaft hervor.
+[HAUPTEREIGNIS]
+Die Protagonistin geht weiter auf die Kamera zu, während die Kamera langsam rückwärtsfährt.
+[ENDE]
+Die Protagonistin in Ganzkörperansicht, auf die Kamera zugehend.
+
+[Einstellung 2 | 2,00~3,60s]
+[START]
+Extreme Nahaufnahme direkt von der Seite, knapp über dem Kopfsteinpflaster. Weiße Stiefel betreten das Bild von links.
+[HAUPTEREIGNIS]
+Die Stiefel treten fest auf das Kopfsteinpflaster, harte Schritte hallen wider. Von der Auftreffstelle ausgehend entstehen dreifarbige Bänder, die geradewegs über das Pflaster in die Tiefe des Bildes verlaufen.
+[ENDE]
+Drei farbige Bänder, die sich von den Füßen in die Ferne erstrecken.
+
+[Einstellung 3 | 3,60~5,60s]
+[START]
+Weitwinkel, der die Protagonistin direkt von der Seite zeigt, vor der Wand eines Schwarz-Weiß-Gebäudes. Die Protagonistin läuft im Bild von links nach rechts.
+[HAUPTEREIGNIS]
+Die Kamera bewegt sich horizontal mit derselben Geschwindigkeit wie die Protagonistin nach rechts. Mit jedem Schritt steigen an der Wand direkt hinter ihr dreifarbige Bänder nacheinander von unten nach oben auf.
+[ENDE]
+Die gehende Protagonistin und die farbigen Bänder, die sich an der Wand links neben ihr aufreihen.
+
+[Einstellung 4 | 5,60~7,20s]
+[START]
+Nahaufnahme eines Blumenladens an der Straße. Schwarz-weiße Blumen füllen die Eimer.
+[HAUPTEREIGNIS]
+Ein bernsteinoranges Band zieht vom Boden über die Blumen hinweg und färbt ausschließlich die Blumen innerhalb des Bandes in frischen, leuchtenden Farben.
+[ENDE]
+Ein Streifen farbiger Blumen inmitten grauer Blüten.
+
+[Einstellung 5 | 7,20~9,00s]
+[START]
+Nahaufnahme der Protagonistin von der Brust aufwärts, auf die Kamera zugehend. Im Hintergrund reihen sich Schwarz-Weiß-Gebäude aneinander.
+[HAUPTEREIGNIS]
+Die Kamera fährt mit gleicher Geschwindigkeit rückwärts. Farbige Bänder steigen nacheinander an den Gebäuden tief im Hintergrund links und rechts der Protagonistin auf. Ein leichtes Lächeln erscheint auf den Lippen der Protagonistin.
+[ENDE]
+Das lächelnde Gesicht der Protagonistin und die farbigen Bänder, die sich im Hintergrund aufreihen.
+
+[Einstellung 6 | 9,00~10,00s]
+[START]
+Weitwinkel mit direktem Blick auf einen schwarz-weißen runden Platz unter grauem Himmel. Die Protagonistin geht auf die Mitte des Platzes zu.
+[HAUPTEREIGNIS]
+Die Protagonistin hält an und tritt einmal fest mit ihren Stiefeln auf das Kopfsteinpflaster. Die Kamera bewegt sich nicht.
+[ENDE]
+Die Protagonistin in Ganzkörperansicht, stehend in der Mitte des Platzes.
+
+[Einstellung 7 | 10,00~11,80s]
+[START]
+Blick auf die Protagonistin in der Mitte des Platzes aus einem leicht entfernten Untersicht-Winkel. Ihr gesamter Körper passt ins Bild, von oberhalb des Kopfes bis unter die Stiefel, mit freiem Himmel über ihr. Himmel und Gebäude bleiben schwarz-weiß.
+[HAUPTEREIGNIS]
+Die Protagonistin dreht sich langsam einmal um die eigene Achse. Der Saum des Faltenrocks öffnet sich kreisförmig weit, und die dreifarbigen Streifen fächern sich auf.
+[ENDE]
+Die Protagonistin in Ganzkörperansicht, deren geöffneter Rocksaum bodennah wellenförmig ausschwingt.
+
+[Einstellung 8 | 11,80~13,20s]
+[START]
+Totale aus hoher Perspektive, die auf den Platz hinabblickt. Die Protagonistin steht in der Mitte, vollständig von Schwarz-Weiß umgeben.
+[HAUPTEREIGNIS]
+Wellen aus drei Farben breiten sich konzentrisch von den Füßen der Protagonistin aus, überqueren das Kopfsteinpflaster, schießen die Gebäude hinauf und in den Himmel und geben der gesamten Stadt ihre natürliche Farbe zurück.
+[ENDE]
+Die Protagonistin steht in der Mitte des Platzes, der seine Farbe zurückerlangt hat.
+
+[Einstellung 9 | 13,20~15,00s]
+[START]
+Nahaufnahme der Protagonistin von der Brust aufwärts in der Mitte des Platzes, nach vorn blickend. Im Hintergrund haben Gebäude und blauer Himmel ihre natürliche Farbe zurückerlangt.
+[HAUPTEREIGNIS]
+Die Kamera nähert sich sehr langsam. Die Protagonistin atmet ruhig aus und blickt in die Ferne. Tief am Himmel, weit hinter der Protagonistin, flattern einige kleine Blütenblätter langsam dahin.
+[ENDE]
+Das Gesicht der Protagonistin, das still in die Ferne blickt, eingehüllt in das Licht der nun farbigen Stadt.
+
+[TON]
+Einschichtiges BGM. Leichte Musik mit Fingerschnippen und Kontrabass, die ab dem ersten Bild bei 0 Sekunden ununterbrochen durchläuft. Ab dem Moment, in dem sich die Protagonistin dreht, setzen Blasinstrumente ein und entfalten sich prächtig. Wenn die Farbe vollständig zurückkehrt, wird der Klang leiser, bis am Ende ein einzelner Ton lange nachklingt und dann still verklingt. Kein Dialog und kein Voice-over.
+
+[NEGATIVPROMPT]
+Text, Untertitel, Logos, Wasserzeichen
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117449754674417664/img/ego2_NDdp_fx5cE3.jpg" width="600" alt="Im Farblicht wandeln: Monochrome Straßen-Erweckung">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13440)**
+
+**Autor:** [AIライフハック](https://x.com/ai_lifehack55) | **Quelle:** [Link](https://x.com/ai_lifehack55/status/2117450061915578482) | **Veröffentlicht:** Nov 3, 2026
+
+---
+### Seedance Chinesischer Regie-Ausführungs-Prompt: The Promised Sea
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein detaillierter Regie-Prompt für Seedance 2.0 Mini/2.5 zur Erstellung eines Xianxia-Kurzfilms in der Ich-Perspektive mit dem Titel 'The Promised Sea'. Enthält strenge Vorgaben zu Kontinuität, Physik, Dialogen und Kameraführung.
+
+#### 📝 Prompt
+
+```
+Seedance – Regieausführung (chinesische Fassung) | „Das versprochene Meer"
+
+I. Projektgrundlagen
+Dauer: Exakt 15 Sekunden
+Seitenverhältnis: 16:9 Querformat
+Sprache: Dialoge auf Mandarin-Chinesisch
+Perspektive: Durchgehende First-Person-Sicht (POV) des männlichen Hauptcharakters
+Stil: Kinoreifer, hyperrealistischer chinesischer Xianxia-Kurzfilm mit Schwertflug
+Bevorzugtes Modell: Seedance 2.0 Mini / 2.5
+
+II. Kernstil & narrative Ziele
+Kinoreife, hyperrealistische Bildtextur, reine Ästhetik des klassischen chinesischen Xianxia.
+Die gesamte Sequenz wird aus der Sicht des männlichen Hauptcharakters gezeigt; die Kamerahöhe liegt bei ca. 178 cm und ist stets an seinen Körper sowie die Bewegung seines Flugschwerts gebunden. Alle Sturzflüge, Beschleunigungen, Neigungen, Kopfdrehungen, Aufstiege, Abfangmanöver und stabilen Gleitphasen müssen realistische Körperträgheit und eine spürbare Verlagerung des Schwerpunkts aufweisen.
+Im Zentrum steht nicht das Zurschaustellen von Fähigkeiten, sondern:
+Ein immersiver Schwertflug in der Ich-Perspektive
+Ein fließender räumlicher Übergang vom gigantischen Himmelspalast hinab zum Ozean unter den Wolken
+Ein sanfter Abschluss, der sich von „leichter Verwirrung über das Necken" zu „sie hat das Versprechen nicht vergessen" wandelt
+Die Kamera muss jederzeit lesbar bleiben: keine schwebenden Drohnenaufnahmen, keine Schnitte in die Dritte Person, keine unmotivierten Schwenks.
+
+III. Charakter- & Asset-Fixierung
+Charakter A | Weibliche Hauptrolle | Streng fixiert auf @Image1
+Dasselbe erwachsene ostasiatische weibliche Model, identische Identität, Gesichtszüge, Gesichtsform, Hautton, Frisur und Körperproportionen.
+Realistische Hauttextur, langes schwarzes Haar, das natürlich im Wind weht.
+Die Kleidung ist als ein festes Set definiert:
+Mondweißes und hellzyanfarbenes Xianxia-Gewand für den Schwertflug
+Mit Silberfäden bestickter Kragen
+Eng anliegender Taillengürtel
+Innenschicht mit schmalen Ärmeln
+Äußeres Gewand aus Seide
+Erlesener Jade-Schmuck
+Der Stoff besitzt echtes Gewicht und schwingt verzögert nach.
+Die weibliche Hauptrolle steht durchgehend auf ihrem einzigen, vollständigen Flugschwert, die Füße stabil auf der Klinge. Ihr Schwerpunkt, die Ausrichtung des Schwerts und die Flugbahn sind stets stimmig.
+
+Charakter B | Männliche Hauptrolle | Subjekt der Ich-Perspektive
+Das Gesicht des männlichen Hauptcharakters ist nie zu sehen.
+Am unteren Bildrand müssen durchgehend sichtbar sein:
+Seine eigenen Schuhspitzen
+Das schmale silberne Flugschwert unter seinen Füßen
+Auch er steht während der gesamten Szene auf seinem einzigen, vollständigen Flugschwert, die Füße stabil, wobei Länge, Erscheinungsbild und Ausrichtung des Schwerts konstant bleiben.
+
+IV. Umgebung & räumliche DNA
+Hauptumgebung | Basierend auf Referenzbild 2 aufgebaut
+Der Hintergrund wird streng nach @Image2 aufgebaut und bewahrt dieselbe gigantische Himmelspalast-Umgebung sowie deren Kernelemente:
+Ein riesiges, kreisrundes Jade-Himmelsrad im Zentrum
+Symmetrische Paläste aus dunklem Holz links und rechts
+Mehrfach geschwungene, nach oben zeigende Dachtraufen
+Eine weitläufige Plaza aus weißem Stein
+Schwebende Plattformen
+Kühler zyanfarbener Himmel
+Warmer goldener Sonnenuntergang
+Ein extremes Größenverhältnis zwischen Architektur und Figuren.
+Ausgehend davon wird die Szenerie natürlich nach unten erweitert:
+Zehntausend Zhang hohe Palastklippen
+Gigantische Wasserfälle
+Tiefe Wolkentäler
+Ein gewaltiger, realer Ozean unter den Wolken
+
+Räumliche Kontinuität
+Das Publikum muss klar erkennen, dass es sich um eine durchgehende Route handelt:
+Hochachse des Himmelspalasts -> Außerhalb des riesigen Jaderads -> Gigantische Palastklippen -> Wasserfall -> Wolkental -> Durchbrechen der Wolken -> Ozean unter den Wolken
+Es darf nicht wie eine Aneinanderreihung unzusammenhängender Szenen wirken.
+Architektur, Klippen, Wasserfälle, Wolken und Ozean müssen Teil einer einzigen, geschlossenen Welt sein.
+
+V. Einheitliche Regeln für Flug & Kamera
+First-Person-Regel
+Die Kamera repräsentiert stets die Augen des männlichen Hauptcharakters und bewegt sich ausschließlich aufgrund seines tatsächlichen Fluges.
+Kamerabewegungen dürfen nur entstehen durch:
+Vorwärtsstürzen
+Sturzflug
+Seitliches Neigen
+Mitgehen der Drehung der weiblichen Hauptrolle
+Aufstieg
+Abfangen/Nivellieren
+Natürliches Drehen des Kopfes, um sie anzusehen
+Zurückdrehen nach vorn
+
+Erforderliches physikalisches Feedback
+Kurze Schwerelosigkeit beim Sturzflug
+Seitlicher Druck in Kurven
+Wiederherstellung des Gleichgewichts beim Abfangen
+Raumkompression beim Durchstoßen von Wolken/Wasserfällen
+Stabiles, aber hochgeschwindigkeitsbetontes Körpergefühl beim Gleiten über die Meeresoberfläche
+
+Parallaxen-Anforderungen
+Architektur, Traufen, Steinmauern und Nebel im Vordergrund rasen mit hoher Geschwindigkeit vorbei
+Die gigantischen Paläste in der Mittebene behalten deutlich ihr Volumen
+Wolken, Berge und Inseln im Hintergrund bewegen sich relativ langsamer
+Die räumlichen Beziehungen bleiben insgesamt klar erkennbar
+
+VI. Vollständiges Storyboard (15 Sekunden)
+
+0–3s | Paralleler Start in großer Höhe: Wo ist das versprochene Meer?
+Bild
+Direkter Einstieg in der First-Person-Sicht aus großer Höhe.
+Der männliche Hauptcharakter schwebt bereits hunderte Meter über der zentralen Plaza-Achse des Himmelspalasts.
+Am unteren Bildrand sind deutlich seine Schuhspitzen und das schmale silberne Flugschwert zu sehen.
+Im Vordergrund dominiert das riesige kreisrunde Jaderad das Sichtfeld.
+Links und rechts erstrecken sich gewaltige Paläste in mehreren Ebenen in der Höhe.
+Die weibliche Hauptrolle steht auf ihrem eigenen Flugschwert und fliegt parallel zu ihm in ca. 2 m Abstand. Der heftige Bergwind zieht ihr langes Haar und den Seidensaum ihres Gewands natürlich nach hinten.
+Aktion
+Der männliche Hauptcharakter blickt sich natürlich um und sieht dann zu ihr.
+Dialog
+Männliche Hauptrolle (mit leichter Verwirrung über das Necken):
+„Wo ist das versprochene Meer?"
+Die weibliche Hauptrolle dreht ihm das Profil zu, ihr Mundwinkel hebt sich leicht:
+„Unter deinen Füßen. Folg mir."
+Abschluss der Sequenz
+Kaum sind die Worte verklungen, beugt sie sich abrupt nach vorn, drückt die Schwertspitze nach unten und stürzt mitsamt ihrem Flugschwert rasant an der Außenseite des Himmelspalasts in die Tiefe.
+Die First-Person-Kamera folgt sofort, das Flugschwert beschleunigt schlagartig, und der Körper erfährt durch den Sturzflug ein realistisches, kurzes Gefühl der Schwerelosigkeit.
+
+3–7s | Sturzflug am Gigantbauwerk: Abstieg entlang der Palastaußenseite durch den Wasserfall
+Bild & Route
+Die First-Person-Kamera folgt ihr beim Abstieg an der Außenseite des riesigen Rings.
+Die gewaltige Jade-Ringstruktur schießt schnell über den Kopf hinaus und verschwindet aus dem Blickfeld.
+Sie bleibt stets einige Meter voraus, ihre Silhouette und Flugrichtung sind stabil und klar erkennbar.
+Beide Flugschwerter stürzen rasant entlang der äußeren Klippen des gigantischen Palasts hinab:
+Sie fegen unter riesigen Dachtraufen hindurch
+Gleiten haarscharf an hunderte Meter hohen Sockeln aus weißem Stein vorbei
+Und vollführen dann außerhalb des zehntausend Zhang hohen Wasserfalls eine sanfte, weite Rechtskurve
+Die gesamte Sequenz bildet eine klare S-förmige Flugroute:
+Steiler Sturzflug
+Ausweichen vor Gebäuden
+Hineinlegen in die Kurve
+Fortgesetzter Abstieg entlang der Wasserfallkante
+Parallaxe
+Riesige Dougong-Konsolen, Steinmauern und Nebel im Vordergrund rasen mit hoher Geschwindigkeit vorbei.
+Entfernte Paläste und Wolken bewegen sich vergleichsweise langsam.
+Das Gefühl von Geschwindigkeit und Raum muss extrem stark ausgeprägt sein.
+Dialog
+Der männliche Hauptcharakter ruft gegen den Wind:
+„Sind da unten nicht nur Wolken?"
+Sie dreht sich im Flug kurz um:
+„Noch tiefer!"
+Dann drückt sie die Schwertspitze erneut nach unten und schießt auf das Wolkental unter dem Wasserfall zu.
+
+7–11s | Durchstoßen von Wasserfall/Wolken: Die vollständige Enthüllung des Ozeans unter den Wolken
+Bild & Route
+Sie setzt ihren Sturzflug entlang der Wasserfallkante fort, drückt das Schwert dann leicht nach links und gleitet durch einen breiten Kanal zwischen der Wassersäule und der Wolkenwand.
+Die First-Person-Kamera folgt dicht dahinter.
+Die Kamera durchquert für einen extrem kurzen Moment:
+Halbtransparenten weißen Nebel
+Wolkenwände
+Diese Verdeckung muss jedoch kurz, transparent und visuell lesbar bleiben – nicht chaotisch oder unkontrolliert.
+Dann bricht sie aus der Unterseite der Wolken hervor.
+Enthüllung des Wunders
+Das Sichtfeld öffnet sich augenblicklich vollständig.
+Unter dem Wolkenmeer liegt ein wahrhaft gewaltiger, tiefblauer Ozean.
+Warmes goldenes Sonnenlicht breitet sich über der Wasseroberfläche aus.
+In der Ferne liegen verschieden große Berginseln, blassblauer Meeresnebel und die fernen Schatten, die die gigantischen Gebäude des Himmelspalasts werfen.
+Übergang des Flugzustands
+Ihr Flugschwert fängt den Sturzflug allmählich in einem sanften Bogen ab und verwandelt ihn natürlich in einen Hochgeschwindigkeits-Gleitflug dicht über der Meeresoberfläche.
+Die First-Person-Kamera hebt das Schwert entsprechend an, und der Körper richtet sich natürlich aus der Vorlage wieder in eine aufrechte Haltung auf.
+Das Bild zeigt ein realistisches, aber dezentes Feedback der Schwerpunktsverlagerung durch die Änderung der Bewegungsrichtung.
+Dialog
+Kein Dialog in dieser Sequenz.
+Die Enthüllung erfolgt rein über die Flugbahn des Schwerts, die räumlichen Veränderungen und den Wandel der Geräuschkulisse.
+
+11–15s | Parallelflug über dem Meer: Ich habe mein Versprechen an dich nicht vergessen
+Visueller Zustand
+Beide fliegen in hohem Tempo parallel auf ihren Schwertern über die Meeresoberfläche.
+Die Flugschwerter befinden sich ca. 3 Meter über dem Wasser.
+Reale Wellen rasen ständig nach hinten weg.
+Warmes goldenes Sonnenlicht lässt Lichtreflexe auf den Wellenkämmen aufblitzen.
+Die tief fliegenden Schwerter erzeugen schmale Nebelschlieren und leichte Luftverwirbelungen.
+
+Positionswechsel der weiblichen Hauptrolle
+Sie verringert den seitlichen Abstand in einem eleganten Bogen von vorn, bis sie schließlich in ca. 3 Metern Abstand parallel zu ihm fliegt.
+First-Person-Aktion
+Der männliche Hauptcharakter dreht natürlich den Kopf, um sie anzusehen.
+Ihr langes Haar und der Gewandsaum strecken sich im Luftstrom nach hinten, einzelne Strähnen nahe ihrer Wange werden vom Wind emporgehoben.
+Dialog
+Sie sieht ihn an, ihr zuvor leicht neckender Ausdruck wandelt sich allmählich in ein unwillkürliches, sanftes Lächeln, und sie sagt leise:
+„Ich habe mein Versprechen an dich nicht vergessen."
+
+Der männliche Hauptcharakter betrachtet sie einen Moment lang still, dann wendet er den Kopf natürlich wieder nach vorn.
+Abschlussbild
+Das letzte Bild zeigt:
+Den endlosen goldblauen Ozean
+Ein entferntes Archipel
+Die schemenhafte Silhouette des gigantischen Himmelspalasts weit oben im Hintergrund
+Zwei Flugschwerter, die im Sonnenlicht Seite an Seite weiterfliegen.
+Das Bild endet natürlich, während beide ihren Schwertflug fortsetzen.
+Kontinuitätsanker für das Ende
+Folgendes muss beim Ende zwingend erhalten bleiben:
+Die exakte Flugrichtung
+Die aktuelle Geschwindigkeit
+Die Höhe der First-Person-Kamera
+Die relative Position der weiblichen Hauptrolle
+Der horizontale Flugzustand über dem Meer
+Die räumliche Kontinuität, die einen nahtlosen Anschluss an die nächste Sequenz ermöglicht
+
+VII. Dialogliste (Strikte Vorgabe)
+Für den gesamten Film sind ausschließlich folgende Dialoge vorgesehen, es dürfen keine erklärenden Zeilen hinzugefügt werden:
+Männliche Hauptrolle: „Wo ist das versprochene Meer?"
+Weibliche Hauptrolle: „Unter deinen Füßen. Folg mir."
+Männliche Hauptrolle: „Sind da unten nicht nur Wolken?"
+Weibliche Hauptrolle: „Noch tiefer!"
+Weibliche Hauptrolle: „Ich habe mein Versprechen an dich nicht vergessen."
+
+Anforderungen an die Dialogumsetzung
+Natürliches, umgangssprachliches Mandarin
+Präzises Lip-Sync, wenn die weibliche Hauptrolle beim Sprechen sichtbar ist
+Die männliche Hauptrolle ist durchgehend als Off-Stimme aus der Ich-Perspektive zu hören
+Klare Trennung von Männer- und Frauenstimmen
+Kein Unterbrechen, kein Überlappen, kein mechanisches Ablesen
+
+VIII. Sounddesign
+Erste Hälfte | Große Höhe am Himmelspalast
+Pfeifender Bergwind in großer Höhe
+Das Rauschen des Schwertflugs beim Durchbrechen der Luft
+Fernes Tosen des Wasserfalls
+Spürbarer Luftdruck beim Vorbeirasen an gigantischen Bauwerken
+
+Mittelteil | Durchstoßen von Wolken/Wasserfall
+Der Windklang wird tiefer und einhüllender
+Das Gefühl, in Nebel einzutauchen
+Das Klangfeld öffnet sich schlagartig beim Durchbrechen der Wolken
+
+Zweite Hälfte | Gleitflug über dem Meer
+Geräusche des offenen Meeres
+Dezentes Zischen, wenn das Flugschwert knapp über das Wasser streift
+Klarere menschliche Stimmen
+
+Musik
+In der ersten Hälfte zurückhaltend
+Setzt natürlich ein und erreicht ihren emotionalen Höhepunkt, wenn der „Ozean erstmals vollständig erscheint"
+Wird am Ende wieder sanfter
+Darf Dialoge und Umgebungsgeräusche niemals übertönen.
+
+IX. Anforderungen an Kontinuität & Physik
+Charakter-Kontinuität
+Die weibliche Hauptrolle ist immer exakt dieselbe Person wie auf @Image1:
+Kein Wechsel des Gesichts
+Kein Wechsel der Frisur
+Kein Wechsel der Kleidung
+Kein Wechsel der Körperproportionen
+
+Kontinuität der Flugschwerter
+Jede Figur besitzt genau ein einziges, vollständiges Flugschwert
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117186940445560832/img/aaM58O2D2io_uZ2e.jpg" width="600" alt="Seedance Chinesischer Regie-Ausführungs-Prompt: The Promised Sea">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13435)**
+
+**Autor:** [Soran](https://x.com/Soranlan) | **Quelle:** [Link](https://x.com/Soranlan/status/2117190326528168293) | **Veröffentlicht:** Nov 2, 2026
+
+---
+### Seedance 2.0 Mini: Prompt für ein Video über altchinesische Xianxia-Komödie
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein detaillierter Prompt zur Generierung eines 15-sekündigen kinematografischen Videos mit Seedance 2.0 Mini. Er zeigt zwei weibliche Schwert-Immortals, die sich im Urlaub heimlich üben, was zu einer komödiantischen Konfrontation mit ihrem Meister führt. Der Prompt legt Wert auf realistische Texturen, Qualität im Stil der Arri Alexa und präzise Charakteraktionen.
+
+#### 📝 Prompt
+
+```
+Seedance 2.0 Mini | „Heute ist frei"
+
+Modell: Seedance 2.0 Mini
+Dauer: Exakt 15 Sekunden
+Seitenverhältnis: 16:9 Querformat
+Genre: Reines altchinesisches Xianxia / Comedy mit Plot-Twist / Sekten-Alltag / Zweier-Beziehungsdrama
+Struktur: Drei durchgehende, klare filmische Einstellungen mit unterschiedlichen komödiantischen Funktionen.
+I. Gesamtstil und kreative Ausrichtung
+Filmisch-realistische Textur, reine altchinesische Xianxia-Ästhetik.
+Folgende Komiksprachen sind zu integrieren:
+Präzise Körperkomik aus klassischen Stummfilmen
+Britischer Deadpan-Humor (trockener Humor)
+Das schnelle Reaktionstempo der Hongkong-Komödie
+Dreistufige Wendungen, die durch das Verhalten der Figuren entstehen
+Kameraführung und visuelle Textur
+Zu verwenden:
+Arri Alexa Kinokamera-Look
+Realistische Hauttexturen
+Feines Filmkorn
+Natürliches volumetrisches Licht
+Realistische Bewegung von Seidenstoffen
+Realistische Haarphysik
+Prinzipien der Comedy-Regie
+Lacher müssen natürlich erzeugt werden durch:
+Verhalten der Figuren
+Synchronisation der Bewegungen
+Blickkontakt
+Kurze Pausen
+Reaktionsgeschwindigkeit
+Realistische Positionierung im Raum
+Die Figuren dürfen keinesfalls als Dummköpfe dargestellt werden.
+Beide weiblichen Hauptfiguren sind echte Schwertmeisterinnen auf höchstem Niveau, mit anmutigen Bewegungen und ausgeprägten Persönlichkeiten.
+Sie sind stark wetteifernd gegeneinander, pflegen aber dennoch ein enges Verhältnis.
+II. Kernhandlung und Komikmechanismus
+Handlungskern
+Die Sekte verkündet einen freien Tag, doch die ältere Schwester (Senior Sister) und die jüngere Schwester (Junior Sister) üben heimlich hinter dem Rücken der jeweils anderen mit dem Schwert – keine von beiden will zugeben, dass sie sich anstrengt.
+Ergebnis:
+Beide werden gleichzeitig vom Meister auf frischer Tat ertappt.
+Der Feiertag verwandelt sich direkt in Zusatztraining.
+Komödiantischer Konflikt
+Der Humor entsteht aus einem allzu menschlichen Widerspruch:
+Alle haben vereinbart auszuruhen, doch jeder fürchtet, die anderen könnten in dieser Zeit heimlich Fortschritte machen.
+Beide wollen heimlich trainieren.
+Und genau deshalb laufen sie einander über den Weg.
+Am Ende hat keine von beiden etwas davon.
+Dreistufige Wendungsstruktur
+Stufe 1: Freier Tag
+Der Meister verkündet unmissverständlich, dass alle ruhen und Schwertübungen verboten sind.
+Stufe 2: Gegenseitiges Ertappen
+Senior Sister und Junior Sister schleichen beide zurück, um zu üben, und laufen sich dabei über den Weg.
+Stufe 3: Strafe durch Zusatztraining
+Beide glauben, nur von der jeweils anderen entdeckt worden zu sein, werden aber schließlich gleichzeitig vom Meister erwischt.
+Zwei heimlich geübte Schwertbewegungen führen zu hundert zusätzlichen Trainingsbewegungen.
+Narrative Beschränkung
+Die gesamte Geschichte dreht sich ausschließlich um dieses eine Ereignis.
+Es dürfen keine weiteren unabhängigen Handlungsstränge hinzugefügt werden.
+III. Figurenidentität und Festlegung der Kernattribute
+Figur A | @Image1 | Schwertunsterbliche Senior Sister
+Identität & Erscheinungsbild
+Exakt dieselbe schwertführende Senior Sister:
+Erwachsene ostasiatische Frau, 25–30 Jahre alt
+Gesichtszüge übernehmen strikt das Referenzbild der Figur
+Gesichtsform übernimmt strikt das Referenzbild der Figur
+Hautton übernimmt strikt das Referenzbild der Figur
+Körperbau übernimmt strikt das Referenzbild der Figur
+Langes schwarzes Haar, halb hochgesteckt
+Fixiert mit einer weißen Jade-Haarnadel
+Festes Kostüm
+Weißes, besticktes Xianxia-Kostüm aus echter Seide
+Silberner Taillengürtel
+Exklusive Waffe
+Ein einzigartiges silbernes Langschwert.
+Persönlichkeit & Darstellung
+Würdevoll und elegant
+Zurückhaltende Mimik
+Wahrt gewohnheitsmäßig ihre Autorität als Senior Sister
+Wetteifernd im Umgang mit Junior Sister
+Komödiantischer Fokus
+Wenn die würdevolle Senior Sister beim heimlichen Üben von Junior Sister entdeckt wird, zeigt sie eine kurze, authentische Verlegenheit.
+Figur B | @Image2 | Junior Sister
+Identität & Erscheinungsbild
+Exakt dieselbe Junior Sister:
+Erwachsene ostasiatische Frau, 20–25 Jahre alt
+Gesichtsidentität übernimmt strikt das Referenzbild der Figur
+Körperproportionen übernehmen strikt das Referenzbild der Figur
+Frisur übernimmt strikt das Referenzbild der Figur
+Langes schwarzes geflochtenes Haar
+Festes Kostüm
+Grünlich-blaues Kleid im antiken Stil
+Dunkler Gürtel
+Exklusive Waffe
+Ein einzigartiges dunkles Stahlschwert.
+Persönlichkeit & Darstellung
+Lebhaft
+Wetteifernd
+Will nicht zugeben, dass sie weniger hart arbeitet als Senior Sister
+Komödiantischer Fokus
+Als sie denkt, sie könne heimlich üben, und dann entdeckt, dass Senior Sister ebenfalls da ist, reagiert sie sofort mit natürlicher Überraschung und Widerwillen.
+Neue Nebenfigur | Der alte Meister
+Im gesamten Film gibt es nur diesen einen alten Meister.
+Anforderungen an die Figur
+Erscheinungsbild durchgehend konsistent
+Kostüm durchgehend konsistent
+Position der Figur folgt einer realen räumlichen Logik
+Persönlichkeit
+Ernst
+Deadpan (völlig ausdruckslos)
+Hat einen leicht humorvollen, durchschauenden Blick für alles
+Darstellerischer Fokus
+Der Meister braucht keine übertriebene Mimik.
+Seine Ruhe bildet einen komödiantischen Kontrast zur Panik der beiden Heldinnen.
+IV. Hintergrund- und Umgebungs-DNA
+Alle neu hochgeladenen Referenzbilder für Hintergründe/Schauplätze definieren gemeinsam eine real existierende Xianxia-Welt.
+Umgebungsplanung
+Vor der eigentlichen Bildkomposition muss verstanden werden, was die Referenzbilder insgesamt darstellen:
+Geländestruktur
+Architektonische Beziehungen
+Räumliche Dimensionen
+Materialien
+Vegetation
+Gewässer
+Wolken/Nebel
+Wetter
+Hauptlichtrichtung
+Reflexionen
+Atmosphärische Tiefe
+Es ist eine offene Fläche zu planen, die für zwei Personen zum Schwertüben geeignet ist – unter der Voraussetzung, dass die tatsächlichen geografischen Beziehungen eingehalten werden.
+Kontinuität des Schauplatzes
+Alle drei Einstellungen finden stets im selben realen räumlichen System statt.
+Folgendes muss gewahrt bleiben:
+Konsistente Geländeverhältnisse
+Konsistente Gebäudepositionen
+Konsistente Wegepositionen
+Konsistente Hauptlichtrichtung
+Durchgehende markante Umweltmerkmale
+Grundprinzip
+Der Hintergrund darf selbst nicht zum Handlungselement werden.
+V. Lebendiger Hintergrund und narrative Neutralität
+Natürliche Bewegung der Umgebung
+Ein natürlicher Wind bewegt sanft und kontinuierlich:
+Ärmel
+Blätter
+Andere natürliche Objekte, die den Referenzbildern entsprechen
+Falls Gewässer vorhanden sind:
+Das Wasser fließt natürlich und kontinuierlich
+Falls Wolken/Nebel vorhanden sind:
+Wolken/Nebel verändern sich langsam entsprechend dem realen Gelände
+Gleichzeitig ist zu wahren:
+Natürliche Bewegung der entfernten Vegetation
+Durchgehende Reflexionen
+Kontinuierliche atmosphärische Schichten
+Umgebungsprinzip
+Die gesamte Umgebung muss:
+Lebendig sein
+Echte Vitalität besitzen
+Den physikalischen Gesetzen entsprechen
+Und gleichzeitig:
+Die Entscheidungen der Figuren oder die komödiantischen Wendungen in keiner Weise beeinflussen.
+VI. Vollständiger Shot-Plan für 15 Sekunden
+0–5s | Erste Einstellung: Totale | Der Meister verkündet den freien Tag
+Funktion der Einstellung
+Regeln etablieren und dem Publikum klarmachen, dass heute eigentlich ein Ruhetag sein sollte.
+Kamera
+Breites Panorama verwenden.
+Leichte Untersicht.
+Die reale räumliche Tiefe der aktuellen Referenzszene vollständig zeigen.
+Initiale Positionierung der Figuren
+Meister
+Derselbe alte Meister steht in der Bildmitte.
+Senior & Junior Sisters
+Dieselbe weiß gekleidete Schwertunsterbliche Senior Sister und dieselbe grün gekleidete Junior Sister stehen Seite an Seite vor dem Meister.
+Beide:
+Tragen ihre Langschwerter in der Scheide
+Stehen in korrekter Haltung
+Schauen ernst
+Der Meister verkündet den freien Tag
+Der Meister erklärt völlig ausdruckslos:
+[Meister] „Heute ist ein freier Tag, niemand darf mit dem Schwert üben!"
+Erste Reaktion des Duos
+Die beiden hören vom freien Tag.
+In ihren Augen zeigt sich gleichzeitig dezente Freude.
+Doch sie nehmen sofort wieder ihre respektvolle Haltung ein.
+Synchronisierter Dialog & Aktion
+Beide verbeugen sich gleichzeitig zum Gruß:
+[Senior Sister, Junior Sister] „Jawohl!"
+Abgang der Figuren
+Anschließend:
+Senior Sister geht in die eine Richtung
+Junior Sister geht in die entgegengesetzte Richtung
+Beide gehen gemächlich
+Auch der Meister geht langsam den im Bild etablierten Weg entlang.
+Kameraanforderung
+Die Kamera bleibt ruhig.
+Narratives Ziel der ersten Einstellung
+Dem Publikum muss klar werden:
+Dass heute eigentlich für alle ein Ruhetag sein sollte.
+5–10s | Zweite Einstellung: Halbtotale | Zwei Heimliche beim Üben ertappt
+Funktion der Einstellung
+Die erste komödiantische Wendung durch zwei unabhängige Handlungen und synchrone Verlegenheit vollenden.
+Räumliche Kontinuität
+Schnitt auf eine Halbtotale desselben Schwertübungsgeländes.
+Folgende Elemente schließen streng an die vorherige Einstellung an:
+Gelände
+Gebäude
+Licht
+Räumliche Beziehungen
+Erstes Aktionssegment: Senior Sister schleicht zurück
+Dieselbe weiß gekleidete Schwertunsterbliche Senior Sister kehrt leise zum Übungsgelände zurück.
+Zunächst beobachtet sie sehr natürlich ihre Umgebung.
+Vergewissert sich, dass der Meister nicht in der Nähe ist.
+Zieht dann dasselbe silberne Langschwert.
+Schwerttechnik von Senior Sister
+Sie führt schnell eine äußerst anmutige Bewegung aus:
+Einen diagonalen Schlag mit Drehung.
+Anforderungen an die Aktion:
+Flüssige Körperbewegung
+Sicherer Stand
+Echte Seidenärmel schwingen natürlich in eleganten Bögen
+Zweites Aktionssegment: Junior Sister schleicht ebenfalls zurück
+Doch fast zur gleichen Zeit.
+Kehrt dieselbe grün gekleidete Junior Sister leise von der anderen Seite des Bildes zurück.
+Auch sie geht davon aus, dass sonst niemand hier ist.
+Also zieht sie dasselbe dunkle Stahlschwert.
+Schwerttechnik von Junior Sister
+Sie führt aus:
+Einen sauberen, scharfen diagonalen Schlag.
+Prinzip der doppelten Schwerttechnik
+Die Bewegungen beider Figuren sind anmutig.
+Schwertspitzen:
+Keine Kollision
+Nicht aufeinander gerichtet
+Erste komödiantische Wendung: Gegenseitige Entdeckung
+Bis sich die beiden nach ihrer Drehung gegenüberstehen.
+Plötzlich stellen sie fest:
+Die andere ist tatsächlich auch hier.
+Beide Meisterinnen erstarren gleichzeitig.
+Komödiantische Pause
+Eine Pause wahren, die:
+Vollständig
+Klar
+Leicht unangenehm ist
+Erste Dialogrunde
+Junior Sister spricht zuerst:
+[Junior Sister] „Senior Sister, du übst also auch heimlich?"
+Senior Sister kontert sofort:
+[Senior Sister] „Du etwa nicht?"
+Stumme Doppelreaktion
+Beide Schwerter bleiben in sicheren Positionen.
+Zuerst blicken sie hinab auf die Schwerter in den Händen der jeweils anderen.
+Dann heben sie den Blick und treffen sich in den Augen.
+Komödiantische Information
+Zwei Personen, die eigentlich heimlich hart trainierten, können plötzlich nicht mehr so tun, als wären sie nur zufällig vorbeigekommen.
+Kameraprinzip
+Die Kamera behält eine vollständige Zweier-Bildkomposition bei.
+Die perfekt synchronisierte Verlegenheit der beiden soll den Lacher ganz natürlich erzeugen.
+10–15s | Dritte Einstellung: Nahaufnahme | Feiertag wird direkt zum Zusatztraining
+Funktion der Einstellung
+Die letzte komödiantische Wendung durch das Wiederauftauchen des Meisters, den Befehl zum Zusatztraining und die synchrone Doppelreaktion vollenden.
+Kamera
+Die Kamera fährt langsam aus der Zweier-Halbtotale heran.
+Räumliche Logik der Rückkehr des Meisters
+Derselbe Meister war bereits den zuvor etablierten Weg entlanggegangen.
+Doch nachdem er die Geräusche ihres Schwerttrainings gehört hat:
+Bleibt er stehen
+Dreht sich um
+Geht denselben Weg zurück
+Senior und Junior Sister bemerken nichts davon.
+Der Meister spricht plötzlich
+Bis der Meister ruhig hinter ihnen sagt:
+[Meister] „Ihr übt so gern? Dann noch hundert Bewegungen extra."
+Zweites synchrones Erstarren des Duos
+Die beiden hören die Stimme.
+Erstarren augenblicklich gleichzeitig.
+Danach, mit nahezu perfekt synchronisierten Bewegungen:
+Stecken sie ihre jeweiligen Langschwerter schnell zurück in die Scheiden
+Drehen sich gleichzeitig um
+Stellen sich dem Meister
+Verbeugen sich aufrichtig
+Synchrone Bitte im Dialog
+[Senior Sister, Junior Sister] „Meister, wir haben einen Fehler gemacht!"
+Trockener Humor des Meisters als Abschluss
+Die Miene des Meisters bleibt unverändert.
+[Meister] „Zu spät."
+Letzte Detailaufnahme
+Die beiden Schwertunsterblichen, die einander nur heimlich übertreffen wollten, sehen sich sehr langsam an.
+Sie erkennen gleichzeitig:
+Zwei heimlich geübte Bewegungen haben zu hundert zusätzlichen Trainingsbewegungen geführt.
+Abschlussmimik
+Auf beiden Gesichtern erscheint derselbe hilflose Ausdruck.
+Sie müssen kein weiteres Wort sagen.
+Ende
+Genau im Moment ihres stummen Blickkontakts erfolgt ein präziser Schnitt ins Schwarze.
+VII. Drei Einstellungen und Rhythmuskontrolle
+Feste Zeitstruktur
+Zeit Einstellungsgröße Narrative Aufgabe Komikmechanismus 0–5s Breites Panorama Regel des Sekten-Ruhetags etablieren Ausdruckslose Regel vs. verborgene Erwartung 5–10s Zweier-Halbtotale Beide üben heimlich mit dem Schwert und erwischen sich Verhaltensspiegelung & synchrone Verlegenheit 10–15s Nahaufnahme, die in Detailaufnahme übergeht Meister taucht auf, ordnet Zusatztraining an Eingriff der Autorität & finale Wendung
+Schnittprinzip
+Die Grundstruktur aus drei durchgehenden Einstellungen im gesamten Film beibehalten.
+Die drei Einstellungen erfüllen jeweils:
+Regeln etablieren
+Regeln brechen
+Den Preis für den Regelbruch zahlen
+Komödiantischer Rhythmus
+Segment 1: Ruhig, geordnet
+Segment 2: Plötzliche Beschleunigung, anmutiges Schwertspiel, unerwartetes Erstarren
+Segment 3: Meister taucht ruhig auf, beide entschuldigen sich hastig, finaler stummer Blickkontakt
+Pausen müssen der Komik dienen, nicht künstlich in die Länge gezogen werden, um Zeit zu füllen.
+VIII. Schwerttechniken und Körperphysik
+Schwerttechnik von Senior Sister
+Verwendet das einzigartige silberne Langschwert.
+Aktionen:
+Schwert ziehen → Diagonaler Schlag mit Drehung → Sichere Landung → Junior Sister entdecken → Stoppen → Schließlich Schwert einstecken
+Schwerttechnik von Junior Sister
+Verwendet das einzigartige dunkle Stahlschwert.
+Aktionen:
+Schwert ziehen → Sauberer diagonaler Schlag → Sichere Landung → Senior Sister entdecken → Stoppen → Schließlich Schwert einstecken
+Anforderungen an die doppelte Schwerttechnik
+Bewegungen wirken real
+Schwertbahnen sind klar
+Körperbewegungen sind elegant
+Physik ist plausibel
+Stoffbewegung ist natürlich
+Figuren verfügen über echte Schwertkampffähigkeiten
+Streng verboten
+Übertriebene Spezialeffekte
+Ein echtes Duell zwischen den beiden
+Versehentliche Waffenkollisionen
+Sinnloses Herumfuchteln mit den Waffen
+IX. Darstellung der Figuren und komödiantische Spannung
+Senior Sister
+Einstellung 1
+Bewahrt das Bild der würdevollen, respektvollen Senior Sister.
+Zeigt nur dezente Freude beim Hören vom freien Tag.
+Einstellung 2
+Beobachtet vorsichtig die Umgebung und übt dann heimlich.
+Ihr Schwertspiel ist anmutig.
+Als sie Junior Sister entdeckt, bekommt ihre Autorität einen kurzen Riss.
+Sie bewahrt unbewusst dennoch ihre Fassung.
+Einstellung 3
+Steckt das Schwert sofort ein und entschuldigt sich, als sie die Stimme des Meisters hört.
+Blickt am Ende zu Junior Sister und zeigt eine zurückhaltende, aber deutliche Hilflosigkeit.
+Junior Sister
+Einstellung 1
+Freudig, aber höflich beim Hören vom freien Tag.
+Einstellung 2
+Schleicht zurück, um zu üben.
+Ihre Bewegungen sind ebenso anmutig.
+Als sie Senior Sister entdeckt, ist sie zuerst überrascht und kann dann nicht anders, als zu sprechen.
+Einstellung 3
+Entschuldigt sich schnell, als der Befehl zum Zusatztraining kommt.
+Bildet am Ende mit Senior Sister einen synchronen hilflosen Gesichtsausdruck.
+Meister
+Einstellung 1
+Verkündet den freien Tag mit ernster Miene.
+Einstellung 2
+Geht den etablierten Weg entlang.
+Einstellung 3
+Kehrt natürlich zurück, nachdem er die Übungsgeräusche gehört hat.
+Ordnet ruhig das Zusatztraining an.
+Reagiert auf ihre Bitten mit unveränderter Miene und sagt:
+„Zu spät."
+Darstellungsprinzip
+Der Humor des Meisters entsteht dadurch:
+Je ernster er ist, desto verlegener werden die beiden.
+X. Vollständige Dialoge und Lippensynchronität
+0–5s
+[Meister] „Heute ist ein freier Tag, niemand darf mit dem Schwert üben!"
+[Senior Sister, Junior Sister gleichzeitig] „Jawohl!"
+5–10s
+[Junior Sister] „Senior Sister, du übst also auch heimlich?"
+[Senior Sister] „Du etwa nicht?"
+10–15s
+[Meister] „Ihr übt so gern? Dann noch hundert Bewegungen extra."
+[Senior Sister, Junior Sister gleichzeitig] „Meister, wir haben einen Fehler gemacht!"
+[Meister] „Zu spät."
+Anforderungen an die Dialogumsetzung
+Alle Dialoge in natürlichem Mandarin
+Die vorgegebenen Figuren sprechen exakt ihre Zeilen
+Lippensynchronität passt zum Ton
+Gleichzeitige Dialoge müssen wirklich synchron sein
+Keine spontanen erklärenden Zeilen hinzufügen
+Komödiantische Pausen
+Folgendes muss erhalten bleiben:
+Kurzes Erstarren nach der gegenseitigen Entdeckung
+Synchrone Reaktion beim plötzlichen Auftauchen des Meisters
+Finaler stummer Blickkontakt der beiden
+Kernprinzip
+Die Haupthandlung durch Aktionen, Blicke und komödiantische Pausen der Figuren vervollständigen.
+XI. Kontinuität von Figuren, Waffen und Szene
+Doppelte Hauptrollen
+Streng zu wahren:
+Dieselbe Gesichtsidentität
+Dieselbe Gesichtsform und -züge
+Dieselbe Frisur
+Dasselbe Kostüm
+Dieselben Körperproportionen
+Waffen
+Senior Sister
+Einzigartiges silbernes Langschwert.
+Junior Sister
+Einzigartiges dunkles Stahlschwert.
+Status der Waffen
+Einstellung 1:
+Beide Schwerter stecken in der Scheide.
+Einstellung 2:
+Beide ziehen getrennt voneinander ihre Schwerter zum Üben.
+Einstellung 3:
+Beide stecken ihre jeweiligen Langschwerter gleichzeitig zurück in die Scheiden.
+Meister
+Zu wahren:
+Dieselbe Figurenidentität
+Dasselbe Erscheinungsbild
+Dasselbe Kostüm
+Durchgehender realer Bewegungspfad
+Raum
+In allen drei Einstellungen muss gelten:
+Dasselbe Umfeld
+Dieselben geografischen Beziehungen
+Dasselbe architektonische System
+Dieselbe Lichtlogik
+Dasselbe Übungsgelände
+Strenge Einschränkungen
+Figuren dürfen nicht auf magische Weise:
+Auftauchen
+Den Platz tauschen
+Sich teleportieren
+XII. Sounddesign
+Umgebungsgeräusche
+Reale räumliche Klänge wahren, die der Referenzumgebung entsprechen:
+Natürlicher Wind
+Raschelnde Blätter
+Fließendes Wasser (falls in der Referenzszene vorhanden)
+Entfernte Umgebungsgeräusche
+Reibungsgeräusche echter Seide
+Geräusche der Schwerttechnik
+Beim Ziehen und Schlagen:
+Reales Reibungsgeräusch beim Ziehen des Schwerts
+Kurze, klare Geräusche des Schwertes, das die Luft durchschneidet
+Geräusch der Ärmel bei Drehungen
+Reale Aufsetzgeräusche der Schritte
+Komödiantischer Klangrhythmus
+Einstellung 1
+Vor allem natürliche Umgebungsgeräusche und Figurendialoge.
+Einstellung 2
+Anmutige Schwertbewegungen bringen kurze Luftdurchschneidungs-Geräusche mit sich.
+Nach der gegenseitigen Entdeckung ausreichend klare natürliche Pausen wahren.
+Einstellung 3
+Der Meister spricht ruhig.
+Natürliche Reibungsgeräusche der Scheiden, als beide schnell ihre Schwerter einstecken.
+Letzte Zeile:
+„Zu spät."
+Danach Abschluss mit dem stummen Blickkontakt der beiden.
+XIII. Finale Ausführungsanforderungen für Seedance 2.0 Mini
+Grundspezifikationen
+Exakt 15 Sekunden umsetzen
+16:9 Querformat
+Drei klare narrative Einstellungen
+Kernfokus der Umsetzung
+Identitäten der beiden Hauptfiguren konsistent
+Identität und Bewegungspfad des Meisters durchgehend
+Geografischer Raum über drei Einstellungen hinweg kontinuierlich
+Schwerttechniken real und anmutig
+Verlegene Reaktionen der beiden natürlich synchronisiert
+Darstellung des trockenen Humors des Meisters zurückhaltend
+Alle Mandarin-Dialoge und Lippensynchronität präzise
+Umgebung natürlich lebendig und narrativ neutral
+Streng verboten
+Plötzliche Gesichtsveränderungen
+Plötzliche Kostümwechsel
+Frisurwechsel
+Verdopplung von Langschwertern oder Verwechslung der Besitzer
+Meister, der sich plötzlich hinter sie teleportiert
+Plötzliche Wechsel des Hintergrund-Schauplatzes
+Irrelevante Magieeffekte
+Echte Zusammenstöße der beiden Waffen
+Unnötige Zeitlupe
+Übertriebener Slapstick
+Sinnlose schnelle Kamerabewegungen
+Moderne Elemente
+Untertitel
+Titel
+Wasserzeichen
+XIV. Endgültige Abnahmekriterien
+Die folgenden sieben Schlüsselereignisse müssen vollständig dargestellt werden:
+Der Meister verkündet unmissverständlich den freien Tag und verbietet Schwertübungen.
+Senior und Junior Sister antworten respektvoll und gehen in entgegengesetzte Richtungen.
+Senior Sister schleicht zurück zum Üben und führt anmutige Schwertbewegungen aus.
+Junior Sister schleicht ebenfalls zurück und führt eigene Schwertbewegungen aus.
+Die beiden entdecken einander, erleben eine kurze Verlegenheit und stellen sich gegenseitig zur Rede.
+Der Meister kehrt auf dem ursprünglichen Weg zurück und ordnet hundert zusätzliche Trainingsbewegungen an.
+Beide entschuldigen sich synchron, erfahren, dass es zu spät ist, und blicken sich schließlich hilflos an, bevor ins Schwarze geschnitten wird.
+Finale komödiantische Pointe
+Die beiden, die am meisten fürchteten, heimlich von der anderen übertroffen zu werden, werden am Ende gemeinsam mit Zusatztraining bestraft.
+Der wahre Lacher entsteht daraus:
+Ihre Schwertkünste sind beeindruckend, doch ihre Gedanken wurden vom Meister glasklar durchschaut.
+XV. Negativer Prompt
+blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, watermark, text, error; deformed, mutated, bad anatomy, poorly drawn hands, bad composition, out of frame, disfigured; inconsistent character, changing clothes, face morphing, background shift, glitching cuts, disappearing props
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117170492784410624/img/4xtXWA3SnTajsD5_.jpg" width="600" alt="Seedance 2.0 Mini: Prompt für ein Video über altchinesische Xianxia-Komödie">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13439)**
+
+**Autor:** [Soran](https://x.com/Soranlan) | **Quelle:** [Link](https://x.com/Soranlan/status/2117171375064719437) | **Veröffentlicht:** Nov 2, 2026
+
+---
+### Seedance 2.0 Mini: Cinematischer Xianxia-Video-Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein detaillierter Prompt zur Generierung eines 15-sekündigen cinematischen chinesischen Xianxia-Kurzfilms (Unsterblicher Held) mit Seedance 2.0 Mini. Er legt die Charakterkonsistenz über Referenzbilder hinweg, Kamerabewegungen, Beleuchtungsstile (Arri Alexa Qualität) sowie eine dreiteilige Erzählstruktur fest, die Gedächtnisverlust und emotionale Wendung umfasst.
+
+#### 📝 Prompt
+
+```
+Seedance 2.0 Mini | „Lasst uns einander neu kennenlernen“
+
+Modell: Seedance 2.0 Mini
+Dauer: Exakt 15 Sekunden
+Seitenverhältnis: 16:9 Querformat
+Genre: Reines altchinesisches Xianxia / Emotionaler Twist / Psychologischer Thriller / Beziehungsdrama
+Struktur: Drei durchgehende, klare filmische Einstellungen mit unterschiedlichen narrativen Funktionen.
+
+I. Gesamtstil und kreative Ausrichtung
+Ein hyperrealistischer Kurzfilm im Stil des altchinesischen Xianxia auf Kino-Niveau.
+Konstruiere einen emotionalen Twist in einer verträumten Farbgebung unter Verwendung folgender Elemente:
+Eine grandiose, aber realistische Xianxia-Welt
+Zurückhaltendes Schauspiel der Figuren
+Starker Kontrast in den Beziehungen
+Präzise Kamerasprache
+Kameraführung und visuelle Textur
+Verwende:
+Die Bildtextur einer Arri-Alexa-Kinokamera
+Realistische menschliche Haut
+Feine Seidenstoffe
+Natürliches Volumenlicht
+Luftperspektive
+Echte räumliche Tiefe
+
+II. Kernhandlung und emotionaler Twist
+Handlungskern
+Ein Mensch erlangt endlich die Unsterblichkeit, vergisst jedoch im Moment des Aufstiegs in den Himmel genau die Person, die er am wenigsten vergessen wollte.
+Die Schwert-Unsterbliche Senior-Schwester steht kurz vor dem Aufstieg.
+Der Himmlische Gesandte überbringt das Aufstiegsdekret.
+Der Preis dafür lautet:
+Alle sterblichen Erinnerungen auslöschen.
+Als das Dekret wirkt, vergisst die Senior-Schwester die Junior-Schwester tatsächlich.
+Letztendlich zerschneidet sie den Aufstiegsvertrag jedoch aus eigenem Antrieb.
+Der wahre Twist
+Die Senior-Schwester gewinnt ihre Erinnerung nicht zurück.
+Sie entscheidet sich einfach erneut für den Menschen vor ihr.
+Finaler emotionaler Ankerpunkt
+„Nein. Lasst uns einander neu kennenlernen.“
+Dieser Satz darf nicht zu früh fallen; er erklingt ganz natürlich erst in der letzten Nahaufnahme.
+Erzählprinzip
+Das gesamte Segment treibt die Handlung ausschließlich über die Beziehungen der Figuren voran.
+Verzichte auf:
+Groß angelegte Magie
+Lange Erklärungen
+Plötzliche Hintergrundwechsel
+
+III. Identität der Figuren und Festlegung der Kern-Assets
+Figur A | @Image1 | Schwert-Unsterbliche Senior-Schwester
+Identität
+Dasselbe ostasiatische weibliche Model, erwachsen, 25–30 Jahre alt.
+Übernehme Identität und Gesichtszüge exakt aus dem Referenzbild.
+Festes Erscheinungsbild
+Heller, natürlicher ovaler Gesichtsschnitt
+Dunkle mandelförmige Augen
+Langes schwarzes Haar, halb hochgesteckt
+Mit einer weißen Jade-Haarnadel fixiert
+Große, schlanke Statur
+Feste Kleidung
+Weißes Hanfu aus echter Seide mit Stickereien
+Halbtransparente, geschichtete weite Ärmel
+Silbernes Taillensiegel
+Jade-Anhänger
+Weiße Stoffstiefel
+Exklusive Waffe
+Das einzige silberne Langschwert.
+Asset-Kontinuität
+Folgendes muss durchgehend konsistent bleiben:
+Gesicht
+Frisur
+Körperform
+Kleidung
+Silbernes Schwert
+Jade-Anhänger
+
+Figur B | @Image2 | Junior-Schwester
+Identität
+Dasselbe ostasiatische weibliche Model, erwachsen, 20–25 Jahre alt.
+Übernehme Identität und Gesichtszüge exakt aus dem Referenzbild.
+Festes Erscheinungsbild
+Rundes, strahlendes Gesicht
+Langes schwarzes geflochtenes Haar
+Zierliche Statur
+Feste Kleidung
+Blaugrünes Hanfu aus Leinen
+Dunkler Gürtel
+Hölzerne Haarnadel
+Schwarze Stoffschuhe
+Exklusive Waffe
+Das einzige dunkle Stahlschwert.
+Aktionsbeschränkung für dieses Segment
+Die Junior-Schwester muss in diesem Film nicht ihr Schwert ziehen.
+
+IV. Neue Nebenfiguren
+Himmlischer Gesandter
+Ein erwachsener Gesandter im antiken Stil mit würdevoller Ausstrahlung.
+Kleidung
+Dezent luxuriöses hellgoldenes Zeremoniengewand.
+Kern-Requisite
+Hält eine Schriftrolle aus goldener Seide – das Aufstiegsdekret – in der Hand.
+Schauspielerische Anforderungen
+Seine Erhabenheit entsteht durch:
+Eine stabile Körperhaltung
+Eine ruhige Stimme
+Es sind keine übertriebenen magischen Aura-Effekte nötig.
+Ältester Meister
+Steht im Hintergrund und beobachtet die Entscheidung seiner beiden Schülerinnen.
+Sektenschüler
+Zwei Sektenschüler stehen weiter entfernt und dienen als natürliche Zeugen in der Umgebung.
+Allgemeine Beschränkungen für Nebenfiguren
+Keine dieser drei Arten von Nebenfiguren darf den Spielraum der Protagonisten einnehmen.
+
+V. DNA von Hintergrund und Umgebung
+Alle in dieser Runde hochgeladenen Referenzbilder für Hintergründe und Schauplätze definieren gemeinsam die physisch existierende Welt.
+Umgebungsplanung
+Etabliere basierend auf den Referenzbildern eine einheitliche räumliche Logik.
+Folgendes muss erhalten bleiben:
+Charakteristik des Geländes
+Architektonisches Layout
+Alter der Materialien
+Vegetation
+Gewässer
+Wetter
+Wolkenschichten
+Hauptrichtung des Lichts
+Reflexionsverhältnisse
+Gesamtfarbschema
+Tiefe der Luft
+Kamera und räumliche Veränderungen
+Es ist erlaubt, passend neu zu wählen:
+Kamerapositionen
+Schärfentiefe
+Positionierung der Figuren
+Nicht jede Einstellung muss alle Orientierungspunkte gleichzeitig zeigen.
+Aber wichtige Gebäude, natürliches Gelände und Lichtrichtungen müssen räumlich kontinuierlich bleiben.
+Prinzip des lebendigen Hintergrunds
+Der Hintergrund bleibt durchgehend natürlich und lebendig.
+Natürliche Dynamik
+Wind bewegt die Blätter
+Wolken und Nebel fließen natürlich
+Haarsträhnen bewegen sich im Wind
+Ärmel schwingen natürlich
+Gewässer und Reflexionen behalten eine echte Bewegung bei
+Figuren in der Ferne dürfen natürlichen Aktivitäten nachgehen
+Narrative Neutralität der Umgebung
+Der Hintergrund trägt lediglich die Präsenz der realen Welt.
+Er hat nicht die Aufgabe, die Handlung voranzutreiben.
+Einziger übernatürliches Handlungselement
+Der einzige übernatürliche Faktor, der die Handlung in diesem Film direkt beeinflusst, ist das Himmlische Aufstiegsdekret.
+
+VI. Vollständige 15-Sekunden-Struktur mit drei Einstellungen
+0–5 s | Einstellung 1: Der Preis des Aufstiegs
+Einstellungsgröße
+Totale
+Kamerabewegung
+Die Kamera bewegt sich langsam durch den Ritualraum nach vorn.
+Ausgangszustand
+Beginnt direkt in der Aufstiegszeremonie.
+Die Schwert-Unsterbliche Senior-Schwester und die Junior-Schwester stehen Seite an Seite.
+Der Himmlische Gesandte steht vor ihnen und entfaltet ein altes, luxuriöses Aufstiegsdekret aus goldener Seide.
+Im Hintergrund sind der Meister und einige Schüler zu erkennen.
+Erster Handlungsknotenpunkt: Die Verkündung des Preises
+Der Gesandte verkündet feierlich:
+[Gesandter] „Nimm das Dekret an und vergiss deine Vergangenheit.“
+Reaktion der Senior-Schwester
+Nachdem sie dies gehört hat, zeigt die Senior-Schwester keine Angst.
+Sie dreht den Kopf zur Junior-Schwester.
+Ihr Blick ist sanft und trägt die Vertrautheit eines langen gemeinsamen Lebens.
+[Senior-Schwester] „A-Ning, warte auf mich.“
+Zweiter Handlungsknotenpunkt: Aktives Annehmen des Dekrets
+Anschließend streckt die Senior-Schwester aktiv ihre rechte Hand aus, um das Dekret anzunehmen.
+Ein extrem feiner goldener Lichtfaden löst sich langsam vom Rand des Dekrets.
+Der Lichtfaden verlängert sich natürlich und legt sich um das Handgelenk der Senior-Schwester.
+In diesem Moment beginnt das Dekret zu wirken.
+Dritter Handlungsknotenpunkt: Das Verschwinden der Erinnerung
+Stelle es nicht so dar, als würde sie vom Blitz getroffen oder gewaltsam von einem Zauber kontrolliert.
+Die Senior-Schwester zeigt lediglich einen extrem kurzen, leeren Ausdruck.
+Die Wärme in ihren Augen, wenn sie die Junior-Schwester ansieht, verschwindet plötzlich.
+Ende der Einstellung
+Schnitt auf die Augen der Junior-Schwester, die die Veränderung bemerkt.
+Regie-Fokus für Einstellung 1
+Zeige den plötzlichen Bruch von Vertrautheit zu Fremdheit durch die Veränderung im Blick derselben Figur.
+Es sind keine übertriebenen magischen Spezialeffekte nötig.
+
+5–10 s | Einstellung 2: Sie hat wirklich vergessen
+Einstellungsgröße
+Halbnahaufnahme
+Kamerabewegung
+Leichter seitlicher Schwenk, um Gesichtsausdrücke und den goldenen Lichtfaden klar zu halten.
+Kontinuitätsanforderung
+Halte durchgehend bei:
+Denselben Raum
+Dasselbe Dekret
+Denselben goldenen Lichtfaden
+Dieselbe Schwert-Unsterbliche Senior-Schwester
+Erster Handlungsknotenpunkt: Völlige Fremdheit
+Die Senior-Schwester dreht langsam den Kopf zur Junior-Schwester.
+Ihr Ausdruck zeigt weder Boshaftigkeit noch dämonische Wildheit.
+Nur völlige Fremdheit.
+Als stünde eine unbekannte Passantin vor ihr.
+Die Senior-Schwester fragt leise:
+[Senior-Schwester] „Fräulein, wer seid Ihr?“
+Die echte Reaktion der Junior-Schwester
+Die Junior-Schwester erstarrt augenblicklich.
+Sie wollte eigentlich etwas sagen.
+Doch nachdem sich ihre Lippen leicht geöffnet haben, kommt kein Ton heraus.
+Diese plötzliche Fremdheit wirkt stärker als direktes Weinen.
+Zweiter Handlungsknotenpunkt: Das Drängen des Gesandten
+Der Gesandte sagt ruhig neben ihr:
+[Gesandter] „Die sterblichen Bande sind durchtrennt, bitte betrete den Pfad der Unsterblichen.“
+Dritter Handlungsknotenpunkt: Gewohnheitsmäßige Berührung
+Die Junior-Schwester sieht die Senior-Schwester an.
+Instinktiv greift sie aus und stützt sanft das Handgelenk der Senior-Schwester, das das Schwert hält und noch leicht zittert.
+Das ist eine natürliche Gewohnheit aus ihrem langen Zusammenleben.
+Körperliche Reaktion der Senior-Schwester
+Obwohl die Senior-Schwester sie nicht mehr erkennt, weist sie diese Berührung nicht zurück.
+Unbewusst entspannt sie ihr Handgelenk und lässt zu, dass die Junior-Schwester es hält.
+Kurze Pause.
+Vierter Handlungsknotenpunkt: Die Entdeckung des unsterblichen Vertrags
+Der Blick der Senior-Schwester wandert von der Hand der Junior-Schwester zu dem goldenen Lichtfaden, der noch immer ihr eigenes Handgelenk mit dem Dekret verbindet.
+Sie begreift:
+Diese Fremde vor ihr scheint einmal eine sehr tiefe Verbindung zu ihr gehabt zu haben.
+Sie trifft eine Entscheidung.
+Ende der Einstellung
+Schnitt auf ihre Hand, die das Schwert hält.
+Regie-Fokus für Einstellung 2
+Vollziehe den psychologischen Wandel durch diese drei Aktionen:
+Die Senior-Schwester blickt die Junior-Schwester völlig fremd an.
+Die Junior-Schwester hält ihr Handgelenk, und die Senior-Schwester entspannt sich instinktiv.
+Die Senior-Schwester entdeckt den goldenen Lichtfaden, der sie mit dem Dekret verbindet.
+Plane keine Erinnerungs-Rückblenden ein.
+Lass die Senior-Schwester nicht plötzlich wieder vertraut blicken.
+
+10–15 s | Einstellung 3: Einander neu kennenlernen
+Einstellungsgröße
+Nahaufnahme der Figuren, die schließlich in einer Detailaufnahme der Hände mündet.
+Erster Handlungsknotenpunkt: Aktives Durchtrennen des unsterblichen Vertrags
+Die Senior-Schwester zieht ihr Handgelenk langsam aus der Hand der Junior-Schwester zurück.
+Sie geht nicht zum Himmlischen Gesandten.
+Stattdessen zieht sie mit der rechten Hand das silberne Langschwert.
+Der Gesandte denkt zunächst, sie bereite sich darauf vor, den Aufstieg abzuschließen.
+Doch im nächsten Moment richtet die Senior-Schwester die Klinge des silbernen Schwertes auf den goldenen Lichtfaden an ihrem Handgelenk.
+Schlüsselaktion
+Ein sauberer, präziser Schnitt.
+Der Lichtfaden reißt sofort.
+Das feine goldene Licht löst sich natürlich auf.
+Auch das schwache Leuchten, das vom Dekret ausging, erlischt.
+Audiovisuelle Umsetzung
+Verzichte auf:
+Große Explosionen
+Donnerschläge
+Übertriebene magische Einschläge
+Benötigt wird nur:
+Eine klare Schnittbewegung, gefolgt von Stille.
+Zweiter Handlungsknotenpunkt: Die Junior-Schwester glaubt, die Erinnerung sei zurück
+Die Junior-Schwester sieht die Senior-Schwester an.
+Hoffnung kehrt in ihre Augen zurück.
+Sie fragt leise:
+[Junior-Schwester] „Hast du dich erinnert?“
+Pause
+Lasse eine vollständige, natürliche Pause.
+Dritter Handlungsknotenpunkt: Der wahre Twist
+Die Senior-Schwester sieht sie an.
+Es gibt keine wundersame, plötzliche Rückkehr aller Erinnerungen.
+Sie antwortet nur ruhig:
+[Senior-Schwester] „Nein.“
+Der Blick der Junior-Schwester verdunkelt sich leicht.
+Genau als sie denkt, alles sei vorbei, senkt die Senior-Schwester langsam ihr Langschwert.
+Sie streckt ihr die leere linke Hand entgegen.
+Ihre Stimme ist sehr sanft:
+[Senior-Schwester] „Lasst uns einander neu kennenlernen.“
+Vierter Handlungsknotenpunkt: Erneuter Händedruck
+Die Junior-Schwester erstarrt.
+Dann legt sie schließlich langsam ihre Hand in die Handfläche der Senior-Schwester.
+Schauspielerische Beschränkungen
+Kein:
+Stürmisches Umarmen
+Übertriebenes Weinen
+Nur zwei Hände, die sich natürlich ineinanderlegen.
+Status der Hintergrundfiguren
+In der geringen Schärfentiefe im Hintergrund steht der Himmlische Gesandte noch immer an seinem Platz.
+Der älteste Meister senkt langsam den Blick.
+Letztes Bild
+Die Kamera bleibt auf:
+Zwei Händen, die sich natürlich ineinanderlegen.
+Der durchtrennte goldene Lichtfaden löst sich langsam in der Luft dahinter auf.
+Finaler emotionaler Ankerpunkt
+Die Senior-Schwester hat ihre vergangenen Erinnerungen verloren.
+Aber sie hat sich persönlich für einen Neuanfang entschieden.
+
+VII. Einheitliche Ausführungsanforderungen für Seedance 2.0 Mini
+Videospezifikationen
+Exakt 15 Sekunden
+16:9 Querformat
+Drei klar definierte Einstellungen
+Dreiteilige narrative Struktur
+
+| Zeit | Einstellungsgröße | Kernereignis |
+|---|---|---|
+| 0–5 s | Totale | Aufstiegszeremonie, Dekret wirkt, Erinnerung beginnt zu verblassen |
+| 5–10 s | Halbnahaufnahme | Senior-Schwester vergisst Junior-Schwester vollständig, emotionale Bindung bricht |
+| 10–15 s | Nahaufnahme bis Detailaufnahme der Hände | Senior-Schwester durchtrennt aktiv den unsterblichen Vertrag und wählt sie erneut, ohne ihre Erinnerung wiederzuerlangen |
+
+VIII. Vollständiger Dialog und Lippensynchronisation
+Dialogregeln
+Natursynchronisiertes Mandarin
+Muss exakt zu den Lippenbewegungen der Figuren passen
+Halte dich strikt an die vorgegebenen sprechenden Figuren
+Füge keine spontanen erklärenden Zeilen hinzu
+Füge keinen Voice-over-Kommentar hinzu
+
+0–5 s
+[Gesandter] „Nimm das Dekret an und vergiss deine Vergangenheit.“
+[Senior-Schwester] „A-Ning, warte auf mich.“
+
+5–10 s
+[Senior-Schwester] „Fräulein, wer seid Ihr?“
+[Gesandter] „Die sterblichen Bande sind durchtrennt, bitte betrete den Pfad der Unsterblichen.“
+
+10–15 s
+[Junior-Schwester] „Hast du dich erinnert?“
+[Senior-Schwester] „Nein. Lasst uns einander neu kennenlernen.“
+
+Sprechrhythmus für die letzte Zeile
+„Nein. Lasst uns einander neu kennenlernen.“
+Erlaube dazwischen eine natürliche Pause.
+Folgendes muss gewährleistet sein:
+„Nein“ drückt aus, dass die Erinnerung tatsächlich nicht zurückgekehrt ist
+Die Pause bewahrt das Gefühl des Verlusts der Junior-Schwester
+„Lasst uns einander neu kennenlernen“ vollendet den wahren emotionalen Twist
+Zeitlimit
+Die letzte Zeile darf den Dialog nicht künstlich in die Länge ziehen und dadurch Zeit für andere Aktionen beanspruchen.
+
+IX. Vier Ebenen harter Kontinuitätsvorgaben
+1. Kontinuität der Figuren
+Bei beiden Protagonistinnen muss Folgendes durchgehend konsistent bleiben:
+Gesichtsidentität
+Frisur
+Kleidung
+Körperform
+Waffe
+Besondere Anforderung
+Die Senior-Schwester muss vor und nach der Amnesie dasselbe Gesicht behalten.
+Unterscheide die Erinnerungszustände nur durch subtile Veränderungen in Blick und Mimik.
+2. Kontinuität der Requisiten
+Es muss durchgehend sein:
+Dasselbe Dekret aus goldener Seide
+Derselbe goldene Lichtfaden
+Dasselbe silberne Schwert
+Zustandsänderung des unsterblichen Vertrags
+Dekret wirkt → Lichtfaden verbindet das Handgelenk → Senior-Schwester zieht das Schwert → Lichtfaden wird durchtrennt → Lichtfaden löst sich natürlich auf
+Nachdem der Lichtfaden durchtrennt wurde, darf er nicht wieder vollständig verbunden erscheinen.
+3. Kontinuität der Aktionen
+Die Senior-Schwester muss die Aktionen in folgender kausaler Reihenfolge ausführen:
+Dekret aktiv annehmen
+Erinnerung verlieren
+Junior-Schwester und Lichtfaden beobachten
+Schwert ziehen
+Lichtfaden durchtrennen
+Hand zur Junior-Schwester ausstrecken
+Alle Aktionen folgen einer klaren Ursache-Wirkungs-Sequenz.
+4. Emotionale Kontinuität
+Die Emotionen der Figuren durchlaufen nacheinander:
+Vertrautheit und Erwartung → Plötzliche Fremdheit → Schwierigkeit, es zu akzeptieren → Erneute Entscheidung → Zurückhaltende Erleichterung
+Erlaube keine grundlosen emotionalen Sprünge der Figuren.
+
+X. Visualisierung des unsterblichen Vertrags und übernatürliche Effekte
+Goldener Lichtfaden
+Der goldene Lichtfaden muss sein:
+Filigran
+Realistisch
+Darf die Gesichter der Figuren nicht verdecken
+Muss durchgehend mit demselben Dekret verbunden bleiben
+Muss die korrekte räumliche Beziehung zum Handgelenk der Senior-Schwester beibehalten
+Schnitteffekt
+Nachdem die Schwertspitze den Lichtfaden durchtrennt hat:
+Reißt der Lichtfaden
+Löst sich das feine goldene Licht natürlich auf
+Erlischt das ursprüngliche Leuchten des Dekrets entsprechend
+Visuelle Beschränkungen
+Füge nicht hinzu:
+Große Lichtausbrüche
+Donner
+Übertriebene Zaubereinschläge
+Irrelevante magische Spezialeffekte
+
+XI. Mikro-Schauspiel der Figuren
+Senior-Schwester
+Vor der Amnesie
+Sanfter Blick
+Natürlich vertraut mit der Junior-Schwester
+Gefasster Ausdruck
+Nach der Amnesie
+Keine Boshaftigkeit
+Keine Dämonisierung
+Ein wahrhaft fremder Blick
+Weist die natürliche Berührung der Junior-Schwester nicht zurück
+Finale Entscheidung
+Durchtrennt aktiv den unsterblichen Vertrag
+Gewinnt ihre Erinnerung nicht zurück
+Wählt die Junior-Schwester vor ihr ruhig erneut
+Junior-Schwester
+Einstellung 1
+Hat Erwartungen an den Aufstieg der Senior-Schwester.
+Einstellung 2
+Wechselt von Verwirrung zu Fassungslosigkeit.
+Lippen öffnen sich leicht, aber sie kann nicht sprechen.
+Einstellung 3
+Gewinnt durch das Durchtrennen des Vertrags neue Hoffnung
+Kurzlebige Enttäuschung nach dem Wort „Nein“
+Versteht die Entscheidung der Senior-Schwester nach den Worten „Lasst uns einander neu kennenlernen“ neu
+Legt ihre Hand schließlich aktiv in die Handfläche der Senior-Schwester
+Schauspielprinzip
+Drücke alles durch Mikroexpressionen, Blickkontakt, Atmung und Handbewegungen aus.
+Erzeuge keine emotionalen Höhepunkte durch übertriebenes Weinen oder Umarmungen.
+
+XII. Kameraführung und Kontinuität der Umgebung
+Kameraführung
+Die drei Einstellungen behalten klare Funktionen:
+Einstellung 1
+Etabliert die Aufstiegszeremonie und den Bruch der Erinnerung.
+Einstellung 2
+Beobachtet die Emotionen der Figuren und den goldenen Lichtfaden in der Halbnahaufnahme.
+Einstellung 3
+Vollendet die aktive Entscheidung durch Nahaufnahmen und die Detailaufnahme der Hände.
+Umgebung
+Die Umgebung bleibt durchgehend natürlich und lebendig.
+Dazu gehören:
+Natürlicher Wind
+Blätter
+Wolken und Nebel
+Haarsträhnen
+Ärmel
+Gewässer
+Reflexionen
+Aktivitäten ferner Figuren
+Die Umgebung beeinflusst die Handlung nicht aktiv.
+
+XIII. Sounddesign
+Dialog
+Natursynchronisiertes Mandarin.
+Anforderungen:
+Präzise chinesische Lippensynchronisation
+Klare Stimmen der Figuren
+Realistisches Atemgefühl
+Natürlicher Dialog
+Hintergrundmusik
+Der Score nutzt eine extrem leichte Xianxia-Atmosphäre als Grundton.
+Wird deutlich leiser nach:
+„Fräulein, wer seid Ihr?“
+Durchtrennen des Vertrags
+Im Moment des Durchtrennens behalte nur bei:
+Ein leises, klares metallisches Geräusch des Schwerts, das die Luft schneidet
+Das Geräusch des reißenden Lichtfadens
+Letzte Zeile
+„Lasst uns einander neu kennenlernen.“
+Muss sein:
+Klar
+Sauber
+Mit realistischem Atemgefühl
+
+XIV. Strikte Verbote
+Füge keine Umarmungen hinzu
+Füge kein Schreien/Weinen hinzu
+Füge keinen Erzähler hinzu
+Füge keine Rückblenden hinzu
+Füge keine modernen Elemente hinzu
+Füge keine zusätzlichen Figuren hinzu
+Generiere keine Untertitel
+Zeige keine groß angelegten magischen Darbietungen
+Lass die Umgebung die Handlung nicht aktiv vorantreiben
+Verändere nicht die Gesichtsidentitäten der Figuren
+Verändere nicht Kleidung und Waffen der Figuren
+Lass durchtrennte Lichtfäden sich nicht wieder verbinden
+Lass die Senior-Schwester ihre Erinnerung nicht plötzlich wiedererlangen
+
+XV. Finale Generierungsprinzipien
+Das Publikum muss klar erkennen:
+Die Senior-Schwester nimmt das Aufstiegsdekret aktiv an.
+Das Dekret nimmt ihr tatsächlich die Erinnerung an die Junior-Schwester.
+Die gewohnheitsmäßige Berührung der Junior-Schwester lässt die Senior-Schwester erkennen, dass sie einst eine tiefe Verbindung hatten.
+Die Senior-Schwester durchtrennt den unsterblichen Vertrag aktiv.
+Das Durchtrennen des Vertrags stellt die verlorenen Erinnerungen nicht wieder her.
+Die Senior-Schwester entscheidet sich dennoch aktiv dafür, die Junior-Schwester neu kennenzulernen.
+Die beiden reichen sich schließlich natürlich die Hände.
+Finale emotionale Anforderung
+Selbst wenn die Erinnerung verschwindet, können die beiden ihre Beziehung neu aufbauen.
+Alle Handlungen, Aktionen, Dialoge und emotionalen Twists halten sich strikt an die vollständige 15-sekündige Dauer von Seedance 2.0 Mini.
+
+XVI. Negative Prompt
+blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, watermark, text, error; deformed, mutated, bad anatomy, poorly drawn hands, bad composition, out of frame, disfigured; inconsistent character, changing clothes, face morphing, background shift, glitching cuts, disappearing props
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117159174383783936/img/GrBy3y7uTplAwyq4.jpg" width="600" alt="Seedance 2.0 Mini: Cinematischer Xianxia-Video-Prompt">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13437)**
+
+**Autor:** [Soran](https://x.com/Soranlan) | **Quelle:** [Link](https://x.com/Soranlan/status/2117159952251040147) | **Veröffentlicht:** Nov 2, 2026
+
+---
+### Seedance 2.0 Mini Xianxia Kurzfilm-Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein detaillierter Prompt zur Generierung eines 15-sekündigen, cineastischen Xianxia-Kurzfilms mit Seedance 2.0 Mini, der Charakterkonsistenz, spezifische Beleuchtung und emotionale Erzählbögen hervorhebt.
+
+#### 📝 Prompt
+
+```
+Seedance 2.0 Mini | „Dreißig Jahre Lebenszeit“
+
+Modell: Seedance 2.0 Mini
+Dauer: Exakt 15 Sekunden
+Seitenverhältnis: 16:9 Querformat
+Genre: Reines altchinesisches Xianxia / Psychologischer Thriller / Emotionaler Twist / Charakter-Beziehungsdrama
+Struktur: Drei aufeinanderfolgende, vollständige Einstellungen
+I. Prompt | Gesamtstil und kreative Ausrichtung
+Kinoreife, realistische Qualität, reine Ästhetik des altchinesischen Xianxia.
+Gesamtreferenz:
+Reife psychologische Thriller-Dramaturgie
+
+Wuxia-Charakterbeziehungen
+
+Authentische emotionale Darstellung
+
+Zurückhaltende audiovisuelle Inszenierung
+
+Visuell werden genutzt:
+
+Natürliches Volumenlicht
+Echte Mikrodetails der Haut
+Hochwertige Seiden- und Metallmaterialien
+Kameraarbeit mit räumlicher Tiefe
+
+II. Kernhandlung und emotionaler Twist
+
+Haupthandlung
+Die jüngere Schwester durchbricht in einer einzigen Nacht drei Reiche. Sie glaubt, endlich zur älteren Schwester aufschließen zu können, muss aber erkennen, dass sie für diesen rasanten Aufstieg dreißig Jahre ihrer Lebenszeit eingetauscht hat.
+Letztlich gibt sie ihre Kultivierung freiwillig auf.
+Und die ältere Schwester, die sie immer als ihr großes Ziel betrachtet hatte, kommt zum ersten Mal auf sie zu.
+
+Der wahre emotionale Konflikt
+
+Der eigentliche Konflikt spielt sich im Inneren der Figuren ab.
+
+Jüngere Schwester
+Verlangt nach Stärke
+Hat Angst, nie zur älteren Schwester aufschließen zu können
+Ist berauscht von der plötzlich erlangten, gewaltigen Kultivierung
+Muss nach dem Erkennen des Preises eigenständig eine Entscheidung treffen
+
+Daoist des Lebensraubs
+Der Daoist des Lebensraubs nutzt die Verzweiflung der jüngeren Schwester aus.
+
+Ältere Schwester
+Die ältere Schwester am Ende:
+Zahlt nicht den Preis für die jüngere Schwester
+Belehrt sie nicht mit langen Reden
+Trifft keine Entscheidungen für sie
+
+Sie zeigt der jüngeren Schwester lediglich durch eine einzige Geste:
+Die Distanz zwischen ihnen musste nie von der jüngeren Schwester allein und unter Aufbietung aller Kräfte überwunden werden.
+
+III. Figuren und Asset-Fixierung
+
+Figur A | @Image1 | Schwert-Unsterbliche ältere Schwester
+Exakt dieselbe schwertführende Unsterbliche (ältere Schwester):
+25–30 Jahre alte ostasiatische Frau
+Helles, weiches, ovales Gesicht
+Leuchtende, natürlich dunkle apricotfarbene Augen
+Realistisch zarte Haut
+Schwarzes, halb hochgestecktes Haar
+Weiße Jade-Haarnadel
+Große, schlanke Statur
+Festes Kostüm
+Weißer, bestickter Seiden-Hanfu
+Halbtransparente, geschichtete weite Ärmel
+Silbernes Taillensiegel
+Jade-Anhänger
+Weiße Stoffstiefel
+Exklusive Waffe
+Nur ein einziges silbernes Langschwert.
+Charakterausstrahlung
+Ruhig
+Wach
+Introvertiert
+Emotionen werden vermittelt durch:
+Blicke
+Atmung
+Minimalste Bewegungen
+
+Figur B | @Image2 | Jüngere Schwester
+Exakt dieselbe jüngere Schwester:
+20–25 Jahre alte ostasiatische Frau
+Runde, lebendige Gesichtszüge
+Schwarzes geflochtenes Haar
+Authentisches, natürliches Erscheinungsbild einer jungen Frau
+Festes Kostüm
+Blaugrüner Leinen-Hanfu
+Dunkler Gürtel
+Hölzerne Haarnadel
+Schwarze Stoffschuhe
+Exklusive Waffe
+Nur ein einziges dunkles Stahlschwert.
+Zustand der Figur
+Zu Beginn euphorisch über die plötzlich erlangte, gewaltige Kultivierung.
+Sichtlich schockiert, nachdem sie den Preis erfährt.
+Trifft daraufhin eigenständig eine Entscheidung.
+Neue Nebenrollen
+Alter Daoist des Lebensraubs
+Ruhiger Gesichtsausdruck
+Mit einer bedrohlichen Aura
+Nutzt das Verlangen der jüngeren Schwester nach Stärke aus
+Entfernte Sektenjünger
+Zwei entfernte Sektenjünger als stille Zeugen im Hintergrund.
+Einschränkungen für Nebenrollen
+Nebenfiguren dürfen den beiden Protagonistinnen visuell nicht die Hauptrolle stehlen.
+
+IV. Kern-Requisite | Bronzene Lebenswaage
+
+Aufbau der Requisite
+Eine antike bronzene Lebenswaage.
+Über der Waage schweben:
+Drei goldene Reichsperlen von identischer Größe und Beschaffenheit.
+Details zu den Reichsperlen
+Die drei Reichsperlen stehen für die geliehene dreifache Kultivierung.
+Das Tauschgeschäft wird visualisiert durch:
+Die bronzene Waage
+Die drei Reichsperlen
+Veränderungen der spirituellen Kraft bei den Figuren
+Visuelle Anforderungen
+Keine Abhängigkeit von lesbarem, generiertem Text.
+
+V. Umgebungs-DNA und Raumplanung
+Alle neu hochgeladenen Referenzbilder für Hintergründe und Schauplätze definieren die tatsächliche physische Welt.
+Vererbung der Umgebung
+Aus den Referenzbildern zu synthetisieren:
+Reales Terrain
+Räumliche Beziehungen der Hauptarchitektur
+Maßstab
+Materialien
+Vegetation
+Gewässer
+Wetter
+Wolken/Nebel
+Lichtrichtung
+Farben
+Reflexionen
+Lufttiefe
+Die Lebenswaage ist natürlich an Positionen zu platzieren, die den physikalischen Beziehungen der Originalszene entsprechen.
+Strenge Szenenanforderungen
+Der Referenzhintergrund darf nicht in eine beliebige, generische Xianxia-Kulisse umgewandelt werden.
+Prinzip des lebendigen Hintergrunds
+Folgende Elemente verändern sich stets auf natürliche Weise:
+Wind
+Wolken/Nebel
+Wasseroberfläche
+Entfernte Vegetation
+Kleidungsstoffe
+Umgebungsgeräusche
+Die Umgebung bleibt:
+Lebendig
+Vollständig
+Von echter räumlicher Vitalität geprägt
+Narrative Neutralität
+Die Umgebung darf nicht:
+Aktiv Konflikte erzeugen
+Über das Schicksal der Figuren entscheiden
+
+VI. Vollständiges 15-Sekunden-Storyboard
+0–5 s | Erste Einstellung: Totale fährt zu Halbtotale | Nächtlicher Durchbruch, enthüllter Preis
+Bildsprache
+Die Kamera fährt langsam aus einem leicht untersichtigen Dreiviertelwinkel vorwärts.
+Requisiten im Vordergrund
+Im Vordergrund befindet sich eine antike bronzene Waage.
+Drei goldene Reichsperlen schweben über den Waagschalen und verströmen ein sanftes, aber nicht übertriebenes goldenes spirituelles Licht.
+Positionierung der Figuren
+Die jüngere Schwester steht neben der Waage, in ihren Augen liegt noch das Staunen über den nächtlichen Durchbruch durch drei Reiche.
+Die ältere Schwester steht schräg dahinter.
+Der Daoist des Lebensraubs steht nahe der Waage und hebt den Blick.
+Erster Twist: Der Preis wird enthüllt
+Der Daoist spricht mit beunruhigender Ruhe.
+[Daoist] „Eine Nacht, drei Reiche. Dreißig Jahre Lebenszeit.“
+Reaktion der jüngeren Schwester
+Ihr Lächeln erstirbt augenblicklich.
+Sie weicht nicht sofort zurück, sondern blickt instinktiv auf die drei goldenen Reichsperlen.
+[Jüngere Schwester] „Ihr habt nicht gesagt, dass ich mit meinem Leben bezahle!“
+Reaktion der älteren Schwester
+Durch einen leichten Fokuswechsel richtet die Kamera den Blick der älteren Schwester plötzlich auf die bronzene Waage.
+Ende der ersten Einstellung
+Die erste Einstellung endet mit dem Schock der jüngeren Schwester.
+Regie-Fokus
+Den enormen Preis sofort zu Beginn offenlegen
+Keine bedeutungslosen Magie-Effekte hinzufügen
+Drei Reichsperlen und ein einziger Satz genügen, damit das Publikum begreift, was dieser sogenannte geniale Durchbruch wirklich bedeutet.
+
+5–10 s | Zweite Einstellung: Amerikanische Aufnahme | Freiwillige Rückgabe der Reiche
+Bildsprache
+Die Bewegungsachse der Figuren wird beibehalten.
+Die Kamera wechselt seitlich neben die bronzene Waage.
+Das Bild umfasst gleichzeitig:
+Ältere Schwester
+Jüngere Schwester
+Daoist des Lebensraubs
+Die Oberkörper aller drei.
+Die ältere Schwester prüft die Möglichkeit der Rückgabe
+Die ältere Schwester macht der jüngeren Schwester keine Vorwürfe.
+Sie sieht lediglich den Daoisten an und fragt direkt:
+[Ältere Schwester] „Kann es zurückgegeben werden?“
+Der Daoist nickt sacht.
+[Daoist] „Gib die Reiche zurück, erstatte die Lebenszeit.“
+Die freiwillige Entscheidung der jüngeren Schwester
+Die jüngere Schwester blickt auf die drei Reichsperlen, die sie bereits besitzt.
+In diesem Moment darf die ältere Schwester ihr die Entscheidung nicht abnehmen.
+Die jüngere Schwester streckt selbst die Hand aus, nimmt die drei schwebenden Reichsperlen und legt sie eine nach der anderen zurück auf die Waagschalen.
+[Jüngere Schwester] „Zurück.“
+Physischer und visueller Prozess der Rückgabe
+Das goldene Licht auf der Oberfläche der drei Reichsperlen zieht sich nach innen zusammen.
+Die gewaltige spirituelle Kraft der jüngeren Schwester fließt entsprechend zurück.
+Sie verzichtet freiwillig auf die drei gerade erst erlangten Reiche.
+Auflösung des Tauschgeschäfts
+Die gesamte geliehene Kultivierung wird zurückgegeben
+Die Schuld von dreißig Jahren Lebenszeit ist getilgt
+Kontinuität der Figuren
+Die Figuren dürfen nicht plötzlich:
+Altern
+Sich verformen
+Ihre Kleidung wechseln
+Regie-Fokus
+Die Kraft dieser Szene entsteht durch eine freiwillige Entscheidung.
+Die jüngere Schwester hat nicht:
+Die Reiche auf Befehl der älteren Schwester zurückgegeben
+Darauf gewartet, dass jemand anderes den Preis für sie zahlt
+Sie hat die Reichsperlen selbst genommen und selbst zurückgelegt.
+Die Kamera fängt diesen Prozess ein durch:
+Realistische Handbewegungen
+Einen klar sichtbaren Rückfluss der spirituellen Kraft
+
+10–15 s | Dritte Einstellung: Nahaufnahme fährt zu Detailaufnahme | Die wahre Distanz
+Ausgangssituation
+Die drei Reichsperlen liegen wieder still in den bronzenen Waagschalen.
+Der Daoist des Lebensraubs betrachtet die jüngere Schwester, deren Kultivierung auf den Ursprungszustand zurückgefallen ist.
+Der Daoist versucht ein letztes Mal, ihren Entschluss zu erschüttern
+[Daoist] „Und wie willst du dann je zu ihr aufschließen?“
+Die wahre Angst der jüngeren Schwester
+Die jüngere Schwester blickt zur weiß gekleideten älteren Schwester.
+Ihre Finger, die die Schwertscheide umklammern, spannen sich leicht an.
+[Jüngere Schwester] „Ich …“
+Ihre Stimme bricht ab.
+Sie hat tatsächlich Angst.
+Sie glaubte einst:
+Nur wenn sie zur Kultivierung der älteren Schwester aufschlösse, wäre sie würdig, für immer an ihrer Seite zu stehen.
+Der wahre emotionale Twist: Die ältere Schwester kommt näher
+Genau in diesem Moment bleibt die ältere Schwester nicht einfach stehen.
+Sie geht aus eigenem Antrieb auf die jüngere Schwester zu.
+[Ältere Schwester] „?“
+Kamerabewegung
+Die Kamera folgt der Bewegung der älteren Schwester dezent.
+Schließlich hält sie neben der jüngeren Schwester inne – exakt auf derselben Höhe.
+[Ältere Schwester] „Ich bin genau hier.“
+Die letzte Reaktion der jüngeren Schwester
+Die jüngere Schwester hebt langsam den Kopf.
+Die Emotionen wandeln sich in folgender Reihenfolge:
+Überraschung
+Erleichterung
+Ein sehr feines, natürliches Lächeln
+Grenzen der Darstellung
+Kein:
+Umarmen
+Weinen
+Übertriebene Gefühlsbekundungen
+Endzustand
+Die bronzene Waage kehrt zur Ruhe zurück.
+Der Daoist des Lebensraubs sagt kein weiteres Wort.
+Das Schlussbild verweilt auf:
+Den beiden, die Seite an Seite stehen.
+
+VII. Der finale emotionale Ankerpunkt
+Die jüngere Schwester hat die drei geliehenen Reiche verloren.
+Doch die Person, zu der sie wirklich aufschließen wollte, kam aus freien Stücken an ihre Seite.
+Konsequenzen müssen konsequent bleiben
+Nach dem Ende der Geschichte gilt:
+Die Kultivierung kehrt nicht plötzlich zurück
+Der Daoist des Lebensraubs verteilt keine versteckten Belohnungen
+Die Schuld von dreißig Jahren Lebenszeit ist getilgt
+Die Beziehung der beiden verändert sich durch echte Taten
+Die Kosten und Folgen aller Entscheidungen bleiben unangetastet.
+VIII. Ausführungsbeschränkungen für Seedance 2.0 Mini
+Videospezifikationen
+Exakt 15 Sekunden
+16:9 Querformat
+Drei aufeinanderfolgende, vollständige Einstellungen
+Einstellungsstruktur
+Zeit | Einstellungsgröße | Narrative Funktion
+0–5 s | Totale zu Halbtotale | Nächtlicher Durchbruch, enthüllter Preis
+5–10 s | Amerikanische Aufnahme | Jüngere Schwester gibt Reiche freiwillig zurück
+10–15 s | Nahaufnahme zu Detailaufnahme | Ältere Schwester kommt näher
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117151444751290368/img/PMwAHzpHjgEfkRHF.jpg" width="600" alt="Seedance 2.0 Mini Xianxia Kurzfilm-Prompt">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13434)**
+
+**Autor:** [Soran](https://x.com/Soranlan) | **Quelle:** [Link](https://x.com/Soranlan/status/2117152909758730271) | **Veröffentlicht:** Nov 2, 2026
+
+---
+### Seedance 2.0 Mini Xianxia Schlacht Kurzfilm
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Detaillierte Eingabeaufforderung für Seedance 2.0 Mini zur Erstellung eines 15-sekündigen, hyperrealistischen Kurzfilms über eine chinesische Xianxia-Reiter-Schlacht mit dem Titel 'Seizing the Order'. Der Fokus liegt auf physischer Realismus, Kamerabewegung und Kampfchoreografie ohne Dialog.
+
+#### 📝 Prompt
+
+```
+Seedance 2.0 Mini | 15-sekündiger Kurzfilm: Hochgeschwindigkeits-Kavalleriekampf im chinesischen Xianxia-Stil
+Titelgefühl: „Den Befehl an sich reißen“
+Grundlegende Spezifikationen
+Dauer: Exakt 15 Sekunden
+Seitenverhältnis: 16:9 Querformat
+Modell: Seedance 2.0 Mini
+Stil: Kinoreifer, hyperrealistischer Action-Kurzfilm im chinesischen Xianxia-Stil
+Keine Dialoge / Keine Untertitel / Keine Titel / Keine UI
+I. Gesamtstil und Kampf-Kernkonzept
+Kinoreifer, hyperrealistischer Action-Kurzfilm im chinesischen Xianxia-Stil.
+Basiert auf der Physik realer antiker Kavallerie – Geschwindigkeit, Waffenlänge, Trägheit des Schlachtrosses und Wendekreis –, kombiniert mit chinesischen Xianxia-Leichtfüßigkeitstechniken (Qinggong) über kurze Distanzen, scharfer Schwertkunst, dynamischer Kameraführung und explosiven Momenten.
+Kamera-Referenzen:
+
+Klassische Wuxia-Breitbild-Rauminszenierung
+Schnitttechnik für plötzliche Action im Stil von King Hu
+Moderne Actionfilm-Techniken: Verfolgung aus Untersicht, starke Parallaxe, schneller Wechsel der Bewegungsachsen und klares Aufprall-Feedback
+Zentrales Kampfziel
+Die Schwert-Unsterbliche im weißen Gewand muss dem schwer gepanzerten Kavalleriegeneral, der mit hoher Geschwindigkeit angreift, die Militärbefehlsflagge entreißen, ohne das Schlachtross zu verletzen.
+Logik des Kernkonflikts
+Der Kavalleriegeneral nutzt die Geschwindigkeit des Pferdes + die Reichweite des langen Speers, um die Militärbefehlsflagge zu schützen.
+Die Ältere Schwester nutzt ihre Fähigkeit zu schnellen Richtungswechseln über kurze Distanzen, um aktiv in die Bewegungslinie des Gegners einzuschneiden, bevor dieser seine Wende vollendet.
+Schließlich gelingt es ihr, die Flagge in einem einzigen, durchgehenden Hochgeschwindigkeits-Gefecht an sich zu reißen.
+Zwingend einzuhaltende Aktionsprinzipien
+Durchgehend ununterbrochene Hochgeschwindigkeitsbewegung im gesamten Film.
+Der Feind muss aktiv angreifen und seine Taktik anpassen.
+Kein Stillstehen, kein Warten auf Konter.
+Keine bereits verwendeten Klischees: Entwaffnung
+Würgen am Hals
+Tausch zweier Schwerter
+Blockieren der Waffe (Weapon Locking)
+
+Der Höhepunkt entsteht durch: Das Erfüllen der Aufgabe während der Hochgeschwindigkeitsbewegung.
+II. Kern-Assets und Charakter-Fixierung
+Charakter A | @Image1 | Ältere Schwester
+Verwende strikt die ursprüngliche Identität und das Erscheinungsbild der erwachsenen ostasiatischen Frau aus Bild 1:
+Gleiches Gesicht
+Ursprüngliche Gesichtsproportionen
+Schwarzes Haar
+Weißes Xianxia-Gewand
+Silberner Taillenschmuck
+Ursprüngliche Körperproportionen
+Ein einzigartiges silbernes Langschwert
+Anforderungen:
+Gesicht und Kleidung der Protagonistin bleiben konsistent.
+Echte Gesichtskonturen sind selbst bei Hochgeschwindigkeitsbewegungen sichtbar.
+Das schwarze Haar folgt bei Beschleunigung, abruptem Stoppen und Drehungen der natürlichen Trägheit.
+Charakter B | @Image2 | Jüngere Schwester
+Verwende strikt die ursprüngliche Identität und das Erscheinungsbild der erwachsenen ostasiatischen Frau aus Bild 2:
+Gleiches Gesicht
+Schwarzes geflochtenes Haar
+Blaugrünes Gewand im antiken Stil
+Ursprüngliche Körperproportionen
+Ursprünglich getragenes Schwert
+Anforderungen:
+Dieser Part dient hauptsächlich als Zeugin aus nächster Nähe.
+Nimmt nur am Ausweichmanöver zu Beginn teil.
+Führt keine komplexen Waffeninteraktionen aus.
+Feindlicher Kavalleriegeneral
+Ein General im antiken Stil, der eine dunkle Metallrüstung trägt.
+Hält einen langen Speer (Mao).
+Reitet ein einzelnes, großes, kräftiges, dunkelbraunes Schlachtross.
+Hinter dem Sattel ist eine dunkelrote Militärbefehlsflagge befestigt.
+Die Militärbefehlsflagge trägt keinen lesbaren Text.
+Anforderungen:
+Kavalleriegeneral, Schlachtross, langer Speer und Militärbefehlsflagge behalten innerhalb dieses Segments die nötige optische und objektbezogene Kontinuität.
+Gesichtsform und Rüstungsmuster des Generals müssen nicht zusätzlich detailliert fixiert werden.
+Füge keinen zweiten Reiter hinzu.
+III. Umgebungs- und Szenen-DNA
+Alle diesmal hochgeladenen Standort-Referenzbilder bestimmen gemeinsam die DNA der Umgebung.
+Vor der eigentlichen Generierung müssen basierend auf den Referenzbildern folgende Elemente abgeleitet und vereinheitlicht werden:
+Reales Terrain
+Gebäudeanordnung
+Vegetation
+Gewässer
+
+Materialien
+Beleuchtung
+Wetter
+Bergnebel
+Räumliche Tiefe
+Wähle aus Bereichen, die tatsächlich existieren oder aus den Referenzbildern logisch abgeleitet werden können, einen Weg oder ein offenes Gelände, das groß genug ist, damit das Schlachtross galoppieren und wenden kann.
+Kontinuitätsanforderungen
+Die folgenden ursprünglich bestehenden Beziehungen bleiben durchgehend konsistent verbunden:
+Hauptgebäude
+Landformen
+Wege
+Gewässer
+Pflanzen
+Licht- und Schattenverhältnisse
+Die Kamera kann denselben Ort aus verschiedenen Richtungen zeigen,
+darf aber nicht plötzlich zu einer neuen, generischen Xianxia-Szene wechseln.
+Anforderungen an den lebendigen Hintergrund
+Die folgenden Elemente bewegen sich natürlich weiter:
+Wind
+Wasserfluss
+Wolken und Nebel
+Kleidungsstoffe
+Vegetation
+Reflexionen
+Entfernte Umgebung
+Prinzip der Umgebungserzählung
+Die Umgebung bleibt erzählerisch neutral:
+Sie erschafft nicht plötzlich Hindernisse.
+Sie erschafft nicht plötzlich Gelegenheiten.
+Sie kämpft nicht für die Protagonistin.
+Sie entscheidet nicht über Sieg oder Niederlage einer Seite.
+Erlaubtes passives physikalisches Feedback:
+Die Hufe des Schlachtrosses wirbeln Staub, Schlammwasser und Wegtrümmer auf.
+Die Bewegungen der Charaktere erzeugen flatternde Säume, Haarflug und Abdrücke bei der Landung.
+Kontinuitätsanforderung:
+Bereits entstandene Kleidungsschäden, Hufabdrücke und Bewegungsspuren bleiben bestehen.
+IV. Storyboard-Skript (15 Sekunden)
+0–5s | Angriff der schweren Kavallerie: Gefahr vom ersten Blick an
+Einstellung 1 | 0,0–1,0s | 24mm Weitwinkel aus Untersicht
+Kamera nah an der Straßenoberfläche.
+Derselbe reale Weg im antiken Stil führt in die Tiefe des Bildes.
+Bildkomposition:
+Die Ältere Schwester steht mit einem Silberschwert auf einer Seite des Weges.
+Die Jüngere Schwester befindet sich leicht hinter ihr.
+In der Ferne greift der schwer gepanzerte Kavalleriegeneral auf einem dunkelbraunen Schlachtross mit hoher Geschwindigkeit an.
+Die dunkelrote Militärbefehlsflagge hinter dem Sattel flattert heftig.
+Der General senkt den langen Speer, dessen Spitze direkt auf die Ältere Schwester zeigt.
+Die vier Hufe des Rosses schlagen kontinuierlich auf den Boden; Schultern, Hals und Mähne folgen der echten Laufträgheit.
+Die schweren Hufschläge des galoppierenden Rosses nähern sich rasant und erzeugen einen starken Größenkontrast zwischen Nah- und Fernbereich.
+
+Einstellung 2 | 1,0–2,8s | 28mm Hochgeschwindigkeits-Seitenverfolgung auf Bodenhöhe
+Die Kamera wechselt plötzlich mit hoher Geschwindigkeit an die vordere Seite des Schlachtrosses.
+Hufe donnern nah an der Kamera vorbei; Staub oder Spritzer unter den Hufen werden je nach echtem Bodenmaterial heftig nach hinten geschleudert.
+Die Bildtiefe umfasst gleichzeitig:
+Brust und Schultern des Schlachtrosses
+Rüstungsteile des Generals
+Langen Speer
+Rote Militärbefehlsflagge im Hintergrund
+Der General ändert plötzlich den Griffwinkel am Speer und stößt heftig geradeaus auf die Ältere Schwester zu.
+Die Speerspitze zieht schnell durch den Vordergrund der Kamera.
+Harter Schnitt in dem Moment, in dem die Waffe das Bild vollständig verdeckt.
+Einstellung 3 | 2,8–5,0s | 35mm Seitliche Nahaufnahme
+Im letzten Moment explodiert die Ältere Schwester förmlich in einen seitlichen Ausfallschritt.
+Sie blockt das schnelle Schlachtross nicht frontal ab und kontert auch nicht gegen den Körper des Pferdes.
+Aktionskette:
+
+Sie stößt die Jüngere Schwester mit dem Arm aus der Laufbahn, während sie sich dreht, um dem langen Speer auszuweichen.
+Das Silberschwert lenkt die Flugbahn der Speerspitze nur kurzzeitig ab.
+Der General schwingt den langen Speer sofort mit dem Schwung zurück; die Klinge streift die äußerste Schicht des weiten Ärmels der Älteren Schwester und schneidet ein kleines Stück weißen, dünnen Gaze ab.
+Seidenfäden werden durch den schnellen Luftstrom nach hinten gezogen.
+Das Schlachtross galoppiert weiter vorwärts.
+Die Ältere Schwester landet, dreht sich sofort um und fixiert mit ihrem Blick rasch die Militärbefehlsflagge hinter dem Sattel.
+Fokus des ersten Segments
+Muss hervorgehoben werden:
+Die Kavallerie besitzt einen echten Geschwindigkeitsvorteil.
+Langwaffen besitzen einen echten Reichweitenvorteil.
+Die Ältere Schwester ist momentan noch in der Defensive.
+5–10s | Gegenverfolgung: Vom Ausweichen zum Abfangen
+
+Einstellung 4 | 5,0–7,2s | 35mm Seitliche Hochgeschwindigkeitsverfolgung
+Der General prescht weiter vorwärts und leitet in einem ausreichend breiten Abschnitt des Weges eine natürliche Wende mit großem Radius ein.
+Das Schlachtross muss sich gemäß echter Lauf- und Wendemechanismen anpassen:
+Schrittfrequenz
+Körperneigung
+Platzierung der vier Hufe
+Verboten: Das Schlachtross wendet sich plötzlich auf der Stelle.
+Die Ältere Schwester jagt dem Pferd nicht geradewegs hinterher.
+Nachdem sie die Wenderichtung des Generals erkannt hat, beschleunigt sie plötzlich diagonal und sichert sich die Position an der Innenseite seiner Wendelinie.
+
+Die Kamera verfolgt sie dicht und mit hoher Geschwindigkeit vom unteren Rücken/von der Seite.
+Die weiten weißen Ärmel schlagen heftig nach hinten; die Schuhsohlen treten kontinuierlich auf echten Boden.
+Sie nutzt einen kurzen, klar sichtbaren Xianxia-Sprung (Qinggong), um einen angemessenen Höhenunterschied im ursprünglichen Terrain zu überwinden, oder beschleunigt direkt am Boden.
+Muss beibehalten werden:
+Klarer Absprungpunkt
+Klare Bewegungslinie
+Klarer Landepunkt
+Verboten: Teleportation.
+Einstellung 5 | 7,2–8,5s | 28mm Diagonale Halbtotale von unten
+Die Kamera steigt schnell auf eine Position, von der beide Bewegungslinien klar sichtbar sind.
+Das Bild zeigt deutlich:
+Den General, der seine Wende in einem größeren Bogen fortsetzt.
+Die Ältere Schwester, die auf einer kürzeren Diagonalen einschneidet.
+Zwei Bewegungsrichtungen, die sich kreuzen.
+Die dunkelrote Militärbefehlsflagge, die immer heftig hinter dem General flattert.
+Der General hat bemerkt, dass die Ältere Schwester ihn abfängt.
+Er verkürzt aktiv seinen Griff am langen Speer und passt seine Haltung auf dem Pferd an.
+
+Einstellung 6 | 8,5–10,0s | 50mm Hochgeschwindigkeits-Impakt-Nahaufnahme
+Als die Ältere Schwester näherkommt, stößt der General erneut aktiv mit dem langen Speer zu.
+Die Ältere Schwester hebt das Silberschwert, um ihm zu begegnen.
+Der Metallaufprall erzeugt einen extrem kurzen, scharfen Klang.
+
+Das Silberschwert fängt die volle Wucht des Angriffs nicht frontal ab, sondern ändert lediglich die Richtung der Speerspitze.
+Selbst so verursacht der Aufprall eine spürbare Kraftverschiebung im gesamten Oberkörper der Älteren Schwester.
+Sie korrigiert schnell ihre Schritte und ihren Schwerpunkt.
+Der Feind hält nicht an; das Schlachtross läuft weiter.
+Die Bewegungsrichtungen beider Seiten beginnen, parallel zu verlaufen.
+
+Fokus des zweiten Segments
+Die Kampfinitiative beginnt sich umzukehren, doch die Gefahr bleibt.
+Die Ältere Schwester dominiert nicht haushoch, sondern kämpft um Zeit und Route.
+10–15s | Ein Schwertzug reißt den Befehl an sich: Entscheidender Sieg in der Hochgeschwindigkeitsbewegung
+Einstellung 7 | 10,0–12,0s | 35mm Parallele Verfolgung aus kurzer Distanz
+Der General drückt den langen Speer erneut nach unten und versucht, die Ältere Schwester vor sich zu blockieren.
+Die Ältere Schwester greift den Körper des Generals nicht weiter an.
+Sie beschleunigt plötzlich entlang der Seite des Schlachtrosses.
+Die Kamera bleibt kurz parallel zum Schlachtross.
+Das Bild zeigt gleichzeitig:
+Die schnell laufenden Pferdebeine
+Den stabil im Sattel sitzenden General
+
+Den vom General kontrollierten langen Speer
+Die sich schnell nähernde Ältere Schwester mit dem Silberschwert
+Der General erkennt, dass ihr eigentliches Ziel die Militärbefehlsflagge ist.
+Er zieht den langen Speer sofort zurück und versucht, ihren Weg zur Sattelposition zu versperren.
+Im letzten Moment ändert die Ältere Schwester plötzlich ihre Körperhöhe und duckt sich tief unter der Angriffslinie des langen Speers hindurch.
+Die Fläche des Silberschwerts lenkt die Speerspitze erneut kurz ab.
+Hier ist kein kontinuierliches, schweres Blocken nötig;
+nur ein einziger klarer, heftiger, realistischer Waffenkontakt ist erforderlich.
+Einstellung 8 | 12,0–13,5s | 50mm Plötzliche Annäherung, harter Schnitt durch Waffenverdeckung
+Der lange Speer wischt über die Vorderseite der Linse.
+Nutze die Verdeckung durch die Waffe für einen extrem schnellen harten Schnitt.
+Das nächste Bild schneidet direkt zu:
+Halbnah-Einstellung der Älteren Schwester und des Generals, fast parallel zueinander.
+Sie vollführt eine deutlich sichtbare Qinggong-Beschleunigung über kurze Distanz;
+das Silberschwert schneidet blitzschnell hinter ihrem Körper hervor.
+Die Schwertklinge durchtrennt lediglich den Lederriemen der Militärbefehlsflagge hinter dem Sattel.
+Streng verboten:
+Das Schlachtross angreifen
+Den Körper des Generals angreifen
+
+Tragende Teile des Zaumzeugs beschädigen
+Ein sehr kurtes, silberweißes Schwertlicht gleitet am Lederriemen entlang.
+Die durchtrennten Enden des Riemens schnellen aufgrund der Spannung sofort auseinander.
+Die dunkelrote Militärbefehlsflagge löst sich abrupt vom Sattel.
+Die Flaggenfläche wird durch den schnellen Luftstrom nach hinten gerissen.
+Die Ältere Schwester greift präzise nach der Fahnenstange oder dem Riemen
+und landet nahtlos während der fortgesetzten Bewegung.
+Die gesamte Abfolge muss fließend sein;
+sie darf nicht innehalten, um eine Pose mit dem Schwert einzunehmen.
+
+Einstellung 9 | 13,5–15,0s | 24mm Hochgeschwindigkeits-Rückzug zur Totalen
+Aufgrund der ursprünglichen Bewegungsträgheit galoppieren der General und das Schlachtross weiter den Weg entlang.
+Der General greift instinktiv nach hinten zum Sattel.
+Die Stelle, an der die Militärbefehlsflagge befestigt war, ist nun leer.
+Er reißt sein Pferd heftig herum.
+Die Kamera folgt ihm beim Anhalten nicht, sondern zieht sich mit hoher Geschwindigkeit zurück und zeigt erneut die räumliche Beziehung des gesamten Weges und derselben Umgebung.
+Vordergrund des Bildes:
+Die Ältere Schwester ist stabil gelandet,
+macht aber weiterhin einen Schritt nach vorn in Bewegungsrichtung.
+Die dunkelrote Militärbefehlsflagge flattert heftig im Wind in ihren Händen.
+Weißer Saum, schwarzes Haar und zerrissener Ärmel bewegen sich weiter.
+Mittel- bis Hintergrund:
+Die Jüngere Schwester steht noch immer an der sicheren Position, zu der sie zuvor ausgewichen ist.
+
+Sie blickt auf die Flagge in den Händen der Älteren Schwester.
+Weiter entfernt:
+Der General und das Schlachtross entfernen sich weiter in die Tiefe.
+Ursprünglich vorhandene Umgebungselemente:
+Windgeräusche
+Wassergeräusche
+Vegetation
+Bergnebel
+verhalten sich weiterhin natürlich.
+Es bleiben nur:
+
+Allmählich verklingende Hufschläge
+Das Geräusch der roten Flaggenfläche, die kontinuierlich gegen die Luft schlägt
+Anforderungen an das Ende
+Keine Siegesposen
+Keine Slow-Motion-Standbilder
+
+Keine erklärenden Dialoge hinzugefügt
+Natürliches Ende während der fortgesetzten Bewegung
+
+V. Globale Umsetzung von Action und Kameraführung
+Rhythmus-Aufteilung
+0–5s
+
+Hochgeschwindigkeitsangriff der Kavallerie, Protagonistin wird zum Ausweichen gezwungen.
+5–10s
+Erobert proaktiv die Innenlinie der Kavalleriewende, die Kampfinitiative beginnt sich umzukehren.
+10–15s
+Zweites Hochgeschwindigkeitsgefecht, das Schwert reißt den Befehl an sich, der General galoppiert weiter, hat aber das Ziel verloren.
+Empfohlene Anzahl der Einstellungen
+Verwende im gesamten Film etwa 6–8 interne Schnitte mit klarem Zweck;
+eine mechanisch gleichmäßige Aufteilung der Dauer ist nicht erforderlich.
+Bildsprache
+
+24mm: Etabliert den realen Größenmaßstab zwischen Kavallerie und Charakteren.
+28mm Untersicht: Verstärkt den Kontrast von vorbeiziehenden Hufen, Speerspitzen sowie der Geschwindigkeit im Vorder-/Hintergrund.
+35mm körpernahe Verfolgung: Zeigt das Laufen, die Seitwärtsschritte, den diagonalen Sprint und das Qinggong über kurze Distanzen der Protagonistin.
+50mm: Betont den Kontakt zwischen Speer und Schwert, die körperliche Belastung und das präzise Greifen.
+Abschließende Rückkehr zur 24mm Totale: Zeigt deutlich den General, den Weg, die Militärbefehlsflagge und die finale räumliche Beziehung.
+Prinzipien der Kamerabewegung
+Die Kamerabewegung muss durch folgende Faktoren bestimmt werden:
+Bewegungsrichtung der Charaktere
+Geschwindigkeit des Schlachtrosses
+
+Angriffslinien der Waffen
+
+Änderung der Kampfachse
+Erlaubt:
+Kurze Schwenks (Whip Pans)
+Hochgeschwindigkeits-Fahrten
+Heranfahren (Push-ins)
+Natürliche, durch Waffen verdeckte Schnitte
+Aber jeder Schnitt muss echte Aktionsinformationen vermitteln.
+Streng verboten:
+Mechanische Schwenks durchgehend
+Starke Bewegungsunschärfe, die Charaktere unkenntlich macht
+VI. Regeln der Aktionsphysik
+Schlachtross
+Echter Gliedmaßenrhythmus beibehalten
+Echte Schwerpunktverlagerungen
+Echte Muskelanstrengung
+Echter Wenderadius
+
+Verboten:
+Sofortige Wende auf der Stelle
+Plötzliches Stoppen
+Rückwärtsrutschen
+General
+Greifen, Umgreifen, Senken des Körpers und Richtungswechsel müssen fließend sein.
+Der lange Speer muss Länge, Gewicht und Rotationsträgheit klar widerspiegeln.
+Ältere Schwester
+Xianxia-Qinggong dient ausschließlich dazu:
+Explosive Beschleunigung über kurze Distanz
+Wechsel der Routen
+Erreichen kinoreifer Hochgeschwindigkeitsparallelität
+Verboten:
+Teleportation ohne Übergang
+Schwerelos wirkendes Schweben
+Aufeinanderfolgende akrobatische Saltos zur reinen Zurschaustellung
+Waffenkontakt
+Alle Waffenkontakte müssen Folgendes aufweisen:
+Klare Krafteinwirkung
+Klares Feedback
+Kurze Kollision
+Körperliche Verschiebung oder Schrittkorrektur
+Kontinuität von Stoffen und Spuren
+Kleidung hinkt bei Beschleunigung der Charaktere hinterher
+Ärmel bewegen sich bei abruptem Stoppen weiter
+Zerrissene weiße Manschetten bleiben beschädigt
+Die Militärbefehlsflagge kann nach dem Durchtrennen nicht an den Sattel zurückkehren
+Kampfspuren verschwinden nicht von selbst
+VII. Sounddesign
+Eröffnung
+Die Hufschläge des Schlachtrosses nehmen rapide zu und erzeugen bedrohlichen Druck.
+Waffen
+Langer Speer: Tiefes, scharfes Zischen.
+Silberschwert: Kurzer, hochfrequenter, klarer Schneideklang.
+Waffenkollision: Realistisch, kurz, gewichtig.
+Geräusche wichtiger Requisiten
+Wenn der Lederriemen durchtrennt wird: Klares, aber nicht übertriebenes Reißgeräusch.
+
+Nachdem sich die Militärbefehlsflagge vom Sattel löst: Heftiges Peitschen der Flaggenfläche.
+Soundstruktur am Ende
+Hufschläge verklingen allmählich.
+Die Flaggenfläche und natürliche Umgebungsgeräusche bleiben im Vordergrund.
+Musikprinzip
+Chinesische Perkussion wird äußerst zurückhaltend eingesetzt.
+Sie verstärkt den Rhythmus nur während der beiden Kavallerieangriffe und im Moment des Ergreifens der Flagge.
+Der gesamte Film hat keine Dialoge, keine Untertitel und keine Titel.
+VIII. Globale Negative Prompts
+Charaktere und Assets
+Verboten: Gesichtstausch bei Charakteren, Kostümwechsel, Frisurwechsel, Änderung der Körperproportionen.
+Verboten: Vertauschung der Waffenbesitzverhältnisse zwischen den Protagonisten aus Bild 1 und Bild 2.
+Verboten: Feinde, die aus dem Nichts dupliziert werden.
+Schlachtross
+Verboten: Abnormale Gliedmaßen, sechs Beine, gekreuzte Beine, deformierter Kopf, fehlender echter Laufrhythmus.
+Verboten: Sofortige Wende auf der Stelle, plötzliches Stoppen, rückwärts Rutschen.
+Verboten: Plötzliches Verschwinden, Farbwechsel, Austausch des Pferdes.
+Verboten: Stoppen aus dem Nichts.
+General und Waffen
+Verboten: Der General schwebt, verlässt den Sattel und kehrt sofort zurück.
+Verboten: Der lange Speer verwandelt sich in ein Schwert, Messer, eine Schusswaffe oder schrumpft zufällig.
+Verboten: Duplizierung, plötzliches Verschwinden oder automatische Wiederherstellung der Militärbefehlsflagge.
+Verboten: Die Flagge bleibt fixiert, nachdem der Sattelriemen gerissen ist.
+Kampflogik
+Verboten: Die Protagonistin verletzt das Schlachtross.
+Verboten: Angriffe ohne körperliche Belastung.
+Verboten: Waffenkontakt ohne reales Feedback.
+Verboten: Stillstehen und gegenseitiges Hacken.
+Verboten: Feinde, die sich aufreihen, um Angriffe anzubieten.
+Verboten: Die Protagonistin posiert kontinuierlich an Ort und Stelle.
+Verboten: Aufeinanderfolgende sinnlose Saltos.
+Verboten: Großflächige, zufällige Schwert-Qi-Effekte.
+Verboten: Bildschirmfüllende Energieexplosionen.
+Verboten: Zufällige Blitze und Raumrisse.
+Verboten: Teleportation ohne Flugbahn.
+Verboten: Charaktere, die kontinuierlich zu Lichtstreifen werden.
+Verboten: Häufige Zeitlupe, Hit-Stop, Bullet Time.
+Verboten: Dieselbe Aktion aus mehreren Winkeln wiederholen.
+Optik und Umgebung
+Verboten: Gesamtes Bild, in dem Charaktere und Waffen unkenntlich sind.
+Verboten: Mechanische, fragmentierte Schnitte.
+Verboten: Plötzlicher Wechsel des Hintergrunds.
+Verboten: Die Umgebung hilft der Protagonistin eigenständig beim Kämpfen.
+Verboten: Offensichtliche Spuren, die durch automatische Erholung der Charaktere verschwinden.
+Verboten: Echtes Blut, abgetrennte Gliedmaßen und Eingeweide.
+Verboten: Text, Untertitel, UI, LOGOs und zusätzliche Wasserzeichen.
+Allgemeine negative Begriffe
+blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, watermark, text, error; deformed, mutated, bad anatomy, poorly drawn hands, bad composition, out of frame, disfigured; inconsistent character, changing clothes, face morphing, background shift, glitching cuts, disappearing props
+IX. Finale kombinierte Version (Bereit zur Eingabe)
+15-sekündiger, kinoreifer, realistischer Hochgeschwindigkeits-Kavalleriekampf im chinesischen Xianxia-Stil. Fixiere @Image1 als Schwert-Unsterbliche Ältere Schwester im weißen Gewand und @Image2 als Jüngere Schwester im blaugrünen Gewand; die Umgebung übernimmt strikt die physische Welt und die räumlichen Beziehungen, die gemeinsam durch die Standort-Referenzbilder dieser Runde definiert wurden. Ein dunkler, schwer gepanzerter Kavalleriegeneral reitet ein einzelnes dunkelbraunes Schlachtross, hält einen langen Speer und greift mit hoher Geschwindigkeit an, mit einer dunkelroten Militärbefehlsflagge hinter dem Sattel. Zu Beginn bedrängt der General die Ältere Schwester durch Angriffsgeschwindigkeit und Speerlänge; die Ältere Schwester schützt die Jüngere Schwester und weicht dem ersten Aufprall aus, wobei ihr weißer Ärmel zerreißt; anschließend setzt der General seine Wende mit einem realen Wenderadius fort, die Ältere Schwester erkennt den Unterschied in ihren Bewegungslinien und nutzt kurzes Xianxia-Qinggong, um diagonal die Innenlinie der Kavalleriewende zu erobern, was eine Hochgeschwindigkeits-Kreuzverfolgung bildet. Der General erkennt die Absicht und ändert aktiv die Angriffslinie des langen Speers; beide Seiten führen während der kontinuierlichen Bewegung zwei kurze, heftige Waffenkollisionen aus. Schließlich gleitet die Ältere Schwester kurz parallel zur Seite des Schlachtrosses, nutzt das Silberschwert, um die Richtung der Speerspitze zu ändern, durchtrennt dann präzise mit einem einzigen Schwertstreich den Lederriemen der Militärbefehlsflagge hinter dem Sattel, fängt die rote Militärbefehlsflagge auf und landet nahtlos. Der General und das Schlachtross galoppieren weiter in die Ferne und bemerken erst beim Zurückblicken, dass die Flagge verloren ist. Der gesamte Film betont echtes Pferdegaloppieren, Kavalleriegeschwindigkeit, Reichweite von Langwaffen, explosive Kurzstreckenbeschleunigungen der Charaktere, klare räumliche Routen, starken Nah-Fern-Kontrast, funktionale harte Schnitte, reales physikalisches Feedback und kinoreife Soundeffekte. Der Hintergrund bleibt lebendig und erzählerisch neutral; die Charaktere nehmen keine Siegesposen ein; Flaggen, Kleidung, Haare, Pferde und die natürliche Umgebung enden während der kontinuierlichen Bewegung.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117142223313866754/img/OMthdgTsWVdBd4Yd.jpg" width="600" alt="Seedance 2.0 Mini Xianxia Schlacht Kurzfilm">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13436)**
+
+**Autor:** [Soran](https://x.com/Soranlan) | **Quelle:** [Link](https://x.com/Soranlan/status/2117142880922058932) | **Veröffentlicht:** Nov 2, 2026
+
+---
+### Seedance 2.0 Mini Prompt für Kurzfilm im alten Xianxia-Stil
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein umfassender Video-Generierungs-Prompt für Seedance 2.0 Mini, der eine 15-sekündige cineastische Szene in einer altchinesischen Fantasy-Welt erschafft. Er beschreibt die Konsistenz der Charaktere anhand von Referenzbildern, spezifische Kamerabewegungen (Schwenks, Verfolgungsaufnahmen), Lichtverhältnisse und einen erzählerischen Twist, der einen Betrug mit einem falschen Monster beinhaltet.
+
+#### 📝 Prompt
+
+```
+Modell: Seedance 2.0 Mini
+Dauer: Exakt 15 Sekunden
+Seitenverhältnis: 16:9 Querformat
+Genre: Reines antikes chinesisches Xianxia / Suspense-Twist / Gesellschaftssatire / Beziehungs- und Charakterdrama
+Struktur: Drei aufeinanderfolgende, klare Filmszenen mit unterschiedlichen narrativen Funktionen.
+
+I. Prompt | Gesamtstil und kreative Ausrichtung
+Filmischer Live-Action-Realismus, reine Ästhetik des antiken chinesischen Xianxia.
+Gesamtausrichtung:
+Reife Suspense-Erzählung
+Zurückhaltendes Schauspiel der Figuren
+Präzise visuelle Täuschung
+Gesellschaftssatire mit Bezug zur realen Welt
+Visuelle Umsetzung:
+Natürliche, filmische Fotostruktur
+Klar erkennbare Gesichtsdetails
+Realistische Hauttextur
+Erlesene Seidenstoffe
+Natürliches Volumenlicht
+Bildkomposition mit räumlicher Tiefe
+
+II. Kernhandlung und Twist-Mechanismus
+Der Kern dieser Geschichte lautet:
+Ein Talisman-Verkäufer inszeniert einen Monster-Schrecken, um die Menschen davon zu überzeugen, dass böse Geister nahen.
+Erste Suspense-Ebene
+Das Publikum sorgt sich zunächst:
+Mutter und Kind werden von Monstern angegriffen.
+Wird die Mutter das Geld für die Medizin ihres Kindes für einen lebensrettenden Talisman ausgeben?
+Zweite Twist-Ebene
+Dann wird enthüllt:
+Das sogenannte Monster ist lediglich eine Puppenmechanik, die vom Händler gesteuert wird.
+Wahrer emotionaler Konflikt
+Der eigentliche Konflikt ist nicht das Monster, sondern:
+Eine Mutter, die gezwungen ist, zwischen dem Medikamentengeld ihres Kindes und falscher Sicherheit zu wählen.
+Erzählerische Prinzipien
+Der Twist wird ausschließlich umgesetzt durch:
+Beobachtung der Figuren
+Reale Objekte
+Spezifische Handlungen
+Physische Kausalität
+Streng zu vermeiden:
+Plötzlicher Angriff eines echten Monsters
+Göttliche Manifestation des Talismans
+Langatmige Erklärungen
+Belehrende Enden
+
+III. Figuren und Identitätsbindung
+Figur A | @Image1 | Ältere Schwester (Senior Sister)
+Behalte die Identität der erwachsenen ostasiatischen Frau sowie Gesichtsform, Züge, Frisur, Accessoires und weiße Xianxia-Kleidung aus dem ursprünglichen Referenzbild bei.
+Feste Merkmale:
+Erwachsene ostasiatische Frau
+Identisches Gesicht wie im ursprünglichen Referenzbild
+Natürliche Knochenstruktur
+Weiße, bestickte Seidenkleidung
+Silberner Taillenschmuck
+Originales Schwert
+Realistische Hauttextur
+Natürliche Körperproportionen
+Klassisch-elegantes Temperament
+Anforderungen an die Kontinuität:
+Realistische Hauttextur beibehalten
+Kleidung unverändert lassen
+Stabile Figurenidentität wahren
+Figuren nicht neu entwerfen
+
+Figur B | @Image2 | Jüngere Schwester (Junior Sister)
+Behalte die Identität der erwachsenen ostasiatischen Frau, das runde, lebhafte Gesicht, die strahlenden Augen, die originalen schwarzen Haarzöpfe und das blaugrüne historische Kostüm aus dem Referenzbild bei.
+Feste Merkmale:
+Erwachsene ostasiatische Frau
+Rundes, lebhaftes Gesicht
+Strahlende Augen
+Schwarze Haarzöpfe
+Blaugrünes historisches Kostüm
+Trägt dasselbe dunkle Langschwert
+Anforderungen an die Kontinuität:
+Deutlich andere Gesichtszüge als die ältere Schwester beibehalten
+Kleidung stabil halten
+Stabile Figurenidentität wahren
+
+Gemeinsame Grenzen für beide Protagonistinnen
+Beide Protagonistinnen behalten ihre eigenständige Identität.
+Streng verboten:
+Gesichtstausch (Face Swapping)
+Vermischung von Gesichtszügen
+Kleidungswechsel
+Verlust der Identität (Identity Drift)
+Neue Nebenfiguren
+
+Männlicher Jianghu-Fangshi mittleren Alters
+Dunkelbraune, alte Robe
+Verschmitzter Gesichtsausdruck
+Zuständig für den Verkauf der Talismane
+
+Gewöhnliche Dorfbewohnerin
+Abgetragene Kleidung
+Hält ein krankes Kleinkind im Arm
+
+Weitere Hintergrundfiguren
+Die übrigen Marktbesucher bilden lediglich einen passenden, alltäglichen Hintergrund in der Ferne.
+Sie dürfen den narrativen Fokus nicht stehlen.
+
+IV. Umgebungs- und Standort-DNA
+Die hochgeladenen Referenzbilder für Hintergrund und Schauplatz stellen die reale physische Welt dar.
+Umgebungsplanung vor der eigentlichen Bildkomposition
+Folgende Eigenschaften des Referenzstandorts sind beizubehalten:
+Gelände
+Räumliche Beziehungen der Architektur
+Hauptsehenswürdigkeiten/Landmarken
+Maßstab
+Materialien
+Vegetation
+Gewässer
+Wetter
+Nebel
+Beleuchtung
+Atmosphärische Tiefe
+Errichte passend zu den tatsächlichen Szenenbedingungen auf natürliche Weise einen kleinen Talisman-Stand im antiken Stil.
+
+V. Aufbau von Stand und Mechanik
+Talisman-Stand
+Der Stand besteht aus:
+Holzrahmen
+Stoffvorhang
+Bambusstange
+Aufgehängten gelben Papiertalismanen
+
+Verborgene Mechanik
+Hinter dem Stand verbirgt sich eine einfache Mechanik:
+Eine Monstersilhouette aus schwarzem Stoff
+Befestigt an einem drehbaren Bambusgestell
+Ein dünner roter Faden führt vom Bambusgestell zur Hand des Fangshi
+Wenn der Fangshi am Seil zieht, erhebt sich der Monsterschatten
+
+Anforderungen an die Kontinuität der Mechanik
+Die Mechanik behält durchgehend dieselbe Struktur, Position und physikalische Logik bei.
+
+VI. Lebendiger Hintergrund und narrative Neutralität
+Der Hintergrund bleibt lebendig.
+Natürliche Bewegung:
+Wind
+Wasser
+Wolken/Nebel
+Vegetation
+Figuren in der Ferne
+Haare
+Ärmel
+Durchgehend natürliche Bewegung.
+
+Umgebungsprinzip
+Die Umgebung ist lebendig, aber narrativ neutral.
+Die Umgebung darf niemals:
+Aktiv Twists herbeiführen
+Urteile anstelle der Figuren fällen
+Plötzlich Wunder auslösen
+Die Kausalität der Handlung verändern
+
+VII. Vollständiges Storyboard für 15 Sekunden
+0–5s | Erste Einstellung: Totale | Zehn Liang für ein Leben
+Narrative Aufgabe
+Das Publikum soll sich zuerst um das Kind sorgen.
+Kameraführung
+Die Kamera bewegt sich langsam aus einer leicht niedrigen Position nach vorn.
+Die räumliche Tiefe des antiken Marktes entfaltet sich klar.
+Visuelle Ebenen
+Vordergrund:
+Ein kleiner Stand, bedeckt mit gelben Papiertalismanen
+Mittelgrund:
+Eine ärmlich gekleidete Dorfbewohnerin, die ein krankes Kind hält
+Zustand des Kindes:
+Lehnt an der Schulter der Mutter
+Teilnahmslos
+Requisite der Mutter
+Hält einige Stücke Bruchsilber in der Hand
+Erster Dialog
+Der Fangshi hebt einen gelben Talisman empor, sein Tonfall ist selbstsicher:
+[Fangshi] „Ein Talisman – zehn Liang für dein Leben!“
+Die Dorfbewohnerin blickt auf das Silber in ihrer Hand, ihre Stimme klingt angespannt:
+[Dorfbewohnerin] „Das ist das Geld für die Medizin meines Kindes.“
+Emotionaler Zustand
+Sie zahlt nicht sofort.
+Der Blick des Fangshi fällt auf das Silber.
+Visueller Suspense etabliert
+In den Schatten hinter dem Stoffvorhang zeichnet sich schemenhaft die Silhouette eines wilden Monsters ab.
+Die Dorfbewohnerin drückt das Kind instinktiv fester an sich.
+Auftritt der Protagonistinnen
+Am Rand des Bildausschnitts kommen die ältere Schwester (weiß) und die jüngere Schwester (blau) zufällig vorbei und bemerken die Auffälligkeit am Stand.
+Ende der ersten Einstellung
+Der Suspense bleibt am Ende der Szene bestehen:
+Sollte die Mutter das lebensrettende Medikamentengeld für den Talisman ausgeben?
+
+5–10s | Zweite Einstellung: Halbnah | Das Monster ist menschengemacht
+Narrative Aufgabe
+Mit einer einzigen Handlung die Einschätzung des Publikums komplett umkehren.
+Beginn der Einstellung
+Wechsel zu einer halbnahen Aufnahme des Dreiviertelprofils der jüngeren Schwester.
+Die jüngere Schwester hat ursprünglich die Dorfbewohnerin beobachtet.
+In diesem Moment bemerkt sie, wie sich die unter dem Ärmel verborgene Hand des Fangshi plötzlich anspannt.
+Blickführung
+Die Kamera folgt ihrer Blickrichtung und fängt einen straff gespannten, dünnen roten Faden ein.
+Ein Ende des roten Fadens ist mit der Bambusmechanik hinter dem Stand verbunden.
+Auslösung des falschen Monsterschattens
+Der Fangshi zieht heimlich am roten Faden.
+Der Monsterschatten aus schwarzem Stoff schnellt plötzlich hinter dem Vorhang empor.
+Begleitet von einem rauen, seltsamen Geräusch der Mechanik schreckt die Dorfbewohnerin heftig zurück.
+Ihre Hand streckt das Silber fast schon dem Fangshi entgegen.
+Die jüngere Schwester durchschaut es
+Die jüngere Schwester hat nun verstanden.
+Sie erklärt nichts.
+Sie macht lediglich einen Schritt nach vorn.
+Die rechte Hand zieht das Schwert.
+Schlüsselaktion
+Ein schneller, sauberer, präziser diagonaler Schwerthieb.
+Die Klinge durchtrennt den straff gespannten roten Faden.
+Der rote Faden reißt, das Bambusgestell verliert augenblicklich seinen Halt.
+Der Monsterschatten aus schwarzem Stoff fällt nach unten.
+Die Wahrheit kommt ans Licht
+Eine hohle Monstermaske aus Stoff mitsamt Bambusstangen und Holzrahmen liegt vor aller Augen offen da.
+Als das Bambusgestell mit einem klaren Klirren auf den Boden schlägt, verstummt das zuvor so furchteinflößende Brüllen abrupt.
+Die Hand des Fangshi verharrt noch in der Zugposition.
+Er erstarrt.
+Die Dorfbewohnerin blickt auf die verstreute Mechanik und dann auf ihr eigenes Silber.
+Alle haben verstanden.
+Umsetzungsprinzip der zweiten Einstellung
+Diese Szene benötigt keinen Dialog.
+Der Twist gelingt allein durch:
+Requisiten
+Handbewegungen
+Blickführung
+Echtes physisches Feedback
+
+10–15s | Dritte Einstellung: Nahaufnahme | Du verkaufst ihre Angst
+Narrative Aufgabe
+Den Betrug aufdecken und die Emotionen wirklich bei den einfachen Menschen landen lassen.
+Kamera und Schärfentiefe
+Die Einstellung wechselt zu einer Nahaufnahme der Figuren.
+Nutze echte, geringe Schärfentiefe, um klare räumliche Ebenen zu schaffen zwischen:
+Dem Fangshi
+Den Schwestern
+Der Dorfbewohnerin mit dem Kind
+Die Verteidigung des Fangshi
+Der Fangshi versucht, die Kontrolle zurückzugewinnen.
+Er blickt auf die verstreute Mechanik und verteidigt sich hastig:
+[Fangshi] „Ich verkaufe Sicherheit!“
+Das Urteil der älteren Schwester
+Die weiß gekleidete ältere Schwester zieht ihr Schwert nicht.
+Sie blickt zuerst auf das falsche Monster am Boden.
+Dann wendet sie ihren Blick der noch immer verängstigten Dorfbewohnerin zu.
+Ihr Tonfall ist ruhig, aber scharf:
+[Ältere Schwester] „Du verkaufst ihre Angst.“
+Handlungsabschluss der jüngeren Schwester
+Die Kamera folgt der Hand der jüngeren Schwester.
+Sie geht zur Dorfbewohnerin.
+Sammelt sanft das Silber, das diese gerade bezahlen wollte, wieder in deren Handfläche.
+Sie blickt zur Dorfbewohnerin auf:
+[Jüngere Schwester] „Heile zuerst das Kind.“
+Emotionaler Abschluss der Dorfbewohnerin
+Die Dorfbewohnerin blickt auf das Silber in ihrer Hand.
+Endlich atmet sie erleichtert auf.
+Dann hält sie das Kind fest, wendet sich vom Stand ab.
+Die jüngere Schwester tritt natürlich zur Seite und macht ihr den Weg frei.
+Endzustand des Fangshi
+Der Fangshi steht sprachlos da.
+Letztes Halbssekunden-Bild
+Die Kamera verweilt auf dem verstreuten Bambusgestell und dem gelben Talisman.
+Das falsche Stoffmonster liegt völlig offen da.
+Niemand kauft mehr Talismane.
+Nachklang
+Das Monster war falsch.
+Aber die Sorge der Mutter um ihr Kind ist echt.
+
+VIII. Anforderungen an Kameraführung und Schauspiel
+Grundspezifikationen
+Exakt 15 Sekunden
+16:9 Querformat
+Drei vollständige Filmszenen mit unterschiedlichen Bildausschnitten
+Räumliche und handlungsbezogene Kontinuität
+
+Anforderungen an Einstellung 1
+Die erste Einstellung nutzt:
+Eine tiefere Kameraposition
+Einen langsamen Push-in
+Damit das Publikum spürt:
+Die Hilflosigkeit der Dorfbewohnerin
+Die bedrückende Atmosphäre am Stand
+
+Anforderungen an Einstellung 2
+Die zweite Einstellung nutzt die Blickrichtung der jüngeren Schwester als narrativen Leitfaden.
+Die erzählerische Reihenfolge muss lauten:
+Zuerst die Hand des Fangshi sehen
+Dann den straff gespannten roten Faden sehen
+Dann...
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117123424669855744/img/gVtUer8oWA9GeKDL.jpg" width="600" alt="Seedance 2.0 Mini Prompt für Kurzfilm im alten Xianxia-Stil">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13371)**
+
+**Autor:** [Soran](https://x.com/Soranlan) | **Quelle:** [Link](https://x.com/Soranlan/status/2117124345281810678) | **Veröffentlicht:** Nov 2, 2026
+
+---
+### Hexe fliegt durch die Stadt bei Nacht
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Erstellung eines ultrarealistischen, cineastischen Fantasy-Videos einer Hexe, die auf einem Besen durch eine neonbeleuchtete Stadt bei Nacht fliegt.
+
+#### 📝 Prompt
+
+```
+Erstelle ein ultrarealistisches, cineastisches Fantasy-Video mit einer geheimnisvollen jungen Hexe, die auf einem magischen Besen unter einem leuchtenden Vollmond durch eine dunkle Stadt fliegt. Zeige dramatische Wolken, blauen magischen Rauch und eine mysteriöse Nachtatmosphäre. Die Hexe trägt einen schwarzen Spitzhut sowie ein stylisches dunkles Outfit und hat langes, wehendes Haar. Halte fest, wie sie zwischen hohen Gebäuden hindurchfliegt und über belebte, neonbeleuchtete Straßen hinabstößt. Ergänze realistische Bewegungen, leuchtende magische Effekte, filmreife Kamerafahrten, dramatisches Licht und atemberaubende visuelle Details. Stil eines hochwertigen Fantasy-Films, 4K, fotorealistisch, flüssige Animation.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117120887447252992/img/jnp-YCYdCxX9r0VE.jpg" width="600" alt="Hexe fliegt durch die Stadt bei Nacht">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13368)**
+
+**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Quelle:** [Link](https://x.com/AIwithMinal/status/2117120914139619479) | **Veröffentlicht:** Nov 2, 2026
+
+---
+### Seedance 2.0 Mini: Xianxia-Romanze – Absage-Szene-Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein umfassender Prompt für Seedance 2.0 Mini zur Generierung eines 15-sekündigen emotionalen Dramas im Setting des antiken chinesischen Xianxia. Der Fokus liegt auf einer Hochzeitsabsage mit subtiler Schauspielkunst, spezifischen Interaktionen mit Requisiten (Jade-Tokens) und kinematografischer Kameraführung.
+
+#### 📝 Prompt
+
+```
+Seedance 2.0 Mini | „Zehn Jahre und der Rest des Lebens“
+
+Modell: Seedance 2.0 Mini
+Dauer: Exakt 15 Sekunden
+Seitenverhältnis: 16:9 Querformat
+Genre: Reines altchinesisches Xianxia / Emotionaler Twist / Erwachsenes Beziehungsdrama
+Struktur: Drei durchgehende, klare, erzählerisch eigenständige filmische Einstellungen
+I. Prompt | Gesamtstil und kreative Ausrichtung
+Filmische, realistische Live-Action-Textur, reine altchinesische Xianxia-Ästhetik.
+Gesamtausrichtung:
+Reifer, zurückhaltender emotionaler Twist, Beziehungsdrama mit echter psychologischer Tiefe.
+Umsetzen:
+Hochwertige klassische Figureninszenierung
+Arri Alexa Kinofilm-Textur
+Klare, realistische Hauttextur
+Natürliches Volumenlicht
+Feine Filmkorn-Textur
+Realistische Seidenbewegung
+II. Kernhandlung und emotionaler Twist
+Zwei Kultivierende haben zehn Jahre lang gemeinsam praktiziert und erreichen endlich den Tag, an dem sie offiziell Dao-Gefährten werden.
+Alle glauben, dies sei das Ziel einer perfekten Beziehung.
+Doch die Jüngere Schwester weigert sich während der Zeremonie plötzlich, das Band zu besiegeln.
+Erste Spannungsebene
+Das Publikum erwartet zunächst:
+Verrat
+Geheimnisse
+Einen unverzeihlichen Fehler
+Der wahre Twist
+Keiner von beiden ist schlecht geworden, und keiner hat die Vergangenheit geringgeschätzt; sie können einfach nicht mehr auf dieselbe Zukunft zugehen.
+Zehn Jahre Aufrichtigkeit bleiben aufrichtig.
+Aber der Rest des Lebens darf nicht zum Preis für die Vergangenheit werden.
+Prinzipien für Emotion und Erzählung
+Die Geschichte muss sich natürlich vollenden durch:
+Handlungen der Figuren
+Subtile Mimik
+Pausen
+Dialoge
+Streng vermeiden:
+Lange Erklärungen
+Plötzliche Sentimentalität
+Erzwungene Bösewicht-Darstellungen
+Belehrende Enden
+III. Figurenidentität und Asset-Fixierung
+Rolle A | @Image1 | Schwert-Unsterbliche Ältere Schwester
+Immer dieselbe Schwert-Unsterbliche Ältere Schwester:
+25–30-jährige ostasiatische Frau
+Weiches ovales Gesicht
+Leuchtende Mandelaugen
+Langes schwarzes Haar, halb hochgebunden
+Mit weißer Jade-Haarnadel fixiert
+Groß und schlank
+Dasselbe weiße, bestickte Seiden-Hanfu
+Halbtransparente, geschichtete weite Ärmel
+Silberne Taillenschärpe
+Jade-Anhänger
+Weiße Stoffstiefel
+Trägt das einzige silberne Langschwert
+Funktion der Rolle in diesem Abschnitt
+Die weiß gekleidete Ältere Schwester drückt Beziehungen hauptsächlich aus durch:
+Beobachtung
+Blickkontakt
+Zurückhaltende Reaktionen
+Wichtige Einschränkungen
+Keine Entscheidungen für die Jüngere Schwester treffen
+Nicht den dramatischen Hauptraum einnehmen
+Rolle B | @Image2 | Jüngere Schwester
+Immer dieselbe Jüngere Schwester:
+20–25-jährige ostasiatische Frau
+Rundes, lebhaftes Gesicht
+Schwarzer geflochtener Zopf
+Dasselbe grüne antike Hanfu
+Dunkler Gürtel
+Holz-Haarnadel
+Schwarze Stoffschuhe
+Trägt das einzige dunkle Stahlschwert
+Positionierung der Rolle in diesem Abschnitt
+Die Jüngere Schwester ist die emotionale Protagonistin dieser Handlung.
+Neue Nebenfigur | Männlicher Kultivierender
+Erwachsener Mann
+Trägt eine tiefblaue antike Robe
+Gewöhnliches Aussehen
+Gefestigtes Temperament
+Hat zehn Jahre lang mit der Jüngeren Schwester praktiziert
+Der vom Schicksal bestimmte Dao-Gefährte der Jüngeren Schwester
+Anforderungen an die Figurenkonsistenz
+Der männliche Kultivierende muss bewahren:
+Eigenständige Identität
+Stabile Kleidung
+Realistische Darstellung der Figur
+Darf nicht mit den Protagonistinnen verwechselt werden.
+Weitere Nebenfiguren
+Meister-Ältester
+Leitet die Bindungszeremonie.
+Sektenjünger
+Eine kleine Anzahl von Jüngern als entfernte Zeugen.
+IV. Hintergrund- und Umgebungs-DNA
+Alle hochgeladenen Referenzbilder für Hintergründe und Orte bestimmen die tatsächliche physische Welt.
+Umgebungsplanung vor der eigentlichen Komposition
+Zunächst still eine Runde Umgebungsplanung abschließen.
+In den Referenzbildern umfassend analysieren:
+Gelände
+Architektonisches Layout
+Räumliche Dimensionen
+Alter der Materialien
+Vegetationsökologie
+Gewässer
+Wolken und Nebel
+Wetter
+Hauptrichtung des Lichts
+Farbbeziehungen
+Reflektierende Oberflächen
+Lufttiefe
+Unter der Voraussetzung, dass Konsistenz gewahrt bleibt bei:
+Ortsidentität
+Räumlichen Beziehungen
+Physischer Logik
+Geeignete natürliche Freiflächen finden und zu einem Zeremonienort umgestalten mit:
+Filmischen Dimensionen
+Räumlicher Tiefe
+Einzigartiger Komposition
+V. Zeremonienszene und zentrale Requisiten
+Der Zeremonienort benötigt nur:
+Einen antiken Steintisch
+Zwei Jade-Ehebund-Talismane, verbunden durch ein rotes Seil
+Jade-Ehebund-Talismane
+Zwei Jade-Anhänger
+Ein rotes Seidenseil, das die beiden Jade-Anhänger verbindet
+Reale Jade-Materialität beibehalten
+Reale physische Struktur des roten Seils beibehalten
+Weitere wichtige Requisiten
+Antikes Sektenführersiegel als Symbol der Autorität
+Kleines Gepäck, bereits von der Jüngeren Schwester gepackt
+VI. Lebendiger Hintergrund und erzählerische Neutralität
+Der Hintergrund ist stets lebendig.
+Natürliche Bewegung
+Wind bewegt Ärmel und Vegetation natürlich
+Wolken ziehen langsam vorbei
+Bergnebel fließt entsprechend dem Gelände
+Gewässer setzen ihre Bewegung fort, wo sie in den Referenzbildern vorhanden sind
+Entfernte Gebäude behalten die korrekte Perspektive
+Reflexionen verändern sich natürlich mit dem Kamerawinkel
+Geschwindigkeit und Ausmaß der Umgebungsbewegungen sollten je nach Schärfentiefe variieren.
+Prinzipien der Umgebungserzählung
+Alle Bewegungen im Hintergrund existieren unabhängig von der Handlung.
+Die Umgebung darf niemals:
+Konflikte erzeugen
+Twists auslösen
+Entscheidungen anstelle der Figuren treffen
+VII. Vollständiges Storyboard für 15 Sekunden
+0–5s | Erste Einstellung: Totale | Öffentliche Zurückweisung
+Einstellungsdesign
+Die Kamera schwenkt langsam über den antiken Zeremonienort.
+Klare räumliche Beziehungen durch diese Ebenen etablieren:
+Steintisch im Vordergrund
+Figuren in der Mitte
+Großartige Architektur, Berge oder andere zentrale Wahrzeichen aus den Referenzbildern im Hintergrund
+Ausgangspositionen der Figuren
+Meister-Ältester
+Steht hinter dem zeremoniellen Steintisch.
+Männlicher Kultivierender
+Trägt eine tiefblaue Robe, steht auf einer Seite des Steintischs.
+Hält einen Jade-Ehebund-Talisman in der Hand.
+Grün gekleidete Jüngere Schwester
+Steht auf der anderen Seite des Steintischs.
+Weiß gekleidete Schwert-Unsterbliche Ältere Schwester
+Steht einige Schritte diagonal hinter der Jüngeren Schwester und beobachtet still.
+Zustand des zentralen Requisits
+Ein rotes Seidenseil verbindet die beiden Jade-Anhänger.
+Beginn der Zeremonie
+Der Meister verkündet feierlich:
+[Meister] „Der zehnjährige Ehebund – heute erfüllen wir ihn.“
+Die Jüngere Schwester blickt auf das rote Seidenseil hinab.
+Sie streckt die Hand nicht aus, um ihren Jade-Anhänger zu nehmen.
+Stattdessen hebt sie langsam den Kopf und blickt den Mann vor sich an.
+Erste Ebene des Twists
+[Jüngere Schwester] „Ich werde es nicht tun.“
+Die zuvor so feierliche Zeremonie verstummt plötzlich.
+Reaktion des männlichen Kultivierenden
+Die Kamera hält den echten Schock des männlichen Kultivierenden in genau diesem Moment fest.
+Anforderungen an Darstellung und Rhythmus
+Keine übertriebenen Schreie
+Keine Menschenmenge, die sie plötzlich umringt
+Spannung durch Pausen der Figuren und räumliche Stille erzeugen.
+5–10s | Zweite Einstellung: Halbnahaufnahme | Die wahre Trennung
+Kontinuitätsanforderungen
+Exakt identisch beibehalten:
+Szene
+Figuren
+Kleidung
+Positionen der Jade-Anhänger
+Kameradesign
+Die Kamera wechselt zu einer halbnahen Zweier-Einstellung der Beteiligten im Dreiviertelprofil.
+Reaktion des männlichen Kultivierenden
+Der männliche Kultivierende ist nicht wütend.
+Er fragt sich auch nicht plötzlich, ob sie ihre Gefühle geändert hat.
+Er blickt die Jüngere Schwester ernst an, als würde er die Antwort bereits ahnen.
+Fragt leise:
+[Männlicher Kultivierender] „Gehst du trotzdem den Berg hinab?“
+Antwort der Jüngeren Schwester
+Die Jüngere Schwester sieht ihn an, ebenso ruhig:
+[Jüngere Schwester] „Bleibst du trotzdem, um den Berg zu bewachen?“
+Emotion und Blick
+Die Kamera nutzt subtile Blicke, um ihre seit Langem unterschiedlichen Entscheidungen zu offenbaren.
+Visueller Kontrast der Requisiten
+Neben dem männlichen Kultivierenden
+Liegt das antike Sektenführersiegel als Symbol der Autorität.
+Zu Füßen der Jüngeren Schwester
+Liegt das bereits gepackte kleine Gepäck.
+Visuelle Beziehung
+Diese beiden Requisiten bilden einen klaren visuellen Kontrast:
+Eine Person hat beschlossen zu bleiben.
+Die andere ist bereit, in die Ferne zu reisen.
+Keiner von beiden liegt falsch.
+Sie können einfach nicht mehr denselben Weg gehen.
+Zustand der Älteren Schwester und der Umgebung
+Die weiß gekleidete Ältere Schwester greift nie ein.
+Der Hintergrund setzt seine unabhängigen natürlichen Bewegungen fort:
+Wind
+Wasser
+Wolken und Nebel
+Vegetation
+Stoffe
+Reflexionen
+10–15s | Dritte Einstellung: Nahaufnahme | Zehn Jahre und der Rest des Lebens
+Letzte Frage des Meisters
+Der Meister stellt die letzte Frage neben dem Steintisch:
+[Meister] „Und was ist mit diesen zehn Jahren?“
+Nahaufnahme der Jüngeren Schwester
+Die Kamera wechselt zur Nahaufnahme der Jüngeren Schwester.
+Sie antwortet nicht sofort.
+Ein Hauch von Feuchtigkeit in den Augen, aber keine Tränen.
+Stimme ruhig, mit echtem Widerstreben.
+[Jüngere Schwester] „In Ehren halten.“
+Emotionale Pause
+Eine volle Pause von einem halben Takt.
+Dann fällt der letzte Satz:
+[Jüngere Schwester] „Man kann die Vergangenheit nicht mit dem Rest seines Lebens bezahlen.“
+Wahrer emotionaler Höhepunkt: Das Lösen des roten Seils
+Die Kamera wechselt schnell und natürlich zu den Händen des männlichen Kultivierenden.
+Er blickt auf das rote Seidenseil hinab, das die beiden Jade-Anhänger verbindet.
+Nach kurzem Zögern zerreißt er das Seil nicht wütend.
+Stattdessen löst er den Knoten langsam mit den Fingern.
+Zwingende Anforderung an die Handlung
+Diese Handlung muss real, klar und vollständig sein.
+Trennung der Jade-Anhänger
+Der männliche Kultivierende legt den Jade-Anhänger der Jüngeren Schwester behutsam zurück auf den Tisch.
+Den anderen behält er für sich.
+Beide Jade-Anhänger sind unbeschädigt.
+Nur nicht mehr verbunden.
+Letzte Reaktionen der Figuren
+Die Jüngere Schwester blickt ihn an.
+Der Mann hebt den Blick und nickt ihr kaum merklich zu.
+Dieses Nicken drückt aus:
+Verständnis
+Bedauern
+Abschließende filmische Komposition
+Das letzte Bild ruht auf den beiden Jade-Anhängern auf dem Tisch:
+Unversehrt, aber bereits getrennt.
+Dahinter, in geringer Schärfentiefe:
+Zwei Personen, die angemessenen Abstand wahren
+Die Ältere Schwester steht hinter der Jüngeren Schwester
+Die Augen der Älteren Schwester sind ruhig und verständnisvoll
+Einschränkungen für das Ende
+Keine:
+Umarmungen
+Plötzliche Versöhnung
+Bösewichte
+Urteile über Sieg oder Niederlage
+Letzte emotionale Landung
+Zehn Jahre waren nicht verschwendet, nur gibt es keinen Grund mehr, gemeinsam weiterzugehen.
+VIII. Ausführungsanforderungen für Seedance 2.0 Mini
+Grundlegende Spezifikationen
+Modell: Seedance 2.0 Mini
+Strikte Gesamtdauer: 15 Sekunden
+Seitenverhältnis: 16:9 Querformat
+Drei durchgehende, klare, erzählerisch eigenständige filmische Einstellungen
+Drei narrative Funktionen
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2117112122387918848/img/FNMfOO9Jg3bQP4IZ.jpg" width="600" alt="Seedance 2.0 Mini: Xianxia-Romanze – Absage-Szene-Prompt">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13374)**
+
+**Autor:** [Soran](https://x.com/Soranlan) | **Quelle:** [Link](https://x.com/Soranlan/status/2117112170395914599) | **Veröffentlicht:** Nov 2, 2026
+
+---
+### Seedance 2.0 Fast: Qing-Dynastie Regen
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein Vergleichsvideo mit Seedance 2.0 Fast. Der Prompt beschreibt eine i2v-Generierung (Bild-zu-Video) einer nächtlichen Regenszene im Qing-Palast mit ASMR-Elementen.
+
+#### 📝 Prompt
+
+```
+Nachtregen im Palast der Qing-Dynastie × Regen auf Lotosblättern und -blüten × Koi-Fische und Froschquaken × Blitz und ferner Donner × Opernsänger des Birnengartens übt seine Melodie × Immersives ASMR
+
+8 Sekunden, vertikales 9:16-Format, realistische, cineastische Bilder.
+
+Sommernacht, feiner Regen fällt auf den Wandelgang am Wasser eines Palastes der Qing-Dynastie. Große Lotosblätter wachsen im Teich neben dem Gang, eine halb geöffnete, zartrosa Lotosblüte ruht nahe der Blätter, die Blütenblätter vom Regen benetzt. Eine warmgelbe Palastlaterne hängt unter der Dachtraufe, ihr Licht spiegelt sich in der flachen Steinrinne und im Wasser des Teichs.
+
+Ein nahes Lotosblatt ist leicht geneigt, Regenwasser hat sich auf seiner Oberfläche gesammelt. Ein kleiner Frosch hockt auf einem Stein am Teichrand, Koi-Fische sind im flachen Wasser gelegentlich schemenhaft zu erkennen – ihre Umrisse teils verdeckt von Regentropfen und Laternenschatten.
+
+Dunkle Holzsäulen und Wandelgänge in der Ferne verschwinden in der regnerischen Nacht. Am Ende des Gangs liegt ein schwach beleuchteter Birnengarten; eine verschwommene menschliche Silhouette zeichnet sich auf dem Papierfenster ab und bewegt sich hin und wieder langsam. Die kühlen blauen Nachtfarben verschmelzen ganz natürlich mit dem warmen Licht der Palastlaterne.
+
+Die Kamera befindet sich dicht an den Lotosblättern und der Wasseroberfläche und gleitet aus einer tiefen Perspektive extrem langsam nach vorn. Nahe Lotosblätter, Blüten und das tropfende Traufenwasser sind klar erkennbar; im oberen Bildausschnitt erscheint ein Teil der Palastlaterne, während die Fenster des fernen Birnengartens dunstig wirken. Das Bild zeigt eine klare Tiefenstaffelung und bewahrt stille, dunkle Freiräume.
+
+0–2 s: Feiner Regen fällt unaufhörlich auf die Lotosblätter und erzeugt ein dichtes, sanftes Rascheln. Die Blätter erzittern leicht, Regentropfen sammeln sich auf ihrer Oberfläche. Traufenwasser tropft unregelmäßig in die Steinrinne, ein klares Ticken ist zu hören. Am Teichrand quakt ein kleiner Frosch ein- oder zweimal.
+
+2–4 s: Aus dem fernen Birnengarten dringt der Gesang eines Opernsängers, der seine Melodie übt; eine sanfte, wohlklingende Stimme ohne Worte durchdringt den Regenvorhang. Auf dem Papierfenster hebt die unscharfe Silhouette langsam den Ärmel. Ein Koi schwimmt gemächlich unter einem Lotosblatt hindurch, sein Umriss teils verborgen hinter Wasserwellen und der Spiegelung der Palastlaterne.
+
+4–6 s: Ein kurzer Lichtblitz erhellt den fernen Himmel; kaltes Weiß taucht Lotosblätter, Blüten und Regenfäden für einen Moment in Licht, bevor die warme Dunkelheit zurückkehrt. Nach einer kurzen Pause rollt ein tiefer, langgezogener Donner aus der Ferne heran, der Gesang wird vorübergehend leiser.
+
+6–8 s: Der Donner verklingt allmählich. Das gesammelte Regenwasser fließt über das geneigte Lotosblatt am Rand entlang in den Teich und erzeugt ein sanftes, beständiges Plätschern; kleine Wellen durchziehen die Spiegelung der Palastlaterne. Der ferne Gesang ist noch kaum hörbar, der Frosch am Teichrand quakt erneut. Das Geräusch des Regens hält bis zum Ende an.
+
+[Sounddesign]
+
+Im Mittelpunkt stehen durchgehend das dichte Rascheln des Regens auf den nahen Lotosblättern und das unregelmäßige Ticken des Wassers, das von der Traufe in die Steinrinne fällt. Das Fließen des Wassers vom Lotosblatt in den Teich klingt klar und weich.
+
+Das Quaken des Frosches kommt vom Teichrand, der Operngesang aus dem fernen Birnengarten, der Donner aus noch weiterer Entfernung. Die Klänge greifen natürlich ineinander, mit deutlicher räumlicher Tiefe, die die Atmosphäre einer echten Regennacht bewahrt.
+
+Zuerst der Blitz, dann folgt der Donner. Regentropfen, das Zittern der Blätter, der Wasserfluss und die Wellen sind exakt auf die Geräusche abgestimmt. Der Donner bleibt tief und sanft – ideal für ruhiges Zuhören.
+
+Der Operngesang wirkt sanft und weit tragend, dargeboten als wortloses Summen. Keine Instrumentalbegleitung, keine Hintergrundmusik, keine Dialoge.
+
+Die Bewegungen der Lotosblätter, Blüten, Frösche, Kois und der fernen Gestalt sind langsam und natürlich. Der Koi bleibt unter Wasser, die Fensterschatten wirken unscharf und dunstig, Regenwasser, Spiegelungen und Lichter erscheinen absolut realistisch und glaubhaft.
+
+Festes Signet in der unteren linken Ecke: zuerst ein dunkelblauer, ausgefüllter Punkt, danach das weiß handgeschrieben wirkende „DeepBlue“. Das Signet ist klein und klar, Position und Stil bleiben im gesamten Video konstant, es verdeckt nicht das Hauptmotiv, 9:16
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116920195797090304/img/Jkq7FrCBlu0TsKjW.jpg" width="600" alt="Seedance 2.0 Fast: Qing-Dynastie Regen">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13372)**
+
+**Autor:** [DeepBlue深藍](https://x.com/DeepBlueX0) | **Quelle:** [Link](https://x.com/DeepBlueX0/status/2116920472541536761) | **Veröffentlicht:** Nov 1, 2026
+
+---
+### Weinkork-Terrazzo-Boden Renovierungs-Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Generierung eines vertikalen Videos, das die Verwandlung von Weinkorken in einen polierten Terrazzoboden im Schlafzimmer zeigt. Es enthält Renovierungsschritte und befriedigende Baustellen-Aufnahmen.
+
+#### 📝 Prompt
+
+```
+Hochformat-Video in einem leeren weißen Raum mit einem hellen Fenster und einer offenen Tür. Ein Mann in blauem Overall und dunklem T-Shirt harkt einen riesigen Berg Weinkorken auf dem Boden zusammen und verteilt sie zu einer flachen, gleichmäßigen Schicht, die den gesamten Raum bedeckt. Anschließend gießt eine Frau in rotem Overall dickflüssiges weißes Epoxidharz aus einem großen Eimer. Die glänzende Flüssigkeit fließt über die Korken und überschwemmt den ganzen Boden, bis alles vollständig bedeckt ist. Danach schieben Arbeiter in neongelben Warnwesten schwere Bodenschleifmaschinen hin und her und schleifen die ausgehärtete Oberfläche ab. So kommt nach und nach ein atemberaubendes Terrazzo-Muster zum Vorschein: Korkstücke, eingebettet in glattes weißes Harz, poliert auf Hochglanz. Zum Schluss tragen zwei schwarz gekleidete Männer ein Bettgestell aus Holz herein, bauen es auf und beziehen es mit Matratze, weißen Kissen und einer beigefarbenen Tagesdecke. Das Video endet mit einer Totale des fertigen Schlafzimmers, in dem der leuchtende Kork-Terrazzo-Boden das Tageslicht reflektiert. Befriedigender Renovierungs-Zeitrraffer-Stil, sanfte Übergänge, natürliches Tageslicht, realistische Texturen, seltsam befriedigende Bau-Atmosphäre.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116909245618692096/img/TSdqYOWdWORLvaVM.jpg" width="600" alt="Weinkork-Terrazzo-Boden Renovierungs-Video">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13369)**
+
+**Autor:** [Ruslan Ai](https://x.com/Ruslanchain) | **Quelle:** [Link](https://x.com/Ruslanchain/status/2116909289004556620) | **Veröffentlicht:** Nov 1, 2026
+
+---
+### DIY-Video: Betonwaschbecken aus einem Regenschirm basteln
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Eine Eingabeaufforderung zur Erstellung eines realistischen DIY-Tutorials, das zeigt, wie man einen Regenschirm mit Zement und Kies in ein Betonwaschbecken verwandelt.
+
+#### 📝 Prompt
+
+```
+Ein realistisches DIY-Bastelvideo, gedreht auf einer überdachten Terrasse mit einer Betonwand und einer Holztür im Hintergrund. Ein Mann in einem grauen T-Shirt und einer schwarzen Kappe steht an einem rustikalen Holztisch, auf dem ein geöffneter gelber Regenschirm wie eine Gussform verkehrt herum liegt. Mit einer Kelle schöpft er feuchten, grauen Zement aus einem schwarzen Eimer und füllt damit den Schirm. Anschließend drückt er eine blaue Plastikschüssel in die Mitte des Zements und glättet die Oberfläche mit den Händen. Um die Schüssel herum legt er glatte Flusskiesel zu einem Ring und drückt sie in den Zement. Nachdem der Beton ausgehärtet ist, hebt er die blaue Schüssel heraus, löst den gelben Schirmstoff ab und enthüllt ein achteckiges Betonwaschbecken, in dessen Rand die Kiesel eingelassen sind. Mit einem Akkuschrauber bohrt er mittig ein Ablaufloch, wischt das Becken mit einem Tuch sauber, streicht das gesamte Waschbecken mit einem Pinsel weiß an und lackiert die Kiesel anschließend mit Sprühfarbe glänzend blau. Die Schlussszene zeigt das fertige Designerwaschbecken, eingebaut in einem modernen Badezimmer mit Chromarmatur, während der Mann sich unter fließendem Wasser die Hände wäscht. Ruhige Handkameraführung, natürliches Tageslicht, befriedigende Verwandlung, Tutorial-Stil.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116908302177009664/img/tOwAXa3GGvl22aee.jpg" width="600" alt="DIY-Video: Betonwaschbecken aus einem Regenschirm basteln">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13366)**
+
+**Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Quelle:** [Link](https://x.com/Rajrana12476547/status/2116908365364256821) | **Veröffentlicht:** Nov 1, 2026
+
+---
+### Marmor-Terrazzo-Schlafzimmerboden-Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Erstellung eines vertikalen Videos, das den Prozess der Umwandlung von Glas-Murmeln in einen glänzenden Terrazzo-Boden in einem modernen Schlafzimmer zeigt.
+
+#### 📝 Prompt
+
+```
+Vertikales Video, fotorealistischer Stil, heller leerer Raum mit weißen Wänden und einem großen Fenster. Ein Mann in einer blauen Jeans-Latzhose verteilt mit einem Rechen einen riesigen Haufen aus Tausenden bunten Glasmurmeln auf einem Betonboden und breitet sie gleichmäßig im gesamten Raum aus. Eine Frau in einem roten Overall gießt dickflüssiges, weißes, selbstnivellierendes Epoxidharz aus einem großen Eimer über die Murmeln; die glänzende Flüssigkeit fließt, bedeckt sie vollständig und wird von ihr mit einem Rechen glatt verstrichen. Ein Arbeiter in einer gelben Warnweste bearbeitet die Oberfläche mit einer Bodenpoliermaschine, schleift und poliert sie und bringt so einen atemberaubend glänzenden Boden zum Vorschein, in den bunte runde Murmeln wie geschliffene Edelsteine eingebettet sind. Zwei Arbeiter montieren ein Bettgestell aus Holz, legen eine weiße Matratze darauf und beziehen das Bett mit weißer Bettwäsche, beigen Kissen und einer Überwurfdecke. Abschließende Totale eines gemütlichen, modernen Schlafzimmers, in dem der einzigartige Terrazzo-Marmorboden im natürlichen Tageslicht erstrahlt. Ruhige Kameraführung, befriedigende Renovierungs-Transformation, ASMR-Stimmung, realistische Beleuchtung, hohes Detailniveau.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116880395002138624/img/jdcG-y-8Shk4Au0c.jpg" width="600" alt="Marmor-Terrazzo-Schlafzimmerboden-Video">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13370)**
+
+**Autor:** [Ruslan Ai](https://x.com/Ruslanchain) | **Quelle:** [Link](https://x.com/Ruslanchain/status/2116880438530572368) | **Veröffentlicht:** Nov 1, 2026
+
+---
+### Gurkenscheiben-Terrazzo-Boden im Schlafzimmer
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Generierung eines hyperrealistischen Renovierungs-Videos, in dem Gurkenscheiben als Zuschlagstoff in einem weißen Harzboden verwendet werden und sich in ein luxuriöses Schlafzimmer verwandeln.
+
+#### 📝 Prompt
+
+```
+Vertikales Video in einem hellen, leeren Raum mit weißen Wänden, nacktem Betonboden und einem großen Fenster mit Tageslicht. Ein Mann in orangefarbenem Overall und schwarzem T-Shirt harkt einen riesigen Haufen frischer Gurkenscheiben zusammen und verteilt sie zu einer flachen, gleichmäßigen Schicht über den gesamten Boden. Eine Frau in rotem Overall kommt hinzu, und gemeinsam gießen sie dickflüssiges weißes Harz aus Eimern über die Scheiben. Mit Abziehschaufeln verteilen sie es so lange, bis jede einzelne Scheibe unter einer glänzend weißen Oberfläche verschwunden ist. Anschließend schleift und poliert ein Team in gelben Warnwesten und Gehörschutz den Boden mit Maschinen und saugt den Staub ab. Die Oberfläche wird abgeschliffen, sodass durchscheinende Gurkenscheiben zum Vorschein kommen – eingebettet in den weißen, terrazzoartigen Boden wie grüne Tupfen. Ein Arbeiter im orangefarbenen Overall kniet nieder und wischt den Boden von Hand, während Poliermaschinen ihn auf Hochglanz bringen. Zum Schluss tragen zwei Möbelpacker ein beiges Bett mit weißer Bettwäsche sowie einen runden Beistelltisch aus Holz mit Vase und Büchern herein und verwandeln den Raum in ein minimalistisches Designer-Schlafzimmer. Abschließende Beauty-Einstellung: langsamer Kameraschwenk über den glänzend weißen Boden mit den eingelassenen Gurkenscheiben, weiches natürliches Licht, befriedigende Renovierung im ASMR-Stil, fotorealistische Details, sanfte, kinoreife Kamerabewegung.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2116879474146820096/img/9EVrV0bsiBxieDBp.jpg" width="600" alt="Gurkenscheiben-Terrazzo-Boden im Schlafzimmer">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13367)**
+
+**Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Quelle:** [Link](https://x.com/Rajrana12476547/status/2116879515527905597) | **Veröffentlicht:** Nov 1, 2026
+
+---
 ### Jelly Bean Terrazzo-Bodenrenovierung Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1128,6 +4564,30 @@ Statische Kamera, gerahmt durch eine Türöffnung, mit Blick in ein leeres Schla
 **[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13127)**
 
 **Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Quelle:** [Link](https://x.com/Rajrana12476547/status/2115506584159969679) | **Veröffentlicht:** Oct 28, 2026
+
+---
+### ASMR-Video-Generierung im Vergleich: Seedance 2.0 Mini vs. Andere
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein detaillierter Prompt zur Erstellung eines ASMR-Videos, in dem eine Frau einen als Stein getarnten Kuchen schneidet und isst, um Seedance 2.0 Mini mit anderen KI-Videomodellen wie Gemini, Meta Muse und Grok zu vergleichen.
+
+#### 📝 Prompt
+
+```
+Auf einer Picknickdecke am Fluss liegt ein graubrauner Kieselstein in der Mitte eines Holztellers. Er hat natürliche Muster auf der Oberfläche, eine abgerundete Form und sieht den echten Steinen in seiner Nähe zum Verwechseln ähnlich.
+
+Eine junge ostasiatische Frau mit Sanduhrfigur greift danach, klopft probeweise dagegen und schneidet ihn dann mit einem Messer auf. Die dünne, knusprige Schokoladenhülle bricht auf und gibt im Inneren dichte Schichten aus Matcha- und Vanillekuchen frei. Sie hält kurz inne, nimmt sich die Hälfte, beißt hinein, bekommt etwas Creme an die Lippen und kann sich ein Lächeln nicht verkneifen.
+
+Der Fokus liegt darauf, das Knacken einzufangen, wenn die Klinge die Hülle durchbricht, das weiche Reibegeräusch beim Schneiden des Kuchens und das feine Krümeln beim Biss. Im Hintergrund sind leise plätscherndes Wasser und Vogelgezwitscher zu hören.
+Natürliches Tageslicht, Look eines Smartphone-Schnappschusses im Freien, realistische Texturen, natürliche Bewegungen. Keine Sprache, keine Hintergrundmusik, Seitenverhältnis 9:16, 10 Sekunden.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2115347738091286529/img/NyA_vpwalRjR94Rz.jpg" width="600" alt="ASMR-Video-Generierung im Vergleich: Seedance 2.0 Mini vs. Andere">
+
+**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=13373)**
+
+**Autor:** [DeepBlue深藍](https://x.com/DeepBlueX0) | **Quelle:** [Link](https://x.com/DeepBlueX0/status/2115347819557261557) | **Veröffentlicht:** Oct 28, 2026
 
 ---
 ### Kirsch-Lippen-Serum-Werbung
@@ -3222,824 +6682,6 @@ Wassertropfen fallen auf die Flussoberfläche zurück, der göttliche Drache lö
 **Autor:** [Zidan 子丹](https://x.com/liluocheng13) | **Quelle:** [Link](https://x.com/liluocheng13/status/2110225020278743421) | **Veröffentlicht:** Oct 14, 2026
 
 ---
-### Müde koreanische Büroangestellte Tag
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein hochdetaillierter Prompt für ein 24-sekündiges cineastisches Video, das die erschöpfende tägliche Routine einer jungen koreanischen Büroangestellten darstellt.
-
-#### 📝 Prompt
-
-```
-Erstelle ein 24-sekündiges ultra-realistisches cineastisches Video einer jungen koreanischen Büroangestellten, die einen erschöpfenden Tag in ihrem Arbeitsalltag erlebt. Zeige sie beim Zähneputzen vor dem Badezimmerspiegel, wie sie sich auf die Arbeit vorbereitet, durch einen überfüllten Fußgängerüberweg in einer koreanischen Stadt in einem marineblauen Business-Anzug geht und eine schwarze Handtasche trägt. Dann zeige sie müde sitzend in einer überfüllten U-Bahn mit geschlossenen Augen, wie sie still an einem belebten Schreibtisch im Büro zwischen Computern und Papierkram arbeitet und zu Mittag in einer vollen Betriebskantine isst, während sie emotional ausgelaugt wirkt. Erfasse Nahaufnahmen ihres erschöpften Gesichts, realistische Hauttextur und subtile Traurigkeit in ihren Augen. Beende das Video damit, dass sie müde in der U-Bahn steht, bevor es zur Szene wechselt, in der sie reglos auf einem Sofa zu Hause liegt, immer noch in ihrer Bürokleidung und mit ihrem Mitarbeiterausweis. Stelle konsistente Gesichtszüge, Frisur, Outfit und Körperproportionen während des gesamten Videos sicher. Verwende realistische koreanische Umgebungen, natürliches Licht, flüssige cineastische Kamerabewegungen, detaillierte Gesichtsausdrücke und eine gedämpfte Farbpalette, um das emotionale Gewicht einer anspruchsvollen Arbeitsroutine zu vermitteln. Das gesamte Video muss fotorealistisch sein, ohne Text, Untertitel oder Wasserzeichen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110206919013199872/img/s6H_5NpANuOxYO0S.jpg" width="600" alt="Müde koreanische Büroangestellte Tag">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12483)**
-
-**Autor:** [Maha](https://x.com/Aiwithmaha) | **Quelle:** [Link](https://x.com/Aiwithmaha/status/2110206983999726004) | **Veröffentlicht:** Oct 14, 2026
-
----
-### Seedance Antike Xianxia Komödie Video Prompt
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Ein detaillierter Video-Generierungs-Prompt für Seedance, der einen 30-sekündigen cineastischen chinesischen Xianxia-Komödie-Film über zwei Schwertkämpferinnen erstellt, die dem Ferienchaos entfliehen wollen, nur um Nachtwachen antreten zu müssen.
-
-#### 📝 Prompt
-
-```
-Antike Xianxia Reversal Comedy | Sieben-Tage-Feiertag, zu viel Gedränge am Fuß des Berges, muss auf dem Berg Nachtwache halten
-
-I. Gesamtstil und kreative Ausrichtung
-
-Cineastische fotorealistische Textur, rein antike chinesische Xianxia-Welt, lebensechte Reversal Comedy im Zentrum echter Charakterbeziehungen.
-
-Aufnehmen:
-
-Britischer trockener Humor
-Hongkonger Situationskomik-Rhythmus
-Klassische Stummfilm-Reaktionspausen und Aufbau-Auflösungs-Struktur
-
-Charakterdarstellungen sind natürlich und zurückhaltend, keine übertriebenen Gesichtsausdrücke, kein Stapeln von übertriebenen Magieeffekten, keine abrupten großen Szenen.
-
-Visuelle Elemente haben:
-
-Echte optische Qualität alter Filme
-Klare, feine Mikrodetails im Gesicht
-Natürliches Filmkorn
-Realistische Stoffphysik
-Weiches volumetrisches Licht
-Klare räumliche Ebenen
-
-II. Kernhandlung und Comedy-Hauptlinie
-
-Die gesamte Sequenz hat nur eine vollständige 30-Sekunden-Comedy-Hauptlinie:
-
-Die Schwertunsterbliche Senior Sister und Junior Sister bekommen endlich einen sieben Tage langen Feiertag, gehen begeistert den Berg hinunter, um Ruhe zu finden, stellen aber fest, dass es an den Sehenswürdigkeiten überall Schlangen gibt, selbst Feinde, die zum Duell herausfordern, müssen sich anstellen.
-
-Enttäuscht kehren sie früh zur Sekte zurück, nur um festzustellen, dass die leere Sekte tatsächlich am ruhigsten ist; bevor sie es genießen können, ordnet der Meister an, dass sie Nachtwache halten sollen.
-
-Sie entscheiden sofort, wieder den Berg hinunterzugehen.
-
-Der finale Punchline kommt von:
-
-"Vorher über das Gedränge geschimpft, jetzt lieber Gedränge als Nachtwache" Realitätskontrast.
-
-Comedy-Prinzipien
-
-Alle Witze werden getrieben durch:
-
-Charakterentscheidungen
-
-Körperbewegungen
-Ausdrucksänderungen
-Natürlicher Dialog
-Darf nicht auf zufällige magische Unfälle oder Umgebungsprobleme setzen, die Charaktere lösen.
-
-III. Charakteridentität und Asset-Locking
-
-Verwenden Sie strikt @image1 und @image2 als einzige Identitätsanker für die beiden Kerncharaktere.
-
-Charakter-ID A | Schwertunsterbliche Senior Sister
-
-Immer dieselbe @image1 Schwertunsterbliche Senior Sister:
-
-25-30 Jahre alte ostasiatische Frau
-
-Groß und schlank
-
-Ovales Gesicht
-Dunkle Mandel-Augen
-Schwarzes langes Haar halb gebunden, fixiert mit einer Haarnadel aus weißem Jade
-Trägt immer denselben Satz weißer bestickter Seiden-Hanfu
-Geschichtete weite Ärmel
-Silberner Gürtel
-Jade-Anhänger
-Weiße Stoffstiefel
-Hält ein einzigartiges silbernes Langschwert
-Charakter-ID B | Junior Sister
-Immer dieselbe @image2 Junior Sister:
-
-20-25 Jahre alte ostasiatische Frau
-
-Zierliche Figur
-
-Rundes, lebhaftes Gesicht
-Schwarzes geflochtenes Haar
-Trägt immer denselben Satz cyan-grüner Leinen-Hanfu
-Dunkler Gürtel
-Holzhaarnadel
-Schwarze Stoffschuhe
-Hält ein einzigartiges dunkles Stahlschwert
-Charakterkontinuität
-Die folgenden Merkmale der beiden Kerncharaktere bleiben während des gesamten Verlaufs stabil:
-
-Gesichtsstruktur
-
-Merkmale
-
-Körperproportionen
-Frisur
-Kleidung
-Exklusive Waffen
-Andere Charaktere
-Derselbe ältere Meister
-
-Ein junger feindlicher Schwertkämpfer
-
-Beide dienen als funktionale Nebenrollen.
-IV. Umwelt-DNA und räumliche Planung
-
-Alle hochgeladenen Hintergrund- und Ortsreferenzbilder in dieser Runde bestimmen gemeinsam dieselbe reale visuelle Welt.
-
-Integrieren Sie vor der Generierung still kompatible Elemente aus jedem Referenzbild:
-
-Gelände
-
-Antike Architektur
-
-Baumaterialien
-
-Räumlicher Maßstab
-Vegetation
-Gewässer
-Natürliches Licht
-Wetter
-Wolken/Nebel
-Reflexionen
-Lufttiefe
-Gehwege
-Planen Sie für diese Runde eine einzigartige und physikalisch sinnvolle räumliche Anordnung neu.
-Geografische Kontinuität
-Die folgenden Orte müssen zur selben kontinuierlichen geografischen Umgebung gehören:
-
-Bergtor
-
-Bergweg
-
-Aussichtsplattform
-
-Lebendiger Hintergrund-Prinzip
-Natürlicher Wind, Wasserfluss, Zweige/Blätter, dünner Nebel, Reflexionen und Aktivitäten gewöhnlicher Jünger in der Ferne bestehen fort, bleiben aber narrativ neutral und erstellen oder lösen keine Handlungspunkte aktiv.
-Nur explizit angeordnete Touristen und wartende Herausforderer können spezifische dramatische Funktionen tragen.
-
-V. Vollständige Storyboard-Struktur für 30 Sekunden
-
-00:00–00:06 | Segment 1: Endlich frei, aber das Bergtor ist voll
-
-Shot: Weitwinkel, der langsam auf das Bergtor zuschiebt
-
-Szene & Umgebung
-
-Morgendliches natürliches Licht, klare Bergluft.
-
-Fernes fließendes Wasser, Zweige, Ärmel und langes Haar haben alle natürliche Bewegung.
-
-Charakteraktionen & Dialog
-
-Derselbe ältere Meister verkündet ruhig:
-
-[Meister] "Heute beginnt der sieben Tage lange Feiertag."
-
-Die Augen derselben Junior Sister leuchten sofort auf, sie dreht sich sofort zur Senior Sister:
-
-[Junior Sister] "Schwester, lass uns einen ruhigen Ort suchen!"
-
-Dasselbe weiß gekleidete Senior Sister antwortet knapp:
-
-[Senior Sister] "Los geht's."
-
-Die beiden gehen mit seltener Vorfreude schnell zum Bergtor.
-
-Kamerabewegung
-
-Die Kamera folgt stetig und enthüllt allmählich andere antike Jünger und reisende Kultivierende, die das Tor verlassen, und bilden eine natürliche, geordnete Menge.
-
-Reaktionsrhythmus
-
-Beide verlangsamen gleichzeitig, tauschen nur einen kurzen Blick aus, keine zusätzliche Erklärung.
-
-00:06–00:12 | Segment 2: Das Wolkenmeer ist schön, aber vorne sind viele Leute
-
-Shot: Aussichtsplattform, Mittelaufnahmen und Reaktionsschüsse
-
-Übergangsdesign
-
-Nutzen Sie vorbeilaufende Touristen im Vordergrund für eine natürliche Okklusionsüberleitung zur Berg-Aussichtsplattform innerhalb derselben Referenzwelt.
-
-Szene & Raum
-
-Das ferne Wolkenmeer und die Berge sind wirklich majestätisch, aber am besten Aussichtspunkt gibt es eine vernünftige Warteschlange.
-
-Charakteraktionen & Dialog
-
-Dieselbe Junior Sister steht leicht auf Zehenspitzen, versucht, an den Leuten vor ihr vorbei zu sehen, fragt verwirrt:
-
-[Junior Sister] "Schwester, wo ist das Wolkenmeer?"
-
-Dasselbe Senior Sister schaut auch ernst auf den Anfang der Schlange, pausiert für einen halben Takt, antwortet ohne Gesichtsveränderung:
-
-[Senior Sister] "Diese Reihe von Leuten vorne blockiert es."
-
-Comedy-Reaktion
-
-Junior Sister senkt langsam ihre Fersen, die Erwartung verschwindet Stück für Stück aus ihrem Gesicht.
-
-Geben Sie der Kamera genug kurze visuelle Pause, damit Zuschauer die Lücke selbst spüren.
-
-00:12–00:18 | Segment 3: Selbst Schwertunsterbliche herauszufordern erfordert Anstehen
-
-Shot: Zwei-Personen-Mittelaufnahme, seitlicher Schwenk und Raumaufdeckung
-
-Kamerabewegung
-
-Die Kamera schwenkt natürlich entlang ihrer Seiten.
-
-Feind-Eintritt
-
-Der einzige junge feindliche Schwertkämpfer geht auf sie zu, zieht feierlich sein Schwert und ruft mit echtem Kampfsport-Herausforderungsgeist:
-
-[Feindlicher Schwertkämpfer] "Schwertunsterbliche! Lass uns heute abrechnen!"
-
-Dasselbe weiß gekleidete Senior Sister wird endlich aufmerksam, stellt sich direkt dem Gegner gegenüber und antwortet:
-
-[Senior Sister] "Komm."
-
-Erste Comedy-Reversal
-
-Gerade als sie sich vorbereiten zu handeln, hebt dieselbe Junior Sister natürlich eine Hand zwischen ihnen:
-
-[Junior Sister] "Erst anstellen."
-
-Der Feind erstarrt auf der Stelle:
-
-[Feindlicher Schwertkämpfer] "Kämpfen braucht auch Anstehen?"
-
-Raumaufdeckung
-
-Die Kamera deckt einfach entlang des Blicks der Junior Sister auf:
-
-Zwei weitere schwerttragende Herausforderer warten still neben den Steinstufen.
-
-Einer sitzt
-
-Einer steht
-
-Alle sind in realistischen antiken Zuständen, keine übertriebenen Stylings, wiederholen nicht die Auftritte der Protagonisten.
-
-Comedy-Reaktion
-
-Der Feind senkt langsam sein Langschwert, sprachlos zum ersten Mal.
-
-Lassen Sie genug stille Reaktionsfläche, fügen Sie keine zusätzlichen Zeilen hinzu.
-
-00:18–00:24 | Segment 4: Früh zurückkehren, Stille wird zur Strafe
-Shot: Bergtor-Mittelaufnahme, stabile Beziehungsaufnahme
-
-Übergangsdesign
-
-Nutzen Sie das vorbeilaufende weiße weite Ärmel der Senior Sister für eine natürliche Okklusionsüberleitung.
-
-Zeit & Szene
-
-Abend desselben Tages.
-
-Sie kehren zur exakt selben Bergtor-Architektur und Terrain wie am Anfang zurück.
-
-Die meisten Jünger sind gegangen, die Sekte ist außergewöhnlich ruhig, aber die Umgebung ist definitiv kein statischer Hintergrund:
-
-Wasserkanäle fließen weiter
-
-Kiefernzweige wiegen im Wind
-
-Fernewolken-Schatten ändern sich langsam
-
-Charakteraktionen & Dialog
-
-Dieselbe Junior Sister setzt sich endlich bequem auf vertraute Steinstufen, entspannt sich und seufzt:
-
-[Junior Sister] "Am Bergtor ist es noch ruhiger."
-
-Dasselbe Senior Sister steht in der Nähe, entspannt sich zum ersten Mal wirklich.
-
-Bewahren Sie vollständig etwa eine halbe Sekunde der ruhigen, komfortablen emotionalen Pause.
-Zweite Comedy-Reversal
-Derselbe ältere Meister nähert sich natürlich von hinten, hält eine Rolle unlesbaren Text (normale Dienstliste), sagt beiläufig:
-
-[Meister] "Dann haltet ihr beide heute Nacht Wache."
-
-Leistungs-Fokus
-
-Senior Sister und Junior Sister drehen fast gleichzeitig langsam die Köpfe, um den Meister anzusehen, dann tauschen Blicke aus.
-
-Keine übertriebenen weit aufgerissenen Augen.
-
-Keine Soundeffekt-Explosionen.
-
-Verwenden Sie nur komplexe Ausdrücke zweier Erwachsener, die plötzlich erkennen, dass sie falsch gesprochen haben, um die Reversal zu erzeugen.
-
-00:24–00:30 | Segment 5: Lieber weiter anstehen als Nachtwache halten
-
-Shot: Mittlere stabile Verfolgung, bleibt schließlich bei der Reaktion des Meisters
-
-Charakteraktionen
-
-Senior Sister und Junior Sister müssen nicht diskutieren, stehen fast gleichzeitig:
-
-Auf
-
-Passen Schwerter und Kleidung an den Hüften erneut an
-
-Gehen schnell nach draußen zum Bergtor
-
-Dialog
-
-Derselbe Meister sieht sie ratlos an:
-
-[Meister] "Habt ihr nicht über das Gedränge unten geschimpft?"
-
-Dieselbe Junior Sister schaut nicht zurück, antwortet beim Gehen:
-
-[Junior Sister] "Gedränge ist Gedränge, aber keine Nachtwache nötig."
-
-Dasselbe weiß gekleidete Senior Sister fügt sehr ernst hinzu:
-[Senior Sister] "Schnell gehen, die Zimmer im Gasthaus werden voll sein."
-Finale Kamerabewegung
-
-Die Kamera verfolgt die beiden nicht, sondern bleibt natürlich beim Meister.
-
-Lassen Sie die immer schneller entfernten Rücken der beiden in der Ferne visuellen Kontrast mit der stillen Reaktion des Meisters im Vordergrund bilden.
-
-Finale Comedy-Landung
-
-Der Meister erkennt endlich, dass er persönlich zwei Jünger, die über das Gedränge geschimpft haben, zurück ins Gedränge geschickt hat.
-
-Er lässt nur ein leises Seufzen hören.
-
-Endet präzise auf dieser völlig hilflosen, aber sehr realen Reaktion.
-
-VI. Gesamtnarrative und Schnittanforderungen
-
-Strenge Gesamtdauer 30 Sekunden
-
-16:9 Querformat
-
-Fünf rhythmisch klare, kausal zusammenhängende cineastische Segmente
-
-Alle Orte gehören zu einem vollständigen geografischen Raum
-
-Direkt eine vollständige audiovisuelle Erzählung abschließen
-
-Schnittprinzipien
-
-Kamerawechsel werden nur natürlich abgeschlossen durch:
-
-Charakterbewegung
-
-Vordergrund-Okklusion
-
-Blickbeziehungen
-Richtungskontinuität
-Nicht machen
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110182087324254208/img/MR9I6jSjF-0t_RNb.jpg" width="600" alt="Seedance Antike Xianxia Komödie Video Prompt">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12488)**
-
-**Autor:** [Soran](https://x.com/Soranlan) | **Quelle:** [Link](https://x.com/Soranlan/status/2110182891452010713) | **Veröffentlicht:** Oct 14, 2026
-
----
-### Autotür-Epoxidboden-Design
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kreativer Prompt für die Bodenverlegung, der rostige Autotüren in ein lebendiges Bodendesign verwandelt.
-
-#### 📝 Prompt
-
-```
-Fotorealistisches vertikales Video im Format 9:16, feste Weitwinkelaufnahme aus der Ecke eines leeren weißen Raums mit einem großen Fenster an der rechten Wand, helles natürliches Tageslicht, nackter Betonboden. Ein bärtiger Arbeiter in marineblauen Latzhosen und schwarzen Handschuhen verteilt mit einer langstieligen Harke einen großen Haufen rostiger alter Autotüren auf dem Boden und harkt sie zu einem sauberen Raster flach, das den gesamten Raum bedeckt, in schneller Zeitrafferbewegung. Dann gießt eine Frau mit Pferdeschwanz in roten Latzhosen dickflüssiges, milchig-weißes selbstnivellierendes Epoxidharz aus einem Eimer über die rostigen Autotüren; die Flüssigkeit fließt nach außen und überschwemmt die Türen, bis der gesamte Boden eine glänzende weiße Oberfläche mit schwach sichtbaren Silhouetten der Autotüren darunter bildet. Als Nächstes schiebt ein Mann in einer gelben Warnweste eine rotierende Bodenpoliermaschine mit Saugschlauch und schleift das ausgehärtete Epoxid, bis die eingebetteten rostigen Autotüren zu einem glatten dekorativen Reliefmuster auf einem spiegelglänzend weißen Boden werden. Schließlich tragen zwei Arbeiter in schwarzer Uniform mit rosa Handschuhen ein schwarzes Metallbettgestell herein, legen eine Matratze darauf und beziehen das Bett mit einer grauen Decke und Kissen. Fertiges minimalistisches Schlafzimmer mit einem Designerboden aus Vintage-Autotüren, die unter klarem, glänzendem Harz eingeschlossen sind. Zufriedenstellender Renovierungs-Zeitraffer, konsistente Beleuchtung, ruhige Kamera, nahtloser durchgehender Shot, hohe Detailtreue, kein Text, kein Wasserzeichen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110044612379242496/img/wJMIB2YQGZFr9b7E.jpg" width="600" alt="Autotür-Epoxidboden-Design">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12486)**
-
-**Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Quelle:** [Link](https://x.com/Rajrana12476547/status/2110044654083162342) | **Veröffentlicht:** Oct 13, 2026
-
----
-### Tokio Nachtleben Lifestyle Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt zur Erstellung eines 15-sekündigen, hyperrealistischen kinematografischen Lifestyle-Videos mit einer Frau, die durch Tokios Straßen, den Shibuya-Übergang und Neon-Gassen navigiert.
-
-#### 📝 Prompt
-
-```
-Erstelle ein 15-sekündiges, hyperrealistisches kinematografisches Lifestyle-Video unter Verwendung der Referenzfrau als exakte Identitätsreferenz im gesamten Video.
-
-Sie ist in jeder Szene schön mit modellhaften Merkmalen. Bewahre ihr Gesicht, ihre langen dunklen Haare, ihren Hautton, ihre Körperproportionen und ihre Identität konsistent bei. Natürliche Hauttextur, realistische Bewegung, kein Morphing, kein Text auf dem Bildschirm, und sie spricht nie.
-
-Kleide sie in das Outfit aus ihrem Referenzbild, konsistent für das gesamte Video.
-
-Verwende unsere übliche schnelle Schnittstruktur: saubere Szenen von 0,8–1,8 Sekunden, dynamische Kamerabewegung, starke visuelle Politur und klare Ortswechsel. Halte die Aktionen einfach und leicht nachvollziehbar für das Modell. Der Ton ist stilvoll, mühelos und urban.
-
-Szene 1 — 0:00–0:01.8 Shibuya Crossing. Sie geht selbstbewusst durch die Menge. Die Kamera fährt vor ihr rückwärts.
-
-Szene 2 — 0:01.8–0:03.2 Intimes Porträt in einer Tokio-Nebenstraße. Gesicht, Hals, Schultern. Langsame seitliche Kamerabewegung. Sie blickt direkt in die Linse.
-
-Szene 3 — 0:03.2–0:04.8 Harajuku oder Cat Street. Seitlicher Verfolgungsschuss, während sie an Geschäften und Passanten vorbeigeht.
-
-Szene 4 — 0:04.8–0:06.2 Sie hält an einem leuchtenden Automaten an und nimmt einen Drink. Sauberer Close-Medium-Shot. Subtiler Push-In.
-
-Szene 5 — 0:06.2–0:07.8 Tokio Bahnsteig. Sie steht wartend, während der Zug hinter ihr einfährt. Die Kamera bewegt sich seitlich.
-
-Szene 6 — 0:07.8–0:09.3 Enge Neon-Gasse oder ruhige Laterne beleuchtete Gasse. Verfolgungsschuss von hinten, während sie geht, dann blickt sie leicht zurück.
-
-Szene 7 — 0:09.3–0:10.8 Moment am kleinen Ramen-Laden oder Café-Fenster. Sie dreht sich leicht, sanfter natürlicher Ausdruck, geringe Schärfentiefe.
-
-Szene 8 — 0:10.8–0:15.0 — HERO Dachterrasse oder erhöhte Terrasse mit Tokio-Skyline hinter ihr zur blauen Stunde. Starte hinter ihrer Schulter, dann kreise sanft in eine Hero-Aufnahme ab Taille hoch. Sie blickt im letzten Moment direkt in die Kamera, ruhig, selbstbewusst und auffallend.
-
-TON: Minimalistisch und natürlich. Tokio Straßengeräusche, weiches Menschengedränge, ferner Verkehr, Übergangssignalgeräusche, leichte Schritte, Summen des Automaten, Zugankunftsgesäusch, subtile Stadtluft, ruhige Restaurantatmosphäre. Kein Dialog. Keine Musiktexte.
-
-Halte Tokio visuell erkennbar, aber elegant. Keine verwirrenden Übergänge, keine zusätzliche Komplexität und keine Instabilität.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2110001684160167936/img/Qvh3eZRr7m24EnuP.jpg" width="600" alt="Tokio Nachtleben Lifestyle Video">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12480)**
-
-**Autor:** [Promethean](https://x.com/PrometheanAIX) | **Quelle:** [Link](https://x.com/PrometheanAIX/status/2110002369354178965) | **Veröffentlicht:** Oct 13, 2026
-
----
-### Schildkrötenpanzer-Epoxid-Bodenrenovierungs-Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein surreales Renovierungsvideo-Prompt, in dem Arbeiter einen Boden aus eingebetteten Schildkrötenpanzern mit Epoxidharz verlegen. Die Sequenz umfasst das Rechen lebender Schildkröten in Reihen, das Gießen von weißem Harz darüber, das Schleifen und Polieren zur Freilegung des Panzermusters sowie abschließend das Aufstellen eines Bettes darauf. Ideal für die Erstellung von seltsam befriedigenden ASMR-artigen visuellen Inhalten.
-
-#### 📝 Prompt
-
-```
-Fotorealistisches surreales Renovierungsvideo, vertikal 9:16, ein leerer Raum mit weißen Wänden und einem großen hellen Fenster, natürliches Tageslicht, statische Weitwinkelaufnahme, ruhige Kamera.
-
-Szene 1 (0–4 s): Ein Mann in blauen Jeans-Latzhosen und grauem T-Shirt verteilt mit einer langen Harke einen riesigen Haufen lebender Schildkröten auf dem nackten Betonboden und rechnet sie in ordentliche parallele Reihen, die den gesamten Raum bedecken.
-
-Szene 2 (4–8 s): Eine Frau in roten Latzhosen gießt dickflüssiges, selbstverlaufendes weißes Epoxidharz aus einem Plastikeimer über die Reihen der Schildkröten; die glänzende Flüssigkeit fließt, nivelliert sich und bedeckt die Panzer vollständig.
-
-Szene 3 (8–16 s): Der Mann bedient eine schwere Bodenschleif- und Poliermaschine und schleift das ausgehärtete weiße Harz ab; Staub steigt auf, und durch das Polieren werden allmählich die im Boden eingebetteten Schildkrötenpanzer sichtbar, die sich in einen dekorativen, glänzenden Epoxidboden mit Schildkrötenpanzermuster verwandeln.
-
-Szene 4 (16–24 s): Zwei Arbeiter in schwarzen T-Shirts tragen ein hölzernes Bettgestell herein, legen eine weiße Matratze, Kissen und beiges Bettzeug darauf und bauen das Bett auf dem Schildkrötenpanzer-Epoxidboden zusammen.
-
-Abschlussaufnahme: Fertiges gemütliches Schlafzimmer, glänzender Terrazzo-artiger Boden aus eingebetteten Schildkrötenpanzern, der das Fensterlicht reflektiert. Hyperrealistische Details, seltsam befriedigender ASMR-Stil, kein Text.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109958755173425153/img/FCKZiXsGkdEJncn9.jpg" width="600" alt="Schildkrötenpanzer-Epoxid-Bodenrenovierungs-Video">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12477)**
-
-**Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Quelle:** [Link](https://x.com/Rajrana12476547/status/2109958787373125663) | **Veröffentlicht:** Oct 13, 2026
-
----
-### Halloween Gothic Mode Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Prompt für die Erstellung eines kinematografischen Halloween-Fantasy-Modevideos mit einer Frau in Gothic-Couture und magischen Elementen.
-
-#### 📝 Prompt
-
-```
-Erstellen Sie ein ultrarealistisches, kinematografisches Halloween-Fantasy-Modevideo im vertikalen 9:16-Format. Im Mittelpunkt steht eine schöne erwachsene Frau mit langen, welligen kastanienbraunen Haaren, geschmückt mit einer aufwendigen Krone aus roten Rosen, orangefarbenen Ringelblumen, Miniaturkürbissen, schwarzer Spitze und baumelnden gotischen Ornamenten. Sie trägt ein extravagantes schwarz-oranges Gothic-Couture-Kleid mit komplexer Spitze, floraler Stickerei, Kürbisverzierungen und zartem Schmuck. Sie sitzt elegant in einem magischen Halloween-Garten, umgeben von leuchtenden Kerzen, geschnitzten Jack-o’-Lanterns, Herbstblumen und einem großen, leuchtenden Vollmond im Hintergrund. Auf ihrem Schoß ruht ein Korb, überquellend mit kleinen Kürbissen, Halloween-Süßigkeiten und niedlichen Geisterdekorationen. Sie legt sanft ihre Wange auf die Hand, lächelt warmherzig in die Kamera, neigt den Kopf und interagiert anmutig mit den Dekorationen, während sie natürliche Gesichtsausdrücke und fließende Bewegungen beibehält. Leuchtende goldene Schmetterlinge und magische Glühwürmchen umschwirren sie und erzeugen funkelnde Lichtspuren, während eine kleine schwarze Katze neben ihr sitzt. Verwenden Sie warmes bernsteinfarbenes Kerzenlicht, satte burnt-orange- und karmesinrote Töne, weiches kinematografisches Licht, geringe Schärfentiefe, hochdetaillierte Hauttexturen, realistische Stoffbewegungen, sanfte Kamerabewegungen, subtile Slow-Motion-Effekte und luxuriöse Fantasy-Editorial-Fotografie. Die Atmosphäre sollte bezaubernd, romantisch, mysteriös und skurril wirken, mit außergewöhnlicher Detailtreue, fotorealistischer 4K-Qualität und einer polierten Ästhetik eines Halloween-Modefilms.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109922320395423744/img/VBXgQbfrVo5AiCQY.jpg" width="600" alt="Halloween Gothic Mode Video">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12485)**
-
-**Autor:** [Letty](https://x.com/LettyVesper) | **Quelle:** [Link](https://x.com/LettyVesper/status/2109923048434348416) | **Veröffentlicht:** Oct 13, 2026
-
----
-### Verletzte Tänzerin: Moment im Studio
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ausführliche Prompt-Anleitung für ein cineastisches Video einer jungen koreanischen Tänzerin, die nach dem Training ausruht, wobei Verletzung und Emotion im Fokus stehen.
-
-#### 📝 Prompt
-
-```
-Erstelle ein 30-sekündiges, ultra-realistisches cineastisches Video mit einer schönen jungen erwachsenen Koreanerin in einem geräumigen, modernen Tanzstudio mit glattem Holzboden, großen Spiegeln und weicher Innenbeleuchtung. Zu Beginn sind mehrere Tänzerinnen im Hintergrund beim Üben zu sehen, während die Kamera die nackten Füße des Mädchens und ihre lockere schwarze Hose einfängt, als sie über den Studioraum geht. Sie trägt ein eng anliegendes schwarzes Langarm-Oberteil und eine lockere schwarze Hose, ihr dunkles Haar ist lässig zurückgebunden, einige Strähnen fallen natürlich ins Gesicht. Im weiteren Verlauf wirkt sie erschöpft und emotional überwältigt nach dem Training und setzt sich langsam gegen eine hellgraue Studiorwand, die Knie dicht an die Brust gezogen. Sie hält sanft ihren verletzten Knöchel, der mit einer hellfarbigen Bandage umwickelt ist, und blickt mit stiller, trauriger Miene nach unten. Andere Tänzerinnen üben weiter im Hintergrund, was einen realistischen Kontrast zwischen dem belebten Studio und ihrem einsamen Moment schafft. Verwende eine Mischung aus Weitwinkel-, Halbtotalen- und intimen Nahaufnahmen ihres Gesichts, ihrer Hände und des bandagierten Knöchels. Ihre Bewegungen sollten subtil, natürlich und emotional glaubwürdig wirken, mit realistischer Hauttextur, feinen Gesichtsdetails und konsistenter Charakterdarstellung im gesamten Video. Nutze weiche cineastische Beleuchtung, gedämpfte neutrale Farben, geringe Schärfentiefe, flüssige Kamerabewegungen und eine professionelle Ästhetik wie in koreanischen Dramaserien. Bewahre einen fotorealistischen Look, natürliche Körperproportionen, realistische Studiodesigns und hochwertige 1080p-Bilder im vertikalen 16:9-Format. Vermeide übertriebene Mimik, künstlich wirkende Haut, verzerrte Hände, zusätzliche Finger, Flackern sowie unerwünschte Texte oder Wasserzeichen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109876396952784896/img/U08ae2rw0nJjeYWO.jpg" width="600" alt="Verletzte Tänzerin: Moment im Studio">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12484)**
-
-**Autor:** [liana](https://x.com/Lianaalane) | **Quelle:** [Link](https://x.com/Lianaalane/status/2109876446089134244) | **Veröffentlicht:** Oct 13, 2026
-
----
-### Spätabendliche Szene in einem koreanischen Convenience Store mit Ramen
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt zur Generierung eines cinematischen 30-Sekunden-Videos, das drei Koreanerinnen zeigt, die in einem Convenience Store Instant-Ramen genießen. Der Fokus liegt auf realistischen Hauttexturen, lässiger Streetwear und einer stimmungsvollen nächtlichen Atmosphäre.
-
-#### 📝 Prompt
-
-```
-Erstelle ein 30 Sekunden langes Video: Wunderschöne Koreanerinnen genießen eine spätabendliche Ramen-Pause in einem koreanischen Convenience Store. Drei stilvolle junge Koreanerinnen mit natürlicher Schönheit, realistischer Hauttextur, dunklen ausdrucksstarken Augen und lässiger Streetwear versammeln sich unter hellem Neonlicht an der Ramen-Theke. Eine trägt eine blau-schwarze Sportjacke mit weiten Navy-Trainingshosen, eine andere hat kurze silbergraue Haare und eine schwarze Jacke, die dritte trägt ein dunkles legeres Outfit mit glatten schwarzen Haaren. Sie bereiten Instant-Ramen zu, halten Schokomilch und Snacks in den Händen und teilen entspannt eine spätabendliche Mahlzeit. Zeige cinematische Close-up-Aufnahmen von dampfenden Ramen-Bechern, Stäbchen, die Nudeln hochheben, wie ein Mädchen sanft auf heiße Nudeln bläst, bevor sie isst, und Freundinnen, die beim Essen natürlich plaudern. Übergang zu einer weiteren Aufnahme der Mädchen, die an einem kleinen runden Tisch neben dem Schaufenster des Convenience Stores sitzen, mit draußen leuchtenden Stadtlichtern und Reflexionen im Glas. Gegen Ende steht eines der Mädchen auf, richtet ihren Rucksack und geht zur Glastür, während die anderen sitzen bleiben. Erfasse die authentische Kultur der koreanischen Convenience Stores, unverstellte Momente der Freundschaft, subtile Gesichtsausdrücke, natürliche Bewegungen, realistische Food-Texturen und Dampf, Handkamera-Bewegung, geringe Schärfentiefe, kühle blaue cinematische Color Grading, weiche Reflexionen, stimmungsvolle nächtliche Atmosphäre, ultra-realistische Live-Action-Cinematography, konsistente Charaktere, detaillierte Kleidungstexturen, flüssige Übergänge, vertikales 9:16 Seitenverhältnis, 4K-Qualität, keine Untertitel, kein Text, kein Wasserzeichen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109852123366297600/img/HkCxcaBcWv0hhLJg.jpg" width="600" alt="Spätabendliche Szene in einem koreanischen Convenience Store mit Ramen">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12481)**
-
-**Autor:** [Ayat](https://x.com/aiwithaayat) | **Quelle:** [Link](https://x.com/aiwithaayat/status/2109852187186827283) | **Veröffentlicht:** Oct 13, 2026
-
----
-### K-Pop Micro-MV: Spiegelung im U-Bahn-Fenster
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Bewegungs-Prompt für Seedance 2.0 Fast zur Generierung einer fotorealistischen K-Pop-Micro-Musikvideo-Szene, in der eine Darstellerin ihr Spiegelbild im U-Bahn-Fenster betrachtet und intime Großstadt-Nacht-Romantik sowie spezifische Lichteffekte einfängt.
-
-#### 📝 Prompt
-
-```
-Fotorealistische kinematografische Erzählung eines K-Pop-Micro-Musikvideos, vertikales Format 9:16, exakt dieselbe fiktive erwachsene Identität(en) und Kleidung wie im Startbild. Natürliche menschliche Bewegung und stabile Anatomie, real fotografierte Umgebung, kein Text, keine Logos, keine neuen Personen, kein Singen oder Lip-Sync. MAGNETAR. Basierend auf dem Text 'Mein Gesicht spiegelt sich im U-Bahn-Fenster / ein bisschen mutiger als sonst.' Beginne mit derselben Lea in einer kirschroten Lederjacke in der nächtlichen U-Bahn. 0-4s Mediumaufnahme mit physikalisch korrekter einzelner Fensterreflexion: Tunnellichter bewegen sich, sie studiert ihr Gesicht, langsamer Atemzug und Schultern richten sich mit Entschlossenheit auf. 4-7s schaut sie auf ihr Handy, macht einen entscheidenden Tipp, als würde sie beschließen, zuerst die Initiative zu ergreifen; ihr Ausdruck wird still mutig. 7-10s schwenkt die Kamera subtil zu einer frontal-dreiviertel Nahaufnahme, sie hebt den Blick Richtung Zugtüren und schenkt ein selbstbewusstes kleines Lächeln. Halte die Reflexion synchronisiert, bewahre die rosafarbenen Haare und das exakte Gesicht, keine schnelle Unschärfe oder doppelte Person. Intime Großstadt-Nacht-Romantik mit kühlem Stahl-/Rot-Licht.
-Einstellungen: Seedance 2.0 Fast / 720p / 9:16 / 10-sekündige Quelle / generierter Audio aus. Original Suno Track hinzugefügt in FFmpeg.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109757910226255872/img/d5uON0jYhMBaPmsJ.jpg" width="600" alt="K-Pop Micro-MV: Spiegelung im U-Bahn-Fenster">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12482)**
-
-**Autor:** [🇰🇷Dave_Joe_9377🇦🇺](https://x.com/Dave_Joe_9377) | **Quelle:** [Link](https://x.com/Dave_Joe_9377/status/2109758263797727608) | **Veröffentlicht:** Oct 12, 2026
-
----
-### Mittelalterliche Krönungskomödie mit Unterbrechung
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt für eine 20-sekündige filmische Komödie, in der ein moderner Mann eine mittelalterliche Krönungszeremonie unterbricht, um das Preisschild der Krone zu entfernen.
-
-#### 📝 Prompt
-
-```
-DIE KRÖNUNG — 20-SEKÜNDIGE FILMISCHE KOMÖDIE
-
-MODELL: Seedance 2.5
-DAUER: 20 Sekunden
-BILDFORMAT: 16:9
-STIL: Fotorealistischer Live-Action-Mittelfantasy-Film mit subtiler absurder Komik.
-REFERENZBILDER UND CHARAKTERBINDUNG
-Verwenden Sie die hochgeladenen Charakterblätter für den König, den Prinzen und den Zufallsmann als maßgebliche visuelle Referenzen.
-König: Bewahren Sie sein exaktes Gesicht, das grau-streifige Haar, den Bart, die Krone und das burgunderrote königliche Gewand bei.
-
-Prinz: Bewahren Sie sein exaktes Gesicht, die Frisur, das marineblaue und goldene Krönungsgewand, den blauen Mantel und die Krone, sobald sie aufgesetzt ist, bei.
-
-Zufallsmann: Bewahren Sie sein exaktes Gesicht, die Frisur, die moderne legere Kleidung und die Körperproportionen bei.
-
-Halten Sie die konsistenten Identitäten der Charaktere, Kostüme, Beleuchtung und das Layout des Thronsaals während des gesamten Videos bei.
-ORT UND ATMOSPHÄRE
-Ein enormer mittelalterlicher königlicher Thronsaal mit hohen Steinsäulen, goldenen Kronleuchtern, hohen Bleiglasfenstern, roten Samtbannern und einem prächtigen goldenen Thron. Der königliche Hof steht schweigend auf beiden Seiten eines roten Teppichs.
-
-Die Atmosphäre ist extrem ernst und emotional grandios, wie der Höhepunkt eines epischen Fantasy-Films. Warmes goldenes Sonnenlicht strömt durch die Fenster. Die Musik ist majestätisch, mit einer vollen Orchestermusik.
-
-Der moderne Mann muss in dieser mittelalterlichen Umgebung völlig deplatziert wirken.
-
-SHOT 1 — DER MOMENT DER KRÖNUNG
-
-0–5 Sekunden
-
-Weitwinkel-Cinematic-Einstellung des königlichen Thronsaals. Der Prinz kniet auf einem Kissen vor dem König. Der König steht feierlich vor ihm und hält eine verzierte goldene Krone mit beiden Händen.
-
-Der Hof beobachtet in absoluter Stille.
-Schnitt auf eine mittlere Nahaufnahme des Königs, der die Krone langsam über den Kopf des Prinzen hebt.
-
-Der König spricht mit tiefer, feierlicher Stimme:
-
-KÖNIG: "Heute wirst du König."
-
-Die Orchestermusik schwillt dramatisch an. Der Prinz neigt seinen Kopf mit voller Ernsthaftigkeit.
-
-SHOT 2 — DER FALSCH MANN BETRITT DEN RAUM
-
-5–9 Sekunden
-
-Genau als der König dabei ist, die Krone abzusenken, betritt ein leger gekleideter moderner Mann in einem dunklen Hoodie, Jeans und Turnschuhen von der Seite der Halle die königliche Zeremonie.
-
-Er geht direkt zwischen König und Prinz hindurch, als gehöre er dorthin.
-Der König erstarrt mit der in der Luft schwebenden Krone. Der Prinz bleibt kniend sitzen und sieht leicht verwirrt aus. Die Höflinge starren in stiller Ungläubigkeit.
-
-Der moderne Mann nimmt kaum Notiz von irgendjemandem. Er bemerkt die Krone, betrachtet sie kritisch und gibt ein kleines missbilligendes Kopfschütteln ab.
-
-Die Orchestermusik bricht abrupt in einen unbehaglichen, gehaltenen Ton ab.
-
-SHOT 3 — DIE UNERWARTETE KORREKTUR
-
-9–14 Sekunden
-
-In einer einzigen, klar sichtbaren Aktion nimmt der moderne Mann beiläufig die Krone aus den Händen des Königs.
-
-Er bemerkt ein kleines Papierpreisschild, das an der Krone hängt, entfernt es und steckt es in seine Tasche. Dann richtet er sanft den schiefen Kragen des Prinzen gerade und schiebt den königlichen Thron einige Zentimeter in eine bessere Ausrichtung zum Teppich.
-Seine Bewegungen sind praktisch, schnell und völlig unbeeindruckt.
-
-Der König steht eingefroren, sichtbar verwirrt, aber versucht, seine königliche Würde zu bewahren. Der Prinz blickt vom Mann zu seinem Vater, unsicher, ob er sich bewegen darf.
-
-Der Mann tritt zurück, begutachtet seine Arbeit und nickt einmal zufrieden.
-
-ZUFALLSMANN: "Viel besser."
-
-Sprechen Sie den Satz beiläufig, in einer natürlichen Konversationsstimme, ohne dramatische Pause oder übertriebene komödiantische Darbietung.
-
-SHOT 4 — ZURÜCK ZUR TAGESORDNUNG
-
-14–17 Sekunden
-
-Der moderne Mann dreht sich um und geht beiläufig auf demselben Weg aus dem Thronsaal, auf dem er eingetreten ist.
-
-Niemand hält ihn auf. Niemand spricht.
-Der König folgt ihm langsam mit den Augen, dann blickt er auf die Krone in seinen Händen, als versuche er zu verstehen, was gerade passiert ist.
-
-Der Prinz bleibt in genau derselben Position knien.
-
-Der Mann verlässt den Bildrahmen vollständig.
-
-SHOT 5 — DIE KRÖNUNG GEHT WEITER
-
-17–20 Sekunden
-
-Schnitt auf eine cinematische mittlere Nahaufnahme des Königs, der tief durchatmet, seine Fassung wiederherstellt und sich sorgfältig positioniert, um die Zeremonie fortzusetzen.
-
-Er hebt die Krone erneut.
-Der Prinz neigt seinen Kopf.
-
-Die Orchestermusik setzt ihre ursprüngliche majestätische Intensität wieder ein, als wäre die Unterbrechung nie geschehen.
-
-KÖNIG: "Heute… wirst du König."
-
-Ende sofort mit dem perfekt ernsten Gesicht des Königs.
-
-Schnitt auf Schwarz.
-
-KAMERA UND SCHNITT
-
-Verwenden Sie professionelle cinematische Rahmung, sanfte kontrollierte Kamerabewegungen, realistische Tiefenschärfe, natürliche mikroexpressionelle Gesichtsregungen und saubere Filmstil-Schnitte. Stellen Sie den Raum dar, bevor Sie zu mittleren Einstellungen und Nahaufnahmen übergehen. Machen Sie den Eintritt und die praktischen Handlungen des modernen Mannes leicht sichtbar.
-
-Halten Sie die Komik unterschwellig und getrieben durch Timing, unbehagliche Stille und den Kontrast zwischen der epischen Zeremonie und dem profanen Verhalten des Mannes.
-
-AUDIOGESTALTUNG
-
-Majestätische Orchestermusik während der Krönung, subtile Schritte und Kleiderbewegungen, eine leichte musikalische Unterbrechung, wenn der Mann eintritt, ein leises Rascheln des Papiers, wenn er das Preisschild entfernt, und eine Rückkehr zur vollen orchestralen Grandiosität für den letzten Satz.
-
-Aller Dialog muss deutlich hörbar, natürlich auf Englisch gesprochen und nicht übertrieben theatralisch sein.
-
-STRIKTE NEGATIVE EINSCHRÄNKUNGEN
-
-Generieren Sie KEINE Untertitel, Beschriftungen, Texteinblendungen, Wasserzeichen, Logos oder sonstigen Bildschirmtext.
-Zeigen Sie die gesprochenen Zeilen NICHT als geschriebenen Text auf dem Bildschirm an.
-Dialog muss nur als gesprochenes Audio existieren, niemals als sichtbare Typografie.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109652073189097472/img/WVJ7tQSgnKUnJfqs.jpg" width="600" alt="Mittelalterliche Krönungskomödie mit Unterbrechung">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12392)**
-
-**Autor:** [Caden Flux](https://x.com/Caden_Flux) | **Quelle:** [Link](https://x.com/Caden_Flux/status/2109652904864829898) | **Veröffentlicht:** Oct 12, 2026
-
----
-### Pixar-Stil Mango-Hain Kurzfilm Prompt
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Ein detaillierter Video-Generierungsprompt für Seedance 2.0 zur Erstellung eines 12-sekündigen animierten Kurzfilms im Pixar-Stil, der einen Bauern in einem Mango-Hain zeigt.
-
-#### 📝 Prompt
-
-```
-12-sekündiger animierter Kurzfilm, Pixar 3D Cartoon Stil, helle pastorale Beleuchtung, warme Nachmittags-Sonnenstrahlen, die durch die Blätter filtern. Ein mittelalterlicher Bauer mit einem breitkrempigen Strohhut, einem hellen Khaki-Hemd mit hochgekrempelten Ärmeln, dunklen Hosen und einer kleinen Stofftasche an seiner Hüfte steht in einem üppigen Mango-Hain und berührt sanft pralle grüne Mangos an den Zweigen mit einem milden Lächeln. Hintergrund von sanften Hügeln, blauem Himmel und weißen Wolken.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109650656302972929/img/mtXPkMSZfdrAx-sF.jpg" width="600" alt="Pixar-Stil Mango-Hain Kurzfilm Prompt">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12395)**
-
-**Autor:** [Jackzhao](https://x.com/Jackzhaoh6ob) | **Quelle:** [Link](https://x.com/Jackzhaoh6ob/status/2109651272303550940) | **Veröffentlicht:** Oct 12, 2026
-
----
-### Video einer Balance-Beam-Kür im Geräteturnen
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt für ein ultra-realistisches, kinoreifes Video einer Turnerin, die eine elegante Kür auf dem Schwebebalken in einer Turnhalle absolviert.
-
-#### 📝 Prompt
-
-```
-Ultra-realistisches, kinoreifes Video einer talentierten jungen Turnerin, die eine elegante Kür auf dem Schwebebalken in einer traditionellen Turnhalle zeigt. Sie trägt einen burgunderroten Langarm-Turnanzug und hat ihr braunes Haar ordentlich zurückgebunden. Sie balanciert anmutig über den Balken, streckt ihre Arme zur Stabilisierung aus und führt eine beeindruckende Spagat-Pose mit perfekter Flexibilität und Kontrolle vor. Im Hintergrund beobachtet ein sitzendes Publikum aufmerksam. Warme Innenbeleuchtung, realistische Hauttextur, natürliche Körperbewegungen, sanfte kinematografische Kamerabewegung, geringe Schärfentiefe, weiches Hintergrund-Bokeh, professionelle Sportfotografie, realistischer Bewegungsfluss, 4K UHD, 24 fps, vertikale 9:16-Komposition, hochdetailliert, fotorealistisch.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109510154567974912/img/KvPK7VQYYAV2EzZm.jpg" width="600" alt="Video einer Balance-Beam-Kür im Geräteturnen">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12358)**
-
-**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Quelle:** [Link](https://x.com/AIwithMinal/status/2109510249573191819) | **Veröffentlicht:** Oct 12, 2026
-
----
-### Cinematic Fantasy Video mit rosa Drache und Frau in Hütte
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Prompt zur Generierung eines 36-sekündigen ultra-realistischen cineastischen Fantasy-Videos, das eine junge Frau zeigt, die mit einem niedlichen rosa Babydrachen in einer schneebedeckten Holzhütte interagiert.
-
-#### 📝 Prompt
-
-```
-Erstelle ein fantastisches 36-sekündiges ultra-realistisches cineastisches Fantasy-Video, das eine schöne junge Frau mit langen, welligen dunklen Haaren zeigt, die einen gemütlichen beigen Strickpullover trägt und mit einem niedlichen rosa Babydrachen in einer rustikalen Holzhütte inmitten verschneiter Berge interagiert. Die Frau bereitet sanft frisches Essen zu, lächelt das kleine Wesen an und füttert es liebevoll, während seine großen goldenen Augen vor Neugier funkeln. Der niedliche Drache bewegt seine winzigen Flügel, wedelt mit dem Schwanz und kuschelt sich in ihre Arme, während das warme Kaminlicht ihre Gesichter erhellt. Außerhalb der Hüttenfenster fällt Schnee und schafft eine magische Winteratmosphäre mit atemberaubender Landschaft. Zeige schöne Nahaufnahmen der zarten rosa Schuppen des Drachen, seiner halbtransparenten Saumflossen und ausdrucksstarken Augen sowie der natürlichen Gesichtsausdrücke der Frau. Integriere sanfte cineastische Kamerabewegungen, realistische Interaktionen, detaillierte Holzinterieurs, weiches Licht und nahtlose Szenenübergänge. Die Frau kuschelt das Wesen sanft neben dem glühenden Kamin, während es sie liebevoll anschaut. Stelle perfekte Charakterkonsistenz, fotorealistische Texturen, natürliche Bewegungen, professionelle 4K-Cinematography und eine emotional fesselnde Fantasy-Atmosphäre sicher, ohne Text, Logos oder Wasserzeichen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109456966603161600/img/yQObaARfkE7CuA3p.jpg" width="600" alt="Cinematic Fantasy Video mit rosa Drache und Frau in Hütte">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12356)**
-
-**Autor:** [Maha](https://x.com/Aiwithmaha) | **Quelle:** [Link](https://x.com/Aiwithmaha/status/2109457141174247789) | **Veröffentlicht:** Oct 12, 2026
-
----
-### Filmisches Kampfsporttraining im japanischen Dojo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt zur Generierung einer ultra-realistischen, filmischen Kampfsport-Szene mit zwei Frauen, die Handgemenge in einem traditionellen japanischen Holz-Dojo üben.
-
-#### 📝 Prompt
-
-```
-AI Video-Prompt: Filmisches Kampfsporttraining
-
-Erstellen Sie eine ultra-realistische, filmische Kampfsport-Szene mit zwei talentierten jungen Frauen, die Handgemenge in einem traditionellen japanischen Holz-Dojo üben, umgeben von einem üppigen grünen Garten. Eine Frau hat kastanienbraunes Haar, das zu einem Pferdeschwanz gebunden ist, und trägt ein braunes Langarm-Trainingsoberteil mit dunkler Hose. Die andere hat kurzes, lockiges schwarzes Haar und trägt ein hellbeiges Kampfsport-Outfit mit dunkler Hose.
-
-Sie führen realistische Schläge, Blocks, defensive Bewegungen und Konterangriffe mit beeindruckender Geschwindigkeit, Präzision und Balance aus. Ihre Bewegungen sollten natürlich fließen, mit korrekter Körpermechanik, realistischem Footwork, ausdrucksstarken Gesichtern und authentischer Kampfsport-Choreografie. Weiches, natürliches Tageslicht fällt durch den Pavillon aus Holz und beleuchtet den polierten Boden sowie die grüne Szenerie.
-
-Kamera: Filmische Medium-Weitwinkel-Aufnahmen, sanfte Tracking-Bewegungen, gelegentliche Nahaufnahmen, realistischer Bewegungsunschärfe und dynamische Winkel.
-
-Visueller Stil: Fotorealistisch, 4K-Filmqualität, natürliche Beleuchtung, detaillierte Stofftexturen, geringe Schärfentiefe, subtiler Filmkorn, professionelle Actionfilm-Kamerakunst.
-
-Stimmung: Intensiv, diszipliniert, anmutig, kraftvoll und fokussiert.
-
-Format: Vertikal 9:16, kontinuierliche realistische Bewegung, konsistente Charakterdarstellungen, keine Schnitte, die die Choreografie unterbrechen, keine verzerrte Anatomie, keine zusätzlichen Gliedmaßen, kein Text, kein Wasserzeichen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109200093870219264/img/VT3q4u7Y8J729LDG.jpg" width="600" alt="Filmisches Kampfsporttraining im japanischen Dojo">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12357)**
-
-**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Quelle:** [Link](https://x.com/AIwithMinal/status/2109200265534718164) | **Veröffentlicht:** Oct 11, 2026
-
----
-### Feurige Kriegerin: Cinematic Action-Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Prompt zur Generierung eines 15-sekündigen, ultra-realistischen Fantasy-Action-Videos im Kino-Stil mit einer silberhaarigen Kriegerin und leuchtenden Augen, die auf einem dunklen Schlachtfeld inmitten lodernder Flammen einen Speer schwingt.
-
-#### 📝 Prompt
-
-```
-Erstelle ein 15-sekündiges, ultra-realistisches Fantasy-Action-Video im Kino-Stil mit einer mächtigen Kriegerin. Sie hat langes Silberhaar, leuchtend goldene Augen und trägt ein stilvolles schwarzes Kampf-Outfit. In den Händen hält sie einen riesigen Speer, umgeben von lodernden orangefarbenen Flammen. Sie stürmt über ein dunkles Schlachtfeld nach vorne und führt schnelle, kraftvolle Waffenangriffe aus, begleitet von glühenden Feuerspuren und fliegenden Funken. Die Kamera folgt ihren Bewegungen sanft und fängt dramatische Nahaufnahmen, weite Action-Aufnahmen sowie intensive Kampfmomente ein. Sie springt hoch in die Luft und wirbelt ihren Speer, während sich magische Feuerenergie um ihren Körper sammelt. Mit unglaublicher Kraft schlägt sie auf den Boden auf und erzeugt eine massive Explosion aus Flammen, Rauch und glühenden Ascheflocken. Ihr Silberhaar weht natürlich im Wind, während ihre goldenen Augen vor wilder Entschlossenheit strahlen. Das Schlachtfeld wird von orange leuchtender Energie erhellt, während Gegner im Rauch verschwinden. Ende mit einer dramatischen Heldenpose, ihr Speer hell leuchtend, während Feuerwirbel sie umgeben. Stelle konsistente Charakterdetails, realistische Bewegungen, kinematisches Licht, sanfte Übergänge und atemberaubende visuelle Effekte in hoher Qualität während des gesamten Videos sicher.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109136974116499456/img/snE8D7hQi20LDhvy.jpg" width="600" alt="Feurige Kriegerin: Cinematic Action-Video">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12303)**
-
-**Autor:** [Maha](https://x.com/Aiwithmaha) | **Quelle:** [Link](https://x.com/Aiwithmaha/status/2109137173224337478) | **Veröffentlicht:** Oct 11, 2026
-
----
-### Mittelalterliche Bogenschützin im Wald
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein hochdetaillierter Prompt für einen 15-sekündigen mittelalterlichen Fantasy-Film, der eine Bogenschützin zeigt, die durch einen nebligen Kiefernwald reitet, ihren Bogen spannt und ein Lager erreicht. Enthält spezifische Anweisungen zur Kameraführung und Physik.
-
-#### 📝 Prompt
-
-```
-Erstelle einen 15-sekündigen, ultrarealistischen mittelalterlichen Fantasy-Film mit hohem Budget, der eine schöne, wild aussehende weibliche Bogenschützin zeigt. Sie hat langes, lockeres braunes Haar und trägt historisch inspirierte dunkelbraune Leder-Rüstung, Schultern mit Fellbesatz, eine robuste mittelalterliche Kleidung, einen Ledergürtel und einen Köcher voller Pfeile auf dem Rücken. Sie reitet ein muskulöses schwarzes Pferd durch einen dichten, alten Kiefernwald, der von dickem atmosphärischem Nebel, moosbedecktem Boden, verstreuten Felsen und aufragenden Bäumen geprägt ist. Beginne sofort mit einer weiten kinematografischen Rückansicht der Kriegerin, wie sie ihr Pferd auf einem schmalen Waldpfad entlangreitet, während warmes goldenes Sonnenlicht durch die Bäume bricht und dramatische volumetrische Lichtstrahlen sowie eine mysteriöse Atmosphäre erzeugt. Die Kamera folgt sanft hinter dem Pferd her, während seine Hufe sich natürlich über den unebenen Boden bewegen und kleine Blätter, Erde und Moos aufwirbeln. Wechsle zu einer dramatischen Nahaufnahme aus niedriger Seitenwinkel-Perspektive der weiblichen Kriegerin, die einen traditionellen gebogenen schwarzen Bogen hält, die Sehne mit einem einzelnen Pfeil nach hinten zieht und mit intensiver Konzentration zielt. Ihre Arm-Muskeln spannen sich natürlich an, der Bogen biegt sich unter realistischer Spannung, und ihr Haar sowie die Kleidung mit Fellbesatz reagieren auf die kühle Waldbrise. Erfasse ihren entschlossenen Gesichtsausdruck, realistische Hauttextur, detaillierte Leder-Rüstung und die einzelnen Pfeile in ihrem Köcher. In den letzten Sekunden wechsle zu einer weiten Verfolgungsaufnahme von hinten, als sie in ein verstecktes mittelalterliches Lager reitet, das von aufragenden immergrünen Bäumen, rustikalen Zelten, Holzstrukturen und Gruppen von Kriegern in authentischer mittelalterlicher Kleidung und Rüstung umgeben ist. Die Krieger wenden sich ihrer Ankunft zu und erzeugen die Atmosphäre einer legendären Häuptlingsfrau, die zu ihrem Volk zurückkehrt. Stelle konsistente Charakteridentität, Kleidung, Aussehen des Pferdes und realistische Körperproportionen in jeder Einstellung sicher. Verwende kinematografische Kameraübergänge, natürliche Pferde-Lokomotion, korrekte Anatomie des Reittiers, realistische Schwerkraft, Trägheit, Muskelbewegung, Stoff-Simulation und physikalisch glaubwürdiges Licht. Premium Hollywood-Stil für mittelalterliche Fantasy-Kinematografie, fotorealistische Texturen, atmosphärischer Nebel, gedämpfte erdige Farben, dramatisches natürliches Licht, subtiler Filmkorn, geringe Schärfentiefe, 4K-Qualität, 24 FPS, immersive Umgebungsgeräusche von Pferdehufen, Lederbewegung, Wind durch Kiefernbäume und ferner Lageratmosphäre. Keine modernen Objekte, keine Cartoon-Effekte, keine Untertitel, kein Text, keine Logos und kein Wasserzeichen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2109123010812870656/img/EHX4CdPkZ_XLXU_e.jpg" width="600" alt="Mittelalterliche Bogenschützin im Wald">
-
-**[🎬 Video ansehen →](https://youmind.com/de-DE/seedance-2-0-prompts?id=12304)**
-
-**Autor:** [Ayat](https://x.com/aiwithaayat) | **Quelle:** [Link](https://x.com/aiwithaayat/status/2109123171408560343) | **Veröffentlicht:** Oct 11, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -4101,6 +6743,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-11-02T05:01:31.529Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-11-03T11:55:38.792Z</sub>
 
 </div>
