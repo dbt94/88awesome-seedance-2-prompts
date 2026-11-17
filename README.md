@@ -68,9 +68,9 @@ Why use our gallery?
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **6686** |
+| 📝 Total Prompts | **6689** |
 | ⭐ Featured Prompts | **6** |
-| 🔄 Last Updated | **2026-11-16** |
+| 🔄 Last Updated | **2026-11-17** |
 
 ---
 
@@ -365,6 +365,178 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 
 > 📝 Sorted by publish date (newest first)
 
+### Korean Romantic Action Short Film
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for a 30-second ultra-realistic Korean romantic action short film involving a couple protecting each other during a street encounter.
+
+#### 📝 Prompt
+
+```
+Create a 30-second ultra-realistic Korean romantic action short film.
+
+Scene 1 (0–10 seconds):
+A young Korean couple walks together on a quiet Seoul street at night. They share a natural romantic moment. Suddenly, a stranger approaches and starts bothering the girl. The boyfriend calmly steps forward to protect her.
+
+Scene 2 (10–20 seconds):
+A short, realistic street fight begins. The boyfriend defends himself with natural hand-to-hand combat. Realistic punches, dodging and movements. No exaggerated stunts or superhero action. The girlfriend watches anxiously.
+
+Scene 3 (20–30 seconds):
+The stranger leaves. The boyfriend has a minor injury. His girlfriend gently checks his face. They exchange a small smile, hold hands and walk away together under the streetlights.
+
+Visual Style:
+Authentic Korean cinema, realistic Korean actors, natural facial expressions, subtle romance, cinematic night lighting, realistic Seoul environment, smooth camera movements, professional film cinematography, detailed skin textures, natural body movements.
+
+Audio: Natural city ambience, subtle emotional cinematic background music, realistic sound effects.
+
+Important Requirements:
+
+- Exactly 30 seconds.
+- 16:9 widescreen.
+- No overacting.
+- No exaggerated fighting.
+- No cartoon or anime effects.
+- No subtitles or text on screen.
+- Maintain consistent faces, clothes and characters across all scenes.
+- Professional Korean movie quality.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122334588718764034/img/mxBkNujr8mERoDm1.jpg" width="600" alt="Korean Romantic Action Short Film">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13936)**
+
+**Author:** [𝐍𝐚𝐯𝐞𝐞 𝐀𝐢](https://x.com/navi_Ai2) | **Source:** [Link](https://x.com/navi_Ai2/status/2122335176286187925) | **Published:** Nov 16, 2026
+
+---
+### Korean Action Thriller Fight Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for a 30-second ultra-realistic Korean action thriller titled 'THE WRONG TARGET', featuring a lone man defending against three attackers in a rainy Seoul alley.
+
+#### 📝 Prompt
+
+```
+Title: THE WRONG TARGET
+
+Create an exactly 30-second ultra-realistic Korean action thriller film.
+
+Scene 1 (0–10 seconds): The Encounter
+
+A young Korean man walks alone through a narrow Seoul street at night. Three suspicious men suddenly block his path. One man pushes him and demands his phone. The hero calmly looks at them without saying anything.
+
+Scene 2 (10–20 seconds): The Fight
+
+One attacker throws a punch. The hero dodges and responds with realistic hand-to-hand combat. He blocks attacks, delivers fast punches and uses practical defensive movements. The fight should feel intense, physical and believable, like a professional Korean action movie. No flying kicks or unrealistic stunts.
+
+Scene 3 (20–30 seconds): The Final Move
+
+Two attackers fall back while the third tries to attack from behind. The hero notices him, turns quickly and knocks the attacker off balance. All three retreat. The hero picks up his phone, adjusts his jacket and calmly walks away into the rainy street.
+
+Cinematography:
+
+- Ultra-realistic South Korean crime thriller style.
+- Authentic Korean actors.
+- Dark Seoul alley at night.
+- Rain-soaked streets and cinematic lighting.
+- Fast camera movements during combat.
+- Close-up shots of realistic facial expressions.
+- Wide shots showing complete fight choreography.
+- Smooth transitions and professional editing.
+
+Audio:
+Realistic punches, footsteps, rain ambience and intense cinematic background music.
+
+Important Requirements:
+
+- Exactly 30 seconds.
+- 16:9 widescreen.
+- 4K photorealistic quality.
+- No overacting.
+- No supernatural elements.
+- No cartoon effects.
+- No slow motion except one brief impact moment.
+- Consistent hero appearance throughout.
+- No subtitles, logos or text on screen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122330344359972866/img/1MGZN-yrt6gXBnQT.jpg" width="600" alt="Korean Action Thriller Fight Scene">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13937)**
+
+**Author:** [Hope Ai](https://x.com/Hope_Ai01) | **Source:** [Link](https://x.com/Hope_Ai01/status/2122330543719366996) | **Published:** Nov 16, 2026
+
+---
+### Seedance 2.0 Realistic MMA Fight Scene Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A detailed prompt for generating a high-intensity mixed martial arts fight scene in Seedance 2.0, featuring specific character descriptions, camera angles, and sound design instructions.
+
+#### 📝 Prompt
+
+```
+Generate a 15-second, 16:9 horizontal realistic cinematic action short film, generated directly from text.
+
+[Core Requirements]
+High-density, fast-paced, continuous close-quarters combat, like the most exciting fight scene in a top-tier action movie, with 4 rounds of exchanges and 10 shots.
+The first frame is already mid-fight; no intro, walking, standoff, or posing.
+No slow motion throughout; all actions are at real-time speed.
+Each shot lasts about 1-2 seconds, completing one clear attack/defense and showing the result after impact.
+Actions connect tightly between shots; the result of the previous action is the start of the next, with no pauses.
+Both sides attack and get hit; the female protagonist is suppressed in the first half, fights back fiercely in the second half, and ends the fight with a final blow.
+
+[Characters]
+Female Protagonist: An adult East Asian woman around 26 years old, beautiful features, sharp eyes, black long hair braided tight to the scalp, fit body with muscle definition. Wearing a black sports tank top, black MMA shorts, black fingerless gloves, barefoot.
+Opponent: An adult male significantly larger than the female protagonist, bald, chest tattoo, wearing red MMA shorts, red fingerless gloves, barefoot.
+Only these two characters in the entire film; appearance and clothing remain consistent.
+
+[Scene]
+Inside an octagonal wire cage in an underground fighting arena. Dim environment, strong overhead lights illuminating the cage, blurry silhouettes of spectators and smoke outside. Dark gray mats on the cage floor.
+The entire film takes place in the same cage; wire mesh and character positions remain coherent.
+
+[Storyboard]
+
+Round 1: Suppressed
+Shot 1 (0–1.5s): Side medium shot. Opponent throws a heavy punch; female protagonist ducks, opponent follows with a low sweep kick hitting her outer thigh, causing her to stagger.
+Shot 2 (1.5–3s): Handheld tracking shot. Opponent charges with a straight punch hitting the female protagonist's blocking arms, pushing her against the wire fence, shaking it violently.
+
+Round 2: Escape
+Shot 3 (3–4.5s): Close-up. Opponent pins female protagonist against the fence, raises fist to strike; she blocks with both hands, body jolting from impact.
+Shot 4 (4.5–6s): Close-up. Female protagonist exploits a gap, delivering a knee strike to opponent's abdomen; he bends over, she slips out from the fence side.
+
+Round 3: Exchange
+Shot 5 (6–7.5s): Medium shot. Female protagonist quickly throws a jab and a cross, both hitting opponent's face, snapping his head back.
+Shot 6 (7.5–9s): Medium shot. Opponent roars and counters with a hook hitting female protagonist's cheek, braid swinging; she stumbles but immediately raises guard.
+
+Round 4: Counter-Kill
+Shot 7 (9–10.5s): Close-up tracking. Opponent swings a big hook; female protagonist ducks under, delivering an elbow to his jaw, making him stagger.
+Shot 8 (10.5–12s): Medium shot. Female protagonist grabs opponent's neck, delivers two consecutive knees to his chest, bending him forward.
+Shot 9 (12–13.5s): Slightly wider medium. She releases neck, lands a heavy punch on opponent's jaw; his knees buckle, he collapses heavily onto the mat, unable to rise.
+Shot 10 (13.5–15s): Close-up of female protagonist's face, lit by overhead light, sweat-soaked. Chest heaving, fists still guarding, sharp gaze fixed on fallen opponent. Screen ends directly.
+
+[Action & Cinematography]
+Realistic cinematic quality, strong overhead lighting, dark outside cage, sweat glistening.
+Every punch/kick must make contact before showing force absorption, retreat, or imbalance; no air hits, no premature falls.
+Actions follow real MMA techniques; punches have power generation/retraction, feet plant firmly on mats.
+Slight camera shake on impact allowed, but must clearly show who hit whom.
+Character left/right positions consistent between adjacent shots; no teleporting, clipping, or extra limbs/characters.
+No flips, flying kicks, or superpowers; no gore close-ups. Focus on action, not body parts.
+
+[Sound]
+Muffled crowd cheers as background. Impact sounds (fence, punches, knees, falls) sync accurately with visuals; dull and powerful.
+Tense, fast, drum-heavy action score from second 1, peaking at final punch, ending with crowd explosion and female protagonist's panting.
+No dialogue, narration, subtitles, text, or watermarks., 16:9, 15s, 720p
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121951410317393920/img/aq_L0F8KWMKKc4-2.jpg" width="600" alt="Seedance 2.0 Realistic MMA Fight Scene Prompt">
+
+**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13893)**
+
+**Author:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Source:** [Link](https://x.com/Adam38363368936/status/2121952543366648318) | **Published:** Nov 15, 2026
+
+---
 ### Seedance 2.0 Action Fight Prompt
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -9600,73 +9772,6 @@ Requirements: Each time fully occlude first then instant costume change, continu
 **Author:** [麻酱AI实验室](https://x.com/zhongying14) | **Source:** [Link](https://x.com/zhongying14/status/2114038007435055604) | **Published:** Oct 24, 2026
 
 ---
-### Samurai and Oni Geisha Clay Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for creating a fast-paced claymation-style comedy video featuring a Samurai and an Oni Geisha interacting with physical humor and stop-motion aesthetics.
-
-#### 📝 Prompt
-
-```
-15-second fast-paced cute clay-animation sketch. Use the exact character designs from the reference: the huge stern blue clay Samurai and the tiny elegant red Oni/Geisha. Handmade stop-motion clay aesthetic, expressive squash-and-stretch, playful physical comedy. No dialogue. No dead time.
-
-0–4 sec: The Samurai dramatically draws his katana with exaggerated seriousness — SHIIING! He strikes an intimidating battle pose. The tiny Oni-Geisha looks completely unimpressed, casually pulls out a small red folding fan and THWACKS the flat side of his sword downward.
-
-4–8 sec: Samurai freezes in disbelief. Oni-Geisha smugly walks past him. He quickly steps in front of her and performs an absurdly elaborate sequence of lightning-fast sword flourishes, sleeves and blue robe whipping around — WHOOSH, SWISH, SWISH! She effortlessly ducks each swing while continuing her tiny graceful walk without even looking at him.
-
-8–12 sec: Frustrated, Samurai commits to one enormous overhead strike. Oni-Geisha simply takes one tiny step sideways. WHAM! His katana gets stuck deep in the clay floor. He pulls desperately; the sword refuses to move. His giant body stretches comically from the effort.
-
-12–15 sec: Oni-Geisha calmly taps the sword handle once with her fan — TOK! The sword instantly pops free, launching Samurai backward into a ridiculous clay tumble. He lands sitting upright, stunned. Oni-Geisha gives him a tiny smug bow and snaps her fan open. End immediately on Samurai’s embarrassed glare.
-
-Audio: energetic cute Japanese-inspired percussion and plucked-string music, tightly synchronized with the comedy; exaggerated clay footsteps, sword unsheathing, metallic swishes, fan thwacks, impact sounds and comedic pops. No speech, no vocals.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114022336512905216/img/5DAPE8_KuJC9gE29.jpg" width="600" alt="Samurai and Oni Geisha Clay Animation">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13002)**
-
-**Author:** [Keskin](https://x.com/craftian_keskin) | **Source:** [Link](https://x.com/craftian_keskin/status/2114028393347883491) | **Published:** Oct 24, 2026
-
----
-### Everyday Sequence Fries Lunch Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt comparing Seedance 2.0 and Kling 4.0 on an everyday sequence of picking up food.
-
-#### 📝 Prompt
-
-```
-an everyday sequence: picking up an order, grabbing a fry, taking a sip, and laughing with a friend
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113867563771842560/img/u8Iuas8eesjV9cba.jpg" width="600" alt="Everyday Sequence Fries Lunch Prompt">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=13001)**
-
-**Author:** [Jayden Douglass 💭 | AI Coach](https://x.com/JaydenCoach) | **Source:** [Link](https://x.com/JaydenCoach/status/2113867722786259116) | **Published:** Oct 24, 2026
-
----
-### Fearless Warrior Cinematic Portrait
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for generating a cinematic, ultra-realistic video of a fearless warrior with dramatic lighting and epic mood.
-
-#### 📝 Prompt
-
-```
-Create a cinematic, ultra-realistic video of a fearless warrior with intense eyes, a powerful presence, and a confident attitude. Use dramatic lighting, smooth slow-motion movements, detailed textures, a dark atmospheric background, and professional color grading. 4K quality, sharp focus, epic mood, and a visually stunning cinematic finish.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113848979058470912/img/toLQfOH68vyUJD9j.jpg" width="600" alt="Fearless Warrior Cinematic Portrait">
-
-**[🎬 Watch Video →](https://youmind.com/en-US/seedance-2-0-prompts?id=12967)**
-
-**Author:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2113849008812872170) | **Published:** Oct 24, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -9728,6 +9833,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-16T05:12:43.995Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-17T13:07:08.671Z</sub>
 
 </div>

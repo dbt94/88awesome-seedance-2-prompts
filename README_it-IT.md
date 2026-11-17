@@ -68,9 +68,9 @@ Perché usare la nostra galleria?
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **6686** |
+| 📝 Totale prompt | **6689** |
 | ⭐ Prompt in evidenza | **6** |
-| 🔄 Ultimo aggiornamento | **2026-11-16** |
+| 🔄 Ultimo aggiornamento | **2026-11-17** |
 
 ---
 
@@ -361,6 +361,178 @@ Ultra realistico, energia ispirata a Fast and Furious, illuminazione fotorealist
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Cortometraggio Romantico d'Azione Coreano
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt per un cortometraggio romantico d'azione coreano ultra-realistico di 30 secondi, che coinvolge una coppia che si protegge a vicenda durante un incontro in strada.
+
+#### 📝 Prompt
+
+```
+Crea un cortometraggio d'azione romantico coreano ultra-realistico di 30 secondi.
+
+Scena 1 (0–10 secondi):
+Una giovane coppia coreana passeggia insieme in una tranquilla strada di Seoul, di notte. Condividono un momento romantico del tutto naturale. All'improvviso, uno sconosciuto si avvicina e inizia a infastidire la ragazza. Il fidanzato fa un passo avanti con calma per proteggerla.
+
+Scena 2 (10–20 secondi):
+Inizia un breve e realistico scontro di strada. Il fidanzato si difende con un combattimento corpo a corpo naturale. Pugni, schivate e movimenti realistici. Nessuna acrobazia esagerata o azione da supereroi. La fidanzata osserva la scena con ansia.
+
+Scena 3 (20–30 secondi):
+Lo sconosciuto se ne va. Il fidanzato ha riportato una lieve ferita. La ragazza gli accarezza delicatamente il viso per controllare come sta. Si scambiano un piccolo sorriso, si prendono per mano e si allontanano insieme sotto la luce dei lampioni.
+
+Stile visivo:
+Autentico cinema coreano, attori coreani realistici, espressioni facciali naturali, romanticismo delicato, illuminazione notturna cinematografica, ambientazione realistica di Seoul, movimenti di camera fluidi, fotografia cinematografica professionale, texture della pelle dettagliate, movimenti corporei naturali.
+
+Audio: Atmosfera urbana naturale, musica di sottofondo cinematografica ed emotiva ma discreta, effetti sonori realistici.
+
+Requisiti importanti:
+
+- Durata esatta di 30 secondi.
+- Formato widescreen 16:9.
+- Nessuna recitazione sopra le righe.
+- Nessuna scena di combattimento esagerata.
+- Nessun effetto in stile cartone animato o anime.
+- Nessun sottotitolo o testo sullo schermo.
+- Mantenere volti, vestiti e personaggi coerenti in tutte le scene.
+- Qualità professionale da film coreano.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122334588718764034/img/mxBkNujr8mERoDm1.jpg" width="600" alt="Cortometraggio Romantico d'Azione Coreano">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13936)**
+
+**Autore:** [𝐍𝐚𝐯𝐞𝐞 𝐀𝐢](https://x.com/navi_Ai2) | **Fonte:** [Link](https://x.com/navi_Ai2/status/2122335176286187925) | **Pubblicato:** Nov 16, 2026
+
+---
+### Scena di Combattimento Thriller d'Azione Coreano
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt per una scena di combattimento ultra-realistica di 30 secondi, tratta da un thriller d'azione coreano intitolato 'THE WRONG TARGET', che mostra un uomo solitario che si difende da tre aggressori in un vicolo di Seoul sotto la pioggia.
+
+#### 📝 Prompt
+
+```
+Titolo: IL BERSAGLIO SBAGLIATO
+
+Crea un thriller d'azione coreano ultra-realistico della durata esatta di 30 secondi.
+
+Scena 1 (0–10 secondi): L'incontro
+
+Un giovane coreano cammina da solo lungo una stradina stretta di Seoul, di notte. Tre uomini dall'aria sospetta gli sbarrano improvvisamente la strada. Uno lo spinge e gli intima di consegnare il telefono. Il protagonista li fissa con calma, senza dire una parola.
+
+Scena 2 (10–20 secondi): Lo scontro
+
+Uno degli aggressori sferra un pugno. Il protagonista schiva il colpo e risponde con un combattimento corpo a corpo realistico. Para gli attacchi, tira pugni rapidi e usa movimenti difensivi concreti. Lo scontro deve risultare intenso, fisico e credibile, come in un film d'azione coreano professionale. Niente calci volanti o acrobazie inverosimili.
+
+Scena 3 (20–30 secondi): La mossa finale
+
+Due aggressori arretrano, mentre il terzo tenta di colpirlo alle spalle. Il protagonista se ne accorge, si volta di scatto e lo sbilancia. Tutti e tre battono in ritirata. Lui raccoglie il telefono, si sistema la giacca e si allontana con calma lungo la strada bagnata dalla pioggia.
+
+Fotografia:
+
+- Stile da crime thriller sudcoreano ultra-realistico.
+- Attori coreani autentici.
+- Vicolo buio di Seoul, di notte.
+- Strade inzuppate di pioggia e illuminazione cinematografica.
+- Movimenti di macchina rapidi durante il combattimento.
+- Primi piani sulle espressioni facciali realistiche.
+- Campi lunghi che mostrino l'intera coreografia dello scontro.
+- Transizioni fluide e montaggio professionale.
+
+Audio:
+Pugni realistici, passi, suono ambientale della pioggia e musica di sottofondo cinematografica e intensa.
+
+Requisiti importanti:
+
+- Durata esatta di 30 secondi.
+- Formato widescreen 16:9.
+- Qualità fotorealistica in 4K.
+- Nessuna recitazione sopra le righe.
+- Nessun elemento soprannaturale.
+- Nessun effetto in stile cartone animato.
+- Nessun rallentatore, tranne per un brevissimo momento d'impatto.
+- Aspetto del protagonista coerente per tutta la durata.
+- Nessun sottotitolo, logo o testo sullo schermo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122330344359972866/img/1MGZN-yrt6gXBnQT.jpg" width="600" alt="Scena di Combattimento Thriller d'Azione Coreano">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13937)**
+
+**Autore:** [Hope Ai](https://x.com/Hope_Ai01) | **Fonte:** [Link](https://x.com/Hope_Ai01/status/2122330543719366996) | **Pubblicato:** Nov 16, 2026
+
+---
+### Prompt per scena di combattimento MMA realistico con Seedance 2.0
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt dettagliato per generare una scena di combattimento di arti marziali miste ad alta intensità in Seedance 2.0, con descrizioni specifiche dei personaggi, angolazioni della camera e istruzioni per il sound design.
+
+#### 📝 Prompt
+
+```
+Genera un cortometraggio d'azione cinematografico realistico di 15 secondi, in formato orizzontale 16:9, creato direttamente da testo.
+
+[Requisiti principali]
+Combattimento corpo a corpo continuo, frenetico e ad alta densità, come la scena di lotta più adrenalinica di un film d'azione di altissimo livello, con 4 round di scambi e 10 inquadrature.
+Il primo fotogramma mostra già il combattimento nel vivo: nessuna introduzione, camminata, stallo o posa plastica.
+Nessun rallentatore (slow motion) per tutta la durata; tutte le azioni si svolgono a velocità reale.
+Ogni inquadratura dura circa 1-2 secondi, completando un chiaro attacco/difesa e mostrando l'esito dopo l'impatto.
+Le azioni si collegano perfettamente tra un'inquadratura e l'altra; l'esito dell'azione precedente è l'inizio della successiva, senza alcuna pausa.
+Entrambi attaccano e vengono colpiti; la protagonista femminile subisce nella prima metà, contrattacca ferocemente nella seconda e chiude lo scontro con un colpo finale.
+
+[Personaggi]
+Protagonista femminile: donna adulta est asiatica di circa 26 anni, lineamenti bellissimi, sguardo tagliente, lunghi capelli neri intrecciati aderenti al cranio, fisico atletico e muscolatura definita. Indossa una canotta sportiva nera, pantaloncini MMA neri, guantini a dita libere neri, piedi scalzi.
+Avversario: uomo adulto notevolmente più massiccio della protagonista, calvo, tatuaggio sul petto, indossa pantaloncini MMA rossi, guantini a dita libere rossi, piedi scalzi.
+Solo questi due personaggi in tutto il video; aspetto e abbigliamento rimangono sempre coerenti.
+
+[Ambientazione]
+All'interno di una gabbia ottagonale di rete metallica in un'arena clandestina di combattimento. Ambiente buio, forti luci dall'alto che illuminano la gabbia, sagome sfocate di spettatori e fumo all'esterno. Tappetini grigio scuro sul pavimento della gabbia.
+L'intero video si svolge nella stessa gabbia; la rete metallica e le posizioni dei personaggi restano coerenti.
+
+[Storyboard]
+
+Round 1: Sottomissione
+Inquadratura 1 (0–1,5s): Piano medio laterale. L'avversario sferra un pugno pesante; la protagonista schiva abbassandosi, lui prosegue con un calcio basso spazzato che la colpisce alla coscia esterna, facendola barcollare.
+Inquadratura 2 (1,5–3s): Carrellata a mano. L'avversario carica con un pugno diretto che colpisce le braccia in guardia della protagonista, spingendola contro la rete metallica e facendola vibrare violentemente.
+
+Round 2: Fuga
+Inquadratura 3 (3–4,5s): Primo piano. L'avversario blocca la protagonista contro la rete, alza il pugno per colpirla; lei para con entrambe le mani, il corpo sussulta per l'impatto.
+Inquadratura 4 (4,5–6s): Primo piano. La protagonista sfrutta uno spiraglio e sferra una ginocchiata all'addome dell'avversario; lui si piega in avanti e lei sguscia via lateralmente lungo la rete.
+
+Round 3: Scambio
+Inquadratura 5 (6–7,5s): Piano medio. La protagonista tira rapidamente un jab e un cross, entrambi a segno sul viso dell'avversario, facendogli scattare la testa all'indietro.
+Inquadratura 6 (7,5–9s): Piano medio. L'avversario ruggisce e risponde con un gancio che colpisce la guancia della protagonista, facendo oscillare la treccia; lei inciampa ma rialza subito la guardia.
+
+Round 4: Contrattacco letale
+Inquadratura 7 (9–10,5s): Carrellata in primo piano. L'avversario sferra un ampio gancio; la protagonista si abbassa per schivarlo e gli pianta una gomitata alla mascella, facendolo vacillare.
+Inquadratura 8 (10,5–12s): Piano medio. La protagonista afferra il collo dell'avversario e gli assesta due ginocchiate consecutive al petto, piegandolo in avanti.
+Inquadratura 9 (12–13,5s): Piano medio leggermente più largo. Lei lascia il collo e piazza un pugno devastante sulla mascella dell'avversario; le ginocchia di lui cedono e crolla pesantemente sul tappeto, incapace di rialzarsi.
+Inquadratura 10 (13,5–15s): Primo piano del viso della protagonista, illuminato dalla luce dall'alto, madido di sudore. Petto ansimante, pugni ancora in guardia, sguardo tagliente fisso sull'avversario a terra. Il video termina direttamente su questa immagine.
+
+[Azione e regia]
+Qualità cinematografica realistica, forte illuminazione dall'alto, oscurità fuori dalla gabbia, sudore che luccica.
+Ogni pugno/calcio deve andare a segno prima di mostrare l'assorbimento del colpo, l'arretramento o lo squilibrio; nessun colpo a vuoto, nessuna caduta anticipata.
+Le azioni seguono tecniche MMA reali; i pugni hanno caricamento e rientro, i piedi sono ben piantati sui tappetini.
+È consentito un leggero tremolio della camera agli impatti, ma deve essere sempre chiaro chi colpisce chi.
+Le posizioni destra/sinistra dei personaggi devono essere coerenti tra inquadrature consecutive; niente teletrasporti, compenetrazioni o arti/personaggi extra.
+Niente capriole, calci volanti o superpoteri; nessun primo piano splatter. Focus sull'azione, non sulle singole parti del corpo.
+
+[Audio]
+Tifo ovattato del pubblico in sottofondo. I suoni degli impatti (rete, pugni, ginocchiate, cadute) sono perfettamente sincronizzati con le immagini; cupi e potenti.
+Colonna sonora d'azione tesa, veloce e dominata dalle percussioni dal secondo 1, che raggiunge il picco con il pugno finale e si chiude con l'esplosione del pubblico e il respiro affannoso della protagonista.
+Nessun dialogo, voce narrante, sottotitolo, testo o watermark., 16:9, 15s, 720p
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121951410317393920/img/aq_L0F8KWMKKc4-2.jpg" width="600" alt="Prompt per scena di combattimento MMA realistico con Seedance 2.0">
+
+**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13893)**
+
+**Autore:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Fonte:** [Link](https://x.com/Adam38363368936/status/2121952543366648318) | **Pubblicato:** Nov 15, 2026
+
+---
 ### Prompt di combattimento Seedance 2.0
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -9400,73 +9572,6 @@ Requisiti: Ogni volta prima un'occlusione totale dell'inquadratura, poi un cambi
 **Autore:** [麻酱AI实验室](https://x.com/zhongying14) | **Fonte:** [Link](https://x.com/zhongying14/status/2114038007435055604) | **Pubblicato:** Oct 24, 2026
 
 ---
-### Animazione in argilla di Samurai e Oni Geisha
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt dettagliato per creare un video comico frenetico in stile claymation, con un Samurai e una Oni Geisha che interagiscono attraverso umorismo fisico ed estetica stop-motion.
-
-#### 📝 Prompt
-
-```
-Sketch in claymation carino e dal ritmo incalzante di 15 secondi. Usa esattamente i design dei personaggi del riferimento: l'enorme e severo Samurai di plastilina blu e la minuscola ed elegante Oni/Geisha rossa. Estetica artigianale della plastilina in stop-motion, squash-and-stretch espressivo, comicità fisica giocosa. Nessun dialogo. Nessun tempo morto.
-
-0–4 sec: Il Samurai sfodera la katana con teatrale serietà esagerata — SHIIING! Assume una posa da combattimento intimidatoria. La minuscola Oni-Geisha non sembra minimamente colpita: tira fuori con nonchalance un piccolo ventaglio rosso pieghevole e colpisce con un THWACK il lato piatto della spada, spingendola verso il basso.
-
-4–8 sec: Il Samurai si immobilizza, incredulo. L'Oni-Geisha gli passa davanti con aria compiaciuta. Lui le si para rapidamente davanti e si esibisce in una sequenza assurdamente elaborata di volteggi fulminei con la spada, mentre maniche e veste blu sferzano l'aria — WHOOSH, SWISH, SWISH! Lei schiva ogni fendente senza sforzo, continuando la sua camminatina aggraziata senza nemmeno degnarlo di uno sguardo.
-
-8–12 sec: Frustrato, il Samurai si lancia in un unico, gigantesco fendente dall'alto. L'Oni-Geisha fa semplicemente un passettino laterale. WHAM! La katana si conficca a fondo nel pavimento di plastilina. Lui tira disperatamente, ma la spada non vuole saperne di muoversi. Il suo corpo enorme si allunga in modo comico per lo sforzo.
-
-12–15 sec: L'Oni-Geisha dà un colpetto calmo all'elsa con il ventaglio — TOK! La spada si libera all'istante, catapultando il Samurai all'indietro in una ridicola capriola nella plastilina. Atterra seduto e dritto, completamente stordito. L'Oni-Geisha gli rivolge un minuscolo inchino compiaciuto e apre il ventaglio con uno scatto secco. Chiudi subito sull'espressione imbarazzata e furiosa del Samurai.
-
-Audio: percussioni energiche e carine di ispirazione giapponese e musica con strumenti a corda pizzicata, perfettamente sincronizzate con la comicità; passi esagerati sulla plastilina, suono della spada che viene sfoderata, sibili metallici, colpi di ventaglio, rumori d'impatto e scoppiettii comici. Nessuna voce parlata, nessun canto.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114022336512905216/img/5DAPE8_KuJC9gE29.jpg" width="600" alt="Animazione in argilla di Samurai e Oni Geisha">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13002)**
-
-**Autore:** [Keskin](https://x.com/craftian_keskin) | **Fonte:** [Link](https://x.com/craftian_keskin/status/2114028393347883491) | **Pubblicato:** Oct 24, 2026
-
----
-### Prompt per la sequenza quotidiana di patatine fritte a pranzo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt che confronta Seedance 2.0 e Kling 4.0 su una sequenza quotidiana di ritiro del cibo.
-
-#### 📝 Prompt
-
-```
-una sequenza di tutti i giorni: ritirare un ordine, rubare una patatina, fare un sorso e ridere con un amico
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113867563771842560/img/u8Iuas8eesjV9cba.jpg" width="600" alt="Prompt per la sequenza quotidiana di patatine fritte a pranzo">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=13001)**
-
-**Autore:** [Jayden Douglass 💭 | AI Coach](https://x.com/JaydenCoach) | **Fonte:** [Link](https://x.com/JaydenCoach/status/2113867722786259116) | **Pubblicato:** Oct 24, 2026
-
----
-### Prompt Video Cinematografico Guerriero
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt per generare un video cinematografico ultra-realistico di un guerriero senza paura, con illuminazione drammatica ed effetti slow-motion.
-
-#### 📝 Prompt
-
-```
-Crea un video cinematografico e ultra-realistico di un guerriero impavido dallo sguardo intenso, una presenza imponente e un atteggiamento sicuro di sé. Utilizza un'illuminazione drammatica, movimenti fluidi al rallentatore, texture dettagliate, uno sfondo scuro e ricco di atmosfera e una color grading professionale. Qualità 4K, messa a fuoco nitida, atmosfera epica e un risultato finale cinematografico visivamente mozzafiato.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113848979058470912/img/toLQfOH68vyUJD9j.jpg" width="600" alt="Prompt Video Cinematografico Guerriero">
-
-**[🎬 Guarda il video →](https://youmind.com/it-IT/seedance-2-0-prompts?id=12967)**
-
-**Autore:** [AIwithMinal](https://x.com/AIwithMinal) | **Fonte:** [Link](https://x.com/AIwithMinal/status/2113849008812872170) | **Pubblicato:** Oct 24, 2026
-
----
 ---
 
 ## 📚 Altri prompt disponibili
@@ -9528,6 +9633,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-11-16T05:12:58.972Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-11-17T13:07:22.402Z</sub>
 
 </div>

@@ -68,9 +68,9 @@ Tại sao nên sử dụng thư viện của chúng tôi?
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **6686** |
+| 📝 Tổng số prompt | **6689** |
 | ⭐ Prompt nổi bật | **6** |
-| 🔄 Cập nhật lần cuối | **2026-11-16** |
+| 🔄 Cập nhật lần cuối | **2026-11-17** |
 
 ---
 
@@ -361,6 +361,178 @@ Siêu thực tế, năng lượng lấy cảm hứng từ Fast and Furious, ánh
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Phim ngắn hành động lãng mạn Hàn Quốc
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt tạo video siêu thực dài 30 giây về một bộ phim ngắn hành động lãng mạn Hàn Quốc, kể về một cặp đôi bảo vệ nhau trong một cuộc chạm trán trên phố.
+
+#### 📝 Prompt
+
+```
+Tạo một bộ phim ngắn hành động lãng mạn Hàn Quốc dài 30 giây với độ chân thực cực cao.
+
+Cảnh 1 (0–10 giây):
+Một cặp đôi trẻ người Hàn Quốc cùng nhau dạo bước trên con phố yên tĩnh ở Seoul về đêm. Cả hai có một khoảnh khắc lãng mạn thật tự nhiên. Bất ngờ, một kẻ lạ mặt tiến lại gần và bắt đầu quấy rối cô gái. Người bạn trai bình tĩnh bước lên che chở cho cô.
+
+Cảnh 2 (10–20 giây):
+Một cuộc ẩu đả ngắn trên đường phố diễn ra đầy chân thực. Chàng trai tự vệ bằng những đòn cận chiến tự nhiên. Các cú đấm, pha né đòn và chuyển động đều rất thực tế. Không có pha mạo hiểm cường điệu hay hành động kiểu siêu anh hùng. Cô bạn gái đứng nhìn đầy lo lắng.
+
+Cảnh 3 (20–30 giây):
+Kẻ lạ mặt bỏ đi. Chàng trai bị thương nhẹ. Cô bạn gái dịu dàng kiểm tra vết thương trên mặt anh. Hai người trao nhau một nụ cười khẽ, nắm tay nhau và cùng bước đi dưới ánh đèn đường.
+
+Phong cách hình ảnh:
+Chất điện ảnh Hàn Quốc đích thực, diễn viên Hàn Quốc chân thực, biểu cảm gương mặt tự nhiên, nét lãng mạn tinh tế, ánh sáng đêm đậm chất điện ảnh, bối cảnh Seoul chân thực, góc máy chuyển động mượt mà, kỹ thuật quay phim chuyên nghiệp, chi tiết kết cấu da rõ nét, cử động cơ thể tự nhiên.
+
+Âm thanh: Âm thanh môi trường đô thị tự nhiên, nhạc nền điện ảnh giàu cảm xúc nhưng tinh tế, hiệu ứng âm thanh chân thực.
+
+Yêu cầu quan trọng:
+
+- Thời lượng chính xác 30 giây.
+- Tỷ lệ khung hình rộng 16:9.
+- Không diễn xuất cường điệu.
+- Không có các pha đánh nhau phi thực tế.
+- Không sử dụng hiệu ứng hoạt hình hay anime.
+- Không có phụ đề hoặc chữ hiển thị trên màn hình.
+- Giữ nguyên sự nhất quán về khuôn mặt, trang phục và nhân vật xuyên suốt tất cả các cảnh.
+- Chất lượng tương đương phim điện ảnh Hàn Quốc chuyên nghiệp.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122334588718764034/img/mxBkNujr8mERoDm1.jpg" width="600" alt="Phim ngắn hành động lãng mạn Hàn Quốc">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13936)**
+
+**Tác giả:** [𝐍𝐚𝐯𝐞𝐞 𝐀𝐢](https://x.com/navi_Ai2) | **Nguồn:** [Link](https://x.com/navi_Ai2/status/2122335176286187925) | **Đã xuất bản:** Nov 16, 2026
+
+---
+### Cảnh chiến đấu trong phim hành động kinh dị Hàn Quốc
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt tạo video 30 giây siêu thực cho bộ phim hành động kinh dị Hàn Quốc mang tên 'THE WRONG TARGET', khắc họa một người đàn ông đơn độc chống lại ba kẻ tấn công trong con hẻm mưa ở Seoul.
+
+#### 📝 Prompt
+
+```
+Tiêu đề: NHẦM MỤC TIÊU
+
+Tạo một bộ phim hành động giật gân Hàn Quốc siêu chân thực dài chính xác 30 giây.
+
+Cảnh 1 (0–10 giây): Cuộc chạm trán
+
+Một chàng trai trẻ người Hàn Quốc đi bộ một mình qua con hẻm nhỏ ở Seoul vào ban đêm. Ba gã đàn ông khả nghi bất ngờ chặn đường anh. Một tên đẩy anh và đòi lấy điện thoại. Nhân vật chính bình thản nhìn chúng mà không nói lời nào.
+
+Cảnh 2 (10–20 giây): Trận chiến
+
+Một tên tấn công tung cú đấm. Nhân vật chính né đòn và đáp trả bằng những thế võ cận chiến chân thực. Anh đỡ đòn, tung ra những cú đấm chớp nhoáng và sử dụng các động tác phòng thủ thực tế. Trận đánh phải mang lại cảm giác khốc liệt, mạnh mẽ và đáng tin cậy, giống như trong một bộ phim hành động chuyên nghiệp của Hàn Quốc. Không có những cú đá bay hay pha mạo hiểm phi thực tế.
+
+Cảnh 3 (20–30 giây): Đòn kết liễu
+
+Hai tên tấn công ngã dạt ra sau, trong khi tên thứ ba cố tập kích từ phía sau. Nhân vật chính phát hiện, xoay người thật nhanh và tung đòn khiến hắn mất thăng bằng. Cả ba tên tháo lui. Nhân vật chính nhặt điện thoại lên, chỉnh lại áo khoác rồi điềm nhiên bước đi giữa con phố đang đổ mưa.
+
+Quay phim:
+
+- Phong cách phim tội phạm giật gân Hàn Quốc siêu chân thực.
+- Diễn viên Hàn Quốc chân thực.
+- Con hẻm tối ở Seoul vào ban đêm.
+- Đường phố ướt đẫm nước mưa cùng ánh sáng đậm chất điện ảnh.
+- Chuyển động máy quay nhanh trong các cảnh giao tranh.
+- Cảnh quay cận biểu cảm gương mặt chân thực.
+- Cảnh quay toàn thể hiện trọn vẹn các màn dàn dựng võ thuật.
+- Chuyển cảnh mượt mà và kỹ thuật dựng phim chuyên nghiệp.
+
+Âm thanh:
+Tiếng đấm, tiếng bước chân chân thực, âm thanh môi trường của cơn mưa và nhạc nền điện ảnh căng thẳng.
+
+Yêu cầu quan trọng:
+
+- Dài chính xác 30 giây.
+- Khung hình rộng 16:9.
+- Chất lượng chân thực như ảnh chụp 4K.
+- Không diễn xuất cường điệu.
+- Không có yếu tố siêu nhiên.
+- Không có hiệu ứng hoạt hình.
+- Không dùng chuyển động chậm, ngoại trừ một khoảnh khắc va chạm ngắn.
+- Ngoại hình nhân vật chính nhất quán xuyên suốt.
+- Không có phụ đề, logo hoặc văn bản trên màn hình.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122330344359972866/img/1MGZN-yrt6gXBnQT.jpg" width="600" alt="Cảnh chiến đấu trong phim hành động kinh dị Hàn Quốc">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13937)**
+
+**Tác giả:** [Hope Ai](https://x.com/Hope_Ai01) | **Nguồn:** [Link](https://x.com/Hope_Ai01/status/2122330543719366996) | **Đã xuất bản:** Nov 16, 2026
+
+---
+### Prompt cảnh chiến đấu MMA chân thực cho Seedance 2.0
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Prompt chi tiết để tạo cảnh chiến đấu võ tổng hợp cường độ cao trong Seedance 2.0, bao gồm mô tả nhân vật cụ thể, góc quay và hướng dẫn thiết kế âm thanh.
+
+#### 📝 Prompt
+
+```
+Tạo một bộ phim ngắn hành động điện ảnh chân thực, tỷ lệ 16:9 nằm ngang, thời lượng 15 giây, được tạo trực tiếp từ văn bản.
+
+[Yêu cầu cốt lõi]
+Mật độ hành động cao, nhịp độ nhanh, cận chiến liên tục không ngừng nghỉ, giống như phân cảnh giao tranh kịch tính nhất trong một bộ phim hành động đỉnh cao, gồm 4 hiệp đấu và 10 cảnh quay.
+Khung hình đầu tiên đã ở giữa trận đấu; không có phần giới thiệu, đi lại, gườm nhau hay tạo dáng.
+Không dùng chuyển động chậm (slow motion) xuyên suốt video; mọi hành động đều diễn ra ở tốc độ thời gian thực.
+Mỗi cảnh quay kéo dài khoảng 1-2 giây, hoàn thành trọn vẹn một đòn tấn công/phòng thủ rõ ràng và thể hiện kết quả ngay sau khi va chạm.
+Các hành động nối tiếp nhau chặt chẽ giữa các cảnh; kết quả của đòn trước là điểm khởi đầu của đòn sau, không có khoảng dừng.
+Cả hai bên đều tấn công và trúng đòn; nữ chính bị áp đảo trong nửa đầu, phản kháng dữ dội ở nửa sau và kết thúc trận đấu bằng một đòn quyết định.
+
+[Nhân vật]
+Nữ chính: Một phụ nữ Đông Á trưởng thành khoảng 26 tuổi, đường nét sắc sảo, ánh mắt lạnh lùng, tóc đen dài tết sát da đầu, vóc dáng săn chắc lộ rõ múi cơ. Mặc áo ba lỗ thể thao màu đen, quần đùi MMA màu đen, găng tay hở ngón màu đen, đi chân trần.
+Đối thủ: Một người đàn ông trưởng thành có thân hình to lớn hơn hẳn nữ chính, đầu trọc, ngực có hình xăm, mặc quần đùi MMA màu đỏ, găng tay hở ngón màu đỏ, đi chân trần.
+Toàn bộ phim chỉ có hai nhân vật này; ngoại hình và trang phục phải giữ nguyên sự đồng nhất.
+
+[Bối cảnh]
+Bên trong lồng sắt bát giác tại một sàn đấu ngầm. Không gian tối tăm, đèn chiếu sáng mạnh từ trên cao rọi thẳng xuống lồng, bóng khán giả mờ ảo và khói bốc lên ở phía ngoài. Sàn lồng trải thảm nệm màu xám đậm.
+Toàn bộ phim diễn ra trong cùng một lồng đấu; lưới thép và vị trí của các nhân vật phải đảm bảo tính liên tục.
+
+[Kịch bản phân cảnh]
+
+Hiệp 1: Bị áp đảo
+Cảnh 1 (0–1.5s): Cảnh trung góc nghiêng. Đối thủ tung cú đấm nặng; nữ chính né thấp, đối thủ bồi thêm cú đá quét tầm thấp trúng mặt ngoài đùi cô, khiến cô loạng choạng.
+Cảnh 2 (1.5–3s): Cảnh quay cầm tay bám theo nhân vật. Đối thủ lao tới tung cú đấm thẳng trúng vào cánh tay đang phòng thủ của nữ chính, đẩy cô đập vào hàng rào lưới sắt, làm nó rung lắc dữ dội.
+
+Hiệp 2: Thoát hiểm
+Cảnh 3 (3–4.5s): Cảnh cận. Đối thủ ép nữ chính vào hàng rào, giơ nắm đấm chuẩn bị đánh; cô dùng cả hai tay đỡ đòn, toàn thân giật nảy vì lực va chạm.
+Cảnh 4 (4.5–6s): Cảnh cận. Nữ chính chớp thời cơ hở, tung cú lên gối trúng bụng đối thủ; hắn gập người lại, cô lách ra khỏi mép hàng rào.
+
+Hiệp 3: Ăn miếng trả miếng
+Cảnh 5 (6–7.5s): Cảnh trung. Nữ chính nhanh chóng tung cú thọc (jab) rồi cú đấm thẳng tay sau (cross), cả hai đều trúng mặt đối thủ, khiến đầu hắn bật ngược ra sau.
+Cảnh 6 (7.5–9s): Cảnh trung. Đối thủ gầm lên và phản công bằng cú móc (hook) trúng má nữ chính, bím tóc văng theo cú đánh; cô lảo đảo nhưng lập tức nâng tay thủ thế.
+
+Hiệp 4: Phản đòn hạ gục
+Cảnh 7 (9–10.5s): Cảnh cận bám theo. Đối thủ vung cú móc cực mạnh; nữ chính luồn người xuống dưới, tung cùi chỏ trúng hàm hắn, khiến hắn loạng choạng.
+Cảnh 8 (10.5–12s): Cảnh trung. Nữ chính túm lấy cổ đối thủ, tung hai cú lên gối liên tiếp vào ngực hắn, ép hắn gập người về phía trước.
+Cảnh 9 (12–13.5s): Cảnh trung hơi rộng. Cô buông cổ đối thủ, giáng một cú đấm trời giáng vào hàm hắn; đầu gối hắn khuỵu xuống, đổ sập nặng nề lên thảm nệm, không thể gượng dậy.
+Cảnh 10 (13.5–15s): Cảnh cận khuôn mặt nữ chính, được đèn trên cao chiếu sáng, ướt đẫm mồ hôi. Ngực phập phồng thở dốc, hai nắm đấm vẫn giữ tư thế phòng thủ, ánh mắt sắc lẹm ghim chặt vào đối thủ đã ngã gục. Video kết thúc ngay tại đây.
+
+[Hành động & Kỹ thuật quay]
+Chất lượng điện ảnh chân thực, ánh sáng mạnh từ trên cao, không gian ngoài lồng tối đen, mồ hôi nhễ nhại phản chiếu ánh đèn.
+Mọi cú đấm/đá đều phải chạm mục tiêu trước khi thể hiện lực hấp thụ, bước lùi hoặc mất thăng bằng; không đấm gió, không ngã trước khi trúng đòn.
+Hành động tuân theo kỹ thuật MMA thực tế; các cú đấm có quá trình phát lực/thu tay về, bàn chân trụ vững trên thảm.
+Cho phép máy quay rung nhẹ khi có va chạm, nhưng phải thể hiện rõ ai đánh trúng ai.
+Vị trí trái/phải của nhân vật phải nhất quán giữa các cảnh liền kề; không dịch chuyển tức thời, không lỗi xuyên vật thể, không xuất hiện thừa tay chân hay nhân vật.
+Không nhào lộn, đá bay người hay siêu năng lực; không quay cận cảnh máu me. Tập trung vào hành động, không xoáy vào các bộ phận cơ thể.
+
+[Âm thanh]
+Tiếng hò reo của đám đông nghe trầm đục làm nền. Âm thanh va chạm (lưới sắt, cú đấm, cú gối, tiếng ngã) khớp chính xác với hình ảnh; âm sắc trầm và đầy uy lực.
+Nhạc nền hành động căng thẳng, dồn dập, thiên về tiếng trống bắt đầu từ giây thứ 1, đạt cao trào ở cú đấm cuối cùng, kết thúc bằng tiếng đám đông bùng nổ và nhịp thở hổn hển của nữ chính.
+Không có lời thoại, thuyết minh, phụ đề, chữ viết hay watermark., 16:9, 15s, 720p
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121951410317393920/img/aq_L0F8KWMKKc4-2.jpg" width="600" alt="Prompt cảnh chiến đấu MMA chân thực cho Seedance 2.0">
+
+**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13893)**
+
+**Tác giả:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Nguồn:** [Link](https://x.com/Adam38363368936/status/2121952543366648318) | **Đã xuất bản:** Nov 15, 2026
+
+---
 ### Prompt Chiến Đấu Hành Động Seedance 2.0
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -9468,73 +9640,6 @@ Yêu cầu: Mỗi lần chuyển cảnh phải che khuất hoàn toàn trước 
 **Tác giả:** [麻酱AI实验室](https://x.com/zhongying14) | **Nguồn:** [Link](https://x.com/zhongying14/status/2114038007435055604) | **Đã xuất bản:** Oct 24, 2026
 
 ---
-### Hoạt Hình Đất Sét Samurai Và Oni Geisha
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt chi tiết để tạo video hài hước phong cách claymation nhịp độ nhanh, với sự tương tác giữa một Samurai và một Oni Geisha thông qua yếu tố hài hình thể và thẩm mỹ stop-motion.
-
-#### 📝 Prompt
-
-```
-Phác thảo hoạt hình đất sét dễ thương nhịp độ nhanh dài 15 giây. Sử dụng chính xác thiết kế nhân vật từ bản tham khảo: Samurai đất sét màu xanh khổng lồ nghiêm nghị và Oni/Geisha màu đỏ nhỏ bé thanh lịch. Thẩm mỹ đất sét stop-motion thủ công, hiệu ứng co giãn (squash-and-stretch) đầy biểu cảm, hài kịch hình thể vui nhộn. Không thoại. Không có khoảng chết.
-
-0–4 giây: Samurai rút katana đầy kịch tính với vẻ nghiêm trọng thái quá — SHIIING! Anh ta tạo dáng chiến đấu đầy uy hiếp. Cô nàng Oni-Geisha tí hon chẳng hề nao núng, thong thả rút ra một chiếc quạt xếp nhỏ màu đỏ rồi ĐẬP mạnh mặt phẳng của thanh kiếm xuống dưới.
-
-4–8 giây: Samurai đứng sững vì không tin nổi. Oni-Geisha đắc ý bước qua mặt anh ta. Anh vội vàng lao tới chắn trước mặt cô và múa một chuỗi đường kiếm nhanh như chớp cực kỳ rườm rà đến mức phi lý, tay áo và bộ lam bào xanh bay phần phật — VÙ, VÚT, VÚT! Cô nhẹ nhàng cúi người né từng nhát chém trong khi vẫn tiếp tục bước đi những bước nhỏ nhắn duyên dáng mà chẳng thèm liếc nhìn anh.
-
-8–12 giây: Bực bội, Samurai dồn sức tung một cú bổ từ trên cao xuống cực mạnh. Oni-Geisha chỉ đơn giản là bước sang ngang một bước thật nhỏ. RẦM! Thanh katana cắm sâu xuống sàn đất sét. Anh tuyệt vọng kéo lên; thanh kiếm nhất quyết không nhúc nhích. Thân hình khổng lồ của anh bị kéo giãn ra trông vô cùng buồn cười vì dùng quá nhiều sức.
-
-12–15 giây: Oni-Geisha bình tĩnh gõ chiếc quạt vào chuôi kiếm đúng một lần — CỐC! Thanh kiếm lập tức bật ra, hất văng Samurai về phía sau thành một cú ngã lăn lóc bằng đất sét cực kỳ ngớ ngẩn. Anh hạ cánh ở tư thế ngồi thẳng lưng, đờ đẫn. Oni-Geisha khẽ cúi chào anh một cái đầy kiêu hãnh rồi xòe quạt đánh tách. Kết thúc ngay tại ánh mắt ngượng ngùng của Samurai.
-
-Âm thanh: nhạc cụ gõ và đàn gảy dây lấy cảm hứng từ Nhật Bản mang âm hưởng dễ thương, tràn đầy năng lượng, được đồng bộ hóa chặt chẽ với các tình huống hài hước; tiếng bước chân trên đất sét phóng đại, tiếng rút kiếm, tiếng kim loại vút gió, tiếng quạt đập, âm thanh va chạm và những tiếng "bốp" gây cười. Không lời nói, không giọng hát.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114022336512905216/img/5DAPE8_KuJC9gE29.jpg" width="600" alt="Hoạt Hình Đất Sét Samurai Và Oni Geisha">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13002)**
-
-**Tác giả:** [Keskin](https://x.com/craftian_keskin) | **Nguồn:** [Link](https://x.com/craftian_keskin/status/2114028393347883491) | **Đã xuất bản:** Oct 24, 2026
-
----
-### Prompt Bữa Trưa Với Chuỗi Hành Động Mua Khoai Chiên
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt so sánh Seedance 2.0 và Kling 4.0 trong một chuỗi hành động đời thường khi đi mua đồ ăn.
-
-#### 📝 Prompt
-
-```
-một chuỗi khoảnh khắc thường ngày: nhận phần ăn, nhón lấy miếng khoai tây chiên, nhấp một ngụm nước rồi cười đùa cùng bạn bè
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113867563771842560/img/u8Iuas8eesjV9cba.jpg" width="600" alt="Prompt Bữa Trưa Với Chuỗi Hành Động Mua Khoai Chiên">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=13001)**
-
-**Tác giả:** [Jayden Douglass 💭 | AI Coach](https://x.com/JaydenCoach) | **Nguồn:** [Link](https://x.com/JaydenCoach/status/2113867722786259116) | **Đã xuất bản:** Oct 24, 2026
-
----
-### Prompt Video Chiến Binh Điện Ảnh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt tạo video chiến binh điện ảnh siêu thực với ánh sáng kịch tính và hiệu ứng slow-motion.
-
-#### 📝 Prompt
-
-```
-Tạo một video siêu chân thực mang đậm chất điện ảnh về một chiến binh quả cảm với ánh mắt sắc lạnh, khí chất mạnh mẽ và phong thái đầy tự tin. Sử dụng ánh sáng kịch tính, các chuyển động chậm mượt mà, chi tiết bề mặt sắc nét, phông nền tối đầy tâm trạng cùng kỹ thuật chỉnh màu chuyên nghiệp. Chất lượng 4K, lấy nét chuẩn xác, không khí hào hùng và hiệu ứng thị giác điện ảnh mãn nhãn.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113848979058470912/img/toLQfOH68vyUJD9j.jpg" width="600" alt="Prompt Video Chiến Binh Điện Ảnh">
-
-**[🎬 Xem video →](https://youmind.com/vi-VN/seedance-2-0-prompts?id=12967)**
-
-**Tác giả:** [AIwithMinal](https://x.com/AIwithMinal) | **Nguồn:** [Link](https://x.com/AIwithMinal/status/2113849008812872170) | **Đã xuất bản:** Oct 24, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -9596,6 +9701,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-11-16T05:12:51.160Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-11-17T13:07:15.419Z</sub>
 
 </div>

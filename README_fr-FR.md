@@ -68,9 +68,9 @@ Pourquoi utiliser notre galerie ?
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **6686** |
+| 📝 Total des prompts | **6689** |
 | ⭐ Prompts en vedette | **6** |
-| 🔄 Dernière mise à jour | **2026-11-16** |
+| 🔄 Dernière mise à jour | **2026-11-17** |
 
 ---
 
@@ -361,6 +361,178 @@ Ultra réaliste, énergie inspirée de Fast and Furious, éclairage photoréalis
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Court-métrage d'action romantique coréen
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt pour un court-métrage d'action romantique coréen ultra-réaliste de 30 secondes, mettant en scène un couple qui se protège mutuellement lors d'une confrontation dans la rue.
+
+#### 📝 Prompt
+
+```
+Créez un court-métrage d'action romantique coréen ultra-réaliste de 30 secondes.
+
+Scène 1 (0 à 10 secondes) :
+Un jeune couple coréen se promène dans une rue calme de Séoul, la nuit. Ils partagent un moment romantique tout en naturel. Soudain, un inconnu s'approche et commence à importuner la jeune femme. Son petit ami s'avance calmement pour la protéger.
+
+Scène 2 (10 à 20 secondes) :
+Une brève bagarre de rue réaliste éclate. Le petit ami se défend grâce à un combat au corps-à-corps naturel. Coups de poing, esquives et déplacements réalistes. Aucune cascade exagérée ni scène d'action façon super-héros. Sa petite amie observe la scène avec angoisse.
+
+Scène 3 (20 à 30 secondes) :
+L'inconnu s'en va. Le petit ami a une blessure légère. Sa copine examine doucement son visage. Ils échangent un léger sourire, se prennent par la main et s'éloignent ensemble sous la lueur des lampadaires.
+
+Style visuel :
+Cinéma coréen authentique, acteurs coréens réalistes, expressions faciales naturelles, romance subtile, éclairage nocturne cinématographique, environnement séoulite réaliste, mouvements de caméra fluides, photographie de film professionnelle, textures de peau détaillées, mouvements corporels naturels.
+
+Audio : ambiance urbaine naturelle, musique de fond cinématographique subtile et émotionnelle, effets sonores réalistes.
+
+Exigences importantes :
+
+- Durée exacte de 30 secondes.
+- Format large 16:9.
+- Aucun jeu d'acteur excessif.
+- Aucun combat exagéré.
+- Aucun effet de style cartoon ou anime.
+- Aucun sous-titre ni texte à l'écran.
+- Visages, vêtements et personnages cohérents d'une scène à l'autre.
+- Qualité de film coréen professionnel.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122334588718764034/img/mxBkNujr8mERoDm1.jpg" width="600" alt="Court-métrage d'action romantique coréen">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=13936)**
+
+**Auteur:** [𝐍𝐚𝐯𝐞𝐞 𝐀𝐢](https://x.com/navi_Ai2) | **Source:** [Link](https://x.com/navi_Ai2/status/2122335176286187925) | **Publié:** Nov 16, 2026
+
+---
+### Scène de combat de thriller d'action coréen
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt pour une scène d'action ultra-réaliste de thriller coréen de 30 secondes, intitulée 'THE WRONG TARGET', mettant en scène un homme seul se défendant contre trois assaillants dans une ruelle pluvieuse de Séoul.
+
+#### 📝 Prompt
+
+```
+Titre : LA MAUVAISE CIBLE
+
+Créez un thriller d'action coréen ultra-réaliste d'exactement 30 secondes.
+
+Scène 1 (0 à 10 secondes) : La rencontre
+
+Un jeune Coréen marche seul, de nuit, dans une ruelle étroite de Séoul. Trois hommes à l'allure suspecte lui barrent soudain la route. L'un d'eux le bouscule et exige son téléphone. Le héros les dévisage calmement, sans dire un mot.
+
+Scène 2 (10 à 20 secondes) : L'affrontement
+
+L'un des agresseurs décoche un coup de poing. Le héros l'esquive et riposte par un corps-à-corps réaliste. Il pare les attaques, enchaîne des coups rapides et utilise des mouvements défensifs concrets. La bagarre doit paraître intense, physique et crédible, digne d'un film d'action coréen professionnel. Pas de coups de pied sautés ni de cascades irréalistes.
+
+Scène 3 (20 à 30 secondes) : Le coup de grâce
+
+Deux assaillants reculent tandis que le troisième tente de l'attaquer par derrière. Le héros s'en aperçoit, pivote vivement et déséquilibre son adversaire. Tous trois battent en retraite. Le héros ramasse son téléphone, rajuste sa veste et s'éloigne tranquillement dans la rue sous la pluie.
+
+Cinématographie :
+
+- Style de thriller policier sud-coréen ultra-réaliste.
+- Acteurs coréens authentiques.
+- Ruelle sombre de Séoul, la nuit.
+- Rues détrempées par la pluie et éclairage cinématographique.
+- Mouvements de caméra rapides pendant le combat.
+- Plans rapprochés sur des expressions faciales réalistes.
+- Plans larges dévoilant l'intégralité de la chorégraphie du combat.
+- Transitions fluides et montage professionnel.
+
+Audio :
+Bruits de coups réalistes, pas, ambiance de pluie et musique de fond cinématographique intense.
+
+Exigences importantes :
+
+- Durée exacte de 30 secondes.
+- Format large 16:9.
+- Qualité photoréaliste 4K.
+- Aucun jeu d'acteur excessif.
+- Aucun élément surnaturel.
+- Aucun effet de dessin animé.
+- Pas de ralenti, sauf lors d'un bref impact.
+- Apparence du héros cohérente tout au long de la vidéo.
+- Aucun sous-titre, logo ni texte à l'écran.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2122330344359972866/img/1MGZN-yrt6gXBnQT.jpg" width="600" alt="Scène de combat de thriller d'action coréen">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=13937)**
+
+**Auteur:** [Hope Ai](https://x.com/Hope_Ai01) | **Source:** [Link](https://x.com/Hope_Ai01/status/2122330543719366996) | **Publié:** Nov 16, 2026
+
+---
+### Prompt de scène de combat MMA réaliste pour Seedance 2.0
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt détaillé pour générer une scène de combat d'arts martiaux mixtes à haute intensité dans Seedance 2.0, incluant des descriptions spécifiques des personnages, des angles de caméra et des instructions de conception sonore.
+
+#### 📝 Prompt
+
+```
+Générer un court-métrage d'action cinématographique réaliste de 15 secondes au format horizontal 16:9, créé directement à partir du texte.
+
+[Exigences principales]
+Combat rapproché continu, dense et effréné, digne de la scène de bagarre la plus intense d'un film d'action de premier plan : 4 rounds d'échanges et 10 plans.
+Le tout premier plan se déroule en plein combat ; aucune introduction, marche, face-à-face ni pose.
+Aucun ralenti du début à la fin ; toutes les actions s'exécutent en temps réel.
+Chaque plan dure environ 1 à 2 secondes, montrant une attaque/défense claire et son résultat après l'impact.
+Les actions s'enchaînent sans transition entre les plans : le résultat d'une action amorce immédiatement la suivante, sans la moindre pause.
+Les deux adversaires attaquent et encaissent des coups ; l'héroïne est dominée dans la première moitié, riposte avec acharnement dans la seconde, et met fin au combat par un coup décisif.
+
+[Personnages]
+Héroïne : Femme adulte d'origine est-asiatique d'environ 26 ans, traits fins, regard perçant, longs cheveux noirs tressés plaqués contre le crâne, silhouette athlétique aux muscles dessinés. Vêtue d'un débardeur de sport noir, d'un short de MMA noir et de mitaines noires, pieds nus.
+Adversaire : Homme adulte nettement plus imposant que l'héroïne, crâne rasé, tatouage sur le torse, vêtu d'un short de MMA rouge et de mitaines rouges, pieds nus.
+Seuls ces deux personnages apparaissent dans l'intégralité du film ; leur apparence et leurs vêtements restent constants.
+
+[Décors]
+Intérieur d'une cage octogonale grillagée dans une arène de combat clandestine. Ambiance sombre, puissants projecteurs zénithaux éclairant la cage, silhouettes floues de spectateurs et fumée à l'extérieur. Tapis gris foncé recouvrant le sol de la cage.
+L'intégralité du film se déroule dans cette même cage ; le grillage et le positionnement des personnages doivent rester cohérents.
+
+[Storyboard]
+
+Round 1 : Domination
+Plan 1 (0–1,5 s) : Plan moyen latéral. L'adversaire décoche un puissant direct ; l'héroïne esquive en baissant la tête, mais il enchaîne avec un balayage bas qui frappe l'extérieur de sa cuisse, la faisant vaciller.
+Plan 2 (1,5–3 s) : Plan de suivi caméra à l'épaule. L'adversaire charge avec un direct qui percute les bras en garde de l'héroïne, la projetant violemment contre le grillage qui tremble sous le choc.
+
+Round 2 : Dégagement
+Plan 3 (3–4,5 s) : Gros plan. L'adversaire coince l'héroïne contre le grillage et lève le poing pour frapper ; elle pare le coup à deux mains, son corps secoué par l'impact.
+Plan 4 (4,5–6 s) : Gros plan. L'héroïne exploite une ouverture et assène un coup de genou dans l'abdomen de l'adversaire ; celui-ci se plie en deux, lui permettant de se glisser sur le côté pour s'échapper du grillage.
+
+Round 3 : Échange
+Plan 5 (6–7,5 s) : Plan moyen. L'héroïne enchaîne rapidement un jab et un cross qui touchent tous deux le visage de l'adversaire, rejetant sa tête en arrière.
+Plan 6 (7,5–9 s) : Plan moyen. L'adversaire pousse un rugissement et contre avec un crochet qui atteint la joue de l'héroïne, faisant voler sa tresse ; elle trébuche mais remonte immédiatement sa garde.
+
+Round 4 : Contre-attaque fatale
+Plan 7 (9–10,5 s) : Suivi en gros plan. L'adversaire lance un large crochet ; l'héroïne passe en dessous et lui assène un coup de coude à la mâchoire, le faisant tituber.
+Plan 8 (10,5–12 s) : Plan moyen. L'héroïne saisit l'adversaire par la nuque et lui décoche deux coups de genou consécutifs au thorax, le forçant à se courber vers l'avant.
+Plan 9 (12–13,5 s) : Plan moyen légèrement plus large. Elle relâche la nuque et frappe violemment la mâchoire de l'adversaire ; ses genoux cèdent et il s'effondre lourdement sur le tapis, incapable de se relever.
+Plan 10 (13,5–15 s) : Gros plan sur le visage de l'héroïne, éclairé par le projecteur zénithal, ruisselant de sueur. Poitrine haletante, poings toujours en garde, regard acéré fixé sur son adversaire à terre. Fin directe de l'image.
+
+[Action et réalisation]
+Qualité cinématographique réaliste, éclairage zénithal puissant, obscurité autour de la cage, sueur luisante.
+Chaque coup de poing ou de pied doit impérativement atteindre sa cible avant de montrer l'absorption du choc, le recul ou la perte d'équilibre ; aucun coup dans le vide, aucune chute anticipée.
+Les mouvements respectent les véritables techniques de MMA : les frappes intègrent l'armement et le retrait du bras, les pieds sont solidement ancrés au sol.
+Un léger tremblement de caméra à l'impact est autorisé, mais il doit rester évident de voir qui frappe qui.
+Le positionnement gauche/droite des personnages doit être cohérent entre les plans successifs ; aucune téléportation, aucun chevauchement visuel, ni membre ou personnage supplémentaire.
+Aucune acrobatie, coup de pied sauté ou super-pouvoir ; aucun gros plan gore. L'accent est mis sur l'action, pas sur les parties du corps.
+
+[Son]
+Acclamations étouffées de la foule en arrière-plan. Les bruits d'impact (grillage, coups de poing, genoux, chutes) sont parfaitement synchronisés avec l'image, sourds et puissants.
+Musique d'action tendue, rapide et dominée par les percussions dès la première seconde, atteignant son apogée lors du dernier coup de poing, puis se terminant par l'explosion de joie de la foule et le souffle haletant de l'héroïne.
+Aucun dialogue, narration, sous-titre, texte ni filigrane., 16:9, 15s, 720p
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2121951410317393920/img/aq_L0F8KWMKKc4-2.jpg" width="600" alt="Prompt de scène de combat MMA réaliste pour Seedance 2.0">
+
+**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=13893)**
+
+**Auteur:** [Adam也叫吉米](https://x.com/Adam38363368936) | **Source:** [Link](https://x.com/Adam38363368936/status/2121952543366648318) | **Publié:** Nov 15, 2026
+
+---
 ### Prompt de combat d'action Seedance 2.0
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -9208,73 +9380,6 @@ Exigences : À chaque fois, occulter totalement l'image avant d'opérer un chang
 **Auteur:** [麻酱AI实验室](https://x.com/zhongying14) | **Source:** [Link](https://x.com/zhongying14/status/2114038007435055604) | **Publié:** Oct 24, 2026
 
 ---
-### Animation en argile de samouraï et geisha oni
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt détaillé pour créer une vidéo comique au rythme effréné dans le style claymation, mettant en scène un samouraï et une geisha oni interagissant avec humour physique et esthétique stop-motion.
-
-#### 📝 Prompt
-
-```
-Sketch mignon et rythmé de 15 secondes en animation pâte à modeler. Reprendre exactement le character design des références : l'immense et sévère Samouraï bleu en pâte à modeler, et la minuscule et élégante Oni/Geisha rouge. Esthétique stop-motion artisanale en pâte à modeler, squash-and-stretch expressif, comédie physique espiègle. Aucun dialogue. Aucun temps mort.
-
-0–4 s : Le Samouraï dégaine son katana avec un sérieux exagéré et théâtral — SHIIING ! Il adopte une posture de combat intimidante. La petite Oni-Geisha reste totalement impassible, sort nonchalamment un petit éventail rouge pliant et frappe d'un coup sec (THWACK) le plat de sa lame vers le bas.
-
-4–8 s : Le Samouraï se fige, incrédule. L'Oni-Geisha passe devant lui d'un air suffisant. Il se précipite pour lui barrer la route et enchaîne une série de moulinets de sabre aussi rapides qu'éclair, d'une complexité absurde, ses manches et sa robe bleue tourbillonnant dans tous les sens — WHOOSH, SWISH, SWISH ! Elle esquille chaque coup sans effort en baissant simplement la tête, tout en poursuivant sa petite marche gracieuse sans même le regarder.
-
-8–12 s : Frustré, le Samouraï s'engage dans une immense frappe verticale par-dessus la tête. L'Oni-Geisha fait simplement un minuscule pas de côté. WHAM ! Son katana s'enfonce profondément dans le sol en pâte à modeler. Il tire désespérément ; l'épée refuse de bouger. Sous l'effort, son corps gigantesque s'étire de façon comique.
-
-12–15 s : L'Oni-Geisha tapote calmement la poignée de l'épée une seule fois avec son éventail — TOK ! L'épée se libère instantanément, projetant le Samouraï en arrière dans une roulade ridicule sur le sol en pâte à modeler. Il atterrit assis bien droit, complètement sonné. L'Oni-Geisha lui adresse une petite révérence pleine de suffisance et déploie son éventail d'un geste sec. Fin immédiate sur le regard embarrassé du Samouraï.
-
-Audio : percussions mignonnes et énergiques d'inspiration japonaise et musique à cordes pincées, parfaitement synchronisées avec la comédie ; bruits de pas exagérés dans la pâte à modeler, dégainage d'épée, sifflements métalliques, coups d'éventail, sons d'impact et petits « pops » comiques. Aucune voix, aucun chant.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2114022336512905216/img/5DAPE8_KuJC9gE29.jpg" width="600" alt="Animation en argile de samouraï et geisha oni">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=13002)**
-
-**Auteur:** [Keskin](https://x.com/craftian_keskin) | **Source:** [Link](https://x.com/craftian_keskin/status/2114028393347883491) | **Publié:** Oct 24, 2026
-
----
-### Prompt pour la séquence quotidienne des frites du déjeuner
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt comparant Seedance 2.0 et Kling 4.0 sur une séquence quotidienne consistant à récupérer de la nourriture.
-
-#### 📝 Prompt
-
-```
-une séquence du quotidien : récupérer sa commande, piquer une frite, prendre une gorgée et rire avec un ami
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113867563771842560/img/u8Iuas8eesjV9cba.jpg" width="600" alt="Prompt pour la séquence quotidienne des frites du déjeuner">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=13001)**
-
-**Auteur:** [Jayden Douglass 💭 | AI Coach](https://x.com/JaydenCoach) | **Source:** [Link](https://x.com/JaydenCoach/status/2113867722786259116) | **Publié:** Oct 24, 2026
-
----
-### Prompt Vidéo Cinématographique de Guerrier
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt pour générer une vidéo cinématographique ultra-réaliste d'un guerrier intrépide, avec un éclairage dramatique et des effets au ralenti.
-
-#### 📝 Prompt
-
-```
-Créez une vidéo cinématographique et ultra-réaliste mettant en scène un guerrier intrépide au regard perçant, à la présence imposante et à l'attitude assurée. Misez sur un éclairage dramatique, des mouvements fluides au ralenti, des textures d'une grande finesse, un arrière-plan sombre et atmosphérique, ainsi qu'un étalonnage des couleurs professionnel. Qualité 4K, netteté parfaite, ambiance épique et rendu visuel époustouflant digne des plus grands films.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2113848979058470912/img/toLQfOH68vyUJD9j.jpg" width="600" alt="Prompt Vidéo Cinématographique de Guerrier">
-
-**[🎬 Voir la vidéo →](https://youmind.com/fr-FR/seedance-2-0-prompts?id=12967)**
-
-**Auteur:** [AIwithMinal](https://x.com/AIwithMinal) | **Source:** [Link](https://x.com/AIwithMinal/status/2113849008812872170) | **Publié:** Oct 24, 2026
-
----
 ---
 
 ## 📚 Plus de prompts disponibles
@@ -9336,6 +9441,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-11-16T05:12:57.706Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-11-17T13:07:21.293Z</sub>
 
 </div>
