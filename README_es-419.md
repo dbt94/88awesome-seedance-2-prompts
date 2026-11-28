@@ -68,9 +68,9 @@ Una colección curada de prompts de generación de video de alta calidad para Se
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **6726** |
+| 📝 Total de prompts | **6732** |
 | ⭐ Prompts destacados | **6** |
-| 🔄 Última actualización | **2026-11-27** |
+| 🔄 Última actualización | **2026-11-28** |
 
 ---
 
@@ -361,6 +361,113 @@ Ultra realista, energía inspirada en Fast and Furious, iluminación fotorrealis
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Escena de un pequeño guerrero conejo samurái
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video cinematográfico de fantasía oscura que presenta a un pequeño guerrero conejo blanco antropomórfico, vestido con armadura de samurái, de pie solo en un campo de batalla devastado.
+
+#### 📝 Prompt
+
+```
+Una escena cinematográfica de fantasía oscura que muestra a un pequeño guerrero conejo blanco antropomórfico de pie, solo en medio de un campo de batalla devastado. El conejo lleva una armadura tradicional inspirada en los samuráis, un atuendo de guerrero azul oscuro y empuña una espada katana. Escudos rotos, armas abandonadas, escombros en llamas y un humo denso cubren el campo de batalla. Montañas oscuras se extienden por el horizonte bajo un dramático cielo tormentoso. El diminuto guerrero se mantiene impávido, sosteniendo su espada con determinación a pesar del inmenso campo de batalla que lo rodea. La cámara se acerca lentamente, revelando los detalles de su armadura, sus ojos expresivos y la espada reflejando la luz del fuego. Planos generales cinematográficos, atmósfera dramática, humo y fuego realistas, animación 3D detallada del personaje, estética de película de fantasía oscura, CGI ultrarrealista, calidad 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2126312871370080256/img/BwsJuRV41QCzOXoT.jpg" width="600" alt="Escena de un pequeño guerrero conejo samurái">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=14192)**
+
+**Autor:** [Draaven](https://x.com/draavenai) | **Fuente:** [Link](https://x.com/draavenai/status/2126313066413642091) | **Publicado:** Nov 27, 2026
+
+---
+### Corto Cinematográfico Elegante de Mujer con Diadema de Perlas
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt de video cinematográfico detallado de 15 segundos que presenta a una mujer con diadema de perlas y camisola azul, utilizando capacidades de imagen a video con instrucciones específicas de movimientos de cámara e iluminación.
+
+#### 📝 Prompt
+
+```
+@Image 1 como primer fotograma y referencia de personaje. Conservar estrictamente el corte bob negro corto con flequillo recto, el tocado de malla de perlas, la camisola azul, el maquillaje de labios rojos, las pecas y el ambiente interior.
+Cortometraje artístico cinematográfico de 15 segundos, en una sola toma continua.
+
+0–3 s: Primer plano de su rostro. Sus dedos rozan suavemente su mejilla. El tocado de perlas brilla con delicadeza bajo una luz cálida. Ella mira a la cámara con serenidad. La cámara avanza muy lentamente hacia ella, mientras el fondo se desenfoca en un suave bokeh.
+3–7 s: La cámara orbita despacio siguiendo el contorno de su rostro, mostrando la estructura tejida del tocado de malla de perlas y los flecos de perlas que cuelgan a ambos lados. Algunos mechones finos se mecen levemente con la brisa suave, y las luces y sombras recorren su rostro.
+7–11 s: La cámara retrocede hasta un primer plano medio. Ella inclina ligeramente la cabeza, dejando ver el fino tirante azul de la camisola y el brazalete de jade en su muñeca. El anillo de oro en su dedo destella con la luz; las líneas de su brazo lucen suaves.
+11–15 s: La cámara vuelve a acercarse lentamente hasta un primer plano de su rostro. Sus pestañas parpadean y la comisura de sus labios se eleva apenas. La imagen se desvanece y se congela envuelta en un cálido halo de luz.
+
+Movimiento de cámara: acercamiento lento + órbita + retroceso + nuevo acercamiento. Sin cortes en toda la secuencia.
+Estilo: calidad cinematográfica, poca profundidad de campo, grano de película, iluminación interior cálida, atmósfera onírica, 24 fps.
+Audio: piano solista suave, sonidos ambientales de páginas que se pasan y murmullos lejanos, sin voz en off. La nota final se desvanece.
+Nota: sujeto femenino adulto, mantener un tono artístico y elegante, sin contenido explícito ni sexualizado.
+Relación de aspecto: 9:16, 15 s, 720p
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2126226176385691648/img/xIxwMFUJxrOhMFyH.jpg" width="600" alt="Corto Cinematográfico Elegante de Mujer con Diadema de Perlas">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=14194)**
+
+**Autor:** [ArtAi](https://x.com/tongqinai) | **Fuente:** [Link](https://x.com/tongqinai/status/2126284904606666792) | **Publicado:** Nov 27, 2026
+
+---
+### Autobús se Transforma en Robot Gigante
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Descripción de un prompt estilo Transformers donde un autobús normal se transforma en un robot gigante de batalla en una ciudad lluviosa, probado en Seedance 2.0.
+
+#### 📝 Prompt
+
+```
+Un autobús común y corriente se transforma de repente en un robot de combate gigante en medio de una ciudad bajo la lluvia.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2126090446795587584/img/lDMVbiO5EyiQlaYD.jpg" width="600" alt="Autobús se Transforma en Robot Gigante">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=14193)**
+
+**Autor:** [Claire Ai](https://x.com/imClaireAi) | **Fuente:** [Link](https://x.com/imClaireAi/status/2126091360348651607) | **Publicado:** Nov 26, 2026
+
+---
+### Revelación de un Barndominium en Miniatura
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt para crear un video cinematográfico que revele un barndominium americano de lujo en miniatura.
+
+#### 📝 Prompt
+
+```
+Descubre un increíble barndominium de lujo estadounidense en miniatura, con una construcción realista, arquitectura moderna, piscina, un hermoso paisajismo y un espectacular reveal final digno del cine.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125973157677084672/img/EjURUS64gtyX_YRz.jpg" width="600" alt="Revelación de un Barndominium en Miniatura">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=14173)**
+
+**Autor:** [Olivia Rose](https://x.com/OliviaRose10un) | **Fuente:** [Link](https://x.com/OliviaRose10un/status/2125973480688721964) | **Publicado:** Nov 26, 2026
+
+---
+### Aventura de Abeja en Estilo Pixar
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt para generar una conmovedora escena animada en 3D estilo Pixar, donde una abeja descubre una criatura dentro de una rosa.
+
+#### 📝 Prompt
+
+```
+Una tierna escena de animación 3D al estilo Pixar en un hermoso jardín de flores bañado por el sol. Una abejita amarilla, adorable y esponjosa, con grandes ojos marrones muy expresivos, alitas diminutas y un cuerpito rayado encantador, vuela hacia una gran rosa roja y vibrante. La abeja descubre a una criaturita escondida dentro de la flor y reacciona con sorpresa y curiosidad. Ambos personajes tienen animaciones faciales muy expresivas y reacciones emocionales adorables. La abeja revolotea suavemente alrededor de la rosa, dejando a su paso un rastro mágico de polen dorado y brillante. Luz solar suave, flores silvestres de colores, césped verde y frondoso, poca profundidad de campo, primeros planos cinematográficos, movimientos de cámara fluidos, texturas realistas y esponjosas, animación de personajes encantadora, atmósfera mágica y fantasiosa, animación 3D de alta calidad, 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125967308682321920/img/f6zTF3zagj1ombpd.jpg" width="600" alt="Aventura de Abeja en Estilo Pixar">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=14175)**
+
+**Autor:** [Draaven](https://x.com/draavenai) | **Fuente:** [Link](https://x.com/draavenai/status/2125967360893018427) | **Publicado:** Nov 26, 2026
+
+---
 ### Timelapse de construcción de un puente en miniatura
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -412,11 +519,30 @@ Estilo: Anuncio de cuidado de la piel de lujo, fotorrealista, iluminación cinem
 Relación de aspecto: 9:16 vertical.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1795672028283_x11e81_HYBpa2BaEAAmyEh.jpg" width="600" alt="Prompt de video comercial para skincare de lujo">
+<img src="https://cms-assets.youmind.com/media/1795758387683_m5drzj_HYBpa2BaEAAmyEh.jpg" width="600" alt="Prompt de video comercial para skincare de lujo">
 
 **[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=14167)**
 
 **Autor:** [Rubi](https://x.com/AIwithRubii) | **Fuente:** [Link](https://x.com/AIwithRubii/status/2125814942603563083) | **Publicado:** Nov 26, 2026
+
+---
+### Escena de artista del fuego en discoteca
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt para generar un video en cámara lenta de una artista femenina del fuego haciendo girar bastones encendidos en una discoteca de lujo con luces de neón.
+
+#### 📝 Prompt
+
+```
+Una hermosa artista del fuego en un club nocturno de lujo, girando bastones en llamas y creando espectaculares círculos de fuego. Las chispas vuelan por el aire mientras las luces de neón de colores iluminan la escena. Cámara lenta cinematográfica, llamas realistas, movimientos de cámara dinámicos, música energética de club nocturno, calidad 4K ultrarrealista.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2125814729180606464/img/7_M3SfCMXigKS7ZA.jpg" width="600" alt="Escena de artista del fuego en discoteca">
+
+**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=14174)**
+
+**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Fuente:** [Link](https://x.com/AIwithMinal/status/2125814785157853489) | **Publicado:** Nov 26, 2026
 
 ---
 ### Batalla entre Caballero y Monstruo de Lava
@@ -9148,436 +9274,6 @@ Después...
 **Autor:** [Soran](https://x.com/Soranlan) | **Fuente:** [Link](https://x.com/Soranlan/status/2117124345281810678) | **Publicado:** Nov 2, 2026
 
 ---
-### Bruja volando sobre la ciudad nocturna
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt para crear un video cinematográfico de fantasía ultra realista de una bruja volando en escoba a través de una ciudad iluminada por neones en la noche.
-
-#### 📝 Prompt
-
-```
-Crea un video de fantasía cinematográfica ultrarrealista con una joven y misteriosa bruja que vuela por una ciudad oscura sobre una escoba mágica, bajo el resplandor de la luna llena. Muestra nubes dramáticas, humo mágico azul y una atmósfera nocturna enigmática. La bruja lleva un sombrero negro puntiagudo, un atuendo oscuro muy estilizado y una larga cabellera ondeando al viento. Capta su vuelo entre edificios altísimos y cómo se lanza en picada por calles bulliciosas iluminadas con luces de neón. Añade movimientos realistas, efectos mágicos luminosos, movimientos de cámara cinematográficos, iluminación dramática y detalles visuales impresionantes. Estilo de película de fantasía de alta gama, 4K, fotorrealista, animación fluida.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117120887447252992/img/jnp-YCYdCxX9r0VE.jpg" width="600" alt="Bruja volando sobre la ciudad nocturna">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=13368)**
-
-**Autor:** [AIwithMinal](https://x.com/AIwithMinal) | **Fuente:** [Link](https://x.com/AIwithMinal/status/2117120914139619479) | **Publicado:** Nov 2, 2026
-
----
-### Seedance 2.0 Mini: Prompt de escena de rechazo en romance Xianxia
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Prompt completo para Seedance 2.0 Mini que genera un drama emocional de 15 segundos ambientado en la antigua China estilo Xianxia. Se centra en el rechazo durante una ceremonia de boda, con actuaciones sutiles, interacciones específicas con accesorios (fichas de jade) y movimientos de cámara cinematográficos.
-
-#### 📝 Prompt
-
-```
-Seedance 2.0 Mini | "Diez años y el resto de la vida"
-
-Modelo: Seedance 2.0 Mini
-Duración: Estrictamente 15 segundos
-Relación de aspecto: 16:9 Horizontal
-Tipo: Xianxia chino antiguo puro / Giro emocional / Drama de relación entre personajes maduros
-Estructura: Tres planos cinematográficos continuos, claros y narrativamente distintos
-
-I. Prompt | Estilo general y dirección creativa
-Textura realista de acción en vivo con acabado cinematográfico, estética Xianxia china antigua pura.
-Dirección general:
-Giro emocional maduro y contenido, drama de relaciones con verdadera profundidad psicológica.
-Adoptar:
-Puesta en escena clásica de personajes de alto nivel
-Textura fotográfica cinematográfica tipo Arri Alexa
-Textura de piel realista y nítida
-Luz volumétrica natural
-Grano de película delicado
-Movimiento realista de la seda
-
-II. Trama central y giro emocional
-Dos cultivadores han practicado juntos durante diez años y por fin llega el día en que se convierten formalmente en compañeros del Dao.
-Todos creen que este es el final perfecto de una relación ideal.
-Pero la Hermana Menor se niega de repente a sellar el vínculo durante la ceremonia.
-Primera capa de suspenso
-Lo que el público espera al principio:
-Traición
-Secretos
-Alguien cometiendo un error imperdonable
-El verdadero giro
-Ninguno de los dos se volvió malo ni dejó de valorar el pasado; simplemente no pueden avanzar hacia el mismo futuro.
-Diez años de sinceridad siguen siendo sinceros.
-Pero el resto de la vida no debería ser el precio a pagar por el pasado.
-Principios emocionales y narrativos
-La historia debe completarse de forma natural a través de:
-Acciones de los personajes
-Expresiones sutiles
-Pausas
-Diálogos
-Evitar estrictamente
-Explicaciones largas
-Sentimentalismo repentino
-Forzar la villanización de alguien
-Finales moralizantes
-
-III. Identidad de los personajes y bloqueo de recursos
-Rol A | @Image1 | Hermana Mayor Inmortal de la Espada
-Siempre la misma Hermana Mayor Inmortal de la Espada:
-Mujer asiática oriental de 25 a 30 años
-Rostro ovalado y suave
-Ojos almendrados y brillantes
-Cabello negro largo recogido a medias
-Sujetado con una horquilla de jade blanco
-Alta y esbelta
-El mismo Hanfu de seda blanca bordada
-Mangas anchas superpuestas semitransparentes
-Fajín plateado en la cintura
-Colgante de jade
-Botas de tela blanca
-Portando la única espada larga de plata
-Función del rol en este segmento
-La Hermana Mayor de túnica blanca expresa las relaciones principalmente mediante:
-Observación
-Contacto visual
-Reacciones contenidas
-Restricciones clave
-No tomar decisiones por la Hermana Menor
-No robarle el espacio dramático principal
-Rol B | @Image2 | Hermana Menor
-Siempre la misma Hermana Menor:
-Mujer asiática oriental de 20 a 25 años
-Rostro redondo y vivaz
-Cabello negro trenzado
-El mismo Hanfu antiguo verde
-Cinturón oscuro
-Horquilla de madera
-Zapatos de tela negra
-Portando la única espada de acero oscuro
-Posicionamiento del rol en este segmento
-La Hermana Menor es la protagonista emocional de esta trama.
-Nuevo personaje secundario | Cultivador masculino
-Hombre adulto
-Viste una túnica antigua azul oscuro
-Apariencia común
-Temperamento sereno
-Practicó con la Hermana Menor durante diez años
-El compañero del Dao predestinado de la Hermana Menor
-Requisitos de continuidad del personaje
-El cultivador masculino debe mantener:
-Identidad independiente
-Vestimenta estable
-Actuación realista del personaje
-No debe confundirse con los protagonistas.
-Otros personajes secundarios
-Maestro Anciano
-Preside la ceremonia de unión.
-Discípulos de la secta
-Un pequeño grupo de discípulos como testigos a lo lejos.
-
-IV. ADN del fondo y el entorno
-Todas las imágenes de referencia de fondos y locaciones subidas determinan el mundo físico real.
-Planificación del entorno antes de la composición formal
-Completar primero, de manera silenciosa, una ronda de planificación del entorno.
-Analizar de forma integral en las imágenes de referencia:
-Terreno
-Distribución arquitectónica
-Escala espacial
-Antigüedad de los materiales
-Ecología vegetal
-Cuerpos de agua
-Nubes y niebla
-Clima
-Dirección de la luz principal
-Relaciones de color
-Superficies reflectantes
-Profundidad atmosférica
-Bajo la premisa de mantener la coherencia en:
-Identidad de la locación
-Relaciones espaciales
-Lógica física
-Encontrar áreas abiertas naturales adecuadas y reorganizarlas en un recinto ceremonial con:
-Escala cinematográfica
-Profundidad espacial
-Composición única
-
-V. Escena de la ceremonia y utilería central
-El lugar de la ceremonia solo necesita:
-Una mesa de piedra antigua
-Dos amuletos de contrato matrimonial de jade unidos por una cuerda roja
-Amuletos de contrato matrimonial de jade
-Dos colgantes de jade
-Una cuerda de seda roja que conecta ambos colgantes
-Mantener la textura real del jade
-Mantener la estructura física real de la cuerda roja
-Otros elementos clave de utilería
-Sello antiguo del líder de la secta que simboliza autoridad
-Pequeño equipaje ya empacado por la Hermana Menor
-
-VI. Fondo vivo y neutralidad narrativa
-El fondo siempre vibrante.
-Movimiento natural
-El viento soplando naturalmente las mangas y la vegetación
-Las nubes moviéndose lentamente
-La niebla de la montaña fluyendo según el terreno
-Los cuerpos de agua manteniendo su movimiento donde aparezcan en las imágenes de referencia
-Los edificios lejanos conservando la perspectiva correcta
-Los reflejos cambiando de forma natural según el ángulo de la cámara
-La velocidad y amplitud del movimiento ambiental deben variar según la profundidad de campo.
-Principios de narrativa ambiental
-Todo el movimiento del fondo existe de manera independiente a la trama.
-El entorno nunca debe:
-Crear conflictos
-Desencadenar giros
-Tomar decisiones en lugar de los personajes
-
-VII. Estructura completa del guion gráfico de 15 segundos
-0–5s | Primer plano: Plano general | Rechazo público
-Diseño del plano
-La cámara hace una panorámica lenta por el antiguo recinto ceremonial.
-Establecer relaciones espaciales claras a través de estas capas:
-Mesa de piedra en primer plano
-Personajes en el plano medio
-Arquitectura imponente, montañas u otros puntos de referencia clave de las imágenes de referencia a lo lejos
-Posiciones iniciales de los personajes
-Maestro Anciano
-De pie detrás de la mesa de piedra ceremonial.
-Cultivador masculino
-Con túnica azul oscuro, de pie a un lado de la mesa de piedra.
-Sosteniendo uno de los amuletos de contrato matrimonial de jade en la mano.
-Hermana Menor de túnica verde
-De pie al otro lado de la mesa de piedra.
-Hermana Mayor Inmortal de la Espada de túnica blanca
-De pie varios pasos detrás de la Hermana Menor, en diagonal, observando en silencio.
-Estado de la utilería central
-Una cuerda de seda roja conecta los dos colgantes de jade.
-Inicio de la ceremonia
-El Maestro anuncia solemnemente:
-[Maestro] "Contrato matrimonial de diez años, hoy lo cumplimos."
-La Hermana Menor baja la mirada hacia la cuerda de seda roja.
-No extiende la mano para tomar su colgante de jade.
-En cambio, levanta lentamente la cabeza para mirar al hombre frente a ella.
-Primera capa del giro
-[Hermana Menor] "No lo haré."
-La ceremonia, hasta entonces solemne, queda de pronto sumida en el silencio.
-Reacción del cultivador masculino
-La cámara captura la sorpresa genuina del cultivador masculino en ese instante.
-Requisitos de actuación y ritmo
-Sin gritos exagerados
-Sin multitudes rodeándolos de repente
-Crear suspenso a través de las pausas de los personajes y el silencio espacial.
-5–10s | Segundo plano: Plano medio corto | La verdadera divergencia
-Requisitos de continuidad
-Mantener exactamente idénticos:
-Escenario
-Personajes
-Vestimenta
-Posiciones de los colgantes de jade
-Diseño de cámara
-La cámara cambia a un plano medio conjunto de ambos personajes en perfil de tres cuartos.
-Reacción del cultivador masculino
-El cultivador masculino no se enoja.
-Tampoco cuestiona de repente si ella cambió de parecer.
-Mira seriamente a la Hermana Menor, como si intuyera vagamente la respuesta.
-Pregunta en voz baja:
-[Cultivador masculino] "¿Aun así bajarás de la montaña?"
-Respuesta de la Hermana Menor
-La Hermana Menor lo mira, igual de tranquila:
-[Hermana Menor] "¿Y tú seguirás custodiando la montaña?"
-Emoción y miradas
-La cámara utiliza miradas sutiles para revelar las decisiones distintas que llevan tiempo tomando.
-Contraste visual de la utilería
-Junto al cultivador masculino
-Descansa el sello antiguo del líder de la secta que simboliza autoridad.
-A los pies de la Hermana Menor
-Está el pequeño equipaje ya empacado.
-Relación visual
-Estos dos objetos forman un contraste visual claro:
-Uno decidió quedarse.
-La otra está lista para viajar lejos.
-Ninguno está equivocado.
-Simplemente ya no pueden caminar hacia el mismo destino.
-Estado de la Hermana Mayor y del entorno
-La Hermana Mayor de túnica blanca nunca interviene.
-El fondo continúa con el movimiento natural e independiente de:
-Viento
-Agua
-Nubes y niebla
-Vegetación
-Telas
-Reflejos
-10–15s | Tercer plano: Primer plano | Diez años y el resto de la vida
-Última pregunta del Maestro
-El Maestro hace la última pregunta desde un costado de la mesa de piedra:
-[Maestro] "¿Y qué hay de esos diez años?"
-Primer plano de la Hermana Menor
-La cámara cambia a un primer plano de la Hermana Menor.
-No responde de inmediato.
-Un brillo muy leve de humedad en los ojos, pero sin lágrimas.
-Voz firme, cargada de una renuencia auténtica.
-[Hermana Menor] "Los atesoraré."
-Pausa emocional
-Pausa completa de medio tiempo.
-Luego pronuncia la frase final:
-[Hermana Menor] "No puedo pagar el pasado con el resto de mi vida."
-Verdadero clímax emocional: Desatar la cuerda roja
-La cámara se desplaza rápida y naturalmente hacia las manos del cultivador masculino.
-Él baja la mirada hacia la cuerda de seda roja que une los dos colgantes de jade.
-Tras dudar un instante, no arranca la cuerda con rabia.
-En cambio, desata lentamente el nudo con los dedos.
-Requisito estricto de acción
-Esta acción debe ser real, clara y completa.
-Separación de los colgantes de jade
-El cultivador masculino coloca suavemente el colgante de jade de la Hermana Menor de vuelta sobre la mesa.
-Se queda con el otro para él.
-Ambos colgantes de jade quedan intactos.
-Solo que ya no están conectados.
-Reacciones finales de los personajes
-La Hermana Menor lo mira.
-El hombre levanta la vista y le da un asentimiento casi imperceptible.
-Este gesto expresa:
-Comprensión
-Lamentación
-Composición cinematográfica final
-La imagen final se detiene en los dos colgantes de jade sobre la mesa:
-Intactos, pero ya separados.
-Detrás, con poca profundidad de campo:
-Dos personas manteniendo una distancia prudente
-La Hermana Mayor de pie detrás de la Hermana Menor
-Los ojos de la Hermana Mayor, tranquilos y comprensivos
-Restricciones del final
-Nada de:
-Abrazos
-Reconciliaciones repentinas
-Villanos
-Veredictos de victoria o derrota
-Resolución emocional final
-Diez años no fueron en vano, solo que ya no hay necesidad de recorrer el camino juntos.
-
-VIII. Requisitos de ejecución para Seedance 2.0 Mini
-Especificaciones básicas
-Modelo: Seedance 2.0 Mini
-Duración total estricta: 15 segundos
-Relación de aspecto: 16:9 horizontal
-Tres planos cinematográficos continuos, claros y narrativamente distintos
-Tres funciones narrativas
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2117112122387918848/img/FNMfOO9Jg3bQP4IZ.jpg" width="600" alt="Seedance 2.0 Mini: Prompt de escena de rechazo en romance Xianxia">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=13374)**
-
-**Autor:** [Soran](https://x.com/Soranlan) | **Fuente:** [Link](https://x.com/Soranlan/status/2117112170395914599) | **Publicado:** Nov 2, 2026
-
----
-### Seedance 2.0 Fast: Lluvia en la Dinastía Qing
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un video comparativo que incluye Seedance 2.0 Fast. El prompt es para una generación i2v (imagen a video) de una escena nocturna de lluvia en un palacio de la dinastía Qing, con elementos ASMR.
-
-#### 📝 Prompt
-
-```
-Lluvia nocturna en un palacio de la dinastía Qing × Lluvia golpeando hojas y flores de loto × Peces koi y croar de ranas × Relámpagos y truenos lejanos × Cantante de ópera del Jardín de los Perales ensayando melodías × ASMR inmersivo
-
-8 segundos, formato vertical 9:16, visuales cinematográficos realistas.
-
-Noche de verano, llovizna fina cayendo sobre el corredor junto al agua de un palacio de la dinastía Qing. Grandes hojas de loto crecen en el estanque junto al corredor; cerca de ellas, una flor de loto rosa pálido entreabierta, con los pétalos mojados por la lluvia. Un farolillo de palacio amarillo cálido cuelga bajo el alero, su luz se refleja en la poco profunda canaleta de piedra y en el agua del estanque.
-
-Una hoja de loto cercana está ligeramente inclinada, con agua de lluvia acumulada en la superficie. Una pequeña rana descansa agachada sobre una piedra al borde del estanque; de vez en cuando, un pez koi apenas se distingue en las aguas poco profundas, con su silueta parcialmente oculta por las gotas de lluvia y las sombras del farol.
-
-Los oscuros pilares de madera y los corredores a lo lejos se pierden en la noche lluviosa. Al final del pasillo se encuentra el Jardín de los Perales, tenuemente iluminado; una figura humana borrosa se proyecta sobre el papel de arroz de la ventana, moviéndose lentamente de forma ocasional. Los tonos azul frío de la noche se funden de manera natural con la luz cálida del farol del palacio.
-
-La cámara se sitúa cerca de las hojas de loto y la superficie del agua, avanzando con extrema lentitud desde un ángulo bajo. Las hojas de loto cercanas, las flores y el agua que gotea del alero se ven con total nitidez; una parte del farol del palacio aparece en la zona superior del encuadre, mientras que las sombras de la ventana del lejano Jardín de los Perales lucen difusas. El encuadre presenta capas muy definidas, conservando espacios oscuros y silenciosos.
-
-0-2 s: La llovizna cae sin cesar sobre las hojas de loto, produciendo un suave y denso murmullo. Las hojas tiemblan levemente mientras las gotas se acumulan en su superficie. El agua del alero cae de forma intermitente en la canaleta de piedra, generando un claro sonido de goteo. Una pequeña rana croa una o dos veces al borde del estanque.
-
-2-4 s: Desde el lejano Jardín de los Perales llega el sonido de un cantante de ópera ensayando una melodía; una voz suave y melodiosa, sin letra, atraviesa la cortina de lluvia. La figura borrosa tras el papel de la ventana levanta lentamente la manga. Un pez koi nada despacio bajo la hoja de loto, con su silueta parcialmente oculta por las ondas del agua y el reflejo del farol del palacio.
-
-4-6 s: Un breve destello ilumina el cielo lejano; un relámpago blanco y frío resalta las hojas de loto, las flores y los hilos de lluvia, para luego volver a los tonos cálidos y oscuros de la noche. Tras una corta pausa, se escucha a lo lejos un trueno grave y prolongado, y la voz del cantante se vuelve momentáneamente más tenue.
-
-6-8 s: El trueno se desvanece poco a poco. El agua acumulada en la hoja de loto inclinada se desliza por el borde hacia el estanque, creando un sonido acuático suave y continuo, mientras las ondas atraviesan el reflejo del farol. A lo lejos, el canto apenas se percibe y la rana vuelve a croar al borde del estanque. El sonido de la lluvia continúa hasta el final.
-
-[Diseño sonoro]
-
-A lo largo de todo el clip, predominan el denso murmullo de la lluvia al golpear las hojas de loto cercanas y el goteo intermitente del agua del alero al caer en la canaleta de piedra. El sonido del agua deslizándose desde la hoja de loto hacia el estanque es nítido y suave.
-
-El croar de la rana proviene del borde del estanque; el canto de ópera, del lejano Jardín de los Perales; y los truenos, de un cielo aún más distante. Los sonidos se alternan de forma natural, con una clara sensación de proximidad y lejanía, manteniendo la espacialidad de una auténtica noche de lluvia.
-
-Primero aparece el relámpago y después retumba el trueno. Las gotas de lluvia, el temblor de las hojas, el fluir del agua y las ondas están perfectamente sincronizados con el audio. Los truenos son graves y suaves, ideales para una escucha relajada.
-
-El canto de ópera es delicado y envolvente, presentado como un tarareo sin letra. No hay acompañamiento instrumental, ni música de fondo, ni diálogos.
-
-Los movimientos de las hojas de loto, las flores, las ranas, los peces koi y las figuras lejanas son pausados y naturales. El pez koi permanece bajo el agua, las sombras de la ventana son borrosas y difusas, y el agua de lluvia, los reflejos y las luces resultan realistas y verosímiles.
-
-Firma fija en la esquina inferior izquierda: primero un punto sólido azul oscuro y luego "DeepBlue" escrito a mano en color blanco. La firma es pequeña y nítida, mantiene una posición y estilo estables durante todo el video, no oculta el sujeto principal, 9:16
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116920195797090304/img/Jkq7FrCBlu0TsKjW.jpg" width="600" alt="Seedance 2.0 Fast: Lluvia en la Dinastía Qing">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=13372)**
-
-**Autor:** [DeepBlue深藍](https://x.com/DeepBlueX0) | **Fuente:** [Link](https://x.com/DeepBlueX0/status/2116920472541536761) | **Publicado:** Nov 1, 2026
-
----
-### Video de Renovación de Suelo de Terrazo con Corchos de Vino
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt para generar un video vertical que muestra la transformación de corchos de vino en un suelo de terrazo pulido en un dormitorio, destacando los pasos de renovación y visuales de construcción satisfactorios.
-
-#### 📝 Prompt
-
-```
-Video vertical dentro de una habitación blanca vacía con una ventana muy iluminada y una puerta abierta. Un hombre con overol azul y camiseta oscura rastrilla un enorme montón de corchos de vino en el piso, esparciéndolos hasta formar una capa plana y uniforme que cubre toda la habitación. Luego, una mujer con overol rojo vierte resina epoxi blanca y espesa desde una cubeta grande; el líquido brillante se desliza sobre los corchos e inunda todo el piso hasta sumergirlo por completo. Después, unos trabajadores con chalecos de seguridad amarillo neón empujan pesadas pulidoras de piso de un lado a otro, lijando la superficie ya endurecida para revelar poco a poco un espectacular patrón tipo terrazo: trozos de corcho suspendidos en resina blanca y lisa, pulida hasta lograr un brillo de espejo. Por último, dos hombres vestidos de negro entran con la base de madera de una cama, la arman y le colocan un colchón, almohadas blancas y una manta beige. El video termina con una toma amplia del dormitorio terminado, donde el reluciente piso de terrazo de corcho refleja la luz del día. Estilo timelapse de remodelación satisfactoria, transiciones fluidas, luz natural, texturas realistas y esa vibra de construcción extrañamente satisfactoria.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116909245618692096/img/TSdqYOWdWORLvaVM.jpg" width="600" alt="Video de Renovación de Suelo de Terrazo con Corchos de Vino">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=13369)**
-
-**Autor:** [Ruslan Ai](https://x.com/Ruslanchain) | **Fuente:** [Link](https://x.com/Ruslanchain/status/2116909289004556620) | **Publicado:** Nov 1, 2026
-
----
-### Video de bricolaje: lavabo de hormigón hecho con un paraguas
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt para generar un video tutorial realista de bricolaje que muestra cómo convertir un paraguas en un lavabo de hormigón utilizando cemento y piedras.
-
-#### 📝 Prompt
-
-```
-Un video realista de manualidades DIY grabado en un patio techado, con una pared de concreto y una puerta de madera al fondo. Un hombre con camiseta gris y gorra negra está de pie junto a una mesa rústica de madera donde hay un paraguas amarillo abierto, colocado boca abajo como si fuera un molde. Con una espátula, saca cemento gris húmedo de una cubeta negra para llenar el paraguas; luego hunde un tazón de plástico azul en el centro del cemento y alisa la superficie con las manos. Coloca piedras lisas de río formando un anillo alrededor del tazón, presionándolas contra el cemento. Una vez que el concreto fragua, retira el tazón azul, despega la tela amarilla del paraguas y deja al descubierto un lavabo octagonal de concreto con piedras incrustadas en el borde. Con un taladro inalámbrico perfora el desagüe en el centro, limpia el lavamanos con un trapo, pinta todo el lavabo de blanco con brocha y después aplica pintura en aerosol azul brillante sobre las piedras. La escena final muestra el lavabo de diseño ya instalado en un baño moderno con llave cromada, donde el hombre se lava las manos bajo el chorro de agua. Cámara en mano con movimientos suaves, luz natural, transformación satisfactoria, estilo tutorial.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116908302177009664/img/tOwAXa3GGvl22aee.jpg" width="600" alt="Video de bricolaje: lavabo de hormigón hecho con un paraguas">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=13366)**
-
-**Autor:** [Linh Ai](https://x.com/Rajrana12476547) | **Fuente:** [Link](https://x.com/Rajrana12476547/status/2116908365364256821) | **Publicado:** Nov 1, 2026
-
----
-### Video de Piso de Terrazo de Mármol en Dormitorio
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt para crear un video vertical que muestra el proceso de convertir canicas de vidrio en un suelo de terrazo brillante dentro de un dormitorio moderno.
-
-#### 📝 Prompt
-
-```
-Video vertical, estilo fotorrealista, habitación vacía y luminosa con paredes blancas y un ventanal grande. Un hombre con overol de mezclilla azul rastrilla una enorme pila de miles de canicas de vidrio de colores sobre un piso de concreto, esparciéndolas de manera uniforme por toda la habitación. Una mujer con overol rojo vierte una espesa resina epoxi autonivelante blanca desde una cubeta grande sobre las canicas; el líquido brillante fluye y las cubre, mientras ella lo distribuye suavemente con un rastrillo. Un trabajador con chaleco de seguridad amarillo usa una pulidora de pisos para lijar y pulir la superficie, revelando un espectacular piso brillante con puntos redondos de canicas de colores incrustados como piedras pulidas. Dos trabajadores arman una base de cama de madera, colocan un colchón blanco y visten la cama con ropa de cama blanca, almohadas beige y una manta decorativa. Toma amplia final de una acogedora habitación moderna con su singular piso de terrazo de mármol que resplandece bajo la luz natural del día. Movimientos de cámara fluidos, transformación de remodelación satisfactoria, ambiente ASMR, iluminación realista, alto nivel de detalle.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2116880395002138624/img/jdcG-y-8Shk4Au0c.jpg" width="600" alt="Video de Piso de Terrazo de Mármol en Dormitorio">
-
-**[🎬 Ver video →](https://youmind.com/es-419/seedance-2-0-prompts?id=13370)**
-
-**Autor:** [Ruslan Ai](https://x.com/Ruslanchain) | **Fuente:** [Link](https://x.com/Ruslanchain/status/2116880438530572368) | **Publicado:** Nov 1, 2026
-
----
 ---
 
 ## 📚 Más prompts disponibles
@@ -9639,6 +9335,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-11-27T03:04:17.635Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-11-28T06:46:18.950Z</sub>
 
 </div>
